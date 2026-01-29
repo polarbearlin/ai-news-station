@@ -22,6 +22,12 @@ def generate_html():
     news_items = news_data.get('news', []) if isinstance(news_data, dict) else []
     
     github_items = load_data('github.json')
+
+    tools_data = load_data('tools.json')
+    tools_items = tools_data.get('tools', []) if isinstance(tools_data, dict) else []
+
+    showcase_data = load_data('showcase.json')
+    showcase_items = showcase_data.get('showcase', []) if isinstance(showcase_data, dict) else []
     
     # Prepare template environment
     template_dir = os.path.join(BASE_DIR, 'templates')
@@ -37,6 +43,8 @@ def generate_html():
         'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'),
         'news_items': news_items,
         'github_items': github_items,
+        'tools_items': tools_items,
+        'showcase_items': showcase_items,
     }
     
     # Render

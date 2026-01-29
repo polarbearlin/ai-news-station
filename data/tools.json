@@ -1,0 +1,50 @@
+{
+    "tools": [
+        {
+            "id": "tapnow",
+            "name": "TapNow",
+            "description": "AI visual content creation engine for e-commerce and commercial campaigns.",
+            "tags": [
+                "Visual Creation",
+                "E-commerce",
+                "Ad Tech"
+            ],
+            "url": "https://tapnow.ai",
+            "icon": "🎨"
+        },
+        {
+            "id": "lovart",
+            "name": "Lovart",
+            "description": "AI design agent that automates the creative workflow from concept to final visual.",
+            "tags": [
+                "Design Agent",
+                "Image Gen",
+                "Video Gen"
+            ],
+            "url": "https://lovart.ai",
+            "icon": "✨"
+        },
+        {
+            "id": "midjourney",
+            "name": "Midjourney",
+            "description": "Generative Artificial Intelligence program and service that generates images from natural language descriptions.",
+            "tags": [
+                "Image Gen",
+                "Art"
+            ],
+            "url": "https://midjourney.com",
+            "icon": "⛵"
+        },
+        {
+            "id": "chatgpt",
+            "name": "ChatGPT",
+            "description": "Conversational AI model developed by OpenAI.",
+            "tags": [
+                "LLM",
+                "Chatbot"
+            ],
+            "url": "https://chat.openai.com",
+            "icon": "🤖"
+        }
+    ]
+}
