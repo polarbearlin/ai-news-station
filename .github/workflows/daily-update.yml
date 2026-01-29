@@ -1,0 +1,52 @@
+name: Daily AI News Update
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch Data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python src/fetch_news.py
+          python src/fetch_github.py
+
+      - name: Generate Site
+        run: |
+          python src/generate_site.py
+
+      # Deploy to EdgeOne Pages (using Tencent Cloud Action or any static deployer)
+      # Since there isn't a direct "official" EdgeOne Pages action widely known, 
+      # we usually use a general CLI or specific deployment script.
+      # For now, we will simulate the deployment or assume the user has a specific action in mind.
+      # If EdgeOne Pages supports Git integration directly (like Vercel/Netlify), 
+      # we just need to push the 'dist' folder to a branch like 'gh-pages' or similar.
+      # Here we demonstrate pushing to 'gh-pages' branch which EdgeOne can likely pull from.
+      
+      - name: Deploy to GitHub Pages / EdgeOne Source
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages  # EdgeOne can be configured to watch this branch

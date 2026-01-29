@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-01-29 10:21:35",
+  "news": [
+    {
+      "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "source": "Hacker News",
+      "time": "2026-01-29 05:59",
+      "score": 308,
+      "comments": 161
+    },
+    {
+      "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
+      "url": "https://quesma.com/blog/introducing-otel-bench/",
+      "source": "Hacker News",
+      "time": "2026-01-29 07:37",
+      "score": 79,
+      "comments": 47
+    },
+    {
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "source": "Hacker News",
+      "time": "2026-01-29 08:12",
+      "score": 206,
+      "comments": 115
+    }
+  ]
+}

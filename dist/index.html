@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Station - Daily Update</title>
+    <style>
+        :root {
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+            --text-primary: #1a1a1a;
+            --text-secondary: #666666;
+            --accent: #2563eb;
+            --border: #e5e7eb;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        h1 {
+            color: var(--text-primary);
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .timestamp {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        @media (min-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        .section-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 1.5rem;
+            color: var(--text-primary);
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid var(--border);
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 0 0 0.5rem 0;
+        }
+
+        .card-title a {
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .card-title a:hover {
+            color: var(--accent);
+        }
+
+        .card-meta {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .tag {
+            background-color: #eff6ff;
+            color: var(--accent);
+            padding: 0.2rem 0.6rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .gh-desc {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin: 0.5rem 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            padding: 2rem;
+            color: var(--text-secondary);
+            border-top: 1px solid var(--border);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>AI News Station</h1>
+            <div class="timestamp">Last Updated: 2026-01-29 10:21:37 UTC</div>
+            <p>Curated Daily AI Intelligence & Trends</p>
+        </header>
+
+        <div class="grid">
+            <!-- News Section -->
+            <section>
+                <div class="section-title">
+                    <span>📰</span> Global AI Headlines
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://marginlab.ai/trackers/claude-code/" target="_blank">Claude Code Daily Benchmarks for Degradation Tracking</a>
+                    </h3>
+                    <div class="card-meta">
+                        <span>Hacker News</span>
+                        <span>2026-01-29 05:59</span>
+                        <span>🔥 308</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://quesma.com/blog/introducing-otel-bench/" target="_blank">OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)</a>
+                    </h3>
+                    <div class="card-meta">
+                        <span>Hacker News</span>
+                        <span>2026-01-29 07:37</span>
+                        
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/" target="_blank">US cybersecurity chief leaked sensitive government files to ChatGPT: Report</a>
+                    </h3>
+                    <div class="card-meta">
+                        <span>Hacker News</span>
+                        <span>2026-01-29 08:12</span>
+                        <span>🔥 206</span>
+                    </div>
+                </div>
+                
+            </section>
+
+            <!-- GitHub Section -->
+            <section>
+                <div class="section-title">
+                    <span>👨‍💻</span> GitHub Hot Repos
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/luccast/crabwalk" target="_blank">luccast/crabwalk</a>
+                    </h3>
+                    <div class="gh-desc">🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.</div>
+                    <div class="card-meta">
+                        <span class="tag">TypeScript</span>
+                        <span>⭐ 458</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/vueuse/skills" target="_blank">vueuse/skills</a>
+                    </h3>
+                    <div class="gh-desc">Agent Skills for VueUse</div>
+                    <div class="card-meta">
+                        <span class="tag">TypeScript</span>
+                        <span>⭐ 257</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/nhevers/claude-recall" target="_blank">nhevers/claude-recall</a>
+                    </h3>
+                    <div class="gh-desc">Long-term memory layer for MoltBot & Claude Code that learns and recalls your project context automatically</div>
+                    <div class="card-meta">
+                        <span class="tag">TypeScript</span>
+                        <span>⭐ 246</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/six2dez/burp-ai-agent" target="_blank">six2dez/burp-ai-agent</a>
+                    </h3>
+                    <div class="gh-desc">Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more</div>
+                    <div class="card-meta">
+                        <span class="tag">Kotlin</span>
+                        <span>⭐ 208</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/embedding-shapes/one-agent-one-browser" target="_blank">embedding-shapes/one-agent-one-browser</a>
+                    </h3>
+                    <div class="gh-desc">One from scratch browser built by one human and one agent, working hand in hand</div>
+                    <div class="card-meta">
+                        <span class="tag">Rust</span>
+                        <span>⭐ 184</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/coollabsio/jean" target="_blank">coollabsio/jean</a>
+                    </h3>
+                    <div class="gh-desc">Run AI agents parallel in isolated workspaces.</div>
+                    <div class="card-meta">
+                        <span class="tag">TypeScript</span>
+                        <span>⭐ 170</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/divyaprakash0426/autoshorts" target="_blank">divyaprakash0426/autoshorts</a>
+                    </h3>
+                    <div class="gh-desc">Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.</div>
+                    <div class="card-meta">
+                        <span class="tag">Python</span>
+                        <span>⭐ 108</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/oleeai/gen-ai-101" target="_blank">oleeai/gen-ai-101</a>
+                    </h3>
+                    <div class="gh-desc">This repository provides a comprehensive starter kit for developers, students, and educators, it showcases practical examples for building intelligent chatbots, handling multi-turn conversations, streaming AI responses and processing images. </div>
+                    <div class="card-meta">
+                        <span class="tag">JavaScript</span>
+                        <span>⭐ 96</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/jau123/nanobanana-trending-prompts" target="_blank">jau123/nanobanana-trending-prompts</a>
+                    </h3>
+                    <div class="gh-desc">1,100+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1100+ X热门AI生图prompt分享贴，每周更新</div>
+                    <div class="card-meta">
+                        <span class="tag">Code</span>
+                        <span>⭐ 89</span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h3 class="card-title">
+                        <a href="https://github.com/jamiepine/voicebox" target="_blank">jamiepine/voicebox</a>
+                    </h3>
+                    <div class="gh-desc">The open-source voice synthesis studio.</div>
+                    <div class="card-meta">
+                        <span class="tag">TypeScript</span>
+                        <span>⭐ 84</span>
+                    </div>
+                </div>
+                
+            </section>
+        </div>
+
+        <footer>
+            <p>Powered by GitHub Actions & EdgeOne Pages</p>
+        </footer>
+    </div>
+</body>
+
+</html>

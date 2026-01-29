@@ -1,0 +1,92 @@
+[
+  {
+    "name": "crabwalk",
+    "full_name": "luccast/crabwalk",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
+    "url": "https://github.com/luccast/crabwalk",
+    "stars": 458,
+    "language": "TypeScript",
+    "updated_at": "2026-01-29T18:09:43Z"
+  },
+  {
+    "name": "skills",
+    "full_name": "vueuse/skills",
+    "description": "Agent Skills for VueUse",
+    "url": "https://github.com/vueuse/skills",
+    "stars": 257,
+    "language": "TypeScript",
+    "updated_at": "2026-01-29T16:42:07Z"
+  },
+  {
+    "name": "claude-recall",
+    "full_name": "nhevers/claude-recall",
+    "description": "Long-term memory layer for MoltBot & Claude Code that learns and recalls your project context automatically",
+    "url": "https://github.com/nhevers/claude-recall",
+    "stars": 246,
+    "language": "TypeScript",
+    "updated_at": "2026-01-29T18:20:26Z"
+  },
+  {
+    "name": "burp-ai-agent",
+    "full_name": "six2dez/burp-ai-agent",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
+    "url": "https://github.com/six2dez/burp-ai-agent",
+    "stars": 208,
+    "language": "Kotlin",
+    "updated_at": "2026-01-29T18:20:31Z"
+  },
+  {
+    "name": "one-agent-one-browser",
+    "full_name": "embedding-shapes/one-agent-one-browser",
+    "description": "One from scratch browser built by one human and one agent, working hand in hand",
+    "url": "https://github.com/embedding-shapes/one-agent-one-browser",
+    "stars": 184,
+    "language": "Rust",
+    "updated_at": "2026-01-29T18:06:25Z"
+  },
+  {
+    "name": "jean",
+    "full_name": "coollabsio/jean",
+    "description": "Run AI agents parallel in isolated workspaces.",
+    "url": "https://github.com/coollabsio/jean",
+    "stars": 170,
+    "language": "TypeScript",
+    "updated_at": "2026-01-29T16:29:54Z"
+  },
+  {
+    "name": "autoshorts",
+    "full_name": "divyaprakash0426/autoshorts",
+    "description": "Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.",
+    "url": "https://github.com/divyaprakash0426/autoshorts",
+    "stars": 108,
+    "language": "Python",
+    "updated_at": "2026-01-29T17:16:01Z"
+  },
+  {
+    "name": "gen-ai-101",
+    "full_name": "oleeai/gen-ai-101",
+    "description": "This repository provides a comprehensive starter kit for developers, students, and educators, it showcases practical examples for building intelligent chatbots, handling multi-turn conversations, streaming AI responses and processing images. ",
+    "url": "https://github.com/oleeai/gen-ai-101",
+    "stars": 96,
+    "language": "JavaScript",
+    "updated_at": "2026-01-29T13:34:11Z"
+  },
+  {
+    "name": "nanobanana-trending-prompts",
+    "full_name": "jau123/nanobanana-trending-prompts",
+    "description": "1,100+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1100+ X热门AI生图prompt分享贴，每周更新",
+    "url": "https://github.com/jau123/nanobanana-trending-prompts",
+    "stars": 89,
+    "language": null,
+    "updated_at": "2026-01-29T17:41:05Z"
+  },
+  {
+    "name": "voicebox",
+    "full_name": "jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio.",
+    "url": "https://github.com/jamiepine/voicebox",
+    "stars": 84,
+    "language": "TypeScript",
+    "updated_at": "2026-01-29T18:15:11Z"
+  }
+]
