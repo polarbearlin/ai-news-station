@@ -45,6 +45,18 @@
             ],
             "url": "https://chat.openai.com",
             "icon": "🤖"
+        },
+        {
+            "id": "gridsplitter",
+            "name": "GridSplitter 9000",
+            "description": "Powerful image grid splitting tool for creating multi-image posts.",
+            "tags": [
+                "Image Tool",
+                "Utility",
+                "React"
+            ],
+            "url": "http://gridsplitter.my199601.top",
+            "icon": "🖼️"
         }
     ]
 }
