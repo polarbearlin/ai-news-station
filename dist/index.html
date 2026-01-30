@@ -1,577 +1,639 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Hub - News, Tools & Inspiration</title>
+    <title>AI 资讯站 (AI News Station)</title>
     <style>
         :root {
-            --bg-color: #f8f9fa;
+            --bg-color: #f2f2f2;
+            /* Weibo light gray bg */
             --card-bg: #ffffff;
-            --text-primary: #1a1a1a;
-            --text-secondary: #666666;
-            --accent: #2563eb;
-            --accent-hover: #1d4ed8;
-            --border: #e5e7eb;
-            --success: #10b981;
+            --text-primary: #333333;
+            --text-secondary: #808080;
+            --accent: #ff8200;
+            /* Weibo Orange */
+            --link-color: #eb7350;
+            --border: #e6e6e6;
+            --nav-height: 60px;
         }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            margin: 0;
-            padding: 0;
             background-color: var(--bg-color);
             color: var(--text-primary);
-            line-height: 1.6;
+            margin: 0;
+            padding-top: calc(var(--nav-height) + 20px);
         }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-
-        /* Header & Nav */
-        header {
-            text-align: center;
-            margin-bottom: 2rem;
-            padding-bottom: 1rem;
-            border-bottom: 1px solid var(--border);
-        }
-
-        h1 {
-            color: var(--text-primary);
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-            background: linear-gradient(135deg, #2563eb, #7c3aed);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .timestamp {
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-            margin-bottom: 1.5rem;
-        }
-
-        .nav-tabs {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin-bottom: 2rem;
-        }
-
-        .nav-btn {
-            background: none;
-            border: none;
-            padding: 0.75rem 1.5rem;
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-secondary);
-            cursor: pointer;
-            border-radius: 99px;
-            transition: all 0.2s;
-        }
-
-        .nav-btn:hover {
-            color: var(--accent);
-            background: rgba(37, 99, 235, 0.05);
-        }
-
-        .nav-btn.active {
-            background: var(--accent);
-            color: white;
-            box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
-        }
-
-        /* Views */
-        .view-section {
-            display: none;
-            animation: fadeIn 0.3s ease-in-out;
-        }
-
-        .view-section.active {
-            display: block;
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(10px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        /* Grid Layouts */
-        .grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 2rem;
-        }
-
-        @media (min-width: 768px) {
-            .grid-2 {
-                grid-template-columns: 1fr 1fr;
-            }
-
-            .grid-3 {
-                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            }
-
-            .grid-4 {
-                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            }
-        }
-
-        /* Standard Card */
-        .card {
-            background: var(--card-bg);
-            border-radius: 12px;
-            padding: 1.5rem;
+        /* Top Navigation */
+        .navbar {
+            height: var(--nav-height);
+            background: #fff;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-            border: 1px solid var(--border);
-            text-decoration: none;
-            color: inherit;
-            display: block;
-        }
-
-        a.card {
-            text-decoration: none;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
-            border-color: var(--accent);
-        }
-
-        /* Section Titles */
-        .section-title {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
             display: flex;
             align-items: center;
-            gap: 0.5rem;
-            margin-bottom: 1.5rem;
+            justify-content: center;
+        }
+
+        .nav-content {
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+        }
+
+        .logo {
             font-size: 1.5rem;
-            color: var(--text-primary);
-            font-weight: 700;
-        }
-
-        /* News & GitHub Specifics */
-        .card-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin: 0 0 0.5rem 0;
+            font-weight: bold;
             color: var(--text-primary);
         }
 
-        .card:hover .card-title {
+        .logo span {
             color: var(--accent);
         }
 
-        .card-meta {
-            font-size: 0.85rem;
-            color: var(--text-secondary);
+        .search-bar {
+            background: #f2f2f2;
+            border-radius: 20px;
+            padding: 5px 15px;
             display: flex;
-            gap: 1rem;
             align-items: center;
-            flex-wrap: wrap;
-            margin-top: auto;
+            width: 300px;
         }
 
-        .tag {
-            background-color: #eff6ff;
+        .search-bar input {
+            border: none;
+            background: transparent;
+            outline: none;
+            width: 100%;
+            padding: 5px;
+        }
+
+        /* Main Layout */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 150px 1fr 300px;
+            /* Left, Center, Right */
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .left-sidebar,
+            .right-sidebar {
+                display: none;
+            }
+        }
+
+        /* Left Sidebar (Nav) */
+        .left-sidebar {
+            position: sticky;
+            top: 90px;
+            height: fit-content;
+        }
+
+        .menu-item {
+            display: block;
+            padding: 10px 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-primary);
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .menu-item:hover,
+        .menu-item.active {
             color: var(--accent);
-            padding: 0.2rem 0.6rem;
-            border-radius: 6px;
-            font-size: 0.75rem;
-            font-weight: 500;
         }
 
-        .gh-desc {
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-            margin: 0.5rem 0 1rem 0;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        /* Tools Directory Styles */
-        .tool-card {
+        /* Center Feed */
+        .main-feed {
             display: flex;
             flex-direction: column;
-            height: 100%;
+            gap: 15px;
         }
 
-        .tool-header {
+        .feed-card {
+            background: var(--card-bg);
+            border-radius: 4px;
+            padding: 20px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        .card-header {
             display: flex;
             align-items: center;
-            gap: 1rem;
-            margin-bottom: 1rem;
+            margin-bottom: 10px;
         }
 
-        .tool-icon {
-            font-size: 2rem;
-            background: #f3f4f6;
-            width: 50px;
-            height: 50px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 10px;
-        }
-
-        .tool-name {
-            font-size: 1.25rem;
-            font-weight: 700;
-        }
-
-        .tool-desc {
-            font-size: 0.95rem;
-            color: var(--text-secondary);
-            margin-bottom: 1rem;
-            flex-grow: 1;
-        }
-
-        /* Showcase Gallery Styles */
-        .gallery-card {
-            padding: 0;
+        .avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #ddd;
+            margin-right: 10px;
             overflow: hidden;
-            position: relative;
-            border: none;
         }
 
-        .gallery-img {
+        .avatar img {
             width: 100%;
-            height: 250px;
+            height: 100%;
             object-fit: cover;
-            display: block;
-            transition: transform 0.5s;
         }
 
-        .gallery-card:hover .gallery-img {
+        .user-info .username {
+            font-weight: bold;
+            color: #333;
+            font-size: 14px;
+        }
+
+        .user-info .time {
+            color: #939393;
+            font-size: 12px;
+            margin-top: 2px;
+        }
+
+        .content-text {
+            font-size: 15px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .content-images {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 5px;
+            margin-bottom: 10px;
+        }
+
+        .content-image-item {
+            aspect-ratio: 1/1;
+            background: #eee;
+            border-radius: 4px;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .content-image-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.2s;
+        }
+
+        .content-image-item:hover img {
             transform: scale(1.05);
         }
 
-        .gallery-overlay {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
-            padding: 1.5rem 1rem 1rem;
-            color: white;
-            opacity: 0;
-            transition: opacity 0.3s;
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 10px;
+            border-top: 1px solid #f2f2f2;
+            color: #808080;
+            font-size: 12px;
         }
 
-        .gallery-card:hover .gallery-overlay {
-            opacity: 1;
+        .action-btn {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 5px;
         }
 
-        .gallery-title {
-            font-size: 1rem;
-            font-weight: 600;
+        .action-btn:hover {
+            color: var(--accent);
+        }
+
+        /* Right Sidebar (Trending) */
+        .right-sidebar {
+            position: sticky;
+            top: 90px;
+            height: fit-content;
+        }
+
+        .trend-card {
+            background: var(--card-bg);
+            border-radius: 4px;
+            padding: 15px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+            margin-bottom: 15px;
+        }
+
+        .trend-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            border-left: 3px solid var(--accent);
+            padding-left: 8px;
+        }
+
+        .trend-list {
+            list-style: none;
+            padding: 0;
             margin: 0;
         }
 
-        .gallery-tool {
-            font-size: 0.8rem;
-            opacity: 0.8;
-            margin-top: 0.2rem;
-            display: block;
+        .trend-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #f2f2f2;
+            font-size: 13px;
         }
 
-        footer {
-            text-align: center;
-            margin-top: 4rem;
-            padding: 2rem;
-            color: var(--text-secondary);
-            border-top: 1px solid var(--border);
+        .trend-item a {
+            text-decoration: none;
+            color: #333;
+            flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-right: 10px;
+        }
+
+        .trend-item a:hover {
+            color: var(--accent);
+        }
+
+        .trend-badge {
+            font-size: 12px;
+            color: #999;
+        }
+
+        .hot-tag {
+            background: #ff0000;
+            color: white;
+            padding: 1px 3px;
+            border-radius: 2px;
+            font-size: 10px;
+            margin-left: 5px;
+        }
+
+        /* Tool Tabs in Feed */
+        .tab-bar {
+            background: #fff;
+            padding: 10px 20px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+            display: flex;
+            gap: 20px;
+            font-weight: bold;
+            color: #666;
+            cursor: pointer;
+        }
+
+        .tab.active {
+            color: #333;
+            position: relative;
+        }
+
+        .tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 20px;
+            height: 3px;
+            background: var(--accent);
+            border-radius: 2px;
         }
     </style>
 </head>
 
 <body>
-    <div class="container">
-        <header>
-            <h1>AI Hub</h1>
-            <div class="timestamp">Last Updated: 2026-01-29 11:35:29 UTC</div>
-            <p>Your Gateway to the AI Universe</p>
-        </header>
 
-        <!-- Navigation Tabs -->
-        <nav class="nav-tabs">
-            <button class="nav-btn active" onclick="switchTab('news')">📰 Daily News</button>
-            <button class="nav-btn" onclick="switchTab('tools')">🛠️ Tools Directory</button>
-            <button class="nav-btn" onclick="switchTab('showcase')">🎨 Creative Showcase</button>
-        </nav>
-
-        <!-- VIEW 1: News & GitHub (Original) -->
-        <div id="news" class="view-section active">
-            <div class="grid grid-2">
-                <!-- News Column -->
-                <section>
-                    <div class="section-title">
-                        <span>📰</span> Global Headlines
-                    </div>
-                    
-                    <a href="https://marginlab.ai/trackers/claude-code/" target="_blank" class="card">
-                        <h3 class="card-title">Claude Code Daily Benchmarks for Degradation Tracking</h3>
-                        <div class="card-meta">
-                            <span>Hacker News</span>
-                            <span>2026-01-29 05:59</span>
-                            <span>🔥 308</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://quesma.com/blog/introducing-otel-bench/" target="_blank" class="card">
-                        <h3 class="card-title">OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)</h3>
-                        <div class="card-meta">
-                            <span>Hacker News</span>
-                            <span>2026-01-29 07:37</span>
-                            <span>🔥 79</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/" target="_blank" class="card">
-                        <h3 class="card-title">US cybersecurity chief leaked sensitive government files to ChatGPT: Report</h3>
-                        <div class="card-meta">
-                            <span>Hacker News</span>
-                            <span>2026-01-29 08:12</span>
-                            <span>🔥 206</span>
-                        </div>
-                    </a>
-                    
-                </section>
-
-                <!-- GitHub Column -->
-                <section>
-                    <div class="section-title">
-                        <span>👨‍💻</span> GitHub Hot Repos
-                    </div>
-                    
-                    <a href="https://github.com/luccast/crabwalk" target="_blank" class="card">
-                        <h3 class="card-title">crabwalk</h3>
-                        <div class="gh-desc">🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.</div>
-                        <div class="card-meta">
-                            <span class="tag">TypeScript</span>
-                            <span>⭐ 458</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/vueuse/skills" target="_blank" class="card">
-                        <h3 class="card-title">skills</h3>
-                        <div class="gh-desc">Agent Skills for VueUse</div>
-                        <div class="card-meta">
-                            <span class="tag">TypeScript</span>
-                            <span>⭐ 257</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/nhevers/claude-recall" target="_blank" class="card">
-                        <h3 class="card-title">claude-recall</h3>
-                        <div class="gh-desc">Long-term memory layer for MoltBot & Claude Code that learns and recalls your project context automatically</div>
-                        <div class="card-meta">
-                            <span class="tag">TypeScript</span>
-                            <span>⭐ 246</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/six2dez/burp-ai-agent" target="_blank" class="card">
-                        <h3 class="card-title">burp-ai-agent</h3>
-                        <div class="gh-desc">Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more</div>
-                        <div class="card-meta">
-                            <span class="tag">Kotlin</span>
-                            <span>⭐ 208</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/embedding-shapes/one-agent-one-browser" target="_blank" class="card">
-                        <h3 class="card-title">one-agent-one-browser</h3>
-                        <div class="gh-desc">One from scratch browser built by one human and one agent, working hand in hand</div>
-                        <div class="card-meta">
-                            <span class="tag">Rust</span>
-                            <span>⭐ 184</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/coollabsio/jean" target="_blank" class="card">
-                        <h3 class="card-title">jean</h3>
-                        <div class="gh-desc">Run AI agents parallel in isolated workspaces.</div>
-                        <div class="card-meta">
-                            <span class="tag">TypeScript</span>
-                            <span>⭐ 170</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/divyaprakash0426/autoshorts" target="_blank" class="card">
-                        <h3 class="card-title">autoshorts</h3>
-                        <div class="gh-desc">Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.</div>
-                        <div class="card-meta">
-                            <span class="tag">Python</span>
-                            <span>⭐ 108</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/oleeai/gen-ai-101" target="_blank" class="card">
-                        <h3 class="card-title">gen-ai-101</h3>
-                        <div class="gh-desc">This repository provides a comprehensive starter kit for developers, students, and educators, it showcases practical examples for building intelligent chatbots, handling multi-turn conversations, streaming AI responses and processing images. </div>
-                        <div class="card-meta">
-                            <span class="tag">JavaScript</span>
-                            <span>⭐ 96</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/jau123/nanobanana-trending-prompts" target="_blank" class="card">
-                        <h3 class="card-title">nanobanana-trending-prompts</h3>
-                        <div class="gh-desc">1,100+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1100+ X热门AI生图prompt分享贴，每周更新</div>
-                        <div class="card-meta">
-                            
-                            <span>⭐ 89</span>
-                        </div>
-                    </a>
-                    
-                    <a href="https://github.com/jamiepine/voicebox" target="_blank" class="card">
-                        <h3 class="card-title">voicebox</h3>
-                        <div class="gh-desc">The open-source voice synthesis studio.</div>
-                        <div class="card-meta">
-                            <span class="tag">TypeScript</span>
-                            <span>⭐ 84</span>
-                        </div>
-                    </a>
-                    
-                </section>
+    <!-- Top Navbar -->
+    <div class="navbar">
+        <div class="nav-content">
+            <div class="logo">AI <span>News Station</span></div>
+            <div class="search-bar">
+                <input type="text" placeholder="Search AI tools, news...">
+            </div>
+            <div style="font-size: 14px; color: #666;">
+                Admin / Login
             </div>
         </div>
-
-        <!-- VIEW 2: Tools Directory -->
-        <div id="tools" class="view-section">
-            <div class="section-title">
-                <span>🛠️</span> Discover AI Tools
-            </div>
-            <div class="grid grid-3">
-                
-                <a href="https://tapnow.ai" target="_blank" class="card tool-card">
-                    <div class="tool-header">
-                        <div class="tool-icon">🎨</div>
-                        <div class="tool-name">TapNow</div>
-                    </div>
-                    <div class="tool-desc">AI visual content creation engine for e-commerce and commercial campaigns.</div>
-                    <div class="card-meta">
-                        
-                        <span class="tag">Visual Creation</span>
-                        
-                        <span class="tag">E-commerce</span>
-                        
-                        <span class="tag">Ad Tech</span>
-                        
-                    </div>
-                </a>
-                
-                <a href="https://lovart.ai" target="_blank" class="card tool-card">
-                    <div class="tool-header">
-                        <div class="tool-icon">✨</div>
-                        <div class="tool-name">Lovart</div>
-                    </div>
-                    <div class="tool-desc">AI design agent that automates the creative workflow from concept to final visual.</div>
-                    <div class="card-meta">
-                        
-                        <span class="tag">Design Agent</span>
-                        
-                        <span class="tag">Image Gen</span>
-                        
-                        <span class="tag">Video Gen</span>
-                        
-                    </div>
-                </a>
-                
-                <a href="https://midjourney.com" target="_blank" class="card tool-card">
-                    <div class="tool-header">
-                        <div class="tool-icon">⛵</div>
-                        <div class="tool-name">Midjourney</div>
-                    </div>
-                    <div class="tool-desc">Generative Artificial Intelligence program and service that generates images from natural language descriptions.</div>
-                    <div class="card-meta">
-                        
-                        <span class="tag">Image Gen</span>
-                        
-                        <span class="tag">Art</span>
-                        
-                    </div>
-                </a>
-                
-                <a href="https://chat.openai.com" target="_blank" class="card tool-card">
-                    <div class="tool-header">
-                        <div class="tool-icon">🤖</div>
-                        <div class="tool-name">ChatGPT</div>
-                    </div>
-                    <div class="tool-desc">Conversational AI model developed by OpenAI.</div>
-                    <div class="card-meta">
-                        
-                        <span class="tag">LLM</span>
-                        
-                        <span class="tag">Chatbot</span>
-                        
-                    </div>
-                </a>
-                
-            </div>
-        </div>
-
-        <!-- VIEW 3: Creative Showcase -->
-        <div id="showcase" class="view-section">
-            <div class="section-title">
-                <span>🎨</span> Community Showcase
-            </div>
-            <div class="grid grid-3">
-                
-                <div class="card gallery-card">
-                    <img src="https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Neon Cyberpunk City" class="gallery-img" loading="lazy">
-                    <div class="gallery-overlay">
-                        <div class="gallery-title">Neon Cyberpunk City</div>
-                        <span class="gallery-tool">via Midjourney</span>
-                        <div style="margin-top:0.5rem; font-size:0.8rem; opacity:0.9;">"Cyberpunk city street at night, neon lights, rain reflection, highly detailed, 8k"</div>
-                    </div>
-                </div>
-                
-                <div class="card gallery-card">
-                    <img src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Abstract Fluid Art" class="gallery-img" loading="lazy">
-                    <div class="gallery-overlay">
-                        <div class="gallery-title">Abstract Fluid Art</div>
-                        <span class="gallery-tool">via TapNow</span>
-                        <div style="margin-top:0.5rem; font-size:0.8rem; opacity:0.9;">"Fluid vivid colors, abstract, swirling, liquid texture, macro photography style"</div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-
-        <footer>
-            <p>Powered by GitHub Actions & EdgeOne Pages</p>
-        </footer>
     </div>
 
-    <script>
-        function switchTab(tabId) {
-            // Remove active class from all buttons and sections
-            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-            document.querySelectorAll('.view-section').forEach(s => s.classList.remove('active'));
+    <div class="container">
+        <!-- Left Sidebar: Menu -->
+        <div class="left-sidebar">
+            <a href="#" class="menu-item active">🔥 热门 (Hot)</a>
+            <a href="#" class="menu-item">📺 视频 (Video)</a>
+            <a href="#" class="menu-item">🛠️ 工具 (Tools)</a>
+            <a href="#" class="menu-item">🎨 画廊 (Gallery)</a>
+            <div style="border-top: 1px solid #ddd; margin: 10px 0;"></div>
+            <a href="#" class="menu-item">我的收藏</a>
+        </div>
 
-            // Add active class to clicked button
-            event.target.classList.add('active');
+        <!-- Center: Feed (Showcase + Tools + News) -->
+        <div class="main-feed">
 
-            // Show target section
-            document.getElementById(tabId).classList.add('active');
-        }
-    </script>
+            <!-- Input Box Simulation -->
+            <div class="feed-card">
+                <div style="color:#999; font-size:14px; margin-bottom:10px;">有什么新鲜事想分享？</div>
+                <div style="display:flex; justify-content:flex-end;">
+                    <button
+                        style="background:var(--accent); color:white; border:none; padding:5px 15px; border-radius:4px; font-size:13px; cursor:pointer;">发布</button>
+                </div>
+            </div>
+
+            <div class="tab-bar">
+                <div class="tab active">推荐</div>
+                <div class="tab">关注</div>
+                <div class="tab">榜单</div>
+            </div>
+
+            <!-- Loop through Showcase Items (Visual Feed) -->
+            
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <!-- Placeholder avatar based on author name -->
+                        <img src="https://ui-avatars.com/api/?name=DemoUser&background=random"
+                            alt="DemoUser">
+                    </div>
+                    <div class="user-info">
+                        <div class="username">DemoUser</div>
+                        <div class="time">Just now · 来自 Midjourney</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    Neon Cyberpunk City - Cyberpunk city street at night, neon lights, rain reflection, highly detailed, 8k
+                    <span style="color:var(--link-color);">#AIArt #Midjourney</span>
+                </div>
+                <div class="content-images">
+                    <div class="content-image-item">
+                        <img src="https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Image" loading="lazy">
+                    </div>
+                    <!-- Mocking extra images for grid layout effect -->
+                    <div class="content-image-item">
+                        <img src="https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Image" loading="lazy" style="filter: hue-rotate(90deg);">
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">🔁 转发</span>
+                    <span class="action-btn">💬 评论</span>
+                    <span class="action-btn">👍 赞</span>
+                </div>
+            </div>
+            
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <!-- Placeholder avatar based on author name -->
+                        <img src="https://ui-avatars.com/api/?name=CreativeBot&background=random"
+                            alt="CreativeBot">
+                    </div>
+                    <div class="user-info">
+                        <div class="username">CreativeBot</div>
+                        <div class="time">Just now · 来自 TapNow</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    Abstract Fluid Art - Fluid vivid colors, abstract, swirling, liquid texture, macro photography style
+                    <span style="color:var(--link-color);">#AIArt #TapNow</span>
+                </div>
+                <div class="content-images">
+                    <div class="content-image-item">
+                        <img src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Image" loading="lazy">
+                    </div>
+                    <!-- Mocking extra images for grid layout effect -->
+                    <div class="content-image-item">
+                        <img src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Image" loading="lazy" style="filter: hue-rotate(90deg);">
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">🔁 转发</span>
+                    <span class="action-btn">💬 评论</span>
+                    <span class="action-btn">👍 赞</span>
+                </div>
+            </div>
+            
+
+            <!-- Loop through Tools (As detailed cards) -->
+            
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <div
+                            style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:#f0f0f0; font-size:20px;">
+                            🎨
+                        </div>
+                    </div>
+                    <div class="user-info">
+                        <div class="username">TapNow Official</div>
+                        <div class="time">Recommended Tool</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    AI visual content creation engine for e-commerce and commercial campaigns.
+                </div>
+                <div
+                    style="background:#f9f9f9; padding:10px; border-radius:4px; font-size:12px; display:flex; gap:10px;">
+                    <a href="https://tapnow.ai" target="_blank" style="color:var(--link-color); text-decoration:none;">🔗
+                        Visit Website</a>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Visual Creation</span>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#E-commerce</span>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Ad Tech</span>
+                    
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">📂 收藏工具</span>
+                    <span class="action-btn">🔗 直达链接</span>
+                </div>
+            </div>
+            
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <div
+                            style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:#f0f0f0; font-size:20px;">
+                            ✨
+                        </div>
+                    </div>
+                    <div class="user-info">
+                        <div class="username">Lovart Official</div>
+                        <div class="time">Recommended Tool</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    AI design agent that automates the creative workflow from concept to final visual.
+                </div>
+                <div
+                    style="background:#f9f9f9; padding:10px; border-radius:4px; font-size:12px; display:flex; gap:10px;">
+                    <a href="https://lovart.ai" target="_blank" style="color:var(--link-color); text-decoration:none;">🔗
+                        Visit Website</a>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Design Agent</span>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Image Gen</span>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Video Gen</span>
+                    
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">📂 收藏工具</span>
+                    <span class="action-btn">🔗 直达链接</span>
+                </div>
+            </div>
+            
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <div
+                            style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:#f0f0f0; font-size:20px;">
+                            ⛵
+                        </div>
+                    </div>
+                    <div class="user-info">
+                        <div class="username">Midjourney Official</div>
+                        <div class="time">Recommended Tool</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    Generative Artificial Intelligence program and service that generates images from natural language descriptions.
+                </div>
+                <div
+                    style="background:#f9f9f9; padding:10px; border-radius:4px; font-size:12px; display:flex; gap:10px;">
+                    <a href="https://midjourney.com" target="_blank" style="color:var(--link-color); text-decoration:none;">🔗
+                        Visit Website</a>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Image Gen</span>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Art</span>
+                    
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">📂 收藏工具</span>
+                    <span class="action-btn">🔗 直达链接</span>
+                </div>
+            </div>
+            
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <div
+                            style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:#f0f0f0; font-size:20px;">
+                            🤖
+                        </div>
+                    </div>
+                    <div class="user-info">
+                        <div class="username">ChatGPT Official</div>
+                        <div class="time">Recommended Tool</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    Conversational AI model developed by OpenAI.
+                </div>
+                <div
+                    style="background:#f9f9f9; padding:10px; border-radius:4px; font-size:12px; display:flex; gap:10px;">
+                    <a href="https://chat.openai.com" target="_blank" style="color:var(--link-color); text-decoration:none;">🔗
+                        Visit Website</a>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#LLM</span>
+                    
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#Chatbot</span>
+                    
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">📂 收藏工具</span>
+                    <span class="action-btn">🔗 直达链接</span>
+                </div>
+            </div>
+            
+
+        </div>
+
+        <!-- Right Side: Trending (News + GitHub) -->
+        <div class="right-sidebar">
+
+            <!-- Trending Search -->
+            <div class="trend-card">
+                <div class="trend-title">微博热搜 (Weibo Hot)</div>
+                <div class="trend-list">
+                    
+                    <div class="trend-item">
+                        <a href="https://github.com/luccast/crabwalk" target="_blank">crabwalk</a>
+                        <span class="trend-badge">458🔥</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <a href="https://github.com/vueuse/skills" target="_blank">skills</a>
+                        <span class="trend-badge">257🔥</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <a href="https://github.com/nhevers/claude-recall" target="_blank">claude-recall</a>
+                        <span class="trend-badge">246🔥</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <a href="https://github.com/six2dez/burp-ai-agent" target="_blank">burp-ai-agent</a>
+                        <span class="trend-badge">208🔥</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <a href="https://github.com/embedding-shapes/one-agent-one-browser" target="_blank">one-agent-one-browser</a>
+                        <span class="trend-badge">184🔥</span>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <!-- Hot News -->
+            <div class="trend-card">
+                <div class="trend-title">V2EX / Hacker News 热门</div>
+                <div class="trend-list">
+                    
+                    <div class="trend-item">
+                        <a href="https://marginlab.ai/trackers/claude-code/" target="_blank">Claude Code Daily Benchmarks for Degradation Tracking</a>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <a href="https://quesma.com/blog/introducing-otel-bench/" target="_blank">OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)</a>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <a href="https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/" target="_blank">US cybersecurity chief leaked sensitive government files to ChatGPT: Report</a>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="trend-card">
+                <div style="font-size:12px; color:#999;">
+                    AI News Station © 2026<br>
+                    Powered by EdgeOne & GitHub Actions
+                </div>
+            </div>
+
+        </div>
+    </div>
+
 </body>
 
 </html>

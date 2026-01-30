@@ -1,418 +1,477 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Hub - News, Tools & Inspiration</title>
+    <title>AI 资讯站 (AI News Station)</title>
     <style>
         :root {
-            --bg-color: #f8f9fa;
+            --bg-color: #f2f2f2;
+            /* Weibo light gray bg */
             --card-bg: #ffffff;
-            --text-primary: #1a1a1a;
-            --text-secondary: #666666;
-            --accent: #2563eb;
-            --accent-hover: #1d4ed8;
-            --border: #e5e7eb;
-            --success: #10b981;
+            --text-primary: #333333;
+            --text-secondary: #808080;
+            --accent: #ff8200;
+            /* Weibo Orange */
+            --link-color: #eb7350;
+            --border: #e6e6e6;
+            --nav-height: 60px;
         }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            margin: 0;
-            padding: 0;
             background-color: var(--bg-color);
             color: var(--text-primary);
-            line-height: 1.6;
+            margin: 0;
+            padding-top: calc(var(--nav-height) + 20px);
         }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-
-        /* Header & Nav */
-        header {
-            text-align: center;
-            margin-bottom: 2rem;
-            padding-bottom: 1rem;
-            border-bottom: 1px solid var(--border);
-        }
-
-        h1 {
-            color: var(--text-primary);
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-            background: linear-gradient(135deg, #2563eb, #7c3aed);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .timestamp {
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-            margin-bottom: 1.5rem;
-        }
-
-        .nav-tabs {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin-bottom: 2rem;
-        }
-
-        .nav-btn {
-            background: none;
-            border: none;
-            padding: 0.75rem 1.5rem;
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-secondary);
-            cursor: pointer;
-            border-radius: 99px;
-            transition: all 0.2s;
-        }
-
-        .nav-btn:hover {
-            color: var(--accent);
-            background: rgba(37, 99, 235, 0.05);
-        }
-
-        .nav-btn.active {
-            background: var(--accent);
-            color: white;
-            box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
-        }
-
-        /* Views */
-        .view-section {
-            display: none;
-            animation: fadeIn 0.3s ease-in-out;
-        }
-
-        .view-section.active {
-            display: block;
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(10px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        /* Grid Layouts */
-        .grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 2rem;
-        }
-
-        @media (min-width: 768px) {
-            .grid-2 {
-                grid-template-columns: 1fr 1fr;
-            }
-
-            .grid-3 {
-                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            }
-
-            .grid-4 {
-                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            }
-        }
-
-        /* Standard Card */
-        .card {
-            background: var(--card-bg);
-            border-radius: 12px;
-            padding: 1.5rem;
+        /* Top Navigation */
+        .navbar {
+            height: var(--nav-height);
+            background: #fff;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-            border: 1px solid var(--border);
-            text-decoration: none;
-            color: inherit;
-            display: block;
-        }
-
-        a.card {
-            text-decoration: none;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
-            border-color: var(--accent);
-        }
-
-        /* Section Titles */
-        .section-title {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
             display: flex;
             align-items: center;
-            gap: 0.5rem;
-            margin-bottom: 1.5rem;
+            justify-content: center;
+        }
+
+        .nav-content {
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+        }
+
+        .logo {
             font-size: 1.5rem;
-            color: var(--text-primary);
-            font-weight: 700;
-        }
-
-        /* News & GitHub Specifics */
-        .card-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin: 0 0 0.5rem 0;
+            font-weight: bold;
             color: var(--text-primary);
         }
 
-        .card:hover .card-title {
+        .logo span {
             color: var(--accent);
         }
 
-        .card-meta {
-            font-size: 0.85rem;
-            color: var(--text-secondary);
+        .search-bar {
+            background: #f2f2f2;
+            border-radius: 20px;
+            padding: 5px 15px;
             display: flex;
-            gap: 1rem;
             align-items: center;
-            flex-wrap: wrap;
-            margin-top: auto;
+            width: 300px;
         }
 
-        .tag {
-            background-color: #eff6ff;
+        .search-bar input {
+            border: none;
+            background: transparent;
+            outline: none;
+            width: 100%;
+            padding: 5px;
+        }
+
+        /* Main Layout */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 150px 1fr 300px;
+            /* Left, Center, Right */
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .left-sidebar,
+            .right-sidebar {
+                display: none;
+            }
+        }
+
+        /* Left Sidebar (Nav) */
+        .left-sidebar {
+            position: sticky;
+            top: 90px;
+            height: fit-content;
+        }
+
+        .menu-item {
+            display: block;
+            padding: 10px 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-primary);
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .menu-item:hover,
+        .menu-item.active {
             color: var(--accent);
-            padding: 0.2rem 0.6rem;
-            border-radius: 6px;
-            font-size: 0.75rem;
-            font-weight: 500;
         }
 
-        .gh-desc {
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-            margin: 0.5rem 0 1rem 0;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        /* Tools Directory Styles */
-        .tool-card {
+        /* Center Feed */
+        .main-feed {
             display: flex;
             flex-direction: column;
-            height: 100%;
+            gap: 15px;
         }
 
-        .tool-header {
+        .feed-card {
+            background: var(--card-bg);
+            border-radius: 4px;
+            padding: 20px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        .card-header {
             display: flex;
             align-items: center;
-            gap: 1rem;
-            margin-bottom: 1rem;
+            margin-bottom: 10px;
         }
 
-        .tool-icon {
-            font-size: 2rem;
-            background: #f3f4f6;
-            width: 50px;
-            height: 50px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 10px;
-        }
-
-        .tool-name {
-            font-size: 1.25rem;
-            font-weight: 700;
-        }
-
-        .tool-desc {
-            font-size: 0.95rem;
-            color: var(--text-secondary);
-            margin-bottom: 1rem;
-            flex-grow: 1;
-        }
-
-        /* Showcase Gallery Styles */
-        .gallery-card {
-            padding: 0;
+        .avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #ddd;
+            margin-right: 10px;
             overflow: hidden;
-            position: relative;
-            border: none;
         }
 
-        .gallery-img {
+        .avatar img {
             width: 100%;
-            height: 250px;
+            height: 100%;
             object-fit: cover;
-            display: block;
-            transition: transform 0.5s;
         }
 
-        .gallery-card:hover .gallery-img {
+        .user-info .username {
+            font-weight: bold;
+            color: #333;
+            font-size: 14px;
+        }
+
+        .user-info .time {
+            color: #939393;
+            font-size: 12px;
+            margin-top: 2px;
+        }
+
+        .content-text {
+            font-size: 15px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .content-images {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 5px;
+            margin-bottom: 10px;
+        }
+
+        .content-image-item {
+            aspect-ratio: 1/1;
+            background: #eee;
+            border-radius: 4px;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .content-image-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.2s;
+        }
+
+        .content-image-item:hover img {
             transform: scale(1.05);
         }
 
-        .gallery-overlay {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
-            padding: 1.5rem 1rem 1rem;
-            color: white;
-            opacity: 0;
-            transition: opacity 0.3s;
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 10px;
+            border-top: 1px solid #f2f2f2;
+            color: #808080;
+            font-size: 12px;
         }
 
-        .gallery-card:hover .gallery-overlay {
-            opacity: 1;
+        .action-btn {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 5px;
         }
 
-        .gallery-title {
-            font-size: 1rem;
-            font-weight: 600;
+        .action-btn:hover {
+            color: var(--accent);
+        }
+
+        /* Right Sidebar (Trending) */
+        .right-sidebar {
+            position: sticky;
+            top: 90px;
+            height: fit-content;
+        }
+
+        .trend-card {
+            background: var(--card-bg);
+            border-radius: 4px;
+            padding: 15px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+            margin-bottom: 15px;
+        }
+
+        .trend-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            border-left: 3px solid var(--accent);
+            padding-left: 8px;
+        }
+
+        .trend-list {
+            list-style: none;
+            padding: 0;
             margin: 0;
         }
 
-        .gallery-tool {
-            font-size: 0.8rem;
-            opacity: 0.8;
-            margin-top: 0.2rem;
-            display: block;
+        .trend-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #f2f2f2;
+            font-size: 13px;
         }
 
-        footer {
-            text-align: center;
-            margin-top: 4rem;
-            padding: 2rem;
-            color: var(--text-secondary);
-            border-top: 1px solid var(--border);
+        .trend-item a {
+            text-decoration: none;
+            color: #333;
+            flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-right: 10px;
+        }
+
+        .trend-item a:hover {
+            color: var(--accent);
+        }
+
+        .trend-badge {
+            font-size: 12px;
+            color: #999;
+        }
+
+        .hot-tag {
+            background: #ff0000;
+            color: white;
+            padding: 1px 3px;
+            border-radius: 2px;
+            font-size: 10px;
+            margin-left: 5px;
+        }
+
+        /* Tool Tabs in Feed */
+        .tab-bar {
+            background: #fff;
+            padding: 10px 20px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+            display: flex;
+            gap: 20px;
+            font-weight: bold;
+            color: #666;
+            cursor: pointer;
+        }
+
+        .tab.active {
+            color: #333;
+            position: relative;
+        }
+
+        .tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 20px;
+            height: 3px;
+            background: var(--accent);
+            border-radius: 2px;
         }
     </style>
 </head>
 
 <body>
-    <div class="container">
-        <header>
-            <h1>AI Hub</h1>
-            <div class="timestamp">Last Updated: {{ last_updated }}</div>
-            <p>Your Gateway to the AI Universe</p>
-        </header>
 
-        <!-- Navigation Tabs -->
-        <nav class="nav-tabs">
-            <button class="nav-btn active" onclick="switchTab('news')">📰 Daily News</button>
-            <button class="nav-btn" onclick="switchTab('tools')">🛠️ Tools Directory</button>
-            <button class="nav-btn" onclick="switchTab('showcase')">🎨 Creative Showcase</button>
-        </nav>
-
-        <!-- VIEW 1: News & GitHub (Original) -->
-        <div id="news" class="view-section active">
-            <div class="grid grid-2">
-                <!-- News Column -->
-                <section>
-                    <div class="section-title">
-                        <span>📰</span> Global Headlines
-                    </div>
-                    {% for item in news_items %}
-                    <a href="{{ item.url }}" target="_blank" class="card">
-                        <h3 class="card-title">{{ item.title }}</h3>
-                        <div class="card-meta">
-                            <span>{{ item.source }}</span>
-                            <span>{{ item.time }}</span>
-                            {% if item.score %}<span>🔥 {{ item.score }}</span>{% endif %}
-                        </div>
-                    </a>
-                    {% endfor %}
-                </section>
-
-                <!-- GitHub Column -->
-                <section>
-                    <div class="section-title">
-                        <span>👨‍💻</span> GitHub Hot Repos
-                    </div>
-                    {% for item in github_items %}
-                    <a href="{{ item.url }}" target="_blank" class="card">
-                        <h3 class="card-title">{{ item.name }}</h3>
-                        <div class="gh-desc">{{ item.description }}</div>
-                        <div class="card-meta">
-                            {% if item.language %}<span class="tag">{{ item.language }}</span>{% endif %}
-                            <span>⭐ {{ item.stars }}</span>
-                        </div>
-                    </a>
-                    {% endfor %}
-                </section>
+    <!-- Top Navbar -->
+    <div class="navbar">
+        <div class="nav-content">
+            <div class="logo">AI <span>News Station</span></div>
+            <div class="search-bar">
+                <input type="text" placeholder="Search AI tools, news...">
+            </div>
+            <div style="font-size: 14px; color: #666;">
+                Admin / Login
             </div>
         </div>
-
-        <!-- VIEW 2: Tools Directory -->
-        <div id="tools" class="view-section">
-            <div class="section-title">
-                <span>🛠️</span> Discover AI Tools
-            </div>
-            <div class="grid grid-3">
-                {% for tool in tools_items %}
-                <a href="{{ tool.url }}" target="_blank" class="card tool-card">
-                    <div class="tool-header">
-                        <div class="tool-icon">{{ tool.icon }}</div>
-                        <div class="tool-name">{{ tool.name }}</div>
-                    </div>
-                    <div class="tool-desc">{{ tool.description }}</div>
-                    <div class="card-meta">
-                        {% for tag in tool.tags %}
-                        <span class="tag">{{ tag }}</span>
-                        {% endfor %}
-                    </div>
-                </a>
-                {% endfor %}
-            </div>
-        </div>
-
-        <!-- VIEW 3: Creative Showcase -->
-        <div id="showcase" class="view-section">
-            <div class="section-title">
-                <span>🎨</span> Community Showcase
-            </div>
-            <div class="grid grid-3">
-                {% for item in showcase_items %}
-                <div class="card gallery-card">
-                    <img src="{{ item.image_url }}" alt="{{ item.title }}" class="gallery-img" loading="lazy">
-                    <div class="gallery-overlay">
-                        <div class="gallery-title">{{ item.title }}</div>
-                        <span class="gallery-tool">via {{ item.tool_used }}</span>
-                        <div style="margin-top:0.5rem; font-size:0.8rem; opacity:0.9;">"{{ item.prompt }}"</div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-
-        <footer>
-            <p>Powered by GitHub Actions & EdgeOne Pages</p>
-        </footer>
     </div>
 
-    <script>
-        function switchTab(tabId) {
-            // Remove active class from all buttons and sections
-            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-            document.querySelectorAll('.view-section').forEach(s => s.classList.remove('active'));
+    <div class="container">
+        <!-- Left Sidebar: Menu -->
+        <div class="left-sidebar">
+            <a href="#" class="menu-item active">🔥 热门 (Hot)</a>
+            <a href="#" class="menu-item">📺 视频 (Video)</a>
+            <a href="#" class="menu-item">🛠️ 工具 (Tools)</a>
+            <a href="#" class="menu-item">🎨 画廊 (Gallery)</a>
+            <div style="border-top: 1px solid #ddd; margin: 10px 0;"></div>
+            <a href="#" class="menu-item">我的收藏</a>
+        </div>
 
-            // Add active class to clicked button
-            event.target.classList.add('active');
+        <!-- Center: Feed (Showcase + Tools + News) -->
+        <div class="main-feed">
 
-            // Show target section
-            document.getElementById(tabId).classList.add('active');
-        }
-    </script>
+            <!-- Input Box Simulation -->
+            <div class="feed-card">
+                <div style="color:#999; font-size:14px; margin-bottom:10px;">有什么新鲜事想分享？</div>
+                <div style="display:flex; justify-content:flex-end;">
+                    <button
+                        style="background:var(--accent); color:white; border:none; padding:5px 15px; border-radius:4px; font-size:13px; cursor:pointer;">发布</button>
+                </div>
+            </div>
+
+            <div class="tab-bar">
+                <div class="tab active">推荐</div>
+                <div class="tab">关注</div>
+                <div class="tab">榜单</div>
+            </div>
+
+            <!-- Loop through Showcase Items (Visual Feed) -->
+            {% for item in showcase_items %}
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <!-- Placeholder avatar based on author name -->
+                        <img src="https://ui-avatars.com/api/?name={{ item.author }}&background=random"
+                            alt="{{ item.author }}">
+                    </div>
+                    <div class="user-info">
+                        <div class="username">{{ item.author }}</div>
+                        <div class="time">Just now · 来自 {{ item.tool_used }}</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    {{ item.title }} - {{ item.prompt }}
+                    <span style="color:var(--link-color);">#AIArt #{{ item.tool_used }}</span>
+                </div>
+                <div class="content-images">
+                    <div class="content-image-item">
+                        <img src="{{ item.image_url }}" alt="Image" loading="lazy">
+                    </div>
+                    <!-- Mocking extra images for grid layout effect -->
+                    <div class="content-image-item">
+                        <img src="{{ item.image_url }}" alt="Image" loading="lazy" style="filter: hue-rotate(90deg);">
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">🔁 转发</span>
+                    <span class="action-btn">💬 评论</span>
+                    <span class="action-btn">👍 赞</span>
+                </div>
+            </div>
+            {% endfor %}
+
+            <!-- Loop through Tools (As detailed cards) -->
+            {% for tool in tools_items %}
+            <div class="feed-card">
+                <div class="card-header">
+                    <div class="avatar">
+                        <div
+                            style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:#f0f0f0; font-size:20px;">
+                            {{ tool.icon }}
+                        </div>
+                    </div>
+                    <div class="user-info">
+                        <div class="username">{{ tool.name }} Official</div>
+                        <div class="time">Recommended Tool</div>
+                    </div>
+                </div>
+                <div class="content-text">
+                    {{ tool.description }}
+                </div>
+                <div
+                    style="background:#f9f9f9; padding:10px; border-radius:4px; font-size:12px; display:flex; gap:10px;">
+                    <a href="{{ tool.url }}" target="_blank" style="color:var(--link-color); text-decoration:none;">🔗
+                        Visit Website</a>
+                    {% for tag in tool.tags %}
+                    <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#{{ tag }}</span>
+                    {% endfor %}
+                </div>
+                <div class="card-footer">
+                    <span class="action-btn">📂 收藏工具</span>
+                    <span class="action-btn">🔗 直达链接</span>
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+
+        <!-- Right Side: Trending (News + GitHub) -->
+        <div class="right-sidebar">
+
+            <!-- Trending Search -->
+            <div class="trend-card">
+                <div class="trend-title">微博热搜 (Weibo Hot)</div>
+                <div class="trend-list">
+                    {% for item in github_items[:5] %}
+                    <div class="trend-item">
+                        <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                        <span class="trend-badge">{{ item.stars }}🔥</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Hot News -->
+            <div class="trend-card">
+                <div class="trend-title">V2EX / Hacker News 热门</div>
+                <div class="trend-list">
+                    {% for item in news_items[:8] %}
+                    <div class="trend-item">
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="trend-card">
+                <div style="font-size:12px; color:#999;">
+                    AI News Station © 2026<br>
+                    Powered by EdgeOne & GitHub Actions
+                </div>
+            </div>
+
+        </div>
+    </div>
+
 </body>
 
 </html>
