@@ -4,89 +4,89 @@
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 458,
+    "stars": 492,
     "language": "TypeScript",
-    "updated_at": "2026-01-29T18:09:43Z"
+    "updated_at": "2026-01-30T16:48:32Z"
   },
   {
-    "name": "skills",
-    "full_name": "vueuse/skills",
-    "description": "Agent Skills for VueUse",
-    "url": "https://github.com/vueuse/skills",
-    "stars": 257,
+    "name": "MoltBrain",
+    "full_name": "nhevers/MoltBrain",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically.",
+    "url": "https://github.com/nhevers/MoltBrain",
+    "stars": 301,
     "language": "TypeScript",
-    "updated_at": "2026-01-29T16:42:07Z"
-  },
-  {
-    "name": "claude-recall",
-    "full_name": "nhevers/claude-recall",
-    "description": "Long-term memory layer for MoltBot & Claude Code that learns and recalls your project context automatically",
-    "url": "https://github.com/nhevers/claude-recall",
-    "stars": 246,
-    "language": "TypeScript",
-    "updated_at": "2026-01-29T18:20:26Z"
+    "updated_at": "2026-01-30T18:32:07Z"
   },
   {
     "name": "burp-ai-agent",
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 208,
+    "stars": 266,
     "language": "Kotlin",
-    "updated_at": "2026-01-29T18:20:31Z"
+    "updated_at": "2026-01-30T19:04:41Z"
   },
   {
     "name": "one-agent-one-browser",
     "full_name": "embedding-shapes/one-agent-one-browser",
     "description": "One from scratch browser built by one human and one agent, working hand in hand",
     "url": "https://github.com/embedding-shapes/one-agent-one-browser",
-    "stars": 184,
+    "stars": 188,
     "language": "Rust",
-    "updated_at": "2026-01-29T18:06:25Z"
-  },
-  {
-    "name": "jean",
-    "full_name": "coollabsio/jean",
-    "description": "Run AI agents parallel in isolated workspaces.",
-    "url": "https://github.com/coollabsio/jean",
-    "stars": 170,
-    "language": "TypeScript",
-    "updated_at": "2026-01-29T16:29:54Z"
-  },
-  {
-    "name": "autoshorts",
-    "full_name": "divyaprakash0426/autoshorts",
-    "description": "Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.",
-    "url": "https://github.com/divyaprakash0426/autoshorts",
-    "stars": 108,
-    "language": "Python",
-    "updated_at": "2026-01-29T17:16:01Z"
-  },
-  {
-    "name": "gen-ai-101",
-    "full_name": "oleeai/gen-ai-101",
-    "description": "This repository provides a comprehensive starter kit for developers, students, and educators, it showcases practical examples for building intelligent chatbots, handling multi-turn conversations, streaming AI responses and processing images. ",
-    "url": "https://github.com/oleeai/gen-ai-101",
-    "stars": 96,
-    "language": "JavaScript",
-    "updated_at": "2026-01-29T13:34:11Z"
-  },
-  {
-    "name": "nanobanana-trending-prompts",
-    "full_name": "jau123/nanobanana-trending-prompts",
-    "description": "1,100+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1100+ X热门AI生图prompt分享贴，每周更新",
-    "url": "https://github.com/jau123/nanobanana-trending-prompts",
-    "stars": 89,
-    "language": null,
-    "updated_at": "2026-01-29T17:41:05Z"
+    "updated_at": "2026-01-30T17:04:54Z"
   },
   {
     "name": "voicebox",
     "full_name": "jamiepine/voicebox",
-    "description": "The open-source voice synthesis studio.",
+    "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
     "url": "https://github.com/jamiepine/voicebox",
-    "stars": 84,
+    "stars": 125,
     "language": "TypeScript",
-    "updated_at": "2026-01-29T18:15:11Z"
+    "updated_at": "2026-01-30T19:27:41Z"
+  },
+  {
+    "name": "sandbox-agent",
+    "full_name": "rivet-dev/sandbox-agent",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp.",
+    "url": "https://github.com/rivet-dev/sandbox-agent",
+    "stars": 108,
+    "language": "Rust",
+    "updated_at": "2026-01-30T18:44:12Z"
+  },
+  {
+    "name": "awesome-pm-skills",
+    "full_name": "menkesu/awesome-pm-skills",
+    "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
+    "url": "https://github.com/menkesu/awesome-pm-skills",
+    "stars": 94,
+    "language": null,
+    "updated_at": "2026-01-30T18:42:06Z"
+  },
+  {
+    "name": "awesome-agent-skills",
+    "full_name": "JackyST0/awesome-agent-skills",
+    "description": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+    "url": "https://github.com/JackyST0/awesome-agent-skills",
+    "stars": 56,
+    "language": "Shell",
+    "updated_at": "2026-01-30T13:12:54Z"
+  },
+  {
+    "name": "azure-diagrams-skill",
+    "full_name": "cmb211087/azure-diagrams-skill",
+    "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
+    "url": "https://github.com/cmb211087/azure-diagrams-skill",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-01-30T14:37:33Z"
+  },
+  {
+    "name": "Awesome-AI-Pedia",
+    "full_name": "qdleader/Awesome-AI-Pedia",
+    "description": "🔥🔥🔥 A Comprehensive Collection of AI/ML Knowledge, Papers, Courses, and Tools. (AI 知识大全，包含skills、claude code、cursor工具和学习路径)",
+    "url": "https://github.com/qdleader/Awesome-AI-Pedia",
+    "stars": 27,
+    "language": "TypeScript",
+    "updated_at": "2026-01-30T09:15:51Z"
   }
 ]
