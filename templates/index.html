@@ -89,10 +89,62 @@
                 grid-template-columns: 1fr;
             }
 
-            .left-sidebar,
             .right-sidebar {
                 display: none;
             }
+
+            .left-sidebar {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 80%;
+                max-width: 280px;
+                height: 100vh;
+                background: white;
+                z-index: 2000;
+                padding: 80px 20px 20px;
+                box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+                overflow-y: auto;
+            }
+
+            .left-sidebar.mobile-open {
+                display: block !important;
+            }
+
+            .mobile-overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100vw;
+                height: 100vh;
+                background: rgba(0, 0, 0, 0.5);
+                z-index: 1999;
+            }
+
+            .mobile-overlay.active {
+                display: block;
+            }
+
+            .hamburger {
+                display: flex !important;
+            }
+        }
+
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 4px;
+            cursor: pointer;
+            padding: 5px;
+        }
+
+        .hamburger span {
+            width: 22px;
+            height: 3px;
+            background: #333;
+            border-radius: 2px;
         }
 
         .left-sidebar {
@@ -361,6 +413,11 @@
 <body>
     <div class="navbar">
         <div class="nav-content">
+            <div class="hamburger" id="hamburgerBtn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
             <div class="logo">AI <span>News Station</span></div>
             <div class="search-bar">
                 <input type="text" id="searchInput" placeholder="Search AI tools, news...">
@@ -368,6 +425,7 @@
             <div style="font-size: 14px; color: #666;">Admin / Login</div>
         </div>
     </div>
+    <div class="mobile-overlay" id="mobileOverlay"></div>
 
     <div class="container">
         <div class="left-sidebar">
@@ -858,6 +916,31 @@
 
                 showToast(`搜索: "${this.value}"`);
             }, 300);
+        });
+
+        // Mobile Menu Toggle
+        const hamburger = document.getElementById('hamburgerBtn');
+        const sidebar = document.querySelector('.left-sidebar');
+        const overlay = document.getElementById('mobileOverlay');
+
+        hamburger.addEventListener('click', function () {
+            sidebar.classList.toggle('mobile-open');
+            overlay.classList.toggle('active');
+        });
+
+        overlay.addEventListener('click', function () {
+            sidebar.classList.remove('mobile-open');
+            overlay.classList.remove('active');
+        });
+
+        // Close mobile menu when clicking a menu item
+        document.querySelectorAll('.left-sidebar .menu-item').forEach(item => {
+            item.addEventListener('click', function () {
+                if (window.innerWidth <= 900) {
+                    sidebar.classList.remove('mobile-open');
+                    overlay.classList.remove('active');
+                }
+            });
         });
 
         // Action Buttons
