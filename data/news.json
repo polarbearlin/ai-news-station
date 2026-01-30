@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-01-30 19:31:48",
+  "generated_at": "2026-01-30 20:31:06",
   "news": [
+    {
+      "title": "Joel Spolsky: Painless Software Schedules (2000)",
+      "url": "https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/",
+      "source": "Hacker News",
+      "time": "2026-01-26 11:08",
+      "score": 35,
+      "comments": 23
+    },
     {
       "title": "OpenClaw – Moltbot Renamed Again",
       "url": "https://openclaw.ai/blog/introducing-openclaw",
       "source": "Hacker News",
       "time": "2026-01-30 05:14",
-      "score": 507,
-      "comments": 255
-    },
-    {
-      "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
-      "url": "https://github.com/amlalabs/amla-sandbox",
-      "source": "Hacker News",
-      "time": "2026-01-30 14:34",
-      "score": 86,
-      "comments": 56
+      "score": 544,
+      "comments": 277
     }
   ]
 }

@@ -4,9 +4,9 @@
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 492,
+    "stars": 493,
     "language": "TypeScript",
-    "updated_at": "2026-01-30T16:48:32Z"
+    "updated_at": "2026-01-30T20:07:33Z"
   },
   {
     "name": "MoltBrain",
@@ -40,27 +40,27 @@
     "full_name": "jamiepine/voicebox",
     "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
     "url": "https://github.com/jamiepine/voicebox",
-    "stars": 125,
+    "stars": 127,
     "language": "TypeScript",
-    "updated_at": "2026-01-30T19:27:41Z"
+    "updated_at": "2026-01-30T20:12:52Z"
   },
   {
     "name": "sandbox-agent",
     "full_name": "rivet-dev/sandbox-agent",
     "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp.",
     "url": "https://github.com/rivet-dev/sandbox-agent",
-    "stars": 108,
+    "stars": 112,
     "language": "Rust",
-    "updated_at": "2026-01-30T18:44:12Z"
+    "updated_at": "2026-01-30T20:12:58Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 94,
+    "stars": 95,
     "language": null,
-    "updated_at": "2026-01-30T18:42:06Z"
+    "updated_at": "2026-01-30T20:06:08Z"
   },
   {
     "name": "awesome-agent-skills",
@@ -76,9 +76,9 @@
     "full_name": "cmb211087/azure-diagrams-skill",
     "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
     "url": "https://github.com/cmb211087/azure-diagrams-skill",
-    "stars": 31,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-01-30T14:37:33Z"
+    "updated_at": "2026-01-30T19:36:38Z"
   },
   {
     "name": "Awesome-AI-Pedia",
