@@ -11,22 +11,25 @@ from typing import List, Dict
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# DailyHotApi 自托管服务地址
+DAILYHOT_API_BASE = "http://43.160.204.149:8080"
+
 # ============================================
-# 国内热搜来源
+# 国内热搜来源 (使用 DailyHotApi)
 # ============================================
 
 def fetch_weibo_trending() -> List[Dict]:
-    """微博热搜"""
+    """微博热搜 (via DailyHotApi)"""
     try:
-        url = "https://tenapi.cn/v2/weibohot"
-        response = requests.get(url, timeout=10)
+        url = f"{DAILYHOT_API_BASE}/weibo"
+        response = requests.get(url, timeout=15)
         data = response.json()
         
         if data.get('code') == 200:
             return [{
-                'title': item.get('name', ''),
+                'title': item.get('title', ''),
                 'url': item.get('url', '#'),
-                'hot': item.get('hot', ''),
+                'hot': str(item.get('hot', '')),
                 'source': 'weibo'
             } for item in data.get('data', [])[:15]]
     except Exception as e:
@@ -34,17 +37,17 @@ def fetch_weibo_trending() -> List[Dict]:
     return []
 
 def fetch_zhihu_trending() -> List[Dict]:
-    """知乎热榜"""
+    """知乎热榜 (via DailyHotApi)"""
     try:
-        url = "https://tenapi.cn/v2/zhihuhot"
-        response = requests.get(url, timeout=10)
+        url = f"{DAILYHOT_API_BASE}/zhihu"
+        response = requests.get(url, timeout=15)
         data = response.json()
         
         if data.get('code') == 200:
             return [{
-                'title': item.get('query', ''),
+                'title': item.get('title', ''),
                 'url': item.get('url', '#'),
-                'hot': item.get('display', ''),
+                'hot': str(item.get('hot', '')),
                 'source': 'zhihu'
             } for item in data.get('data', [])[:10]]
     except Exception as e:
@@ -52,21 +55,39 @@ def fetch_zhihu_trending() -> List[Dict]:
     return []
 
 def fetch_bilibili_trending() -> List[Dict]:
-    """B站热门视频"""
+    """B站热门视频 (via DailyHotApi)"""
     try:
-        url = "https://tenapi.cn/v2/bilihot"
-        response = requests.get(url, timeout=10)
+        url = f"{DAILYHOT_API_BASE}/bilibili"
+        response = requests.get(url, timeout=15)
         data = response.json()
         
         if data.get('code') == 200:
             return [{
                 'title': item.get('title', ''),
                 'url': item.get('url', '#'),
-                'hot': item.get('hot', ''),
+                'hot': str(item.get('hot', '')),
                 'source': 'bilibili'
             } for item in data.get('data', [])[:10]]
     except Exception as e:
         print(f"❌ Bilibili trending failed: {e}")
+    return []
+
+def fetch_douyin_trending() -> List[Dict]:
+    """抖音热榜 (via DailyHotApi)"""
+    try:
+        url = f"{DAILYHOT_API_BASE}/douyin"
+        response = requests.get(url, timeout=15)
+        data = response.json()
+        
+        if data.get('code') == 200:
+            return [{
+                'title': item.get('title', ''),
+                'url': item.get('url', '#'),
+                'hot': str(item.get('hot', '')),
+                'source': 'douyin'
+            } for item in data.get('data', [])[:10]]
+    except Exception as e:
+        print(f"❌ Douyin trending failed: {e}")
     return []
 
 # ============================================
