@@ -32,6 +32,9 @@ def generate_html():
     trending_data = load_data('trending.json')
     trending_items = trending_data if isinstance(trending_data, dict) else {}
     
+    enriched_data = load_data('enriched_trending.json')
+    enriched_trending = enriched_data if isinstance(enriched_data, dict) else {}
+    
     # Prepare template environment
     template_dir = os.path.join(BASE_DIR, 'templates')
     if not os.path.exists(template_dir):
@@ -49,6 +52,7 @@ def generate_html():
         'tools_items': tools_items,
         'showcase_items': showcase_items,
         'trending_items': trending_items,
+        'enriched_trending': enriched_trending,
     }
     
     # Render

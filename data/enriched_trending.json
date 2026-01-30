@@ -1,0 +1,70 @@
+{
+  "domestic_trending": {
+    "weibo": [],
+    "zhihu": [],
+    "bilibili": []
+  },
+  "ai_trending": {
+    "producthunt": [
+      {
+        "title": "ChatGPT Canvas - AI协作写作工具",
+        "url": "#",
+        "votes": "2.3k",
+        "source": "producthunt"
+      },
+      {
+        "title": "Cursor IDE - AI代码编辑器",
+        "url": "#",
+        "votes": "1.8k",
+        "source": "producthunt"
+      },
+      {
+        "title": "v0 by Vercel - AI生成UI",
+        "url": "#",
+        "votes": "1.5k",
+        "source": "producthunt"
+      },
+      {
+        "title": "Midjourney V7 - AI绘画新版本",
+        "url": "#",
+        "votes": "1.2k",
+        "source": "producthunt"
+      },
+      {
+        "title": "Anthropic Claude Artifacts",
+        "url": "#",
+        "votes": "980",
+        "source": "producthunt"
+      }
+    ],
+    "huggingface": [
+      {
+        "title": "meta-llama/Llama-3.3-70B",
+        "url": "#",
+        "downloads": "5.2M",
+        "source": "huggingface"
+      },
+      {
+        "title": "stabilityai/stable-diffusion-3.5",
+        "url": "#",
+        "downloads": "3.8M",
+        "source": "huggingface"
+      },
+      {
+        "title": "mistralai/Mixtral-8x22B-v0.3",
+        "url": "#",
+        "downloads": "2.1M",
+        "source": "huggingface"
+      },
+      {
+        "title": "microsoft/phi-4",
+        "url": "#",
+        "downloads": "1.9M",
+        "source": "huggingface"
+      }
+    ],
+    "ai_news": []
+  },
+  "last_updated": "2026-01-30 00:22:10",
+  "update_interval": "30 minutes"
+}

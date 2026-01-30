@@ -318,6 +318,42 @@
 
         .view-content.active {
             display: block;
+            animation: fadeIn 0.3s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .view-more-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .view-more-link:hover {
+            color: var(--text-primary);
+            transform: translateX(3px);
+        }
+
+        .trend-item {
+            transition: background 0.2s;
+        }
+
+        .trend-item:hover {
+            background: #f9f9f9;
+            border-radius: 4px;
+            padding-left: 5px;
         }
     </style>
 </head>
@@ -525,20 +561,66 @@
         </div>
 
         <div class="right-sidebar">
+            <!-- 国内热搜榜 -->
             <div class="trend-card">
-                <div class="trend-title">今日热搜</div>
+                <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
+                    📱 国内热搜榜
+                    <span
+                        style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">实时</span>
+                </div>
                 <div class="trend-list">
-                    {% for item in trending_items.weibo[:5] %}
+                    {% for item in enriched_trending.domestic_trending.weibo[:3] %}
                     <div class="trend-item">
+                        <span style="color: #ff8200; font-weight: bold; margin-right: 8px; font-size: 12px;">🔥</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
+                    {% for item in enriched_trending.domestic_trending.zhihu[:2] %}
+                    <div class="trend-item">
+                        <span style="color: #0084ff; font-weight: bold; margin-right: 8px; font-size: 12px;">💬</span>
                         <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
                         <span class="trend-badge">{{ item.hot }}</span>
                     </div>
                     {% endfor %}
                 </div>
+                <div style="text-align: center; margin-top: 10px;">
+                    <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
+                </div>
             </div>
 
+            <!-- AI热搜榜 -->
             <div class="trend-card">
-                <div class="trend-title">GitHub Trending</div>
+                <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
+                    🤖 AI热搜榜
+                    <span
+                        style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">AI专属</span>
+                </div>
+                <div class="trend-list">
+                    {% for item in enriched_trending.ai_trending.producthunt[:3] %}
+                    <div class="trend-item">
+                        <span style="color: #da552f; font-weight: bold; margin-right: 8px; font-size: 12px;">🚀</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">👍 {{ item.votes }}</span>
+                    </div>
+                    {% endfor %}
+                    {% for item in enriched_trending.ai_trending.huggingface[:2] %}
+                    <div class="trend-item">
+                        <span style="color: #ffcc00; font-weight: bold; margin-right: 8px; font-size: 12px;">🤗</span>
+                        <a href="{{ item.url }}" target="_blank" style="font-family: monospace; font-size: 11px;">{{
+                            item.title }}</a>
+                        <span class="trend-badge">⬇️ {{ item.downloads }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+                <div style="text-align: center; margin-top: 10px;">
+                    <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
+                </div>
+            </div>
+
+            <!-- GitHub Trending -->
+            <div class="trend-card">
+                <div class="trend-title">💻 GitHub Trending</div>
                 <div class="trend-list">
                     {% for item in github_items[:5] %}
                     <div class="trend-item">
@@ -546,6 +628,17 @@
                         <span class="trend-badge">⭐{{ item.stars }}</span>
                     </div>
                     {% endfor %}
+                </div>
+            </div>
+
+            <!-- 更新时间 -->
+            <div class="trend-card"
+                style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+                <div style="font-size:12px; text-align: center;">
+                    <div style="font-weight: bold; margin-bottom: 5px;">⏱️ 自动更新</div>
+                    <div style="opacity: 0.9;">每30分钟刷新一次</div>
+                    <div style="opacity: 0.7; margin-top: 5px; font-size: 10px;">上次更新: {{ enriched_trending.last_updated
+                        }}</div>
                 </div>
             </div>
 
@@ -703,6 +796,26 @@
         // Welcome Message
         window.addEventListener('load', () => {
             setTimeout(() => showToast('欢迎来到 AI 资讯站！🚀', 'success'), 500);
+        });
+
+        // View More Links
+        document.querySelectorAll('.view-more-link').forEach(link => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = this.getAttribute('data-target');
+
+                // Switch to trending tab
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelector('.tab[data-tab="' + target + '"]').classList.add('active');
+
+                document.querySelectorAll('.view-content').forEach(v => v.classList.remove('active'));
+                document.getElementById('view-' + target).classList.add('active');
+
+                // Scroll to top smoothly
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+
+                showToast('已切换到榜单视图 📊');
+            });
         });
     </script>
 </body>

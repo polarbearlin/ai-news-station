@@ -318,6 +318,42 @@
 
         .view-content.active {
             display: block;
+            animation: fadeIn 0.3s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .view-more-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .view-more-link:hover {
+            color: var(--text-primary);
+            transform: translateX(3px);
+        }
+
+        .trend-item {
+            transition: background 0.2s;
+        }
+
+        .trend-item:hover {
+            background: #f9f9f9;
+            border-radius: 4px;
+            padding-left: 5px;
         }
     </style>
 </head>
@@ -994,40 +1030,71 @@
         </div>
 
         <div class="right-sidebar">
+            <!-- 国内热搜榜 -->
             <div class="trend-card">
-                <div class="trend-title">今日热搜</div>
+                <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
+                    📱 国内热搜榜
+                    <span
+                        style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">实时</span>
+                </div>
                 <div class="trend-list">
                     
-                    <div class="trend-item">
-                        <a href="#" target="_blank">AI绘画工具MidJourney推出视频生成功能</a>
-                        <span class="trend-badge">2.8M</span>
-                    </div>
                     
-                    <div class="trend-item">
-                        <a href="#" target="_blank">ChatGPT 5.0即将发布</a>
-                        <span class="trend-badge">2.1M</span>
-                    </div>
-                    
-                    <div class="trend-item">
-                        <a href="#" target="_blank">国产大模型通过图灵测试</a>
-                        <span class="trend-badge">1.9M</span>
-                    </div>
-                    
-                    <div class="trend-item">
-                        <a href="#" target="_blank">清华发布AI芯片突破性技术</a>
-                        <span class="trend-badge">1.5M</span>
-                    </div>
-                    
-                    <div class="trend-item">
-                        <a href="#" target="_blank">抖音推出AI视频剪辑助手</a>
-                        <span class="trend-badge">1.2M</span>
-                    </div>
-                    
+                </div>
+                <div style="text-align: center; margin-top: 10px;">
+                    <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
                 </div>
             </div>
 
+            <!-- AI热搜榜 -->
             <div class="trend-card">
-                <div class="trend-title">GitHub Trending</div>
+                <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
+                    🤖 AI热搜榜
+                    <span
+                        style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">AI专属</span>
+                </div>
+                <div class="trend-list">
+                    
+                    <div class="trend-item">
+                        <span style="color: #da552f; font-weight: bold; margin-right: 8px; font-size: 12px;">🚀</span>
+                        <a href="#" target="_blank">ChatGPT Canvas - AI协作写作工具</a>
+                        <span class="trend-badge">👍 2.3k</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <span style="color: #da552f; font-weight: bold; margin-right: 8px; font-size: 12px;">🚀</span>
+                        <a href="#" target="_blank">Cursor IDE - AI代码编辑器</a>
+                        <span class="trend-badge">👍 1.8k</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <span style="color: #da552f; font-weight: bold; margin-right: 8px; font-size: 12px;">🚀</span>
+                        <a href="#" target="_blank">v0 by Vercel - AI生成UI</a>
+                        <span class="trend-badge">👍 1.5k</span>
+                    </div>
+                    
+                    
+                    <div class="trend-item">
+                        <span style="color: #ffcc00; font-weight: bold; margin-right: 8px; font-size: 12px;">🤗</span>
+                        <a href="#" target="_blank" style="font-family: monospace; font-size: 11px;">meta-llama/Llama-3.3-70B</a>
+                        <span class="trend-badge">⬇️ 5.2M</span>
+                    </div>
+                    
+                    <div class="trend-item">
+                        <span style="color: #ffcc00; font-weight: bold; margin-right: 8px; font-size: 12px;">🤗</span>
+                        <a href="#" target="_blank" style="font-family: monospace; font-size: 11px;">stabilityai/stable-diffusion-3.5</a>
+                        <span class="trend-badge">⬇️ 3.8M</span>
+                    </div>
+                    
+                </div>
+                <div style="text-align: center; margin-top: 10px;">
+                    <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
+                </div>
+            </div>
+
+            <!-- GitHub Trending -->
+            <div class="trend-card">
+                <div class="trend-title">💻 GitHub Trending</div>
                 <div class="trend-list">
                     
                     <div class="trend-item">
@@ -1055,6 +1122,16 @@
                         <span class="trend-badge">⭐184</span>
                     </div>
                     
+                </div>
+            </div>
+
+            <!-- 更新时间 -->
+            <div class="trend-card"
+                style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+                <div style="font-size:12px; text-align: center;">
+                    <div style="font-weight: bold; margin-bottom: 5px;">⏱️ 自动更新</div>
+                    <div style="opacity: 0.9;">每30分钟刷新一次</div>
+                    <div style="opacity: 0.7; margin-top: 5px; font-size: 10px;">上次更新: 2026-01-30 00:22:10</div>
                 </div>
             </div>
 
@@ -1212,6 +1289,26 @@
         // Welcome Message
         window.addEventListener('load', () => {
             setTimeout(() => showToast('欢迎来到 AI 资讯站！🚀', 'success'), 500);
+        });
+
+        // View More Links
+        document.querySelectorAll('.view-more-link').forEach(link => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = this.getAttribute('data-target');
+
+                // Switch to trending tab
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelector('.tab[data-tab="' + target + '"]').classList.add('active');
+
+                document.querySelectorAll('.view-content').forEach(v => v.classList.remove('active'));
+                document.getElementById('view-' + target).classList.add('active');
+
+                // Scroll to top smoothly
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+
+                showToast('已切换到榜单视图 📊');
+            });
         });
     </script>
 </body>
