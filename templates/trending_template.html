@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <!-- 此文件包含榜单视图的完整HTML内容，包含子标签和视频部分 -->
+</head>
+
+<body>
+    <!-- 榜单视图 with 子标签 -->
+    <div id="view-trending" class="view-content active">
+        <!-- 榜单子标签 -->
+        <div
+            style="background: white; padding: 15px; border-radius: 8px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+            <div class="trending-tabs"
+                style="display: flex; gap: 10px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px;">
+                <div class="trending-tab active" data-trending="weibo"
+                    style="padding: 8px 16px; cursor: pointer; border-radius: 4px 4px 0 0; transition: all 0.2s;">
+                    🔥 微博热搜
+                </div>
+                <div class="trending-tab" data-trending="zhihu"
+                    style="padding: 8px 16px; cursor: pointer; border-radius: 4px 4px 0 0; transition: all 0.2s;">
+                    💬 知乎热榜
+                </div>
+                <div class="trending-tab" data-trending="bilibili"
+                    style="padding: 8px 16px; cursor: pointer; border-radius: 4px 4px 0 0; transition: all 0.2s;">
+                    📺 B站热门
+                </div>
+                <div class="trending-tab" data-trending="ai"
+                    style="padding: 8px 16px; cursor: pointer; border-radius: 4px 4px 0 0; transition: all 0.2s;">
+                    🤖 AI热榜
+                </div>
+            </div>
+        </div>
+
+        <!-- 微博热搜 -->
+        <div class="trending-content" id="trending-weibo">
+            <div class="feed-card">
+                <div
+                    style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                    🔥 微博热搜榜
+                    <span style="font-size: 12px; color: #999; font-weight: normal;">实时更新</span>
+                </div>
+                {% for item in enriched_trending.domestic_trending.weibo %}
+                <div class="trend-item">
+                    <span style="color: var(--accent); font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">{{ item.hot }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- 知乎热榜 -->
+        <div class="trending-content" id="trending-zhihu" style="display: none;">
+            <div class="feed-card">
+                <div
+                    style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                    💬 知乎热榜
+                    <span style="font-size: 12px; color: #999; font-weight: normal;">热度Top50</span>
+                </div>
+                {% for item in enriched_trending.domestic_trending.zhihu %}
+                <div class="trend-item">
+                    <span style="color: #0084ff; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">{{ item.hot }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- B站热门 -->
+        <div class="trending-content" id="trending-bilibili" style="display: none;">
+            <div class="feed-card">
+                <div
+                    style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                    📺 B站热门
+                    <span style="font-size: 12px; color: #999; font-weight: normal;">综合榜</span>
+                </div>
+                {% for item in enriched_trending.domestic_trending.bilibili %}
+                <div class="trend-item">
+                    <span style="color: #00a1d6; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">{{ item.hot }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- AI热榜 -->
+        <div class="trending-content" id="trending-ai" style="display: none;">
+            <div class="feed-card">
+                <div
+                    style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                    🚀 Product Hunt AI
+                    <span style="font-size: 12px; color: #999; font-weight: normal;">今日最热</span>
+                </div>
+                {% for item in enriched_trending.ai_trending.producthunt %}
+                <div class="trend-item">
+                    <span style="color: #da552f; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">👍 {{ item.votes }}</span>
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="feed-card">
+                <div
+                    style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                    🤗 HuggingFace热门模型
+                    <span style="font-size: 12px; color: #999; font-weight: normal;">下载量排行</span>
+                </div>
+                {% for item in enriched_trending.ai_trending.huggingface %}
+                <div class="trend-item">
+                    <span style="color: #ffcc00; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                    <a href="{{ item.url }}" target="_blank" style="font-family: monospace; font-size: 12px;">{{
+                        item.title }}</a>
+                    <span class="trend-badge">⬇️ {{ item.downloads }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- 视频视图 -->
+    <div id="view-video" class="view-content">
+        {% for video in enriched_trending.ai_videos %}
+        <div class="feed-card" data-category="video">
+            <div class="card-header">
+                <div class="avatar"
+                    style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; display: flex; align-items: center; justify-content: center; font-size: 20px;">
+                    📺
+                </div>
+                <div class="user-info">
+                    <div class="username">AI视频精选</div>
+                    <div class="time">{{ video.duration }} · {{ video.views }} 观看</div>
+                </div>
+            </div>
+            <div class="content-text">
+                <a href="{{ video.url }}" target="_blank"
+                    style="color: inherit; text-decoration: none; font-weight: 500;">
+                    {{ video.title }}
+                </a>
+            </div>
+            <div
+                style="background: #f5f5f5; padding: 10px; border-radius: 8px; margin: 10px 0; display: flex; align-items: center; gap: 10px;">
+                <div
+                    style="width: 120px; height: 70px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 4px; display: flex; align-items: center; justify-content: center; color: white; font-size: 24px;">
+                    ▶️
+                </div>
+                <div style="flex: 1;">
+                    <div style="font-size: 12px; color: #666;">时长: {{ video.duration }}</div>
+                    <div style="font-size: 12px; color: #666; margin-top: 4px;">{{ video.views }} 次播放</div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <span class="action-btn">🔁 转发</span>
+                <span class="action-btn">💬 评论</span>
+                <span class="action-btn">👍 赞</span>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- JavaScript for Trending Tabs -->
+    <script>
+        // Trending Sub-tabs
+        document.querySelectorAll('.trending-tab').forEach(tab => {
+            tab.addEventListener('click', function () {
+                const target = this.getAttribute('data-trending');
+
+                // Update tabs
+                document.querySelectorAll('.trending-tab').forEach(t => {
+                    t.classList.remove('active');
+                    t.style.background = 'transparent';
+                    t.style.color = '#666';
+                });
+                this.classList.add('active');
+                this.style.background = 'var(--accent)';
+                this.style.color = 'white';
+
+                // Update content
+                document.querySelectorAll('.trending-content').forEach(c => c.style.display = 'none');
+                document.getElementById('trending-' + target).style.display = 'block';
+
+                showToast('切换到 ' + this.textContent.trim());
+            });
+        });
+
+        // Set initial state
+        const firstTab = document.querySelector('.trending-tab.active');
+        if (firstTab) {
+            firstTab.style.background = 'var(--accent)';
+            firstTab.style.color = 'white';
+        }
+    </script>
+</body>
+
+</html>

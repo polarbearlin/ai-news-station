@@ -514,141 +514,205 @@
 
             <!-- View: Trending (Hot Rankings) -->
             <div id="view-trending" class="view-content active">
-                <div class="feed-card">
-                    <div
-                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                        🔥 微博热搜榜
-                        <span style="font-size: 12px; color: #999; font-weight: normal;">实时更新</span>
+                <!-- 榜单子标签 -->
+                <div
+                    style="background: white; padding: 15px; border-radius: 8px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                    <div class="trending-tabs" style="display: flex; gap: 10px; flex-wrap: wrap;">
+                        <div class="trending-tab active" data-trending="weibo"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: var(--accent); color: white; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            🔥 微博热搜
+                        </div>
+                        <div class="trending-tab" data-trending="zhihu"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            💬 知乎热榜
+                        </div>
+                        <div class="trending-tab" data-trending="bilibili"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            📺 B站热门
+                        </div>
+                        <div class="trending-tab" data-trending="ai"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            🤖 AI热榜
+                        </div>
                     </div>
-                    {% for item in trending_items.weibo %}
-                    <div class="trend-item">
-                        <span style="color: var(--accent); font-weight: bold; margin-right: 10px;">{{ loop.index
-                            }}</span>
-                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                        <span class="trend-badge">{{ item.hot }}</span>
-                    </div>
-                    {% endfor %}
                 </div>
 
-                <div class="feed-card">
-                    <div
-                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                        🤔 知乎热榜
+                <!-- 微博热搜 -->
+                <div class="trending-content" id="trending-weibo">
+                    <div class="feed-card">
+                        <div
+                            style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            🔥 微博热搜榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时更新</span>
+                        </div>
+                        {% for item in enriched_trending.domestic_trending.weibo %}
+                        <div class="trend-item">
+                            <span style="color: var(--accent); font-weight: bold; margin-right: 10px;">{{ loop.index
+                                }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">{{ item.hot }}</span>
+                        </div>
+                        {% endfor %}
                     </div>
-                    {% for item in trending_items.zhihu %}
-                    <div class="trend-item">
-                        <span style="color: #0084ff; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
-                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                        <span class="trend-badge">{{ item.hot }}</span>
-                    </div>
-                    {% endfor %}
                 </div>
 
-                <div class="feed-card">
-                    <div
-                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                        🔍 百度热搜
+                <!-- 知乎热榜 -->
+                <div class="trending-content" id="trending-zhihu" style="display: none;">
+                    <div class="feed-card">
+                        <div
+                            style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            💬 知乎热榜 <span style="font-size: 12px; color: #999; font-weight: normal;">热度Top50</span>
+                        </div>
+                        {% for item in enriched_trending.domestic_trending.zhihu %}
+                        <div class="trend-item">
+                            <span style="color: #0084ff; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">{{ item.hot }}</span>
+                        </div>
+                        {% endfor %}
                     </div>
-                    {% for item in trending_items.baidu %}
-                    <div class="trend-item">
-                        <span style="color: #2932e1; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
-                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                        <span class="trend-badge">{{ item.hot }}</span>
+                </div>
+
+                <!-- B站热门 -->
+                <div class="trending-content" id="trending-bilibili" style="display: none;">
+                    <div class="feed-card">
+                        <div
+                            style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            📺 B站热门 <span style="font-size: 12px; color: #999; font-weight: normal;">综合榜</span>
+                        </div>
+                        {% for item in enriched_trending.domestic_trending.bilibili %}
+                        <div class="trend-item">
+                            <span style="color: #00a1d6; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">{{ item.hot }}</span>
+                        </div>
+                        {% endfor %}
                     </div>
-                    {% endfor %}
+                </div>
+
+                <!-- AI热榜 -->
+                <div class="trending-content" id="trending-ai" style="display: none;">
+                    <div class="feed-card">
+                        <div
+                            style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            🚀 Product Hunt AI <span
+                                style="font-size: 12px; color: #999; font-weight: normal;">今日最热</span>
+                        </div>
+                        {% for item in enriched_trending.ai_trending.producthunt %}
+                        <div class="trend-item">
+                            <span style="color: #da552f; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">👍 {{ item.votes }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <div class="feed-card">
+                        <div
+                            style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            🤗 HuggingFace热门模型 <span
+                                style="font-size: 12px; color: #999; font-weight: normal;">下载量排行</span>
+                        </div>
+                        {% for item in enriched_trending.ai_trending.huggingface %}
+                        <div class="trend-item">
+                            <span style="color: #ffcc00; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank" style="font-family: monospace; font-size: 12px;">{{
+                                item.title }}</a>
+                            <span class="trend-badge">⬇️ {{ item.downloads }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="right-sidebar">
-            <!-- 国内热搜榜 -->
-            <div class="trend-card">
-                <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
-                    📱 国内热搜榜
-                    <span
-                        style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">实时</span>
-                </div>
-                <div class="trend-list">
-                    {% for item in enriched_trending.domestic_trending.weibo[:3] %}
-                    <div class="trend-item">
-                        <span style="color: #ff8200; font-weight: bold; margin-right: 8px; font-size: 12px;">🔥</span>
-                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                        <span class="trend-badge">{{ item.hot }}</span>
-                    </div>
-                    {% endfor %}
-                    {% for item in enriched_trending.domestic_trending.zhihu[:2] %}
-                    <div class="trend-item">
-                        <span style="color: #0084ff; font-weight: bold; margin-right: 8px; font-size: 12px;">💬</span>
-                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                        <span class="trend-badge">{{ item.hot }}</span>
-                    </div>
-                    {% endfor %}
-                </div>
-                <div style="text-align: center; margin-top: 10px;">
-                    <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
-                </div>
+    <div class="right-sidebar">
+        <!-- 国内热搜榜 -->
+        <div class="trend-card">
+            <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
+                📱 国内热搜榜
+                <span
+                    style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">实时</span>
             </div>
-
-            <!-- AI热搜榜 -->
-            <div class="trend-card">
-                <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
-                    🤖 AI热搜榜
-                    <span
-                        style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">AI专属</span>
+            <div class="trend-list">
+                {% for item in enriched_trending.domestic_trending.weibo[:3] %}
+                <div class="trend-item">
+                    <span style="color: #ff8200; font-weight: bold; margin-right: 8px; font-size: 12px;">🔥</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">{{ item.hot }}</span>
                 </div>
-                <div class="trend-list">
-                    {% for item in enriched_trending.ai_trending.producthunt[:3] %}
-                    <div class="trend-item">
-                        <span style="color: #da552f; font-weight: bold; margin-right: 8px; font-size: 12px;">🚀</span>
-                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                        <span class="trend-badge">👍 {{ item.votes }}</span>
-                    </div>
-                    {% endfor %}
-                    {% for item in enriched_trending.ai_trending.huggingface[:2] %}
-                    <div class="trend-item">
-                        <span style="color: #ffcc00; font-weight: bold; margin-right: 8px; font-size: 12px;">🤗</span>
-                        <a href="{{ item.url }}" target="_blank" style="font-family: monospace; font-size: 11px;">{{
-                            item.title }}</a>
-                        <span class="trend-badge">⬇️ {{ item.downloads }}</span>
-                    </div>
-                    {% endfor %}
+                {% endfor %}
+                {% for item in enriched_trending.domestic_trending.zhihu[:2] %}
+                <div class="trend-item">
+                    <span style="color: #0084ff; font-weight: bold; margin-right: 8px; font-size: 12px;">💬</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">{{ item.hot }}</span>
                 </div>
-                <div style="text-align: center; margin-top: 10px;">
-                    <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
-                </div>
+                {% endfor %}
             </div>
-
-            <!-- GitHub Trending -->
-            <div class="trend-card">
-                <div class="trend-title">💻 GitHub Trending</div>
-                <div class="trend-list">
-                    {% for item in github_items[:5] %}
-                    <div class="trend-item">
-                        <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-                        <span class="trend-badge">⭐{{ item.stars }}</span>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-
-            <!-- 更新时间 -->
-            <div class="trend-card"
-                style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
-                <div style="font-size:12px; text-align: center;">
-                    <div style="font-weight: bold; margin-bottom: 5px;">⏱️ 自动更新</div>
-                    <div style="opacity: 0.9;">每30分钟刷新一次</div>
-                    <div style="opacity: 0.7; margin-top: 5px; font-size: 10px;">上次更新: {{ enriched_trending.last_updated
-                        }}</div>
-                </div>
-            </div>
-
-            <div class="trend-card">
-                <div style="font-size:12px; color:#999;">
-                    AI News Station © 2026<br>
-                    Powered by EdgeOne & GitHub Actions
-                </div>
+            <div style="text-align: center; margin-top: 10px;">
+                <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
             </div>
         </div>
+
+        <!-- AI热搜榜 -->
+        <div class="trend-card">
+            <div class="trend-title" style="display: flex; align-items: center; gap: 8px;">
+                🤖 AI热搜榜
+                <span
+                    style="font-size: 10px; color: #999; font-weight: normal; background: #f0f0f0; padding: 2px 6px; border-radius: 3px;">AI专属</span>
+            </div>
+            <div class="trend-list">
+                {% for item in enriched_trending.ai_trending.producthunt[:3] %}
+                <div class="trend-item">
+                    <span style="color: #da552f; font-weight: bold; margin-right: 8px; font-size: 12px;">🚀</span>
+                    <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                    <span class="trend-badge">👍 {{ item.votes }}</span>
+                </div>
+                {% endfor %}
+                {% for item in enriched_trending.ai_trending.huggingface[:2] %}
+                <div class="trend-item">
+                    <span style="color: #ffcc00; font-weight: bold; margin-right: 8px; font-size: 12px;">🤗</span>
+                    <a href="{{ item.url }}" target="_blank" style="font-family: monospace; font-size: 11px;">{{
+                        item.title }}</a>
+                    <span class="trend-badge">⬇️ {{ item.downloads }}</span>
+                </div>
+                {% endfor %}
+            </div>
+            <div style="text-align: center; margin-top: 10px;">
+                <a href="#" class="view-more-link" data-target="trending">查看更多 →</a>
+            </div>
+        </div>
+
+        <!-- GitHub Trending -->
+        <div class="trend-card">
+            <div class="trend-title">💻 GitHub Trending</div>
+            <div class="trend-list">
+                {% for item in github_items[:5] %}
+                <div class="trend-item">
+                    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                    <span class="trend-badge">⭐{{ item.stars }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- 更新时间 -->
+        <div class="trend-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+            <div style="font-size:12px; text-align: center;">
+                <div style="font-weight: bold; margin-bottom: 5px;">⏱️ 自动更新</div>
+                <div style="opacity: 0.9;">每30分钟刷新一次</div>
+                <div style="opacity: 0.7; margin-top: 5px; font-size: 10px;">上次更新: {{ enriched_trending.last_updated
+                    }}</div>
+            </div>
+        </div>
+
+        <div class="trend-card">
+            <div style="font-size:12px; color:#999;">
+                AI News Station © 2026<br>
+                Powered by EdgeOne & GitHub Actions
+            </div>
+        </div>
+    </div>
     </div>
 
     <script>
@@ -796,6 +860,30 @@
         // Welcome Message
         window.addEventListener('load', () => {
             setTimeout(() => showToast('欢迎来到 AI 资讯站！🚀', 'success'), 500);
+        });
+
+        // Trending Sub-tabs
+        document.querySelectorAll('.trending-tab').forEach(tab => {
+            tab.addEventListener('click', function () {
+                const target = this.getAttribute('data-trending');
+
+                // Update tabs
+                document.querySelectorAll('.trending-tab').forEach(t => {
+                    t.style.background = '#f0f0f0';
+                    t.style.color = '#666';
+                });
+                this.style.background = 'var(--accent)';
+                this.style.color = 'white';
+
+                // Update content
+                document.querySelectorAll('.trending-content').forEach(c => c.style.display = 'none');
+                const targetContent = document.getElementById('trending-' + target);
+                if (targetContent) {
+                    targetContent.style.display = 'block';
+                }
+
+                showToast('切换到 ' + this.textContent.trim());
+            });
         });
 
         // View More Links
