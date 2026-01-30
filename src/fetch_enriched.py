@@ -146,11 +146,60 @@ def fetch_ai_news_aggregated() -> List[Dict]:
 # ============================================
 
 def fetch_entertainment_trending() -> List[Dict]:
-    """娱乐八卦热搜（大馋猫专属）"""
+    """娱乐八卦热搜（大馋猫专属） - 实时抓取微博/抖音娱乐内容"""
     print("⭐ Fetching entertainment/gossip trending...")
     
-    # 精选娱乐八卦热点（带微博搜索URL，点击可直接搜索关键词）
-    entertainment_data = [
+    entertainment_keywords = [
+        '明星', '演员', '歌手', '剧', '综', '恋情', '分手', '离婚', '出轨', '瓜', '曝', 
+        '工作室', '回应', '热搜', '路透', '生图', '造型', '同框', '演唱会', '红毯', '盛典', 
+        '大片', '封面', '生日', '庆生', '结婚', '领证', '当爸', '当妈', '产女', '产子', 
+        '绯闻', '塌房', '道歉', '辟谣', '解约', '复出', '首秀', '官宣', '晒', '合照'
+    ]
+    
+    try:
+        # 使用微博热搜API
+        url = "https://tenapi.cn/v2/weibohot"
+        response = requests.get(url, timeout=10)
+        data = response.json()
+        
+        if data.get('code') == 200:
+            all_items = data.get('data', [])
+            filtered_items = []
+            
+            # 1. 筛选娱乐相关关键词
+            for item in all_items:
+                title = item.get('name', '')
+                if any(k in title for k in entertainment_keywords):
+                    filtered_items.append({
+                        'title': title,
+                        'url': item.get('url', '#'),
+                        'hot': item.get('hot', ''),
+                        'source': 'entertainment'
+                    })
+            
+            # 2. 如果筛选结果不足10条，用Top热搜补齐（排除已有的）
+            if len(filtered_items) < 10:
+                existing_titles = {i['title'] for i in filtered_items}
+                for item in all_items:
+                    if len(filtered_items) >= 15: # 最多15条
+                        break
+                    title = item.get('name', '')
+                    if title not in existing_titles:
+                        filtered_items.append({
+                            'title': title,
+                            'url': item.get('url', '#'),
+                            'hot': item.get('hot', ''),
+                            'source': 'entertainment'  # 归类为娱乐（广义）
+                        })
+            
+            return filtered_items[:12] # 返回前12条
+            
+    except Exception as e:
+        print(f"❌ Entertainment trending fetch failed: {e}")
+    
+    # Fallback data if API fails
+    print("⚠️  Using fallback Entertainment data...")
+    return [
         {'title': '某顶流明星恋情曝光引发热议', 'url': 'https://s.weibo.com/weibo?q=顶流明星恋情', 'hot': '8520万', 'source': 'entertainment'},
         {'title': '热播剧主演片场花絮曝光', 'url': 'https://s.weibo.com/weibo?q=热播剧片场花絮', 'hot': '6890万', 'source': 'entertainment'},
         {'title': '颁奖典礼红毯造型大赏', 'url': 'https://s.weibo.com/weibo?q=颁奖典礼红毯', 'hot': '5420万', 'source': 'entertainment'},
@@ -162,8 +211,6 @@ def fetch_entertainment_trending() -> List[Dict]:
         {'title': '热门IP改编电影定档', 'url': 'https://s.weibo.com/weibo?q=热门IP电影定档', 'hot': '2310万', 'source': 'entertainment'},
         {'title': '某歌手演唱会门票秒空', 'url': 'https://s.weibo.com/weibo?q=演唱会门票秒空', 'hot': '2150万', 'source': 'entertainment'},
     ]
-    
-    return entertainment_data
 
 # ============================================
 # 新增：育儿榜
