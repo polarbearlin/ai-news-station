@@ -634,6 +634,231 @@
         </div>
     </div>
 
+    <script>
+        // ============================================
+        // Tab Switching (推荐/关注/榜单)
+        // ============================================
+        document.querySelectorAll('.tab-bar .tab').forEach(tab => {
+            tab.addEventListener('click', function () {
+                // Remove active from all tabs
+                document.querySelectorAll('.tab-bar .tab').forEach(t => t.classList.remove('active'));
+                // Add active to clicked tab
+                this.classList.add('active');
+
+                // Show toast notification
+                showToast(`切换到 "${this.textContent}" 视图`);
+            });
+        });
+
+        // ============================================
+        // Left Navigation Menu
+        // ============================================
+        document.querySelectorAll('.menu-item').forEach(menuItem => {
+            menuItem.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                // Remove active from all menu items
+                document.querySelectorAll('.menu-item').forEach(m => m.classList.remove('active'));
+                // Add active to clicked item
+                this.classList.add('active');
+
+                // Extract menu name
+                const menuName = this.textContent.trim();
+                showToast(`导航至: ${menuName}`);
+            });
+        });
+
+        // ============================================
+        // Search Functionality
+        // ============================================
+        const searchInput = document.querySelector('.search-bar input');
+        let searchTimeout;
+
+        searchInput.addEventListener('input', function () {
+            clearTimeout(searchTimeout);
+            const query = this.value.toLowerCase();
+
+            searchTimeout = setTimeout(() => {
+                if (query.length === 0) {
+                    // Show all cards
+                    document.querySelectorAll('.feed-card').forEach(card => {
+                        card.style.display = 'block';
+                    });
+                    return;
+                }
+
+                // Filter feed cards by content
+                document.querySelectorAll('.feed-card').forEach(card => {
+                    const text = card.textContent.toLowerCase();
+                    if (text.includes(query)) {
+                        card.style.display = 'block';
+                        card.style.animation = 'fadeIn 0.3s';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+
+                showToast(`搜索: "${this.value}"`);
+            }, 300);
+        });
+
+        // ============================================
+        // Action Button Interactions
+        // ============================================
+        document.querySelectorAll('.action-btn').forEach(btn => {
+            btn.addEventListener('click', function () {
+                const action = this.textContent.trim();
+
+                // Add animation
+                this.style.transform = 'scale(1.2)';
+                setTimeout(() => {
+                    this.style.transform = 'scale(1)';
+                }, 200);
+
+                // Change color temporarily
+                const originalColor = this.style.color;
+                this.style.color = 'var(--accent)';
+                setTimeout(() => {
+                    this.style.color = originalColor;
+                }, 500);
+
+                showToast(`${action} 成功！`);
+            });
+        });
+
+        // ============================================
+        // Publish Button
+        // ============================================
+        const publishBtn = document.querySelector('button');
+        if (publishBtn) {
+            publishBtn.addEventListener('click', function () {
+                showToast('发布成功！你的想法已分享 🎉', 'success');
+
+                // Animation
+                this.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    this.style.transform = 'scale(1)';
+                }, 100);
+            });
+        }
+
+        // ============================================
+        // Image Click Lightbox Effect
+        // ============================================
+        document.querySelectorAll('.content-image-item').forEach(imgItem => {
+            imgItem.addEventListener('click', function () {
+                const img = this.querySelector('img');
+                if (!img) return;
+
+                // Create lightbox overlay
+                const overlay = document.createElement('div');
+                overlay.style.cssText = `
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100vw;
+                    height: 100vh;
+                    background: rgba(0,0,0,0.9);
+                    z-index: 9999;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    cursor: zoom-out;
+                `;
+
+                const bigImg = document.createElement('img');
+                bigImg.src = img.src;
+                bigImg.style.cssText = 'max-width: 90%; max-height: 90%; border-radius: 8px;';
+
+                overlay.appendChild(bigImg);
+                document.body.appendChild(overlay);
+
+                // Close on click
+                overlay.addEventListener('click', () => {
+                    document.body.removeChild(overlay);
+                });
+            });
+        });
+
+        // ============================================
+        // Toast Notification System
+        // ============================================
+        function showToast(message, type = 'info') {
+            const toast = document.createElement('div');
+            toast.textContent = message;
+            toast.style.cssText = `
+                position: fixed;
+                bottom: 30px;
+                right: 30px;
+                background: ${type === 'success' ? '#10b981' : '#ff8200'};
+                color: white;
+                padding: 12px 20px;
+                border-radius: 8px;
+                font-size: 14px;
+                font-weight: 600;
+                z-index: 10000;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+                animation: slideIn 0.3s ease-out;
+            `;
+
+            document.body.appendChild(toast);
+
+            setTimeout(() => {
+                toast.style.animation = 'slideOut 0.3s ease-out';
+                setTimeout(() => {
+                    document.body.removeChild(toast);
+                }, 300);
+            }, 2000);
+        }
+
+        // ============================================
+        // Animations
+        // ============================================
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+            }
+            
+            @keyframes slideOut {
+                from {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+                to {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+            }
+            
+            @keyframes fadeIn {
+                from { opacity: 0; transform: translateY(10px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+
+            .action-btn {
+                transition: all 0.2s ease;
+            }
+        `;
+        document.head.appendChild(style);
+
+        // ============================================
+        // Startup Message
+        // ============================================
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                showToast('欢迎来到 AI 资讯站！🚀', 'success');
+            }, 500);
+        });
+    </script>
+
 </body>
 
 </html>
