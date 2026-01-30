@@ -2,8 +2,8 @@ name: Auto-Update & Deploy
 
 on:
   schedule:
-    # 每 2 小时运行一次 (省 Actions 额度又保持数据新鲜)
-    - cron: '0 */2 * * *'
+    # 每 4 小时运行一次 (更省 Actions 额度)
+    - cron: '0 */4 * * *'
   workflow_dispatch:  # 允许手动触发
   push:
     branches:
