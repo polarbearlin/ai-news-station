@@ -583,7 +583,7 @@
                     <div class="trending-tabs" style="display: flex; gap: 10px; flex-wrap: wrap;">
                         <div class="trending-tab active" data-trending="weibo"
                             style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: var(--accent); color: white; transition: all 0.2s; font-size: 14px; font-weight: 500;">
-                            🔥 微博热搜
+                            🔥 今日头条
                         </div>
                         <div class="trending-tab" data-trending="zhihu"
                             style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
@@ -612,12 +612,12 @@
                     </div>
                 </div>
 
-                <!-- 微博热搜 -->
+                <!-- 今日头条 -->
                 <div class="trending-content" id="trending-weibo">
                     <div class="feed-card">
                         <div
                             style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                            🔥 微博热搜榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时更新</span>
+                            🔥 今日头条榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时更新</span>
                         </div>
                         {% for item in enriched_trending.domestic_trending.weibo %}
                         <div class="trend-item">
