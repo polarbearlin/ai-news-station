@@ -395,7 +395,7 @@
             </div>
 
             <!-- View: Recommend (Default) -->
-            <div id="view-recommend" class="view-content active">
+            <div id="view-recommend" class="view-content">
                 {% for item in showcase_items %}
                 <div class="feed-card" data-category="gallery">
                     <div class="card-header">
@@ -513,7 +513,7 @@
             </div>
 
             <!-- View: Trending (Hot Rankings) -->
-            <div id="view-trending" class="view-content">
+            <div id="view-trending" class="view-content active">
                 <div class="feed-card">
                     <div
                         style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
@@ -806,10 +806,16 @@
 
                 // Switch to trending tab
                 document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-                document.querySelector('.tab[data-tab="' + target + '"]').classList.add('active');
+                const targetTab = document.querySelector('.tab[data-tab="' + target + '"]');
+                if (targetTab) {
+                    targetTab.classList.add('active');
+                }
 
                 document.querySelectorAll('.view-content').forEach(v => v.classList.remove('active'));
-                document.getElementById('view-' + target).classList.add('active');
+                const targetView = document.getElementById('view-' + target);
+                if (targetView) {
+                    targetView.classList.add('active');
+                }
 
                 // Scroll to top smoothly
                 window.scrollTo({ top: 0, behavior: 'smooth' });
