@@ -19,9 +19,11 @@ DAILYHOT_API_BASE = "http://43.160.204.149:8080"
 # ============================================
 
 def fetch_weibo_trending() -> List[Dict]:
-    """微博热搜 (via DailyHotApi)"""
+    """微博热搜 (由于免费API已全部停运，改用今日头条热榜替代)"""
+    # 注：tenapi.cn 已于 2024-11-27 停运，DailyHotApi 微博源也不稳定
+    # 改用今日头条热榜作为主要新闻源
     try:
-        url = f"{DAILYHOT_API_BASE}/weibo"
+        url = f"{DAILYHOT_API_BASE}/toutiao"
         response = requests.get(url, timeout=15)
         data = response.json()
         
@@ -30,10 +32,11 @@ def fetch_weibo_trending() -> List[Dict]:
                 'title': item.get('title', ''),
                 'url': item.get('url', '#'),
                 'hot': str(item.get('hot', '')),
-                'source': 'weibo'
+                'source': 'toutiao'  # 标记为今日头条
             } for item in data.get('data', [])[:15]]
     except Exception as e:
-        print(f"❌ Weibo trending failed: {e}")
+        print(f"❌ Toutiao trending failed: {e}")
+    
     return []
 
 def fetch_zhihu_trending() -> List[Dict]:
