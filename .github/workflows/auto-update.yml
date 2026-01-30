@@ -1,14 +1,22 @@
-name: Auto-Update Content
+name: Auto-Update & Deploy
 
 on:
   schedule:
-    # 每30分钟运行一次
-    - cron: '*/30 * * * *'
+    # 每 2 小时运行一次 (省 Actions 额度又保持数据新鲜)
+    - cron: '0 */2 * * *'
   workflow_dispatch:  # 允许手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'templates/**'
 
 jobs:
-  update-content:
+  update-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -22,21 +30,35 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests jinja2
+          pip install -r requirements.txt
       
       - name: Fetch all data sources
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python src/fetch_news.py
-          python src/fetch_github.py
-          python src/fetch_enriched.py
+          echo "📱 Fetching news..."
+          python src/fetch_news.py || true
+          
+          echo "📊 Fetching GitHub trending..."
+          python src/fetch_github.py || true
+          
+          echo "🔥 Fetching enriched trending (热搜/娱乐/游戏/AI)..."
+          python src/fetch_enriched.py || true
       
       - name: Generate static site
         run: |
           python src/generate_site.py
       
-      - name: Commit and push if changes
+      - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/ dist/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto-update content $(date '+%Y-%m-%d %H:%M:%S')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto-update content $(date '+%Y-%m-%d %H:%M UTC')" && git push)
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
