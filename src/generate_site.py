@@ -28,6 +28,9 @@ def generate_html():
 
     showcase_data = load_data('showcase.json')
     showcase_items = showcase_data.get('showcase', []) if isinstance(showcase_data, dict) else []
+
+    trending_data = load_data('trending.json')
+    trending_items = trending_data if isinstance(trending_data, dict) else {}
     
     # Prepare template environment
     template_dir = os.path.join(BASE_DIR, 'templates')
@@ -45,6 +48,7 @@ def generate_html():
         'github_items': github_items,
         'tools_items': tools_items,
         'showcase_items': showcase_items,
+        'trending_items': trending_items,
     }
     
     # Render

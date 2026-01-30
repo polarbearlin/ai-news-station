@@ -8,12 +8,10 @@
     <style>
         :root {
             --bg-color: #f2f2f2;
-            /* Weibo light gray bg */
             --card-bg: #ffffff;
             --text-primary: #333333;
             --text-secondary: #808080;
             --accent: #ff8200;
-            /* Weibo Orange */
             --link-color: #eb7350;
             --border: #e6e6e6;
             --nav-height: 60px;
@@ -27,7 +25,6 @@
             padding-top: calc(var(--nav-height) + 20px);
         }
 
-        /* Top Navigation */
         .navbar {
             height: var(--nav-height);
             background: #fff;
@@ -78,13 +75,11 @@
             padding: 5px;
         }
 
-        /* Main Layout */
         .container {
             max-width: 1100px;
             margin: 0 auto;
             display: grid;
             grid-template-columns: 150px 1fr 300px;
-            /* Left, Center, Right */
             gap: 20px;
             padding: 0 20px;
         }
@@ -100,7 +95,6 @@
             }
         }
 
-        /* Left Sidebar (Nav) */
         .left-sidebar {
             position: sticky;
             top: 90px;
@@ -115,6 +109,7 @@
             color: var(--text-primary);
             text-decoration: none;
             cursor: pointer;
+            transition: color 0.2s;
         }
 
         .menu-item:hover,
@@ -122,7 +117,6 @@
             color: var(--accent);
         }
 
-        /* Center Feed */
         .main-feed {
             display: flex;
             flex-direction: column;
@@ -216,13 +210,13 @@
             display: flex;
             align-items: center;
             gap: 5px;
+            transition: all 0.2s;
         }
 
         .action-btn:hover {
             color: var(--accent);
         }
 
-        /* Right Sidebar (Trending) */
         .right-sidebar {
             position: sticky;
             top: 90px;
@@ -279,16 +273,6 @@
             color: #999;
         }
 
-        .hot-tag {
-            background: #ff0000;
-            color: white;
-            padding: 1px 3px;
-            border-radius: 2px;
-            font-size: 10px;
-            margin-left: 5px;
-        }
-
-        /* Tool Tabs in Feed */
         .tab-bar {
             background: #fff;
             padding: 10px 20px;
@@ -298,7 +282,17 @@
             gap: 20px;
             font-weight: bold;
             color: #666;
+        }
+
+        .tab {
             cursor: pointer;
+            padding: 5px 10px;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+
+        .tab:hover {
+            background: #f5f5f5;
         }
 
         .tab.active {
@@ -317,7 +311,719 @@
             background: var(--accent);
             border-radius: 2px;
         }
+
+        .view-content {
+            display: none;
+        }
+
+        .view-content.active {
+            display: block;
+        }
     </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-content">
+            <div class="logo">AI <span>News Station</span></div>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search AI tools, news...">
+            </div>
+            <div style="font-size: 14px; color: #666;">Admin / Login</div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="left-sidebar">
+            <a href="#" class="menu-item active" data-view="hot">🔥 热门 (Hot)</a>
+            <a href="#" class="menu-item" data-view="video">📺 视频 (Video)</a>
+            <a href="#" class="menu-item" data-view="tools">🛠️ 工具 (Tools)</a>
+            <a href="#" class="menu-item" data-view="gallery">🎨 画廊 (Gallery)</a>
+            <div style="border-top: 1px solid #ddd; margin: 10px 0;"></div>
+            <a href="#" class="menu-item" data-view="favorite">我的收藏</a>
+        </div>
+
+        <div class="main-feed">
+            <div class="feed-card">
+                <div style="color:#999; font-size:14px; margin-bottom:10px;">有什么新鲜事想分享？</div>
+                <div style="display:flex; justify-content:flex-end;">
+                    <button id="publishBtn"
+                        style="background:var(--accent); color:white; border:none; padding:5px 15px; border-radius:4px; font-size:13px; cursor:pointer;">发布</button>
+                </div>
+            </div>
+
+            <div class="tab-bar">
+                <div class="tab active" data-tab="recommend">推荐</div>
+                <div class="tab" data-tab="follow">关注</div>
+                <div class="tab" data-tab="trending">榜单</div>
+            </div>
+
+            <!-- View: Recommend (Default) -->
+            <div id="view-recommend" class="view-content active">
+                {% for item in showcase_items %}
+                <div class="feed-card" data-category="gallery">
+                    <div class="card-header">
+                        <div class="avatar">
+                            <img src="https://ui-avatars.com/api/?name={{ item.author }}&background=random"
+                                alt="{{ item.author }}">
+                        </div>
+                        <div class="user-info">
+                            <div class="username">{{ item.author }}</div>
+                            <div class="time">Just now · 来自 {{ item.tool_used }}</div>
+                        </div>
+                    </div>
+                    <div class="content-text">
+                        {{ item.title }} - {{ item.prompt }}
+                        <span style="color:var(--link-color);">#AIArt #{{ item.tool_used }}</span>
+                    </div>
+                    <div class="content-images">
+                        <div class="content-image-item">
+                            <img src="{{ item.image_url }}" alt="Image" loading="lazy">
+                        </div>
+                        <div class="content-image-item">
+                            <img src="{{ item.image_url }}" alt="Image" loading="lazy"
+                                style="filter: hue-rotate(90deg);">
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="action-btn">🔁 转发</span>
+                        <span class="action-btn">💬 评论</span>
+                        <span class="action-btn">👍 赞</span>
+                    </div>
+                </div>
+                {% endfor %}
+
+                {% for tool in tools_items %}
+                <div class="feed-card" data-category="tools">
+                    <div class="card-header">
+                        <div class="avatar">
+                            <div
+                                style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:#f0f0f0; font-size:20px;">
+                                {{ tool.icon }}
+                            </div>
+                        </div>
+                        <div class="user-info">
+                            <div class="username">{{ tool.name }} Official</div>
+                            <div class="time">Recommended Tool</div>
+                        </div>
+                    </div>
+                    <div class="content-text">{{ tool.description }}</div>
+                    <div
+                        style="background:#f9f9f9; padding:10px; border-radius:4px; font-size:12px; display:flex; gap:10px;">
+                        <a href="{{ tool.url }}" target="_blank"
+                            style="color:var(--link-color); text-decoration:none;">🔗 Visit Website</a>
+                        {% for tag in tool.tags %}
+                        <span style="background:#e6e6e6; padding:2px 5px; border-radius:2px;">#{{ tag }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="card-footer">
+                        <span class="action-btn">📂 收藏工具</span>
+                        <span class="action-btn">🔗 直达链接</span>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <!-- View: Follow (News Feed) -->
+            <div id="view-follow" class="view-content">
+                {% for item in news_items %}
+                <div class="feed-card" data-category="news">
+                    <div class="card-header">
+                        <div class="avatar" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                        </div>
+                        <div class="user-info">
+                            <div class="username">{{ item.source }}</div>
+                            <div class="time">{{ item.time }}</div>
+                        </div>
+                    </div>
+                    <div class="content-text">
+                        <a href="{{ item.url }}" target="_blank" style="color: inherit; text-decoration: none;">
+                            {{ item.title }}
+                        </a>
+                        {% if item.score %}<span style="color:var(--accent); margin-left: 10px;">🔥 {{ item.score
+                            }}</span>{% endif %}
+                    </div>
+                    <div class="card-footer">
+                        <span class="action-btn">🔁 转发</span>
+                        <span class="action-btn">💬 评论</span>
+                        <span class="action-btn">👍 赞</span>
+                    </div>
+                </div>
+                {% endfor %}
+
+                {% for item in github_items %}
+                <div class="feed-card" data-category="news">
+                    <div class="card-header">
+                        <div class="avatar"
+                            style="background: #24292e; color: white; display: flex; align-items: center; justify-content: center; font-size: 20px;">
+                            💻</div>
+                        <div class="user-info">
+                            <div class="username">GitHub Trending</div>
+                            <div class="time">{{ item.language or "Repository" }}</div>
+                        </div>
+                    </div>
+                    <div class="content-text">
+                        <a href="{{ item.url }}" target="_blank" style="color: inherit; text-decoration: none;">
+                            <strong>{{ item.name }}</strong><br>
+                            <span style="font-size: 0.9em; color: #666;">{{ item.description }}</span>
+                        </a>
+                    </div>
+                    <div class="card-footer">
+                        <span>⭐ {{ item.stars }}</span>
+                        <span class="action-btn">📂 收藏</span>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <!-- View: Trending (Hot Rankings) -->
+            <div id="view-trending" class="view-content">
+                <div class="feed-card">
+                    <div
+                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        🔥 微博热搜榜
+                        <span style="font-size: 12px; color: #999; font-weight: normal;">实时更新</span>
+                    </div>
+                    {% for item in trending_items.weibo %}
+                    <div class="trend-item">
+                        <span style="color: var(--accent); font-weight: bold; margin-right: 10px;">{{ loop.index
+                            }}</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="feed-card">
+                    <div
+                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        🤔 知乎热榜
+                    </div>
+                    {% for item in trending_items.zhihu %}
+                    <div class="trend-item">
+                        <span style="color: #0084ff; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="feed-card">
+                    <div
+                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        🔍 百度热搜
+                    </div>
+                    {% for item in trending_items.baidu %}
+                    <div class="trend-item">
+                        <span style="color: #2932e1; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="right-sidebar">
+            <div class="trend-card">
+                <div class="trend-title">今日热搜</div>
+                <div class="trend-list">
+                    {% for item in trending_items.weibo[:5] %}
+                    <div class="trend-item">
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="trend-card">
+                <div class="trend-title">GitHub Trending</div>
+                <div class="trend-list">
+                    {% for item in github_items[:5] %}
+                    <div class="trend-item">
+                        <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                        <span class="trend-badge">⭐{{ item.stars }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="trend-card">
+                <div style="font-size:12px; color:#999;">
+                    AI News Station © 2026<br>
+                    Powered by EdgeOne & GitHub Actions
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Tab Switching
+        const tabs = document.querySelectorAll('.tab');
+        tabs.forEach(tab => {
+            tab.addEventListener('click', function () {
+                const targetView = this.getAttribute('data-tab');
+
+                tabs.forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+
+                document.querySelectorAll('.view-content').forEach(v => v.classList.remove('active'));
+                document.getElementById(`view-${targetView}`).classList.add('active');
+
+                showToast(`切换到 "${this.textContent}" 视图`);
+            });
+        });
+
+        // Navigation Menu
+        const menuItems = document.querySelectorAll('.menu-item');
+        menuItems.forEach(item => {
+            item.addEventListener('click', function (e) {
+                e.preventDefault();
+                const view = this.getAttribute('data-view');
+
+                menuItems.forEach(m => m.classList.remove('active'));
+                this.classList.add('active');
+
+                // Filter content based on navigation
+                const cards = document.querySelectorAll('.feed-card[data-category]');
+                if (view === 'hot') {
+                    cards.forEach(card => card.style.display = 'block');
+                } else if (view === 'tools') {
+                    cards.forEach(card => {
+                        card.style.display = card.getAttribute('data-category') === 'tools' ? 'block' : 'none';
+                    });
+                } else if (view === 'gallery') {
+                    cards.forEach(card => {
+                        card.style.display = card.getAttribute('data-category') === 'gallery' ? 'block' : 'none';
+                    });
+                } else if (view === 'video') {
+                    cards.forEach(card => card.style.display = 'none');
+                    showToast('视频功能即将上线！');
+                } else if (view === 'favorite') {
+                    showToast('收藏功能即将上线！');
+                }
+
+                showToast(`导航至: ${this.textContent}`);
+            });
+        });
+
+        // Search
+        const searchInput = document.getElementById('searchInput');
+        let searchTimeout;
+        searchInput.addEventListener('input', function () {
+            clearTimeout(searchTimeout);
+            const query = this.value.toLowerCase();
+
+            searchTimeout = setTimeout(() => {
+                const cards = document.querySelectorAll('.feed-card');
+                if (query.length === 0) {
+                    cards.forEach(card => card.style.display = 'block');
+                    return;
+                }
+
+                cards.forEach(card => {
+                    const text = card.textContent.toLowerCase();
+                    card.style.display = text.includes(query) ? 'block' : 'none';
+                });
+
+                showToast(`搜索: "${this.value}"`);
+            }, 300);
+        });
+
+        // Action Buttons
+        document.querySelectorAll('.action-btn').forEach(btn => {
+            btn.addEventListener('click', function () {
+                this.style.transform = 'scale(1.2)';
+                setTimeout(() => this.style.transform = 'scale(1)', 200);
+
+                const originalColor = this.style.color;
+                this.style.color = 'var(--accent)';
+                setTimeout(() => this.style.color = originalColor, 500);
+
+                showToast(`${this.textContent.trim()} 成功！`);
+            });
+        });
+
+        // Publish Button
+        document.getElementById('publishBtn').addEventListener('click', function () {
+            showToast('发布成功！你的想法已分享 🎉', 'success');
+            this.style.transform = 'scale(0.95)';
+            setTimeout(() => this.style.transform = 'scale(1)', 100);
+        });
+
+        // Image Lightbox
+        document.querySelectorAll('.content-image-item').forEach(imgItem => {
+            imgItem.addEventListener('click', function () {
+                const img = this.querySelector('img');
+                if (!img) return;
+
+                const overlay = document.createElement('div');
+                overlay.style.cssText = 'position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.9);z-index:9999;display:flex;align-items:center;justify-content:center;cursor:zoom-out;';
+
+                const bigImg = document.createElement('img');
+                bigImg.src = img.src;
+                bigImg.style.cssText = 'max-width:90%;max-height:90%;border-radius:8px;';
+
+                overlay.appendChild(bigImg);
+                document.body.appendChild(overlay);
+
+                overlay.addEventListener('click', () => document.body.removeChild(overlay));
+            });
+        });
+
+        // Toast Notification
+        function showToast(message, type = 'info') {
+            const toast = document.createElement('div');
+            toast.textContent = message;
+            toast.style.cssText = `position:fixed;bottom:30px;right:30px;background:${type === 'success' ? '#10b981' : '#ff8200'};color:white;padding:12px 20px;border-radius:8px;font-size:14px;font-weight:600;z-index:10000;box-shadow:0 4px 12px rgba(0,0,0,0.2);animation:slideIn 0.3s ease-out;`;
+
+            document.body.appendChild(toast);
+
+            setTimeout(() => {
+                toast.style.animation = 'slideOut 0.3s ease-out';
+                setTimeout(() => document.body.removeChild(toast), 300);
+            }, 2000);
+        }
+
+        // Animations
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from { transform: translateX(100%); opacity: 0; }
+                to { transform: translateX(0); opacity: 1; }
+            }
+            @keyframes slideOut {
+                from { transform: translateX(0); opacity: 1; }
+                to { transform: translateX(100%); opacity: 0; }
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Welcome Message
+        window.addEventListener('load', () => {
+            setTimeout(() => showToast('欢迎来到 AI 资讯站！🚀', 'success'), 500);
+        });
+    </script>
+</body>
+
+</html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 资讯站 (AI News Station)</title>
+<style>
+    :root {
+        --bg-color: #f2f2f2;
+        /* Weibo light gray bg */
+        --card-bg: #ffffff;
+        --text-primary: #333333;
+        --text-secondary: #808080;
+        --accent: #ff8200;
+        /* Weibo Orange */
+        --link-color: #eb7350;
+        --border: #e6e6e6;
+        --nav-height: 60px;
+    }
+
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        background-color: var(--bg-color);
+        color: var(--text-primary);
+        margin: 0;
+        padding-top: calc(var(--nav-height) + 20px);
+    }
+
+    /* Top Navigation */
+    .navbar {
+        height: var(--nav-height);
+        background: #fff;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .nav-content {
+        width: 100%;
+        max-width: 1100px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 20px;
+    }
+
+    .logo {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: var(--text-primary);
+    }
+
+    .logo span {
+        color: var(--accent);
+    }
+
+    .search-bar {
+        background: #f2f2f2;
+        border-radius: 20px;
+        padding: 5px 15px;
+        display: flex;
+        align-items: center;
+        width: 300px;
+    }
+
+    .search-bar input {
+        border: none;
+        background: transparent;
+        outline: none;
+        width: 100%;
+        padding: 5px;
+    }
+
+    /* Main Layout */
+    .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 150px 1fr 300px;
+        /* Left, Center, Right */
+        gap: 20px;
+        padding: 0 20px;
+    }
+
+    @media (max-width: 900px) {
+        .container {
+            grid-template-columns: 1fr;
+        }
+
+        .left-sidebar,
+        .right-sidebar {
+            display: none;
+        }
+    }
+
+    /* Left Sidebar (Nav) */
+    .left-sidebar {
+        position: sticky;
+        top: 90px;
+        height: fit-content;
+    }
+
+    .menu-item {
+        display: block;
+        padding: 10px 0;
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--text-primary);
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .menu-item:hover,
+    .menu-item.active {
+        color: var(--accent);
+    }
+
+    /* Center Feed */
+    .main-feed {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .feed-card {
+        background: var(--card-bg);
+        border-radius: 4px;
+        padding: 20px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    }
+
+    .card-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .avatar {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #ddd;
+        margin-right: 10px;
+        overflow: hidden;
+    }
+
+    .avatar img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .user-info .username {
+        font-weight: bold;
+        color: #333;
+        font-size: 14px;
+    }
+
+    .user-info .time {
+        color: #939393;
+        font-size: 12px;
+        margin-top: 2px;
+    }
+
+    .content-text {
+        font-size: 15px;
+        line-height: 1.6;
+        margin-bottom: 10px;
+        color: #333;
+    }
+
+    .content-images {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 5px;
+        margin-bottom: 10px;
+    }
+
+    .content-image-item {
+        aspect-ratio: 1/1;
+        background: #eee;
+        border-radius: 4px;
+        overflow: hidden;
+        cursor: pointer;
+    }
+
+    .content-image-item img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.2s;
+    }
+
+    .content-image-item:hover img {
+        transform: scale(1.05);
+    }
+
+    .card-footer {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 10px;
+        border-top: 1px solid #f2f2f2;
+        color: #808080;
+        font-size: 12px;
+    }
+
+    .action-btn {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .action-btn:hover {
+        color: var(--accent);
+    }
+
+    /* Right Sidebar (Trending) */
+    .right-sidebar {
+        position: sticky;
+        top: 90px;
+        height: fit-content;
+    }
+
+    .trend-card {
+        background: var(--card-bg);
+        border-radius: 4px;
+        padding: 15px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+        margin-bottom: 15px;
+    }
+
+    .trend-title {
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        border-left: 3px solid var(--accent);
+        padding-left: 8px;
+    }
+
+    .trend-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .trend-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 8px 0;
+        border-bottom: 1px solid #f2f2f2;
+        font-size: 13px;
+    }
+
+    .trend-item a {
+        text-decoration: none;
+        color: #333;
+        flex: 1;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-right: 10px;
+    }
+
+    .trend-item a:hover {
+        color: var(--accent);
+    }
+
+    .trend-badge {
+        font-size: 12px;
+        color: #999;
+    }
+
+    .hot-tag {
+        background: #ff0000;
+        color: white;
+        padding: 1px 3px;
+        border-radius: 2px;
+        font-size: 10px;
+        margin-left: 5px;
+    }
+
+    /* Tool Tabs in Feed */
+    .tab-bar {
+        background: #fff;
+        padding: 10px 20px;
+        border-radius: 4px;
+        margin-bottom: 15px;
+        display: flex;
+        gap: 20px;
+        font-weight: bold;
+        color: #666;
+        cursor: pointer;
+    }
+
+    .tab.active {
+        color: #333;
+        position: relative;
+    }
+
+    .tab.active::after {
+        content: '';
+        position: absolute;
+        bottom: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 20px;
+        height: 3px;
+        background: var(--accent);
+        border-radius: 2px;
+    }
+</style>
 </head>
 
 <body>

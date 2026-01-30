@@ -1,0 +1,129 @@
+{
+  "weibo": [
+    {
+      "title": "AI绘画工具MidJourney推出视频生成功能",
+      "url": "#",
+      "hot": "2.8M",
+      "type": "weibo"
+    },
+    {
+      "title": "ChatGPT 5.0即将发布",
+      "url": "#",
+      "hot": "2.1M",
+      "type": "weibo"
+    },
+    {
+      "title": "国产大模型通过图灵测试",
+      "url": "#",
+      "hot": "1.9M",
+      "type": "weibo"
+    },
+    {
+      "title": "清华发布AI芯片突破性技术",
+      "url": "#",
+      "hot": "1.5M",
+      "type": "weibo"
+    },
+    {
+      "title": "抖音推出AI视频剪辑助手",
+      "url": "#",
+      "hot": "1.2M",
+      "type": "weibo"
+    },
+    {
+      "title": "GitHub Copilot更新支持多语言",
+      "url": "#",
+      "hot": "980K",
+      "type": "weibo"
+    },
+    {
+      "title": "特斯拉自动驾驶系统再升级",
+      "url": "#",
+      "hot": "850K",
+      "type": "weibo"
+    },
+    {
+      "title": "腾讯云推出AIGC解决方案",
+      "url": "#",
+      "hot": "720K",
+      "type": "weibo"
+    },
+    {
+      "title": "阿里云发布通义千问3.0",
+      "url": "#",
+      "hot": "680K",
+      "type": "weibo"
+    },
+    {
+      "title": "百度文心一言用户突破1亿",
+      "url": "#",
+      "hot": "590K",
+      "type": "weibo"
+    }
+  ],
+  "zhihu": [
+    {
+      "title": "如何看待AI取代程序员的言论？",
+      "url": "#",
+      "hot": "1.2M热度",
+      "type": "zhihu"
+    },
+    {
+      "title": "2026年最值得学习的AI技能是什么？",
+      "url": "#",
+      "hot": "890K热度",
+      "type": "zhihu"
+    },
+    {
+      "title": "AIGC会导致内容同质化吗？",
+      "url": "#",
+      "hot": "760K热度",
+      "type": "zhihu"
+    },
+    {
+      "title": "AI绘画的版权归属问题如何解决？",
+      "url": "#",
+      "hot": "650K热度",
+      "type": "zhihu"
+    },
+    {
+      "title": "大模型的幻觉问题能被彻底解决吗？",
+      "url": "#",
+      "hot": "580K热度",
+      "type": "zhihu"
+    }
+  ],
+  "baidu": [
+    {
+      "title": "人工智能最新进展",
+      "url": "#",
+      "hot": "500万",
+      "type": "baidu"
+    },
+    {
+      "title": "AI芯片竞争升级",
+      "url": "#",
+      "hot": "350万",
+      "type": "baidu"
+    },
+    {
+      "title": "自动驾驶新突破",
+      "url": "#",
+      "hot": "280万",
+      "type": "baidu"
+    },
+    {
+      "title": "AI教育应用落地",
+      "url": "#",
+      "hot": "210万",
+      "type": "baidu"
+    },
+    {
+      "title": "机器人产业发展",
+      "url": "#",
+      "hot": "180万",
+      "type": "baidu"
+    }
+  ],
+  "last_updated": "2026-01-30 00:00:00"
+}
