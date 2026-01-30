@@ -149,18 +149,18 @@ def fetch_entertainment_trending() -> List[Dict]:
     """娱乐八卦热搜（大馋猫专属）"""
     print("⭐ Fetching entertainment/gossip trending...")
     
-    # 精选娱乐八卦热点（带真实URL）
+    # 精选娱乐八卦热点（带微博搜索URL，点击可直接搜索关键词）
     entertainment_data = [
-        {'title': '某顶流明星恋情曝光引发热议', 'url': 'https://weibo.com/hot', 'hot': '8520万', 'source': 'entertainment'},
-        {'title': '热播剧主演片场花絮曝光', 'url': 'https://weibo.com/hot', 'hot': '6890万', 'source': 'entertainment'},
-        {'title': '颁奖典礼红毯造型大赏', 'url': 'https://weibo.com/hot', 'hot': '5420万', 'source': 'entertainment'},
-        {'title': '某综艺嘉宾互动引爆话题', 'url': 'https://weibo.com/hot', 'hot': '4780万', 'source': 'entertainment'},
-        {'title': '影帝影后新片杀青官宣', 'url': 'https://weibo.com/hot', 'hot': '3890万', 'source': 'entertainment'},
-        {'title': '顶流爱豆机场私服被赞爆', 'url': 'https://weibo.com/hot', 'hot': '3250万', 'source': 'entertainment'},
-        {'title': '某导演新作首映礼盛大举行', 'url': 'https://weibo.com/hot', 'hot': '2940万', 'source': 'entertainment'},
-        {'title': '娱乐圈友谊破裂疑云', 'url': 'https://weibo.com/hot', 'hot': '2680万', 'source': 'entertainment'},
-        {'title': '热门IP改编电影定档', 'url': 'https://weibo.com/hot', 'hot': '2310万', 'source': 'entertainment'},
-        {'title': '某歌手演唱会门票秒空', 'url': 'https://weibo.com/hot', 'hot': '2150万', 'source': 'entertainment'},
+        {'title': '某顶流明星恋情曝光引发热议', 'url': 'https://s.weibo.com/weibo?q=顶流明星恋情', 'hot': '8520万', 'source': 'entertainment'},
+        {'title': '热播剧主演片场花絮曝光', 'url': 'https://s.weibo.com/weibo?q=热播剧片场花絮', 'hot': '6890万', 'source': 'entertainment'},
+        {'title': '颁奖典礼红毯造型大赏', 'url': 'https://s.weibo.com/weibo?q=颁奖典礼红毯', 'hot': '5420万', 'source': 'entertainment'},
+        {'title': '某综艺嘉宾互动引爆话题', 'url': 'https://s.weibo.com/weibo?q=综艺嘉宾', 'hot': '4780万', 'source': 'entertainment'},
+        {'title': '影帝影后新片杀青官宣', 'url': 'https://s.weibo.com/weibo?q=影帝影后新片', 'hot': '3890万', 'source': 'entertainment'},
+        {'title': '顶流爱豆机场私服被赞爆', 'url': 'https://s.weibo.com/weibo?q=顶流爱豆机场', 'hot': '3250万', 'source': 'entertainment'},
+        {'title': '某导演新作首映礼盛大举行', 'url': 'https://s.weibo.com/weibo?q=导演首映礼', 'hot': '2940万', 'source': 'entertainment'},
+        {'title': '娱乐圈友谊破裂疑云', 'url': 'https://s.weibo.com/weibo?q=娱乐圈友谊破裂', 'hot': '2680万', 'source': 'entertainment'},
+        {'title': '热门IP改编电影定档', 'url': 'https://s.weibo.com/weibo?q=热门IP电影定档', 'hot': '2310万', 'source': 'entertainment'},
+        {'title': '某歌手演唱会门票秒空', 'url': 'https://s.weibo.com/weibo?q=演唱会门票秒空', 'hot': '2150万', 'source': 'entertainment'},
     ]
     
     return entertainment_data
@@ -173,18 +173,18 @@ def fetch_parenting_trending() -> List[Dict]:
     """育儿热搜榜"""
     print("👶 Fetching parenting trending...")
     
-    # 精选育儿热点话题（带真实URL）
+    # 精选育儿热点话题（带搜索URL）
     parenting_data = [
-        {'title': '0-3岁宝宝早教方法大全', 'url': 'https://www.babytree.com', 'hot': '520万阅读', 'source': 'parenting'},
-        {'title': '如何培养孩子的自律能力', 'url': 'https://www.babytree.com', 'hot': '380万阅读', 'source': 'parenting'},
-        {'title': '新生儿护理必备知识清单', 'url': 'https://www.babytree.com', 'hot': '340万阅读', 'source': 'parenting'},
-        {'title': '儿童营养膳食搭配指南', 'url': 'https://www.babytree.com', 'hot': '290万阅读', 'source': 'parenting'},
-        {'title': '幼儿园入园焦虑怎么办', 'url': 'https://www.babytree.com', 'hot': '260万阅读', 'source': 'parenting'},
-        {'title': '宝宝睡眠训练5大技巧', 'url': 'https://www.babytree.com', 'hot': '230万阅读', 'source': 'parenting'},
-        {'title': '如何应对孩子的叛逆期', 'url': 'https://www.babytree.com', 'hot': '210万阅读', 'source': 'parenting'},
-        {'title': '婴幼儿辅食添加时间表', 'url': 'https://www.babytree.com', 'hot': '190万阅读', 'source': 'parenting'},
-        {'title': '二胎家庭教育平衡术', 'url': 'https://www.babytree.com', 'hot': '170万阅读', 'source': 'parenting'},
-        {'title': '儿童安全座椅选购攻略', 'url': 'https://www.babytree.com', 'hot': '150万阅读', 'source': 'parenting'},
+        {'title': '0-3岁宝宝早教方法大全', 'url': 'https://www.baidu.com/s?wd=0-3岁宝宝早教', 'hot': '520万阅读', 'source': 'parenting'},
+        {'title': '如何培养孩子的自律能力', 'url': 'https://www.baidu.com/s?wd=培养孩子自律能力', 'hot': '380万阅读', 'source': 'parenting'},
+        {'title': '新生儿护理必备知识清单', 'url': 'https://www.baidu.com/s?wd=新生儿护理知识', 'hot': '340万阅读', 'source': 'parenting'},
+        {'title': '儿童营养膳食搭配指南', 'url': 'https://www.baidu.com/s?wd=儿童营养膳食搭配', 'hot': '290万阅读', 'source': 'parenting'},
+        {'title': '幼儿园入园焦虑怎么办', 'url': 'https://www.baidu.com/s?wd=幼儿园入园焦虑', 'hot': '260万阅读', 'source': 'parenting'},
+        {'title': '宝宝睡眠训练5大技巧', 'url': 'https://www.baidu.com/s?wd=宝宝睡眠训练', 'hot': '230万阅读', 'source': 'parenting'},
+        {'title': '如何应对孩子的叛逆期', 'url': 'https://www.baidu.com/s?wd=孩子叛逆期怎么办', 'hot': '210万阅读', 'source': 'parenting'},
+        {'title': '婴幼儿辅食添加时间表', 'url': 'https://www.baidu.com/s?wd=婴幼儿辅食添加', 'hot': '190万阅读', 'source': 'parenting'},
+        {'title': '二胎家庭教育平衡术', 'url': 'https://www.baidu.com/s?wd=二胎家庭教育', 'hot': '170万阅读', 'source': 'parenting'},
+        {'title': '儿童安全座椅选购攻略', 'url': 'https://www.baidu.com/s?wd=儿童安全座椅选购', 'hot': '150万阅读', 'source': 'parenting'},
     ]
     
     return parenting_data

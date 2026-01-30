@@ -536,7 +536,7 @@
                         </div>
                         <div class="trending-tab" data-trending="entertainment"
                             style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
-                            🎭 娱乐八卦
+                            🐱 大馋猫吃瓜
                         </div>
                         <div class="trending-tab" data-trending="parenting"
                             style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
@@ -640,7 +640,7 @@
                 <div class="feed-card">
                     <div
                         style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                        🎭 大馋猫娱乐八卦榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时热搜</span>
+                        🐱 大馋猫吃瓜榜单 <span style="font-size: 12px; color: #999; font-weight: normal;">实时热搜</span>
                     </div>
                     {% for item in enriched_trending.entertainment_trending %}
                     <div class="trend-item">
@@ -927,22 +927,24 @@
         });
 
         // Trending Sub-tabs
-        document.querySelectorAll('.trending-tab').for Each(tab => {
+        document.querySelectorAll('.trending-tab').forEach(tab => {
             tab.addEventListener('click', function () {
-  nst target = this.getAttribute('data-trending');
+                const target = this.getAttribute('data-trending');
 
                 // Update tabs
                 document.querySelectorAll('.trending-tab').forEach(t => {
                     t.style.background = '#f0f0f0';
                     t.style.color = '#666';
                 });
-                this.style.background = 'var(--accen     this.style.color = 'white';
+                this.style.background = 'var(--accent)';
+                this.style.color = 'white';
 
                 // Update content
                 document.querySelectorAll('.trending-content').forEach(c => c.style.display = 'none');
                 const targetContent = document.getElementById('trending-' + target);
                 if (targetContent) {
-                    targetContent.style.disp               }
+                    targetContent.style.display = 'block';
+                }
 
                 showToast('切换到 ' + this.textContent.trim());
             });
@@ -971,8 +973,8 @@
                 window.scrollTo({ top: 0, behavior: 'smooth' });
 
                 showToast('已切换到榜单视图 📊');
-           
-        });
+
+            });
     </script>
 </body>
 
@@ -1448,124 +1450,124 @@
     </div>
 
     <script>
-        // ============================================
-        // Tab Switching (推荐/关注/榜单)
-        // ============================================
-        document.querySelectorAll('.tab-bar .tab').forEach(tab => {
-            tab.addEventListener('click', function () {
-                // Remove active from all tabs
-                document.querySelectorAll('.tab-bar .tab').forEach(t => t.classList.remove('active'));
-                // Add active to clicked tab
-                this.classList.add('active');
+            // ============================================
+            // Tab Switching (推荐/关注/榜单)
+            // ============================================
+            document.querySelectorAll('.tab-bar .tab').forEach(tab => {
+                tab.addEventListener('click', function () {
+                    // Remove active from all tabs
+                    document.querySelectorAll('.tab-bar .tab').forEach(t => t.classList.remove('active'));
+                    // Add active to clicked tab
+                    this.classList.add('active');
 
-                // Show toast notification
-                showToast(`切换到 "${this.textContent}" 视图`);
-            });
-        });
-
-        // ============================================
-        // Left Navigation Menu
-        // ============================================
-        document.querySelectorAll('.menu-item').forEach(menuItem => {
-            menuItem.addEventListener('click', function (e) {
-                e.preventDefault();
-
-                // Remove active from all menu items
-                document.querySelectorAll('.menu-item').forEach(m => m.classList.remove('active'));
-                // Add active to clicked item
-                this.classList.add('active');
-
-                // Extract menu name
-                const menuName = this.textContent.trim();
-                showToast(`导航至: ${menuName}`);
-            });
-        });
-
-        // ============================================
-        // Search Functionality
-        // ============================================
-        const searchInput = document.querySelector('.search-bar input');
-        let searchTimeout;
-
-        searchInput.addEventListener('input', function () {
-            clearTimeout(searchTimeout);
-            const query = this.value.toLowerCase();
-
-            searchTimeout = setTimeout(() => {
-                if (query.length === 0) {
-                    // Show all cards
-                    document.querySelectorAll('.feed-card').forEach(card => {
-                        card.style.display = 'block';
-                    });
-                    return;
-                }
-
-                // Filter feed cards by content
-                document.querySelectorAll('.feed-card').forEach(card => {
-                    const text = card.textContent.toLowerCase();
-                    if (text.includes(query)) {
-                        card.style.display = 'block';
-                        card.style.animation = 'fadeIn 0.3s';
-                    } else {
-                        card.style.display = 'none';
-                    }
+                    // Show toast notification
+                    showToast(`切换到 "${this.textContent}" 视图`);
                 });
-
-                showToast(`搜索: "${this.value}"`);
-            }, 300);
-        });
-
-        // ============================================
-        // Action Button Interactions
-        // ============================================
-        document.querySelectorAll('.action-btn').forEach(btn => {
-            btn.addEventListener('click', function () {
-                const action = this.textContent.trim();
-
-                // Add animation
-                this.style.transform = 'scale(1.2)';
-                setTimeout(() => {
-                    this.style.transform = 'scale(1)';
-                }, 200);
-
-                // Change color temporarily
-                const originalColor = this.style.color;
-                this.style.color = 'var(--accent)';
-                setTimeout(() => {
-                    this.style.color = originalColor;
-                }, 500);
-
-                showToast(`${action} 成功！`);
             });
-        });
 
-        // ============================================
-        // Publish Button
-        // ============================================
-        const publishBtn = document.querySelector('button');
-        if (publishBtn) {
-            publishBtn.addEventListener('click', function () {
-                showToast('发布成功！你的想法已分享 🎉', 'success');
+            // ============================================
+            // Left Navigation Menu
+            // ============================================
+            document.querySelectorAll('.menu-item').forEach(menuItem => {
+                menuItem.addEventListener('click', function (e) {
+                    e.preventDefault();
 
-                // Animation
-                this.style.transform = 'scale(0.95)';
-                setTimeout(() => {
-                    this.style.transform = 'scale(1)';
-                }, 100);
+                    // Remove active from all menu items
+                    document.querySelectorAll('.menu-item').forEach(m => m.classList.remove('active'));
+                    // Add active to clicked item
+                    this.classList.add('active');
+
+                    // Extract menu name
+                    const menuName = this.textContent.trim();
+                    showToast(`导航至: ${menuName}`);
+                });
             });
-        }
 
-        // ============================================
-        // Image Click Lightbox Effect
-        // ============================================
-        document.querySelectorAll('.content-image-item').forEach(imgItem => {
-            imgItem.addEventListener('click', function () {
-                const img = this.querySelector('img');
-                if (!img) return;
+            // ============================================
+            // Search Functionality
+            // ============================================
+            const searchInput = document.querySelector('.search-bar input');
+            let searchTimeout;
 
-                // Create lightbox overlay
-                const overlay = document.createElement('div');
-                overlay.style.cssText = `
+            searchInput.addEventListener('input', function () {
+                clearTimeout(searchTimeout);
+                const query = this.value.toLowerCase();
+
+                searchTimeout = setTimeout(() => {
+                    if (query.length === 0) {
+                        // Show all cards
+                        document.querySelectorAll('.feed-card').forEach(card => {
+                            card.style.display = 'block';
+                        });
+                        return;
+                    }
+
+                    // Filter feed cards by content
+                    document.querySelectorAll('.feed-card').forEach(card => {
+                        const text = card.textContent.toLowerCase();
+                        if (text.includes(query)) {
+                            card.style.display = 'block';
+                            card.style.animation = 'fadeIn 0.3s';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    });
+
+                    showToast(`搜索: "${this.value}"`);
+                }, 300);
+            });
+
+            // ============================================
+            // Action Button Interactions
+            // ============================================
+            document.querySelectorAll('.action-btn').forEach(btn => {
+                btn.addEventListener('click', function () {
+                    const action = this.textContent.trim();
+
+                    // Add animation
+                    this.style.transform = 'scale(1.2)';
+                    setTimeout(() => {
+                        this.style.transform = 'scale(1)';
+                    }, 200);
+
+                    // Change color temporarily
+                    const originalColor = this.style.color;
+                    this.style.color = 'var(--accent)';
+                    setTimeout(() => {
+                        this.style.color = originalColor;
+                    }, 500);
+
+                    showToast(`${action} 成功！`);
+                });
+            });
+
+            // ============================================
+            // Publish Button
+            // ============================================
+            const publishBtn = document.querySelector('button');
+            if (publishBtn) {
+                publishBtn.addEventListener('click', function () {
+                    showToast('发布成功！你的想法已分享 🎉', 'success');
+
+                    // Animation
+                    this.style.transform = 'scale(0.95)';
+                    setTimeout(() => {
+                        this.style.transform = 'scale(1)';
+                    }, 100);
+                });
+            }
+
+            // ============================================
+            // Image Click Lightbox Effect
+            // ============================================
+            document.querySelectorAll('.content-image-item').forEach(imgItem => {
+                imgItem.addEventListener('click', function () {
+                    const img = this.querySelector('img');
+                    if (!img) return;
+
+                    // Create lightbox overlay
+                    const overlay = document.createElement('div');
+                    overlay.style.cssText = `
                     position: fixed;
                     top: 0;
                     left: 0;
@@ -1579,27 +1581,27 @@
                     cursor: zoom-out;
                 `;
 
-                const bigImg = document.createElement('img');
-                bigImg.src = img.src;
-                bigImg.style.cssText = 'max-width: 90%; max-height: 90%; border-radius: 8px;';
+                    const bigImg = document.createElement('img');
+                    bigImg.src = img.src;
+                    bigImg.style.cssText = 'max-width: 90%; max-height: 90%; border-radius: 8px;';
 
-                overlay.appendChild(bigImg);
-                document.body.appendChild(overlay);
+                    overlay.appendChild(bigImg);
+                    document.body.appendChild(overlay);
 
-                // Close on click
-                overlay.addEventListener('click', () => {
-                    document.body.removeChild(overlay);
+                    // Close on click
+                    overlay.addEventListener('click', () => {
+                        document.body.removeChild(overlay);
+                    });
                 });
             });
-        });
 
-        // ============================================
-        // Toast Notification System
-        // ============================================
-        function showToast(message, type = 'info') {
-            const toast = document.createElement('div');
-            toast.textContent = message;
-            toast.style.cssText = `
+            // ============================================
+            // Toast Notification System
+            // ============================================
+            function showToast(message, type = 'info') {
+                const toast = document.createElement('div');
+                toast.textContent = message;
+                toast.style.cssText = `
                 position: fixed;
                 bottom: 30px;
                 right: 30px;
@@ -1614,21 +1616,21 @@
                 animation: slideIn 0.3s ease-out;
             `;
 
-            document.body.appendChild(toast);
+                document.body.appendChild(toast);
 
-            setTimeout(() => {
-                toast.style.animation = 'slideOut 0.3s ease-out';
                 setTimeout(() => {
-                    document.body.removeChild(toast);
-                }, 300);
-            }, 2000);
-        }
+                    toast.style.animation = 'slideOut 0.3s ease-out';
+                    setTimeout(() => {
+                        document.body.removeChild(toast);
+                    }, 300);
+                }, 2000);
+            }
 
-        // ============================================
-        // Animations
-        // ============================================
-        const style = document.createElement('style');
-        style.textContent = `
+            // ============================================
+            // Animations
+            // ============================================
+            const style = document.createElement('style');
+            style.textContent = `
             @keyframes slideIn {
                 from {
                     transform: translateX(100%);
@@ -1660,15 +1662,15 @@
                 transition: all 0.2s ease;
             }
         `;
-        document.head.appendChild(style);
+            document.head.appendChild(style);
 
-        // ============================================
-        // Startup Message
-        // ============================================
-        window.addEventListener('load', () => {
-            setTimeout(() => {
-                showToast('欢迎来到 AI 资讯站！🚀', 'success');
-            }, 5
+            // ============================================
+            // Startup Message
+            // ============================================
+            window.addEventListener('load', () => {
+                setTimeout(() => {
+                    showToast('欢迎来到 AI 资讯站！🚀', 'success');
+                }, 5
    ;
     </script>
 
