@@ -1591,6 +1591,9 @@
         const menuItems = document.querySelectorAll('.menu-item');
         menuItems.forEach(item => {
             item.addEventListener('click', function (e) {
+                // If it's an external link, allow default behavior
+                if (this.getAttribute('target') === '_blank') return;
+
                 e.preventDefault();
                 const view = this.getAttribute('data-view');
 
