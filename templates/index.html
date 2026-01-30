@@ -534,6 +534,18 @@
                             style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
                             🤖 AI热榜
                         </div>
+                        <div class="trending-tab" data-trending="entertainment"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            🎭 娱乐八卦
+                        </div>
+                        <div class="trending-tab" data-trending="parenting"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            👶 育儿榜
+                        </div>
+                        <div class="trending-tab" data-trending="gaming"
+                            style="padding: 8px 16px; cursor: pointer; border-radius: 20px; background: #f0f0f0; color: #666; transition: all 0.2s; font-size: 14px; font-weight: 500;">
+                            🎮 游戏榜
+                        </div>
                     </div>
                 </div>
 
@@ -620,57 +632,61 @@
                         </div>
                         {% endfor %}
                     </div>
-                </div>                </div>
-
-                <!-- 娱乐八卦榜 -->
-                <div class="trending-content" id="trending-entertainment" style="display: none;">
-                    <div class="feed-card">
-                        <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                            🎭 大馋猫娱乐八卦榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时热搜</span>
-                        </div>
-                        {% for item in enriched_trending.entertainment_trending %}
-                        <div class="trend-item">
-                            <span style="color: #ff1493; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
-                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                            <span class="trend-badge">{{ item.hot }}</span>
-                        </div>
-                        {% endfor %}
-                    </div>
                 </div>
+            </div>
 
-                <!-- 育儿榜 -->
-                <div class="trending-content" id="trending-parenting" style="display: none;">
-                    <div class="feed-card">
-                        <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                            👶 育儿知识热榜 <span style="font-size: 12px; color: #999; font-weight: normal;">宝宝树热门</span>
-                        </div>
-                        {% for item in enriched_trending.parenting_trending %}
-                        <div class="trend-item">
-                            <span style="color: #ffa500; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
-                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                            <span class="trend-badge">{{ item.hot }}</span>
-                        </div>
-                        {% endfor %}
+            <!-- 娱乐八卦榜 -->
+            <div class="trending-content" id="trending-entertainment" style="display: none;">
+                <div class="feed-card">
+                    <div
+                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        🎭 大馋猫娱乐八卦榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时热搜</span>
                     </div>
+                    {% for item in enriched_trending.entertainment_trending %}
+                    <div class="trend-item">
+                        <span style="color: #ff1493; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
                 </div>
+            </div>
 
-                <!-- 游戏榜 -->
-                <div class="trending-content" id="trending-gaming" style="display: none;">
-                    <div class="feed-card">
-                        <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
-                            🎮 游戏热搜榜 <span style="font-size: 12px; color: #999; font-weight: normal;">Steam | 手游 | 电竞</span>
-                        </div>
-                        {% for item in enriched_trending.gaming_trending %}
-                        <div class="trend-item">
-                            <span style="color: #9370db; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
-                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
-                            <span class="trend-badge">{{ item.hot }}</span>
-                        </div>
-                        {% endfor %}
+            <!-- 育儿榜 -->
+            <div class="trending-content" id="trending-parenting" style="display: none;">
+                <div class="feed-card">
+                    <div
+                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        👶 育儿知识热榜 <span style="font-size: 12px; color: #999; font-weight: normal;">宝宝树热门</span>
                     </div>
+                    {% for item in enriched_trending.parenting_trending %}
+                    <div class="trend-item">
+                        <span style="color: #ffa500; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- 游戏榜 -->
+            <div class="trending-content" id="trending-gaming" style="display: none;">
+                <div class="feed-card">
+                    <div
+                        style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        🎮 游戏热搜榜 <span style="font-size: 12px; color: #999; font-weight: normal;">Steam | 手游 | 电竞</span>
+                    </div>
+                    {% for item in enriched_trending.gaming_trending %}
+                    <div class="trend-item">
+                        <span style="color: #9370db; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                        <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                        <span class="trend-badge">{{ item.hot }}</span>
+                    </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
     <div class="right-sidebar">
@@ -911,24 +927,22 @@
         });
 
         // Trending Sub-tabs
-        document.querySelectorAll('.trending-tab').forEach(tab => {
+        document.querySelectorAll('.trending-tab').for Each(tab => {
             tab.addEventListener('click', function () {
-                const target = this.getAttribute('data-trending');
+  nst target = this.getAttribute('data-trending');
 
                 // Update tabs
                 document.querySelectorAll('.trending-tab').forEach(t => {
                     t.style.background = '#f0f0f0';
                     t.style.color = '#666';
                 });
-                this.style.background = 'var(--accent)';
-                this.style.color = 'white';
+                this.style.background = 'var(--accen     this.style.color = 'white';
 
                 // Update content
                 document.querySelectorAll('.trending-content').forEach(c => c.style.display = 'none');
                 const targetContent = document.getElementById('trending-' + target);
                 if (targetContent) {
-                    targetContent.style.display = 'block';
-                }
+                    targetContent.style.disp               }
 
                 showToast('切换到 ' + this.textContent.trim());
             });
@@ -957,7 +971,7 @@
                 window.scrollTo({ top: 0, behavior: 'smooth' });
 
                 showToast('已切换到榜单视图 📊');
-            });
+           
         });
     </script>
 </body>
@@ -1654,8 +1668,8 @@
         window.addEventListener('load', () => {
             setTimeout(() => {
                 showToast('欢迎来到 AI 资讯站！🚀', 'success');
-            }, 500);
-        });
+            }, 5
+   ;
     </script>
 
 </body>
