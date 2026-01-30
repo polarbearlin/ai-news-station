@@ -98,20 +98,28 @@ def fetch_douyin_trending() -> List[Dict]:
 # ============================================
 
 def fetch_producthunt_ai() -> List[Dict]:
-    """Product Hunt AI产品"""
+    """AI/科技热榜 (via DailyHotApi - 36氪)"""
     try:
-        # 模拟数据（真实API需要token）
-        ai_products = [
-            {'title': 'ChatGPT Canvas - AI协作写作工具', 'url': '#', 'votes': '2.3k', 'source': 'producthunt'},
-            {'title': 'Cursor IDE - AI代码编辑器', 'url': '#', 'votes': '1.8k', 'source': 'producthunt'},
-            {'title': 'v0 by Vercel - AI生成UI', 'url': '#', 'votes': '1.5k', 'source': 'producthunt'},
-            {'title': 'Midjourney V7 - AI绘画新版本', 'url': '#', 'votes': '1.2k', 'source': 'producthunt'},
-            {'title': 'Anthropic Claude Artifacts', 'url': '#', 'votes': '980', 'source': 'producthunt'},
-        ]
-        return ai_products
+        url = f"{DAILYHOT_API_BASE}/36kr"
+        response = requests.get(url, timeout=15)
+        data = response.json()
+        
+        if data.get('code') == 200:
+            return [{
+                'title': item.get('title', ''),
+                'url': item.get('url', '#'),
+                'votes': str(item.get('hot', '')),
+                'source': '36kr'
+            } for item in data.get('data', [])[:8]]
     except Exception as e:
-        print(f"❌ Product Hunt failed: {e}")
-    return []
+        print(f"❌ 36kr trending failed: {e}")
+    
+    # Fallback
+    return [
+        {'title': 'ChatGPT Canvas - AI协作写作工具', 'url': '#', 'votes': '2.3k', 'source': '36kr'},
+        {'title': 'Cursor IDE - AI代码编辑器', 'url': '#', 'votes': '1.8k', 'source': '36kr'},
+        {'title': 'v0 by Vercel - AI生成UI', 'url': '#', 'votes': '1.5k', 'source': '36kr'},
+    ]
 
 def fetch_huggingface_trending() -> List[Dict]:
     """HuggingFace热门模型"""
@@ -170,7 +178,7 @@ def fetch_ai_news_aggregated() -> List[Dict]:
 # ============================================
 
 def fetch_entertainment_trending() -> List[Dict]:
-    """娱乐八卦热搜（大馋猫专属） - 实时抓取微博/抖音娱乐内容"""
+    """娱乐八卦热搜 (via DailyHotApi - 抖音热榜筛选娱乐内容)"""
     print("⭐ Fetching entertainment/gossip trending...")
     
     entertainment_keywords = [
@@ -181,9 +189,9 @@ def fetch_entertainment_trending() -> List[Dict]:
     ]
     
     try:
-        # 使用微博热搜API
-        url = "https://tenapi.cn/v2/weibohot"
-        response = requests.get(url, timeout=10)
+        # 使用 DailyHotApi 抖音热榜
+        url = f"{DAILYHOT_API_BASE}/douyin"
+        response = requests.get(url, timeout=15)
         data = response.json()
         
         if data.get('code') == 200:
@@ -192,31 +200,31 @@ def fetch_entertainment_trending() -> List[Dict]:
             
             # 1. 筛选娱乐相关关键词
             for item in all_items:
-                title = item.get('name', '')
+                title = item.get('title', '')
                 if any(k in title for k in entertainment_keywords):
                     filtered_items.append({
                         'title': title,
                         'url': item.get('url', '#'),
-                        'hot': item.get('hot', ''),
+                        'hot': str(item.get('hot', '')),
                         'source': 'entertainment'
                     })
             
-            # 2. 如果筛选结果不足10条，用Top热搜补齐（排除已有的）
+            # 2. 如果筛选结果不足10条，用Top热搜补齐
             if len(filtered_items) < 10:
                 existing_titles = {i['title'] for i in filtered_items}
                 for item in all_items:
-                    if len(filtered_items) >= 15: # 最多15条
+                    if len(filtered_items) >= 12:
                         break
-                    title = item.get('name', '')
+                    title = item.get('title', '')
                     if title not in existing_titles:
                         filtered_items.append({
                             'title': title,
                             'url': item.get('url', '#'),
-                            'hot': item.get('hot', ''),
-                            'source': 'entertainment'  # 归类为娱乐（广义）
+                            'hot': str(item.get('hot', '')),
+                            'source': 'entertainment'
                         })
             
-            return filtered_items[:12] # 返回前12条
+            return filtered_items[:12]
             
     except Exception as e:
         print(f"❌ Entertainment trending fetch failed: {e}")
@@ -224,16 +232,9 @@ def fetch_entertainment_trending() -> List[Dict]:
     # Fallback data if API fails
     print("⚠️  Using fallback Entertainment data...")
     return [
-        {'title': '某顶流明星恋情曝光引发热议', 'url': 'https://s.weibo.com/weibo?q=顶流明星恋情', 'hot': '8520万', 'source': 'entertainment'},
-        {'title': '热播剧主演片场花絮曝光', 'url': 'https://s.weibo.com/weibo?q=热播剧片场花絮', 'hot': '6890万', 'source': 'entertainment'},
-        {'title': '颁奖典礼红毯造型大赏', 'url': 'https://s.weibo.com/weibo?q=颁奖典礼红毯', 'hot': '5420万', 'source': 'entertainment'},
-        {'title': '某综艺嘉宾互动引爆话题', 'url': 'https://s.weibo.com/weibo?q=综艺嘉宾', 'hot': '4780万', 'source': 'entertainment'},
-        {'title': '影帝影后新片杀青官宣', 'url': 'https://s.weibo.com/weibo?q=影帝影后新片', 'hot': '3890万', 'source': 'entertainment'},
-        {'title': '顶流爱豆机场私服被赞爆', 'url': 'https://s.weibo.com/weibo?q=顶流爱豆机场', 'hot': '3250万', 'source': 'entertainment'},
-        {'title': '某导演新作首映礼盛大举行', 'url': 'https://s.weibo.com/weibo?q=导演首映礼', 'hot': '2940万', 'source': 'entertainment'},
-        {'title': '娱乐圈友谊破裂疑云', 'url': 'https://s.weibo.com/weibo?q=娱乐圈友谊破裂', 'hot': '2680万', 'source': 'entertainment'},
-        {'title': '热门IP改编电影定档', 'url': 'https://s.weibo.com/weibo?q=热门IP电影定档', 'hot': '2310万', 'source': 'entertainment'},
-        {'title': '某歌手演唱会门票秒空', 'url': 'https://s.weibo.com/weibo?q=演唱会门票秒空', 'hot': '2150万', 'source': 'entertainment'},
+        {'title': '某顶流明星恋情曝光引发热议', 'url': '#', 'hot': '8520万', 'source': 'entertainment'},
+        {'title': '热播剧主演片场花絮曝光', 'url': '#', 'hot': '6890万', 'source': 'entertainment'},
+        {'title': '颁奖典礼红毯造型大赏', 'url': '#', 'hot': '5420万', 'source': 'entertainment'},
     ]
 
 # ============================================
@@ -265,24 +266,60 @@ def fetch_parenting_trending() -> List[Dict]:
 # ============================================
 
 def fetch_gaming_trending() -> List[Dict]:
-    """游戏热搜榜"""
+    """游戏热搜榜 (via DailyHotApi - LOL + IT之家筛选)"""
     print("🎮 Fetching gaming trending...")
     
-    # 精选游戏热点（Steam + 手游 + 电竞）
-    gaming_data = [
-        {'title': '《黑神话：悟空》DLC新内容爆料', 'url': 'https://store.steampowered.com', 'hot': '6850万', 'source': 'gaming'},
-        {'title': 'Steam冬季特惠大作推荐', 'url': 'https://store.steampowered.com', 'hot': '4920万', 'source': 'gaming'},
-        {'title': 'LOL世界赛决赛战况激烈', 'url': 'https://lol.qq.com', 'hot': '4230万', 'source': 'gaming'},
-        {'title': '原神新角色实测强度分析', 'url': 'https://ys.mihoyo.com', 'hot': '3680万', 'source': 'gaming'},
-        {'title': '王者荣耀新赛季英雄调整', 'url': 'https://pvp.qq.com', 'hot': '3420万', 'source': 'gaming'},
-        {'title': 'CS2职业联赛精彩集锦', 'url': 'https://www.counter-strike.net', 'hot': '2890万', 'source': 'gaming'},
-        {'title': '最终幻想新作预告震撼发布', 'url': 'https://store.steampowered.com', 'hot': '2530万', 'source': 'gaming'},
-        {'title': '暗黑4新赛季装备掉落优化', 'url': 'https://diablo4.blizzard.com', 'hot': '2180万', 'source': 'gaming'},
-        {'title': 'TapTap年度游戏榜单公布', 'url': 'https://www.taptap.cn', 'hot': '1950万', 'source': 'gaming'},
-        {'title': '塞尔达传说续作开发中', 'url': 'https://www.nintendo.com', 'hot': '1720万', 'source': 'gaming'},
-    ]
+    gaming_items = []
     
-    return gaming_data
+    # 1. 英雄联盟官方更新
+    try:
+        url = f"{DAILYHOT_API_BASE}/lol"
+        response = requests.get(url, timeout=15)
+        data = response.json()
+        
+        if data.get('code') == 200:
+            for item in data.get('data', [])[:5]:
+                gaming_items.append({
+                    'title': item.get('title', ''),
+                    'url': item.get('url', '#'),
+                    'hot': '官方公告',
+                    'source': 'gaming'
+                })
+    except Exception as e:
+        print(f"❌ LOL trending failed: {e}")
+    
+    # 2. IT之家筛选游戏相关
+    try:
+        url = f"{DAILYHOT_API_BASE}/ithome"
+        response = requests.get(url, timeout=15)
+        data = response.json()
+        
+        if data.get('code') == 200:
+            gaming_keywords = ['游戏', 'Steam', 'PS', 'Xbox', '任天堂', '手游', '电竞', 'LOL', '原神', '王者', '黑神话']
+            for item in data.get('data', []):
+                title = item.get('title', '')
+                if any(k in title for k in gaming_keywords):
+                    gaming_items.append({
+                        'title': title,
+                        'url': item.get('url', '#'),
+                        'hot': str(item.get('hot', '')),
+                        'source': 'gaming'
+                    })
+                if len(gaming_items) >= 10:
+                    break
+    except Exception as e:
+        print(f"❌ IT之家 gaming filter failed: {e}")
+    
+    # 如果获取到足够数据则返回
+    if len(gaming_items) >= 5:
+        return gaming_items[:10]
+    
+    # Fallback
+    return [
+        {'title': '《黑神话：悟空》DLC新内容爆料', 'url': '#', 'hot': '6850万', 'source': 'gaming'},
+        {'title': 'Steam冬季特惠大作推荐', 'url': '#', 'hot': '4920万', 'source': 'gaming'},
+        {'title': 'LOL世界赛决赛战况激烈', 'url': '#', 'hot': '4230万', 'source': 'gaming'},
+    ]
 
 def main():
     print("=" * 60)

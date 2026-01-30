@@ -220,34 +220,52 @@
   "ai_trending": {
     "producthunt": [
       {
-        "title": "ChatGPT Canvas - AI协作写作工具",
-        "url": "#",
-        "votes": "2.3k",
-        "source": "producthunt"
+        "title": "8点1氪丨国铁回应“抢票神器诱导加价”：12306是唯一官方售票渠道；iPhone 16成去年全球最畅销智能手机；UC浏览器开发商被罚没126万元",
+        "url": "https://www.36kr.com/p/3661162161234566",
+        "votes": "28",
+        "source": "36kr"
       },
       {
-        "title": "Cursor IDE - AI代码编辑器",
-        "url": "#",
-        "votes": "1.8k",
-        "source": "producthunt"
+        "title": "iPhone又卖爆，苹果交出史上最猛财报，库克：谢谢中国",
+        "url": "https://www.36kr.com/p/3661356715959171",
+        "votes": "14",
+        "source": "36kr"
       },
       {
-        "title": "v0 by Vercel - AI生成UI",
-        "url": "#",
-        "votes": "1.5k",
-        "source": "producthunt"
+        "title": "Clawdbot首破10万星，火箭式登顶GitHub，硅谷现象级爆款太火了",
+        "url": "https://www.36kr.com/p/3661357114942337",
+        "votes": "34",
+        "source": "36kr"
       },
       {
-        "title": "Midjourney V7 - AI绘画新版本",
-        "url": "#",
-        "votes": "1.2k",
-        "source": "producthunt"
+        "title": "苹果财报棒极了，但 iPhone 18 涨价在所难免了",
+        "url": "https://www.36kr.com/p/3661351689724553",
+        "votes": "19",
+        "source": "36kr"
       },
       {
-        "title": "Anthropic Claude Artifacts",
-        "url": "#",
-        "votes": "980",
-        "source": "producthunt"
+        "title": "一家AI玩具公司获数千万元融资，核心产品销量翻五倍｜硬氪首发",
+        "url": "https://www.36kr.com/p/3654915542130816",
+        "votes": "28",
+        "source": "36kr"
+      },
+      {
+        "title": "字节阿里DeepSeek决战春节：一场关乎14亿人的重磅AI大战",
+        "url": "https://www.36kr.com/p/3661770596491906",
+        "votes": "29",
+        "source": "36kr"
+      },
+      {
+        "title": "泡泡玛特是门玄学",
+        "url": "https://www.36kr.com/p/3661602667196935",
+        "votes": "30",
+        "source": "36kr"
+      },
+      {
+        "title": "上海存储芯片“小巨人”冲刺港交所，年入10亿，市值275亿",
+        "url": "https://www.36kr.com/p/3661383965434504",
+        "votes": "7",
+        "source": "36kr"
       }
     ],
     "huggingface": [
@@ -330,63 +348,75 @@
   ],
   "entertainment_trending": [
     {
-      "title": "某顶流明星恋情曝光引发热议",
-      "url": "https://s.weibo.com/weibo?q=顶流明星恋情",
-      "hot": "8520万",
+      "title": "外交部回应巴拿马涉港口有关裁决",
+      "url": "https://www.douyin.com/hot/2384245",
+      "hot": "11003059",
       "source": "entertainment"
     },
     {
-      "title": "热播剧主演片场花絮曝光",
-      "url": "https://s.weibo.com/weibo?q=热播剧片场花絮",
-      "hot": "6890万",
+      "title": "生命树剧情夯爆了",
+      "url": "https://www.douyin.com/hot/2384546",
+      "hot": "8634298",
       "source": "entertainment"
     },
     {
-      "title": "颁奖典礼红毯造型大赏",
-      "url": "https://s.weibo.com/weibo?q=颁奖典礼红毯",
-      "hot": "5420万",
+      "title": "汪铎回应出道十年归来仍是素人",
+      "url": "https://www.douyin.com/hot/2384455",
+      "hot": "7640626",
       "source": "entertainment"
     },
     {
-      "title": "某综艺嘉宾互动引爆话题",
-      "url": "https://s.weibo.com/weibo?q=综艺嘉宾",
-      "hot": "4780万",
+      "title": "北方人对面食的执念有多深",
+      "url": "https://www.douyin.com/hot/2384053",
+      "hot": "11230979",
       "source": "entertainment"
     },
     {
-      "title": "影帝影后新片杀青官宣",
-      "url": "https://s.weibo.com/weibo?q=影帝影后新片",
-      "hot": "3890万",
+      "title": "欧冠淘汰赛附加赛抽签出炉",
+      "url": "https://www.douyin.com/hot/2384648",
+      "hot": "11099475",
       "source": "entertainment"
     },
     {
-      "title": "顶流爱豆机场私服被赞爆",
-      "url": "https://s.weibo.com/weibo?q=顶流爱豆机场",
-      "hot": "3250万",
+      "title": "中国绿色低碳转型交出亮眼答卷",
+      "url": "https://www.douyin.com/hot/2384227",
+      "hot": "11038276",
       "source": "entertainment"
     },
     {
-      "title": "某导演新作首映礼盛大举行",
-      "url": "https://s.weibo.com/weibo?q=导演首映礼",
-      "hot": "2940万",
+      "title": "TES战胜BLG",
+      "url": "https://www.douyin.com/hot/2384697",
+      "hot": "9024137",
       "source": "entertainment"
     },
     {
-      "title": "娱乐圈友谊破裂疑云",
-      "url": "https://s.weibo.com/weibo?q=娱乐圈友谊破裂",
-      "hot": "2680万",
+      "title": "中国公民在东京街头被劫",
+      "url": "https://www.douyin.com/hot/2383997",
+      "hot": "8674997",
       "source": "entertainment"
     },
     {
-      "title": "热门IP改编电影定档",
-      "url": "https://s.weibo.com/weibo?q=热门IP电影定档",
-      "hot": "2310万",
+      "title": "喜之郎账号删除金晨代言内容",
+      "url": "https://www.douyin.com/hot/2383961",
+      "hot": "8273755",
       "source": "entertainment"
     },
     {
-      "title": "某歌手演唱会门票秒空",
-      "url": "https://s.weibo.com/weibo?q=演唱会门票秒空",
-      "hot": "2150万",
+      "title": "德约科维奇战胜辛纳进决赛",
+      "url": "https://www.douyin.com/hot/2384448",
+      "hot": "7842734",
+      "source": "entertainment"
+    },
+    {
+      "title": "1.8亿理财剩44万 最高法发声",
+      "url": "https://www.douyin.com/hot/2384334",
+      "hot": "7799105",
+      "source": "entertainment"
+    },
+    {
+      "title": "特朗普起诉美政府部门",
+      "url": "https://www.douyin.com/hot/2383706",
+      "hot": "7795613",
       "source": "entertainment"
     }
   ],
@@ -454,66 +484,42 @@
   ],
   "gaming_trending": [
     {
-      "title": "《黑神话：悟空》DLC新内容爆料",
-      "url": "https://store.steampowered.com",
-      "hot": "6850万",
+      "title": "踏雪寻梅至，龙马送福来——英雄联盟春节活动预告",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=17580527689490479737",
+      "hot": "官方公告",
       "source": "gaming"
     },
     {
-      "title": "Steam冬季特惠大作推荐",
-      "url": "https://store.steampowered.com",
-      "hot": "4920万",
+      "title": "1月30日周免英雄更新公告",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=9837338819275307322",
+      "hot": "官方公告",
       "source": "gaming"
     },
     {
-      "title": "LOL世界赛决赛战况激烈",
-      "url": "https://lol.qq.com",
-      "hot": "4230万",
+      "title": "1月29日祥龙秘宝活动兑换商店上新",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=3004829150964955678",
+      "hot": "官方公告",
       "source": "gaming"
     },
     {
-      "title": "原神新角色实测强度分析",
-      "url": "https://ys.mihoyo.com",
-      "hot": "3680万",
+      "title": "1月27日 不停机更新公告",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=8806172058136753536",
+      "hot": "官方公告",
       "source": "gaming"
     },
     {
-      "title": "王者荣耀新赛季英雄调整",
-      "url": "https://pvp.qq.com",
-      "hot": "3420万",
+      "title": "2026年1月23日 不停机更新公告",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=9981187285423600301",
+      "hot": "官方公告",
       "source": "gaming"
     },
     {
-      "title": "CS2职业联赛精彩集锦",
-      "url": "https://www.counter-strike.net",
-      "hot": "2890万",
-      "source": "gaming"
-    },
-    {
-      "title": "最终幻想新作预告震撼发布",
-      "url": "https://store.steampowered.com",
-      "hot": "2530万",
-      "source": "gaming"
-    },
-    {
-      "title": "暗黑4新赛季装备掉落优化",
-      "url": "https://diablo4.blizzard.com",
-      "hot": "2180万",
-      "source": "gaming"
-    },
-    {
-      "title": "TapTap年度游戏榜单公布",
-      "url": "https://www.taptap.cn",
-      "hot": "1950万",
-      "source": "gaming"
-    },
-    {
-      "title": "塞尔达传说续作开发中",
-      "url": "https://www.nintendo.com",
-      "hot": "1720万",
+      "title": "小米 REDMI Pad 2 Pro 平板发布：内置 PC 级 WPS、CAJ，售价 1799 元起",
+      "url": "https://www.ithome.com/0/917/639.htm",
+      "hot": "112",
       "source": "gaming"
     }
   ],
-  "last_updated": "2026-01-30 10:45:08",
+  "last_updated": "2026-01-30 10:53:33",
   "update_interval": "30 minutes"
 }
