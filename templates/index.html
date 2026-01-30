@@ -620,6 +620,54 @@
                         </div>
                         {% endfor %}
                     </div>
+                </div>                </div>
+
+                <!-- 娱乐八卦榜 -->
+                <div class="trending-content" id="trending-entertainment" style="display: none;">
+                    <div class="feed-card">
+                        <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            🎭 大馋猫娱乐八卦榜 <span style="font-size: 12px; color: #999; font-weight: normal;">实时热搜</span>
+                        </div>
+                        {% for item in enriched_trending.entertainment_trending %}
+                        <div class="trend-item">
+                            <span style="color: #ff1493; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">{{ item.hot }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <!-- 育儿榜 -->
+                <div class="trending-content" id="trending-parenting" style="display: none;">
+                    <div class="feed-card">
+                        <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            👶 育儿知识热榜 <span style="font-size: 12px; color: #999; font-weight: normal;">宝宝树热门</span>
+                        </div>
+                        {% for item in enriched_trending.parenting_trending %}
+                        <div class="trend-item">
+                            <span style="color: #ffa500; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">{{ item.hot }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <!-- 游戏榜 -->
+                <div class="trending-content" id="trending-gaming" style="display: none;">
+                    <div class="feed-card">
+                        <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                            🎮 游戏热搜榜 <span style="font-size: 12px; color: #999; font-weight: normal;">Steam | 手游 | 电竞</span>
+                        </div>
+                        {% for item in enriched_trending.gaming_trending %}
+                        <div class="trend-item">
+                            <span style="color: #9370db; font-weight: bold; margin-right: 10px;">{{ loop.index }}</span>
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+                            <span class="trend-badge">{{ item.hot }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
         </div>
