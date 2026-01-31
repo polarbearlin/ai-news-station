@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-31 16:29:39",
+  "generated_at": "2026-01-31 20:26:57",
   "news": [
+    {
+      "title": "US has investigated claims WhatsApp chats aren't private",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
+      "source": "Hacker News",
+      "time": "2026-01-31 17:25",
+      "score": 24,
+      "comments": 191
+    },
+    {
+      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+      "url": "https://github.com/rtvkiz/minimal",
+      "source": "Hacker News",
+      "time": "2026-01-31 19:58",
+      "score": 5,
+      "comments": 1
+    },
     {
       "title": "CPython Internals Explained",
       "url": "https://github.com/zpoint/CPython-Internals",
       "source": "Hacker News",
       "time": "2026-01-27 14:07",
-      "score": 19,
-      "comments": 0
-    },
-    {
-      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "source": "Hacker News",
-      "time": "2026-01-31 00:51",
-      "score": 347,
-      "comments": 111
-    },
-    {
-      "title": "US reportedly investigate claims that Meta can read encrypted WhatsApp messages",
-      "url": "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages",
-      "source": "Hacker News",
-      "time": "2026-01-31 13:27",
-      "score": 113,
-      "comments": 88
+      "score": 111,
+      "comments": 27
     }
   ]
 }

@@ -4,63 +4,63 @@
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for OpenClaw agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 514,
+    "stars": 519,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T16:29:23Z"
+    "updated_at": "2026-01-31T20:12:25Z"
   },
   {
     "name": "MoltBrain",
     "full_name": "nhevers/MoltBrain",
     "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically.",
     "url": "https://github.com/nhevers/MoltBrain",
-    "stars": 346,
+    "stars": 348,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T16:16:23Z"
+    "updated_at": "2026-01-31T19:55:17Z"
   },
   {
     "name": "burp-ai-agent",
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 289,
+    "stars": 293,
     "language": "Kotlin",
-    "updated_at": "2026-01-31T15:01:10Z"
+    "updated_at": "2026-01-31T19:47:29Z"
   },
   {
     "name": "one-agent-one-browser",
     "full_name": "embedding-shapes/one-agent-one-browser",
     "description": "One from scratch browser built by one human and one agent, working hand in hand",
     "url": "https://github.com/embedding-shapes/one-agent-one-browser",
-    "stars": 193,
+    "stars": 194,
     "language": "Rust",
-    "updated_at": "2026-01-31T12:06:43Z"
+    "updated_at": "2026-01-31T16:58:50Z"
   },
   {
     "name": "sandbox-agent",
     "full_name": "rivet-dev/sandbox-agent",
     "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp.",
     "url": "https://github.com/rivet-dev/sandbox-agent",
-    "stars": 145,
+    "stars": 153,
     "language": "Rust",
-    "updated_at": "2026-01-31T16:06:39Z"
+    "updated_at": "2026-01-31T20:20:06Z"
   },
   {
     "name": "voicebox",
     "full_name": "jamiepine/voicebox",
     "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
     "url": "https://github.com/jamiepine/voicebox",
-    "stars": 144,
+    "stars": 148,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T16:25:17Z"
+    "updated_at": "2026-01-31T20:20:46Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 102,
+    "stars": 107,
     "language": null,
-    "updated_at": "2026-01-31T15:50:43Z"
+    "updated_at": "2026-01-31T20:24:28Z"
   },
   {
     "name": "awesome-agent-skills",
@@ -72,6 +72,15 @@
     "updated_at": "2026-01-31T06:33:12Z"
   },
   {
+    "name": "cursor-tap",
+    "full_name": "burpheart/cursor-tap",
+    "description": "Cursor gRPC 通信流量分析工具",
+    "url": "https://github.com/burpheart/cursor-tap",
+    "stars": 38,
+    "language": "Go",
+    "updated_at": "2026-01-31T19:54:50Z"
+  },
+  {
     "name": "azure-diagrams-skill",
     "full_name": "cmb211087/azure-diagrams-skill",
     "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
@@ -79,14 +88,5 @@
     "stars": 33,
     "language": "Python",
     "updated_at": "2026-01-31T15:15:54Z"
-  },
-  {
-    "name": "Awesome-AI-Pedia",
-    "full_name": "qdleader/Awesome-AI-Pedia",
-    "description": "🔥🔥🔥 A Comprehensive Collection of AI/ML Knowledge, Papers, Courses, and Tools. (AI 知识大全，包含skills、claude code、cursor工具和学习路径)",
-    "url": "https://github.com/qdleader/Awesome-AI-Pedia",
-    "stars": 28,
-    "language": "TypeScript",
-    "updated_at": "2026-01-31T14:24:19Z"
   }
 ]
