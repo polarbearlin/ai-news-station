@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-01-31 08:31:38",
+  "generated_at": "2026-01-31 12:49:45",
   "news": [
     {
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "source": "Hacker News",
       "time": "2026-01-31 00:51",
-      "score": 204,
-      "comments": 74
+      "score": 274,
+      "comments": 97
+    },
+    {
+      "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
+      "url": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
+      "source": "Hacker News",
+      "time": "2026-01-29 13:20",
+      "score": 44,
+      "comments": 6
     }
   ]
 }
