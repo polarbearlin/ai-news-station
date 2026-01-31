@@ -4,72 +4,72 @@
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 499,
+    "stars": 500,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T05:06:52Z"
+    "updated_at": "2026-01-31T07:41:15Z"
   },
   {
     "name": "MoltBrain",
     "full_name": "nhevers/MoltBrain",
     "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically.",
     "url": "https://github.com/nhevers/MoltBrain",
-    "stars": 339,
+    "stars": 342,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T06:08:30Z"
+    "updated_at": "2026-01-31T07:12:59Z"
   },
   {
     "name": "burp-ai-agent",
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 278,
+    "stars": 279,
     "language": "Kotlin",
-    "updated_at": "2026-01-31T05:53:41Z"
+    "updated_at": "2026-01-31T07:27:52Z"
   },
   {
     "name": "one-agent-one-browser",
     "full_name": "embedding-shapes/one-agent-one-browser",
     "description": "One from scratch browser built by one human and one agent, working hand in hand",
     "url": "https://github.com/embedding-shapes/one-agent-one-browser",
-    "stars": 191,
+    "stars": 192,
     "language": "Rust",
-    "updated_at": "2026-01-31T00:37:18Z"
+    "updated_at": "2026-01-31T07:31:18Z"
   },
   {
     "name": "voicebox",
     "full_name": "jamiepine/voicebox",
     "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
     "url": "https://github.com/jamiepine/voicebox",
-    "stars": 135,
+    "stars": 137,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T05:23:15Z"
+    "updated_at": "2026-01-31T07:51:08Z"
   },
   {
     "name": "sandbox-agent",
     "full_name": "rivet-dev/sandbox-agent",
     "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp.",
     "url": "https://github.com/rivet-dev/sandbox-agent",
-    "stars": 131,
+    "stars": 135,
     "language": "Rust",
-    "updated_at": "2026-01-31T03:59:18Z"
+    "updated_at": "2026-01-31T08:25:29Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 97,
+    "stars": 98,
     "language": null,
-    "updated_at": "2026-01-31T03:27:19Z"
+    "updated_at": "2026-01-31T06:38:53Z"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "JackyST0/awesome-agent-skills",
     "description": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
     "url": "https://github.com/JackyST0/awesome-agent-skills",
-    "stars": 57,
+    "stars": 58,
     "language": "Shell",
-    "updated_at": "2026-01-31T01:39:42Z"
+    "updated_at": "2026-01-31T06:33:12Z"
   },
   {
     "name": "azure-diagrams-skill",

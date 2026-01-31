@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-01-31 06:15:46",
+  "generated_at": "2026-01-31 08:31:38",
   "news": [
     {
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "source": "Hacker News",
       "time": "2026-01-31 00:51",
-      "score": 159,
-      "comments": 54
-    },
-    {
-      "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
-      "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
-      "source": "Hacker News",
-      "time": "2026-01-31 00:02",
-      "score": 243,
-      "comments": 148
+      "score": 204,
+      "comments": 74
     }
   ]
 }
