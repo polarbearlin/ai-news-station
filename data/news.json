@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-01-31 02:00:43",
+  "generated_at": "2026-01-31 05:01:55",
   "news": [
     {
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "source": "Hacker News",
       "time": "2026-01-31 00:51",
-      "score": 45,
-      "comments": 7
+      "score": 134,
+      "comments": 45
     },
     {
-      "title": "The $100B Megadeal Between OpenAI and Nvidia Is on Ice",
+      "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
       "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
       "source": "Hacker News",
       "time": "2026-01-31 00:02",
-      "score": 125,
-      "comments": 36
-    },
-    {
-      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
-      "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
-      "source": "Hacker News",
-      "time": "2026-01-30 22:16",
-      "score": 45,
-      "comments": 33
+      "score": 213,
+      "comments": 130
     }
   ]
 }

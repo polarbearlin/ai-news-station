@@ -6,25 +6,25 @@
     "url": "https://github.com/luccast/crabwalk",
     "stars": 498,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T01:46:58Z"
+    "updated_at": "2026-01-31T04:17:09Z"
   },
   {
     "name": "MoltBrain",
     "full_name": "nhevers/MoltBrain",
     "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically.",
     "url": "https://github.com/nhevers/MoltBrain",
-    "stars": 310,
+    "stars": 332,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T01:03:08Z"
+    "updated_at": "2026-01-31T04:59:38Z"
   },
   {
     "name": "burp-ai-agent",
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 271,
+    "stars": 277,
     "language": "Kotlin",
-    "updated_at": "2026-01-31T00:20:37Z"
+    "updated_at": "2026-01-31T04:58:22Z"
   },
   {
     "name": "one-agent-one-browser",
@@ -40,27 +40,27 @@
     "full_name": "jamiepine/voicebox",
     "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
     "url": "https://github.com/jamiepine/voicebox",
-    "stars": 132,
+    "stars": 134,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T01:07:58Z"
+    "updated_at": "2026-01-31T04:38:56Z"
   },
   {
     "name": "sandbox-agent",
     "full_name": "rivet-dev/sandbox-agent",
     "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp.",
     "url": "https://github.com/rivet-dev/sandbox-agent",
-    "stars": 123,
+    "stars": 131,
     "language": "Rust",
-    "updated_at": "2026-01-31T00:51:42Z"
+    "updated_at": "2026-01-31T03:59:18Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 96,
+    "stars": 97,
     "language": null,
-    "updated_at": "2026-01-31T01:29:18Z"
+    "updated_at": "2026-01-31T03:27:19Z"
   },
   {
     "name": "awesome-agent-skills",
