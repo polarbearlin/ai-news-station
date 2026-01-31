@@ -4,27 +4,27 @@
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 498,
+    "stars": 499,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T04:17:09Z"
+    "updated_at": "2026-01-31T05:06:52Z"
   },
   {
     "name": "MoltBrain",
     "full_name": "nhevers/MoltBrain",
     "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically.",
     "url": "https://github.com/nhevers/MoltBrain",
-    "stars": 332,
+    "stars": 339,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T04:59:38Z"
+    "updated_at": "2026-01-31T06:08:30Z"
   },
   {
     "name": "burp-ai-agent",
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 277,
+    "stars": 278,
     "language": "Kotlin",
-    "updated_at": "2026-01-31T04:58:22Z"
+    "updated_at": "2026-01-31T05:53:41Z"
   },
   {
     "name": "one-agent-one-browser",
@@ -40,9 +40,9 @@
     "full_name": "jamiepine/voicebox",
     "description": "The open-source voice synthesis studio powered by Qwen3-TTS.",
     "url": "https://github.com/jamiepine/voicebox",
-    "stars": 134,
+    "stars": 135,
     "language": "TypeScript",
-    "updated_at": "2026-01-31T04:38:56Z"
+    "updated_at": "2026-01-31T05:23:15Z"
   },
   {
     "name": "sandbox-agent",
