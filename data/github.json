@@ -4,89 +4,89 @@
     "full_name": "nhevers/MoltBrain",
     "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically.",
     "url": "https://github.com/nhevers/MoltBrain",
-    "stars": 352,
+    "stars": 354,
     "language": "TypeScript",
-    "updated_at": "2026-02-01T16:30:55Z"
+    "updated_at": "2026-02-01T20:23:41Z"
   },
   {
     "name": "burp-ai-agent",
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 314,
+    "stars": 317,
     "language": "Kotlin",
-    "updated_at": "2026-02-01T16:30:56Z"
+    "updated_at": "2026-02-01T19:21:19Z"
   },
   {
     "name": "one-agent-one-browser",
     "full_name": "embedding-shapes/one-agent-one-browser",
     "description": "One from scratch browser built by one human and one agent, working hand in hand",
     "url": "https://github.com/embedding-shapes/one-agent-one-browser",
-    "stars": 196,
+    "stars": 197,
     "language": "Rust",
-    "updated_at": "2026-02-01T16:19:52Z"
+    "updated_at": "2026-02-01T19:26:43Z"
   },
   {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 131,
+    "stars": 135,
     "language": "Go",
-    "updated_at": "2026-02-01T16:21:04Z"
+    "updated_at": "2026-02-01T18:38:48Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 110,
+    "stars": 111,
     "language": null,
-    "updated_at": "2026-02-01T15:22:28Z"
+    "updated_at": "2026-02-01T19:27:36Z"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "JackyST0/awesome-agent-skills",
     "description": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
     "url": "https://github.com/JackyST0/awesome-agent-skills",
-    "stars": 61,
+    "stars": 62,
     "language": "Shell",
-    "updated_at": "2026-02-01T13:57:10Z"
+    "updated_at": "2026-02-01T16:34:20Z"
   },
   {
     "name": "OpenBB-finance-AIPowered-Analysis-Agents",
     "full_name": "Proxemnn/OpenBB-finance-AIPowered-Analysis-Agents",
     "description": "Custom agents for OpenBB Workspace, plugins",
     "url": "https://github.com/Proxemnn/OpenBB-finance-AIPowered-Analysis-Agents",
-    "stars": 48,
+    "stars": 50,
     "language": "C#",
-    "updated_at": "2026-02-01T15:51:12Z"
+    "updated_at": "2026-02-01T19:58:44Z"
   },
   {
     "name": "Deep-Live-Cam-Multi-Camera-Object-Tracking-Webui",
     "full_name": "Stelteryz/Deep-Live-Cam-Multi-Camera-Object-Tracking-Webui",
     "description": "Uses deepfake tech to bypass ID verification and 2FA by simulating a user’s face in real time during live webcam checks, tricking biometric systems into granting unauthorized access through realistic facial mimicry. machine-learning, webcam, faceswap, artificial-intelligence, deepfake, 2fa-bypass, identity-theft, spoofing",
     "url": "https://github.com/Stelteryz/Deep-Live-Cam-Multi-Camera-Object-Tracking-Webui",
-    "stars": 47,
+    "stars": 49,
     "language": "C#",
-    "updated_at": "2026-02-01T14:54:55Z"
+    "updated_at": "2026-02-01T19:51:33Z"
   },
   {
     "name": "blankly-finance-plugins-RSI-Based-Crypto-Trading",
     "full_name": "Proxemnn/blankly-finance-plugins-RSI-Based-Crypto-Trading",
     "description": "financial machine learning tools and applications, trading strategies Financial portfolio optimisation.",
     "url": "https://github.com/Proxemnn/blankly-finance-plugins-RSI-Based-Crypto-Trading",
-    "stars": 46,
+    "stars": 48,
     "language": "C#",
-    "updated_at": "2026-02-01T15:48:39Z"
+    "updated_at": "2026-02-01T19:56:32Z"
   },
   {
     "name": "azure-diagrams-skill",
     "full_name": "cmb211087/azure-diagrams-skill",
     "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
     "url": "https://github.com/cmb211087/azure-diagrams-skill",
-    "stars": 36,
+    "stars": 37,
     "language": "Python",
-    "updated_at": "2026-02-01T15:56:25Z"
+    "updated_at": "2026-02-01T18:34:27Z"
   }
 ]
