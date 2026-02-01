@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-01 05:21:54",
+  "generated_at": "2026-02-01 08:34:06",
   "news": [
-    {
-      "title": "List animals until failure",
-      "url": "https://rose.systems/animalist/",
-      "source": "Hacker News",
-      "time": "2026-02-01 01:03",
-      "score": 55,
-      "comments": 31
-    },
     {
       "title": "In praise of –dry-run",
       "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
       "source": "Hacker News",
       "time": "2026-01-31 20:42",
-      "score": 97,
-      "comments": 63
+      "score": 147,
+      "comments": 83
+    },
+    {
+      "title": "List animals until failure",
+      "url": "https://rose.systems/animalist/",
+      "source": "Hacker News",
+      "time": "2026-02-01 01:03",
+      "score": 129,
+      "comments": 74
     },
     {
       "title": "Generative AI and Wikipedia editing: What we learned in 2025",
       "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
       "source": "Hacker News",
       "time": "2026-01-31 21:14",
-      "score": 110,
-      "comments": 48
+      "score": 136,
+      "comments": 54
     }
   ]
 }
