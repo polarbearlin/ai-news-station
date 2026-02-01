@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-31 20:26:57",
+  "generated_at": "2026-02-01 02:29:01",
   "news": [
     {
-      "title": "US has investigated claims WhatsApp chats aren't private",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
       "source": "Hacker News",
-      "time": "2026-01-31 17:25",
-      "score": 24,
-      "comments": 191
+      "time": "2026-01-31 21:14",
+      "score": 86,
+      "comments": 39
+    },
+    {
+      "title": "In Praise of –dry-run",
+      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "source": "Hacker News",
+      "time": "2026-01-31 20:42",
+      "score": 54,
+      "comments": 29
     },
     {
       "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
       "url": "https://github.com/rtvkiz/minimal",
       "source": "Hacker News",
       "time": "2026-01-31 19:58",
-      "score": 5,
-      "comments": 1
-    },
-    {
-      "title": "CPython Internals Explained",
-      "url": "https://github.com/zpoint/CPython-Internals",
-      "source": "Hacker News",
-      "time": "2026-01-27 14:07",
-      "score": 111,
-      "comments": 27
+      "score": 70,
+      "comments": 22
     }
   ]
 }
