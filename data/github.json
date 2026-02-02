@@ -4,27 +4,27 @@
     "full_name": "six2dez/burp-ai-agent",
     "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
     "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 342,
+    "stars": 353,
     "language": "Kotlin",
-    "updated_at": "2026-02-02T05:18:51Z"
+    "updated_at": "2026-02-02T08:28:49Z"
   },
   {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 170,
+    "stars": 175,
     "language": "Go",
-    "updated_at": "2026-02-02T04:54:00Z"
+    "updated_at": "2026-02-02T08:25:44Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 114,
+    "stars": 116,
     "language": null,
-    "updated_at": "2026-02-02T03:55:24Z"
+    "updated_at": "2026-02-02T07:39:22Z"
   },
   {
     "name": "awesome-agent-skills",
@@ -40,27 +40,27 @@
     "full_name": "lukehinds/nono",
     "description": "all your base does belong to us. ",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 41,
+    "stars": 53,
     "language": "Rust",
-    "updated_at": "2026-02-02T05:10:30Z"
+    "updated_at": "2026-02-02T08:43:30Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 38,
+    "stars": 50,
     "language": "JavaScript",
-    "updated_at": "2026-02-02T05:22:07Z"
+    "updated_at": "2026-02-02T08:29:37Z"
   },
   {
     "name": "azure-diagrams-skill",
     "full_name": "cmb211087/azure-diagrams-skill",
     "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
     "url": "https://github.com/cmb211087/azure-diagrams-skill",
-    "stars": 37,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-02-01T18:34:27Z"
+    "updated_at": "2026-02-02T05:24:37Z"
   },
   {
     "name": "Prompt",
@@ -85,8 +85,8 @@
     "full_name": "Chunjiang-Intelligence/Parfait",
     "description": "Generate market simulation data as perfect as Parfait. ✨",
     "url": "https://github.com/Chunjiang-Intelligence/Parfait",
-    "stars": 21,
+    "stars": 22,
     "language": "Python",
-    "updated_at": "2026-02-02T03:10:38Z"
+    "updated_at": "2026-02-02T08:33:44Z"
   }
 ]

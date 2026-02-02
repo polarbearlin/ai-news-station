@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-02 05:24:02",
+  "generated_at": "2026-02-02 08:43:49",
   "news": [
+    {
+      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "source": "Hacker News",
+      "time": "2026-02-01 20:51",
+      "score": 267,
+      "comments": 122
+    },
     {
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "url": "https://github.com/gavrielc/nanoclaw",
       "source": "Hacker News",
       "time": "2026-02-01 22:49",
-      "score": 260,
-      "comments": 73
+      "score": 339,
+      "comments": 112
     }
   ]
 }
