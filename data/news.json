@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-02-02 13:01:33",
+  "generated_at": "2026-02-02 16:41:37",
   "news": [
     {
-      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
-      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "url": "https://neutree.ai/blog/nano-vllm-part-1",
       "source": "Hacker News",
-      "time": "2026-02-01 20:51",
-      "score": 333,
-      "comments": 152
-    },
-    {
-      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-      "url": "https://github.com/gavrielc/nanoclaw",
-      "source": "Hacker News",
-      "time": "2026-02-01 22:49",
-      "score": 411,
-      "comments": 151
+      "time": "2026-02-02 12:52",
+      "score": 116,
+      "comments": 14
     }
   ]
 }
