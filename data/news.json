@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-01 20:27:56",
+  "generated_at": "2026-02-02 02:12:38",
   "news": [
     {
-      "title": "TIL: Apple Broke Time Machine Again on Tahoe",
-      "url": "https://taoofmac.com/space/til/2026/02/01/1630",
+      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+      "url": "https://github.com/gavrielc/nanoclaw",
       "source": "Hacker News",
-      "time": "2026-02-01 19:38",
-      "score": 46,
-      "comments": 14
+      "time": "2026-02-01 22:49",
+      "score": 170,
+      "comments": 51
     }
   ]
 }
