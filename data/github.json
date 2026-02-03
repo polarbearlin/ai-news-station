@@ -1,48 +1,39 @@
 [
   {
-    "name": "burp-ai-agent",
-    "full_name": "six2dez/burp-ai-agent",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
-    "url": "https://github.com/six2dez/burp-ai-agent",
-    "stars": 362,
-    "language": "Kotlin",
-    "updated_at": "2026-02-02T16:18:09Z"
-  },
-  {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 179,
+    "stars": 183,
     "language": "Go",
-    "updated_at": "2026-02-02T15:21:57Z"
+    "updated_at": "2026-02-03T01:49:09Z"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "Kernel Isolated Sandboxed Agents. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 121,
+    "language": "Rust",
+    "updated_at": "2026-02-03T02:00:05Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 118,
+    "stars": 121,
     "language": null,
-    "updated_at": "2026-02-02T12:04:50Z"
-  },
-  {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 89,
-    "language": "Rust",
-    "updated_at": "2026-02-02T16:29:45Z"
+    "updated_at": "2026-02-02T21:34:44Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 79,
+    "stars": 109,
     "language": "JavaScript",
-    "updated_at": "2026-02-02T16:26:24Z"
+    "updated_at": "2026-02-03T00:45:19Z"
   },
   {
     "name": "awesome-agent-skills",
@@ -58,9 +49,9 @@
     "full_name": "cmb211087/azure-diagrams-skill",
     "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
     "url": "https://github.com/cmb211087/azure-diagrams-skill",
-    "stars": 40,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-02-02T15:08:05Z"
+    "updated_at": "2026-02-03T01:47:22Z"
   },
   {
     "name": "Prompt",
@@ -72,15 +63,6 @@
     "updated_at": "2026-02-01T19:16:30Z"
   },
   {
-    "name": "infinite-gratitude",
-    "full_name": "sstklen/infinite-gratitude",
-    "description": "🥋 AI Dojo: 報恩術 | Multi-agent research skill for Claude Code. 10 agents, 3 waves, infinite gifts. Made by Washin Village 🐾",
-    "url": "https://github.com/sstklen/infinite-gratitude",
-    "stars": 26,
-    "language": null,
-    "updated_at": "2026-01-30T06:25:30Z"
-  },
-  {
     "name": "Parfait",
     "full_name": "Chunjiang-Intelligence/Parfait",
     "description": "Generate market simulation data as perfect as Parfait. ✨",
@@ -88,5 +70,23 @@
     "stars": 25,
     "language": "Python",
     "updated_at": "2026-02-02T15:10:39Z"
+  },
+  {
+    "name": "capex",
+    "full_name": "AxeMello/capex",
+    "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
+    "url": "https://github.com/AxeMello/capex",
+    "stars": 24,
+    "language": "HTML",
+    "updated_at": "2026-02-02T14:02:42Z"
+  },
+  {
+    "name": "Nemp-memory",
+    "full_name": "SukinShetty/Nemp-memory",
+    "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
+    "url": "https://github.com/SukinShetty/Nemp-memory",
+    "stars": 23,
+    "language": null,
+    "updated_at": "2026-02-02T18:22:00Z"
   }
 ]
