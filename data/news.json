@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-03 02:10:42",
+  "generated_at": "2026-02-03 05:15:02",
   "news": [
+    {
+      "title": "Todd C. Miller – Sudo maintainer for over 30 years",
+      "url": "https://www.millert.dev/",
+      "source": "Hacker News",
+      "time": "2026-02-02 17:25",
+      "score": 349,
+      "comments": 189
+    },
     {
       "title": "xAI joins SpaceX",
       "url": "https://www.spacex.com/updates#xai-joins-spacex",
       "source": "Hacker News",
       "time": "2026-02-02 21:51",
-      "score": 462,
-      "comments": 1040
+      "score": 583,
+      "comments": 1267
     }
   ]
 }
