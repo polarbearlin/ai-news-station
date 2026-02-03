@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-03 05:15:02",
+  "generated_at": "2026-02-03 08:38:04",
   "news": [
     {
       "title": "Todd C. Miller – Sudo maintainer for over 30 years",
       "url": "https://www.millert.dev/",
       "source": "Hacker News",
       "time": "2026-02-02 17:25",
-      "score": 349,
-      "comments": 189
+      "score": 413,
+      "comments": 209
+    },
+    {
+      "title": "Archive.today is directing a DDoS attack against my blog?",
+      "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
+      "source": "Hacker News",
+      "time": "2026-02-01 05:11",
+      "score": 134,
+      "comments": 44
     },
     {
       "title": "xAI joins SpaceX",
       "url": "https://www.spacex.com/updates#xai-joins-spacex",
       "source": "Hacker News",
       "time": "2026-02-02 21:51",
-      "score": 583,
-      "comments": 1267
+      "score": 668,
+      "comments": 1488
     }
   ]
 }
