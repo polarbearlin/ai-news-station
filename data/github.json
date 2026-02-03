@@ -4,54 +4,54 @@
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 187,
+    "stars": 189,
     "language": "Go",
-    "updated_at": "2026-02-03T05:48:12Z"
+    "updated_at": "2026-02-03T11:33:13Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
-    "description": "Kernel Isolated Sandboxed Agents. ",
+    "description": "OS-Level Isolation for AI Agents.",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 141,
+    "stars": 148,
     "language": "Rust",
-    "updated_at": "2026-02-03T08:27:59Z"
+    "updated_at": "2026-02-03T13:02:02Z"
   },
   {
     "name": "awesome-pm-skills",
     "full_name": "menkesu/awesome-pm-skills",
     "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 121,
+    "stars": 124,
     "language": null,
-    "updated_at": "2026-02-02T21:34:44Z"
+    "updated_at": "2026-02-03T12:05:09Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 111,
+    "stars": 118,
     "language": "JavaScript",
-    "updated_at": "2026-02-03T03:40:38Z"
+    "updated_at": "2026-02-03T12:59:04Z"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "JackyST0/awesome-agent-skills",
     "description": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
     "url": "https://github.com/JackyST0/awesome-agent-skills",
-    "stars": 70,
+    "stars": 72,
     "language": "Shell",
-    "updated_at": "2026-02-03T03:27:11Z"
+    "updated_at": "2026-02-03T10:28:14Z"
   },
   {
     "name": "azure-diagrams-skill",
     "full_name": "cmb211087/azure-diagrams-skill",
     "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
     "url": "https://github.com/cmb211087/azure-diagrams-skill",
-    "stars": 48,
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-02-03T07:52:29Z"
+    "updated_at": "2026-02-03T10:55:16Z"
   },
   {
     "name": "Prompt",
@@ -60,25 +60,25 @@
     "url": "https://github.com/asedy6891gw/Prompt",
     "stars": 34,
     "language": null,
-    "updated_at": "2026-02-01T19:16:30Z"
+    "updated_at": "2026-02-03T10:58:42Z"
   },
   {
     "name": "capex",
     "full_name": "AxeMello/capex",
     "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
     "url": "https://github.com/AxeMello/capex",
-    "stars": 29,
+    "stars": 30,
     "language": "HTML",
-    "updated_at": "2026-02-03T08:31:11Z"
+    "updated_at": "2026-02-03T09:00:11Z"
   },
   {
     "name": "Parfait",
     "full_name": "Chunjiang-Intelligence/Parfait",
     "description": "Generate market simulation data as perfect as Parfait. ✨",
     "url": "https://github.com/Chunjiang-Intelligence/Parfait",
-    "stars": 28,
+    "stars": 29,
     "language": "Python",
-    "updated_at": "2026-02-03T08:19:46Z"
+    "updated_at": "2026-02-03T08:54:29Z"
   },
   {
     "name": "Nemp-memory",
