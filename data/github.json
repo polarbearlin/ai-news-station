@@ -4,54 +4,27 @@
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 190,
+    "stars": 192,
     "language": "Go",
-    "updated_at": "2026-02-03T13:25:28Z"
+    "updated_at": "2026-02-04T02:03:51Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
-    "description": "OS-Level Isolation and protections for AI Agents.",
+    "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 172,
+    "stars": 191,
     "language": "Rust",
-    "updated_at": "2026-02-03T20:37:15Z"
+    "updated_at": "2026-02-04T01:58:07Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 128,
+    "stars": 132,
     "language": "JavaScript",
-    "updated_at": "2026-02-03T20:24:11Z"
-  },
-  {
-    "name": "awesome-pm-skills",
-    "full_name": "menkesu/awesome-pm-skills",
-    "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
-    "url": "https://github.com/menkesu/awesome-pm-skills",
-    "stars": 126,
-    "language": null,
-    "updated_at": "2026-02-03T18:45:41Z"
-  },
-  {
-    "name": "awesome-agent-skills",
-    "full_name": "JackyST0/awesome-agent-skills",
-    "description": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-    "url": "https://github.com/JackyST0/awesome-agent-skills",
-    "stars": 93,
-    "language": "Shell",
-    "updated_at": "2026-02-03T17:46:35Z"
-  },
-  {
-    "name": "azure-diagrams-skill",
-    "full_name": "cmb211087/azure-diagrams-skill",
-    "description": "Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.",
-    "url": "https://github.com/cmb211087/azure-diagrams-skill",
-    "stars": 50,
-    "language": "Python",
-    "updated_at": "2026-02-03T10:55:16Z"
+    "updated_at": "2026-02-04T01:32:09Z"
   },
   {
     "name": "Prompt",
@@ -88,5 +61,32 @@
     "stars": 27,
     "language": null,
     "updated_at": "2026-02-03T18:42:11Z"
+  },
+  {
+    "name": "MarketBot",
+    "full_name": "EthanAlgoX/MarketBot",
+    "description": "MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support.",
+    "url": "https://github.com/EthanAlgoX/MarketBot",
+    "stars": 26,
+    "language": "TypeScript",
+    "updated_at": "2026-02-03T19:09:41Z"
+  },
+  {
+    "name": "CyberLink",
+    "full_name": "melerrodrigolopezf0g/CyberLink",
+    "description": "Cyber | Link | Power | Director | Pro | Cyber Link | Power Director | Ai | 2026",
+    "url": "https://github.com/melerrodrigolopezf0g/CyberLink",
+    "stars": 19,
+    "language": null,
+    "updated_at": "2026-02-03T17:38:52Z"
+  },
+  {
+    "name": "Album",
+    "full_name": "justalittle180-max/Album",
+    "description": "Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |",
+    "url": "https://github.com/justalittle180-max/Album",
+    "stars": 19,
+    "language": null,
+    "updated_at": "2026-02-03T17:38:56Z"
   }
 ]
