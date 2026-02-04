@@ -1,5 +1,14 @@
 [
   {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "A secure, kernel-enforced capability sandbox for AI agents",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 195,
+    "language": "Rust",
+    "updated_at": "2026-02-04T04:36:49Z"
+  },
+  {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
@@ -9,22 +18,13 @@
     "updated_at": "2026-02-04T02:03:51Z"
   },
   {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "A secure, kernel-enforced capability sandbox for AI agents",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 191,
-    "language": "Rust",
-    "updated_at": "2026-02-04T01:58:07Z"
-  },
-  {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 132,
+    "stars": 135,
     "language": "JavaScript",
-    "updated_at": "2026-02-04T01:32:09Z"
+    "updated_at": "2026-02-04T05:00:26Z"
   },
   {
     "name": "Prompt",
@@ -63,6 +63,15 @@
     "updated_at": "2026-02-03T18:42:11Z"
   },
   {
+    "name": "ace-step-ui",
+    "full_name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "stars": 27,
+    "language": "JavaScript",
+    "updated_at": "2026-02-04T05:01:24Z"
+  },
+  {
     "name": "MarketBot",
     "full_name": "EthanAlgoX/MarketBot",
     "description": "MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-02-03T19:09:41Z"
   },
   {
-    "name": "CyberLink",
-    "full_name": "melerrodrigolopezf0g/CyberLink",
-    "description": "Cyber | Link | Power | Director | Pro | Cyber Link | Power Director | Ai | 2026",
-    "url": "https://github.com/melerrodrigolopezf0g/CyberLink",
-    "stars": 19,
-    "language": null,
-    "updated_at": "2026-02-03T17:38:52Z"
-  },
-  {
-    "name": "Album",
-    "full_name": "justalittle180-max/Album",
-    "description": "Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |",
-    "url": "https://github.com/justalittle180-max/Album",
-    "stars": 19,
-    "language": null,
-    "updated_at": "2026-02-03T17:38:56Z"
+    "name": "ClawRouter",
+    "full_name": "BlockRunAI/ClawRouter",
+    "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
+    "url": "https://github.com/BlockRunAI/ClawRouter",
+    "stars": 20,
+    "language": "TypeScript",
+    "updated_at": "2026-02-04T05:06:18Z"
   }
 ]
