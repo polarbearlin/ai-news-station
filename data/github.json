@@ -4,18 +4,27 @@
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 239,
+    "stars": 241,
     "language": "TypeScript",
-    "updated_at": "2026-02-04T15:25:25Z"
+    "updated_at": "2026-02-04T18:01:48Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 218,
+    "stars": 223,
     "language": "Rust",
-    "updated_at": "2026-02-04T16:40:56Z"
+    "updated_at": "2026-02-04T20:17:27Z"
+  },
+  {
+    "name": "ClawRouter",
+    "full_name": "BlockRunAI/ClawRouter",
+    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
+    "url": "https://github.com/BlockRunAI/ClawRouter",
+    "stars": 197,
+    "language": "TypeScript",
+    "updated_at": "2026-02-04T20:21:28Z"
   },
   {
     "name": "cursor-tap",
@@ -27,31 +36,22 @@
     "updated_at": "2026-02-04T16:11:18Z"
   },
   {
-    "name": "ClawRouter",
-    "full_name": "BlockRunAI/ClawRouter",
-    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-    "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 171,
-    "language": "TypeScript",
-    "updated_at": "2026-02-04T16:45:35Z"
-  },
-  {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 154,
+    "stars": 192,
     "language": "JavaScript",
-    "updated_at": "2026-02-04T16:49:58Z"
+    "updated_at": "2026-02-04T20:34:15Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 145,
+    "stars": 144,
     "language": "JavaScript",
-    "updated_at": "2026-02-04T14:50:48Z"
+    "updated_at": "2026-02-04T17:25:47Z"
   },
   {
     "name": "capex",
