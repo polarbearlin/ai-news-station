@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-02-04 08:42:46",
-  "news": []
+  "generated_at": "2026-02-04 13:01:14",
+  "news": [
+    {
+      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "source": "Hacker News",
+      "time": "2026-02-04 06:51",
+      "score": 114,
+      "comments": 34
+    }
+  ]
 }
