@@ -1,30 +1,66 @@
 [
   {
+    "name": "openclaw-mini",
+    "full_name": "voocel/openclaw-mini",
+    "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
+    "url": "https://github.com/voocel/openclaw-mini",
+    "stars": 228,
+    "language": "TypeScript",
+    "updated_at": "2026-02-04T08:36:32Z"
+  },
+  {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 195,
+    "stars": 206,
     "language": "Rust",
-    "updated_at": "2026-02-04T04:36:49Z"
+    "updated_at": "2026-02-04T07:58:52Z"
   },
   {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 192,
+    "stars": 193,
     "language": "Go",
-    "updated_at": "2026-02-04T02:03:51Z"
+    "updated_at": "2026-02-04T07:20:07Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 135,
+    "stars": 140,
     "language": "JavaScript",
-    "updated_at": "2026-02-04T05:00:26Z"
+    "updated_at": "2026-02-04T08:35:23Z"
+  },
+  {
+    "name": "ClawRouter",
+    "full_name": "BlockRunAI/ClawRouter",
+    "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
+    "url": "https://github.com/BlockRunAI/ClawRouter",
+    "stars": 68,
+    "language": "TypeScript",
+    "updated_at": "2026-02-04T08:42:47Z"
+  },
+  {
+    "name": "ace-step-ui",
+    "full_name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "stars": 62,
+    "language": "JavaScript",
+    "updated_at": "2026-02-04T08:42:09Z"
+  },
+  {
+    "name": "capex",
+    "full_name": "AxeMello/capex",
+    "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
+    "url": "https://github.com/AxeMello/capex",
+    "stars": 35,
+    "language": "HTML",
+    "updated_at": "2026-02-04T05:57:47Z"
   },
   {
     "name": "Prompt",
@@ -34,15 +70,6 @@
     "stars": 34,
     "language": null,
     "updated_at": "2026-02-03T10:58:42Z"
-  },
-  {
-    "name": "capex",
-    "full_name": "AxeMello/capex",
-    "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
-    "url": "https://github.com/AxeMello/capex",
-    "stars": 31,
-    "language": "HTML",
-    "updated_at": "2026-02-03T18:50:46Z"
   },
   {
     "name": "Parfait",
@@ -59,34 +86,7 @@
     "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
     "url": "https://github.com/SukinShetty/Nemp-memory",
     "stars": 27,
-    "language": null,
-    "updated_at": "2026-02-03T18:42:11Z"
-  },
-  {
-    "name": "ace-step-ui",
-    "full_name": "fspecii/ace-step-ui",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 27,
-    "language": "JavaScript",
-    "updated_at": "2026-02-04T05:01:24Z"
-  },
-  {
-    "name": "MarketBot",
-    "full_name": "EthanAlgoX/MarketBot",
-    "description": "MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support.",
-    "url": "https://github.com/EthanAlgoX/MarketBot",
-    "stars": 26,
-    "language": "TypeScript",
-    "updated_at": "2026-02-03T19:09:41Z"
-  },
-  {
-    "name": "ClawRouter",
-    "full_name": "BlockRunAI/ClawRouter",
-    "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
-    "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 20,
-    "language": "TypeScript",
-    "updated_at": "2026-02-04T05:06:18Z"
+    "language": "PowerShell",
+    "updated_at": "2026-02-04T07:43:46Z"
   }
 ]
