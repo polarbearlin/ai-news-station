@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-02-05 16:51:18",
-  "news": []
+  "generated_at": "2026-02-05 20:35:04",
+  "news": [
+    {
+      "title": "GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "source": "Hacker News",
+      "time": "2026-02-05 18:08",
+      "score": 607,
+      "comments": 220
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
+      "source": "Hacker News",
+      "time": "2026-02-01 16:31",
+      "score": 49,
+      "comments": 10
+    },
+    {
+      "title": "My AI Adoption Journey",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "source": "Hacker News",
+      "time": "2026-02-05 19:04",
+      "score": 25,
+      "comments": 3
+    }
+  ]
 }

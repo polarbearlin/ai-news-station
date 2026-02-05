@@ -4,18 +4,18 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 381,
+    "stars": 417,
     "language": "TypeScript",
-    "updated_at": "2026-02-05T16:37:25Z"
+    "updated_at": "2026-02-05T20:33:50Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 289,
+    "stars": 302,
     "language": "JavaScript",
-    "updated_at": "2026-02-05T16:50:04Z"
+    "updated_at": "2026-02-05T20:34:32Z"
   },
   {
     "name": "openclaw-mini",
@@ -31,9 +31,9 @@
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 249,
+    "stars": 251,
     "language": "Rust",
-    "updated_at": "2026-02-05T16:07:45Z"
+    "updated_at": "2026-02-05T19:02:52Z"
   },
   {
     "name": "cursor-tap",
@@ -51,34 +51,34 @@
     "url": "https://github.com/Vasco0x4/AIDA",
     "stars": 153,
     "language": "JavaScript",
-    "updated_at": "2026-02-05T16:10:27Z"
+    "updated_at": "2026-02-05T18:36:19Z"
   },
   {
     "name": "capex",
     "full_name": "AxeMello/capex",
     "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
     "url": "https://github.com/AxeMello/capex",
-    "stars": 53,
+    "stars": 54,
     "language": "HTML",
-    "updated_at": "2026-02-05T12:54:25Z"
+    "updated_at": "2026-02-05T17:41:48Z"
   },
   {
     "name": "AcademicForge",
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 36,
+    "stars": 37,
     "language": "PowerShell",
-    "updated_at": "2026-02-05T15:37:46Z"
+    "updated_at": "2026-02-05T18:32:15Z"
   },
   {
     "name": "Nemp-memory",
     "full_name": "SukinShetty/Nemp-memory",
     "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
     "url": "https://github.com/SukinShetty/Nemp-memory",
-    "stars": 34,
+    "stars": 35,
     "language": "PowerShell",
-    "updated_at": "2026-02-05T16:50:00Z"
+    "updated_at": "2026-02-05T17:41:59Z"
   },
   {
     "name": "Parfait",
