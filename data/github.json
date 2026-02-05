@@ -4,27 +4,36 @@
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 241,
+    "stars": 243,
     "language": "TypeScript",
-    "updated_at": "2026-02-04T18:01:48Z"
+    "updated_at": "2026-02-05T01:30:23Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 223,
+    "stars": 233,
     "language": "Rust",
-    "updated_at": "2026-02-04T20:17:27Z"
+    "updated_at": "2026-02-05T01:00:41Z"
+  },
+  {
+    "name": "ace-step-ui",
+    "full_name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "stars": 232,
+    "language": "JavaScript",
+    "updated_at": "2026-02-05T02:04:17Z"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 197,
+    "stars": 226,
     "language": "TypeScript",
-    "updated_at": "2026-02-04T20:21:28Z"
+    "updated_at": "2026-02-05T01:59:02Z"
   },
   {
     "name": "cursor-tap",
@@ -34,15 +43,6 @@
     "stars": 195,
     "language": "Go",
     "updated_at": "2026-02-04T16:11:18Z"
-  },
-  {
-    "name": "ace-step-ui",
-    "full_name": "fspecii/ace-step-ui",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 192,
-    "language": "JavaScript",
-    "updated_at": "2026-02-04T20:34:15Z"
   },
   {
     "name": "AIDA",
@@ -85,8 +85,8 @@
     "full_name": "SukinShetty/Nemp-memory",
     "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
     "url": "https://github.com/SukinShetty/Nemp-memory",
-    "stars": 28,
+    "stars": 29,
     "language": "PowerShell",
-    "updated_at": "2026-02-04T15:42:56Z"
+    "updated_at": "2026-02-04T20:41:18Z"
   }
 ]
