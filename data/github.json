@@ -1,57 +1,57 @@
 [
   {
-    "name": "openclaw-mini",
-    "full_name": "voocel/openclaw-mini",
-    "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
-    "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 266,
-    "language": "TypeScript",
-    "updated_at": "2026-02-05T05:15:54Z"
-  },
-  {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 255,
+    "stars": 297,
     "language": "TypeScript",
-    "updated_at": "2026-02-05T05:13:46Z"
+    "updated_at": "2026-02-05T08:41:42Z"
+  },
+  {
+    "name": "openclaw-mini",
+    "full_name": "voocel/openclaw-mini",
+    "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
+    "url": "https://github.com/voocel/openclaw-mini",
+    "stars": 276,
+    "language": "TypeScript",
+    "updated_at": "2026-02-05T08:22:18Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 253,
+    "stars": 263,
     "language": "JavaScript",
-    "updated_at": "2026-02-05T05:14:06Z"
+    "updated_at": "2026-02-05T08:42:14Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 234,
+    "stars": 237,
     "language": "Rust",
-    "updated_at": "2026-02-05T03:55:48Z"
+    "updated_at": "2026-02-05T08:05:34Z"
   },
   {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 196,
+    "stars": 197,
     "language": "Go",
-    "updated_at": "2026-02-05T02:56:15Z"
+    "updated_at": "2026-02-05T06:38:45Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 144,
+    "stars": 145,
     "language": "JavaScript",
-    "updated_at": "2026-02-04T17:25:47Z"
+    "updated_at": "2026-02-05T08:08:20Z"
   },
   {
     "name": "capex",
@@ -63,30 +63,30 @@
     "updated_at": "2026-02-05T05:01:24Z"
   },
   {
+    "name": "AcademicForge",
+    "full_name": "HughYau/AcademicForge",
+    "description": "A curated skill collection for academic writing and research",
+    "url": "https://github.com/HughYau/AcademicForge",
+    "stars": 32,
+    "language": "PowerShell",
+    "updated_at": "2026-02-05T08:01:40Z"
+  },
+  {
     "name": "Parfait",
     "full_name": "Chunjiang-Intelligence/Parfait",
     "description": "Generate market simulation data as perfect as Parfait. ✨",
     "url": "https://github.com/Chunjiang-Intelligence/Parfait",
     "stars": 32,
     "language": "Python",
-    "updated_at": "2026-02-05T03:50:52Z"
+    "updated_at": "2026-02-05T07:10:58Z"
   },
   {
     "name": "Nemp-memory",
     "full_name": "SukinShetty/Nemp-memory",
     "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
     "url": "https://github.com/SukinShetty/Nemp-memory",
-    "stars": 30,
+    "stars": 31,
     "language": "PowerShell",
-    "updated_at": "2026-02-05T04:29:30Z"
-  },
-  {
-    "name": "AcademicForge",
-    "full_name": "HughYau/AcademicForge",
-    "description": "A curated skill collection for academic writing and research",
-    "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 28,
-    "language": "PowerShell",
-    "updated_at": "2026-02-05T05:05:36Z"
+    "updated_at": "2026-02-05T06:35:23Z"
   }
 ]
