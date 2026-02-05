@@ -4,45 +4,45 @@
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 243,
+    "stars": 266,
     "language": "TypeScript",
-    "updated_at": "2026-02-05T01:30:23Z"
-  },
-  {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "A secure, kernel-enforced capability sandbox for AI agents",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 233,
-    "language": "Rust",
-    "updated_at": "2026-02-05T01:00:41Z"
-  },
-  {
-    "name": "ace-step-ui",
-    "full_name": "fspecii/ace-step-ui",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 232,
-    "language": "JavaScript",
-    "updated_at": "2026-02-05T02:04:17Z"
+    "updated_at": "2026-02-05T05:15:54Z"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 226,
+    "stars": 255,
     "language": "TypeScript",
-    "updated_at": "2026-02-05T01:59:02Z"
+    "updated_at": "2026-02-05T05:13:46Z"
+  },
+  {
+    "name": "ace-step-ui",
+    "full_name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "stars": 253,
+    "language": "JavaScript",
+    "updated_at": "2026-02-05T05:14:06Z"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "A secure, kernel-enforced capability sandbox for AI agents",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 234,
+    "language": "Rust",
+    "updated_at": "2026-02-05T03:55:48Z"
   },
   {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 195,
+    "stars": 196,
     "language": "Go",
-    "updated_at": "2026-02-04T16:11:18Z"
+    "updated_at": "2026-02-05T02:56:15Z"
   },
   {
     "name": "AIDA",
@@ -58,35 +58,35 @@
     "full_name": "AxeMello/capex",
     "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
     "url": "https://github.com/AxeMello/capex",
-    "stars": 49,
+    "stars": 51,
     "language": "HTML",
-    "updated_at": "2026-02-04T16:21:46Z"
-  },
-  {
-    "name": "Prompt",
-    "full_name": "asedy6891gw/Prompt",
-    "description": "Prompt Generator | Generator | Prompt | Prompts | Generating Prompts | Sora | KlingAI | ChatGPT | Gemini",
-    "url": "https://github.com/asedy6891gw/Prompt",
-    "stars": 34,
-    "language": null,
-    "updated_at": "2026-02-03T10:58:42Z"
+    "updated_at": "2026-02-05T05:01:24Z"
   },
   {
     "name": "Parfait",
     "full_name": "Chunjiang-Intelligence/Parfait",
     "description": "Generate market simulation data as perfect as Parfait. ✨",
     "url": "https://github.com/Chunjiang-Intelligence/Parfait",
-    "stars": 31,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-02-03T14:55:30Z"
+    "updated_at": "2026-02-05T03:50:52Z"
   },
   {
     "name": "Nemp-memory",
     "full_name": "SukinShetty/Nemp-memory",
     "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
     "url": "https://github.com/SukinShetty/Nemp-memory",
-    "stars": 29,
+    "stars": 30,
     "language": "PowerShell",
-    "updated_at": "2026-02-04T20:41:18Z"
+    "updated_at": "2026-02-05T04:29:30Z"
+  },
+  {
+    "name": "AcademicForge",
+    "full_name": "HughYau/AcademicForge",
+    "description": "A curated skill collection for academic writing and research",
+    "url": "https://github.com/HughYau/AcademicForge",
+    "stars": 28,
+    "language": "PowerShell",
+    "updated_at": "2026-02-05T05:05:36Z"
   }
 ]
