@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-02-06 08:42:25",
+  "generated_at": "2026-02-06 13:01:14",
   "news": [
+    {
+      "title": "A new bill in New York would require disclaimers on AI-generated news content",
+      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "source": "Hacker News",
+      "time": "2026-02-06 09:56",
+      "score": 183,
+      "comments": 74
+    },
+    {
+      "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
+      "url": "https://wiz.jock.pl/experiments/agent-arena/",
+      "source": "Hacker News",
+      "time": "2026-02-06 12:12",
+      "score": 17,
+      "comments": 2
+    },
     {
       "title": "GPT-5.3-Codex",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
       "source": "Hacker News",
       "time": "2026-02-05 18:08",
-      "score": 1272,
-      "comments": 475
+      "score": 1367,
+      "comments": 517
     },
     {
       "title": "My AI Adoption Journey",
       "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
       "source": "Hacker News",
       "time": "2026-02-05 19:04",
-      "score": 558,
-      "comments": 182
+      "score": 659,
+      "comments": 247
     }
   ]
 }

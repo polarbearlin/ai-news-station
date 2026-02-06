@@ -2,205 +2,217 @@
   "domestic_trending": {
     "weibo": [
       {
+        "title": "上海人大代表建议取消不必要的黄实线",
+        "url": "https://www.toutiao.com/trending/7603538144210698259/",
+        "hot": "10641832",
+        "source": "toutiao"
+      },
+      {
+        "title": "日本挖到稀土泥 中方回应亮了",
+        "url": "https://www.toutiao.com/trending/7602841741054017579/",
+        "hot": "9629127",
+        "source": "toutiao"
+      },
+      {
+        "title": "多地迎来年货新消费图鉴",
+        "url": "https://www.toutiao.com/trending/7603609301634072639/",
+        "hot": "8712795",
+        "source": "toutiao"
+      },
+      {
+        "title": "人民日报：吃得放心是预制菜金标准",
+        "url": "https://www.toutiao.com/trending/7602892631252959259/",
+        "hot": "7883663",
+        "source": "toutiao"
+      },
+      {
+        "title": "美国军火商为何拿皮尺测量歼-35模型",
+        "url": "https://www.toutiao.com/trending/7603709767827066387/",
+        "hot": "7133433",
+        "source": "toutiao"
+      },
+      {
+        "title": "隋文静赛后哭了：没有发挥出正常水平",
+        "url": "https://www.toutiao.com/trending/7603714654644506163/",
+        "hot": "6454597",
+        "source": "toutiao"
+      },
+      {
+        "title": "陈小春以惠州政协委员身份参会",
+        "url": "https://www.toutiao.com/trending/7603431641863798826/",
+        "hot": "5840361",
+        "source": "toutiao"
+      },
+      {
+        "title": "幼儿园运动会让家长把孩子举起来",
+        "url": "https://www.toutiao.com/trending/7603271082870702130/",
+        "hot": "5284577",
+        "source": "toutiao"
+      },
+      {
+        "title": "警方回应云A牌照救护车频现广西",
+        "url": "https://www.toutiao.com/trending/7603366658622832646/",
+        "hot": "4781683",
+        "source": "toutiao"
+      },
+      {
+        "title": "男子自制科幻战甲外交部私信想转发",
+        "url": "https://www.toutiao.com/trending/7602856172231855622/",
+        "hot": "4326646",
+        "source": "toutiao"
+      },
+      {
+        "title": "爱泼斯坦曾多次否认招嫖未成年人",
+        "url": "https://www.toutiao.com/trending/7602948760885248026/",
+        "hot": "3914911",
+        "source": "toutiao"
+      },
+      {
+        "title": "你觉得今年冬天冷吗",
+        "url": "https://www.toutiao.com/trending/7603341962838638633/",
+        "hot": "3542358",
+        "source": "toutiao"
+      },
+      {
+        "title": "云南瑞丽辟谣“疫情再次暴发封城”",
+        "url": "https://www.toutiao.com/trending/7602815376359211071/",
+        "hot": "3205258",
+        "source": "toutiao"
+      },
+      {
+        "title": "女生父亲去世 闺蜜代替父亲送她出嫁",
+        "url": "https://www.toutiao.com/trending/7603362663210565674/",
+        "hot": "2900237",
+        "source": "toutiao"
+      },
+      {
         "title": "预制菜国标拟规定4类食品不是预制菜",
         "url": "https://www.toutiao.com/trending/7603293290020097578/",
-        "hot": "18638989",
-        "source": "toutiao"
-      },
-      {
-        "title": "美伊启动核谈判",
-        "url": "https://www.toutiao.com/trending/7603236497952837174/",
-        "hot": "16865254",
-        "source": "toutiao"
-      },
-      {
-        "title": "数智生活向“新”向“好”",
-        "url": "https://www.toutiao.com/trending/7603588905530723891/",
-        "hot": "15260313",
-        "source": "toutiao"
-      },
-      {
-        "title": "男子摔倒意外发现虫草 4天采获几百根",
-        "url": "https://www.toutiao.com/trending/7603263076716167219/",
-        "hot": "13808102",
-        "source": "toutiao"
-      },
-      {
-        "title": "中方谈是否考虑恢复与立陶宛外交关系",
-        "url": "https://www.toutiao.com/trending/7603651642076188169/",
-        "hot": "12494088",
-        "source": "toutiao"
-      },
-      {
-        "title": "中国公民境外被绑架杀害 国安部披露",
-        "url": "https://www.toutiao.com/trending/7603535503039893030/",
-        "hot": "11305118",
-        "source": "toutiao"
-      },
-      {
-        "title": "男子年会抽中手机拆盒发现是瓷砖",
-        "url": "https://www.toutiao.com/trending/7602724076343476265/",
-        "hot": "10229294",
-        "source": "toutiao"
-      },
-      {
-        "title": "小偷偷十几万刮刮乐刮完未中大奖",
-        "url": "https://www.toutiao.com/trending/7603273034455728138/",
-        "hot": "9255848",
-        "source": "toutiao"
-      },
-      {
-        "title": "6岁姐姐给妹妹买衣服老板免单你咋看",
-        "url": "https://www.toutiao.com/trending/7603301949845471270/",
-        "hot": "8375037",
-        "source": "toutiao"
-      },
-      {
-        "title": "退休后带娃和旅游你选哪个",
-        "url": "https://www.toutiao.com/trending/7603280706693201939/",
-        "hot": "7578047",
-        "source": "toutiao"
-      },
-      {
-        "title": "女子上雾化透明厕所仍能看到人影",
-        "url": "https://www.toutiao.com/trending/7603575336386773035/",
-        "hot": "6856900",
-        "source": "toutiao"
-      },
-      {
-        "title": "大爷意外出镜带火饼干公司宣传视频",
-        "url": "https://www.toutiao.com/trending/7603588723292454931/",
-        "hot": "6204380",
-        "source": "toutiao"
-      },
-      {
-        "title": "燃气表换电池能省燃气费？不实",
-        "url": "https://www.toutiao.com/trending/7603068902557614090/",
-        "hot": "5613955",
-        "source": "toutiao"
-      },
-      {
-        "title": "董亦军被追授“时代楷模”称号",
-        "url": "https://www.toutiao.com/trending/7603357511894958089/",
-        "hot": "5079717",
-        "source": "toutiao"
-      },
-      {
-        "title": "曾刷屏网络的“上海老爸”去世",
-        "url": "https://www.toutiao.com/trending/7603055370302767140/",
-        "hot": "4596318",
+        "hot": "2624243",
         "source": "toutiao"
       }
     ],
     "zhihu": [
       {
-        "title": "如何看待DeepSeek R1开源？",
-        "url": "https://zhihu.com",
-        "hot": "580万热度",
+        "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
+        "url": "https://www.zhihu.com/question/2003018992265164291",
+        "hot": "12420000",
         "source": "zhihu"
       },
       {
-        "title": "AI会取代程序员吗？",
-        "url": "https://zhihu.com",
-        "hot": "420万热度",
+        "title": "广东红包金额等级图火了，血亲 100 元旁亲 50 元，怎样看待这一标准？你家过年红包会给多少？",
+        "url": "https://www.zhihu.com/question/2002821186288054274",
+        "hot": "1710000",
         "source": "zhihu"
       },
       {
-        "title": "ChatGPT Plus值得订阅吗？",
-        "url": "https://zhihu.com",
-        "hot": "350万热度",
+        "title": "大学考试监考老师（也是任课老师）一直看我卷子，看完我卷子还看我学生证，有没有老师解答一下是什么原因？",
+        "url": "https://www.zhihu.com/question/660533553",
+        "hot": "1640000",
         "source": "zhihu"
       },
       {
-        "title": "Cursor IDE使用体验分享",
-        "url": "https://zhihu.com",
-        "hot": "280万热度",
+        "title": "「脂包骨」身材突然火了，医生称瘦胖子可能比纯胖风险更大，如何理解？脂包骨是怎么形成的？",
+        "url": "https://www.zhihu.com/question/1994796041107632285",
+        "hot": "1360000",
         "source": "zhihu"
       },
       {
-        "title": "2026年AI行业趋势预测",
-        "url": "https://zhihu.com",
-        "hot": "230万热度",
+        "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的TOP1，就都想到了他？",
+        "url": "https://www.zhihu.com/question/1957061060604437527",
+        "hot": "1230000",
         "source": "zhihu"
       },
       {
-        "title": "Midjourney和Stable Diffusion哪个更好？",
-        "url": "https://zhihu.com",
-        "hot": "190万热度",
+        "title": "「雪地代写」服务火了，北方年轻人 0 成本卖雪月入过万，如何看待这一现象？反应了怎样的消费诉求？",
+        "url": "https://www.zhihu.com/question/2002743590741352833",
+        "hot": "1090000",
         "source": "zhihu"
       },
       {
-        "title": "大模型训练成本解析",
-        "url": "https://zhihu.com",
-        "hot": "160万热度",
+        "title": "国家卫健委就预制菜国标公开征求意见，主要包括不得使用防腐剂、保质期不应超一年等，你最关注哪方面的内容？",
+        "url": "https://www.zhihu.com/question/2003137951832494513",
+        "hot": "1000000",
         "source": "zhihu"
       },
       {
-        "title": "AI提示词工程技巧总结",
-        "url": "https://zhihu.com",
-        "hot": "140万热度",
+        "title": "亚洲杯小组赛第二轮，陈熠1-3不敌削球日本选手桥本帆乃香，如何评价比赛？",
+        "url": "https://www.zhihu.com/question/2002900608752058775",
+        "hot": "910000",
+        "source": "zhihu"
+      },
+      {
+        "title": "为什么这么多短视频都要加烦人的BGM？",
+        "url": "https://www.zhihu.com/question/384873969",
+        "hot": "900000",
+        "source": "zhihu"
+      },
+      {
+        "title": "比亚迪汽车为什么不搞24小时耐力测试？",
+        "url": "https://www.zhihu.com/question/2002523570601993002",
+        "hot": "840000",
         "source": "zhihu"
       }
     ],
     "bilibili": [
       {
-        "title": "你去打工还债吧",
-        "url": "https://b23.tv/BV1xAFLzqEtj",
-        "hot": "3850273",
+        "title": "【牌子】当世界过分“诚实”，我们要如何保持好奇与勇气【B站AI创作大赛-开放赛道】",
+        "url": "https://b23.tv/BV11mFLziEyP",
+        "hot": "6709642",
         "source": "bilibili"
       },
       {
-        "title": "【牌子】当世界过分“诚实”，我们要如何保持好奇与勇气【B站AI创作大赛-开放赛道】",
-        "url": "https://b23.tv/BV11mFLziEyP",
-        "hot": "6234298",
+        "title": "你去打工还债吧",
+        "url": "https://b23.tv/BV1xAFLzqEtj",
+        "hot": "3967960",
         "source": "bilibili"
       },
       {
         "title": "注意看，她是三角洲玩家见过最美的女人",
         "url": "https://b23.tv/BV1kqfdBrEvY",
-        "hot": "5377742",
-        "source": "bilibili"
-      },
-      {
-        "title": "色彩原理调色",
-        "url": "https://b23.tv/BV1VLFTzxE5V",
-        "hot": "5431421",
+        "hot": "5726335",
         "source": "bilibili"
       },
       {
         "title": "改善_脖子前倾_弯腰驼背",
         "url": "https://b23.tv/BV1rL6tB7E8Y",
-        "hot": "7720199",
+        "hot": "7971862",
+        "source": "bilibili"
+      },
+      {
+        "title": "色彩原理调色",
+        "url": "https://b23.tv/BV1VLFTzxE5V",
+        "hot": "5543694",
         "source": "bilibili"
       },
       {
         "title": "木雕章鱼哥吹喇叭，手搓定格版",
         "url": "https://b23.tv/BV1ekFGzGEP4",
-        "hot": "4340049",
+        "hot": "4443465",
         "source": "bilibili"
       },
       {
         "title": "混混喵的抽象小剧场——【大合集！】",
         "url": "https://b23.tv/BV1UsfdBSEnr",
-        "hot": "3802098",
-        "source": "bilibili"
-      },
-      {
-        "title": "《崩坏：星穹铁道》千星纪游PV：「星际和平倡议：反毁灭同盟」",
-        "url": "https://b23.tv/BV1iu6MBSEqd",
-        "hot": "4720480",
-        "source": "bilibili"
-      },
-      {
-        "title": "《绝区零》千夏角色PV｜认真「记仇」中！",
-        "url": "https://b23.tv/BV1gUFYzfEC7",
-        "hot": "998178",
+        "hot": "3956854",
         "source": "bilibili"
       },
       {
         "title": "两位神人的相亲历险记 谁更胜一筹",
         "url": "https://b23.tv/BV15SfdBYEX1",
-        "hot": "3746328",
+        "hot": "4422601",
+        "source": "bilibili"
+      },
+      {
+        "title": "《绝区零》千夏角色PV｜认真「记仇」中！",
+        "url": "https://b23.tv/BV1gUFYzfEC7",
+        "hot": "1111612",
+        "source": "bilibili"
+      },
+      {
+        "title": "天然水晶原石打制一把爪刀",
+        "url": "https://b23.tv/BV1s2FLzTEG8",
+        "hot": "4044353",
         "source": "bilibili"
       }
     ]
@@ -210,49 +222,49 @@
       {
         "title": "8点1氪丨好想来涉事门店就“误把初中女孩当小偷扣留20分钟”一事致歉；美团拟7.17亿美元收购叮咚，创始人回应；贾跃亭发布人形机器人",
         "url": "https://www.36kr.com/p/3671061142037121",
-        "votes": "24",
-        "source": "36kr"
-      },
-      {
-        "title": "叮咚买菜被美团收购， 即时零售进入巨头争战期",
-        "url": "https://www.36kr.com/p/3670237954646914",
-        "votes": "49",
+        "votes": "27",
         "source": "36kr"
       },
       {
         "title": "刚刚，ChatGPT 和 Claude 同时大更新，不会给 AI 当老板的打工人要被淘汰",
         "url": "https://www.36kr.com/p/3671000851899013",
-        "votes": "58",
-        "source": "36kr"
-      },
-      {
-        "title": "GitHub深夜引爆，最强Claude + Codex合体，全球1.8亿码农一夜解放",
-        "url": "https://www.36kr.com/p/3670182709781376",
-        "votes": "33",
-        "source": "36kr"
-      },
-      {
-        "title": "阿里前高管创业，要用AI重做一遍海外电商｜36氪专访",
-        "url": "https://www.36kr.com/p/3671167469790082",
-        "votes": "55",
-        "source": "36kr"
-      },
-      {
-        "title": "卡帕西宣判：Vibe Coding终结，99%代码AI接管，“智能体工程”时代开启",
-        "url": "https://www.36kr.com/p/3670333435798402",
-        "votes": "28",
+        "votes": "72",
         "source": "36kr"
       },
       {
         "title": "“英伟达 AI 项目数量已失控”，黄仁勋五杯酒下肚，把压箱底的都掏出来了",
         "url": "https://www.36kr.com/p/3670007966392961",
-        "votes": "2",
+        "votes": "3",
         "source": "36kr"
       },
       {
-        "title": "微信“大义灭亲”，腾讯掉了2000亿",
-        "url": "https://www.36kr.com/p/3670113132962438",
-        "votes": "15",
+        "title": "阿里前高管创业，要用AI重做一遍海外电商｜36氪专访",
+        "url": "https://www.36kr.com/p/3671167469790082",
+        "votes": "71",
+        "source": "36kr"
+      },
+      {
+        "title": "卡帕西宣判：Vibe Coding终结，99%代码AI接管，“智能体工程”时代开启",
+        "url": "https://www.36kr.com/p/3670333435798402",
+        "votes": "31",
+        "source": "36kr"
+      },
+      {
+        "title": "千问30亿“重火力”覆盖，豆包元宝如何接招？",
+        "url": "https://www.36kr.com/p/3671286529291012",
+        "votes": "28",
+        "source": "36kr"
+      },
+      {
+        "title": "普通人如何靠AI搏机会？我们找到了4个吃螃蟹的人",
+        "url": "https://www.36kr.com/p/3670525719716482",
+        "votes": "99",
+        "source": "36kr"
+      },
+      {
+        "title": "车长五米四，新能源车还能再大点吗？",
+        "url": "https://www.36kr.com/p/3670391020970882",
+        "votes": "6",
         "source": "36kr"
       }
     ],
@@ -336,75 +348,75 @@
   ],
   "entertainment_trending": [
     {
-      "title": "专家辟谣“一瓶饮料快速解酒”",
-      "url": "https://www.douyin.com/hot/2391235",
-      "hot": "9044010",
+      "title": "盛典全阵容重磅来袭",
+      "url": "https://www.douyin.com/hot/2392196",
+      "hot": "11316673",
+      "source": "entertainment"
+    },
+    {
+      "title": "徐杰在抖音带你去CBA全明星",
+      "url": "https://www.douyin.com/hot/2392118",
+      "hot": "9108381",
       "source": "entertainment"
     },
     {
       "title": "网剧成何体统开播",
       "url": "https://www.douyin.com/hot/2391346",
-      "hot": "8246029",
+      "hot": "8824496",
       "source": "entertainment"
     },
     {
-      "title": "官方回应男子从着火电车连救3人",
-      "url": "https://www.douyin.com/hot/2390977",
-      "hot": "7710928",
-      "source": "entertainment"
-    },
-    {
-      "title": "唐宫奇案剧宣闯入ai赛道",
-      "url": "https://www.douyin.com/hot/2390538",
-      "hot": "7699244",
+      "title": "白应苍当庭忏悔视频曝光",
+      "url": "https://www.douyin.com/hot/2391300",
+      "hot": "8176818",
       "source": "entertainment"
     },
     {
       "title": "周翊然包上恩回应剧宣还是官宣",
       "url": "https://www.douyin.com/hot/2391498",
-      "hot": "7691617",
+      "hot": "7685471",
       "source": "entertainment"
     },
     {
-      "title": "盘点生命树的隐藏剧情线",
-      "url": "https://www.douyin.com/hot/2390713",
-      "hot": "7677593",
+      "title": "外交部回应美伊核谈判问题",
+      "url": "https://www.douyin.com/hot/2392101",
+      "hot": "7682991",
       "source": "entertainment"
     },
     {
       "title": "预制菜国标开始公开征求意见",
       "url": "https://www.douyin.com/hot/2391747",
-      "hot": "12458471",
+      "hot": "12509937",
       "source": "entertainment"
     },
     {
-      "title": "伊美谈判在阿曼开始举行",
-      "url": "https://www.douyin.com/hot/2391727",
-      "hot": "11524758",
-      "source": "entertainment"
-    },
-    {
-      "title": "“反向过年”成为新潮",
-      "url": "https://www.douyin.com/hot/2391318",
-      "hot": "11477262",
+      "title": "看中国消费市场要用新眼光",
+      "url": "https://www.douyin.com/hot/2391822",
+      "hot": "11114682",
       "source": "entertainment"
     },
     {
       "title": "四类食品不属于预制菜",
       "url": "https://www.douyin.com/hot/2391760",
-      "hot": "11148789",
+      "hot": "11094505",
       "source": "entertainment"
     },
     {
-      "title": "董亦军被追授时代楷模称号",
-      "url": "https://www.douyin.com/hot/2391185",
-      "hot": "10517466",
+      "title": "俄美乌第二轮三方会谈结束",
+      "url": "https://www.douyin.com/hot/2391161",
+      "hot": "10531701",
       "source": "entertainment"
     },
     {
-      "title": "苏翊鸣晋级大跳台决赛",
-      "url": "https://www.douyin.com/hot/2390985",
-      "hot": "10318651",
+      "title": "抖音ACG新春会年味拉满",
+      "url": "https://www.douyin.com/hot/2391404",
+      "hot": "10495716",
+      "source": "entertainment"
+    },
+    {
+      "title": "大家是在长城上早读吗",
+      "url": "https://www.douyin.com/hot/2391600",
+      "hot": "9374441",
       "source": "entertainment"
     }
   ],
@@ -478,6 +490,12 @@
       "source": "gaming"
     },
     {
+      "title": "2026年2月6日 不停机更新",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=11459591808217106157",
+      "hot": "官方公告",
+      "source": "gaming"
+    },
+    {
       "title": "2月6日周免英雄更新公告",
       "url": "https://lol.qq.com/news/detail.shtml?docid=6210005258659648180",
       "hot": "官方公告",
@@ -496,18 +514,12 @@
       "source": "gaming"
     },
     {
-      "title": "踏雪寻梅(2026)皮肤即将上线",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=15393914734771591810",
-      "hot": "官方公告",
-      "source": "gaming"
-    },
-    {
       "title": "马上“偷”菜：腾讯《QQ 经典农场》游戏正式回归，支持 QQ / 微信小程序游玩",
       "url": "https://www.ithome.com/0/919/706.htm",
       "hot": "167",
       "source": "gaming"
     }
   ],
-  "last_updated": "2026-02-06 08:42:31",
+  "last_updated": "2026-02-06 13:01:20",
   "update_interval": "30 minutes"
 }
