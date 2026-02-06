@@ -4,36 +4,36 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 417,
+    "stars": 489,
     "language": "TypeScript",
-    "updated_at": "2026-02-05T20:33:50Z"
+    "updated_at": "2026-02-06T02:06:00Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 302,
+    "stars": 315,
     "language": "JavaScript",
-    "updated_at": "2026-02-05T20:34:32Z"
+    "updated_at": "2026-02-06T01:46:58Z"
   },
   {
     "name": "openclaw-mini",
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 280,
+    "stars": 281,
     "language": "TypeScript",
-    "updated_at": "2026-02-05T13:06:43Z"
+    "updated_at": "2026-02-06T01:47:28Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 251,
+    "stars": 255,
     "language": "Rust",
-    "updated_at": "2026-02-05T19:02:52Z"
+    "updated_at": "2026-02-06T01:34:35Z"
   },
   {
     "name": "cursor-tap",
@@ -67,26 +67,26 @@
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 37,
+    "stars": 39,
     "language": "PowerShell",
-    "updated_at": "2026-02-05T18:32:15Z"
+    "updated_at": "2026-02-06T01:19:43Z"
   },
   {
-    "name": "Nemp-memory",
-    "full_name": "SukinShetty/Nemp-memory",
-    "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
-    "url": "https://github.com/SukinShetty/Nemp-memory",
-    "stars": 35,
-    "language": "PowerShell",
-    "updated_at": "2026-02-05T17:41:59Z"
+    "name": "openclaw-cloud",
+    "full_name": "openperf/openclaw-cloud",
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
+    "url": "https://github.com/openperf/openclaw-cloud",
+    "stars": 36,
+    "language": "TypeScript",
+    "updated_at": "2026-02-06T01:59:20Z"
   },
   {
-    "name": "Parfait",
-    "full_name": "Chunjiang-Intelligence/Parfait",
-    "description": "Generate market simulation data as perfect as Parfait. ✨",
-    "url": "https://github.com/Chunjiang-Intelligence/Parfait",
-    "stars": 32,
-    "language": "Python",
-    "updated_at": "2026-02-05T07:10:58Z"
+    "name": "miniclawd",
+    "full_name": "FoundDream/miniclawd",
+    "description": "🦞 A lightweight openclaw build with TypeScript.",
+    "url": "https://github.com/FoundDream/miniclawd",
+    "stars": 26,
+    "language": "TypeScript",
+    "updated_at": "2026-02-05T14:05:50Z"
   }
 ]
