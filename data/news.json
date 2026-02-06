@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-06 16:45:51",
+  "generated_at": "2026-02-06 20:35:16",
   "news": [
+    {
+      "title": "How to effectively write quality code with AI",
+      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "source": "Hacker News",
+      "time": "2026-02-06 18:49",
+      "score": 24,
+      "comments": 5
+    },
     {
       "title": "Understanding Neural Network, Visually",
       "url": "https://visualrambling.space/neural-network/",
       "source": "Hacker News",
       "time": "2026-02-03 14:49",
-      "score": 32,
-      "comments": 4
+      "score": 156,
+      "comments": 19
     },
     {
-      "title": "A new bill in New York would require disclaimers on AI-generated news content",
-      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "url": "https://eljojo.github.io/rememory/",
       "source": "Hacker News",
-      "time": "2026-02-06 09:56",
-      "score": 346,
-      "comments": 126
-    },
-    {
-      "title": "GPT-5.3-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "source": "Hacker News",
-      "time": "2026-02-05 18:08",
-      "score": 1422,
-      "comments": 559
+      "time": "2026-02-06 18:51",
+      "score": 13,
+      "comments": 6
     }
   ]
 }
