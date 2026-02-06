@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-06 02:07:16",
+  "generated_at": "2026-02-06 05:15:10",
   "news": [
     {
       "title": "GPT-5.3-Codex",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
       "source": "Hacker News",
       "time": "2026-02-05 18:08",
-      "score": 1038,
-      "comments": 395
+      "score": 1165,
+      "comments": 446
     },
     {
       "title": "My AI Adoption Journey",
       "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
       "source": "Hacker News",
       "time": "2026-02-05 19:04",
-      "score": 325,
-      "comments": 83
+      "score": 447,
+      "comments": 124
     }
   ]
 }

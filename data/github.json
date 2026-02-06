@@ -4,54 +4,54 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 489,
+    "stars": 556,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T02:06:00Z"
+    "updated_at": "2026-02-06T05:11:36Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 315,
+    "stars": 319,
     "language": "JavaScript",
-    "updated_at": "2026-02-06T01:46:58Z"
+    "updated_at": "2026-02-06T04:51:09Z"
   },
   {
     "name": "openclaw-mini",
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 281,
+    "stars": 285,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T01:47:28Z"
+    "updated_at": "2026-02-06T03:48:41Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 255,
+    "stars": 258,
     "language": "Rust",
-    "updated_at": "2026-02-06T01:34:35Z"
+    "updated_at": "2026-02-06T03:44:05Z"
   },
   {
     "name": "cursor-tap",
     "full_name": "burpheart/cursor-tap",
     "description": "Cursor gRPC 通信流量分析工具",
     "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 197,
+    "stars": 198,
     "language": "Go",
-    "updated_at": "2026-02-05T06:38:45Z"
+    "updated_at": "2026-02-06T02:55:13Z"
   },
   {
     "name": "AIDA",
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 153,
+    "stars": 154,
     "language": "JavaScript",
-    "updated_at": "2026-02-05T18:36:19Z"
+    "updated_at": "2026-02-06T03:30:38Z"
   },
   {
     "name": "capex",
@@ -67,18 +67,18 @@
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 39,
+    "stars": 40,
     "language": "PowerShell",
-    "updated_at": "2026-02-06T01:19:43Z"
+    "updated_at": "2026-02-06T02:59:47Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 36,
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T01:59:20Z"
+    "updated_at": "2026-02-06T04:21:27Z"
   },
   {
     "name": "miniclawd",
