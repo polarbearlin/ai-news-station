@@ -4,36 +4,36 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 741,
+    "stars": 836,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T12:57:18Z"
+    "updated_at": "2026-02-06T16:40:59Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 335,
+    "stars": 350,
     "language": "JavaScript",
-    "updated_at": "2026-02-06T12:46:01Z"
+    "updated_at": "2026-02-06T16:40:43Z"
   },
   {
     "name": "openclaw-mini",
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 291,
+    "stars": 293,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T10:43:34Z"
+    "updated_at": "2026-02-06T15:36:45Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 261,
+    "stars": 263,
     "language": "Rust",
-    "updated_at": "2026-02-06T07:46:56Z"
+    "updated_at": "2026-02-06T16:36:45Z"
   },
   {
     "name": "cursor-tap",
@@ -49,9 +49,9 @@
     "full_name": "Vasco0x4/AIDA",
     "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
     "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 154,
+    "stars": 156,
     "language": "JavaScript",
-    "updated_at": "2026-02-06T03:30:38Z"
+    "updated_at": "2026-02-06T15:21:01Z"
   },
   {
     "name": "capex",
@@ -63,6 +63,15 @@
     "updated_at": "2026-02-05T17:41:48Z"
   },
   {
+    "name": "AcademicForge",
+    "full_name": "HughYau/AcademicForge",
+    "description": "A curated skill collection for academic writing and research",
+    "url": "https://github.com/HughYau/AcademicForge",
+    "stars": 47,
+    "language": "PowerShell",
+    "updated_at": "2026-02-06T15:50:54Z"
+  },
+  {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-02-06T10:01:51Z"
   },
   {
-    "name": "AcademicForge",
-    "full_name": "HughYau/AcademicForge",
-    "description": "A curated skill collection for academic writing and research",
-    "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 44,
-    "language": "PowerShell",
-    "updated_at": "2026-02-06T09:45:58Z"
-  },
-  {
-    "name": "taracode",
-    "full_name": "tara-vision/taracode",
-    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
-    "url": "https://github.com/tara-vision/taracode",
-    "stars": 26,
-    "language": "Go",
-    "updated_at": "2026-02-05T12:04:16Z"
+    "name": "agent-worktree",
+    "full_name": "nekocode/agent-worktree",
+    "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
+    "url": "https://github.com/nekocode/agent-worktree",
+    "stars": 28,
+    "language": "Rust",
+    "updated_at": "2026-02-06T16:42:03Z"
   }
 ]
