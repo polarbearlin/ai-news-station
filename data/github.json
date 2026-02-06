@@ -4,36 +4,36 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 556,
+    "stars": 666,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T05:11:36Z"
+    "updated_at": "2026-02-06T08:39:08Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 319,
+    "stars": 328,
     "language": "JavaScript",
-    "updated_at": "2026-02-06T04:51:09Z"
+    "updated_at": "2026-02-06T08:35:29Z"
   },
   {
     "name": "openclaw-mini",
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 285,
+    "stars": 289,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T03:48:41Z"
+    "updated_at": "2026-02-06T07:40:13Z"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "A secure, kernel-enforced capability sandbox for AI agents",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 258,
+    "stars": 261,
     "language": "Rust",
-    "updated_at": "2026-02-06T03:44:05Z"
+    "updated_at": "2026-02-06T07:46:56Z"
   },
   {
     "name": "cursor-tap",
@@ -67,26 +67,26 @@
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 40,
+    "stars": 44,
     "language": "PowerShell",
-    "updated_at": "2026-02-06T02:59:47Z"
+    "updated_at": "2026-02-06T07:47:58Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 39,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T04:21:27Z"
+    "updated_at": "2026-02-06T08:34:27Z"
   },
   {
-    "name": "miniclawd",
-    "full_name": "FoundDream/miniclawd",
-    "description": "🦞 A lightweight openclaw build with TypeScript.",
-    "url": "https://github.com/FoundDream/miniclawd",
+    "name": "taracode",
+    "full_name": "tara-vision/taracode",
+    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
+    "url": "https://github.com/tara-vision/taracode",
     "stars": 26,
-    "language": "TypeScript",
-    "updated_at": "2026-02-05T14:05:50Z"
+    "language": "Go",
+    "updated_at": "2026-02-05T12:04:16Z"
   }
 ]
