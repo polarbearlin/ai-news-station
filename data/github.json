@@ -4,18 +4,18 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1364,
+    "stars": 1425,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T12:46:44Z"
+    "updated_at": "2026-02-07T16:30:39Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 387,
+    "stars": 402,
     "language": "JavaScript",
-    "updated_at": "2026-02-07T12:45:28Z"
+    "updated_at": "2026-02-07T16:23:11Z"
   },
   {
     "name": "openclaw-mini",
@@ -27,31 +27,40 @@
     "updated_at": "2026-02-07T08:58:00Z"
   },
   {
+    "name": "CodePilot",
+    "full_name": "op7418/CodePilot",
+    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
+    "url": "https://github.com/op7418/CodePilot",
+    "stars": 148,
+    "language": "TypeScript",
+    "updated_at": "2026-02-07T16:29:53Z"
+  },
+  {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 80,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T12:13:17Z"
+    "updated_at": "2026-02-07T16:21:12Z"
   },
   {
     "name": "AcademicForge",
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 52,
+    "stars": 53,
     "language": "PowerShell",
-    "updated_at": "2026-02-07T10:09:02Z"
+    "updated_at": "2026-02-07T13:49:11Z"
   },
   {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 41,
+    "stars": 44,
     "language": "Rust",
-    "updated_at": "2026-02-07T12:19:42Z"
+    "updated_at": "2026-02-07T14:47:46Z"
   },
   {
     "name": "Prompt",
@@ -76,17 +85,8 @@
     "full_name": "0xMassi/stik_app",
     "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
     "url": "https://github.com/0xMassi/stik_app",
-    "stars": 34,
+    "stars": 38,
     "language": "Rust",
-    "updated_at": "2026-02-07T12:21:10Z"
-  },
-  {
-    "name": "Open-Aimbot",
-    "full_name": "lmkljkn/Open-Aimbot",
-    "description": "Open Aimbot is a universal open source framework. It offers a wide selection of extensive functionality. We develop various utilities for Roblox, security systems, protection and scripts for specific games, and general scenarios. ",
-    "url": "https://github.com/lmkljkn/Open-Aimbot",
-    "stars": 31,
-    "language": null,
-    "updated_at": "2026-02-07T11:46:41Z"
+    "updated_at": "2026-02-07T14:17:49Z"
   }
 ]
