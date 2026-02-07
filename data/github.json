@@ -4,18 +4,18 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 935,
+    "stars": 1059,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T20:30:44Z"
+    "updated_at": "2026-02-07T02:02:34Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 358,
+    "stars": 370,
     "language": "JavaScript",
-    "updated_at": "2026-02-06T20:02:33Z"
+    "updated_at": "2026-02-07T01:55:22Z"
   },
   {
     "name": "openclaw-mini",
@@ -27,49 +27,13 @@
     "updated_at": "2026-02-06T15:36:45Z"
   },
   {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "A secure, kernel-enforced capability sandbox for AI agents",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 267,
-    "language": "Rust",
-    "updated_at": "2026-02-06T20:26:53Z"
-  },
-  {
-    "name": "cursor-tap",
-    "full_name": "burpheart/cursor-tap",
-    "description": "Cursor gRPC 通信流量分析工具",
-    "url": "https://github.com/burpheart/cursor-tap",
-    "stars": 198,
-    "language": "Go",
-    "updated_at": "2026-02-06T02:55:13Z"
-  },
-  {
-    "name": "AIDA",
-    "full_name": "Vasco0x4/AIDA",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP",
-    "url": "https://github.com/Vasco0x4/AIDA",
-    "stars": 156,
-    "language": "JavaScript",
-    "updated_at": "2026-02-06T15:21:01Z"
-  },
-  {
-    "name": "capex",
-    "full_name": "AxeMello/capex",
-    "description": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
-    "url": "https://github.com/AxeMello/capex",
-    "stars": 54,
-    "language": "HTML",
-    "updated_at": "2026-02-06T17:25:42Z"
-  },
-  {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 53,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T20:23:13Z"
+    "updated_at": "2026-02-07T01:44:48Z"
   },
   {
     "name": "AcademicForge",
@@ -88,5 +52,41 @@
     "stars": 40,
     "language": null,
     "updated_at": "2026-02-06T19:36:52Z"
+  },
+  {
+    "name": "Prompt",
+    "full_name": "prateek1011gowda/Prompt",
+    "description": "Prompt | Sora | AI | Generator | Gen | Prompt Generator | ChatGPT | ",
+    "url": "https://github.com/prateek1011gowda/Prompt",
+    "stars": 40,
+    "language": null,
+    "updated_at": "2026-02-06T19:36:55Z"
+  },
+  {
+    "name": "agent-worktree",
+    "full_name": "nekocode/agent-worktree",
+    "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
+    "url": "https://github.com/nekocode/agent-worktree",
+    "stars": 32,
+    "language": "Rust",
+    "updated_at": "2026-02-07T01:50:53Z"
+  },
+  {
+    "name": "miniclawd",
+    "full_name": "FoundDream/miniclawd",
+    "description": "🦞 A lightweight openclaw build with TypeScript.",
+    "url": "https://github.com/FoundDream/miniclawd",
+    "stars": 26,
+    "language": "TypeScript",
+    "updated_at": "2026-02-05T14:05:50Z"
+  },
+  {
+    "name": "opencode_webui_cli",
+    "full_name": "lzzlove789/opencode_webui_cli",
+    "description": "A Web UI wrapper for the OpenCode CLI.",
+    "url": "https://github.com/lzzlove789/opencode_webui_cli",
+    "stars": 23,
+    "language": "TypeScript",
+    "updated_at": "2026-02-06T18:02:30Z"
   }
 ]

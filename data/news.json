@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-06 20:35:16",
+  "generated_at": "2026-02-07 02:02:37",
   "news": [
     {
-      "title": "How to effectively write quality code with AI",
-      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "url": "https://github.com/pydantic/monty",
       "source": "Hacker News",
-      "time": "2026-02-06 18:49",
-      "score": 24,
-      "comments": 5
+      "time": "2026-02-06 21:16",
+      "score": 93,
+      "comments": 47
     },
     {
-      "title": "Understanding Neural Network, Visually",
-      "url": "https://visualrambling.space/neural-network/",
+      "title": "A century of hair samples proves leaded gas ban worked",
+      "url": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
       "source": "Hacker News",
-      "time": "2026-02-03 14:49",
-      "score": 156,
-      "comments": 19
+      "time": "2026-02-03 05:38",
+      "score": 37,
+      "comments": 3
     },
     {
       "title": "Show HN: If you lose your memory, how to regain access to your computer?",
       "url": "https://eljojo.github.io/rememory/",
       "source": "Hacker News",
       "time": "2026-02-06 18:51",
-      "score": 13,
-      "comments": 6
+      "score": 145,
+      "comments": 113
     }
   ]
 }
