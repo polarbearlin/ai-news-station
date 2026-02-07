@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-07 02:02:37",
+  "generated_at": "2026-02-07 05:05:10",
   "news": [
     {
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "source": "Hacker News",
       "time": "2026-02-06 21:16",
-      "score": 93,
-      "comments": 47
+      "score": 156,
+      "comments": 69
     },
     {
       "title": "A century of hair samples proves leaded gas ban worked",
       "url": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
       "source": "Hacker News",
       "time": "2026-02-03 05:38",
-      "score": 37,
-      "comments": 3
+      "score": 93,
+      "comments": 13
     },
     {
       "title": "Show HN: If you lose your memory, how to regain access to your computer?",
       "url": "https://eljojo.github.io/rememory/",
       "source": "Hacker News",
       "time": "2026-02-06 18:51",
-      "score": 145,
-      "comments": 113
+      "score": 208,
+      "comments": 134
     }
   ]
 }

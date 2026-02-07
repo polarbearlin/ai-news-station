@@ -4,45 +4,45 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1059,
+    "stars": 1142,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T02:02:34Z"
+    "updated_at": "2026-02-07T05:04:21Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 370,
+    "stars": 377,
     "language": "JavaScript",
-    "updated_at": "2026-02-07T01:55:22Z"
+    "updated_at": "2026-02-07T04:49:02Z"
   },
   {
     "name": "openclaw-mini",
     "full_name": "voocel/openclaw-mini",
     "description": "🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制",
     "url": "https://github.com/voocel/openclaw-mini",
-    "stars": 293,
+    "stars": 296,
     "language": "TypeScript",
-    "updated_at": "2026-02-06T15:36:45Z"
+    "updated_at": "2026-02-07T03:46:51Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 64,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T01:44:48Z"
+    "updated_at": "2026-02-07T04:17:03Z"
   },
   {
     "name": "AcademicForge",
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 47,
+    "stars": 48,
     "language": "PowerShell",
-    "updated_at": "2026-02-06T15:50:54Z"
+    "updated_at": "2026-02-07T03:28:31Z"
   },
   {
     "name": "universal-watermark-remover-ai",
@@ -67,9 +67,9 @@
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 32,
+    "stars": 34,
     "language": "Rust",
-    "updated_at": "2026-02-07T01:50:53Z"
+    "updated_at": "2026-02-07T04:29:32Z"
   },
   {
     "name": "miniclawd",
