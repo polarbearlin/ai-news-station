@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-07 08:32:45",
+  "generated_at": "2026-02-07 12:50:54",
   "news": [
     {
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "source": "Hacker News",
       "time": "2026-02-06 21:16",
-      "score": 197,
-      "comments": 88
+      "score": 229,
+      "comments": 122
     }
   ]
 }
