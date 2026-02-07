@@ -4,18 +4,18 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1425,
+    "stars": 1491,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T16:30:39Z"
+    "updated_at": "2026-02-07T20:27:05Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 402,
+    "stars": 415,
     "language": "JavaScript",
-    "updated_at": "2026-02-07T16:23:11Z"
+    "updated_at": "2026-02-07T19:53:51Z"
   },
   {
     "name": "openclaw-mini",
@@ -31,36 +31,45 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 148,
+    "stars": 167,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T16:29:53Z"
+    "updated_at": "2026-02-07T20:24:16Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 86,
+    "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-02-07T16:21:12Z"
+    "updated_at": "2026-02-07T19:46:04Z"
   },
   {
     "name": "AcademicForge",
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 53,
+    "stars": 54,
     "language": "PowerShell",
-    "updated_at": "2026-02-07T13:49:11Z"
+    "updated_at": "2026-02-07T18:11:10Z"
+  },
+  {
+    "name": "stik_app",
+    "full_name": "0xMassi/stik_app",
+    "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
+    "url": "https://github.com/0xMassi/stik_app",
+    "stars": 48,
+    "language": "Rust",
+    "updated_at": "2026-02-07T20:15:26Z"
   },
   {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 44,
+    "stars": 46,
     "language": "Rust",
-    "updated_at": "2026-02-07T14:47:46Z"
+    "updated_at": "2026-02-07T19:49:05Z"
   },
   {
     "name": "Prompt",
@@ -79,14 +88,5 @@
     "stars": 40,
     "language": null,
     "updated_at": "2026-02-06T19:36:52Z"
-  },
-  {
-    "name": "stik_app",
-    "full_name": "0xMassi/stik_app",
-    "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
-    "url": "https://github.com/0xMassi/stik_app",
-    "stars": 38,
-    "language": "Rust",
-    "updated_at": "2026-02-07T14:17:49Z"
   }
 ]

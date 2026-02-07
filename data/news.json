@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-02-07 16:31:02",
-  "news": []
+  "generated_at": "2026-02-07 20:28:31",
+  "news": [
+    {
+      "title": "The AI boom is causing shortages everywhere else",
+      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "source": "Hacker News",
+      "time": "2026-02-07 11:21",
+      "score": 138,
+      "comments": 164
+    },
+    {
+      "title": "Al Lowe on model trains, funny deaths and working with Disney",
+      "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
+      "source": "Hacker News",
+      "time": "2026-02-07 15:52",
+      "score": 57,
+      "comments": 8
+    }
+  ]
 }
