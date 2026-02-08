@@ -4,36 +4,36 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1643,
+    "stars": 1682,
     "language": "TypeScript",
-    "updated_at": "2026-02-08T05:16:45Z"
+    "updated_at": "2026-02-08T08:28:09Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 438,
+    "stars": 445,
     "language": "JavaScript",
-    "updated_at": "2026-02-08T05:07:50Z"
+    "updated_at": "2026-02-08T08:11:54Z"
   },
   {
     "name": "CodePilot",
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 262,
+    "stars": 322,
     "language": "TypeScript",
-    "updated_at": "2026-02-08T05:19:29Z"
+    "updated_at": "2026-02-08T08:30:42Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 98,
+    "stars": 104,
     "language": "TypeScript",
-    "updated_at": "2026-02-08T05:06:33Z"
+    "updated_at": "2026-02-08T08:20:29Z"
   },
   {
     "name": "stik_app",
@@ -49,27 +49,27 @@
     "full_name": "HughYau/AcademicForge",
     "description": "A curated skill collection for academic writing and research",
     "url": "https://github.com/HughYau/AcademicForge",
-    "stars": 56,
+    "stars": 58,
     "language": "PowerShell",
-    "updated_at": "2026-02-08T05:06:44Z"
+    "updated_at": "2026-02-08T07:53:33Z"
   },
   {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 52,
+    "stars": 53,
     "language": "Rust",
-    "updated_at": "2026-02-08T02:58:16Z"
+    "updated_at": "2026-02-08T07:15:14Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 44,
+    "stars": 50,
     "language": "JavaScript",
-    "updated_at": "2026-02-08T05:16:32Z"
+    "updated_at": "2026-02-08T08:17:44Z"
   },
   {
     "name": "Prompt",
