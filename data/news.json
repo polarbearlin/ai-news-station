@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-08 02:35:47",
+  "generated_at": "2026-02-08 05:23:22",
   "news": [
     {
       "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
       "source": "Hacker News",
       "time": "2026-02-08 01:26",
-      "score": 15,
-      "comments": 1
+      "score": 109,
+      "comments": 29
+    },
+    {
+      "title": "LLMs as the new high level language",
+      "url": "https://federicopereiro.com/llm-high/",
+      "source": "Hacker News",
+      "time": "2026-02-03 10:00",
+      "score": 58,
+      "comments": 106
     }
   ]
 }
