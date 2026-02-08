@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-02-07 20:28:31",
+  "generated_at": "2026-02-08 02:35:47",
   "news": [
     {
-      "title": "The AI boom is causing shortages everywhere else",
-      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "url": "https://github.com/localgpt-app/localgpt",
       "source": "Hacker News",
-      "time": "2026-02-07 11:21",
-      "score": 138,
-      "comments": 164
-    },
-    {
-      "title": "Al Lowe on model trains, funny deaths and working with Disney",
-      "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-      "source": "Hacker News",
-      "time": "2026-02-07 15:52",
-      "score": 57,
-      "comments": 8
+      "time": "2026-02-08 01:26",
+      "score": 15,
+      "comments": 1
     }
   ]
 }
