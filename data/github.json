@@ -4,63 +4,72 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1786,
+    "stars": 1837,
     "language": "TypeScript",
-    "updated_at": "2026-02-08T20:11:09Z"
-  },
-  {
-    "name": "ace-step-ui",
-    "full_name": "fspecii/ace-step-ui",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 470,
-    "language": "JavaScript",
-    "updated_at": "2026-02-08T20:17:11Z"
+    "updated_at": "2026-02-09T02:18:29Z"
   },
   {
     "name": "CodePilot",
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 440,
+    "stars": 478,
     "language": "TypeScript",
-    "updated_at": "2026-02-08T20:14:31Z"
+    "updated_at": "2026-02-09T02:22:35Z"
+  },
+  {
+    "name": "ace-step-ui",
+    "full_name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "stars": 477,
+    "language": "JavaScript",
+    "updated_at": "2026-02-09T01:15:27Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 121,
+    "stars": 129,
     "language": "TypeScript",
-    "updated_at": "2026-02-08T20:19:39Z"
+    "updated_at": "2026-02-09T02:11:24Z"
+  },
+  {
+    "name": "mimiclaw",
+    "full_name": "memovai/mimiclaw",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Privacy-first. ",
+    "url": "https://github.com/memovai/mimiclaw",
+    "stars": 123,
+    "language": "C",
+    "updated_at": "2026-02-09T02:20:04Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 71,
+    "stars": 86,
     "language": "JavaScript",
-    "updated_at": "2026-02-08T20:26:14Z"
-  },
-  {
-    "name": "stik_app",
-    "full_name": "0xMassi/stik_app",
-    "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
-    "url": "https://github.com/0xMassi/stik_app",
-    "stars": 68,
-    "language": "TypeScript",
-    "updated_at": "2026-02-08T19:07:26Z"
+    "updated_at": "2026-02-09T02:11:59Z"
   },
   {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 64,
+    "stars": 70,
     "language": "Rust",
-    "updated_at": "2026-02-08T20:27:09Z"
+    "updated_at": "2026-02-09T01:06:31Z"
+  },
+  {
+    "name": "stik_app",
+    "full_name": "0xMassi/stik_app",
+    "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
+    "url": "https://github.com/0xMassi/stik_app",
+    "stars": 69,
+    "language": "TypeScript",
+    "updated_at": "2026-02-08T21:47:10Z"
   },
   {
     "name": "AcademicForge",
@@ -72,21 +81,12 @@
     "updated_at": "2026-02-08T16:02:11Z"
   },
   {
-    "name": "mimiclaw",
-    "full_name": "memovai/mimiclaw",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Privacy-first. ",
-    "url": "https://github.com/memovai/mimiclaw",
-    "stars": 49,
-    "language": "C",
-    "updated_at": "2026-02-08T20:22:06Z"
-  },
-  {
-    "name": "Open-Aimbot",
-    "full_name": "lmkljkn/Open-Aimbot",
-    "description": "Open Aimbot is a universal open source framework. It offers a wide selection of extensive functionality. We develop various utilities for Roblox, security systems, protection and scripts for specific games, and general scenarios. ",
-    "url": "https://github.com/lmkljkn/Open-Aimbot",
+    "name": "miniclawd",
+    "full_name": "FoundDream/miniclawd",
+    "description": "🦞 A lightweight openclaw build with TypeScript.",
+    "url": "https://github.com/FoundDream/miniclawd",
     "stars": 29,
-    "language": null,
-    "updated_at": "2026-02-08T10:12:26Z"
+    "language": "TypeScript",
+    "updated_at": "2026-02-08T12:51:19Z"
   }
 ]
