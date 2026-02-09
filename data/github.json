@@ -4,72 +4,72 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1863,
+    "stars": 1877,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T05:23:04Z"
+    "updated_at": "2026-02-09T08:51:05Z"
   },
   {
     "name": "CodePilot",
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 510,
+    "stars": 548,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T05:25:38Z"
+    "updated_at": "2026-02-09T08:42:04Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 478,
+    "stars": 480,
     "language": "JavaScript",
-    "updated_at": "2026-02-09T04:16:18Z"
+    "updated_at": "2026-02-09T08:47:11Z"
   },
   {
     "name": "mimiclaw",
     "full_name": "memovai/mimiclaw",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Privacy-first. ",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
     "url": "https://github.com/memovai/mimiclaw",
-    "stars": 193,
+    "stars": 233,
     "language": "C",
-    "updated_at": "2026-02-09T05:25:16Z"
+    "updated_at": "2026-02-09T08:52:53Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 133,
+    "stars": 139,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T04:40:55Z"
+    "updated_at": "2026-02-09T07:34:28Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 92,
+    "stars": 96,
     "language": "JavaScript",
-    "updated_at": "2026-02-09T05:25:16Z"
+    "updated_at": "2026-02-09T07:46:27Z"
   },
   {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 71,
+    "stars": 72,
     "language": "Rust",
-    "updated_at": "2026-02-09T04:33:07Z"
+    "updated_at": "2026-02-09T05:31:59Z"
   },
   {
     "name": "stik_app",
     "full_name": "0xMassi/stik_app",
     "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
     "url": "https://github.com/0xMassi/stik_app",
-    "stars": 70,
+    "stars": 71,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T05:25:31Z"
+    "updated_at": "2026-02-09T08:33:15Z"
   },
   {
     "name": "AcademicForge",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-09T04:55:11Z"
   },
   {
-    "name": "Open-Aimbot",
-    "full_name": "lmkljkn/Open-Aimbot",
-    "description": "Open Aimbot is a universal open source framework. It offers a wide selection of extensive functionality. We develop various utilities for Roblox, security systems, protection and scripts for specific games, and general scenarios. ",
-    "url": "https://github.com/lmkljkn/Open-Aimbot",
-    "stars": 29,
-    "language": null,
-    "updated_at": "2026-02-08T10:12:26Z"
+    "name": "Boba-CLI",
+    "full_name": "Able-labs-xyz/Boba-CLI",
+    "description": "Boba CLI - The bridge between agents and decentralized trading.",
+    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
+    "stars": 40,
+    "language": "Go",
+    "updated_at": "2026-02-09T08:40:01Z"
   }
 ]
