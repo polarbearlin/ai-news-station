@@ -4,63 +4,63 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1877,
+    "stars": 1893,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T08:51:05Z"
+    "updated_at": "2026-02-09T12:13:23Z"
   },
   {
     "name": "CodePilot",
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 548,
+    "stars": 671,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T08:42:04Z"
+    "updated_at": "2026-02-09T13:10:31Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 480,
+    "stars": 485,
     "language": "JavaScript",
-    "updated_at": "2026-02-09T08:47:11Z"
+    "updated_at": "2026-02-09T11:58:48Z"
   },
   {
     "name": "mimiclaw",
     "full_name": "memovai/mimiclaw",
     "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
     "url": "https://github.com/memovai/mimiclaw",
-    "stars": 233,
+    "stars": 325,
     "language": "C",
-    "updated_at": "2026-02-09T08:52:53Z"
+    "updated_at": "2026-02-09T13:10:10Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 139,
+    "stars": 144,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T07:34:28Z"
+    "updated_at": "2026-02-09T12:18:35Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 96,
+    "stars": 97,
     "language": "JavaScript",
-    "updated_at": "2026-02-09T07:46:27Z"
+    "updated_at": "2026-02-09T09:27:36Z"
   },
   {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 72,
+    "stars": 73,
     "language": "Rust",
-    "updated_at": "2026-02-09T05:31:59Z"
+    "updated_at": "2026-02-09T12:30:36Z"
   },
   {
     "name": "stik_app",
@@ -69,7 +69,7 @@
     "url": "https://github.com/0xMassi/stik_app",
     "stars": 71,
     "language": "TypeScript",
-    "updated_at": "2026-02-09T08:33:15Z"
+    "updated_at": "2026-02-09T12:56:01Z"
   },
   {
     "name": "AcademicForge",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-09T04:55:11Z"
   },
   {
-    "name": "Boba-CLI",
-    "full_name": "Able-labs-xyz/Boba-CLI",
-    "description": "Boba CLI - The bridge between agents and decentralized trading.",
-    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 40,
-    "language": "Go",
-    "updated_at": "2026-02-09T08:40:01Z"
+    "name": "ctxport",
+    "full_name": "nicepkg/ctxport",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
+    "url": "https://github.com/nicepkg/ctxport",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-02-09T13:08:07Z"
   }
 ]
