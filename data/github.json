@@ -4,36 +4,36 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1199,
+    "stars": 1365,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T05:27:29Z"
+    "updated_at": "2026-02-10T08:56:40Z"
   },
   {
     "name": "mimiclaw",
     "full_name": "memovai/mimiclaw",
     "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
     "url": "https://github.com/memovai/mimiclaw",
-    "stars": 606,
+    "stars": 676,
     "language": "C",
-    "updated_at": "2026-02-10T05:26:16Z"
+    "updated_at": "2026-02-10T08:54:37Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 494,
+    "stars": 497,
     "language": "JavaScript",
-    "updated_at": "2026-02-10T05:13:35Z"
+    "updated_at": "2026-02-10T08:28:19Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 163,
+    "stars": 167,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T04:52:59Z"
+    "updated_at": "2026-02-10T08:29:35Z"
   },
   {
     "name": "chargen",
@@ -45,22 +45,22 @@
     "updated_at": "2026-02-09T22:08:37Z"
   },
   {
-    "name": "agent-worktree",
-    "full_name": "nekocode/agent-worktree",
-    "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
-    "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 81,
-    "language": "Rust",
-    "updated_at": "2026-02-10T03:10:25Z"
-  },
-  {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 80,
+    "stars": 85,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T05:22:46Z"
+    "updated_at": "2026-02-10T08:29:56Z"
+  },
+  {
+    "name": "agent-worktree",
+    "full_name": "nekocode/agent-worktree",
+    "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
+    "url": "https://github.com/nekocode/agent-worktree",
+    "stars": 84,
+    "language": "Rust",
+    "updated_at": "2026-02-10T07:01:41Z"
   },
   {
     "name": "stik_app",
