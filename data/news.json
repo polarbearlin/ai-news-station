@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-10 17:02:41",
+  "generated_at": "2026-02-10 20:44:59",
   "news": [
     {
-      "title": "Oxide raises $200M Series C",
-      "url": "https://oxide.computer/blog/our-200m-series-c",
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "url": "https://entire.io/blog/hello-entire-world/",
       "source": "Hacker News",
-      "time": "2026-02-10 14:20",
-      "score": 262,
-      "comments": 151
+      "time": "2026-02-10 15:44",
+      "score": 138,
+      "comments": 111
     },
     {
-      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "url": "https://arxiv.org/abs/2512.20798",
+      "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
+      "url": "https://livedocs.com",
       "source": "Hacker News",
-      "time": "2026-02-10 03:17",
-      "score": 465,
-      "comments": 299
+      "time": "2026-02-10 18:09",
+      "score": 31,
+      "comments": 14
+    },
+    {
+      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "source": "Hacker News",
+      "time": "2026-02-10 16:47",
+      "score": 66,
+      "comments": 20
     }
   ]
 }

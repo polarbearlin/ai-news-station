@@ -4,45 +4,45 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1538,
+    "stars": 1560,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T16:55:52Z"
+    "updated_at": "2026-02-10T20:36:47Z"
   },
   {
     "name": "mimiclaw",
     "full_name": "memovai/mimiclaw",
     "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
     "url": "https://github.com/memovai/mimiclaw",
-    "stars": 778,
+    "stars": 799,
     "language": "C",
-    "updated_at": "2026-02-10T16:57:09Z"
+    "updated_at": "2026-02-10T20:44:54Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 503,
+    "stars": 509,
     "language": "JavaScript",
-    "updated_at": "2026-02-10T16:57:48Z"
+    "updated_at": "2026-02-10T20:41:43Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 171,
+    "stars": 173,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T14:08:04Z"
+    "updated_at": "2026-02-10T18:48:51Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 102,
+    "stars": 103,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T15:53:05Z"
+    "updated_at": "2026-02-10T20:09:19Z"
   },
   {
     "name": "chargen",
@@ -67,18 +67,18 @@
     "full_name": "0xMassi/stik_app",
     "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
     "url": "https://github.com/0xMassi/stik_app",
-    "stars": 78,
+    "stars": 82,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T16:34:15Z"
+    "updated_at": "2026-02-10T20:37:54Z"
   },
   {
     "name": "picoclaw",
     "full_name": "mosaxiv/picoclaw",
     "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
     "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 57,
+    "stars": 69,
     "language": "Go",
-    "updated_at": "2026-02-10T17:02:10Z"
+    "updated_at": "2026-02-10T20:32:46Z"
   },
   {
     "name": "Boba-CLI",
@@ -87,6 +87,6 @@
     "url": "https://github.com/Able-labs-xyz/Boba-CLI",
     "stars": 49,
     "language": "Go",
-    "updated_at": "2026-02-10T09:42:58Z"
+    "updated_at": "2026-02-10T18:35:16Z"
   }
 ]
