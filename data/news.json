@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-02-10 02:30:30",
-  "news": []
+  "generated_at": "2026-02-10 05:27:38",
+  "news": [
+    {
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "url": "https://arxiv.org/abs/2512.20798",
+      "source": "Hacker News",
+      "time": "2026-02-10 03:17",
+      "score": 97,
+      "comments": 52
+    }
+  ]
 }

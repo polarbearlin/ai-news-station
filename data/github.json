@@ -4,36 +4,36 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1049,
+    "stars": 1199,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T02:26:54Z"
+    "updated_at": "2026-02-10T05:27:29Z"
   },
   {
     "name": "mimiclaw",
     "full_name": "memovai/mimiclaw",
     "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
     "url": "https://github.com/memovai/mimiclaw",
-    "stars": 552,
+    "stars": 606,
     "language": "C",
-    "updated_at": "2026-02-10T02:22:46Z"
+    "updated_at": "2026-02-10T05:26:16Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 493,
+    "stars": 494,
     "language": "JavaScript",
-    "updated_at": "2026-02-10T02:29:54Z"
+    "updated_at": "2026-02-10T05:13:35Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 157,
+    "stars": 163,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T02:30:01Z"
+    "updated_at": "2026-02-10T04:52:59Z"
   },
   {
     "name": "chargen",
@@ -49,9 +49,18 @@
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 79,
+    "stars": 81,
     "language": "Rust",
-    "updated_at": "2026-02-10T02:27:06Z"
+    "updated_at": "2026-02-10T03:10:25Z"
+  },
+  {
+    "name": "ctxport",
+    "full_name": "nicepkg/ctxport",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
+    "url": "https://github.com/nicepkg/ctxport",
+    "stars": 80,
+    "language": "TypeScript",
+    "updated_at": "2026-02-10T05:22:46Z"
   },
   {
     "name": "stik_app",
@@ -63,15 +72,6 @@
     "updated_at": "2026-02-10T01:19:31Z"
   },
   {
-    "name": "ctxport",
-    "full_name": "nicepkg/ctxport",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
-    "url": "https://github.com/nicepkg/ctxport",
-    "stars": 73,
-    "language": "TypeScript",
-    "updated_at": "2026-02-10T02:02:35Z"
-  },
-  {
     "name": "Boba-CLI",
     "full_name": "Able-labs-xyz/Boba-CLI",
     "description": "Boba CLI - The bridge between agents and decentralized trading.",
@@ -81,10 +81,10 @@
     "updated_at": "2026-02-10T01:00:54Z"
   },
   {
-    "name": "universal-watermark-remover-ai",
-    "full_name": "Vexykeeeee/universal-watermark-remover-ai",
-    "description": "Universal | Watermark | Remover | Sora | KlingAI | ChatGPT | AI Watermark Remover | ",
-    "url": "https://github.com/Vexykeeeee/universal-watermark-remover-ai",
+    "name": "Prompt",
+    "full_name": "prateek1011gowda/Prompt",
+    "description": "Prompt | Sora | AI | Generator | Gen | Prompt Generator | ChatGPT | ",
+    "url": "https://github.com/prateek1011gowda/Prompt",
     "stars": 26,
     "language": null,
     "updated_at": "2026-02-08T14:25:04Z"
