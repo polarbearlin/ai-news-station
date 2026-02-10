@@ -4,36 +4,45 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1512,
+    "stars": 1538,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T13:12:03Z"
+    "updated_at": "2026-02-10T16:55:52Z"
   },
   {
     "name": "mimiclaw",
     "full_name": "memovai/mimiclaw",
     "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
     "url": "https://github.com/memovai/mimiclaw",
-    "stars": 733,
+    "stars": 778,
     "language": "C",
-    "updated_at": "2026-02-10T13:12:23Z"
+    "updated_at": "2026-02-10T16:57:09Z"
   },
   {
     "name": "ace-step-ui",
     "full_name": "fspecii/ace-step-ui",
     "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "stars": 498,
+    "stars": 503,
     "language": "JavaScript",
-    "updated_at": "2026-02-10T10:19:32Z"
+    "updated_at": "2026-02-10T16:57:48Z"
   },
   {
     "name": "openclaw-cloud",
     "full_name": "openperf/openclaw-cloud",
     "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere.",
     "url": "https://github.com/openperf/openclaw-cloud",
-    "stars": 170,
+    "stars": 171,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T13:01:59Z"
+    "updated_at": "2026-02-10T14:08:04Z"
+  },
+  {
+    "name": "ctxport",
+    "full_name": "nicepkg/ctxport",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
+    "url": "https://github.com/nicepkg/ctxport",
+    "stars": 102,
+    "language": "TypeScript",
+    "updated_at": "2026-02-10T15:53:05Z"
   },
   {
     "name": "chargen",
@@ -45,31 +54,31 @@
     "updated_at": "2026-02-09T22:08:37Z"
   },
   {
-    "name": "ctxport",
-    "full_name": "nicepkg/ctxport",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
-    "url": "https://github.com/nicepkg/ctxport",
-    "stars": 95,
-    "language": "TypeScript",
-    "updated_at": "2026-02-10T13:01:44Z"
-  },
-  {
     "name": "agent-worktree",
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 85,
+    "stars": 87,
     "language": "Rust",
-    "updated_at": "2026-02-10T12:48:54Z"
+    "updated_at": "2026-02-10T16:36:08Z"
   },
   {
     "name": "stik_app",
     "full_name": "0xMassi/stik_app",
     "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
     "url": "https://github.com/0xMassi/stik_app",
-    "stars": 75,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T12:08:30Z"
+    "updated_at": "2026-02-10T16:34:15Z"
+  },
+  {
+    "name": "picoclaw",
+    "full_name": "mosaxiv/picoclaw",
+    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
+    "url": "https://github.com/mosaxiv/picoclaw",
+    "stars": 57,
+    "language": "Go",
+    "updated_at": "2026-02-10T17:02:10Z"
   },
   {
     "name": "Boba-CLI",
@@ -79,14 +88,5 @@
     "stars": 49,
     "language": "Go",
     "updated_at": "2026-02-10T09:42:58Z"
-  },
-  {
-    "name": "clawbands",
-    "full_name": "SeyZ/clawbands",
-    "description": "ClawBands is a security middleware for OpenClaw AI agents.",
-    "url": "https://github.com/SeyZ/clawbands",
-    "stars": 27,
-    "language": "TypeScript",
-    "updated_at": "2026-02-10T13:11:27Z"
   }
 ]
