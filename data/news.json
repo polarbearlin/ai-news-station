@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-10 08:56:45",
+  "generated_at": "2026-02-10 13:15:25",
   "news": [
     {
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
       "url": "https://arxiv.org/abs/2512.20798",
       "source": "Hacker News",
       "time": "2026-02-10 03:17",
-      "score": 237,
-      "comments": 151
+      "score": 373,
+      "comments": 243
+    },
+    {
+      "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "source": "Hacker News",
+      "time": "2026-02-10 12:04",
+      "score": 26,
+      "comments": 6
     }
   ]
 }
