@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-10 20:44:59",
+  "generated_at": "2026-02-11 02:27:20",
   "news": [
     {
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "url": "https://entire.io/blog/hello-entire-world/",
       "source": "Hacker News",
       "time": "2026-02-10 15:44",
-      "score": 138,
-      "comments": 111
+      "score": 344,
+      "comments": 308
     },
     {
-      "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
-      "url": "https://livedocs.com",
+      "title": "Willow – Protocols for an uncertain future [video]",
+      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
       "source": "Hacker News",
-      "time": "2026-02-10 18:09",
-      "score": 31,
-      "comments": 14
+      "time": "2026-02-08 08:52",
+      "score": 16,
+      "comments": 0
     },
     {
-      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-      "url": "https://github.com/rowboatlabs/rowboat",
+      "title": "The Little Learner: A Straight Line to Deep Learning",
+      "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
       "source": "Hacker News",
-      "time": "2026-02-10 16:47",
-      "score": 66,
-      "comments": 20
+      "time": "2026-02-08 14:01",
+      "score": 90,
+      "comments": 11
     }
   ]
 }
