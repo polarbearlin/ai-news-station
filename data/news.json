@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-02-11 05:27:03",
+  "generated_at": "2026-02-11 08:51:55",
   "news": [
     {
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "url": "https://entire.io/blog/hello-entire-world/",
       "source": "Hacker News",
       "time": "2026-02-10 15:44",
-      "score": 413,
-      "comments": 361
-    },
-    {
-      "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-      "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
-      "source": "Hacker News",
-      "time": "2026-02-08 14:01",
-      "score": 117,
-      "comments": 16
+      "score": 474,
+      "comments": 435
     }
   ]
 }
