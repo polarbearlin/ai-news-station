@@ -4,18 +4,18 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1596,
+    "stars": 1620,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T02:19:51Z"
+    "updated_at": "2026-02-11T05:26:56Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 110,
+    "stars": 118,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T02:17:52Z"
+    "updated_at": "2026-02-11T05:26:43Z"
   },
   {
     "name": "chargen",
@@ -31,27 +31,27 @@
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 89,
+    "stars": 91,
     "language": "Rust",
-    "updated_at": "2026-02-11T00:25:17Z"
+    "updated_at": "2026-02-11T04:03:15Z"
   },
   {
     "name": "stik_app",
     "full_name": "0xMassi/stik_app",
     "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
     "url": "https://github.com/0xMassi/stik_app",
-    "stars": 86,
+    "stars": 91,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T00:16:26Z"
+    "updated_at": "2026-02-11T05:23:07Z"
   },
   {
     "name": "picoclaw",
     "full_name": "mosaxiv/picoclaw",
     "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
     "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 75,
+    "stars": 79,
     "language": "Go",
-    "updated_at": "2026-02-11T01:07:11Z"
+    "updated_at": "2026-02-11T05:04:02Z"
   },
   {
     "name": "Boba-CLI",
@@ -85,8 +85,8 @@
     "full_name": "gillkyle/agent-tail",
     "description": "Pipe logs from all your dev servers into a single place accessible to your agents.",
     "url": "https://github.com/gillkyle/agent-tail",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-02-10T23:10:29Z"
+    "updated_at": "2026-02-11T02:51:54Z"
   }
 ]
