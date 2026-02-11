@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-11 08:51:55",
+  "generated_at": "2026-02-11 13:12:03",
   "news": [
     {
-      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "url": "https://entire.io/blog/hello-entire-world/",
+      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
       "source": "Hacker News",
-      "time": "2026-02-10 15:44",
-      "score": 474,
-      "comments": 435
+      "time": "2026-02-11 11:27",
+      "score": 195,
+      "comments": 82
+    },
+    {
+      "title": "Show HN: AI agents play SimCity through a REST API",
+      "url": "https://hallucinatingsplines.com",
+      "source": "Hacker News",
+      "time": "2026-02-09 15:54",
+      "score": 9,
+      "comments": 0
     }
   ]
 }

@@ -4,18 +4,27 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1645,
+    "stars": 1669,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T08:50:40Z"
+    "updated_at": "2026-02-11T13:09:29Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 128,
+    "stars": 136,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T08:45:02Z"
+    "updated_at": "2026-02-11T12:53:57Z"
+  },
+  {
+    "name": "picoclaw",
+    "full_name": "mosaxiv/picoclaw",
+    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
+    "url": "https://github.com/mosaxiv/picoclaw",
+    "stars": 107,
+    "language": "Go",
+    "updated_at": "2026-02-11T13:11:21Z"
   },
   {
     "name": "chargen",
@@ -31,9 +40,9 @@
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 94,
+    "stars": 97,
     "language": "Rust",
-    "updated_at": "2026-02-11T08:11:17Z"
+    "updated_at": "2026-02-11T11:13:05Z"
   },
   {
     "name": "stik_app",
@@ -42,51 +51,42 @@
     "url": "https://github.com/0xMassi/stik_app",
     "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T08:09:48Z"
-  },
-  {
-    "name": "picoclaw",
-    "full_name": "mosaxiv/picoclaw",
-    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
-    "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 84,
-    "language": "Go",
-    "updated_at": "2026-02-11T08:10:34Z"
+    "updated_at": "2026-02-11T12:46:38Z"
   },
   {
     "name": "Boba-CLI",
     "full_name": "Able-labs-xyz/Boba-CLI",
     "description": "Boba CLI - The bridge between agents and decentralized trading.",
     "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 52,
+    "stars": 53,
     "language": "Go",
-    "updated_at": "2026-02-11T07:30:53Z"
+    "updated_at": "2026-02-11T12:24:40Z"
   },
   {
     "name": "agent-tail",
     "full_name": "gillkyle/agent-tail",
     "description": "Pipe logs from all your dev servers into a single place accessible to your agents.",
     "url": "https://github.com/gillkyle/agent-tail",
-    "stars": 46,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T07:38:48Z"
+    "updated_at": "2026-02-11T12:44:16Z"
   },
   {
-    "name": "Prompt",
-    "full_name": "prateek1011gowda/Prompt",
-    "description": "Prompt | Sora | AI | Generator | Gen | Prompt Generator | ChatGPT | ",
-    "url": "https://github.com/prateek1011gowda/Prompt",
-    "stars": 43,
-    "language": null,
-    "updated_at": "2026-02-10T17:42:14Z"
+    "name": "vibebox",
+    "full_name": "robcholz/vibebox",
+    "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
+    "url": "https://github.com/robcholz/vibebox",
+    "stars": 42,
+    "language": "Rust",
+    "updated_at": "2026-02-11T12:49:42Z"
   },
   {
-    "name": "universal-watermark-remover-ai",
-    "full_name": "Vexykeeeee/universal-watermark-remover-ai",
-    "description": "Universal | Watermark | Remover | Sora | KlingAI | ChatGPT | AI Watermark Remover | ",
-    "url": "https://github.com/Vexykeeeee/universal-watermark-remover-ai",
-    "stars": 43,
-    "language": null,
-    "updated_at": "2026-02-10T17:42:11Z"
+    "name": "clawbands",
+    "full_name": "SeyZ/clawbands",
+    "description": "ClawBands is a security middleware for OpenClaw AI agents.",
+    "url": "https://github.com/SeyZ/clawbands",
+    "stars": 42,
+    "language": "TypeScript",
+    "updated_at": "2026-02-11T10:28:09Z"
   }
 ]
