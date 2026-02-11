@@ -4,27 +4,27 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1690,
+    "stars": 1700,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T17:03:57Z"
+    "updated_at": "2026-02-11T20:32:54Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 143,
+    "stars": 146,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T15:43:44Z"
+    "updated_at": "2026-02-11T19:46:39Z"
   },
   {
     "name": "picoclaw",
     "full_name": "mosaxiv/picoclaw",
     "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
     "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 110,
+    "stars": 113,
     "language": "Go",
-    "updated_at": "2026-02-11T14:38:10Z"
+    "updated_at": "2026-02-11T20:24:16Z"
   },
   {
     "name": "chargen",
@@ -40,53 +40,53 @@
     "full_name": "nekocode/agent-worktree",
     "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
     "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 99,
+    "stars": 100,
     "language": "Rust",
-    "updated_at": "2026-02-11T15:39:51Z"
+    "updated_at": "2026-02-11T19:21:28Z"
   },
   {
     "name": "stik_app",
     "full_name": "0xMassi/stik_app",
     "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
     "url": "https://github.com/0xMassi/stik_app",
-    "stars": 94,
+    "stars": 96,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T14:44:07Z"
-  },
-  {
-    "name": "Boba-CLI",
-    "full_name": "Able-labs-xyz/Boba-CLI",
-    "description": "Boba CLI - The bridge between agents and decentralized trading.",
-    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 53,
-    "language": "Go",
-    "updated_at": "2026-02-11T12:24:40Z"
+    "updated_at": "2026-02-11T18:44:46Z"
   },
   {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 53,
+    "stars": 59,
     "language": "Rust",
-    "updated_at": "2026-02-11T16:36:01Z"
+    "updated_at": "2026-02-11T20:30:44Z"
+  },
+  {
+    "name": "Boba-CLI",
+    "full_name": "Able-labs-xyz/Boba-CLI",
+    "description": "Boba CLI - The bridge between agents and decentralized trading.",
+    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
+    "stars": 54,
+    "language": "Go",
+    "updated_at": "2026-02-11T17:10:48Z"
   },
   {
     "name": "agent-tail",
     "full_name": "gillkyle/agent-tail",
     "description": "Pipe logs from all your dev servers into a single place accessible to your agents.",
     "url": "https://github.com/gillkyle/agent-tail",
-    "stars": 49,
+    "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T14:41:20Z"
+    "updated_at": "2026-02-11T19:18:50Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 43,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T15:19:10Z"
+    "updated_at": "2026-02-11T20:03:21Z"
   }
 ]

@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-02-11 17:04:57",
+  "generated_at": "2026-02-11 20:39:36",
   "news": [
     {
-      "title": "Railway (PaaS) Global Outage",
-      "url": "https://status.railway.com",
+      "title": "Single bone in Spain offers first direct evidence of Hannibal's war elephants",
+      "url": "https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html",
       "source": "Hacker News",
-      "time": "2026-02-11 15:51",
-      "score": 42,
-      "comments": 33
-    },
-    {
-      "title": "Show HN: AI agents play SimCity through a REST API",
-      "url": "https://hallucinatingsplines.com",
-      "source": "Hacker News",
-      "time": "2026-02-09 15:54",
-      "score": 92,
-      "comments": 31
-    },
-    {
-      "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
-      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-      "source": "Hacker News",
-      "time": "2026-02-11 09:04",
-      "score": 191,
-      "comments": 382
+      "time": "2026-02-06 19:25",
+      "score": 53,
+      "comments": 15
     }
   ]
 }
