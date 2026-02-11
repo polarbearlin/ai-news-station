@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-11 13:12:03",
+  "generated_at": "2026-02-11 17:04:57",
   "news": [
     {
-      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
-      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+      "title": "Railway (PaaS) Global Outage",
+      "url": "https://status.railway.com",
       "source": "Hacker News",
-      "time": "2026-02-11 11:27",
-      "score": 195,
-      "comments": 82
+      "time": "2026-02-11 15:51",
+      "score": 42,
+      "comments": 33
     },
     {
       "title": "Show HN: AI agents play SimCity through a REST API",
       "url": "https://hallucinatingsplines.com",
       "source": "Hacker News",
       "time": "2026-02-09 15:54",
-      "score": 9,
-      "comments": 0
+      "score": 92,
+      "comments": 31
+    },
+    {
+      "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "source": "Hacker News",
+      "time": "2026-02-11 09:04",
+      "score": 191,
+      "comments": 382
     }
   ]
 }
