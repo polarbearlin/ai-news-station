@@ -4,27 +4,27 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1729,
+    "stars": 1742,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T05:09:39Z"
+    "updated_at": "2026-02-12T08:44:51Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 149,
+    "stars": 157,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T03:27:43Z"
+    "updated_at": "2026-02-12T08:00:07Z"
   },
   {
     "name": "picoclaw",
     "full_name": "mosaxiv/picoclaw",
     "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
     "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 122,
+    "stars": 127,
     "language": "Go",
-    "updated_at": "2026-02-12T05:24:45Z"
+    "updated_at": "2026-02-12T08:08:31Z"
   },
   {
     "name": "chargen",
@@ -33,7 +33,7 @@
     "url": "https://github.com/Karmacoke/chargen",
     "stars": 101,
     "language": "JavaScript",
-    "updated_at": "2026-02-09T22:08:37Z"
+    "updated_at": "2026-02-12T08:42:56Z"
   },
   {
     "name": "vibebox",
@@ -45,6 +45,15 @@
     "updated_at": "2026-02-12T05:18:52Z"
   },
   {
+    "name": "clawbands",
+    "full_name": "SeyZ/clawbands",
+    "description": "ClawBands is a security middleware for OpenClaw AI agents.",
+    "url": "https://github.com/SeyZ/clawbands",
+    "stars": 53,
+    "language": "TypeScript",
+    "updated_at": "2026-02-12T08:44:29Z"
+  },
+  {
     "name": "agent-tail",
     "full_name": "gillkyle/agent-tail",
     "description": "Pipe logs from all your dev servers into a single place accessible to your agents.",
@@ -52,15 +61,6 @@
     "stars": 51,
     "language": "TypeScript",
     "updated_at": "2026-02-12T01:09:51Z"
-  },
-  {
-    "name": "clawbands",
-    "full_name": "SeyZ/clawbands",
-    "description": "ClawBands is a security middleware for OpenClaw AI agents.",
-    "url": "https://github.com/SeyZ/clawbands",
-    "stars": 50,
-    "language": "TypeScript",
-    "updated_at": "2026-02-12T05:21:30Z"
   },
   {
     "name": "query_lens",
@@ -74,19 +74,19 @@
   {
     "name": "nothumanallowed",
     "full_name": "adoslabsproject-gif/nothumanallowed",
-    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation.",
+    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 40,
+    "stars": 42,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T03:35:21Z"
+    "updated_at": "2026-02-12T08:43:21Z"
   },
   {
     "name": "openclaw-im-manager",
     "full_name": "zhaoxinyi02/openclaw-im-manager",
     "description": "QQ 个人号 + 微信个人号接入openclaw AI 助手 | 非 Bot/企微，真正的个人号 | Docker 一键部署 + 可视化管理后台 | 扫码登录即用",
     "url": "https://github.com/zhaoxinyi02/openclaw-im-manager",
-    "stars": 39,
+    "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T03:52:02Z"
+    "updated_at": "2026-02-12T07:56:06Z"
   }
 ]
