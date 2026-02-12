@@ -4,27 +4,27 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1700,
+    "stars": 1717,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T20:32:54Z"
+    "updated_at": "2026-02-12T02:18:10Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 146,
+    "stars": 147,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T19:46:39Z"
+    "updated_at": "2026-02-12T02:03:52Z"
   },
   {
     "name": "picoclaw",
     "full_name": "mosaxiv/picoclaw",
     "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
     "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 113,
+    "stars": 115,
     "language": "Go",
-    "updated_at": "2026-02-11T20:24:16Z"
+    "updated_at": "2026-02-12T00:49:52Z"
   },
   {
     "name": "chargen",
@@ -36,49 +36,22 @@
     "updated_at": "2026-02-09T22:08:37Z"
   },
   {
-    "name": "agent-worktree",
-    "full_name": "nekocode/agent-worktree",
-    "description": "A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.",
-    "url": "https://github.com/nekocode/agent-worktree",
-    "stars": 100,
-    "language": "Rust",
-    "updated_at": "2026-02-11T19:21:28Z"
-  },
-  {
-    "name": "stik_app",
-    "full_name": "0xMassi/stik_app",
-    "description": "Instant thought capture for macOS. One shortcut, post-it appears, type, close.",
-    "url": "https://github.com/0xMassi/stik_app",
-    "stars": 96,
-    "language": "TypeScript",
-    "updated_at": "2026-02-11T18:44:46Z"
-  },
-  {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 59,
+    "stars": 64,
     "language": "Rust",
-    "updated_at": "2026-02-11T20:30:44Z"
-  },
-  {
-    "name": "Boba-CLI",
-    "full_name": "Able-labs-xyz/Boba-CLI",
-    "description": "Boba CLI - The bridge between agents and decentralized trading.",
-    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 54,
-    "language": "Go",
-    "updated_at": "2026-02-11T17:10:48Z"
+    "updated_at": "2026-02-12T00:35:53Z"
   },
   {
     "name": "agent-tail",
     "full_name": "gillkyle/agent-tail",
     "description": "Pipe logs from all your dev servers into a single place accessible to your agents.",
     "url": "https://github.com/gillkyle/agent-tail",
-    "stars": 50,
+    "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T19:18:50Z"
+    "updated_at": "2026-02-12T01:09:51Z"
   },
   {
     "name": "clawbands",
@@ -87,6 +60,33 @@
     "url": "https://github.com/SeyZ/clawbands",
     "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-02-11T20:03:21Z"
+    "updated_at": "2026-02-12T00:28:53Z"
+  },
+  {
+    "name": "query_lens",
+    "full_name": "bryanbeshore/query_lens",
+    "description": "Natural language SQL query builder for Rails, powered by AI",
+    "url": "https://github.com/bryanbeshore/query_lens",
+    "stars": 46,
+    "language": "Ruby",
+    "updated_at": "2026-02-11T19:42:11Z"
+  },
+  {
+    "name": "nothumanallowed",
+    "full_name": "adoslabsproject-gif/nothumanallowed",
+    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation.",
+    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+    "stars": 39,
+    "language": "JavaScript",
+    "updated_at": "2026-02-12T01:20:56Z"
+  },
+  {
+    "name": "openclaw-im-manager",
+    "full_name": "zhaoxinyi02/openclaw-im-manager",
+    "description": "QQ 个人号 + 微信个人号接入openclaw AI 助手 | 非 Bot/企微，真正的个人号 | Docker 一键部署 + 可视化管理后台 | 扫码登录即用",
+    "url": "https://github.com/zhaoxinyi02/openclaw-im-manager",
+    "stars": 36,
+    "language": "TypeScript",
+    "updated_at": "2026-02-11T13:52:04Z"
   }
 ]
