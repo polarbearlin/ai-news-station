@@ -4,9 +4,9 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1767,
+    "stars": 1774,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T16:15:39Z"
+    "updated_at": "2026-02-12T20:29:24Z"
   },
   {
     "name": "ctxport",
@@ -22,36 +22,36 @@
     "full_name": "mosaxiv/clawlet",
     "description": "Lightweight Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 147,
+    "stars": 148,
     "language": "Go",
-    "updated_at": "2026-02-12T15:21:32Z"
+    "updated_at": "2026-02-12T18:31:50Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 107,
+    "stars": 110,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T16:23:22Z"
+    "updated_at": "2026-02-12T20:30:08Z"
   },
   {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 71,
+    "stars": 77,
     "language": "Rust",
-    "updated_at": "2026-02-12T14:51:57Z"
+    "updated_at": "2026-02-12T17:16:37Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 64,
+    "stars": 69,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T16:32:29Z"
+    "updated_at": "2026-02-12T20:13:19Z"
   },
   {
     "name": "agent-tail",
@@ -69,7 +69,7 @@
     "url": "https://github.com/bryanbeshore/query_lens",
     "stars": 47,
     "language": "Ruby",
-    "updated_at": "2026-02-12T15:28:43Z"
+    "updated_at": "2026-02-12T18:30:15Z"
   },
   {
     "name": "openclaw-im-manager",
@@ -85,8 +85,8 @@
     "full_name": "adoslabsproject-gif/nothumanallowed",
     "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 44,
+    "stars": 45,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T14:11:33Z"
+    "updated_at": "2026-02-12T19:48:51Z"
   }
 ]
