@@ -4,54 +4,54 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1742,
+    "stars": 1756,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T08:44:51Z"
+    "updated_at": "2026-02-12T12:38:14Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 157,
+    "stars": 165,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T08:00:07Z"
+    "updated_at": "2026-02-12T13:03:29Z"
   },
   {
-    "name": "picoclaw",
-    "full_name": "mosaxiv/picoclaw",
-    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)",
-    "url": "https://github.com/mosaxiv/picoclaw",
-    "stars": 127,
+    "name": "clawlet",
+    "full_name": "mosaxiv/clawlet",
+    "description": "Lightweight Personal AI Assistant",
+    "url": "https://github.com/mosaxiv/clawlet",
+    "stars": 145,
     "language": "Go",
-    "updated_at": "2026-02-12T08:08:31Z"
+    "updated_at": "2026-02-12T13:08:19Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 101,
+    "stars": 104,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T08:42:56Z"
+    "updated_at": "2026-02-12T11:49:11Z"
   },
   {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 65,
+    "stars": 66,
     "language": "Rust",
-    "updated_at": "2026-02-12T05:18:52Z"
+    "updated_at": "2026-02-12T11:58:29Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 53,
+    "stars": 57,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T08:44:29Z"
+    "updated_at": "2026-02-12T13:03:23Z"
   },
   {
     "name": "agent-tail",
@@ -76,17 +76,17 @@
     "full_name": "adoslabsproject-gif/nothumanallowed",
     "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 42,
+    "stars": 43,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T08:43:21Z"
+    "updated_at": "2026-02-12T11:55:52Z"
   },
   {
     "name": "openclaw-im-manager",
     "full_name": "zhaoxinyi02/openclaw-im-manager",
     "description": "QQ 个人号 + 微信个人号接入openclaw AI 助手 | 非 Bot/企微，真正的个人号 | Docker 一键部署 + 可视化管理后台 | 扫码登录即用",
     "url": "https://github.com/zhaoxinyi02/openclaw-im-manager",
-    "stars": 41,
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T07:56:06Z"
+    "updated_at": "2026-02-12T09:53:50Z"
   }
 ]

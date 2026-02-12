@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-02-12 08:50:01",
-  "news": []
+  "generated_at": "2026-02-12 13:09:25",
+  "news": [
+    {
+      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+      "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+      "source": "Hacker News",
+      "time": "2026-02-12 11:46",
+      "score": 273,
+      "comments": 218
+    }
+  ]
 }
