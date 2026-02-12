@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-02-12 13:09:25",
+  "generated_at": "2026-02-12 16:59:48",
   "news": [
     {
-      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-      "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+      "title": "An AI Agent Published a Hit Piece on Me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "source": "Hacker News",
-      "time": "2026-02-12 11:46",
-      "score": 273,
-      "comments": 218
+      "time": "2026-02-12 16:23",
+      "score": 183,
+      "comments": 86
+    },
+    {
+      "title": "Email is tough: Major European Payment Processor's Emails rejected by GWorkspace",
+      "url": "https://atha.io/blog/2026-02-12-viva",
+      "source": "Hacker News",
+      "time": "2026-02-12 14:24",
+      "score": 207,
+      "comments": 138
+    },
+    {
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "source": "Hacker News",
+      "time": "2026-02-12 13:30",
+      "score": 257,
+      "comments": 122
     }
   ]
 }

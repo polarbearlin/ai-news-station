@@ -4,54 +4,54 @@
     "full_name": "op7418/CodePilot",
     "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
     "url": "https://github.com/op7418/CodePilot",
-    "stars": 1756,
+    "stars": 1767,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T12:38:14Z"
+    "updated_at": "2026-02-12T16:15:39Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 165,
+    "stars": 172,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T13:03:29Z"
+    "updated_at": "2026-02-12T16:31:03Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Lightweight Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 145,
+    "stars": 147,
     "language": "Go",
-    "updated_at": "2026-02-12T13:08:19Z"
+    "updated_at": "2026-02-12T15:21:32Z"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 104,
+    "stars": 107,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T11:49:11Z"
+    "updated_at": "2026-02-12T16:23:22Z"
   },
   {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 66,
+    "stars": 71,
     "language": "Rust",
-    "updated_at": "2026-02-12T11:58:29Z"
+    "updated_at": "2026-02-12T14:51:57Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 57,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T13:03:23Z"
+    "updated_at": "2026-02-12T16:32:29Z"
   },
   {
     "name": "agent-tail",
@@ -67,26 +67,26 @@
     "full_name": "bryanbeshore/query_lens",
     "description": "Natural language SQL query builder for Rails, powered by AI",
     "url": "https://github.com/bryanbeshore/query_lens",
-    "stars": 46,
+    "stars": 47,
     "language": "Ruby",
-    "updated_at": "2026-02-11T19:42:11Z"
-  },
-  {
-    "name": "nothumanallowed",
-    "full_name": "adoslabsproject-gif/nothumanallowed",
-    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
-    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 43,
-    "language": "JavaScript",
-    "updated_at": "2026-02-12T11:55:52Z"
+    "updated_at": "2026-02-12T15:28:43Z"
   },
   {
     "name": "openclaw-im-manager",
     "full_name": "zhaoxinyi02/openclaw-im-manager",
     "description": "QQ 个人号 + 微信个人号接入openclaw AI 助手 | 非 Bot/企微，真正的个人号 | Docker 一键部署 + 可视化管理后台 | 扫码登录即用",
     "url": "https://github.com/zhaoxinyi02/openclaw-im-manager",
-    "stars": 42,
+    "stars": 45,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T09:53:50Z"
+    "updated_at": "2026-02-12T16:08:52Z"
+  },
+  {
+    "name": "nothumanallowed",
+    "full_name": "adoslabsproject-gif/nothumanallowed",
+    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
+    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+    "stars": 44,
+    "language": "JavaScript",
+    "updated_at": "2026-02-12T14:11:33Z"
   }
 ]
