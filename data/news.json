@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-13 16:49:40",
+  "generated_at": "2026-02-13 20:39:31",
   "news": [
     {
-      "title": "GPT‑5.3‑Codex‑Spark",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
       "source": "Hacker News",
-      "time": "2026-02-12 18:06",
-      "score": 824,
-      "comments": 361
+      "time": "2026-02-13 19:20",
+      "score": 158,
+      "comments": 91
     },
     {
-      "title": "MinIO repository is no longer maintained",
-      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
       "source": "Hacker News",
-      "time": "2026-02-13 07:46",
-      "score": 377,
-      "comments": 253
+      "time": "2026-02-13 17:13",
+      "score": 194,
+      "comments": 108
+    },
+    {
+      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+      "url": "https://www.moltis.org",
+      "source": "Hacker News",
+      "time": "2026-02-12 19:15",
+      "score": 14,
+      "comments": 4
     }
   ]
 }
