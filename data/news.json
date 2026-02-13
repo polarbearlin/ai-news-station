@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-02-13 02:23:37",
+  "generated_at": "2026-02-13 05:21:13",
   "news": [
     {
       "title": "GPT‑5.3‑Codex‑Spark",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "source": "Hacker News",
       "time": "2026-02-12 18:06",
-      "score": 556,
-      "comments": 224
+      "score": 621,
+      "comments": 252
     },
     {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "source": "Hacker News",
       "time": "2026-02-12 16:23",
-      "score": 1462,
-      "comments": 619
-    },
-    {
-      "title": "How a Cat Debugged Stable Diffusion (2023)",
-      "url": "https://blog.dwac.dev/posts/cat-debugging/",
-      "source": "Hacker News",
-      "time": "2026-02-08 14:49",
-      "score": 15,
-      "comments": 0
+      "score": 1599,
+      "comments": 660
     }
   ]
 }

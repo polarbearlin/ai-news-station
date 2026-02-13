@@ -4,27 +4,27 @@
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 174,
+    "stars": 176,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T02:09:09Z"
+    "updated_at": "2026-02-13T03:39:12Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Lightweight Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 151,
+    "stars": 154,
     "language": "Go",
-    "updated_at": "2026-02-13T01:31:15Z"
+    "updated_at": "2026-02-13T04:07:51Z"
   },
   {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 83,
+    "stars": 84,
     "language": "Rust",
-    "updated_at": "2026-02-13T02:04:34Z"
+    "updated_at": "2026-02-13T02:45:53Z"
   },
   {
     "name": "clawbands",
@@ -34,6 +34,15 @@
     "stars": 73,
     "language": "TypeScript",
     "updated_at": "2026-02-13T02:09:35Z"
+  },
+  {
+    "name": "AutoGrad-Engine",
+    "full_name": "milanm/AutoGrad-Engine",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "stars": 69,
+    "language": "C#",
+    "updated_at": "2026-02-13T05:09:25Z"
   },
   {
     "name": "agent-tail",
@@ -49,36 +58,27 @@
     "full_name": "bryanbeshore/query_lens",
     "description": "Natural language SQL query builder for Rails, powered by AI",
     "url": "https://github.com/bryanbeshore/query_lens",
-    "stars": 47,
+    "stars": 48,
     "language": "Ruby",
-    "updated_at": "2026-02-12T18:30:15Z"
+    "updated_at": "2026-02-13T04:32:57Z"
   },
   {
     "name": "nothumanallowed",
     "full_name": "adoslabsproject-gif/nothumanallowed",
     "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 46,
+    "stars": 47,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T20:43:24Z"
+    "updated_at": "2026-02-13T02:46:11Z"
   },
   {
     "name": "mindpocket",
     "full_name": "jihe520/mindpocket",
     "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
     "url": "https://github.com/jihe520/mindpocket",
-    "stars": 44,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T02:02:28Z"
-  },
-  {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 43,
-    "language": "C#",
-    "updated_at": "2026-02-13T02:11:35Z"
+    "updated_at": "2026-02-13T04:41:12Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -87,6 +87,6 @@
     "url": "https://github.com/brucetoo/visual-agentic-dev",
     "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T02:05:43Z"
+    "updated_at": "2026-02-13T02:29:06Z"
   }
 ]
