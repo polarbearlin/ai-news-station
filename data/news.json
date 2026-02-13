@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-02-13 08:42:56",
+  "generated_at": "2026-02-13 13:01:06",
   "news": [
     {
       "title": "MinIO repository is no longer maintained",
       "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
       "source": "Hacker News",
       "time": "2026-02-13 07:46",
-      "score": 11,
-      "comments": 1
+      "score": 263,
+      "comments": 162
     },
     {
       "title": "GPT‑5.3‑Codex‑Spark",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "source": "Hacker News",
       "time": "2026-02-12 18:06",
-      "score": 710,
-      "comments": 293
+      "score": 769,
+      "comments": 331
+    },
+    {
+      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
+      "url": "http://qualify.gauntletAI.com",
+      "source": "Hacker News",
+      "time": "2026-02-13 12:32",
+      "score": 1,
+      "comments": 0
     },
     {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "source": "Hacker News",
       "time": "2026-02-12 16:23",
-      "score": 1749,
-      "comments": 710
+      "score": 1935,
+      "comments": 765
     }
   ]
 }

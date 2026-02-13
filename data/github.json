@@ -4,36 +4,36 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 1541,
+    "stars": 1671,
     "language": "Shell",
-    "updated_at": "2026-02-13T08:41:17Z"
+    "updated_at": "2026-02-13T13:00:45Z"
   },
   {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 180,
+    "stars": 189,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T08:22:21Z"
+    "updated_at": "2026-02-13T12:57:44Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Lightweight Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 159,
+    "stars": 161,
     "language": "Go",
-    "updated_at": "2026-02-13T08:37:15Z"
+    "updated_at": "2026-02-13T12:44:24Z"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 100,
+    "stars": 121,
     "language": "C#",
-    "updated_at": "2026-02-13T08:35:50Z"
+    "updated_at": "2026-02-13T12:57:48Z"
   },
   {
     "name": "vibebox",
@@ -49,18 +49,27 @@
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 77,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T08:08:07Z"
+    "updated_at": "2026-02-13T12:14:24Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 54,
+    "stars": 75,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T08:16:28Z"
+    "updated_at": "2026-02-13T12:59:09Z"
+  },
+  {
+    "name": "mindpocket",
+    "full_name": "jihe520/mindpocket",
+    "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
+    "url": "https://github.com/jihe520/mindpocket",
+    "stars": 53,
+    "language": "TypeScript",
+    "updated_at": "2026-02-13T12:08:08Z"
   },
   {
     "name": "agent-tail",
@@ -72,21 +81,12 @@
     "updated_at": "2026-02-12T01:09:51Z"
   },
   {
-    "name": "mindpocket",
-    "full_name": "jihe520/mindpocket",
-    "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
-    "url": "https://github.com/jihe520/mindpocket",
-    "stars": 48,
-    "language": "TypeScript",
-    "updated_at": "2026-02-13T06:47:39Z"
-  },
-  {
-    "name": "query_lens",
-    "full_name": "bryanbeshore/query_lens",
-    "description": "Natural language SQL query builder for Rails, powered by AI",
-    "url": "https://github.com/bryanbeshore/query_lens",
-    "stars": 48,
-    "language": "Ruby",
-    "updated_at": "2026-02-13T04:32:57Z"
+    "name": "nothumanallowed",
+    "full_name": "adoslabsproject-gif/nothumanallowed",
+    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
+    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+    "stars": 50,
+    "language": "JavaScript",
+    "updated_at": "2026-02-13T09:36:23Z"
   }
 ]
