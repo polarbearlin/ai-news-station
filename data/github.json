@@ -1,21 +1,39 @@
 [
   {
+    "name": "peon-ping",
+    "full_name": "PeonPing/peon-ping",
+    "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
+    "url": "https://github.com/PeonPing/peon-ping",
+    "stars": 1541,
+    "language": "Shell",
+    "updated_at": "2026-02-13T08:41:17Z"
+  },
+  {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 176,
+    "stars": 180,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T03:39:12Z"
+    "updated_at": "2026-02-13T08:22:21Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Lightweight Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 154,
+    "stars": 159,
     "language": "Go",
-    "updated_at": "2026-02-13T04:07:51Z"
+    "updated_at": "2026-02-13T08:37:15Z"
+  },
+  {
+    "name": "AutoGrad-Engine",
+    "full_name": "milanm/AutoGrad-Engine",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "stars": 100,
+    "language": "C#",
+    "updated_at": "2026-02-13T08:35:50Z"
   },
   {
     "name": "vibebox",
@@ -31,18 +49,18 @@
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 73,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-02-13T02:09:35Z"
+    "updated_at": "2026-02-13T08:08:07Z"
   },
   {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 69,
-    "language": "C#",
-    "updated_at": "2026-02-13T05:09:25Z"
+    "name": "andrej-karpathy-skills-cursor-vscode",
+    "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
+    "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "stars": 54,
+    "language": "TypeScript",
+    "updated_at": "2026-02-13T08:16:28Z"
   },
   {
     "name": "agent-tail",
@@ -54,6 +72,15 @@
     "updated_at": "2026-02-12T01:09:51Z"
   },
   {
+    "name": "mindpocket",
+    "full_name": "jihe520/mindpocket",
+    "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
+    "url": "https://github.com/jihe520/mindpocket",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-02-13T06:47:39Z"
+  },
+  {
     "name": "query_lens",
     "full_name": "bryanbeshore/query_lens",
     "description": "Natural language SQL query builder for Rails, powered by AI",
@@ -61,32 +88,5 @@
     "stars": 48,
     "language": "Ruby",
     "updated_at": "2026-02-13T04:32:57Z"
-  },
-  {
-    "name": "nothumanallowed",
-    "full_name": "adoslabsproject-gif/nothumanallowed",
-    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
-    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 47,
-    "language": "JavaScript",
-    "updated_at": "2026-02-13T02:46:11Z"
-  },
-  {
-    "name": "mindpocket",
-    "full_name": "jihe520/mindpocket",
-    "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
-    "url": "https://github.com/jihe520/mindpocket",
-    "stars": 47,
-    "language": "TypeScript",
-    "updated_at": "2026-02-13T04:41:12Z"
-  },
-  {
-    "name": "visual-agentic-dev",
-    "full_name": "brucetoo/visual-agentic-dev",
-    "description": "an immersive browser dev environment with a seamless click-to-locate + agent edit loop.",
-    "url": "https://github.com/brucetoo/visual-agentic-dev",
-    "stars": 41,
-    "language": "TypeScript",
-    "updated_at": "2026-02-13T02:29:06Z"
   }
 ]

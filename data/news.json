@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-13 05:21:13",
+  "generated_at": "2026-02-13 08:42:56",
   "news": [
+    {
+      "title": "MinIO repository is no longer maintained",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "source": "Hacker News",
+      "time": "2026-02-13 07:46",
+      "score": 11,
+      "comments": 1
+    },
     {
       "title": "GPT‑5.3‑Codex‑Spark",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "source": "Hacker News",
       "time": "2026-02-12 18:06",
-      "score": 621,
-      "comments": 252
+      "score": 710,
+      "comments": 293
     },
     {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "source": "Hacker News",
       "time": "2026-02-12 16:23",
-      "score": 1599,
-      "comments": 660
+      "score": 1749,
+      "comments": 710
     }
   ]
 }
