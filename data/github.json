@@ -1,57 +1,39 @@
 [
   {
-    "name": "CodePilot",
-    "full_name": "op7418/CodePilot",
-    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-    "url": "https://github.com/op7418/CodePilot",
-    "stars": 1774,
-    "language": "TypeScript",
-    "updated_at": "2026-02-12T20:29:24Z"
-  },
-  {
     "name": "ctxport",
     "full_name": "nicepkg/ctxport",
     "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source.",
     "url": "https://github.com/nicepkg/ctxport",
-    "stars": 172,
+    "stars": 174,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T16:31:03Z"
+    "updated_at": "2026-02-13T02:09:09Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Lightweight Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 148,
+    "stars": 151,
     "language": "Go",
-    "updated_at": "2026-02-12T18:31:50Z"
-  },
-  {
-    "name": "chargen",
-    "full_name": "Karmacoke/chargen",
-    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-    "url": "https://github.com/Karmacoke/chargen",
-    "stars": 110,
-    "language": "JavaScript",
-    "updated_at": "2026-02-12T20:30:08Z"
+    "updated_at": "2026-02-13T01:31:15Z"
   },
   {
     "name": "vibebox",
     "full_name": "robcholz/vibebox",
     "description": "Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development and LLM agents.",
     "url": "https://github.com/robcholz/vibebox",
-    "stars": 77,
+    "stars": 83,
     "language": "Rust",
-    "updated_at": "2026-02-12T17:16:37Z"
+    "updated_at": "2026-02-13T02:04:34Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 69,
+    "stars": 73,
     "language": "TypeScript",
-    "updated_at": "2026-02-12T20:13:19Z"
+    "updated_at": "2026-02-13T02:09:35Z"
   },
   {
     "name": "agent-tail",
@@ -72,21 +54,39 @@
     "updated_at": "2026-02-12T18:30:15Z"
   },
   {
-    "name": "openclaw-im-manager",
-    "full_name": "zhaoxinyi02/openclaw-im-manager",
-    "description": "QQ 个人号 + 微信个人号接入openclaw AI 助手 | 非 Bot/企微，真正的个人号 | Docker 一键部署 + 可视化管理后台 | 扫码登录即用",
-    "url": "https://github.com/zhaoxinyi02/openclaw-im-manager",
-    "stars": 45,
-    "language": "TypeScript",
-    "updated_at": "2026-02-12T16:08:52Z"
-  },
-  {
     "name": "nothumanallowed",
     "full_name": "adoslabsproject-gif/nothumanallowed",
     "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation. https://nothumanallowed.com",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 45,
+    "stars": 46,
     "language": "JavaScript",
-    "updated_at": "2026-02-12T19:48:51Z"
+    "updated_at": "2026-02-12T20:43:24Z"
+  },
+  {
+    "name": "mindpocket",
+    "full_name": "jihe520/mindpocket",
+    "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
+    "url": "https://github.com/jihe520/mindpocket",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-02-13T02:02:28Z"
+  },
+  {
+    "name": "AutoGrad-Engine",
+    "full_name": "milanm/AutoGrad-Engine",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "stars": 43,
+    "language": "C#",
+    "updated_at": "2026-02-13T02:11:35Z"
+  },
+  {
+    "name": "visual-agentic-dev",
+    "full_name": "brucetoo/visual-agentic-dev",
+    "description": "an immersive browser dev environment with a seamless click-to-locate + agent edit loop.",
+    "url": "https://github.com/brucetoo/visual-agentic-dev",
+    "stars": 41,
+    "language": "TypeScript",
+    "updated_at": "2026-02-13T02:05:43Z"
   }
 ]

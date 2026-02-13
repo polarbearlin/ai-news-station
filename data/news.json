@@ -1,45 +1,29 @@
 {
-  "generated_at": "2026-02-12 20:36:10",
+  "generated_at": "2026-02-13 02:23:37",
   "news": [
     {
       "title": "GPT‑5.3‑Codex‑Spark",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "source": "Hacker News",
       "time": "2026-02-12 18:06",
-      "score": 289,
-      "comments": 131
+      "score": 556,
+      "comments": 224
     },
     {
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "source": "Hacker News",
       "time": "2026-02-12 16:23",
-      "score": 951,
-      "comments": 441
+      "score": 1462,
+      "comments": 619
     },
     {
-      "title": "Major European payment processor can't send email to Google Workspace users",
-      "url": "https://atha.io/blog/2026-02-12-viva",
+      "title": "How a Cat Debugged Stable Diffusion (2023)",
+      "url": "https://blog.dwac.dev/posts/cat-debugging/",
       "source": "Hacker News",
-      "time": "2026-02-12 14:24",
-      "score": 346,
-      "comments": 225
-    },
-    {
-      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "source": "Hacker News",
-      "time": "2026-02-12 13:30",
-      "score": 422,
-      "comments": 184
-    },
-    {
-      "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
-      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "source": "Hacker News",
-      "time": "2026-02-12 18:58",
-      "score": 89,
-      "comments": 78
+      "time": "2026-02-08 14:49",
+      "score": 15,
+      "comments": 0
     }
   ]
 }
