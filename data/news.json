@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-13 20:39:31",
+  "generated_at": "2026-02-14 02:04:55",
   "news": [
+    {
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "source": "Hacker News",
+      "time": "2026-02-14 00:37",
+      "score": 94,
+      "comments": 45
+    },
     {
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
       "source": "Hacker News",
       "time": "2026-02-13 19:20",
-      "score": 158,
-      "comments": 91
+      "score": 372,
+      "comments": 257
     },
     {
-      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
-      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
       "source": "Hacker News",
-      "time": "2026-02-13 17:13",
-      "score": 194,
-      "comments": 108
-    },
-    {
-      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
-      "url": "https://www.moltis.org",
-      "source": "Hacker News",
-      "time": "2026-02-12 19:15",
-      "score": 14,
-      "comments": 4
+      "time": "2026-02-13 22:17",
+      "score": 309,
+      "comments": 193
     }
   ]
 }
