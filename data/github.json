@@ -4,45 +4,45 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 1972,
+    "stars": 1996,
     "language": "Shell",
-    "updated_at": "2026-02-14T12:49:08Z"
+    "updated_at": "2026-02-14T16:24:46Z"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~400 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 188,
+    "stars": 212,
     "language": "C#",
-    "updated_at": "2026-02-14T12:29:14Z"
+    "updated_at": "2026-02-14T16:20:25Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 177,
+    "stars": 178,
     "language": "Go",
-    "updated_at": "2026-02-14T12:25:43Z"
+    "updated_at": "2026-02-14T14:32:42Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 123,
+    "stars": 124,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T12:38:38Z"
+    "updated_at": "2026-02-14T16:25:40Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 91,
+    "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T09:05:26Z"
+    "updated_at": "2026-02-14T14:24:25Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -58,9 +58,9 @@
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 40,
+    "stars": 46,
     "language": "HTML",
-    "updated_at": "2026-02-14T11:27:02Z"
+    "updated_at": "2026-02-14T16:10:32Z"
   },
   {
     "name": "Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
@@ -78,15 +78,15 @@
     "url": "https://github.com/Trusera/ai-bom",
     "stars": 26,
     "language": "Python",
-    "updated_at": "2026-02-14T10:02:45Z"
+    "updated_at": "2026-02-14T15:51:13Z"
   },
   {
-    "name": "rspeaker",
-    "full_name": "rainygirl/rspeaker",
-    "description": "말귀를 알아듣고 뉴스도 요약해 읽어줍니다",
-    "url": "https://github.com/rainygirl/rspeaker",
+    "name": "nWave",
+    "full_name": "nWave-ai/nWave",
+    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
+    "url": "https://github.com/nWave-ai/nWave",
     "stars": 25,
     "language": "Python",
-    "updated_at": "2026-02-13T20:08:05Z"
+    "updated_at": "2026-02-14T16:30:42Z"
   }
 ]
