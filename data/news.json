@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-14 08:33:57",
+  "generated_at": "2026-02-14 12:50:51",
   "news": [
+    {
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "source": "Hacker News",
+      "time": "2026-02-14 09:28",
+      "score": 78,
+      "comments": 20
+    },
     {
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
       "source": "Hacker News",
       "time": "2026-02-13 19:20",
-      "score": 461,
-      "comments": 319
+      "score": 507,
+      "comments": 339
     }
   ]
 }

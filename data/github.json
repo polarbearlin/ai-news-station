@@ -4,54 +4,54 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 1928,
+    "stars": 1972,
     "language": "Shell",
-    "updated_at": "2026-02-14T08:33:35Z"
+    "updated_at": "2026-02-14T12:49:08Z"
+  },
+  {
+    "name": "AutoGrad-Engine",
+    "full_name": "milanm/AutoGrad-Engine",
+    "description": "A complete GPT language model (training and inference) in ~400 lines of pure C#, zero dependencies",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "stars": 188,
+    "language": "C#",
+    "updated_at": "2026-02-14T12:29:14Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 172,
+    "stars": 177,
     "language": "Go",
-    "updated_at": "2026-02-14T07:32:48Z"
-  },
-  {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 172,
-    "language": "C#",
-    "updated_at": "2026-02-14T08:24:19Z"
+    "updated_at": "2026-02-14T12:25:43Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 117,
+    "stars": 123,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T08:26:18Z"
+    "updated_at": "2026-02-14T12:38:38Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 90,
+    "stars": 91,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T08:16:35Z"
+    "updated_at": "2026-02-14T09:05:26Z"
   },
   {
     "name": "visual-agentic-dev",
     "full_name": "brucetoo/visual-agentic-dev",
     "description": "an immersive browser dev environment with a seamless click-to-locate + agent edit loop.",
     "url": "https://github.com/brucetoo/visual-agentic-dev",
-    "stars": 47,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T06:36:16Z"
+    "updated_at": "2026-02-14T11:00:46Z"
   },
   {
     "name": "picogpt",
@@ -59,8 +59,8 @@
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
     "stars": 40,
-    "language": "Python",
-    "updated_at": "2026-02-14T06:40:22Z"
+    "language": "HTML",
+    "updated_at": "2026-02-14T11:27:02Z"
   },
   {
     "name": "Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
@@ -78,7 +78,7 @@
     "url": "https://github.com/Trusera/ai-bom",
     "stars": 26,
     "language": "Python",
-    "updated_at": "2026-02-14T07:11:20Z"
+    "updated_at": "2026-02-14T10:02:45Z"
   },
   {
     "name": "rspeaker",
