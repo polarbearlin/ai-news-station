@@ -4,9 +4,9 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 1868,
+    "stars": 1900,
     "language": "Shell",
-    "updated_at": "2026-02-14T01:58:47Z"
+    "updated_at": "2026-02-14T05:08:05Z"
   },
   {
     "name": "clawlet",
@@ -22,36 +22,36 @@
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 162,
+    "stars": 165,
     "language": "C#",
-    "updated_at": "2026-02-14T01:14:36Z"
+    "updated_at": "2026-02-14T04:47:02Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 100,
+    "stars": 108,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T01:31:58Z"
+    "updated_at": "2026-02-14T05:06:29Z"
   },
   {
     "name": "clawbands",
     "full_name": "SeyZ/clawbands",
     "description": "ClawBands is a security middleware for OpenClaw AI agents.",
     "url": "https://github.com/SeyZ/clawbands",
-    "stars": 86,
+    "stars": 89,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T01:49:37Z"
+    "updated_at": "2026-02-14T03:28:55Z"
   },
   {
     "name": "visual-agentic-dev",
     "full_name": "brucetoo/visual-agentic-dev",
     "description": "an immersive browser dev environment with a seamless click-to-locate + agent edit loop.",
     "url": "https://github.com/brucetoo/visual-agentic-dev",
-    "stars": 45,
+    "stars": 46,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T01:01:50Z"
+    "updated_at": "2026-02-14T04:56:33Z"
   },
   {
     "name": "picogpt",
@@ -72,6 +72,15 @@
     "updated_at": "2026-02-13T19:31:32Z"
   },
   {
+    "name": "ai-bom",
+    "full_name": "Trusera/ai-bom",
+    "description": "AI Bill of Materials — discover every AI agent, model, and API in your infrastructure",
+    "url": "https://github.com/Trusera/ai-bom",
+    "stars": 26,
+    "language": "Python",
+    "updated_at": "2026-02-14T03:36:18Z"
+  },
+  {
     "name": "rspeaker",
     "full_name": "rainygirl/rspeaker",
     "description": "말귀를 알아듣고 뉴스도 요약해 읽어줍니다",
@@ -79,14 +88,5 @@
     "stars": 25,
     "language": "Python",
     "updated_at": "2026-02-13T20:08:05Z"
-  },
-  {
-    "name": "ai-bom",
-    "full_name": "Trusera/ai-bom",
-    "description": "AI Bill of Materials — discover every AI agent, model, and API in your infrastructure",
-    "url": "https://github.com/Trusera/ai-bom",
-    "stars": 25,
-    "language": "Python",
-    "updated_at": "2026-02-13T22:50:10Z"
   }
 ]

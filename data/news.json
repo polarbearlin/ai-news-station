@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-02-14 02:04:55",
+  "generated_at": "2026-02-14 05:08:49",
   "news": [
-    {
-      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "source": "Hacker News",
-      "time": "2026-02-14 00:37",
-      "score": 94,
-      "comments": 45
-    },
     {
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
       "source": "Hacker News",
       "time": "2026-02-13 19:20",
-      "score": 372,
-      "comments": 257
+      "score": 428,
+      "comments": 278
     },
     {
-      "title": "OpenAI has deleted the word 'safely' from its mission",
-      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+      "title": "Adventures in Neural Rendering",
+      "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
       "source": "Hacker News",
-      "time": "2026-02-13 22:17",
-      "score": 309,
-      "comments": 193
+      "time": "2026-02-10 21:26",
+      "score": 14,
+      "comments": 0
     }
   ]
 }
