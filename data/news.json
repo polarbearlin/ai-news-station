@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-14 16:31:08",
+  "generated_at": "2026-02-14 20:27:53",
   "news": [
     {
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "Hacker News",
       "time": "2026-02-14 15:35",
-      "score": 32,
-      "comments": 13
+      "score": 229,
+      "comments": 108
     },
     {
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
+      "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
       "source": "Hacker News",
-      "time": "2026-02-14 09:28",
-      "score": 342,
-      "comments": 131
+      "time": "2026-02-10 19:27",
+      "score": 35,
+      "comments": 0
     }
   ]
 }
