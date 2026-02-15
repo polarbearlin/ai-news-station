@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-02-15 16:31:40",
+  "generated_at": "2026-02-15 20:28:17",
   "news": [
     {
       "title": "I love the work of the ArchWiki maintainers",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "source": "Hacker News",
       "time": "2026-02-15 01:20",
-      "score": 716,
-      "comments": 121
-    },
-    {
-      "title": "Two different tricks for fast LLM inference",
-      "url": "https://www.seangoedecke.com/fast-llm-inference/",
-      "source": "Hacker News",
-      "time": "2026-02-15 09:27",
-      "score": 108,
-      "comments": 44
-    },
-    {
-      "title": "RynnBrain",
-      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
-      "source": "Hacker News",
-      "time": "2026-02-11 00:08",
-      "score": 34,
-      "comments": 0
+      "score": 836,
+      "comments": 149
     }
   ]
 }
