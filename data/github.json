@@ -4,54 +4,45 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 2017,
+    "stars": 2038,
     "language": "Shell",
-    "updated_at": "2026-02-14T20:15:48Z"
+    "updated_at": "2026-02-15T01:34:01Z"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in ~400 lines of pure C#, zero dependencies",
+    "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 226,
+    "stars": 237,
     "language": "C#",
-    "updated_at": "2026-02-14T20:06:45Z"
+    "updated_at": "2026-02-15T01:36:25Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 178,
+    "stars": 180,
     "language": "Go",
-    "updated_at": "2026-02-14T17:32:19Z"
+    "updated_at": "2026-02-15T00:20:16Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 127,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T20:26:17Z"
-  },
-  {
-    "name": "clawbands",
-    "full_name": "SeyZ/clawbands",
-    "description": "ClawBands is a security middleware for OpenClaw AI agents.",
-    "url": "https://github.com/SeyZ/clawbands",
-    "stars": 94,
-    "language": "TypeScript",
-    "updated_at": "2026-02-14T18:09:17Z"
+    "updated_at": "2026-02-15T00:46:13Z"
   },
   {
     "name": "picogpt",
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 53,
+    "stars": 59,
     "language": "HTML",
-    "updated_at": "2026-02-14T19:11:48Z"
+    "updated_at": "2026-02-15T02:04:26Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -67,9 +58,18 @@
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 35,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-02-14T19:55:47Z"
+    "updated_at": "2026-02-15T01:01:45Z"
+  },
+  {
+    "name": "awesome-seedance",
+    "full_name": "ZeroLu/awesome-seedance",
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
+    "url": "https://github.com/ZeroLu/awesome-seedance",
+    "stars": 38,
+    "language": null,
+    "updated_at": "2026-02-15T02:20:05Z"
   },
   {
     "name": "Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-13T19:31:32Z"
   },
   {
-    "name": "ai-bom",
-    "full_name": "Trusera/ai-bom",
-    "description": "AI Bill of Materials — discover every AI agent, model, and API in your infrastructure",
-    "url": "https://github.com/Trusera/ai-bom",
+    "name": "ComfyUI-SoulX-Singer",
+    "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
+    "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
+    "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
     "stars": 26,
     "language": "Python",
-    "updated_at": "2026-02-14T17:15:10Z"
+    "updated_at": "2026-02-15T00:44:35Z"
   }
 ]

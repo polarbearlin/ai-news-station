@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-02-14 20:27:53",
+  "generated_at": "2026-02-15 02:23:03",
   "news": [
+    {
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "source": "Hacker News",
+      "time": "2026-02-14 18:46",
+      "score": 397,
+      "comments": 251
+    },
     {
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "Hacker News",
       "time": "2026-02-14 15:35",
-      "score": 229,
-      "comments": 108
+      "score": 339,
+      "comments": 171
     },
     {
-      "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
-      "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
       "source": "Hacker News",
-      "time": "2026-02-10 19:27",
-      "score": 35,
-      "comments": 0
+      "time": "2026-02-13 23:34",
+      "score": 248,
+      "comments": 120
+    },
+    {
+      "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+      "url": "https://github.com/alichherawalla/off-grid-mobile",
+      "source": "Hacker News",
+      "time": "2026-02-14 22:39",
+      "score": 32,
+      "comments": 7
     }
   ]
 }
