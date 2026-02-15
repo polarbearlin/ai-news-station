@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-02-15 02:23:03",
+  "generated_at": "2026-02-15 05:19:16",
   "news": [
     {
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "title": "I love the work of the ArchWiki maintainers",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "source": "Hacker News",
-      "time": "2026-02-14 18:46",
-      "score": 397,
-      "comments": 251
+      "time": "2026-02-15 01:20",
+      "score": 121,
+      "comments": 24
     },
     {
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "Hacker News",
       "time": "2026-02-14 15:35",
-      "score": 339,
-      "comments": 171
+      "score": 371,
+      "comments": 183
     },
     {
-      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
       "source": "Hacker News",
-      "time": "2026-02-13 23:34",
-      "score": 248,
-      "comments": 120
-    },
-    {
-      "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-      "url": "https://github.com/alichherawalla/off-grid-mobile",
-      "source": "Hacker News",
-      "time": "2026-02-14 22:39",
-      "score": 32,
-      "comments": 7
+      "time": "2026-02-14 18:46",
+      "score": 444,
+      "comments": 288
     }
   ]
 }

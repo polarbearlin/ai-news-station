@@ -4,18 +4,18 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 2038,
+    "stars": 2049,
     "language": "Shell",
-    "updated_at": "2026-02-15T01:34:01Z"
+    "updated_at": "2026-02-15T05:19:09Z"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 237,
+    "stars": 242,
     "language": "C#",
-    "updated_at": "2026-02-15T01:36:25Z"
+    "updated_at": "2026-02-15T04:03:51Z"
   },
   {
     "name": "clawlet",
@@ -31,45 +31,45 @@
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 130,
+    "stars": 131,
     "language": "TypeScript",
-    "updated_at": "2026-02-15T00:46:13Z"
+    "updated_at": "2026-02-15T03:05:55Z"
   },
   {
     "name": "picogpt",
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 59,
+    "stars": 63,
     "language": "HTML",
-    "updated_at": "2026-02-15T02:04:26Z"
+    "updated_at": "2026-02-15T04:33:38Z"
   },
   {
     "name": "visual-agentic-dev",
     "full_name": "brucetoo/visual-agentic-dev",
     "description": "an immersive browser dev environment with a seamless click-to-locate + agent edit loop.",
     "url": "https://github.com/brucetoo/visual-agentic-dev",
-    "stars": 48,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-02-14T11:00:46Z"
-  },
-  {
-    "name": "nWave",
-    "full_name": "nWave-ai/nWave",
-    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
-    "url": "https://github.com/nWave-ai/nWave",
-    "stars": 41,
-    "language": "Python",
-    "updated_at": "2026-02-15T01:01:45Z"
+    "updated_at": "2026-02-15T02:46:44Z"
   },
   {
     "name": "awesome-seedance",
     "full_name": "ZeroLu/awesome-seedance",
     "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
     "url": "https://github.com/ZeroLu/awesome-seedance",
-    "stars": 38,
+    "stars": 46,
     "language": null,
-    "updated_at": "2026-02-15T02:20:05Z"
+    "updated_at": "2026-02-15T05:14:20Z"
+  },
+  {
+    "name": "nWave",
+    "full_name": "nWave-ai/nWave",
+    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
+    "url": "https://github.com/nWave-ai/nWave",
+    "stars": 42,
+    "language": "Python",
+    "updated_at": "2026-02-15T03:14:22Z"
   },
   {
     "name": "Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-13T19:31:32Z"
   },
   {
-    "name": "ComfyUI-SoulX-Singer",
-    "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
-    "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
-    "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
-    "stars": 26,
-    "language": "Python",
-    "updated_at": "2026-02-15T00:44:35Z"
+    "name": "anti-slop",
+    "full_name": "peakoss/anti-slop",
+    "description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
+    "url": "https://github.com/peakoss/anti-slop",
+    "stars": 29,
+    "language": "TypeScript",
+    "updated_at": "2026-02-15T05:04:22Z"
   }
 ]
