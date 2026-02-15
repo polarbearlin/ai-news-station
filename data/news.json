@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-15 05:19:16",
+  "generated_at": "2026-02-15 08:34:39",
   "news": [
     {
       "title": "I love the work of the ArchWiki maintainers",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "source": "Hacker News",
       "time": "2026-02-15 01:20",
-      "score": 121,
-      "comments": 24
+      "score": 318,
+      "comments": 59
     },
     {
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "Hacker News",
       "time": "2026-02-14 15:35",
-      "score": 371,
-      "comments": 183
+      "score": 427,
+      "comments": 202
     },
     {
       "title": "News publishers limit Internet Archive access due to AI scraping concerns",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
       "source": "Hacker News",
       "time": "2026-02-14 18:46",
-      "score": 444,
-      "comments": 288
+      "score": 477,
+      "comments": 302
     }
   ]
 }

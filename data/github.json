@@ -4,27 +4,27 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 2049,
+    "stars": 2065,
     "language": "Shell",
-    "updated_at": "2026-02-15T05:19:09Z"
+    "updated_at": "2026-02-15T08:20:28Z"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 242,
+    "stars": 249,
     "language": "C#",
-    "updated_at": "2026-02-15T04:03:51Z"
+    "updated_at": "2026-02-15T08:23:12Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 180,
+    "stars": 182,
     "language": "Go",
-    "updated_at": "2026-02-15T00:20:16Z"
+    "updated_at": "2026-02-15T08:05:17Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
@@ -40,9 +40,18 @@
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 63,
+    "stars": 66,
     "language": "HTML",
-    "updated_at": "2026-02-15T04:33:38Z"
+    "updated_at": "2026-02-15T07:11:37Z"
+  },
+  {
+    "name": "awesome-seedance",
+    "full_name": "ZeroLu/awesome-seedance",
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
+    "url": "https://github.com/ZeroLu/awesome-seedance",
+    "stars": 52,
+    "language": null,
+    "updated_at": "2026-02-15T08:17:50Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -54,39 +63,30 @@
     "updated_at": "2026-02-15T02:46:44Z"
   },
   {
-    "name": "awesome-seedance",
-    "full_name": "ZeroLu/awesome-seedance",
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
-    "url": "https://github.com/ZeroLu/awesome-seedance",
-    "stars": 46,
-    "language": null,
-    "updated_at": "2026-02-15T05:14:20Z"
-  },
-  {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 42,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-02-15T03:14:22Z"
-  },
-  {
-    "name": "Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
-    "full_name": "mirumotodhoko-spec/Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
-    "description": "Topaz | Ai | Topaz Ai | Image | Artificial | Intelligence | Gigapixel | Photo |",
-    "url": "https://github.com/mirumotodhoko-spec/Professional-AI-software-for-stunning-image-and-video-quality-enhancement.",
-    "stars": 29,
-    "language": null,
-    "updated_at": "2026-02-13T19:31:32Z"
+    "updated_at": "2026-02-15T07:17:25Z"
   },
   {
     "name": "anti-slop",
     "full_name": "peakoss/anti-slop",
     "description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
     "url": "https://github.com/peakoss/anti-slop",
-    "stars": 29,
+    "stars": 36,
     "language": "TypeScript",
-    "updated_at": "2026-02-15T05:04:22Z"
+    "updated_at": "2026-02-15T08:07:32Z"
+  },
+  {
+    "name": "ComfyUI-SoulX-Singer",
+    "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
+    "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
+    "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
+    "stars": 30,
+    "language": "Python",
+    "updated_at": "2026-02-15T06:56:29Z"
   }
 ]
