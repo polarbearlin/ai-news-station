@@ -4,36 +4,54 @@
     "full_name": "PeonPing/peon-ping",
     "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
     "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 2080,
+    "stars": 2096,
     "language": "Shell",
-    "updated_at": "2026-02-15T12:38:22Z"
+    "updated_at": "2026-02-15T15:48:09Z"
   },
   {
     "name": "clawlet",
     "full_name": "mosaxiv/clawlet",
     "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
     "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 590,
+    "stars": 592,
     "language": "Go",
-    "updated_at": "2026-02-15T12:32:44Z"
+    "updated_at": "2026-02-15T16:08:55Z"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 258,
+    "stars": 260,
     "language": "C#",
-    "updated_at": "2026-02-15T12:08:08Z"
+    "updated_at": "2026-02-15T13:49:46Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 133,
+    "stars": 134,
     "language": "TypeScript",
-    "updated_at": "2026-02-15T09:13:55Z"
+    "updated_at": "2026-02-15T16:12:32Z"
+  },
+  {
+    "name": "zeptoclaw",
+    "full_name": "qhkm/zeptoclaw",
+    "description": "Final form of claw family (Wannabe)",
+    "url": "https://github.com/qhkm/zeptoclaw",
+    "stars": 107,
+    "language": "Rust",
+    "updated_at": "2026-02-15T16:24:45Z"
+  },
+  {
+    "name": "awesome-seedance",
+    "full_name": "ZeroLu/awesome-seedance",
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
+    "url": "https://github.com/ZeroLu/awesome-seedance",
+    "stars": 71,
+    "language": null,
+    "updated_at": "2026-02-15T16:01:15Z"
   },
   {
     "name": "picogpt",
@@ -45,31 +63,13 @@
     "updated_at": "2026-02-15T12:00:38Z"
   },
   {
-    "name": "zeptoclaw",
-    "full_name": "qhkm/zeptoclaw",
-    "description": "Final form of claw family (Wannabe)",
-    "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 67,
-    "language": "Rust",
-    "updated_at": "2026-02-15T12:52:15Z"
-  },
-  {
-    "name": "awesome-seedance",
-    "full_name": "ZeroLu/awesome-seedance",
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
-    "url": "https://github.com/ZeroLu/awesome-seedance",
-    "stars": 61,
-    "language": null,
-    "updated_at": "2026-02-15T12:46:45Z"
-  },
-  {
     "name": "anti-slop",
     "full_name": "peakoss/anti-slop",
     "description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
     "url": "https://github.com/peakoss/anti-slop",
-    "stars": 53,
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-02-15T12:44:57Z"
+    "updated_at": "2026-02-15T15:22:05Z"
   },
   {
     "name": "visual-agentic-dev",
