@@ -4,18 +4,18 @@
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 274,
+    "stars": 278,
     "language": "C#",
-    "updated_at": "2026-02-16T04:01:12Z"
+    "updated_at": "2026-02-16T08:33:01Z"
   },
   {
     "name": "zeptoclaw",
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 173,
+    "stars": 188,
     "language": "Rust",
-    "updated_at": "2026-02-16T05:11:09Z"
+    "updated_at": "2026-02-16T08:21:06Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
@@ -24,7 +24,7 @@
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
     "stars": 136,
     "language": "TypeScript",
-    "updated_at": "2026-02-16T00:00:22Z"
+    "updated_at": "2026-02-16T06:28:42Z"
   },
   {
     "name": "awesome-seedance",
@@ -49,9 +49,9 @@
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 56,
+    "stars": 58,
     "language": "Python",
-    "updated_at": "2026-02-16T05:24:19Z"
+    "updated_at": "2026-02-16T07:56:19Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -67,18 +67,18 @@
     "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
     "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
     "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
-    "stars": 39,
+    "stars": 40,
     "language": "Python",
-    "updated_at": "2026-02-16T01:59:02Z"
+    "updated_at": "2026-02-16T07:12:04Z"
   },
   {
-    "name": "local-llm-gateway",
-    "full_name": "mixqualityretort/local-llm-gateway",
-    "description": "High-performance local gateway for connecting self-hosted LLMs to IDE extensions. Optimized for low-latency inference. 🌐",
-    "url": "https://github.com/mixqualityretort/local-llm-gateway",
-    "stars": 39,
-    "language": null,
-    "updated_at": "2026-02-15T13:11:11Z"
+    "name": "DevSonar",
+    "full_name": "otomachiiii/DevSonar",
+    "description": "AI-powered runtime error monitoring for local development",
+    "url": "https://github.com/otomachiiii/DevSonar",
+    "stars": 33,
+    "language": "TypeScript",
+    "updated_at": "2026-02-16T08:20:08Z"
   },
   {
     "name": "roadmap-skill",

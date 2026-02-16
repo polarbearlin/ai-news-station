@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-02-16 05:26:42",
+  "generated_at": "2026-02-16 08:50:38",
   "news": [
     {
       "title": "I’m joining OpenAI",
       "url": "https://steipete.me/posts/2026/openclaw",
       "source": "Hacker News",
       "time": "2026-02-15 21:54",
-      "score": 763,
-      "comments": 520
+      "score": 949,
+      "comments": 654
+    },
+    {
+      "title": "1,300-year-old world chronicle unearthed in Sinai",
+      "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+      "source": "Hacker News",
+      "time": "2026-02-12 04:01",
+      "score": 24,
+      "comments": 2
+    },
+    {
+      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+      "url": "https://blog.exe.dev/expensively-quadratic",
+      "source": "Hacker News",
+      "time": "2026-02-13 07:44",
+      "score": 15,
+      "comments": 5
     }
   ]
 }
