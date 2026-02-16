@@ -4,54 +4,63 @@
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 278,
+    "stars": 281,
     "language": "C#",
-    "updated_at": "2026-02-16T08:33:01Z"
+    "updated_at": "2026-02-16T10:35:25Z"
   },
   {
     "name": "zeptoclaw",
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 188,
+    "stars": 208,
     "language": "Rust",
-    "updated_at": "2026-02-16T08:21:06Z"
+    "updated_at": "2026-02-16T13:01:36Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 136,
+    "stars": 138,
     "language": "TypeScript",
-    "updated_at": "2026-02-16T06:28:42Z"
+    "updated_at": "2026-02-16T12:53:43Z"
   },
   {
     "name": "awesome-seedance",
     "full_name": "ZeroLu/awesome-seedance",
     "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
     "url": "https://github.com/ZeroLu/awesome-seedance",
-    "stars": 80,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-02-16T04:00:04Z"
+    "updated_at": "2026-02-16T12:37:46Z"
   },
   {
     "name": "picogpt",
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 79,
+    "stars": 80,
     "language": "HTML",
-    "updated_at": "2026-02-16T03:34:56Z"
+    "updated_at": "2026-02-16T09:04:48Z"
+  },
+  {
+    "name": "sandcat",
+    "full_name": "softwaremill/sandcat",
+    "description": "A dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.",
+    "url": "https://github.com/softwaremill/sandcat",
+    "stars": 63,
+    "language": "Python",
+    "updated_at": "2026-02-16T11:18:20Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 58,
+    "stars": 60,
     "language": "Python",
-    "updated_at": "2026-02-16T07:56:19Z"
+    "updated_at": "2026-02-16T10:49:05Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -67,26 +76,17 @@
     "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
     "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
     "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
-    "stars": 40,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-02-16T07:12:04Z"
+    "updated_at": "2026-02-16T11:47:17Z"
   },
   {
-    "name": "DevSonar",
-    "full_name": "otomachiiii/DevSonar",
-    "description": "AI-powered runtime error monitoring for local development",
-    "url": "https://github.com/otomachiiii/DevSonar",
-    "stars": 33,
-    "language": "TypeScript",
-    "updated_at": "2026-02-16T08:20:08Z"
-  },
-  {
-    "name": "roadmap-skill",
-    "full_name": "shiquda/roadmap-skill",
-    "description": "Visual project management with AI integration. Kanban boards + MCP server for Claude Code, Cursor, and any AI assistant.",
-    "url": "https://github.com/shiquda/roadmap-skill",
-    "stars": 32,
-    "language": "TypeScript",
-    "updated_at": "2026-02-16T02:03:09Z"
+    "name": "acodex",
+    "full_name": "maksimzayats/acodex",
+    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
+    "url": "https://github.com/maksimzayats/acodex",
+    "stars": 34,
+    "language": "Python",
+    "updated_at": "2026-02-16T12:04:36Z"
   }
 ]
