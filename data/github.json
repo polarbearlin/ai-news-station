@@ -1,84 +1,57 @@
 [
   {
-    "name": "peon-ping",
-    "full_name": "PeonPing/peon-ping",
-    "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-    "url": "https://github.com/PeonPing/peon-ping",
-    "stars": 2109,
-    "language": "Shell",
-    "updated_at": "2026-02-15T20:02:30Z"
-  },
-  {
-    "name": "clawlet",
-    "full_name": "mosaxiv/clawlet",
-    "description": "Ultra-Lightweight&Efficient Personal AI Assistant",
-    "url": "https://github.com/mosaxiv/clawlet",
-    "stars": 594,
-    "language": "Go",
-    "updated_at": "2026-02-15T18:18:54Z"
-  },
-  {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 265,
+    "stars": 271,
     "language": "C#",
-    "updated_at": "2026-02-15T20:13:59Z"
-  },
-  {
-    "name": "andrej-karpathy-skills-cursor-vscode",
-    "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
-    "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 134,
-    "language": "TypeScript",
-    "updated_at": "2026-02-15T16:12:32Z"
+    "updated_at": "2026-02-15T23:41:42Z"
   },
   {
     "name": "zeptoclaw",
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 125,
+    "stars": 156,
     "language": "Rust",
-    "updated_at": "2026-02-15T20:05:21Z"
+    "updated_at": "2026-02-16T02:04:49Z"
   },
   {
-    "name": "picogpt",
-    "full_name": "Kuberwastaken/picogpt",
-    "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
-    "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 74,
-    "language": "HTML",
-    "updated_at": "2026-02-15T19:38:11Z"
+    "name": "andrej-karpathy-skills-cursor-vscode",
+    "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
+    "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "stars": 136,
+    "language": "TypeScript",
+    "updated_at": "2026-02-16T00:00:22Z"
   },
   {
     "name": "awesome-seedance",
     "full_name": "ZeroLu/awesome-seedance",
     "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
     "url": "https://github.com/ZeroLu/awesome-seedance",
-    "stars": 73,
+    "stars": 77,
     "language": null,
-    "updated_at": "2026-02-15T20:13:38Z"
+    "updated_at": "2026-02-16T01:58:53Z"
   },
   {
-    "name": "anti-slop",
-    "full_name": "peakoss/anti-slop",
-    "description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
-    "url": "https://github.com/peakoss/anti-slop",
-    "stars": 68,
-    "language": "TypeScript",
-    "updated_at": "2026-02-15T20:02:42Z"
+    "name": "picogpt",
+    "full_name": "Kuberwastaken/picogpt",
+    "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
+    "url": "https://github.com/Kuberwastaken/picogpt",
+    "stars": 76,
+    "language": "HTML",
+    "updated_at": "2026-02-15T23:54:17Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 54,
+    "stars": 55,
     "language": "Python",
-    "updated_at": "2026-02-15T19:04:45Z"
+    "updated_at": "2026-02-16T00:31:46Z"
   },
   {
     "name": "visual-agentic-dev",
@@ -88,5 +61,32 @@
     "stars": 49,
     "language": "TypeScript",
     "updated_at": "2026-02-15T02:46:44Z"
+  },
+  {
+    "name": "local-llm-gateway",
+    "full_name": "mixqualityretort/local-llm-gateway",
+    "description": "High-performance local gateway for connecting self-hosted LLMs to IDE extensions. Optimized for low-latency inference. 🌐",
+    "url": "https://github.com/mixqualityretort/local-llm-gateway",
+    "stars": 39,
+    "language": null,
+    "updated_at": "2026-02-15T13:11:11Z"
+  },
+  {
+    "name": "ComfyUI-SoulX-Singer",
+    "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
+    "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
+    "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-02-16T01:59:02Z"
+  },
+  {
+    "name": "roadmap-skill",
+    "full_name": "shiquda/roadmap-skill",
+    "description": "Visual project management with AI integration. Kanban boards + MCP server for Claude Code, Cursor, and any AI assistant.",
+    "url": "https://github.com/shiquda/roadmap-skill",
+    "stars": 32,
+    "language": "TypeScript",
+    "updated_at": "2026-02-16T02:03:09Z"
   }
 ]
