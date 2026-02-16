@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-02-16 13:05:07",
+  "generated_at": "2026-02-16 16:44:32",
   "news": [
     {
       "title": "I’m joining OpenAI",
       "url": "https://steipete.me/posts/2026/openclaw",
       "source": "Hacker News",
       "time": "2026-02-15 21:54",
-      "score": 1149,
-      "comments": 852
-    },
-    {
-      "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
-      "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
-      "source": "Hacker News",
-      "time": "2026-02-16 12:28",
-      "score": 33,
-      "comments": 11
-    },
-    {
-      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
-      "source": "Hacker News",
-      "time": "2026-02-16 11:06",
-      "score": 51,
-      "comments": 12
+      "score": 1273,
+      "comments": 958
     }
   ]
 }
