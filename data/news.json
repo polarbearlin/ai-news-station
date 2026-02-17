@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-02-16 20:32:39",
-  "news": []
+  "generated_at": "2026-02-17 02:09:09",
+  "news": [
+    {
+      "title": "AI is destroying Open Source, and it's not even good yet",
+      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+      "source": "Hacker News",
+      "time": "2026-02-17 00:26",
+      "score": 101,
+      "comments": 65
+    },
+    {
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
+      "source": "Hacker News",
+      "time": "2026-02-16 23:40",
+      "score": 51,
+      "comments": 8
+    },
+    {
+      "title": "Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster",
+      "url": "https://github.com/enjector/microgpt-c",
+      "source": "Hacker News",
+      "time": "2026-02-17 00:06",
+      "score": 44,
+      "comments": 4
+    }
+  ]
 }

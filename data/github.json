@@ -4,72 +4,54 @@
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 286,
+    "stars": 289,
     "language": "C#",
-    "updated_at": "2026-02-16T19:53:37Z"
+    "updated_at": "2026-02-17T01:05:57Z"
   },
   {
     "name": "zeptoclaw",
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 227,
+    "stars": 234,
     "language": "Rust",
-    "updated_at": "2026-02-16T20:24:22Z"
+    "updated_at": "2026-02-17T02:06:20Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 139,
+    "stars": 140,
     "language": "TypeScript",
-    "updated_at": "2026-02-16T20:26:28Z"
-  },
-  {
-    "name": "awesome-seedance",
-    "full_name": "ZeroLu/awesome-seedance",
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
-    "url": "https://github.com/ZeroLu/awesome-seedance",
-    "stars": 89,
-    "language": null,
-    "updated_at": "2026-02-16T20:30:35Z"
+    "updated_at": "2026-02-17T01:41:35Z"
   },
   {
     "name": "picogpt",
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 81,
+    "stars": 82,
     "language": "HTML",
-    "updated_at": "2026-02-16T13:37:04Z"
+    "updated_at": "2026-02-16T23:10:42Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 74,
+    "stars": 79,
     "language": "Python",
-    "updated_at": "2026-02-16T20:11:29Z"
+    "updated_at": "2026-02-16T23:48:55Z"
   },
   {
     "name": "sandcat",
     "full_name": "VirtusLab/sandcat",
     "description": "A dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.",
     "url": "https://github.com/VirtusLab/sandcat",
-    "stars": 69,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-02-16T20:16:16Z"
-  },
-  {
-    "name": "visual-agentic-dev",
-    "full_name": "brucetoo/visual-agentic-dev",
-    "description": "an immersive browser dev environment with a seamless click-to-locate + agent edit loop.",
-    "url": "https://github.com/brucetoo/visual-agentic-dev",
-    "stars": 51,
-    "language": "TypeScript",
-    "updated_at": "2026-02-16T20:21:18Z"
+    "updated_at": "2026-02-17T02:01:46Z"
   },
   {
     "name": "ComfyUI-SoulX-Singer",
@@ -85,8 +67,26 @@
     "full_name": "maksimzayats/acodex",
     "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
     "url": "https://github.com/maksimzayats/acodex",
-    "stars": 36,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-02-16T19:43:12Z"
+    "updated_at": "2026-02-17T02:03:28Z"
+  },
+  {
+    "name": "openclaw-android",
+    "full_name": "AidanPark/openclaw-android",
+    "description": "Run OpenClaw on Android with a single command — no proot, no Ubuntu",
+    "url": "https://github.com/AidanPark/openclaw-android",
+    "stars": 37,
+    "language": "HTML",
+    "updated_at": "2026-02-17T01:50:51Z"
+  },
+  {
+    "name": "DevSonar",
+    "full_name": "otomachiiii/DevSonar",
+    "description": "AI-powered runtime error monitoring for local development",
+    "url": "https://github.com/otomachiiii/DevSonar",
+    "stars": 34,
+    "language": "TypeScript",
+    "updated_at": "2026-02-16T15:38:26Z"
   }
 ]
