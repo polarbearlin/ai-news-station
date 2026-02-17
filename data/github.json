@@ -13,18 +13,36 @@
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 237,
+    "stars": 241,
     "language": "Rust",
-    "updated_at": "2026-02-17T08:38:10Z"
+    "updated_at": "2026-02-17T11:58:29Z"
+  },
+  {
+    "name": "spacebot",
+    "full_name": "spacedriveapp/spacebot",
+    "description": "An AI agent for teams, communities, and multi-user environments.",
+    "url": "https://github.com/spacedriveapp/spacebot",
+    "stars": 178,
+    "language": "Rust",
+    "updated_at": "2026-02-17T12:52:58Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
     "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
     "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
     "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 141,
+    "stars": 142,
     "language": "TypeScript",
-    "updated_at": "2026-02-17T07:48:29Z"
+    "updated_at": "2026-02-17T12:20:50Z"
+  },
+  {
+    "name": "nWave",
+    "full_name": "nWave-ai/nWave",
+    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
+    "url": "https://github.com/nWave-ai/nWave",
+    "stars": 89,
+    "language": "Python",
+    "updated_at": "2026-02-17T12:05:39Z"
   },
   {
     "name": "picogpt",
@@ -33,52 +51,34 @@
     "url": "https://github.com/Kuberwastaken/picogpt",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-02-17T07:23:34Z"
-  },
-  {
-    "name": "nWave",
-    "full_name": "nWave-ai/nWave",
-    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
-    "url": "https://github.com/nWave-ai/nWave",
-    "stars": 83,
-    "language": "Python",
-    "updated_at": "2026-02-17T08:20:05Z"
-  },
-  {
-    "name": "spacebot",
-    "full_name": "spacedriveapp/spacebot",
-    "description": "An AI agent for teams, communities, and multi-user environments.",
-    "url": "https://github.com/spacedriveapp/spacebot",
-    "stars": 80,
-    "language": "Rust",
-    "updated_at": "2026-02-17T08:48:03Z"
+    "updated_at": "2026-02-17T11:37:22Z"
   },
   {
     "name": "sandcat",
     "full_name": "VirtusLab/sandcat",
-    "description": "A dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.",
+    "description": "A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.",
     "url": "https://github.com/VirtusLab/sandcat",
     "stars": 74,
     "language": "Python",
-    "updated_at": "2026-02-17T06:55:26Z"
+    "updated_at": "2026-02-17T13:02:13Z"
   },
   {
     "name": "openclaw-android",
     "full_name": "AidanPark/openclaw-android",
     "description": "Run OpenClaw on Android with a single command — no proot, no Ubuntu",
     "url": "https://github.com/AidanPark/openclaw-android",
-    "stars": 44,
+    "stars": 49,
     "language": "HTML",
-    "updated_at": "2026-02-17T08:39:33Z"
+    "updated_at": "2026-02-17T12:13:57Z"
   },
   {
     "name": "ComfyUI-SoulX-Singer",
     "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
     "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
     "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
-    "stars": 42,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-02-16T16:13:10Z"
+    "updated_at": "2026-02-17T12:55:42Z"
   },
   {
     "name": "acodex",
