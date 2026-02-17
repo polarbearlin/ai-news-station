@@ -1,5 +1,14 @@
 [
   {
+    "name": "spacebot",
+    "full_name": "spacedriveapp/spacebot",
+    "description": "An AI agent for teams, communities, and multi-user environments.",
+    "url": "https://github.com/spacedriveapp/spacebot",
+    "stars": 323,
+    "language": "Rust",
+    "updated_at": "2026-02-17T20:20:46Z"
+  },
+  {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
@@ -9,22 +18,13 @@
     "updated_at": "2026-02-17T14:27:25Z"
   },
   {
-    "name": "spacebot",
-    "full_name": "spacedriveapp/spacebot",
-    "description": "An AI agent for teams, communities, and multi-user environments.",
-    "url": "https://github.com/spacedriveapp/spacebot",
-    "stars": 282,
-    "language": "Rust",
-    "updated_at": "2026-02-17T16:51:49Z"
-  },
-  {
     "name": "zeptoclaw",
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 248,
+    "stars": 251,
     "language": "Rust",
-    "updated_at": "2026-02-17T16:48:26Z"
+    "updated_at": "2026-02-17T20:31:29Z"
   },
   {
     "name": "andrej-karpathy-skills-cursor-vscode",
@@ -42,7 +42,7 @@
     "url": "https://github.com/nWave-ai/nWave",
     "stars": 90,
     "language": "Python",
-    "updated_at": "2026-02-17T13:33:39Z"
+    "updated_at": "2026-02-17T18:52:02Z"
   },
   {
     "name": "picogpt",
@@ -67,9 +67,9 @@
     "full_name": "AidanPark/openclaw-android",
     "description": "Run OpenClaw on Android with a single command — no proot, no Ubuntu",
     "url": "https://github.com/AidanPark/openclaw-android",
-    "stars": 51,
+    "stars": 54,
     "language": "HTML",
-    "updated_at": "2026-02-17T16:51:31Z"
+    "updated_at": "2026-02-17T18:54:39Z"
   },
   {
     "name": "ComfyUI-SoulX-Singer",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-17T12:55:42Z"
   },
   {
-    "name": "acodex",
-    "full_name": "maksimzayats/acodex",
-    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
-    "url": "https://github.com/maksimzayats/acodex",
-    "stars": 39,
+    "name": "NadirClaw",
+    "full_name": "doramirdor/NadirClaw",
+    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
+    "url": "https://github.com/doramirdor/NadirClaw",
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-02-17T05:59:42Z"
+    "updated_at": "2026-02-17T19:49:33Z"
   }
 ]
