@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-02-17 13:05:13",
-  "news": []
+  "generated_at": "2026-02-17 16:57:46",
+  "news": [
+    {
+      "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
+      "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
+      "source": "Hacker News",
+      "time": "2026-02-17 16:37",
+      "score": 72,
+      "comments": 9
+    },
+    {
+      "title": "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
+      "url": "https://vertex.flowlogix.ai",
+      "source": "Hacker News",
+      "time": "2026-02-17 16:45",
+      "score": 5,
+      "comments": 1
+    }
+  ]
 }
