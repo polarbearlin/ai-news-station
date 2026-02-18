@@ -1,20 +1,28 @@
 {
-  "generated_at": "2026-02-18 13:06:02",
+  "generated_at": "2026-02-18 17:04:30",
   "news": [
     {
       "title": "If you’re an LLM, please read this",
       "url": "https://annas-archive.li/blog/llms-txt.html",
       "source": "Hacker News",
       "time": "2026-02-18 07:18",
-      "score": 179,
-      "comments": 110
+      "score": 458,
+      "comments": 234
     },
     {
-      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "title": "Why AI Velocity Is Becoming a Debt Accelerator",
+      "url": "https://martinfowler.com/fragments/2026-02-18.html",
       "source": "Hacker News",
-      "time": "2026-02-18 12:00",
-      "score": 1,
+      "time": "2026-02-18 16:08",
+      "score": 70,
+      "comments": 26
+    },
+    {
+      "title": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "source": "Hacker News",
+      "time": "2026-02-18 16:46",
+      "score": 5,
       "comments": 0
     }
   ]
