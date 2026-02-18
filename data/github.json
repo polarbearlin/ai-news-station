@@ -13,18 +13,18 @@
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 270,
+    "stars": 272,
     "language": "Rust",
-    "updated_at": "2026-02-18T17:02:23Z"
+    "updated_at": "2026-02-18T20:13:02Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 99,
+    "stars": 102,
     "language": "Python",
-    "updated_at": "2026-02-18T15:02:47Z"
+    "updated_at": "2026-02-18T20:32:18Z"
   },
   {
     "name": "picogpt",
@@ -49,9 +49,18 @@
     "full_name": "memvid/design-memory",
     "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
     "url": "https://github.com/memvid/design-memory",
-    "stars": 67,
+    "stars": 72,
     "language": "TypeScript",
-    "updated_at": "2026-02-18T15:46:51Z"
+    "updated_at": "2026-02-18T19:02:31Z"
+  },
+  {
+    "name": "daymon",
+    "full_name": "daymonio/daymon",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
+    "url": "https://github.com/daymonio/daymon",
+    "stars": 47,
+    "language": "TypeScript",
+    "updated_at": "2026-02-18T20:40:02Z"
   },
   {
     "name": "acodex",
@@ -60,33 +69,24 @@
     "url": "https://github.com/maksimzayats/acodex",
     "stars": 40,
     "language": "Python",
-    "updated_at": "2026-02-18T04:37:17Z"
+    "updated_at": "2026-02-18T18:51:34Z"
   },
   {
     "name": "just_say_no",
     "full_name": "nich2533/just_say_no",
     "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
     "url": "https://github.com/nich2533/just_say_no",
-    "stars": 37,
+    "stars": 39,
     "language": null,
-    "updated_at": "2026-02-18T08:07:04Z"
+    "updated_at": "2026-02-18T18:09:44Z"
   },
   {
     "name": "open-skills",
     "full_name": "besoeasy/open-skills",
     "description": "Battle-tested skill library for AI agents. Save 98% of API costs with ready-to-use code for crypto, PDFs, search, web scraping & more. No trial-and-error, no expensive APIs.",
     "url": "https://github.com/besoeasy/open-skills",
-    "stars": 37,
+    "stars": 39,
     "language": "HTML",
-    "updated_at": "2026-02-18T13:05:25Z"
-  },
-  {
-    "name": "awesome-engineering-articles",
-    "full_name": "ashishps1/awesome-engineering-articles",
-    "description": "A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams solve real-world problems at scale.",
-    "url": "https://github.com/ashishps1/awesome-engineering-articles",
-    "stars": 37,
-    "language": null,
-    "updated_at": "2026-02-18T15:36:13Z"
+    "updated_at": "2026-02-18T20:21:02Z"
   }
 ]
