@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-02-18 08:47:02",
-  "news": []
+  "generated_at": "2026-02-18 13:06:02",
+  "news": [
+    {
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.li/blog/llms-txt.html",
+      "source": "Hacker News",
+      "time": "2026-02-18 07:18",
+      "score": 179,
+      "comments": 110
+    },
+    {
+      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "source": "Hacker News",
+      "time": "2026-02-18 12:00",
+      "score": 1,
+      "comments": 0
+    }
+  ]
 }
