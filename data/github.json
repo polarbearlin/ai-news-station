@@ -13,18 +13,18 @@
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 257,
+    "stars": 259,
     "language": "Rust",
-    "updated_at": "2026-02-18T01:32:49Z"
+    "updated_at": "2026-02-18T04:18:52Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 92,
+    "stars": 93,
     "language": "Python",
-    "updated_at": "2026-02-17T21:09:55Z"
+    "updated_at": "2026-02-18T05:22:16Z"
   },
   {
     "name": "picogpt",
@@ -40,18 +40,18 @@
     "full_name": "memvid/design-memory",
     "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
     "url": "https://github.com/memvid/design-memory",
-    "stars": 50,
+    "stars": 56,
     "language": "TypeScript",
-    "updated_at": "2026-02-18T01:39:07Z"
+    "updated_at": "2026-02-18T04:30:26Z"
   },
   {
     "name": "CommonGround",
     "full_name": "Intelligent-Internet/CommonGround",
     "description": "The Sociotechnical OS for Multi-Agent Collaboration",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
-    "stars": 41,
+    "stars": 55,
     "language": "Python",
-    "updated_at": "2026-02-18T01:35:38Z"
+    "updated_at": "2026-02-18T05:22:53Z"
   },
   {
     "name": "acodex",
@@ -60,16 +60,16 @@
     "url": "https://github.com/maksimzayats/acodex",
     "stars": 40,
     "language": "Python",
-    "updated_at": "2026-02-17T22:08:35Z"
+    "updated_at": "2026-02-18T04:37:17Z"
   },
   {
     "name": "just_say_no",
     "full_name": "nich2533/just_say_no",
     "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
     "url": "https://github.com/nich2533/just_say_no",
-    "stars": 35,
+    "stars": 36,
     "language": null,
-    "updated_at": "2026-02-17T21:09:39Z"
+    "updated_at": "2026-02-18T04:21:11Z"
   },
   {
     "name": "open-skills",
