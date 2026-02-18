@@ -1,48 +1,30 @@
 [
   {
-    "name": "spacebot",
-    "full_name": "spacedriveapp/spacebot",
-    "description": "An AI agent for teams, communities, and multi-user environments.",
-    "url": "https://github.com/spacedriveapp/spacebot",
-    "stars": 323,
-    "language": "Rust",
-    "updated_at": "2026-02-17T20:20:46Z"
-  },
-  {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 291,
+    "stars": 292,
     "language": "C#",
-    "updated_at": "2026-02-17T14:27:25Z"
+    "updated_at": "2026-02-18T00:49:07Z"
   },
   {
     "name": "zeptoclaw",
     "full_name": "qhkm/zeptoclaw",
     "description": "Final form of claw family (Wannabe)",
     "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 251,
+    "stars": 257,
     "language": "Rust",
-    "updated_at": "2026-02-17T20:31:29Z"
-  },
-  {
-    "name": "andrej-karpathy-skills-cursor-vscode",
-    "full_name": "mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
-    "url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "stars": 142,
-    "language": "TypeScript",
-    "updated_at": "2026-02-17T12:20:50Z"
+    "updated_at": "2026-02-18T01:32:49Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 90,
+    "stars": 92,
     "language": "Python",
-    "updated_at": "2026-02-17T18:52:02Z"
+    "updated_at": "2026-02-17T21:09:55Z"
   },
   {
     "name": "picogpt",
@@ -54,39 +36,57 @@
     "updated_at": "2026-02-17T11:37:22Z"
   },
   {
-    "name": "sandcat",
-    "full_name": "VirtusLab/sandcat",
-    "description": "A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.",
-    "url": "https://github.com/VirtusLab/sandcat",
-    "stars": 74,
-    "language": "Python",
-    "updated_at": "2026-02-17T14:49:20Z"
+    "name": "design-memory",
+    "full_name": "memvid/design-memory",
+    "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
+    "url": "https://github.com/memvid/design-memory",
+    "stars": 50,
+    "language": "TypeScript",
+    "updated_at": "2026-02-18T01:39:07Z"
   },
   {
-    "name": "openclaw-android",
-    "full_name": "AidanPark/openclaw-android",
-    "description": "Run OpenClaw on Android with a single command — no proot, no Ubuntu",
-    "url": "https://github.com/AidanPark/openclaw-android",
-    "stars": 54,
-    "language": "HTML",
-    "updated_at": "2026-02-17T18:54:39Z"
-  },
-  {
-    "name": "ComfyUI-SoulX-Singer",
-    "full_name": "Saganaki22/ComfyUI-SoulX-Singer",
-    "description": "ComfyUI custom nodes for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
-    "url": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-02-17T12:55:42Z"
-  },
-  {
-    "name": "NadirClaw",
-    "full_name": "doramirdor/NadirClaw",
-    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
-    "url": "https://github.com/doramirdor/NadirClaw",
+    "name": "CommonGround",
+    "full_name": "Intelligent-Internet/CommonGround",
+    "description": "The Sociotechnical OS for Multi-Agent Collaboration",
+    "url": "https://github.com/Intelligent-Internet/CommonGround",
     "stars": 41,
     "language": "Python",
-    "updated_at": "2026-02-17T19:49:33Z"
+    "updated_at": "2026-02-18T01:35:38Z"
+  },
+  {
+    "name": "acodex",
+    "full_name": "maksimzayats/acodex",
+    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
+    "url": "https://github.com/maksimzayats/acodex",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-02-17T22:08:35Z"
+  },
+  {
+    "name": "just_say_no",
+    "full_name": "nich2533/just_say_no",
+    "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
+    "url": "https://github.com/nich2533/just_say_no",
+    "stars": 35,
+    "language": null,
+    "updated_at": "2026-02-17T21:09:39Z"
+  },
+  {
+    "name": "open-skills",
+    "full_name": "besoeasy/open-skills",
+    "description": "Battle-tested skill library for AI agents. Save 98% of API costs with ready-to-use code for crypto, PDFs, search, web scraping & more. No trial-and-error, no expensive APIs.",
+    "url": "https://github.com/besoeasy/open-skills",
+    "stars": 35,
+    "language": "HTML",
+    "updated_at": "2026-02-17T19:29:34Z"
+  },
+  {
+    "name": "DevSonar",
+    "full_name": "otomachiiii/DevSonar",
+    "description": "AI-powered runtime error monitoring for local development",
+    "url": "https://github.com/otomachiiii/DevSonar",
+    "stars": 35,
+    "language": "TypeScript",
+    "updated_at": "2026-02-17T09:12:40Z"
   }
 ]
