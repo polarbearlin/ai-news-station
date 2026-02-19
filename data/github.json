@@ -4,27 +4,27 @@
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 131,
+    "stars": 153,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T05:15:19Z"
-  },
-  {
-    "name": "nWave",
-    "full_name": "nWave-ai/nWave",
-    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
-    "url": "https://github.com/nWave-ai/nWave",
-    "stars": 103,
-    "language": "Python",
-    "updated_at": "2026-02-18T21:50:07Z"
+    "updated_at": "2026-02-19T08:42:38Z"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 98,
+    "stars": 124,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T05:08:45Z"
+    "updated_at": "2026-02-19T08:40:24Z"
+  },
+  {
+    "name": "nWave",
+    "full_name": "nWave-ai/nWave",
+    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
+    "url": "https://github.com/nWave-ai/nWave",
+    "stars": 104,
+    "language": "Python",
+    "updated_at": "2026-02-19T08:34:24Z"
   },
   {
     "name": "design-memory",
@@ -40,9 +40,9 @@
     "full_name": "Intelligent-Internet/CommonGround",
     "description": "The Sociotechnical OS for Multi-Agent Collaboration",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
-    "stars": 75,
+    "stars": 76,
     "language": "Python",
-    "updated_at": "2026-02-19T03:57:08Z"
+    "updated_at": "2026-02-19T05:42:21Z"
   },
   {
     "name": "open-skills",
@@ -54,6 +54,15 @@
     "updated_at": "2026-02-19T05:01:24Z"
   },
   {
+    "name": "just_say_no",
+    "full_name": "nich2533/just_say_no",
+    "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
+    "url": "https://github.com/nich2533/just_say_no",
+    "stars": 41,
+    "language": null,
+    "updated_at": "2026-02-19T06:18:50Z"
+  },
+  {
     "name": "acodex",
     "full_name": "maksimzayats/acodex",
     "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
@@ -63,22 +72,13 @@
     "updated_at": "2026-02-19T04:28:09Z"
   },
   {
-    "name": "just_say_no",
-    "full_name": "nich2533/just_say_no",
-    "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
-    "url": "https://github.com/nich2533/just_say_no",
-    "stars": 40,
-    "language": null,
-    "updated_at": "2026-02-18T21:16:03Z"
-  },
-  {
     "name": "awesome-engineering-articles",
     "full_name": "ashishps1/awesome-engineering-articles",
     "description": "A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams solve real-world problems at scale.",
     "url": "https://github.com/ashishps1/awesome-engineering-articles",
-    "stars": 38,
+    "stars": 40,
     "language": null,
-    "updated_at": "2026-02-19T05:15:43Z"
+    "updated_at": "2026-02-19T08:13:44Z"
   },
   {
     "name": "laravel-markdown-response",
