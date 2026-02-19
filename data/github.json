@@ -4,45 +4,45 @@
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 183,
+    "stars": 198,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T12:57:43Z"
+    "updated_at": "2026-02-19T16:50:33Z"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 155,
+    "stars": 176,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T13:00:54Z"
+    "updated_at": "2026-02-19T16:53:46Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 106,
+    "stars": 108,
     "language": "Python",
-    "updated_at": "2026-02-19T12:35:06Z"
+    "updated_at": "2026-02-19T15:47:05Z"
   },
   {
     "name": "design-memory",
     "full_name": "memvid/design-memory",
     "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
     "url": "https://github.com/memvid/design-memory",
-    "stars": 83,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T12:25:16Z"
+    "updated_at": "2026-02-19T14:15:00Z"
   },
   {
     "name": "CommonGround",
     "full_name": "Intelligent-Internet/CommonGround",
     "description": "The Sociotechnical OS for Multi-Agent Collaboration",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
-    "stars": 76,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-02-19T05:42:21Z"
+    "updated_at": "2026-02-19T15:20:38Z"
   },
   {
     "name": "open-skills",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-19T04:28:09Z"
   },
   {
-    "name": "clawshell",
-    "full_name": "clawshell/clawshell",
-    "description": "The Security Layer for OpenClaw, the essential safety harness for PII & sensitive credentials protection.",
-    "url": "https://github.com/clawshell/clawshell",
-    "stars": 36,
-    "language": "Rust",
-    "updated_at": "2026-02-19T12:30:11Z"
+    "name": "monkeys-with-typewriters",
+    "full_name": "QwertyMcQwertz/monkeys-with-typewriters",
+    "description": "The complete AI platform on a $3 microcontroller. Sub-millisecond inference. Zero hallucinations.",
+    "url": "https://github.com/QwertyMcQwertz/monkeys-with-typewriters",
+    "stars": 39,
+    "language": "C++",
+    "updated_at": "2026-02-19T16:13:14Z"
   }
 ]

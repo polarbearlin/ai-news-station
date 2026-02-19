@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-02-19 13:07:19",
+  "generated_at": "2026-02-19 16:54:15",
   "news": [
+    {
+      "title": "AI made coding more enjoyable",
+      "url": "https://weberdominik.com/blog/ai-coding-enjoyable/",
+      "source": "Hacker News",
+      "time": "2026-02-19 16:20",
+      "score": 23,
+      "comments": 15
+    },
     {
       "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
       "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
       "source": "Hacker News",
       "time": "2026-02-16 17:57",
-      "score": 59,
-      "comments": 0
+      "score": 138,
+      "comments": 52
     }
   ]
 }
