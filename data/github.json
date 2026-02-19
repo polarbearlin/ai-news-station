@@ -1,39 +1,39 @@
 [
   {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 294,
-    "language": "C#",
-    "updated_at": "2026-02-18T11:32:51Z"
-  },
-  {
-    "name": "zeptoclaw",
-    "full_name": "qhkm/zeptoclaw",
-    "description": "Final form of claw family (Wannabe)",
-    "url": "https://github.com/qhkm/zeptoclaw",
-    "stars": 272,
-    "language": "Rust",
-    "updated_at": "2026-02-18T20:13:02Z"
-  },
-  {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 102,
+    "stars": 103,
     "language": "Python",
-    "updated_at": "2026-02-18T20:32:18Z"
+    "updated_at": "2026-02-18T21:50:07Z"
   },
   {
-    "name": "picogpt",
-    "full_name": "Kuberwastaken/picogpt",
-    "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free JS/Python.",
-    "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 84,
-    "language": "HTML",
-    "updated_at": "2026-02-17T11:37:22Z"
+    "name": "evmbench",
+    "full_name": "paradigmxyz/evmbench",
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs",
+    "url": "https://github.com/paradigmxyz/evmbench",
+    "stars": 92,
+    "language": "TypeScript",
+    "updated_at": "2026-02-19T01:49:40Z"
+  },
+  {
+    "name": "daymon",
+    "full_name": "daymonio/daymon",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
+    "url": "https://github.com/daymonio/daymon",
+    "stars": 80,
+    "language": "TypeScript",
+    "updated_at": "2026-02-19T01:57:55Z"
+  },
+  {
+    "name": "design-memory",
+    "full_name": "memvid/design-memory",
+    "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
+    "url": "https://github.com/memvid/design-memory",
+    "stars": 79,
+    "language": "TypeScript",
+    "updated_at": "2026-02-19T01:31:28Z"
   },
   {
     "name": "CommonGround",
@@ -45,22 +45,22 @@
     "updated_at": "2026-02-18T14:34:00Z"
   },
   {
-    "name": "design-memory",
-    "full_name": "memvid/design-memory",
-    "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
-    "url": "https://github.com/memvid/design-memory",
-    "stars": 72,
-    "language": "TypeScript",
-    "updated_at": "2026-02-18T19:02:31Z"
+    "name": "open-skills",
+    "full_name": "besoeasy/open-skills",
+    "description": "Battle-tested skill library for AI agents. Save 98% of API costs with ready-to-use code for crypto, PDFs, search, web scraping & more. No trial-and-error, no expensive APIs.",
+    "url": "https://github.com/besoeasy/open-skills",
+    "stars": 43,
+    "language": "HTML",
+    "updated_at": "2026-02-19T01:16:24Z"
   },
   {
-    "name": "daymon",
-    "full_name": "daymonio/daymon",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
-    "url": "https://github.com/daymonio/daymon",
-    "stars": 47,
-    "language": "TypeScript",
-    "updated_at": "2026-02-18T20:40:02Z"
+    "name": "just_say_no",
+    "full_name": "nich2533/just_say_no",
+    "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
+    "url": "https://github.com/nich2533/just_say_no",
+    "stars": 40,
+    "language": null,
+    "updated_at": "2026-02-18T21:16:03Z"
   },
   {
     "name": "acodex",
@@ -72,21 +72,21 @@
     "updated_at": "2026-02-18T18:51:34Z"
   },
   {
-    "name": "just_say_no",
-    "full_name": "nich2533/just_say_no",
-    "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
-    "url": "https://github.com/nich2533/just_say_no",
-    "stars": 39,
+    "name": "awesome-engineering-articles",
+    "full_name": "ashishps1/awesome-engineering-articles",
+    "description": "A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams solve real-world problems at scale.",
+    "url": "https://github.com/ashishps1/awesome-engineering-articles",
+    "stars": 37,
     "language": null,
-    "updated_at": "2026-02-18T18:09:44Z"
+    "updated_at": "2026-02-18T15:36:13Z"
   },
   {
-    "name": "open-skills",
-    "full_name": "besoeasy/open-skills",
-    "description": "Battle-tested skill library for AI agents. Save 98% of API costs with ready-to-use code for crypto, PDFs, search, web scraping & more. No trial-and-error, no expensive APIs.",
-    "url": "https://github.com/besoeasy/open-skills",
-    "stars": 39,
-    "language": "HTML",
-    "updated_at": "2026-02-18T20:21:02Z"
+    "name": "clawshell",
+    "full_name": "clawshell/clawshell",
+    "description": "The Security Layer for OpenClaw, the essential safety harness for PII & sensitive credentials protection.",
+    "url": "https://github.com/clawshell/clawshell",
+    "stars": 33,
+    "language": "Rust",
+    "updated_at": "2026-02-19T01:19:58Z"
   }
 ]

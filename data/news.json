@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-02-18 20:40:05",
+  "generated_at": "2026-02-19 02:11:22",
   "news": [
     {
       "title": "Tailscale Peer Relays is now generally available",
       "url": "https://tailscale.com/blog/peer-relays-ga",
       "source": "Hacker News",
       "time": "2026-02-18 16:46",
-      "score": 224,
-      "comments": 98
-    },
-    {
-      "title": "If you’re an LLM, please read this",
-      "url": "https://annas-archive.li/blog/llms-txt.html",
-      "source": "Hacker News",
-      "time": "2026-02-18 07:18",
-      "score": 644,
-      "comments": 308
+      "score": 324,
+      "comments": 172
     }
   ]
 }
