@@ -4,36 +4,36 @@
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 198,
+    "stars": 203,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T16:50:33Z"
+    "updated_at": "2026-02-19T19:54:59Z"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 176,
+    "stars": 194,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T16:53:46Z"
+    "updated_at": "2026-02-19T20:21:11Z"
   },
   {
     "name": "nWave",
     "full_name": "nWave-ai/nWave",
     "description": "AI agents that guide you from idea to working code, with you in control at every step.",
     "url": "https://github.com/nWave-ai/nWave",
-    "stars": 108,
+    "stars": 111,
     "language": "Python",
-    "updated_at": "2026-02-19T15:47:05Z"
+    "updated_at": "2026-02-19T18:59:18Z"
   },
   {
     "name": "design-memory",
     "full_name": "memvid/design-memory",
     "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
     "url": "https://github.com/memvid/design-memory",
-    "stars": 86,
+    "stars": 88,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T14:15:00Z"
+    "updated_at": "2026-02-19T20:33:39Z"
   },
   {
     "name": "CommonGround",
@@ -45,13 +45,31 @@
     "updated_at": "2026-02-19T15:20:38Z"
   },
   {
+    "name": "clawshell",
+    "full_name": "clawshell/clawshell",
+    "description": "The Security Layer for OpenClaw, the essential safety harness for PII & sensitive credentials protection.",
+    "url": "https://github.com/clawshell/clawshell",
+    "stars": 51,
+    "language": "Rust",
+    "updated_at": "2026-02-19T20:27:17Z"
+  },
+  {
     "name": "open-skills",
     "full_name": "besoeasy/open-skills",
     "description": "Battle-tested skill library for AI agents. Save 98% of API costs with ready-to-use code for crypto, PDFs, search, web scraping & more. No trial-and-error, no expensive APIs.",
     "url": "https://github.com/besoeasy/open-skills",
-    "stars": 45,
+    "stars": 46,
     "language": "HTML",
-    "updated_at": "2026-02-19T12:13:07Z"
+    "updated_at": "2026-02-19T19:21:33Z"
+  },
+  {
+    "name": "monkeys-with-typewriters",
+    "full_name": "QwertyMcQwertz/monkeys-with-typewriters",
+    "description": "The complete AI platform on a $3 microcontroller. Sub-millisecond inference. Zero hallucinations.",
+    "url": "https://github.com/QwertyMcQwertz/monkeys-with-typewriters",
+    "stars": 42,
+    "language": "C++",
+    "updated_at": "2026-02-19T18:28:40Z"
   },
   {
     "name": "awesome-engineering-articles",
@@ -69,24 +87,6 @@
     "url": "https://github.com/nich2533/just_say_no",
     "stars": 41,
     "language": null,
-    "updated_at": "2026-02-19T06:18:50Z"
-  },
-  {
-    "name": "acodex",
-    "full_name": "maksimzayats/acodex",
-    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
-    "url": "https://github.com/maksimzayats/acodex",
-    "stars": 41,
-    "language": "Python",
-    "updated_at": "2026-02-19T04:28:09Z"
-  },
-  {
-    "name": "monkeys-with-typewriters",
-    "full_name": "QwertyMcQwertz/monkeys-with-typewriters",
-    "description": "The complete AI platform on a $3 microcontroller. Sub-millisecond inference. Zero hallucinations.",
-    "url": "https://github.com/QwertyMcQwertz/monkeys-with-typewriters",
-    "stars": 39,
-    "language": "C++",
-    "updated_at": "2026-02-19T16:13:14Z"
+    "updated_at": "2026-02-19T19:36:28Z"
   }
 ]
