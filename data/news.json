@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-20 16:39:49",
+  "generated_at": "2026-02-20 20:33:25",
   "news": [
     {
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "Hacker News",
       "time": "2026-02-20 13:51",
-      "score": 309,
-      "comments": 67
+      "score": 549,
+      "comments": 127
     },
     {
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "url": "https://www.anthropic.com/news/claude-code-security",
       "source": "Hacker News",
-      "time": "2026-02-20 10:32",
-      "score": 452,
-      "comments": 283
+      "time": "2026-02-20 18:03",
+      "score": 55,
+      "comments": 21
     }
   ]
 }
