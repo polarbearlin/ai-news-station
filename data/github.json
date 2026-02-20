@@ -4,36 +4,36 @@
     "full_name": "nullclaw/nullclaw",
     "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
     "url": "https://github.com/nullclaw/nullclaw",
-    "stars": 871,
+    "stars": 933,
     "language": "Zig",
-    "updated_at": "2026-02-20T05:14:12Z"
+    "updated_at": "2026-02-20T08:36:18Z"
   },
   {
     "name": "evmbench",
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 221,
+    "stars": 228,
     "language": "TypeScript",
-    "updated_at": "2026-02-20T05:13:19Z"
+    "updated_at": "2026-02-20T08:23:16Z"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 209,
+    "stars": 216,
     "language": "TypeScript",
-    "updated_at": "2026-02-20T04:50:55Z"
+    "updated_at": "2026-02-20T08:19:44Z"
   },
   {
     "name": "design-memory",
     "full_name": "memvid/design-memory",
     "description": "Extract and reproduce design systems from any website using deterministic analysis and LLM interpretation.",
     "url": "https://github.com/memvid/design-memory",
-    "stars": 88,
+    "stars": 89,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T20:33:39Z"
+    "updated_at": "2026-02-20T05:17:20Z"
   },
   {
     "name": "CommonGround",
@@ -49,9 +49,18 @@
     "full_name": "0xtresser/OpenCode-Book",
     "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
     "url": "https://github.com/0xtresser/OpenCode-Book",
-    "stars": 47,
+    "stars": 52,
     "language": null,
-    "updated_at": "2026-02-20T04:57:27Z"
+    "updated_at": "2026-02-20T08:24:03Z"
+  },
+  {
+    "name": "OpenClaw-Book",
+    "full_name": "0xtresser/OpenClaw-Book",
+    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
+    "url": "https://github.com/0xtresser/OpenClaw-Book",
+    "stars": 49,
+    "language": null,
+    "updated_at": "2026-02-20T08:29:04Z"
   },
   {
     "name": "monkeys-with-typewriters",
@@ -63,6 +72,15 @@
     "updated_at": "2026-02-20T01:59:57Z"
   },
   {
+    "name": "acodex",
+    "full_name": "maksimzayats/acodex",
+    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
+    "url": "https://github.com/maksimzayats/acodex",
+    "stars": 42,
+    "language": "Python",
+    "updated_at": "2026-02-20T08:18:24Z"
+  },
+  {
     "name": "awesome-engineering-articles",
     "full_name": "ashishps1/awesome-engineering-articles",
     "description": "A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams solve real-world problems at scale.",
@@ -70,23 +88,5 @@
     "stars": 41,
     "language": null,
     "updated_at": "2026-02-19T11:21:37Z"
-  },
-  {
-    "name": "acodex",
-    "full_name": "maksimzayats/acodex",
-    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
-    "url": "https://github.com/maksimzayats/acodex",
-    "stars": 41,
-    "language": "Python",
-    "updated_at": "2026-02-19T04:28:09Z"
-  },
-  {
-    "name": "OpenClaw-Book",
-    "full_name": "0xtresser/OpenClaw-Book",
-    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
-    "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 38,
-    "language": null,
-    "updated_at": "2026-02-20T05:05:53Z"
   }
 ]

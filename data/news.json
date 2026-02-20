@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-02-20 05:16:12",
+  "generated_at": "2026-02-20 08:41:13",
   "news": [
     {
-      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "title": "Defer available in gcc and clang",
+      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
       "source": "Hacker News",
-      "time": "2026-02-20 01:28",
-      "score": 130,
-      "comments": 50
-    },
-    {
-      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "source": "Hacker News",
-      "time": "2026-02-20 03:05",
-      "score": 206,
-      "comments": 139
+      "time": "2026-02-16 05:27",
+      "score": 113,
+      "comments": 54
     },
     {
       "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
       "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
       "source": "Hacker News",
       "time": "2026-02-20 04:15",
-      "score": 9,
-      "comments": 0
+      "score": 79,
+      "comments": 21
     },
     {
-      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "title": "Pi for Excel: AI sidebar add-in for Excel",
       "url": "https://github.com/tmustier/pi-for-excel",
       "source": "Hacker News",
       "time": "2026-02-20 02:20",
-      "score": 25,
-      "comments": 3
+      "score": 61,
+      "comments": 9
+    },
+    {
+      "title": "AI is not a coworker, it's an exoskeleton",
+      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "source": "Hacker News",
+      "time": "2026-02-19 19:55",
+      "score": 211,
+      "comments": 222
+    },
+    {
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "source": "Hacker News",
+      "time": "2026-02-20 03:05",
+      "score": 344,
+      "comments": 279
     }
   ]
 }
