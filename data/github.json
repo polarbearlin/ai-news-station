@@ -4,27 +4,27 @@
     "full_name": "nullclaw/nullclaw",
     "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
     "url": "https://github.com/nullclaw/nullclaw",
-    "stars": 817,
+    "stars": 871,
     "language": "Zig",
-    "updated_at": "2026-02-20T02:05:13Z"
+    "updated_at": "2026-02-20T05:14:12Z"
   },
   {
     "name": "evmbench",
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 214,
+    "stars": 221,
     "language": "TypeScript",
-    "updated_at": "2026-02-20T02:03:03Z"
+    "updated_at": "2026-02-20T05:13:19Z"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 206,
+    "stars": 209,
     "language": "TypeScript",
-    "updated_at": "2026-02-20T01:54:00Z"
+    "updated_at": "2026-02-20T04:50:55Z"
   },
   {
     "name": "design-memory",
@@ -40,9 +40,18 @@
     "full_name": "Intelligent-Internet/CommonGround",
     "description": "The Sociotechnical OS for Multi-Agent Collaboration",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
-    "stars": 77,
+    "stars": 78,
     "language": "Python",
-    "updated_at": "2026-02-19T15:20:38Z"
+    "updated_at": "2026-02-20T04:02:51Z"
+  },
+  {
+    "name": "OpenCode-Book",
+    "full_name": "0xtresser/OpenCode-Book",
+    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
+    "url": "https://github.com/0xtresser/OpenCode-Book",
+    "stars": 47,
+    "language": null,
+    "updated_at": "2026-02-20T04:57:27Z"
   },
   {
     "name": "monkeys-with-typewriters",
@@ -72,21 +81,12 @@
     "updated_at": "2026-02-19T04:28:09Z"
   },
   {
-    "name": "OpenCode-Book",
-    "full_name": "0xtresser/OpenCode-Book",
-    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
-    "url": "https://github.com/0xtresser/OpenCode-Book",
-    "stars": 40,
+    "name": "OpenClaw-Book",
+    "full_name": "0xtresser/OpenClaw-Book",
+    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
+    "url": "https://github.com/0xtresser/OpenClaw-Book",
+    "stars": 38,
     "language": null,
-    "updated_at": "2026-02-20T01:46:39Z"
-  },
-  {
-    "name": "laravel-markdown-response",
-    "full_name": "spatie/laravel-markdown-response",
-    "description": "Serve markdown versions of your HTML pages to AI agents and bots",
-    "url": "https://github.com/spatie/laravel-markdown-response",
-    "stars": 37,
-    "language": "PHP",
-    "updated_at": "2026-02-19T19:54:50Z"
+    "updated_at": "2026-02-20T05:05:53Z"
   }
 ]
