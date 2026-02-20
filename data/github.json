@@ -1,30 +1,30 @@
 [
   {
+    "name": "nullclaw",
+    "full_name": "nullclaw/nullclaw",
+    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+    "url": "https://github.com/nullclaw/nullclaw",
+    "stars": 817,
+    "language": "Zig",
+    "updated_at": "2026-02-20T02:05:13Z"
+  },
+  {
     "name": "evmbench",
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 203,
+    "stars": 214,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T19:54:59Z"
+    "updated_at": "2026-02-20T02:03:03Z"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 194,
+    "stars": 206,
     "language": "TypeScript",
-    "updated_at": "2026-02-19T20:21:11Z"
-  },
-  {
-    "name": "nWave",
-    "full_name": "nWave-ai/nWave",
-    "description": "AI agents that guide you from idea to working code, with you in control at every step.",
-    "url": "https://github.com/nWave-ai/nWave",
-    "stars": 111,
-    "language": "Python",
-    "updated_at": "2026-02-19T18:59:18Z"
+    "updated_at": "2026-02-20T01:54:00Z"
   },
   {
     "name": "design-memory",
@@ -45,31 +45,13 @@
     "updated_at": "2026-02-19T15:20:38Z"
   },
   {
-    "name": "clawshell",
-    "full_name": "clawshell/clawshell",
-    "description": "The Security Layer for OpenClaw, the essential safety harness for PII & sensitive credentials protection.",
-    "url": "https://github.com/clawshell/clawshell",
-    "stars": 51,
-    "language": "Rust",
-    "updated_at": "2026-02-19T20:27:17Z"
-  },
-  {
-    "name": "open-skills",
-    "full_name": "besoeasy/open-skills",
-    "description": "Battle-tested skill library for AI agents. Save 98% of API costs with ready-to-use code for crypto, PDFs, search, web scraping & more. No trial-and-error, no expensive APIs.",
-    "url": "https://github.com/besoeasy/open-skills",
-    "stars": 46,
-    "language": "HTML",
-    "updated_at": "2026-02-19T19:21:33Z"
-  },
-  {
     "name": "monkeys-with-typewriters",
     "full_name": "QwertyMcQwertz/monkeys-with-typewriters",
     "description": "The complete AI platform on a $3 microcontroller. Sub-millisecond inference. Zero hallucinations.",
     "url": "https://github.com/QwertyMcQwertz/monkeys-with-typewriters",
-    "stars": 42,
+    "stars": 44,
     "language": "C++",
-    "updated_at": "2026-02-19T18:28:40Z"
+    "updated_at": "2026-02-20T01:59:57Z"
   },
   {
     "name": "awesome-engineering-articles",
@@ -81,12 +63,30 @@
     "updated_at": "2026-02-19T11:21:37Z"
   },
   {
-    "name": "just_say_no",
-    "full_name": "nich2533/just_say_no",
-    "description": "Altered state slash commands for Claude Code. 12 substance-themed personality modes that change how Claude approaches your tasks.",
-    "url": "https://github.com/nich2533/just_say_no",
+    "name": "acodex",
+    "full_name": "maksimzayats/acodex",
+    "description": "Typed Python SDK for the Codex CLI (sync/async, streaming JSONL events, structured items)",
+    "url": "https://github.com/maksimzayats/acodex",
     "stars": 41,
+    "language": "Python",
+    "updated_at": "2026-02-19T04:28:09Z"
+  },
+  {
+    "name": "OpenCode-Book",
+    "full_name": "0xtresser/OpenCode-Book",
+    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
+    "url": "https://github.com/0xtresser/OpenCode-Book",
+    "stars": 40,
     "language": null,
-    "updated_at": "2026-02-19T19:36:28Z"
+    "updated_at": "2026-02-20T01:46:39Z"
+  },
+  {
+    "name": "laravel-markdown-response",
+    "full_name": "spatie/laravel-markdown-response",
+    "description": "Serve markdown versions of your HTML pages to AI agents and bots",
+    "url": "https://github.com/spatie/laravel-markdown-response",
+    "stars": 37,
+    "language": "PHP",
+    "updated_at": "2026-02-19T19:54:50Z"
   }
 ]
