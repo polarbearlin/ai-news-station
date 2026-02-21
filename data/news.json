@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-21 02:01:54",
+  "generated_at": "2026-02-21 05:05:24",
   "news": [
     {
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "Hacker News",
       "time": "2026-02-20 13:51",
-      "score": 663,
-      "comments": 163
+      "score": 693,
+      "comments": 173
     },
     {
       "title": "Cord: Coordinating Trees of AI Agents",
       "url": "https://www.june.kim/cord",
       "source": "Hacker News",
       "time": "2026-02-21 01:27",
-      "score": 8,
-      "comments": 0
+      "score": 48,
+      "comments": 16
     }
   ]
 }
