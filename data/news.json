@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-21 05:05:24",
+  "generated_at": "2026-02-21 08:32:13",
   "news": [
     {
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "Hacker News",
       "time": "2026-02-20 13:51",
-      "score": 693,
-      "comments": 173
+      "score": 726,
+      "comments": 180
     },
     {
-      "title": "Cord: Coordinating Trees of AI Agents",
-      "url": "https://www.june.kim/cord",
+      "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+      "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
       "source": "Hacker News",
-      "time": "2026-02-21 01:27",
-      "score": 48,
-      "comments": 16
+      "time": "2026-02-17 12:58",
+      "score": 8,
+      "comments": 1
     }
   ]
 }
