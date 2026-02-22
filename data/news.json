@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-22 05:15:44",
+  "generated_at": "2026-02-22 08:34:19",
   "news": [
     {
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "url": "https://github.com/tnm/zclaw",
+      "title": "How Taalas \"prints\" LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
       "source": "Hacker News",
-      "time": "2026-02-21 12:37",
-      "score": 134,
-      "comments": 76
+      "time": "2026-02-21 19:07",
+      "score": 91,
+      "comments": 41
     }
   ]
 }
