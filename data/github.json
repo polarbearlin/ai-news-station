@@ -4,18 +4,18 @@
     "full_name": "Leonxlnx/taste-skill",
     "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
     "url": "https://github.com/Leonxlnx/taste-skill",
-    "stars": 745,
+    "stars": 824,
     "language": null,
-    "updated_at": "2026-02-23T13:04:36Z"
+    "updated_at": "2026-02-23T16:57:49Z"
   },
   {
     "name": "room",
     "full_name": "quoroom-ai/room",
     "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
     "url": "https://github.com/quoroom-ai/room",
-    "stars": 327,
+    "stars": 339,
     "language": "TypeScript",
-    "updated_at": "2026-02-23T13:05:33Z"
+    "updated_at": "2026-02-23T16:13:14Z"
   },
   {
     "name": "evmbench",
@@ -31,18 +31,18 @@
     "full_name": "jkudish/librarium",
     "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel",
     "url": "https://github.com/jkudish/librarium",
-    "stars": 89,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-02-23T09:01:10Z"
+    "updated_at": "2026-02-23T16:12:25Z"
   },
   {
     "name": "OpenClaw-Book",
     "full_name": "0xtresser/OpenClaw-Book",
     "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
     "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 80,
+    "stars": 83,
     "language": null,
-    "updated_at": "2026-02-23T12:39:06Z"
+    "updated_at": "2026-02-23T14:29:01Z"
   },
   {
     "name": "OpenCode-Book",
@@ -69,7 +69,7 @@
     "url": "https://github.com/bolivian-peru/os-moda",
     "stars": 57,
     "language": "Rust",
-    "updated_at": "2026-02-23T13:01:24Z"
+    "updated_at": "2026-02-23T13:23:55Z"
   },
   {
     "name": "claudleak",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-22T13:51:46Z"
   },
   {
-    "name": "Makimus-AI",
-    "full_name": "Ubaida-M-Yusuf/Makimus-AI",
-    "description": "Local AI-powered image search — find images using natural language or image queries",
-    "url": "https://github.com/Ubaida-M-Yusuf/Makimus-AI",
-    "stars": 48,
+    "name": "sqlmap-skynet",
+    "full_name": "drcrypterdotru/sqlmap-skynet",
+    "description": "SQLMap with Autonomous AI, phased workflows, RAG memory, and MCP Agent Tools",
+    "url": "https://github.com/drcrypterdotru/sqlmap-skynet",
+    "stars": 51,
     "language": "Python",
-    "updated_at": "2026-02-22T10:57:16Z"
+    "updated_at": "2026-02-23T16:04:01Z"
   }
 ]
