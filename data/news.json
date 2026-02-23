@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-23 02:12:24",
+  "generated_at": "2026-02-23 05:25:27",
   "news": [
+    {
+      "title": "How to train your program verifier",
+      "url": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
+      "source": "Hacker News",
+      "time": "2026-02-18 21:10",
+      "score": 22,
+      "comments": 2
+    },
     {
       "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
       "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
       "source": "Hacker News",
       "time": "2026-02-22 23:07",
-      "score": 256,
-      "comments": 198
+      "score": 448,
+      "comments": 352
     },
     {
-      "title": "The surprising power of daily rituals",
-      "url": "https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress",
+      "title": "Aqua: A CLI message tool for AI agents",
+      "url": "https://github.com/quailyquaily/aqua",
       "source": "Hacker News",
-      "time": "2026-02-23 01:23",
-      "score": 10,
-      "comments": 6
+      "time": "2026-02-23 02:07",
+      "score": 27,
+      "comments": 14
     }
   ]
 }
