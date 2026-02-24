@@ -4,45 +4,45 @@
     "full_name": "Leonxlnx/taste-skill",
     "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
     "url": "https://github.com/Leonxlnx/taste-skill",
-    "stars": 989,
+    "stars": 1035,
     "language": null,
-    "updated_at": "2026-02-24T05:18:27Z"
+    "updated_at": "2026-02-24T08:49:41Z"
   },
   {
     "name": "room",
     "full_name": "quoroom-ai/room",
     "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
     "url": "https://github.com/quoroom-ai/room",
-    "stars": 366,
+    "stars": 368,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T05:15:23Z"
+    "updated_at": "2026-02-24T07:20:06Z"
   },
   {
     "name": "evmbench",
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 293,
+    "stars": 297,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T02:48:07Z"
+    "updated_at": "2026-02-24T07:41:52Z"
   },
   {
     "name": "free-coding-models",
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 268,
+    "stars": 277,
     "language": "JavaScript",
-    "updated_at": "2026-02-24T05:12:07Z"
+    "updated_at": "2026-02-24T08:33:28Z"
   },
   {
     "name": "librarium",
     "full_name": "jkudish/librarium",
     "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel",
     "url": "https://github.com/jkudish/librarium",
-    "stars": 100,
+    "stars": 101,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T03:58:58Z"
+    "updated_at": "2026-02-24T08:08:24Z"
   },
   {
     "name": "OpenClaw-Book",
@@ -63,30 +63,30 @@
     "updated_at": "2026-02-22T03:45:17Z"
   },
   {
-    "name": "tornado",
-    "full_name": "mizchi/tornado",
-    "description": "Review by codex, develop by claude-code",
-    "url": "https://github.com/mizchi/tornado",
-    "stars": 59,
-    "language": "MoonBit",
-    "updated_at": "2026-02-23T23:34:59Z"
-  },
-  {
     "name": "os-moda",
     "full_name": "bolivian-peru/os-moda",
     "description": "Your server fixes itself at 3am. You sleep. AI-native operating system built on NixOS.",
     "url": "https://github.com/bolivian-peru/os-moda",
-    "stars": 58,
+    "stars": 59,
     "language": "Rust",
-    "updated_at": "2026-02-23T23:38:02Z"
+    "updated_at": "2026-02-24T06:41:02Z"
+  },
+  {
+    "name": "tornado",
+    "full_name": "mizchi/tornado",
+    "description": "Review by codex, develop by claude-code",
+    "url": "https://github.com/mizchi/tornado",
+    "stars": 58,
+    "language": "MoonBit",
+    "updated_at": "2026-02-24T07:41:11Z"
   },
   {
     "name": "sqlmap-skynet",
     "full_name": "drcrypterdotru/sqlmap-skynet",
     "description": "SQLMap with Autonomous AI, phased workflows, RAG memory, and MCP Agent Tools",
     "url": "https://github.com/drcrypterdotru/sqlmap-skynet",
-    "stars": 52,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-02-23T18:21:24Z"
+    "updated_at": "2026-02-24T07:20:27Z"
   }
 ]
