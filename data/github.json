@@ -4,54 +4,54 @@
     "full_name": "Leonxlnx/taste-skill",
     "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
     "url": "https://github.com/Leonxlnx/taste-skill",
-    "stars": 944,
+    "stars": 989,
     "language": null,
-    "updated_at": "2026-02-24T02:09:14Z"
+    "updated_at": "2026-02-24T05:18:27Z"
   },
   {
     "name": "room",
     "full_name": "quoroom-ai/room",
     "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
     "url": "https://github.com/quoroom-ai/room",
-    "stars": 361,
+    "stars": 366,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T01:59:35Z"
+    "updated_at": "2026-02-24T05:15:23Z"
   },
   {
     "name": "evmbench",
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 291,
+    "stars": 293,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T01:27:15Z"
+    "updated_at": "2026-02-24T02:48:07Z"
   },
   {
     "name": "free-coding-models",
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 256,
+    "stars": 268,
     "language": "JavaScript",
-    "updated_at": "2026-02-24T02:00:06Z"
+    "updated_at": "2026-02-24T05:12:07Z"
   },
   {
     "name": "librarium",
     "full_name": "jkudish/librarium",
     "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel",
     "url": "https://github.com/jkudish/librarium",
-    "stars": 98,
+    "stars": 100,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T01:14:28Z"
+    "updated_at": "2026-02-24T03:58:58Z"
   },
   {
     "name": "OpenClaw-Book",
     "full_name": "0xtresser/OpenClaw-Book",
     "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
     "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 83,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-02-24T01:34:12Z"
+    "updated_at": "2026-02-24T05:21:27Z"
   },
   {
     "name": "OpenCode-Book",

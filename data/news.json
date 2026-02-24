@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-24 02:09:21",
+  "generated_at": "2026-02-24 05:21:39",
   "news": [
     {
-      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
-      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
       "source": "Hacker News",
-      "time": "2026-02-23 21:44",
-      "score": 253,
-      "comments": 199
+      "time": "2026-02-24 00:38",
+      "score": 65,
+      "comments": 9
     },
     {
       "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
       "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
       "source": "Hacker News",
       "time": "2026-02-23 22:11",
-      "score": 48,
-      "comments": 30
+      "score": 110,
+      "comments": 56
     }
   ]
 }
