@@ -4,36 +4,36 @@
     "full_name": "Leonxlnx/taste-skill",
     "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
     "url": "https://github.com/Leonxlnx/taste-skill",
-    "stars": 1035,
+    "stars": 1147,
     "language": null,
-    "updated_at": "2026-02-24T08:49:41Z"
+    "updated_at": "2026-02-24T13:05:41Z"
   },
   {
     "name": "room",
     "full_name": "quoroom-ai/room",
     "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
     "url": "https://github.com/quoroom-ai/room",
-    "stars": 368,
+    "stars": 370,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T07:20:06Z"
+    "updated_at": "2026-02-24T13:01:56Z"
   },
   {
     "name": "evmbench",
     "full_name": "paradigmxyz/evmbench",
     "description": "A benchmark and harness for finding and exploiting smart contract bugs",
     "url": "https://github.com/paradigmxyz/evmbench",
-    "stars": 297,
+    "stars": 300,
     "language": "TypeScript",
-    "updated_at": "2026-02-24T07:41:52Z"
+    "updated_at": "2026-02-24T11:06:47Z"
   },
   {
     "name": "free-coding-models",
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 277,
+    "stars": 284,
     "language": "JavaScript",
-    "updated_at": "2026-02-24T08:33:28Z"
+    "updated_at": "2026-02-24T13:06:19Z"
   },
   {
     "name": "librarium",
@@ -49,18 +49,27 @@
     "full_name": "0xtresser/OpenClaw-Book",
     "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
     "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 85,
+    "stars": 87,
     "language": null,
-    "updated_at": "2026-02-24T05:21:27Z"
+    "updated_at": "2026-02-24T12:24:49Z"
   },
   {
     "name": "OpenCode-Book",
     "full_name": "0xtresser/OpenCode-Book",
     "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
     "url": "https://github.com/0xtresser/OpenCode-Book",
-    "stars": 66,
+    "stars": 67,
     "language": null,
-    "updated_at": "2026-02-22T03:45:17Z"
+    "updated_at": "2026-02-24T09:05:42Z"
+  },
+  {
+    "name": "openclaw-nerve",
+    "full_name": "daggerhashimoto/openclaw-nerve",
+    "description": "Self-hosted web UI for AI agents — voice chat, live workspace editing, charts, cron scheduling. Built for OpenClaw.",
+    "url": "https://github.com/daggerhashimoto/openclaw-nerve",
+    "stars": 63,
+    "language": "TypeScript",
+    "updated_at": "2026-02-24T12:29:04Z"
   },
   {
     "name": "os-moda",
@@ -79,14 +88,5 @@
     "stars": 58,
     "language": "MoonBit",
     "updated_at": "2026-02-24T07:41:11Z"
-  },
-  {
-    "name": "sqlmap-skynet",
-    "full_name": "drcrypterdotru/sqlmap-skynet",
-    "description": "SQLMap with Autonomous AI, phased workflows, RAG memory, and MCP Agent Tools",
-    "url": "https://github.com/drcrypterdotru/sqlmap-skynet",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-02-24T07:20:27Z"
   }
 ]
