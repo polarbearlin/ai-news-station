@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-02-23 20:44:42",
-  "news": []
+  "generated_at": "2026-02-24 02:09:21",
+  "news": [
+    {
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "source": "Hacker News",
+      "time": "2026-02-23 21:44",
+      "score": 253,
+      "comments": 199
+    },
+    {
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "source": "Hacker News",
+      "time": "2026-02-23 22:11",
+      "score": 48,
+      "comments": 30
+    }
+  ]
 }
