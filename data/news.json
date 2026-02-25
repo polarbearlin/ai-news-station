@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-02-25 17:08:11",
+  "generated_at": "2026-02-25 20:37:03",
   "news": [
     {
-      "title": "Never Buy A .online Domain",
-      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
       "source": "Hacker News",
-      "time": "2026-02-25 13:31",
-      "score": 428,
-      "comments": 228
+      "time": "2026-02-24 17:18",
+      "score": 103,
+      "comments": 117
     },
     {
-      "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+      "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+      "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
       "source": "Hacker News",
-      "time": "2026-02-25 17:02",
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "title": "Show HN: A real-time strategy game that AI agents can play",
-      "url": "https://llmskirmish.com/",
-      "source": "Hacker News",
-      "time": "2026-02-25 10:02",
-      "score": 157,
-      "comments": 56
+      "time": "2026-02-25 13:07",
+      "score": 117,
+      "comments": 134
     }
   ]
 }
