@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-25 13:06:27",
+  "generated_at": "2026-02-25 17:08:11",
   "news": [
+    {
+      "title": "Never Buy A .online Domain",
+      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "source": "Hacker News",
+      "time": "2026-02-25 13:31",
+      "score": 428,
+      "comments": 228
+    },
+    {
+      "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+      "source": "Hacker News",
+      "time": "2026-02-25 17:02",
+      "score": 1,
+      "comments": 0
+    },
     {
       "title": "Show HN: A real-time strategy game that AI agents can play",
       "url": "https://llmskirmish.com/",
       "source": "Hacker News",
       "time": "2026-02-25 10:02",
-      "score": 81,
-      "comments": 27
-    },
-    {
-      "title": "LLM=True",
-      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
-      "source": "Hacker News",
-      "time": "2026-02-25 09:05",
-      "score": 137,
-      "comments": 90
-    },
-    {
-      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "source": "Hacker News",
-      "time": "2026-02-24 22:46",
-      "score": 259,
-      "comments": 105
+      "score": 157,
+      "comments": 56
     }
   ]
 }
