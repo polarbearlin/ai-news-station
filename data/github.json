@@ -4,18 +4,18 @@
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 357,
+    "stars": 365,
     "language": "JavaScript",
-    "updated_at": "2026-02-26T01:56:54Z"
+    "updated_at": "2026-02-26T04:28:26Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 135,
+    "stars": 159,
     "language": "Python",
-    "updated_at": "2026-02-26T02:03:35Z"
+    "updated_at": "2026-02-26T05:18:41Z"
   },
   {
     "name": "librarium",
@@ -49,9 +49,18 @@
     "full_name": "proximasan/tadpole-studio",
     "description": "Easy to use AI music generation UI for local models with QoL features",
     "url": "https://github.com/proximasan/tadpole-studio",
-    "stars": 52,
+    "stars": 53,
     "language": "TypeScript",
-    "updated_at": "2026-02-26T00:31:12Z"
+    "updated_at": "2026-02-26T03:37:29Z"
+  },
+  {
+    "name": "idea-reality-mcp",
+    "full_name": "mnemox-ai/idea-reality-mcp",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
+    "url": "https://github.com/mnemox-ai/idea-reality-mcp",
+    "stars": 52,
+    "language": "Python",
+    "updated_at": "2026-02-26T05:08:18Z"
   },
   {
     "name": "AI-Voice-Changer-Real-Time-2026",
@@ -63,30 +72,21 @@
     "updated_at": "2026-02-25T15:47:46Z"
   },
   {
-    "name": "idea-reality-mcp",
-    "full_name": "mnemox-ai/idea-reality-mcp",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
-    "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 36,
-    "language": "Python",
-    "updated_at": "2026-02-26T01:58:00Z"
-  },
-  {
     "name": "author",
     "full_name": "YuanShiJiLoong/author",
     "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
     "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 31,
+    "stars": 32,
     "language": "JavaScript",
-    "updated_at": "2026-02-26T02:01:51Z"
+    "updated_at": "2026-02-26T04:01:38Z"
   },
   {
     "name": "MacClaw",
     "full_name": "itsnex1s/MacClaw",
     "description": "Raycast-style macOS client for OpenClaw",
     "url": "https://github.com/itsnex1s/MacClaw",
-    "stars": 27,
+    "stars": 28,
     "language": "TypeScript",
-    "updated_at": "2026-02-25T16:10:36Z"
+    "updated_at": "2026-02-26T03:09:04Z"
   }
 ]
