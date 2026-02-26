@@ -1,30 +1,21 @@
 [
   {
-    "name": "taste-skill",
-    "full_name": "Leonxlnx/taste-skill",
-    "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "stars": 1554,
-    "language": null,
-    "updated_at": "2026-02-25T20:16:37Z"
-  },
-  {
-    "name": "room",
-    "full_name": "quoroom-ai/room",
-    "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
-    "url": "https://github.com/quoroom-ai/room",
-    "stars": 415,
-    "language": "TypeScript",
-    "updated_at": "2026-02-25T20:03:03Z"
-  },
-  {
     "name": "free-coding-models",
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 346,
+    "stars": 357,
     "language": "JavaScript",
-    "updated_at": "2026-02-25T20:33:58Z"
+    "updated_at": "2026-02-26T01:56:54Z"
+  },
+  {
+    "name": "PersonalStyleAI-Framework-",
+    "full_name": "whyzhow/PersonalStyleAI-Framework-",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
+    "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
+    "stars": 135,
+    "language": "Python",
+    "updated_at": "2026-02-26T02:03:35Z"
   },
   {
     "name": "librarium",
@@ -36,57 +27,66 @@
     "updated_at": "2026-02-25T05:32:50Z"
   },
   {
-    "name": "PersonalStyleAI-Framework-",
-    "full_name": "whyzhow/PersonalStyleAI-Framework-",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
-    "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 96,
-    "language": "Python",
-    "updated_at": "2026-02-25T20:36:33Z"
-  },
-  {
-    "name": "OpenClaw-Book",
-    "full_name": "0xtresser/OpenClaw-Book",
-    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
-    "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 95,
-    "language": null,
-    "updated_at": "2026-02-25T11:52:56Z"
-  },
-  {
-    "name": "openclaw-nerve",
-    "full_name": "daggerhashimoto/openclaw-nerve",
-    "description": "Self-hosted web UI for AI agents — voice chat, live workspace editing, charts, cron scheduling. Built for OpenClaw.",
-    "url": "https://github.com/daggerhashimoto/openclaw-nerve",
-    "stars": 89,
-    "language": "TypeScript",
-    "updated_at": "2026-02-25T18:25:52Z"
-  },
-  {
-    "name": "OpenCode-Book",
-    "full_name": "0xtresser/OpenCode-Book",
-    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
-    "url": "https://github.com/0xtresser/OpenCode-Book",
-    "stars": 67,
-    "language": null,
-    "updated_at": "2026-02-24T09:05:42Z"
-  },
-  {
-    "name": "sqlmap-skynet",
-    "full_name": "drcrypterdotru/sqlmap-skynet",
-    "description": "SQLMap with Autonomous AI, phased workflows, RAG memory, and MCP Agent Tools",
-    "url": "https://github.com/drcrypterdotru/sqlmap-skynet",
-    "stars": 65,
-    "language": "Python",
-    "updated_at": "2026-02-25T19:46:19Z"
-  },
-  {
     "name": "os-moda",
     "full_name": "bolivian-peru/os-moda",
     "description": "Your server fixes itself at 3am. You sleep. AI-native operating system built on NixOS.",
     "url": "https://github.com/bolivian-peru/os-moda",
-    "stars": 63,
+    "stars": 65,
     "language": "Rust",
-    "updated_at": "2026-02-25T18:04:48Z"
+    "updated_at": "2026-02-26T01:52:27Z"
+  },
+  {
+    "name": "tornado",
+    "full_name": "mizchi/tornado",
+    "description": "Review by codex, develop by claude-code",
+    "url": "https://github.com/mizchi/tornado",
+    "stars": 60,
+    "language": "MoonBit",
+    "updated_at": "2026-02-25T05:28:19Z"
+  },
+  {
+    "name": "tadpole-studio",
+    "full_name": "proximasan/tadpole-studio",
+    "description": "Easy to use AI music generation UI for local models with QoL features",
+    "url": "https://github.com/proximasan/tadpole-studio",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-02-26T00:31:12Z"
+  },
+  {
+    "name": "AI-Voice-Changer-Real-Time-2026",
+    "full_name": "MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
+    "description": "AI Voice-Changer Real-Time 2026 is advanced AI voice changer software powered by deep learning and neural networks for real-time voice transformation. Perfect for streaming, gaming, Discord, Zoom, and content creation, it offers low latency, HD audio quality, custom voice effects, and GPU acceleration for professional voice modulation",
+    "url": "https://github.com/MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
+    "stars": 44,
+    "language": "C++",
+    "updated_at": "2026-02-25T15:47:46Z"
+  },
+  {
+    "name": "idea-reality-mcp",
+    "full_name": "mnemox-ai/idea-reality-mcp",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
+    "url": "https://github.com/mnemox-ai/idea-reality-mcp",
+    "stars": 36,
+    "language": "Python",
+    "updated_at": "2026-02-26T01:58:00Z"
+  },
+  {
+    "name": "author",
+    "full_name": "YuanShiJiLoong/author",
+    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
+    "url": "https://github.com/YuanShiJiLoong/author",
+    "stars": 31,
+    "language": "JavaScript",
+    "updated_at": "2026-02-26T02:01:51Z"
+  },
+  {
+    "name": "MacClaw",
+    "full_name": "itsnex1s/MacClaw",
+    "description": "Raycast-style macOS client for OpenClaw",
+    "url": "https://github.com/itsnex1s/MacClaw",
+    "stars": 27,
+    "language": "TypeScript",
+    "updated_at": "2026-02-25T16:10:36Z"
   }
 ]
