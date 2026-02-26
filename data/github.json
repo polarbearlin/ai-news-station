@@ -4,18 +4,18 @@
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 365,
+    "stars": 371,
     "language": "JavaScript",
-    "updated_at": "2026-02-26T04:28:26Z"
+    "updated_at": "2026-02-26T08:32:42Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 159,
+    "stars": 183,
     "language": "Python",
-    "updated_at": "2026-02-26T05:18:41Z"
+    "updated_at": "2026-02-26T08:42:13Z"
   },
   {
     "name": "librarium",
@@ -25,6 +25,15 @@
     "stars": 104,
     "language": "TypeScript",
     "updated_at": "2026-02-25T05:32:50Z"
+  },
+  {
+    "name": "idea-reality-mcp",
+    "full_name": "mnemox-ai/idea-reality-mcp",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
+    "url": "https://github.com/mnemox-ai/idea-reality-mcp",
+    "stars": 66,
+    "language": "Python",
+    "updated_at": "2026-02-26T08:47:18Z"
   },
   {
     "name": "os-moda",
@@ -54,15 +63,6 @@
     "updated_at": "2026-02-26T03:37:29Z"
   },
   {
-    "name": "idea-reality-mcp",
-    "full_name": "mnemox-ai/idea-reality-mcp",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
-    "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 52,
-    "language": "Python",
-    "updated_at": "2026-02-26T05:08:18Z"
-  },
-  {
     "name": "AI-Voice-Changer-Real-Time-2026",
     "full_name": "MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
     "description": "AI Voice-Changer Real-Time 2026 is advanced AI voice changer software powered by deep learning and neural networks for real-time voice transformation. Perfect for streaming, gaming, Discord, Zoom, and content creation, it offers low latency, HD audio quality, custom voice effects, and GPU acceleration for professional voice modulation",
@@ -76,17 +76,17 @@
     "full_name": "YuanShiJiLoong/author",
     "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
     "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 32,
+    "stars": 33,
     "language": "JavaScript",
-    "updated_at": "2026-02-26T04:01:38Z"
+    "updated_at": "2026-02-26T08:28:01Z"
   },
   {
-    "name": "MacClaw",
-    "full_name": "itsnex1s/MacClaw",
-    "description": "Raycast-style macOS client for OpenClaw",
-    "url": "https://github.com/itsnex1s/MacClaw",
+    "name": "mcpshim",
+    "full_name": "mcpshim/mcpshim",
+    "description": "Turn remote MCP servers into local command workflows.",
+    "url": "https://github.com/mcpshim/mcpshim",
     "stars": 28,
-    "language": "TypeScript",
-    "updated_at": "2026-02-26T03:09:04Z"
+    "language": "Go",
+    "updated_at": "2026-02-26T07:37:48Z"
   }
 ]
