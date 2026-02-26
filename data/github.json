@@ -4,18 +4,27 @@
     "full_name": "vava-nessa/free-coding-models",
     "description": "Find the fastest coding LLM models in seconds",
     "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 371,
+    "stars": 377,
     "language": "JavaScript",
-    "updated_at": "2026-02-26T08:32:42Z"
+    "updated_at": "2026-02-26T11:49:31Z"
+  },
+  {
+    "name": "safepilot",
+    "full_name": "3DCF-Labs/safepilot",
+    "description": "AI assistant that executes real work, safely.",
+    "url": "https://github.com/3DCF-Labs/safepilot",
+    "stars": 368,
+    "language": "Rust",
+    "updated_at": "2026-02-26T12:50:46Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 183,
+    "stars": 222,
     "language": "Python",
-    "updated_at": "2026-02-26T08:42:13Z"
+    "updated_at": "2026-02-26T13:04:39Z"
   },
   {
     "name": "librarium",
@@ -31,9 +40,9 @@
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 66,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-02-26T08:47:18Z"
+    "updated_at": "2026-02-26T13:02:25Z"
   },
   {
     "name": "os-moda",
@@ -42,7 +51,7 @@
     "url": "https://github.com/bolivian-peru/os-moda",
     "stars": 65,
     "language": "Rust",
-    "updated_at": "2026-02-26T01:52:27Z"
+    "updated_at": "2026-02-26T11:45:56Z"
   },
   {
     "name": "tornado",
@@ -72,21 +81,12 @@
     "updated_at": "2026-02-25T15:47:46Z"
   },
   {
-    "name": "author",
-    "full_name": "YuanShiJiLoong/author",
-    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
-    "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 33,
-    "language": "JavaScript",
-    "updated_at": "2026-02-26T08:28:01Z"
-  },
-  {
-    "name": "mcpshim",
-    "full_name": "mcpshim/mcpshim",
-    "description": "Turn remote MCP servers into local command workflows.",
-    "url": "https://github.com/mcpshim/mcpshim",
-    "stars": 28,
-    "language": "Go",
-    "updated_at": "2026-02-26T07:37:48Z"
+    "name": "LazyGravity",
+    "full_name": "tokyoweb3/LazyGravity",
+    "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
+    "url": "https://github.com/tokyoweb3/LazyGravity",
+    "stars": 38,
+    "language": "TypeScript",
+    "updated_at": "2026-02-26T12:38:25Z"
   }
 ]
