@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-02-27 16:41:18",
+  "generated_at": "2026-02-27 20:28:40",
   "news": [
     {
-      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
       "source": "Hacker News",
-      "time": "2026-02-27 15:14",
-      "score": 35,
-      "comments": 23
-    },
-    {
-      "title": "We gave terabytes of CI logs to an LLM",
-      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "source": "Hacker News",
-      "time": "2026-02-27 15:41",
-      "score": 21,
-      "comments": 13
-    },
-    {
-      "title": "The Pentagon is making a mistake by threatening Anthropic",
-      "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-      "source": "Hacker News",
-      "time": "2026-02-27 15:08",
-      "score": 28,
-      "comments": 16
-    },
-    {
-      "title": "Can you reverse engineer our neural network?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "source": "Hacker News",
-      "time": "2026-02-25 02:20",
-      "score": 185,
-      "comments": 114
+      "time": "2026-02-27 14:56",
+      "score": 92,
+      "comments": 132
     }
   ]
 }
