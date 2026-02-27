@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-02-27 05:14:36",
+  "generated_at": "2026-02-27 08:41:32",
   "news": [
-    {
-      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
-      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-      "source": "Hacker News",
-      "time": "2026-02-27 03:08",
-      "score": 153,
-      "comments": 60
-    },
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "source": "Hacker News",
       "time": "2026-02-26 15:55",
-      "score": 334,
-      "comments": 161
+      "score": 352,
+      "comments": 164
     }
   ]
 }
