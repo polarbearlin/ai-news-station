@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-27 02:05:44",
+  "generated_at": "2026-02-27 05:14:36",
   "news": [
+    {
+      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "source": "Hacker News",
+      "time": "2026-02-27 03:08",
+      "score": 153,
+      "comments": 60
+    },
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "source": "Hacker News",
       "time": "2026-02-26 15:55",
-      "score": 318,
-      "comments": 158
-    },
-    {
-      "title": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
-      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
-      "source": "Hacker News",
-      "time": "2026-02-27 01:18",
-      "score": 1,
-      "comments": 0
+      "score": 334,
+      "comments": 161
     }
   ]
 }

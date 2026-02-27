@@ -4,27 +4,27 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 376,
+    "stars": 377,
     "language": "Rust",
-    "updated_at": "2026-02-27T00:55:47Z"
+    "updated_at": "2026-02-27T03:32:39Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 298,
+    "stars": 314,
     "language": "Python",
-    "updated_at": "2026-02-27T02:00:47Z"
+    "updated_at": "2026-02-27T05:09:07Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 140,
+    "stars": 152,
     "language": "Python",
-    "updated_at": "2026-02-27T02:03:06Z"
+    "updated_at": "2026-02-27T05:04:26Z"
   },
   {
     "name": "tadpole-studio",
@@ -45,6 +45,15 @@
     "updated_at": "2026-02-25T15:47:46Z"
   },
   {
+    "name": "LazyGravity",
+    "full_name": "tokyoweb3/LazyGravity",
+    "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
+    "url": "https://github.com/tokyoweb3/LazyGravity",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-02-27T03:56:42Z"
+  },
+  {
     "name": "Rust-International-2026",
     "full_name": "supermetalgold37xca/Rust-International-2026",
     "description": "Rust | Rust Internal | Rust External | Rust 2026 | ESP | Aim | ",
@@ -54,39 +63,30 @@
     "updated_at": "2026-02-26T15:10:33Z"
   },
   {
-    "name": "LazyGravity",
-    "full_name": "tokyoweb3/LazyGravity",
-    "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
-    "url": "https://github.com/tokyoweb3/LazyGravity",
-    "stars": 43,
+    "name": "tailclaude",
+    "full_name": "rohitg00/tailclaude",
+    "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
+    "url": "https://github.com/rohitg00/tailclaude",
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-02-26T22:11:54Z"
+    "updated_at": "2026-02-27T03:31:55Z"
   },
   {
     "name": "mcpshim",
     "full_name": "mcpshim/mcpshim",
     "description": "Turn remote MCP servers into local command workflows.",
     "url": "https://github.com/mcpshim/mcpshim",
-    "stars": 40,
+    "stars": 41,
     "language": "Go",
-    "updated_at": "2026-02-26T19:17:41Z"
+    "updated_at": "2026-02-27T03:53:50Z"
   },
   {
     "name": "author",
     "full_name": "YuanShiJiLoong/author",
     "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
     "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 38,
+    "stars": 39,
     "language": "JavaScript",
-    "updated_at": "2026-02-27T01:31:08Z"
-  },
-  {
-    "name": "tailclaude",
-    "full_name": "rohitg00/tailclaude",
-    "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
-    "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-02-27T00:50:07Z"
+    "updated_at": "2026-02-27T02:12:49Z"
   }
 ]
