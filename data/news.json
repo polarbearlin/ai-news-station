@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-02-26 20:38:50",
+  "generated_at": "2026-02-27 02:05:44",
   "news": [
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "source": "Hacker News",
       "time": "2026-02-26 15:55",
-      "score": 250,
-      "comments": 124
+      "score": 318,
+      "comments": 158
     },
     {
-      "title": "Nano Banana 2: Google's latest AI image generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "title": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
+      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
       "source": "Hacker News",
-      "time": "2026-02-26 16:02",
-      "score": 372,
-      "comments": 364
+      "time": "2026-02-27 01:18",
+      "score": 1,
+      "comments": 0
     }
   ]
 }

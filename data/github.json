@@ -1,66 +1,30 @@
 [
   {
-    "name": "free-coding-models",
-    "full_name": "vava-nessa/free-coding-models",
-    "description": "Find the fastest coding LLM models in seconds",
-    "url": "https://github.com/vava-nessa/free-coding-models",
-    "stars": 390,
-    "language": "JavaScript",
-    "updated_at": "2026-02-26T20:26:31Z"
-  },
-  {
     "name": "safepilot",
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 374,
+    "stars": 376,
     "language": "Rust",
-    "updated_at": "2026-02-26T20:34:08Z"
+    "updated_at": "2026-02-27T00:55:47Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 263,
+    "stars": 298,
     "language": "Python",
-    "updated_at": "2026-02-26T20:26:04Z"
+    "updated_at": "2026-02-27T02:00:47Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal.",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 117,
+    "stars": 140,
     "language": "Python",
-    "updated_at": "2026-02-26T20:19:19Z"
-  },
-  {
-    "name": "librarium",
-    "full_name": "jkudish/librarium",
-    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel",
-    "url": "https://github.com/jkudish/librarium",
-    "stars": 104,
-    "language": "TypeScript",
-    "updated_at": "2026-02-25T05:32:50Z"
-  },
-  {
-    "name": "os-moda",
-    "full_name": "bolivian-peru/os-moda",
-    "description": "Your server fixes itself at 3am. You sleep. AI-native operating system built on NixOS.",
-    "url": "https://github.com/bolivian-peru/os-moda",
-    "stars": 65,
-    "language": "Rust",
-    "updated_at": "2026-02-26T11:45:56Z"
-  },
-  {
-    "name": "tornado",
-    "full_name": "mizchi/tornado",
-    "description": "Review by codex, develop by claude-code",
-    "url": "https://github.com/mizchi/tornado",
-    "stars": 60,
-    "language": "MoonBit",
-    "updated_at": "2026-02-25T05:28:19Z"
+    "updated_at": "2026-02-27T02:03:06Z"
   },
   {
     "name": "tadpole-studio",
@@ -88,5 +52,41 @@
     "stars": 43,
     "language": null,
     "updated_at": "2026-02-26T15:10:33Z"
+  },
+  {
+    "name": "LazyGravity",
+    "full_name": "tokyoweb3/LazyGravity",
+    "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
+    "url": "https://github.com/tokyoweb3/LazyGravity",
+    "stars": 43,
+    "language": "TypeScript",
+    "updated_at": "2026-02-26T22:11:54Z"
+  },
+  {
+    "name": "mcpshim",
+    "full_name": "mcpshim/mcpshim",
+    "description": "Turn remote MCP servers into local command workflows.",
+    "url": "https://github.com/mcpshim/mcpshim",
+    "stars": 40,
+    "language": "Go",
+    "updated_at": "2026-02-26T19:17:41Z"
+  },
+  {
+    "name": "author",
+    "full_name": "YuanShiJiLoong/author",
+    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
+    "url": "https://github.com/YuanShiJiLoong/author",
+    "stars": 38,
+    "language": "JavaScript",
+    "updated_at": "2026-02-27T01:31:08Z"
+  },
+  {
+    "name": "tailclaude",
+    "full_name": "rohitg00/tailclaude",
+    "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
+    "url": "https://github.com/rohitg00/tailclaude",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-02-27T00:50:07Z"
   }
 ]
