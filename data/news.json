@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-27 08:41:32",
+  "generated_at": "2026-02-27 13:00:39",
   "news": [
     {
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "title": "Can you reverse engineer our neural network?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "source": "Hacker News",
-      "time": "2026-02-26 15:55",
-      "score": 352,
-      "comments": 164
+      "time": "2026-02-25 02:20",
+      "score": 77,
+      "comments": 15
     }
   ]
 }

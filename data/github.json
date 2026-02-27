@@ -4,45 +4,54 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 380,
+    "stars": 383,
     "language": "Rust",
-    "updated_at": "2026-02-27T08:18:39Z"
+    "updated_at": "2026-02-27T12:14:28Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 334,
+    "stars": 346,
     "language": "Python",
-    "updated_at": "2026-02-27T08:41:03Z"
+    "updated_at": "2026-02-27T12:38:14Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 155,
+    "stars": 167,
     "language": "Python",
-    "updated_at": "2026-02-27T07:50:32Z"
+    "updated_at": "2026-02-27T12:27:25Z"
   },
   {
     "name": "tadpole-studio",
     "full_name": "proximasan/tadpole-studio",
     "description": "Easy to use AI music generation UI for local models with QoL features",
     "url": "https://github.com/proximasan/tadpole-studio",
-    "stars": 54,
+    "stars": 55,
     "language": "TypeScript",
-    "updated_at": "2026-02-26T20:24:59Z"
+    "updated_at": "2026-02-27T12:50:52Z"
   },
   {
     "name": "LazyGravity",
     "full_name": "tokyoweb3/LazyGravity",
     "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
     "url": "https://github.com/tokyoweb3/LazyGravity",
-    "stars": 47,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-02-27T07:50:07Z"
+    "updated_at": "2026-02-27T12:02:11Z"
+  },
+  {
+    "name": "tailclaude",
+    "full_name": "rohitg00/tailclaude",
+    "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
+    "url": "https://github.com/rohitg00/tailclaude",
+    "stars": 45,
+    "language": "TypeScript",
+    "updated_at": "2026-02-27T11:07:03Z"
   },
   {
     "name": "AI-Voice-Changer-Real-Time-2026",
@@ -54,15 +63,6 @@
     "updated_at": "2026-02-25T15:47:46Z"
   },
   {
-    "name": "tailclaude",
-    "full_name": "rohitg00/tailclaude",
-    "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
-    "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 44,
-    "language": "TypeScript",
-    "updated_at": "2026-02-27T08:22:21Z"
-  },
-  {
     "name": "Rust-International-2026",
     "full_name": "supermetalgold37xca/Rust-International-2026",
     "description": "Rust | Rust Internal | Rust External | Rust 2026 | ESP | Aim | ",
@@ -72,6 +72,15 @@
     "updated_at": "2026-02-26T15:10:33Z"
   },
   {
+    "name": "author",
+    "full_name": "YuanShiJiLoong/author",
+    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
+    "url": "https://github.com/YuanShiJiLoong/author",
+    "stars": 42,
+    "language": "JavaScript",
+    "updated_at": "2026-02-27T10:44:50Z"
+  },
+  {
     "name": "mcpshim",
     "full_name": "mcpshim/mcpshim",
     "description": "Turn remote MCP servers into local command workflows.",
@@ -79,14 +88,5 @@
     "stars": 41,
     "language": "Go",
     "updated_at": "2026-02-27T03:53:50Z"
-  },
-  {
-    "name": "author",
-    "full_name": "YuanShiJiLoong/author",
-    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
-    "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 40,
-    "language": "JavaScript",
-    "updated_at": "2026-02-27T06:51:15Z"
   }
 ]
