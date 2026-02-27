@@ -4,27 +4,27 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 383,
+    "stars": 378,
     "language": "Rust",
-    "updated_at": "2026-02-27T12:14:28Z"
+    "updated_at": "2026-02-27T15:49:04Z"
   },
   {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 346,
+    "stars": 359,
     "language": "Python",
-    "updated_at": "2026-02-27T12:38:14Z"
+    "updated_at": "2026-02-27T16:27:49Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 167,
+    "stars": 172,
     "language": "Python",
-    "updated_at": "2026-02-27T12:27:25Z"
+    "updated_at": "2026-02-27T16:10:51Z"
   },
   {
     "name": "tadpole-studio",
@@ -40,18 +40,27 @@
     "full_name": "tokyoweb3/LazyGravity",
     "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
     "url": "https://github.com/tokyoweb3/LazyGravity",
-    "stars": 49,
+    "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-02-27T12:02:11Z"
+    "updated_at": "2026-02-27T13:44:18Z"
   },
   {
     "name": "tailclaude",
     "full_name": "rohitg00/tailclaude",
     "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
     "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 45,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-02-27T11:07:03Z"
+    "updated_at": "2026-02-27T16:09:38Z"
+  },
+  {
+    "name": "author",
+    "full_name": "YuanShiJiLoong/author",
+    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
+    "url": "https://github.com/YuanShiJiLoong/author",
+    "stars": 44,
+    "language": "JavaScript",
+    "updated_at": "2026-02-27T15:39:48Z"
   },
   {
     "name": "AI-Voice-Changer-Real-Time-2026",
@@ -70,15 +79,6 @@
     "stars": 43,
     "language": null,
     "updated_at": "2026-02-26T15:10:33Z"
-  },
-  {
-    "name": "author",
-    "full_name": "YuanShiJiLoong/author",
-    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
-    "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 42,
-    "language": "JavaScript",
-    "updated_at": "2026-02-27T10:44:50Z"
   },
   {
     "name": "mcpshim",
