@@ -4,18 +4,18 @@
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 410,
+    "stars": 428,
     "language": "Python",
-    "updated_at": "2026-02-28T04:38:37Z"
+    "updated_at": "2026-02-28T08:24:54Z"
   },
   {
     "name": "safepilot",
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 384,
+    "stars": 363,
     "language": "Rust",
-    "updated_at": "2026-02-28T04:55:24Z"
+    "updated_at": "2026-02-28T07:35:39Z"
   },
   {
     "name": "idea-reality-mcp",
@@ -24,7 +24,16 @@
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
     "stars": 195,
     "language": "Python",
-    "updated_at": "2026-02-28T02:42:40Z"
+    "updated_at": "2026-02-28T07:51:47Z"
+  },
+  {
+    "name": "ai-coding-for-beginners",
+    "full_name": "openmozi/ai-coding-for-beginners",
+    "description": "AI coding for beginners",
+    "url": "https://github.com/openmozi/ai-coding-for-beginners",
+    "stars": 73,
+    "language": null,
+    "updated_at": "2026-02-28T08:28:37Z"
   },
   {
     "name": "AimAssist",
@@ -45,22 +54,13 @@
     "updated_at": "2026-02-27T12:50:52Z"
   },
   {
-    "name": "ai-coding-for-beginners",
-    "full_name": "openmozi/ai-coding-for-beginners",
-    "description": "AI coding for beginners",
-    "url": "https://github.com/openmozi/ai-coding-for-beginners",
-    "stars": 51,
-    "language": null,
-    "updated_at": "2026-02-28T04:37:45Z"
-  },
-  {
     "name": "LazyGravity",
     "full_name": "tokyoweb3/LazyGravity",
     "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
     "url": "https://github.com/tokyoweb3/LazyGravity",
-    "stars": 51,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-02-28T03:13:30Z"
+    "updated_at": "2026-02-28T05:07:59Z"
   },
   {
     "name": "tailclaude",

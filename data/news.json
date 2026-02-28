@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-02-28 04:56:10",
+  "generated_at": "2026-02-28 08:30:29",
   "news": [
     {
-      "title": "Smallest transformer that can add two 10-digit numbers",
-      "url": "https://github.com/anadim/AdderBoard",
+      "title": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
       "source": "Hacker News",
-      "time": "2026-02-26 18:29",
-      "score": 105,
-      "comments": 34
+      "time": "2026-02-28 05:55",
+      "score": 570,
+      "comments": 143
+    },
+    {
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "source": "Hacker News",
+      "time": "2026-02-28 02:59",
+      "score": 534,
+      "comments": 283
     },
     {
       "title": "OpenAI raises $110B on $730B pre-money valuation",
       "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
       "source": "Hacker News",
       "time": "2026-02-27 14:56",
-      "score": 434,
-      "comments": 486
+      "score": 474,
+      "comments": 521
     }
   ]
 }
