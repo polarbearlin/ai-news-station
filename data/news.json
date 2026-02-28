@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-02-28 12:47:16",
+  "generated_at": "2026-02-28 16:27:43",
   "news": [
     {
-      "title": "OpenAI – How to delete your account",
-      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "title": "Don't trust AI agents",
+      "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
       "source": "Hacker News",
-      "time": "2026-02-28 10:41",
-      "score": 475,
-      "comments": 76
+      "time": "2026-02-28 12:39",
+      "score": 183,
+      "comments": 101
     },
     {
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
       "source": "Hacker News",
-      "time": "2026-02-28 02:59",
-      "score": 869,
-      "comments": 414
-    },
-    {
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "source": "Hacker News",
-      "time": "2026-02-27 14:56",
-      "score": 508,
-      "comments": 549
-    },
-    {
-      "title": "Smallest transformer that can add two 10-digit numbers",
-      "url": "https://github.com/anadim/AdderBoard",
-      "source": "Hacker News",
-      "time": "2026-02-26 18:29",
-      "score": 175,
-      "comments": 75
+      "time": "2026-02-28 13:46",
+      "score": 82,
+      "comments": 41
     }
   ]
 }
