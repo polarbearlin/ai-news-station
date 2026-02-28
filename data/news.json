@@ -1,21 +1,4 @@
 {
-  "generated_at": "2026-02-28 16:27:43",
-  "news": [
-    {
-      "title": "Don't trust AI agents",
-      "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
-      "source": "Hacker News",
-      "time": "2026-02-28 12:39",
-      "score": 183,
-      "comments": 101
-    },
-    {
-      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "source": "Hacker News",
-      "time": "2026-02-28 13:46",
-      "score": 82,
-      "comments": 41
-    }
-  ]
+  "generated_at": "2026-02-28 20:27:03",
+  "news": []
 }
