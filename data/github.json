@@ -4,36 +4,36 @@
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 428,
+    "stars": 447,
     "language": "Python",
-    "updated_at": "2026-02-28T08:24:54Z"
+    "updated_at": "2026-02-28T12:13:28Z"
   },
   {
     "name": "safepilot",
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 363,
+    "stars": 370,
     "language": "Rust",
-    "updated_at": "2026-02-28T07:35:39Z"
+    "updated_at": "2026-02-28T11:02:24Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 195,
+    "stars": 198,
     "language": "Python",
-    "updated_at": "2026-02-28T07:51:47Z"
+    "updated_at": "2026-02-28T10:59:21Z"
   },
   {
     "name": "ai-coding-for-beginners",
     "full_name": "openmozi/ai-coding-for-beginners",
     "description": "AI coding for beginners",
     "url": "https://github.com/openmozi/ai-coding-for-beginners",
-    "stars": 73,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-02-28T08:28:37Z"
+    "updated_at": "2026-02-28T12:01:01Z"
   },
   {
     "name": "AimAssist",
@@ -58,9 +58,9 @@
     "full_name": "tokyoweb3/LazyGravity",
     "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
     "url": "https://github.com/tokyoweb3/LazyGravity",
-    "stars": 52,
+    "stars": 53,
     "language": "TypeScript",
-    "updated_at": "2026-02-28T05:07:59Z"
+    "updated_at": "2026-02-28T09:52:15Z"
   },
   {
     "name": "tailclaude",
@@ -81,12 +81,12 @@
     "updated_at": "2026-02-25T15:47:46Z"
   },
   {
-    "name": "Rust-International-2026",
-    "full_name": "supermetalgold37xca/Rust-International-2026",
-    "description": "Rust | Rust Internal | Rust External | Rust 2026 | ESP | Aim | ",
-    "url": "https://github.com/supermetalgold37xca/Rust-International-2026",
-    "stars": 43,
-    "language": null,
-    "updated_at": "2026-02-26T15:10:33Z"
+    "name": "talkio",
+    "full_name": "llt22/talkio",
+    "description": "Local-first multi-AI group chat desktop app — pull GPT-4o, Claude, DeepSeek into one conversation. Tauri 2 + React 19.",
+    "url": "https://github.com/llt22/talkio",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-02-28T12:37:20Z"
   }
 ]
