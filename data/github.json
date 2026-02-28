@@ -1,30 +1,30 @@
 [
   {
-    "name": "safepilot",
-    "full_name": "3DCF-Labs/safepilot",
-    "description": "AI assistant that executes real work, safely.",
-    "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 380,
-    "language": "Rust",
-    "updated_at": "2026-02-27T19:54:19Z"
-  },
-  {
     "name": "PersonalStyleAI-Framework-",
     "full_name": "whyzhow/PersonalStyleAI-Framework-",
     "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
     "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 374,
+    "stars": 397,
     "language": "Python",
-    "updated_at": "2026-02-27T20:18:10Z"
+    "updated_at": "2026-02-28T01:46:17Z"
+  },
+  {
+    "name": "safepilot",
+    "full_name": "3DCF-Labs/safepilot",
+    "description": "AI assistant that executes real work, safely.",
+    "url": "https://github.com/3DCF-Labs/safepilot",
+    "stars": 383,
+    "language": "Rust",
+    "updated_at": "2026-02-28T01:50:35Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 179,
+    "stars": 192,
     "language": "Python",
-    "updated_at": "2026-02-27T20:02:31Z"
+    "updated_at": "2026-02-28T01:05:13Z"
   },
   {
     "name": "AimAssist",
@@ -51,16 +51,16 @@
     "url": "https://github.com/tokyoweb3/LazyGravity",
     "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-02-27T13:44:18Z"
+    "updated_at": "2026-02-28T01:50:44Z"
   },
   {
     "name": "tailclaude",
     "full_name": "rohitg00/tailclaude",
     "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
     "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 48,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-02-27T18:35:24Z"
+    "updated_at": "2026-02-27T21:50:48Z"
   },
   {
     "name": "AI-Voice-Changer-Real-Time-2026",
@@ -72,15 +72,6 @@
     "updated_at": "2026-02-25T15:47:46Z"
   },
   {
-    "name": "author",
-    "full_name": "YuanShiJiLoong/author",
-    "description": "AI-Powered Creative Writing Platform | AI驱动的网文/文学/剧本创作平台",
-    "url": "https://github.com/YuanShiJiLoong/author",
-    "stars": 44,
-    "language": "JavaScript",
-    "updated_at": "2026-02-27T18:28:43Z"
-  },
-  {
     "name": "Rust-International-2026",
     "full_name": "supermetalgold37xca/Rust-International-2026",
     "description": "Rust | Rust Internal | Rust External | Rust 2026 | ESP | Aim | ",
@@ -88,5 +79,14 @@
     "stars": 43,
     "language": null,
     "updated_at": "2026-02-26T15:10:33Z"
+  },
+  {
+    "name": "mcpshim",
+    "full_name": "mcpshim/mcpshim",
+    "description": "Turn remote MCP servers into local command workflows.",
+    "url": "https://github.com/mcpshim/mcpshim",
+    "stars": 41,
+    "language": "Go",
+    "updated_at": "2026-02-28T00:41:49Z"
   }
 ]
