@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-01 02:25:24",
+  "generated_at": "2026-03-01 05:17:31",
   "news": [
-    {
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "source": "Hacker News",
-      "time": "2026-02-28 21:24",
-      "score": 262,
-      "comments": 111
-    },
     {
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
       "source": "Hacker News",
       "time": "2026-03-01 01:39",
-      "score": 21,
-      "comments": 3
+      "score": 370,
+      "comments": 70
+    },
+    {
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "source": "Hacker News",
+      "time": "2026-02-28 21:24",
+      "score": 396,
+      "comments": 173
     }
   ]
 }
