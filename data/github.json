@@ -22,18 +22,27 @@
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 213,
+    "stars": 218,
     "language": "Python",
-    "updated_at": "2026-03-01T06:26:37Z"
+    "updated_at": "2026-03-01T12:25:33Z"
   },
   {
     "name": "ai-coding-for-beginners",
     "full_name": "openmozi/ai-coding-for-beginners",
     "description": "AI coding for beginners",
     "url": "https://github.com/openmozi/ai-coding-for-beginners",
-    "stars": 90,
+    "stars": 91,
     "language": null,
-    "updated_at": "2026-03-01T08:10:08Z"
+    "updated_at": "2026-03-01T10:13:05Z"
+  },
+  {
+    "name": "VibeGuard",
+    "full_name": "inkdust2021/VibeGuard",
+    "description": "VibeGuard, prevents you from leaking your privacy while vibecoding, letting you vibecode with peace of mind.",
+    "url": "https://github.com/inkdust2021/VibeGuard",
+    "stars": 71,
+    "language": "Go",
+    "updated_at": "2026-03-01T12:08:33Z"
   },
   {
     "name": "AimAssist",
@@ -45,22 +54,13 @@
     "updated_at": "2026-02-28T14:58:24Z"
   },
   {
-    "name": "VibeGuard",
-    "full_name": "inkdust2021/VibeGuard",
-    "description": "VibeGuard, prevents you from leaking your privacy while vibecoding, letting you vibecode with peace of mind.",
-    "url": "https://github.com/inkdust2021/VibeGuard",
-    "stars": 69,
-    "language": "Go",
-    "updated_at": "2026-03-01T07:48:57Z"
-  },
-  {
     "name": "LazyGravity",
     "full_name": "tokyoweb3/LazyGravity",
     "description": "LazyGravity is a local, secure Discord Bot that lets you remotely operate Antigravity on your home PC — from your smartphone's Discord app, anywhere.",
     "url": "https://github.com/tokyoweb3/LazyGravity",
-    "stars": 66,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-03-01T08:01:25Z"
+    "updated_at": "2026-03-01T11:24:46Z"
   },
   {
     "name": "tadpole-studio",
@@ -76,9 +76,9 @@
     "full_name": "rohitg00/tailclaude",
     "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
     "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 53,
+    "stars": 55,
     "language": "TypeScript",
-    "updated_at": "2026-03-01T05:57:22Z"
+    "updated_at": "2026-03-01T09:35:52Z"
   },
   {
     "name": "antigravity-superpowers",
