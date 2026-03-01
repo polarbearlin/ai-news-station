@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-03-01 05:17:31",
+  "generated_at": "2026-03-01 08:32:09",
   "news": [
     {
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
       "source": "Hacker News",
       "time": "2026-03-01 01:39",
-      "score": 370,
-      "comments": 70
+      "score": 690,
+      "comments": 115
+    },
+    {
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "source": "Hacker News",
+      "time": "2026-03-01 07:35",
+      "score": 15,
+      "comments": 1
     },
     {
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
       "source": "Hacker News",
       "time": "2026-02-28 21:24",
-      "score": 396,
-      "comments": 173
+      "score": 503,
+      "comments": 239
     }
   ]
 }
