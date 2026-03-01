@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-03-01 16:29:29",
+  "generated_at": "2026-03-01 20:28:02",
   "news": [
-    {
-      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-      "source": "Hacker News",
-      "time": "2026-03-01 14:09",
-      "score": 236,
-      "comments": 159
-    },
     {
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
       "source": "Hacker News",
       "time": "2026-03-01 01:39",
-      "score": 1297,
-      "comments": 224
+      "score": 1527,
+      "comments": 271
     },
     {
-      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "title": "Microgpt explained interactively",
+      "url": "https://growingswe.com/blog/microgpt",
       "source": "Hacker News",
-      "time": "2026-03-01 11:49",
-      "score": 234,
-      "comments": 156
+      "time": "2026-03-01 09:43",
+      "score": 16,
+      "comments": 1
+    },
+    {
+      "title": "Python Type Checker Comparison: Empty Container Inference",
+      "url": "https://pyrefly.org/blog/container-inference-comparison/",
+      "source": "Hacker News",
+      "time": "2026-02-25 13:45",
+      "score": 30,
+      "comments": 14
+    },
+    {
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "source": "Hacker News",
+      "time": "2026-02-28 21:24",
+      "score": 744,
+      "comments": 409
     }
   ]
 }
