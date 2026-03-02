@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-03-02 08:47:39",
+  "generated_at": "2026-03-02 13:00:08",
   "news": [
     {
       "title": "If AI writes code, should the session be part of the commit?",
       "url": "https://github.com/mandel-macaque/memento",
       "source": "Hacker News",
       "time": "2026-03-02 00:27",
-      "score": 216,
-      "comments": 223
-    },
-    {
-      "title": "WebMCP is available for early preview",
-      "url": "https://developer.chrome.com/blog/webmcp-epp",
-      "source": "Hacker News",
-      "time": "2026-03-01 22:13",
-      "score": 272,
-      "comments": 154
-    },
-    {
-      "title": "Evolving descriptive text of mental content from human brain activity",
-      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-      "source": "Hacker News",
-      "time": "2026-03-02 05:39",
-      "score": 19,
-      "comments": 9
-    },
-    {
-      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "source": "Hacker News",
-      "time": "2026-03-01 23:15",
-      "score": 122,
-      "comments": 29
+      "score": 317,
+      "comments": 297
     }
   ]
 }

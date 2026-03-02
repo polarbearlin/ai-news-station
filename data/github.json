@@ -22,9 +22,18 @@
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 231,
+    "stars": 233,
     "language": "Python",
-    "updated_at": "2026-03-02T06:22:13Z"
+    "updated_at": "2026-03-02T11:40:00Z"
+  },
+  {
+    "name": "DeepSeek-Claw",
+    "full_name": "TriangleMagistrate/DeepSeek-Claw",
+    "description": null,
+    "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
+    "stars": 133,
+    "language": "Shell",
+    "updated_at": "2026-03-02T12:50:37Z"
   },
   {
     "name": "ai-coding-for-beginners",
@@ -34,15 +43,6 @@
     "stars": 94,
     "language": null,
     "updated_at": "2026-03-02T06:39:08Z"
-  },
-  {
-    "name": "DeepSeek-Claw",
-    "full_name": "TriangleMagistrate/DeepSeek-Claw",
-    "description": null,
-    "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 75,
-    "language": "Shell",
-    "updated_at": "2026-03-02T08:39:30Z"
   },
   {
     "name": "VibeGuard",
@@ -76,17 +76,17 @@
     "full_name": "skainguyen1412/antigravity-superpowers",
     "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
     "url": "https://github.com/skainguyen1412/antigravity-superpowers",
-    "stars": 57,
+    "stars": 58,
     "language": "JavaScript",
-    "updated_at": "2026-03-02T06:01:36Z"
+    "updated_at": "2026-03-02T12:57:12Z"
   },
   {
     "name": "cli-jaw",
     "full_name": "lidge-jun/cli-jaw",
     "description": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
     "url": "https://github.com/lidge-jun/cli-jaw",
-    "stars": 48,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-03-01T17:54:42Z"
+    "updated_at": "2026-03-02T08:49:25Z"
   }
 ]
