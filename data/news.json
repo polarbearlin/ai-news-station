@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-03-02 16:50:26",
+  "generated_at": "2026-03-02 20:38:42",
   "news": [
     {
-      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
-      "url": "https://github.com/anthropics/claude-code/issues/22543",
-      "source": "Hacker News",
-      "time": "2026-03-02 14:21",
-      "score": 218,
-      "comments": 93
-    },
-    {
-      "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
       "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
       "source": "Hacker News",
       "time": "2026-03-02 14:54",
-      "score": 47,
-      "comments": 5
+      "score": 180,
+      "comments": 18
+    },
+    {
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "source": "Hacker News",
+      "time": "2026-03-02 14:11",
+      "score": 225,
+      "comments": 367
+    },
+    {
+      "title": "A case for Go as the best language for AI agents",
+      "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+      "source": "Hacker News",
+      "time": "2026-03-02 18:48",
+      "score": 77,
+      "comments": 105
     }
   ]
 }

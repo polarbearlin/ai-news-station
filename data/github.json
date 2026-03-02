@@ -13,27 +13,27 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 378,
+    "stars": 379,
     "language": "Rust",
-    "updated_at": "2026-03-02T16:36:43Z"
+    "updated_at": "2026-03-02T18:22:02Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 236,
+    "stars": 238,
     "language": "Python",
-    "updated_at": "2026-03-02T16:05:03Z"
+    "updated_at": "2026-03-02T18:22:23Z"
   },
   {
     "name": "DeepSeek-Claw",
     "full_name": "TriangleMagistrate/DeepSeek-Claw",
     "description": null,
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 180,
+    "stars": 186,
     "language": "Shell",
-    "updated_at": "2026-03-02T16:32:31Z"
+    "updated_at": "2026-03-02T17:58:56Z"
   },
   {
     "name": "ai-coding-for-beginners",
@@ -63,6 +63,15 @@
     "updated_at": "2026-02-28T14:58:24Z"
   },
   {
+    "name": "antigravity-superpowers",
+    "full_name": "skainguyen1412/antigravity-superpowers",
+    "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
+    "url": "https://github.com/skainguyen1412/antigravity-superpowers",
+    "stars": 61,
+    "language": "JavaScript",
+    "updated_at": "2026-03-02T20:07:54Z"
+  },
+  {
     "name": "tailclaude",
     "full_name": "rohitg00/tailclaude",
     "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-03-02T14:49:43Z"
   },
   {
-    "name": "antigravity-superpowers",
-    "full_name": "skainguyen1412/antigravity-superpowers",
-    "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
-    "url": "https://github.com/skainguyen1412/antigravity-superpowers",
+    "name": "OpenAnt",
+    "full_name": "knostic/OpenAnt",
+    "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
+    "url": "https://github.com/knostic/OpenAnt",
     "stars": 58,
-    "language": "JavaScript",
-    "updated_at": "2026-03-02T12:57:12Z"
-  },
-  {
-    "name": "cli-jaw",
-    "full_name": "lidge-jun/cli-jaw",
-    "description": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
-    "url": "https://github.com/lidge-jun/cli-jaw",
-    "stars": 49,
-    "language": "TypeScript",
-    "updated_at": "2026-03-02T08:49:25Z"
+    "language": "Python",
+    "updated_at": "2026-03-02T20:35:39Z"
   }
 ]
