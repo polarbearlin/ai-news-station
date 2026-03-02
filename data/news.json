@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-03-01 20:28:02",
+  "generated_at": "2026-03-02 02:09:01",
   "news": [
     {
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
       "source": "Hacker News",
-      "time": "2026-03-01 01:39",
-      "score": 1527,
-      "comments": 271
+      "time": "2026-03-01 22:13",
+      "score": 121,
+      "comments": 78
     },
     {
       "title": "Microgpt explained interactively",
       "url": "https://growingswe.com/blog/microgpt",
       "source": "Hacker News",
       "time": "2026-03-01 09:43",
-      "score": 16,
-      "comments": 1
-    },
-    {
-      "title": "Python Type Checker Comparison: Empty Container Inference",
-      "url": "https://pyrefly.org/blog/container-inference-comparison/",
-      "source": "Hacker News",
-      "time": "2026-02-25 13:45",
-      "score": 30,
-      "comments": 14
-    },
-    {
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "source": "Hacker News",
-      "time": "2026-02-28 21:24",
-      "score": 744,
-      "comments": 409
+      "score": 195,
+      "comments": 29
     }
   ]
 }
