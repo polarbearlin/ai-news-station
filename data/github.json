@@ -15,25 +15,25 @@
     "url": "https://github.com/3DCF-Labs/safepilot",
     "stars": 378,
     "language": "Rust",
-    "updated_at": "2026-03-01T18:49:06Z"
+    "updated_at": "2026-03-02T16:36:43Z"
   },
   {
     "name": "idea-reality-mcp",
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 233,
+    "stars": 236,
     "language": "Python",
-    "updated_at": "2026-03-02T11:40:00Z"
+    "updated_at": "2026-03-02T16:05:03Z"
   },
   {
     "name": "DeepSeek-Claw",
     "full_name": "TriangleMagistrate/DeepSeek-Claw",
     "description": null,
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 133,
+    "stars": 180,
     "language": "Shell",
-    "updated_at": "2026-03-02T12:50:37Z"
+    "updated_at": "2026-03-02T16:32:31Z"
   },
   {
     "name": "ai-coding-for-beginners",
@@ -67,9 +67,9 @@
     "full_name": "rohitg00/tailclaude",
     "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
     "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 59,
+    "stars": 60,
     "language": "TypeScript",
-    "updated_at": "2026-03-01T15:54:04Z"
+    "updated_at": "2026-03-02T14:49:43Z"
   },
   {
     "name": "antigravity-superpowers",

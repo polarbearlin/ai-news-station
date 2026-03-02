@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-02 13:00:08",
+  "generated_at": "2026-03-02 16:50:26",
   "news": [
     {
-      "title": "If AI writes code, should the session be part of the commit?",
-      "url": "https://github.com/mandel-macaque/memento",
+      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "url": "https://github.com/anthropics/claude-code/issues/22543",
       "source": "Hacker News",
-      "time": "2026-03-02 00:27",
-      "score": 317,
-      "comments": 297
+      "time": "2026-03-02 14:21",
+      "score": 218,
+      "comments": 93
+    },
+    {
+      "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "source": "Hacker News",
+      "time": "2026-03-02 14:54",
+      "score": 47,
+      "comments": 5
     }
   ]
 }
