@@ -22,18 +22,18 @@
     "full_name": "mnemox-ai/idea-reality-mcp",
     "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
     "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 226,
+    "stars": 230,
     "language": "Python",
-    "updated_at": "2026-03-02T02:06:31Z"
+    "updated_at": "2026-03-02T05:13:22Z"
   },
   {
     "name": "ai-coding-for-beginners",
-    "full_name": "openmozi/ai-coding-for-beginners",
+    "full_name": "oujingzhou/ai-coding-for-beginners",
     "description": "AI coding for beginners",
-    "url": "https://github.com/openmozi/ai-coding-for-beginners",
-    "stars": 92,
+    "url": "https://github.com/oujingzhou/ai-coding-for-beginners",
+    "stars": 93,
     "language": null,
-    "updated_at": "2026-03-02T01:14:01Z"
+    "updated_at": "2026-03-02T04:49:41Z"
   },
   {
     "name": "VibeGuard",
@@ -67,9 +67,9 @@
     "full_name": "skainguyen1412/antigravity-superpowers",
     "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
     "url": "https://github.com/skainguyen1412/antigravity-superpowers",
-    "stars": 55,
+    "stars": 56,
     "language": "JavaScript",
-    "updated_at": "2026-03-02T01:25:55Z"
+    "updated_at": "2026-03-02T03:43:15Z"
   },
   {
     "name": "cli-jaw",
