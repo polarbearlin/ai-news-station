@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-03-03 02:10:32",
+  "generated_at": "2026-03-03 05:14:19",
   "news": [
+    {
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "source": "Hacker News",
+      "time": "2026-03-03 01:12",
+      "score": 89,
+      "comments": 42
+    },
     {
       "title": "New iPad Air, powered by M4",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
       "source": "Hacker News",
       "time": "2026-03-02 14:11",
-      "score": 325,
-      "comments": 523
+      "score": 351,
+      "comments": 560
+    },
+    {
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "source": "Hacker News",
+      "time": "2026-03-02 14:54",
+      "score": 273,
+      "comments": 50
     }
   ]
 }
