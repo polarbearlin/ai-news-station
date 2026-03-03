@@ -4,9 +4,9 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 384,
+    "stars": 385,
     "language": "Rust",
-    "updated_at": "2026-03-03T13:52:08Z"
+    "updated_at": "2026-03-03T20:25:09Z"
   },
   {
     "name": "lovable-openclaw",
@@ -31,9 +31,18 @@
     "full_name": "knostic/OpenAnt",
     "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
     "url": "https://github.com/knostic/OpenAnt",
-    "stars": 105,
+    "stars": 106,
     "language": "Python",
-    "updated_at": "2026-03-03T15:57:03Z"
+    "updated_at": "2026-03-03T18:51:28Z"
+  },
+  {
+    "name": "openclaw-kapso-whatsapp",
+    "full_name": "Enriquefft/openclaw-kapso-whatsapp",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+    "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+    "stars": 100,
+    "language": "Go",
+    "updated_at": "2026-03-03T20:14:19Z"
   },
   {
     "name": "ai-coding-for-beginners",
@@ -43,15 +52,6 @@
     "stars": 95,
     "language": null,
     "updated_at": "2026-03-03T13:20:51Z"
-  },
-  {
-    "name": "openclaw-kapso-whatsapp",
-    "full_name": "Enriquefft/openclaw-kapso-whatsapp",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-    "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-    "stars": 95,
-    "language": "Go",
-    "updated_at": "2026-03-03T16:12:45Z"
   },
   {
     "name": "VibeGuard",
@@ -76,17 +76,17 @@
     "full_name": "skainguyen1412/antigravity-superpowers",
     "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
     "url": "https://github.com/skainguyen1412/antigravity-superpowers",
-    "stars": 64,
+    "stars": 66,
     "language": "JavaScript",
-    "updated_at": "2026-03-03T13:46:49Z"
+    "updated_at": "2026-03-03T20:28:02Z"
   },
   {
     "name": "full-stack",
     "full_name": "xuya227939/full-stack",
     "description": "full-stack Next.js 16 + React 19 template with Auth, Supabase, Stripe/Alipay, Resend. Powers [SnapVee](https://snapvee.com), [SkillHub](https://skillforge.cc/), [Meshivo 3D](https://meshivo.com/) and more.",
     "url": "https://github.com/xuya227939/full-stack",
-    "stars": 54,
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-03-03T16:43:46Z"
+    "updated_at": "2026-03-03T19:51:59Z"
   }
 ]
