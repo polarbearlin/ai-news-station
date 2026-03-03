@@ -4,9 +4,18 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 383,
+    "stars": 384,
     "language": "Rust",
-    "updated_at": "2026-03-03T11:00:52Z"
+    "updated_at": "2026-03-03T13:52:08Z"
+  },
+  {
+    "name": "lovable-openclaw",
+    "full_name": "TriangleMagistrate/lovable-openclaw",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+    "stars": 181,
+    "language": "JavaScript",
+    "updated_at": "2026-03-03T13:45:43Z"
   },
   {
     "name": "DeepSeek-Claw",
@@ -15,43 +24,34 @@
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
     "stars": 177,
     "language": "Shell",
-    "updated_at": "2026-03-03T09:02:37Z"
-  },
-  {
-    "name": "lovable-openclaw",
-    "full_name": "TriangleMagistrate/lovable-openclaw",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
-    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
-    "stars": 164,
-    "language": "JavaScript",
-    "updated_at": "2026-03-03T12:58:59Z"
+    "updated_at": "2026-03-03T13:25:56Z"
   },
   {
     "name": "OpenAnt",
     "full_name": "knostic/OpenAnt",
     "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
     "url": "https://github.com/knostic/OpenAnt",
-    "stars": 97,
+    "stars": 105,
     "language": "Python",
-    "updated_at": "2026-03-03T12:41:52Z"
+    "updated_at": "2026-03-03T15:57:03Z"
   },
   {
     "name": "ai-coding-for-beginners",
     "full_name": "oujingzhou/ai-coding-for-beginners",
     "description": "AI coding for beginners",
     "url": "https://github.com/oujingzhou/ai-coding-for-beginners",
-    "stars": 94,
+    "stars": 95,
     "language": null,
-    "updated_at": "2026-03-03T10:14:17Z"
+    "updated_at": "2026-03-03T13:20:51Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
     "full_name": "Enriquefft/openclaw-kapso-whatsapp",
     "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
     "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-    "stars": 85,
+    "stars": 95,
     "language": "Go",
-    "updated_at": "2026-03-03T12:01:52Z"
+    "updated_at": "2026-03-03T16:12:45Z"
   },
   {
     "name": "VibeGuard",
@@ -76,17 +76,17 @@
     "full_name": "skainguyen1412/antigravity-superpowers",
     "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
     "url": "https://github.com/skainguyen1412/antigravity-superpowers",
-    "stars": 63,
+    "stars": 64,
     "language": "JavaScript",
-    "updated_at": "2026-03-03T12:50:01Z"
+    "updated_at": "2026-03-03T13:46:49Z"
   },
   {
-    "name": "cli-jaw",
-    "full_name": "lidge-jun/cli-jaw",
-    "description": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
-    "url": "https://github.com/lidge-jun/cli-jaw",
-    "stars": 51,
+    "name": "full-stack",
+    "full_name": "xuya227939/full-stack",
+    "description": "full-stack Next.js 16 + React 19 template with Auth, Supabase, Stripe/Alipay, Resend. Powers [SnapVee](https://snapvee.com), [SkillHub](https://skillforge.cc/), [Meshivo 3D](https://meshivo.com/) and more.",
+    "url": "https://github.com/xuya227939/full-stack",
+    "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-03-03T10:40:40Z"
+    "updated_at": "2026-03-03T16:43:46Z"
   }
 ]
