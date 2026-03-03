@@ -1,39 +1,21 @@
 [
   {
-    "name": "PersonalStyleAI-Framework-",
-    "full_name": "whyzhow/PersonalStyleAI-Framework-",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
-    "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-    "stars": 468,
-    "language": "Python",
-    "updated_at": "2026-02-28T18:47:02Z"
-  },
-  {
     "name": "safepilot",
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 379,
+    "stars": 381,
     "language": "Rust",
-    "updated_at": "2026-03-02T18:22:02Z"
-  },
-  {
-    "name": "idea-reality-mcp",
-    "full_name": "mnemox-ai/idea-reality-mcp",
-    "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI & Product Hunt — returns a 0-100 reality signal. MCP tool. Try: mnemox.ai/check",
-    "url": "https://github.com/mnemox-ai/idea-reality-mcp",
-    "stars": 238,
-    "language": "Python",
-    "updated_at": "2026-03-02T18:22:23Z"
+    "updated_at": "2026-03-03T01:39:03Z"
   },
   {
     "name": "DeepSeek-Claw",
     "full_name": "TriangleMagistrate/DeepSeek-Claw",
     "description": null,
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 186,
+    "stars": 178,
     "language": "Shell",
-    "updated_at": "2026-03-02T17:58:56Z"
+    "updated_at": "2026-03-03T01:35:17Z"
   },
   {
     "name": "ai-coding-for-beginners",
@@ -45,22 +27,31 @@
     "updated_at": "2026-03-02T06:39:08Z"
   },
   {
+    "name": "OpenAnt",
+    "full_name": "knostic/OpenAnt",
+    "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
+    "url": "https://github.com/knostic/OpenAnt",
+    "stars": 73,
+    "language": "Python",
+    "updated_at": "2026-03-03T01:34:33Z"
+  },
+  {
     "name": "VibeGuard",
     "full_name": "inkdust2021/VibeGuard",
     "description": "VibeGuard, prevents you from leaking your privacy while vibecoding, letting you vibecode with peace of mind.",
     "url": "https://github.com/inkdust2021/VibeGuard",
-    "stars": 72,
+    "stars": 73,
     "language": "Go",
-    "updated_at": "2026-03-02T07:12:28Z"
+    "updated_at": "2026-03-02T20:55:02Z"
   },
   {
     "name": "AimAssist",
     "full_name": "gunmetal57qa8q/AimAssist",
     "description": "AI | AIM | ASSIST | MORE GAME | CS2 | APEX | 2026",
     "url": "https://github.com/gunmetal57qa8q/AimAssist",
-    "stars": 71,
+    "stars": 69,
     "language": null,
-    "updated_at": "2026-02-28T14:58:24Z"
+    "updated_at": "2026-03-02T22:54:31Z"
   },
   {
     "name": "antigravity-superpowers",
@@ -72,21 +63,30 @@
     "updated_at": "2026-03-02T20:07:54Z"
   },
   {
-    "name": "tailclaude",
-    "full_name": "rohitg00/tailclaude",
-    "description": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
-    "url": "https://github.com/rohitg00/tailclaude",
-    "stars": 60,
+    "name": "cli-jaw",
+    "full_name": "lidge-jun/cli-jaw",
+    "description": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
+    "url": "https://github.com/lidge-jun/cli-jaw",
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-03-02T14:49:43Z"
+    "updated_at": "2026-03-02T16:53:05Z"
   },
   {
-    "name": "OpenAnt",
-    "full_name": "knostic/OpenAnt",
-    "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
-    "url": "https://github.com/knostic/OpenAnt",
-    "stars": 58,
-    "language": "Python",
-    "updated_at": "2026-03-02T20:35:39Z"
+    "name": "openclaw-kapso-whatsapp",
+    "full_name": "Enriquefft/openclaw-kapso-whatsapp",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+    "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+    "stars": 47,
+    "language": "Go",
+    "updated_at": "2026-03-03T02:00:17Z"
+  },
+  {
+    "name": "golembot",
+    "full_name": "0xranx/golembot",
+    "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
+    "url": "https://github.com/0xranx/golembot",
+    "stars": 34,
+    "language": "TypeScript",
+    "updated_at": "2026-03-03T01:43:48Z"
   }
 ]

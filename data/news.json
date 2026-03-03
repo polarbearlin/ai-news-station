@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-03-02 20:38:42",
+  "generated_at": "2026-03-03 02:10:32",
   "news": [
-    {
-      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "source": "Hacker News",
-      "time": "2026-03-02 14:54",
-      "score": 180,
-      "comments": 18
-    },
     {
       "title": "New iPad Air, powered by M4",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
       "source": "Hacker News",
       "time": "2026-03-02 14:11",
-      "score": 225,
-      "comments": 367
-    },
-    {
-      "title": "A case for Go as the best language for AI agents",
-      "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
-      "source": "Hacker News",
-      "time": "2026-03-02 18:48",
-      "score": 77,
-      "comments": 105
+      "score": 325,
+      "comments": 523
     }
   ]
 }
