@@ -18,22 +18,40 @@
     "updated_at": "2026-03-03T03:44:36Z"
   },
   {
+    "name": "lovable-openclaw",
+    "full_name": "TriangleMagistrate/lovable-openclaw",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+    "stars": 118,
+    "language": "JavaScript",
+    "updated_at": "2026-03-03T08:38:14Z"
+  },
+  {
     "name": "ai-coding-for-beginners",
     "full_name": "oujingzhou/ai-coding-for-beginners",
     "description": "AI coding for beginners",
     "url": "https://github.com/oujingzhou/ai-coding-for-beginners",
-    "stars": 94,
+    "stars": 93,
     "language": null,
-    "updated_at": "2026-03-02T06:39:08Z"
+    "updated_at": "2026-03-03T07:59:28Z"
   },
   {
     "name": "OpenAnt",
     "full_name": "knostic/OpenAnt",
     "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
     "url": "https://github.com/knostic/OpenAnt",
-    "stars": 84,
+    "stars": 92,
     "language": "Python",
-    "updated_at": "2026-03-03T04:13:00Z"
+    "updated_at": "2026-03-03T08:36:30Z"
+  },
+  {
+    "name": "openclaw-kapso-whatsapp",
+    "full_name": "Enriquefft/openclaw-kapso-whatsapp",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+    "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
+    "stars": 77,
+    "language": "Go",
+    "updated_at": "2026-03-03T08:22:41Z"
   },
   {
     "name": "VibeGuard",
@@ -54,15 +72,6 @@
     "updated_at": "2026-03-02T22:54:31Z"
   },
   {
-    "name": "openclaw-kapso-whatsapp",
-    "full_name": "Enriquefft/openclaw-kapso-whatsapp",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
-    "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-    "stars": 62,
-    "language": "Go",
-    "updated_at": "2026-03-03T05:03:28Z"
-  },
-  {
     "name": "antigravity-superpowers",
     "full_name": "skainguyen1412/antigravity-superpowers",
     "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-03-02T20:07:54Z"
   },
   {
-    "name": "lovable-openclaw",
-    "full_name": "TriangleMagistrate/lovable-openclaw",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
-    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
-    "stars": 59,
-    "language": "JavaScript",
-    "updated_at": "2026-03-03T05:10:32Z"
-  },
-  {
     "name": "cli-jaw",
     "full_name": "lidge-jun/cli-jaw",
     "description": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
     "url": "https://github.com/lidge-jun/cli-jaw",
     "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-03-03T05:03:20Z"
+    "updated_at": "2026-03-03T05:59:04Z"
   }
 ]
