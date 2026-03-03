@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-03-03 08:41:39",
+  "generated_at": "2026-03-03 12:59:19",
   "news": [
     {
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "source": "Hacker News",
       "time": "2026-03-02 22:32",
-      "score": 1024,
-      "comments": 580
+      "score": 1191,
+      "comments": 675
+    },
+    {
+      "title": "India's top court angry after junior judge cites fake AI-generated orders",
+      "url": "https://www.bbc.com/news/articles/c178zzw780xo",
+      "source": "Hacker News",
+      "time": "2026-03-03 12:13",
+      "score": 10,
+      "comments": 1
     },
     {
       "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
       "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
       "source": "Hacker News",
       "time": "2026-03-03 01:12",
-      "score": 238,
-      "comments": 140
+      "score": 367,
+      "comments": 217
     }
   ]
 }

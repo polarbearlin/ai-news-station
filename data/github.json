@@ -4,54 +4,54 @@
     "full_name": "3DCF-Labs/safepilot",
     "description": "AI assistant that executes real work, safely.",
     "url": "https://github.com/3DCF-Labs/safepilot",
-    "stars": 382,
+    "stars": 383,
     "language": "Rust",
-    "updated_at": "2026-03-03T05:11:36Z"
+    "updated_at": "2026-03-03T11:00:52Z"
   },
   {
     "name": "DeepSeek-Claw",
     "full_name": "TriangleMagistrate/DeepSeek-Claw",
     "description": null,
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 178,
+    "stars": 177,
     "language": "Shell",
-    "updated_at": "2026-03-03T03:44:36Z"
+    "updated_at": "2026-03-03T09:02:37Z"
   },
   {
     "name": "lovable-openclaw",
     "full_name": "TriangleMagistrate/lovable-openclaw",
     "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
     "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
-    "stars": 118,
+    "stars": 164,
     "language": "JavaScript",
-    "updated_at": "2026-03-03T08:38:14Z"
-  },
-  {
-    "name": "ai-coding-for-beginners",
-    "full_name": "oujingzhou/ai-coding-for-beginners",
-    "description": "AI coding for beginners",
-    "url": "https://github.com/oujingzhou/ai-coding-for-beginners",
-    "stars": 93,
-    "language": null,
-    "updated_at": "2026-03-03T07:59:28Z"
+    "updated_at": "2026-03-03T12:58:59Z"
   },
   {
     "name": "OpenAnt",
     "full_name": "knostic/OpenAnt",
     "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
     "url": "https://github.com/knostic/OpenAnt",
-    "stars": 92,
+    "stars": 97,
     "language": "Python",
-    "updated_at": "2026-03-03T08:36:30Z"
+    "updated_at": "2026-03-03T12:41:52Z"
+  },
+  {
+    "name": "ai-coding-for-beginners",
+    "full_name": "oujingzhou/ai-coding-for-beginners",
+    "description": "AI coding for beginners",
+    "url": "https://github.com/oujingzhou/ai-coding-for-beginners",
+    "stars": 94,
+    "language": null,
+    "updated_at": "2026-03-03T10:14:17Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
     "full_name": "Enriquefft/openclaw-kapso-whatsapp",
     "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
     "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-    "stars": 77,
+    "stars": 85,
     "language": "Go",
-    "updated_at": "2026-03-03T08:22:41Z"
+    "updated_at": "2026-03-03T12:01:52Z"
   },
   {
     "name": "VibeGuard",
@@ -60,7 +60,7 @@
     "url": "https://github.com/inkdust2021/VibeGuard",
     "stars": 73,
     "language": "Go",
-    "updated_at": "2026-03-02T20:55:02Z"
+    "updated_at": "2026-03-03T10:50:56Z"
   },
   {
     "name": "AimAssist",
@@ -76,17 +76,17 @@
     "full_name": "skainguyen1412/antigravity-superpowers",
     "description": "Bring Superpowers workflows to Antigravity — brainstorming, planning, TDD, code review, and verification skills ported as close to the original as possible.",
     "url": "https://github.com/skainguyen1412/antigravity-superpowers",
-    "stars": 61,
+    "stars": 63,
     "language": "JavaScript",
-    "updated_at": "2026-03-02T20:07:54Z"
+    "updated_at": "2026-03-03T12:50:01Z"
   },
   {
     "name": "cli-jaw",
     "full_name": "lidge-jun/cli-jaw",
     "description": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
     "url": "https://github.com/lidge-jun/cli-jaw",
-    "stars": 50,
+    "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-03-03T05:59:04Z"
+    "updated_at": "2026-03-03T10:40:40Z"
   }
 ]
