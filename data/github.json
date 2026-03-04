@@ -4,36 +4,36 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 189,
+    "stars": 198,
     "language": null,
-    "updated_at": "2026-03-04T16:20:33Z"
+    "updated_at": "2026-03-04T19:23:10Z"
   },
   {
     "name": "OpenAnt",
     "full_name": "knostic/OpenAnt",
     "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
     "url": "https://github.com/knostic/OpenAnt",
-    "stars": 141,
+    "stars": 146,
     "language": "Python",
-    "updated_at": "2026-03-04T16:22:57Z"
+    "updated_at": "2026-03-04T19:07:03Z"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 126,
+    "stars": 136,
     "language": "Rust",
-    "updated_at": "2026-03-04T16:43:30Z"
+    "updated_at": "2026-03-04T20:29:08Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
     "full_name": "Enriquefft/openclaw-kapso-whatsapp",
     "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
     "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-    "stars": 114,
+    "stars": 119,
     "language": "Go",
-    "updated_at": "2026-03-04T16:29:11Z"
+    "updated_at": "2026-03-04T19:09:17Z"
   },
   {
     "name": "ai-coding-for-beginners",
@@ -76,17 +76,17 @@
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 60,
+    "stars": 55,
     "language": "Rust",
-    "updated_at": "2026-03-04T16:21:13Z"
+    "updated_at": "2026-03-04T19:26:48Z"
   },
   {
     "name": "yupi-hot-monitor",
     "full_name": "liyupi/yupi-hot-monitor",
     "description": "2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热点监控工具，支持多信息源聚合抓取（Twitter / Bing / HackerNews / B 站等 7+ 平台）、AI 查询扩展、AI 真假识别与相关性分析、WebSocket 实时推送、邮件通知、多维度筛选排序，并将热点监控能力封装为 Agent Skills 技能包。覆盖 Prisma + SQLite 数据库、Socket.io 实时通信、Axios + Cheerio 网页爬虫、OpenRouter 大模型接入、Aceternity UI 炫酷前端、node-cron 定时任务、VSCode Copilot Vibe Coding + MCP",
     "url": "https://github.com/liyupi/yupi-hot-monitor",
-    "stars": 52,
+    "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-03-04T16:42:05Z"
+    "updated_at": "2026-03-04T17:26:10Z"
   }
 ]
