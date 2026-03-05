@@ -4,27 +4,27 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 245,
+    "stars": 259,
     "language": null,
-    "updated_at": "2026-03-05T12:51:21Z"
+    "updated_at": "2026-03-05T16:26:33Z"
   },
   {
     "name": "polymarket-ai-trading-bot",
     "full_name": "TrendTechVista/polymarket-ai-trading-bot",
     "description": "Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot polymarket AI trading bot polymarket trading bot best polymarket bot AI trading bot for polymarket polymarket automated trading polymarket trading automation polymarket trading bot AI",
     "url": "https://github.com/TrendTechVista/polymarket-ai-trading-bot",
-    "stars": 180,
+    "stars": 203,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T12:57:59Z"
+    "updated_at": "2026-03-05T17:40:21Z"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 126,
+    "stars": 125,
     "language": "Rust",
-    "updated_at": "2026-03-05T12:46:10Z"
+    "updated_at": "2026-03-05T14:20:37Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
@@ -49,27 +49,36 @@
     "full_name": "liyupi/yupi-hot-monitor",
     "description": "2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热点监控工具，支持多信息源聚合抓取（Twitter / Bing / HackerNews / B 站等 7+ 平台）、AI 查询扩展、AI 真假识别与相关性分析、WebSocket 实时推送、邮件通知、多维度筛选排序，并将热点监控能力封装为 Agent Skills 技能包。覆盖 Prisma + SQLite 数据库、Socket.io 实时通信、Axios + Cheerio 网页爬虫、OpenRouter 大模型接入、Aceternity UI 炫酷前端、node-cron 定时任务、VSCode Copilot Vibe Coding + MCP",
     "url": "https://github.com/liyupi/yupi-hot-monitor",
-    "stars": 78,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T12:54:13Z"
+    "updated_at": "2026-03-05T16:49:49Z"
+  },
+  {
+    "name": "golembot",
+    "full_name": "0xranx/golembot",
+    "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
+    "url": "https://github.com/0xranx/golembot",
+    "stars": 65,
+    "language": "TypeScript",
+    "updated_at": "2026-03-05T17:24:26Z"
   },
   {
     "name": "Dream-Creator",
     "full_name": "Xianyu33666/Dream-Creator",
     "description": "An AI-powered virtual development team of 12 specialized agents that helps you create applications through interactive collaboration. From requirement gathering to deployment, Dream Creator coordinates architects, developers, QA, and DevOps to build your ideas into reality. Supports Chinese and English languages.",
     "url": "https://github.com/Xianyu33666/Dream-Creator",
-    "stars": 54,
+    "stars": 55,
     "language": "JavaScript",
-    "updated_at": "2026-03-05T06:40:24Z"
+    "updated_at": "2026-03-05T14:22:09Z"
   },
   {
     "name": "claude-zeroclaw",
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 51,
+    "stars": 50,
     "language": "Rust",
-    "updated_at": "2026-03-05T08:36:22Z"
+    "updated_at": "2026-03-05T14:02:44Z"
   },
   {
     "name": "civyk-winwright",
@@ -79,14 +88,5 @@
     "stars": 49,
     "language": "PowerShell",
     "updated_at": "2026-03-03T13:12:21Z"
-  },
-  {
-    "name": "LEP100",
-    "full_name": "KaJLabs/LEP100",
-    "description": "LEP💯  is a suite of programmable AI-native economic and execution multi-standards for Lithosphere created and proposed by founder J. King Kasr.",
-    "url": "https://github.com/KaJLabs/LEP100",
-    "stars": 47,
-    "language": "Rust",
-    "updated_at": "2026-03-05T12:59:37Z"
   }
 ]
