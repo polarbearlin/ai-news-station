@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-05 18:04:52",
+  "generated_at": "2026-03-05 20:37:46",
   "news": [
     {
-      "title": "Datasets for Reconstructing Visual Perception from Brain Data",
-      "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
       "source": "Hacker News",
-      "time": "2026-03-05 16:26",
-      "score": 11,
+      "time": "2026-03-05 18:08",
+      "score": 305,
+      "comments": 281
+    },
+    {
+      "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "source": "Hacker News",
+      "time": "2026-03-05 19:24",
+      "score": 148,
+      "comments": 49
+    },
+    {
+      "title": "Hardware hotplug events on Linux, the gory details",
+      "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+      "source": "Hacker News",
+      "time": "2026-03-02 09:26",
+      "score": 39,
       "comments": 0
     }
   ]

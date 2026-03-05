@@ -4,18 +4,18 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 259,
+    "stars": 263,
     "language": null,
-    "updated_at": "2026-03-05T16:26:33Z"
+    "updated_at": "2026-03-05T20:21:36Z"
   },
   {
     "name": "polymarket-ai-trading-bot",
     "full_name": "TrendTechVista/polymarket-ai-trading-bot",
     "description": "Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot polymarket AI trading bot polymarket trading bot best polymarket bot AI trading bot for polymarket polymarket automated trading polymarket trading automation polymarket trading bot AI",
     "url": "https://github.com/TrendTechVista/polymarket-ai-trading-bot",
-    "stars": 203,
+    "stars": 208,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T17:40:21Z"
+    "updated_at": "2026-03-05T20:04:48Z"
   },
   {
     "name": "Doubao-Claw",
@@ -58,9 +58,9 @@
     "full_name": "0xranx/golembot",
     "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
     "url": "https://github.com/0xranx/golembot",
-    "stars": 65,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T17:24:26Z"
+    "updated_at": "2026-03-05T19:22:44Z"
   },
   {
     "name": "Dream-Creator",
@@ -72,6 +72,15 @@
     "updated_at": "2026-03-05T14:22:09Z"
   },
   {
+    "name": "ai-meme-trading-bot",
+    "full_name": "heri1845/ai-meme-trading-bot",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+    "url": "https://github.com/heri1845/ai-meme-trading-bot",
+    "stars": 51,
+    "language": "Go",
+    "updated_at": "2026-03-05T20:21:49Z"
+  },
+  {
     "name": "claude-zeroclaw",
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
@@ -79,14 +88,5 @@
     "stars": 50,
     "language": "Rust",
     "updated_at": "2026-03-05T14:02:44Z"
-  },
-  {
-    "name": "civyk-winwright",
-    "full_name": "civyk-official/civyk-winwright",
-    "description": "Playwright-style MCP server for Windows desktop, system, and browser automation. 110 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.",
-    "url": "https://github.com/civyk-official/civyk-winwright",
-    "stars": 49,
-    "language": "PowerShell",
-    "updated_at": "2026-03-03T13:12:21Z"
   }
 ]
