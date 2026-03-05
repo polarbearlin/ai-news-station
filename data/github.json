@@ -4,27 +4,27 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 232,
+    "stars": 245,
     "language": null,
-    "updated_at": "2026-03-05T08:32:47Z"
+    "updated_at": "2026-03-05T12:51:21Z"
   },
   {
     "name": "polymarket-ai-trading-bot",
     "full_name": "TrendTechVista/polymarket-ai-trading-bot",
-    "description": "Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot  Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot",
+    "description": "Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot polymarket AI trading bot polymarket trading bot best polymarket bot AI trading bot for polymarket polymarket automated trading polymarket trading automation polymarket trading bot AI",
     "url": "https://github.com/TrendTechVista/polymarket-ai-trading-bot",
-    "stars": 147,
+    "stars": 180,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T08:40:21Z"
+    "updated_at": "2026-03-05T12:57:59Z"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 130,
+    "stars": 126,
     "language": "Rust",
-    "updated_at": "2026-03-05T08:36:23Z"
+    "updated_at": "2026-03-05T12:46:10Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
@@ -49,9 +49,9 @@
     "full_name": "liyupi/yupi-hot-monitor",
     "description": "2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热点监控工具，支持多信息源聚合抓取（Twitter / Bing / HackerNews / B 站等 7+ 平台）、AI 查询扩展、AI 真假识别与相关性分析、WebSocket 实时推送、邮件通知、多维度筛选排序，并将热点监控能力封装为 Agent Skills 技能包。覆盖 Prisma + SQLite 数据库、Socket.io 实时通信、Axios + Cheerio 网页爬虫、OpenRouter 大模型接入、Aceternity UI 炫酷前端、node-cron 定时任务、VSCode Copilot Vibe Coding + MCP",
     "url": "https://github.com/liyupi/yupi-hot-monitor",
-    "stars": 74,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T08:11:24Z"
+    "updated_at": "2026-03-05T12:54:13Z"
   },
   {
     "name": "Dream-Creator",
@@ -81,12 +81,12 @@
     "updated_at": "2026-03-03T13:12:21Z"
   },
   {
-    "name": "safe-solana-builder",
-    "full_name": "Frankcastleauditor/safe-solana-builder",
-    "description": "The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle.",
-    "url": "https://github.com/Frankcastleauditor/safe-solana-builder",
+    "name": "LEP100",
+    "full_name": "KaJLabs/LEP100",
+    "description": "LEP💯  is a suite of programmable AI-native economic and execution multi-standards for Lithosphere created and proposed by founder J. King Kasr.",
+    "url": "https://github.com/KaJLabs/LEP100",
     "stars": 47,
-    "language": null,
-    "updated_at": "2026-03-05T07:32:45Z"
+    "language": "Rust",
+    "updated_at": "2026-03-05T12:59:37Z"
   }
 ]
