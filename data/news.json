@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-03-06 02:07:06",
+  "generated_at": "2026-03-06 05:09:57",
   "news": [
     {
       "title": "GPT-5.4",
       "url": "https://openai.com/index/introducing-gpt-5-4/",
       "source": "Hacker News",
       "time": "2026-03-05 18:08",
-      "score": 636,
-      "comments": 554
+      "score": 715,
+      "comments": 614
     },
     {
-      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-      "url": "https://charm.land/blog/v2/",
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
       "source": "Hacker News",
-      "time": "2026-03-05 23:26",
-      "score": 92,
-      "comments": 26
+      "time": "2026-03-05 22:55",
+      "score": 111,
+      "comments": 129
     },
     {
       "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
       "url": "https://406.fail/",
       "source": "Hacker News",
       "time": "2026-03-05 22:04",
-      "score": 86,
-      "comments": 22
-    },
-    {
-      "title": "Hardware hotplug events on Linux, the gory details",
-      "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-      "source": "Hacker News",
-      "time": "2026-03-02 09:26",
-      "score": 118,
-      "comments": 5
+      "score": 125,
+      "comments": 39
     }
   ]
 }
