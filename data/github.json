@@ -4,63 +4,45 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 263,
+    "stars": 268,
     "language": null,
-    "updated_at": "2026-03-05T20:21:36Z"
-  },
-  {
-    "name": "polymarket-ai-trading-bot",
-    "full_name": "TrendTechVista/polymarket-ai-trading-bot",
-    "description": "Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot Polymarket ai trading bot polymarket AI trading bot polymarket trading bot best polymarket bot AI trading bot for polymarket polymarket automated trading polymarket trading automation polymarket trading bot AI",
-    "url": "https://github.com/TrendTechVista/polymarket-ai-trading-bot",
-    "stars": 208,
-    "language": "TypeScript",
-    "updated_at": "2026-03-05T20:04:48Z"
-  },
-  {
-    "name": "Doubao-Claw",
-    "full_name": "Heartflabrace/Doubao-Claw",
-    "description": null,
-    "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 125,
-    "language": "Rust",
-    "updated_at": "2026-03-05T14:20:37Z"
+    "updated_at": "2026-03-06T01:40:22Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
     "full_name": "Enriquefft/openclaw-kapso-whatsapp",
     "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
     "url": "https://github.com/Enriquefft/openclaw-kapso-whatsapp",
-    "stars": 124,
+    "stars": 131,
     "language": "Go",
-    "updated_at": "2026-03-05T07:51:36Z"
+    "updated_at": "2026-03-06T01:22:10Z"
   },
   {
-    "name": "full-stack",
-    "full_name": "xuya227939/full-stack",
-    "description": "full-stack Next.js 16 + React 19 template with Auth, Supabase, Stripe/Alipay, Resend. Powers [SnapVee](https://snapvee.com), [SkillHub](https://skillforge.cc/), [Meshivo 3D](https://meshivo.com/) and more.",
-    "url": "https://github.com/xuya227939/full-stack",
-    "stars": 90,
-    "language": "TypeScript",
-    "updated_at": "2026-03-05T07:38:38Z"
+    "name": "Doubao-Claw",
+    "full_name": "Heartflabrace/Doubao-Claw",
+    "description": null,
+    "url": "https://github.com/Heartflabrace/Doubao-Claw",
+    "stars": 124,
+    "language": "Rust",
+    "updated_at": "2026-03-05T21:07:43Z"
   },
   {
-    "name": "yupi-hot-monitor",
-    "full_name": "liyupi/yupi-hot-monitor",
-    "description": "2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热点监控工具，支持多信息源聚合抓取（Twitter / Bing / HackerNews / B 站等 7+ 平台）、AI 查询扩展、AI 真假识别与相关性分析、WebSocket 实时推送、邮件通知、多维度筛选排序，并将热点监控能力封装为 Agent Skills 技能包。覆盖 Prisma + SQLite 数据库、Socket.io 实时通信、Axios + Cheerio 网页爬虫、OpenRouter 大模型接入、Aceternity UI 炫酷前端、node-cron 定时任务、VSCode Copilot Vibe Coding + MCP",
-    "url": "https://github.com/liyupi/yupi-hot-monitor",
-    "stars": 84,
-    "language": "TypeScript",
-    "updated_at": "2026-03-05T16:49:49Z"
+    "name": "ai-meme-trading-bot",
+    "full_name": "heri1845/ai-meme-trading-bot",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+    "url": "https://github.com/heri1845/ai-meme-trading-bot",
+    "stars": 105,
+    "language": "Go",
+    "updated_at": "2026-03-06T02:06:42Z"
   },
   {
     "name": "golembot",
     "full_name": "0xranx/golembot",
     "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
     "url": "https://github.com/0xranx/golembot",
-    "stars": 67,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-03-05T19:22:44Z"
+    "updated_at": "2026-03-06T01:32:41Z"
   },
   {
     "name": "Dream-Creator",
@@ -72,21 +54,39 @@
     "updated_at": "2026-03-05T14:22:09Z"
   },
   {
-    "name": "ai-meme-trading-bot",
-    "full_name": "heri1845/ai-meme-trading-bot",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-    "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 51,
-    "language": "Go",
-    "updated_at": "2026-03-05T20:21:49Z"
-  },
-  {
     "name": "claude-zeroclaw",
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 50,
+    "stars": 51,
     "language": "Rust",
-    "updated_at": "2026-03-05T14:02:44Z"
+    "updated_at": "2026-03-06T00:29:27Z"
+  },
+  {
+    "name": "civyk-winwright",
+    "full_name": "civyk-official/civyk-winwright",
+    "description": "Playwright-style MCP server for Windows desktop, system, and browser automation. 110 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.",
+    "url": "https://github.com/civyk-official/civyk-winwright",
+    "stars": 49,
+    "language": "PowerShell",
+    "updated_at": "2026-03-03T13:12:21Z"
+  },
+  {
+    "name": "safe-solana-builder",
+    "full_name": "Frankcastleauditor/safe-solana-builder",
+    "description": "The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle.",
+    "url": "https://github.com/Frankcastleauditor/safe-solana-builder",
+    "stars": 49,
+    "language": null,
+    "updated_at": "2026-03-05T22:36:34Z"
+  },
+  {
+    "name": "standards-sdk-go",
+    "full_name": "hashgraph-online/standards-sdk-go",
+    "description": "The official HOL SDK for Go, implementing the Hiero Consensus Specifications (https://github.com/hiero-ledger/hiero-consensus-specifications).   See official documentation found in https://hol.org/docs/standards",
+    "url": "https://github.com/hashgraph-online/standards-sdk-go",
+    "stars": 43,
+    "language": "Go",
+    "updated_at": "2026-03-06T01:06:46Z"
   }
 ]
