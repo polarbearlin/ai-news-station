@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-03-06 16:42:07",
-  "news": []
+  "generated_at": "2026-03-06 20:32:47",
+  "news": [
+    {
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "source": "Hacker News",
+      "time": "2026-03-06 11:53",
+      "score": 336,
+      "comments": 106
+    }
+  ]
 }
