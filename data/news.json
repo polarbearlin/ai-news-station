@@ -1,21 +1,4 @@
 {
-  "generated_at": "2026-03-06 12:57:43",
-  "news": [
-    {
-      "title": "GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "source": "Hacker News",
-      "time": "2026-03-05 18:08",
-      "score": 882,
-      "comments": 695
-    },
-    {
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-      "source": "Hacker News",
-      "time": "2026-03-06 11:53",
-      "score": 45,
-      "comments": 12
-    }
-  ]
+  "generated_at": "2026-03-06 16:42:07",
+  "news": []
 }

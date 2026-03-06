@@ -1,21 +1,30 @@
 [
   {
-    "name": "binance-skills-hub",
-    "full_name": "binance/binance-skills-hub",
-    "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
-    "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 287,
-    "language": null,
-    "updated_at": "2026-03-06T12:47:23Z"
-  },
-  {
     "name": "xcode-claw",
     "full_name": "FinPyromancerLog/xcode-claw",
     "description": null,
     "url": "https://github.com/FinPyromancerLog/xcode-claw",
-    "stars": 262,
+    "stars": 294,
     "language": "JavaScript",
-    "updated_at": "2026-03-06T12:37:56Z"
+    "updated_at": "2026-03-06T16:38:25Z"
+  },
+  {
+    "name": "binance-skills-hub",
+    "full_name": "binance/binance-skills-hub",
+    "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
+    "url": "https://github.com/binance/binance-skills-hub",
+    "stars": 294,
+    "language": null,
+    "updated_at": "2026-03-06T16:39:52Z"
+  },
+  {
+    "name": "ai-meme-trading-bot",
+    "full_name": "heri1845/ai-meme-trading-bot",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+    "url": "https://github.com/heri1845/ai-meme-trading-bot",
+    "stars": 151,
+    "language": "Go",
+    "updated_at": "2026-03-06T16:34:16Z"
   },
   {
     "name": "openclaw-kapso-whatsapp",
@@ -27,31 +36,22 @@
     "updated_at": "2026-03-06T12:44:11Z"
   },
   {
-    "name": "ai-meme-trading-bot",
-    "full_name": "heri1845/ai-meme-trading-bot",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-    "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 137,
-    "language": "Go",
-    "updated_at": "2026-03-06T12:56:39Z"
-  },
-  {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 123,
+    "stars": 122,
     "language": "Rust",
-    "updated_at": "2026-03-06T05:20:12Z"
+    "updated_at": "2026-03-06T16:38:25Z"
   },
   {
     "name": "golembot",
     "full_name": "0xranx/golembot",
     "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
     "url": "https://github.com/0xranx/golembot",
-    "stars": 87,
+    "stars": 88,
     "language": "TypeScript",
-    "updated_at": "2026-03-06T11:37:29Z"
+    "updated_at": "2026-03-06T15:38:50Z"
   },
   {
     "name": "Dream-Creator",
@@ -63,13 +63,22 @@
     "updated_at": "2026-03-06T06:33:42Z"
   },
   {
+    "name": "PaperForge",
+    "full_name": "QJHWC/PaperForge",
+    "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
+    "url": "https://github.com/QJHWC/PaperForge",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-03-06T16:35:25Z"
+  },
+  {
     "name": "safe-solana-builder",
     "full_name": "Frankcastleauditor/safe-solana-builder",
     "description": "The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle.",
     "url": "https://github.com/Frankcastleauditor/safe-solana-builder",
-    "stars": 51,
+    "stars": 52,
     "language": null,
-    "updated_at": "2026-03-06T11:27:32Z"
+    "updated_at": "2026-03-06T14:22:58Z"
   },
   {
     "name": "claude-zeroclaw",
@@ -78,15 +87,6 @@
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
     "stars": 50,
     "language": "Rust",
-    "updated_at": "2026-03-06T05:20:12Z"
-  },
-  {
-    "name": "civyk-winwright",
-    "full_name": "civyk-official/civyk-winwright",
-    "description": "Playwright-style MCP server for Windows desktop, system, and browser automation. 110 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.",
-    "url": "https://github.com/civyk-official/civyk-winwright",
-    "stars": 49,
-    "language": "PowerShell",
-    "updated_at": "2026-03-03T13:12:21Z"
+    "updated_at": "2026-03-06T15:46:57Z"
   }
 ]
