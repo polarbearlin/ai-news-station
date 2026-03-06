@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-03-06 05:09:57",
+  "generated_at": "2026-03-06 08:39:14",
   "news": [
     {
       "title": "GPT-5.4",
       "url": "https://openai.com/index/introducing-gpt-5-4/",
       "source": "Hacker News",
       "time": "2026-03-05 18:08",
-      "score": 715,
-      "comments": 614
+      "score": 806,
+      "comments": 651
     },
     {
       "title": "Labor market impacts of AI: A new measure and early evidence",
       "url": "https://www.anthropic.com/research/labor-market-impacts",
       "source": "Hacker News",
       "time": "2026-03-05 22:55",
-      "score": 111,
-      "comments": 129
-    },
-    {
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "url": "https://406.fail/",
-      "source": "Hacker News",
-      "time": "2026-03-05 22:04",
-      "score": 125,
-      "comments": 39
+      "score": 178,
+      "comments": 241
     }
   ]
 }
