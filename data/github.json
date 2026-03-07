@@ -4,27 +4,27 @@
     "full_name": "FinPyromancerLog/xcode-claw",
     "description": null,
     "url": "https://github.com/FinPyromancerLog/xcode-claw",
-    "stars": 321,
+    "stars": 322,
     "language": "JavaScript",
-    "updated_at": "2026-03-06T23:53:14Z"
+    "updated_at": "2026-03-07T03:22:21Z"
   },
   {
     "name": "binance-skills-hub",
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 301,
+    "stars": 305,
     "language": null,
-    "updated_at": "2026-03-07T01:55:57Z"
+    "updated_at": "2026-03-07T04:30:57Z"
   },
   {
     "name": "ai-meme-trading-bot",
     "full_name": "heri1845/ai-meme-trading-bot",
     "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
     "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 163,
+    "stars": 166,
     "language": "Go",
-    "updated_at": "2026-03-07T01:28:38Z"
+    "updated_at": "2026-03-07T04:36:16Z"
   },
   {
     "name": "Doubao-Claw",
@@ -40,18 +40,18 @@
     "full_name": "0xranx/golembot",
     "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
     "url": "https://github.com/0xranx/golembot",
-    "stars": 88,
+    "stars": 91,
     "language": "TypeScript",
-    "updated_at": "2026-03-06T15:38:50Z"
+    "updated_at": "2026-03-07T03:18:03Z"
   },
   {
     "name": "PaperForge",
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 60,
+    "stars": 61,
     "language": "Python",
-    "updated_at": "2026-03-07T01:47:54Z"
+    "updated_at": "2026-03-07T02:48:59Z"
   },
   {
     "name": "safe-solana-builder",
