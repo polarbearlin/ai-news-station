@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-03-07 05:00:19",
+  "generated_at": "2026-03-07 08:32:25",
   "news": [
-    {
-      "title": "Can a wealthy family change the course of a deadly brain disease?",
-      "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-      "source": "Hacker News",
-      "time": "2026-03-07 03:06",
-      "score": 20,
-      "comments": 8
-    },
     {
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
       "source": "Hacker News",
       "time": "2026-03-07 01:17",
-      "score": 111,
-      "comments": 90
-    },
-    {
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "source": "Hacker News",
-      "time": "2026-03-06 11:53",
-      "score": 531,
-      "comments": 149
+      "score": 188,
+      "comments": 150
     }
   ]
 }
