@@ -4,18 +4,18 @@
     "full_name": "FinPyromancerLog/xcode-claw",
     "description": null,
     "url": "https://github.com/FinPyromancerLog/xcode-claw",
-    "stars": 319,
+    "stars": 318,
     "language": "JavaScript",
-    "updated_at": "2026-03-07T08:18:05Z"
+    "updated_at": "2026-03-07T11:27:15Z"
   },
   {
     "name": "binance-skills-hub",
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 313,
+    "stars": 315,
     "language": null,
-    "updated_at": "2026-03-07T08:00:39Z"
+    "updated_at": "2026-03-07T09:18:46Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -24,7 +24,7 @@
     "url": "https://github.com/heri1845/ai-meme-trading-bot",
     "stars": 173,
     "language": "Go",
-    "updated_at": "2026-03-07T07:28:40Z"
+    "updated_at": "2026-03-07T12:25:57Z"
   },
   {
     "name": "Doubao-Claw",
@@ -40,18 +40,18 @@
     "full_name": "0xranx/golembot",
     "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
     "url": "https://github.com/0xranx/golembot",
-    "stars": 91,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-03-07T03:18:03Z"
+    "updated_at": "2026-03-07T12:45:15Z"
   },
   {
     "name": "PaperForge",
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 62,
+    "stars": 66,
     "language": "Python",
-    "updated_at": "2026-03-07T05:02:20Z"
+    "updated_at": "2026-03-07T11:28:02Z"
   },
   {
     "name": "safe-solana-builder",
@@ -72,6 +72,15 @@
     "updated_at": "2026-03-06T15:46:57Z"
   },
   {
+    "name": "kokoclone",
+    "full_name": "Ashish-Patnaik/kokoclone",
+    "description": "Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.",
+    "url": "https://github.com/Ashish-Patnaik/kokoclone",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-03-07T10:13:14Z"
+  },
+  {
     "name": "multi-agent-todo",
     "full_name": "zclllyybb/multi-agent-todo",
     "description": "A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase.",
@@ -79,14 +88,5 @@
     "stars": 40,
     "language": "Python",
     "updated_at": "2026-03-06T02:39:45Z"
-  },
-  {
-    "name": "kokoclone",
-    "full_name": "Ashish-Patnaik/kokoclone",
-    "description": "Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.",
-    "url": "https://github.com/Ashish-Patnaik/kokoclone",
-    "stars": 39,
-    "language": "Python",
-    "updated_at": "2026-03-07T06:54:08Z"
   }
 ]
