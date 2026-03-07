@@ -4,18 +4,18 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 321,
+    "stars": 328,
     "language": null,
-    "updated_at": "2026-03-07T16:20:09Z"
+    "updated_at": "2026-03-07T18:51:51Z"
   },
   {
     "name": "xcode-claw",
     "full_name": "FinPyromancerLog/xcode-claw",
     "description": null,
     "url": "https://github.com/FinPyromancerLog/xcode-claw",
-    "stars": 314,
+    "stars": 310,
     "language": "JavaScript",
-    "updated_at": "2026-03-07T15:39:41Z"
+    "updated_at": "2026-03-07T20:18:16Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -27,31 +27,40 @@
     "updated_at": "2026-03-07T12:25:57Z"
   },
   {
-    "name": "Doubao-Claw",
-    "full_name": "Heartflabrace/Doubao-Claw",
-    "description": null,
-    "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 120,
-    "language": "Rust",
-    "updated_at": "2026-03-07T13:54:12Z"
-  },
-  {
     "name": "TradingView-Claw",
     "full_name": "helenigtxu/TradingView-Claw",
     "description": null,
     "url": "https://github.com/helenigtxu/TradingView-Claw",
-    "stars": 98,
+    "stars": 168,
     "language": "Python",
-    "updated_at": "2026-03-07T16:27:27Z"
+    "updated_at": "2026-03-07T20:18:16Z"
+  },
+  {
+    "name": "Doubao-Claw",
+    "full_name": "Heartflabrace/Doubao-Claw",
+    "description": null,
+    "url": "https://github.com/Heartflabrace/Doubao-Claw",
+    "stars": 118,
+    "language": "Rust",
+    "updated_at": "2026-03-07T20:18:16Z"
   },
   {
     "name": "golembot",
     "full_name": "0xranx/golembot",
     "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
     "url": "https://github.com/0xranx/golembot",
-    "stars": 92,
+    "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-03-07T14:04:43Z"
+    "updated_at": "2026-03-07T17:17:58Z"
+  },
+  {
+    "name": "blooket",
+    "full_name": "helenigtxu/blooket",
+    "description": null,
+    "url": "https://github.com/helenigtxu/blooket",
+    "stars": 74,
+    "language": "Rust",
+    "updated_at": "2026-03-07T19:47:36Z"
   },
   {
     "name": "PaperForge",
@@ -63,6 +72,15 @@
     "updated_at": "2026-03-07T14:41:09Z"
   },
   {
+    "name": "argus",
+    "full_name": "yessGlory17/argus",
+    "description": "Claude Code Session Debugger & Performance Analyzer",
+    "url": "https://github.com/yessGlory17/argus",
+    "stars": 60,
+    "language": "TypeScript",
+    "updated_at": "2026-03-07T19:46:37Z"
+  },
+  {
     "name": "safe-solana-builder",
     "full_name": "Frankcastleauditor/safe-solana-builder",
     "description": "The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle.",
@@ -70,23 +88,5 @@
     "stars": 55,
     "language": null,
     "updated_at": "2026-03-07T12:54:02Z"
-  },
-  {
-    "name": "claude-zeroclaw",
-    "full_name": "Crestdrasnips/claude-zeroclaw",
-    "description": null,
-    "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 50,
-    "language": "Rust",
-    "updated_at": "2026-03-06T15:46:57Z"
-  },
-  {
-    "name": "blooket",
-    "full_name": "helenigtxu/blooket",
-    "description": null,
-    "url": "https://github.com/helenigtxu/blooket",
-    "stars": 45,
-    "language": "Rust",
-    "updated_at": "2026-03-07T16:27:17Z"
   }
 ]
