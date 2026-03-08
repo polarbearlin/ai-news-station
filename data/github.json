@@ -4,18 +4,27 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 329,
+    "stars": 333,
     "language": null,
-    "updated_at": "2026-03-07T21:03:29Z"
+    "updated_at": "2026-03-08T03:45:07Z"
   },
   {
     "name": "xcode-claw",
     "full_name": "FinPyromancerLog/xcode-claw",
     "description": null,
     "url": "https://github.com/FinPyromancerLog/xcode-claw",
-    "stars": 310,
+    "stars": 309,
     "language": "JavaScript",
-    "updated_at": "2026-03-07T20:18:16Z"
+    "updated_at": "2026-03-08T04:36:41Z"
+  },
+  {
+    "name": "blooket",
+    "full_name": "helenigtxu/blooket",
+    "description": null,
+    "url": "https://github.com/helenigtxu/blooket",
+    "stars": 181,
+    "language": "Rust",
+    "updated_at": "2026-03-08T05:08:11Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -27,13 +36,13 @@
     "updated_at": "2026-03-07T12:25:57Z"
   },
   {
-    "name": "blooket",
-    "full_name": "helenigtxu/blooket",
+    "name": "Antigravity-claw",
+    "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
-    "url": "https://github.com/helenigtxu/blooket",
-    "stars": 120,
+    "url": "https://github.com/deborahikssv/Antigravity-claw",
+    "stars": 139,
     "language": "Rust",
-    "updated_at": "2026-03-08T02:08:32Z"
+    "updated_at": "2026-03-08T05:08:07Z"
   },
   {
     "name": "Doubao-Claw",
@@ -43,15 +52,6 @@
     "stars": 118,
     "language": "Rust",
     "updated_at": "2026-03-07T20:18:16Z"
-  },
-  {
-    "name": "Antigravity-claw",
-    "full_name": "deborahikssv/Antigravity-claw",
-    "description": null,
-    "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 78,
-    "language": "Rust",
-    "updated_at": "2026-03-08T02:08:16Z"
   },
   {
     "name": "PaperForge",
@@ -67,9 +67,9 @@
     "full_name": "Ashish-Patnaik/kokoclone",
     "description": "Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.",
     "url": "https://github.com/Ashish-Patnaik/kokoclone",
-    "stars": 42,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-03-07T22:07:10Z"
+    "updated_at": "2026-03-08T02:44:59Z"
   },
   {
     "name": "multi-agent-todo",

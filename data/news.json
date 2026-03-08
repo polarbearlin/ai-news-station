@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-03-08 02:09:26",
+  "generated_at": "2026-03-08 05:09:33",
   "news": [
+    {
+      "title": "They all said Hormuz closure would be brief. What if they were wrong?",
+      "url": "https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong",
+      "source": "Hacker News",
+      "time": "2026-03-08 01:46",
+      "score": 37,
+      "comments": 30
+    },
+    {
+      "title": "\"Warn about PyPy being unmaintained\"",
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "source": "Hacker News",
+      "time": "2026-03-08 01:35",
+      "score": 38,
+      "comments": 10
+    },
     {
       "title": "A decade of Docker containers",
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
       "source": "Hacker News",
       "time": "2026-03-07 16:55",
-      "score": 231,
-      "comments": 170
+      "score": 262,
+      "comments": 186
     }
   ]
 }
