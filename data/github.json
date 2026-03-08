@@ -4,36 +4,45 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 339,
+    "stars": 345,
     "language": null,
-    "updated_at": "2026-03-08T07:41:36Z"
+    "updated_at": "2026-03-08T12:39:16Z"
   },
   {
     "name": "xcode-claw",
     "full_name": "FinPyromancerLog/xcode-claw",
     "description": null,
     "url": "https://github.com/FinPyromancerLog/xcode-claw",
-    "stars": 307,
+    "stars": 309,
     "language": "JavaScript",
-    "updated_at": "2026-03-08T08:32:32Z"
+    "updated_at": "2026-03-08T11:33:24Z"
   },
   {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 239,
+    "stars": 268,
     "language": "Rust",
-    "updated_at": "2026-03-08T08:32:32Z"
+    "updated_at": "2026-03-08T12:50:35Z"
   },
   {
     "name": "Antigravity-claw",
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 211,
+    "stars": 253,
     "language": "Rust",
-    "updated_at": "2026-03-08T08:32:32Z"
+    "updated_at": "2026-03-08T12:49:54Z"
+  },
+  {
+    "name": "Claude-Zeroclaw",
+    "full_name": "Crestdrasnip/Claude-Zeroclaw",
+    "description": null,
+    "url": "https://github.com/Crestdrasnip/Claude-Zeroclaw",
+    "stars": 194,
+    "language": "TypeScript",
+    "updated_at": "2026-03-08T12:46:37Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -58,35 +67,26 @@
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 76,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-03-08T08:19:45Z"
+    "updated_at": "2026-03-08T11:08:58Z"
   },
   {
-    "name": "Claude-Zeroclaw",
-    "full_name": "Crestdrasnip/Claude-Zeroclaw",
-    "description": null,
-    "url": "https://github.com/Crestdrasnip/Claude-Zeroclaw",
-    "stars": 71,
-    "language": "TypeScript",
-    "updated_at": "2026-03-08T08:32:32Z"
+    "name": "SkyRoads-Codex",
+    "full_name": "ammaarreshi/SkyRoads-Codex",
+    "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
+    "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
+    "stars": 61,
+    "language": "Rust",
+    "updated_at": "2026-03-08T12:47:00Z"
   },
   {
-    "name": "kokoclone",
-    "full_name": "Ashish-Patnaik/kokoclone",
-    "description": "Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.",
-    "url": "https://github.com/Ashish-Patnaik/kokoclone",
-    "stars": 44,
-    "language": "Python",
-    "updated_at": "2026-03-08T06:54:31Z"
-  },
-  {
-    "name": "multi-agent-todo",
-    "full_name": "zclllyybb/multi-agent-todo",
-    "description": "A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase.",
-    "url": "https://github.com/zclllyybb/multi-agent-todo",
-    "stars": 40,
-    "language": "Python",
-    "updated_at": "2026-03-06T02:39:45Z"
+    "name": "holysheep-cli",
+    "full_name": "holysheep123/holysheep-cli",
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+    "url": "https://github.com/holysheep123/holysheep-cli",
+    "stars": 56,
+    "language": "JavaScript",
+    "updated_at": "2026-03-08T12:37:39Z"
   }
 ]

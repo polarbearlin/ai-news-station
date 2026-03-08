@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-08 08:32:54",
+  "generated_at": "2026-03-08 12:50:54",
   "news": [
     {
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "url": "https://arxiv.org/abs/2603.03823",
       "source": "Hacker News",
       "time": "2026-03-08 08:11",
-      "score": 10,
-      "comments": 1
+      "score": 69,
+      "comments": 13
     },
     {
-      "title": "\"Warn about PyPy being unmaintained\"",
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "source": "Hacker News",
+      "time": "2026-03-04 15:42",
+      "score": 52,
+      "comments": 10
+    },
+    {
+      "title": "Warn about PyPy being unmaintained",
       "url": "https://github.com/astral-sh/uv/pull/17643",
       "source": "Hacker News",
       "time": "2026-03-08 01:35",
-      "score": 150,
-      "comments": 42
-    },
-    {
-      "title": "A decade of Docker containers",
-      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "source": "Hacker News",
-      "time": "2026-03-07 16:55",
-      "score": 289,
-      "comments": 201
+      "score": 229,
+      "comments": 105
     }
   ]
 }
