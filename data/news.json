@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-03-08 12:50:54",
+  "generated_at": "2026-03-08 16:29:33",
   "news": [
+    {
+      "title": "Living Human Brain Cells Play Doom on a CL1",
+      "url": "https://corticallabs.com/doom.html",
+      "source": "Hacker News",
+      "time": "2026-03-08 15:07",
+      "score": 23,
+      "comments": 11
+    },
     {
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "url": "https://arxiv.org/abs/2603.03823",
       "source": "Hacker News",
       "time": "2026-03-08 08:11",
-      "score": 69,
-      "comments": 13
-    },
-    {
-      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "source": "Hacker News",
-      "time": "2026-03-04 15:42",
-      "score": 52,
-      "comments": 10
-    },
-    {
-      "title": "Warn about PyPy being unmaintained",
-      "url": "https://github.com/astral-sh/uv/pull/17643",
-      "source": "Hacker News",
-      "time": "2026-03-08 01:35",
-      "score": 229,
-      "comments": 105
+      "score": 93,
+      "comments": 28
     }
   ]
 }
