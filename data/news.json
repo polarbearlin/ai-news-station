@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-03-07 20:26:36",
+  "generated_at": "2026-03-08 02:09:26",
   "news": [
     {
-      "title": "A Decade of Docker Containers",
+      "title": "A decade of Docker containers",
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
       "source": "Hacker News",
       "time": "2026-03-07 16:55",
-      "score": 148,
-      "comments": 90
-    },
-    {
-      "title": "We're Training Students to Write Worse to Prove They're Not Robots",
-      "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
-      "source": "Hacker News",
-      "time": "2026-03-07 19:01",
-      "score": 61,
-      "comments": 26
+      "score": 231,
+      "comments": 170
     }
   ]
 }

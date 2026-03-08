@@ -4,9 +4,9 @@
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 328,
+    "stars": 329,
     "language": null,
-    "updated_at": "2026-03-07T18:51:51Z"
+    "updated_at": "2026-03-07T21:03:29Z"
   },
   {
     "name": "xcode-claw",
@@ -27,13 +27,13 @@
     "updated_at": "2026-03-07T12:25:57Z"
   },
   {
-    "name": "TradingView-Claw",
-    "full_name": "helenigtxu/TradingView-Claw",
+    "name": "blooket",
+    "full_name": "helenigtxu/blooket",
     "description": null,
-    "url": "https://github.com/helenigtxu/TradingView-Claw",
-    "stars": 168,
-    "language": "Python",
-    "updated_at": "2026-03-07T20:18:16Z"
+    "url": "https://github.com/helenigtxu/blooket",
+    "stars": 120,
+    "language": "Rust",
+    "updated_at": "2026-03-08T02:08:32Z"
   },
   {
     "name": "Doubao-Claw",
@@ -45,48 +45,48 @@
     "updated_at": "2026-03-07T20:18:16Z"
   },
   {
-    "name": "golembot",
-    "full_name": "0xranx/golembot",
-    "description": "Run Cursor, Claude Code, OpenCode, or Codex on Slack, Telegram, Discord, Feishu, DingTalk, WeCom — or embed into any Node.js product.",
-    "url": "https://github.com/0xranx/golembot",
-    "stars": 93,
-    "language": "TypeScript",
-    "updated_at": "2026-03-07T17:17:58Z"
-  },
-  {
-    "name": "blooket",
-    "full_name": "helenigtxu/blooket",
+    "name": "Antigravity-claw",
+    "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
-    "url": "https://github.com/helenigtxu/blooket",
-    "stars": 74,
+    "url": "https://github.com/deborahikssv/Antigravity-claw",
+    "stars": 78,
     "language": "Rust",
-    "updated_at": "2026-03-07T19:47:36Z"
+    "updated_at": "2026-03-08T02:08:16Z"
   },
   {
     "name": "PaperForge",
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 72,
+    "stars": 74,
     "language": "Python",
-    "updated_at": "2026-03-07T14:41:09Z"
+    "updated_at": "2026-03-08T01:05:15Z"
   },
   {
-    "name": "argus",
-    "full_name": "yessGlory17/argus",
-    "description": "Claude Code Session Debugger & Performance Analyzer",
-    "url": "https://github.com/yessGlory17/argus",
-    "stars": 60,
-    "language": "TypeScript",
-    "updated_at": "2026-03-07T19:46:37Z"
+    "name": "kokoclone",
+    "full_name": "Ashish-Patnaik/kokoclone",
+    "description": "Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.",
+    "url": "https://github.com/Ashish-Patnaik/kokoclone",
+    "stars": 42,
+    "language": "Python",
+    "updated_at": "2026-03-07T22:07:10Z"
   },
   {
-    "name": "safe-solana-builder",
-    "full_name": "Frankcastleauditor/safe-solana-builder",
-    "description": "The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle.",
-    "url": "https://github.com/Frankcastleauditor/safe-solana-builder",
-    "stars": 55,
-    "language": null,
-    "updated_at": "2026-03-07T12:54:02Z"
+    "name": "multi-agent-todo",
+    "full_name": "zclllyybb/multi-agent-todo",
+    "description": "A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase.",
+    "url": "https://github.com/zclllyybb/multi-agent-todo",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-03-06T02:39:45Z"
+  },
+  {
+    "name": "Panther",
+    "full_name": "PantherApex/Panther",
+    "description": "A self-hosted AI agent daemon built in Rust. Runs on your machine, talks through Telegram, Discord, Slack, Email and Matrix. Fully local with Ollama or powered by any of 12 cloud providers. Execute commands, capture media, schedule tasks, browse the web , all from a chat message.",
+    "url": "https://github.com/PantherApex/Panther",
+    "stars": 37,
+    "language": "Rust",
+    "updated_at": "2026-03-07T11:25:01Z"
   }
 ]
