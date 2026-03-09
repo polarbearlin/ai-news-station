@@ -4,9 +4,9 @@
     "full_name": "viperrcrypto/Siftly",
     "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
     "url": "https://github.com/viperrcrypto/Siftly",
-    "stars": 898,
+    "stars": 992,
     "language": "TypeScript",
-    "updated_at": "2026-03-08T20:24:51Z"
+    "updated_at": "2026-03-09T02:08:15Z"
   },
   {
     "name": "binance-skills-hub",
@@ -22,27 +22,27 @@
     "full_name": "Crestdrasnip/Claude-Zeroclaw",
     "description": "Claude-Zeroclaw — claude zeroclaw keyword code research. Open-source tool for automation and enhancement.",
     "url": "https://github.com/Crestdrasnip/Claude-Zeroclaw",
-    "stars": 310,
+    "stars": 338,
     "language": "TypeScript",
-    "updated_at": "2026-03-08T20:19:40Z"
+    "updated_at": "2026-03-09T01:36:37Z"
   },
   {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 293,
+    "stars": 294,
     "language": "Rust",
-    "updated_at": "2026-03-08T20:13:19Z"
+    "updated_at": "2026-03-08T20:31:49Z"
   },
   {
     "name": "Antigravity-claw",
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 288,
+    "stars": 291,
     "language": "Rust",
-    "updated_at": "2026-03-08T20:12:26Z"
+    "updated_at": "2026-03-09T01:08:47Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -54,6 +54,24 @@
     "updated_at": "2026-03-07T12:25:57Z"
   },
   {
+    "name": "holysheep-cli",
+    "full_name": "holysheep123/holysheep-cli",
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
+    "url": "https://github.com/holysheep123/holysheep-cli",
+    "stars": 125,
+    "language": "JavaScript",
+    "updated_at": "2026-03-09T01:59:56Z"
+  },
+  {
+    "name": "SkyRoads-Codex",
+    "full_name": "ammaarreshi/SkyRoads-Codex",
+    "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
+    "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
+    "stars": 118,
+    "language": "Rust",
+    "updated_at": "2026-03-09T02:03:27Z"
+  },
+  {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
@@ -63,30 +81,12 @@
     "updated_at": "2026-03-08T15:57:23Z"
   },
   {
-    "name": "SkyRoads-Codex",
-    "full_name": "ammaarreshi/SkyRoads-Codex",
-    "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
-    "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 109,
-    "language": "Rust",
-    "updated_at": "2026-03-08T20:10:29Z"
-  },
-  {
-    "name": "holysheep-cli",
-    "full_name": "holysheep123/holysheep-cli",
-    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-    "url": "https://github.com/holysheep123/holysheep-cli",
-    "stars": 97,
-    "language": "JavaScript",
-    "updated_at": "2026-03-08T20:26:45Z"
-  },
-  {
     "name": "PaperForge",
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 79,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-03-08T16:51:48Z"
+    "updated_at": "2026-03-09T01:01:05Z"
   }
 ]
