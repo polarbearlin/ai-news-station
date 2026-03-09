@@ -4,89 +4,89 @@
     "full_name": "viperrcrypto/Siftly",
     "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
     "url": "https://github.com/viperrcrypto/Siftly",
-    "stars": 1082,
+    "stars": 1159,
     "language": "TypeScript",
-    "updated_at": "2026-03-09T08:39:40Z"
+    "updated_at": "2026-03-09T12:58:54Z"
   },
   {
     "name": "binance-skills-hub",
     "full_name": "binance/binance-skills-hub",
     "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
     "url": "https://github.com/binance/binance-skills-hub",
-    "stars": 362,
+    "stars": 363,
     "language": null,
-    "updated_at": "2026-03-09T07:54:24Z"
+    "updated_at": "2026-03-09T11:22:54Z"
   },
   {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 292,
+    "stars": 269,
     "language": "Rust",
-    "updated_at": "2026-03-09T08:31:35Z"
+    "updated_at": "2026-03-09T13:02:45Z"
   },
   {
     "name": "Antigravity-claw",
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 288,
+    "stars": 268,
     "language": "Rust",
-    "updated_at": "2026-03-09T07:50:18Z"
-  },
-  {
-    "name": "ai-meme-trading-bot",
-    "full_name": "heri1845/ai-meme-trading-bot",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-    "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 173,
-    "language": "Go",
-    "updated_at": "2026-03-07T12:25:57Z"
+    "updated_at": "2026-03-09T13:02:45Z"
   },
   {
     "name": "holysheep-cli",
     "full_name": "holysheep123/holysheep-cli",
     "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
     "url": "https://github.com/holysheep123/holysheep-cli",
-    "stars": 157,
+    "stars": 177,
     "language": "JavaScript",
-    "updated_at": "2026-03-09T08:32:05Z"
+    "updated_at": "2026-03-09T12:55:31Z"
   },
   {
     "name": "SkyRoads-Codex",
     "full_name": "ammaarreshi/SkyRoads-Codex",
     "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
     "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 132,
+    "stars": 135,
     "language": "Rust",
-    "updated_at": "2026-03-09T08:27:28Z"
+    "updated_at": "2026-03-09T13:01:36Z"
+  },
+  {
+    "name": "ai-meme-trading-bot",
+    "full_name": "heri1845/ai-meme-trading-bot",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+    "url": "https://github.com/heri1845/ai-meme-trading-bot",
+    "stars": 120,
+    "language": "Go",
+    "updated_at": "2026-03-09T09:10:40Z"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 117,
+    "stars": 104,
     "language": "Rust",
-    "updated_at": "2026-03-09T07:11:29Z"
+    "updated_at": "2026-03-09T09:10:41Z"
+  },
+  {
+    "name": "Lucid",
+    "full_name": "get-Lucid/Lucid",
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
+    "url": "https://github.com/get-Lucid/Lucid",
+    "stars": 92,
+    "language": "TypeScript",
+    "updated_at": "2026-03-09T12:51:54Z"
   },
   {
     "name": "PaperForge",
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 83,
+    "stars": 85,
     "language": "Python",
-    "updated_at": "2026-03-09T04:54:40Z"
-  },
-  {
-    "name": "kokoclone",
-    "full_name": "Ashish-Patnaik/kokoclone",
-    "description": "Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.",
-    "url": "https://github.com/Ashish-Patnaik/kokoclone",
-    "stars": 47,
-    "language": "Python",
-    "updated_at": "2026-03-08T16:49:24Z"
+    "updated_at": "2026-03-09T12:08:38Z"
   }
 ]
