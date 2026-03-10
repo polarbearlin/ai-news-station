@@ -4,45 +4,45 @@
     "full_name": "viperrcrypto/Siftly",
     "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
     "url": "https://github.com/viperrcrypto/Siftly",
-    "stars": 1340,
+    "stars": 1355,
     "language": "TypeScript",
-    "updated_at": "2026-03-10T12:59:24Z"
+    "updated_at": "2026-03-10T16:34:18Z"
   },
   {
     "name": "holysheep-cli",
     "full_name": "holysheep123/holysheep-cli",
     "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
     "url": "https://github.com/holysheep123/holysheep-cli",
-    "stars": 283,
+    "stars": 300,
     "language": "JavaScript",
-    "updated_at": "2026-03-10T12:59:57Z"
+    "updated_at": "2026-03-10T16:54:08Z"
   },
   {
     "name": "Antigravity-claw",
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 193,
+    "stars": 226,
     "language": "Rust",
-    "updated_at": "2026-03-10T12:51:44Z"
+    "updated_at": "2026-03-10T16:55:22Z"
   },
   {
     "name": "SkyRoads-Codex",
     "full_name": "ammaarreshi/SkyRoads-Codex",
     "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
     "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 150,
+    "stars": 151,
     "language": "Rust",
-    "updated_at": "2026-03-10T11:41:37Z"
+    "updated_at": "2026-03-10T14:44:36Z"
   },
   {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 121,
+    "stars": 122,
     "language": "Rust",
-    "updated_at": "2026-03-10T13:01:25Z"
+    "updated_at": "2026-03-10T15:03:01Z"
   },
   {
     "name": "Lucid",
@@ -67,9 +67,9 @@
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 89,
+    "stars": 92,
     "language": null,
-    "updated_at": "2026-03-10T12:19:54Z"
+    "updated_at": "2026-03-10T16:03:48Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -81,12 +81,12 @@
     "updated_at": "2026-03-10T12:40:42Z"
   },
   {
-    "name": "RusTorch",
-    "full_name": "Genius-apple/RusTorch",
-    "description": "RusTorch is a production-grade deep learning framework re-imagined in Rust. It combines the usability you love from PyTorch with the performance, safety, and concurrency guarantees of Rust. Say goodbye to GIL locks, GC pauses, and runtime errors. Say hello to RusTorch.",
-    "url": "https://github.com/Genius-apple/RusTorch",
-    "stars": 67,
-    "language": "Rust",
-    "updated_at": "2026-03-10T12:38:12Z"
+    "name": "design-studio",
+    "full_name": "Adityaraj0421/design-studio",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
+    "url": "https://github.com/Adityaraj0421/design-studio",
+    "stars": 84,
+    "language": "Shell",
+    "updated_at": "2026-03-10T16:28:34Z"
   }
 ]
