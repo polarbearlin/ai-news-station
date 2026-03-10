@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-03-10 08:43:00",
+  "generated_at": "2026-03-10 13:02:11",
   "news": [
     {
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
       "source": "Hacker News",
-      "time": "2026-03-09 23:22",
-      "score": 166,
-      "comments": 111
+      "time": "2026-03-10 08:54",
+      "score": 221,
+      "comments": 191
     },
     {
-      "title": "Learnings from paying artists royalties for AI-generated art",
-      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
       "source": "Hacker News",
-      "time": "2026-03-10 02:24",
-      "score": 126,
-      "comments": 91
+      "time": "2026-03-07 11:28",
+      "score": 103,
+      "comments": 28
+    },
+    {
+      "title": "TCXO Failure Analysis",
+      "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+      "source": "Hacker News",
+      "time": "2026-03-07 04:49",
+      "score": 44,
+      "comments": 12
     }
   ]
 }

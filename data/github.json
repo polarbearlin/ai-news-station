@@ -4,45 +4,45 @@
     "full_name": "viperrcrypto/Siftly",
     "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
     "url": "https://github.com/viperrcrypto/Siftly",
-    "stars": 1319,
+    "stars": 1340,
     "language": "TypeScript",
-    "updated_at": "2026-03-10T08:23:58Z"
+    "updated_at": "2026-03-10T12:59:24Z"
   },
   {
     "name": "holysheep-cli",
     "full_name": "holysheep123/holysheep-cli",
     "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
     "url": "https://github.com/holysheep123/holysheep-cli",
-    "stars": 263,
+    "stars": 283,
     "language": "JavaScript",
-    "updated_at": "2026-03-10T08:27:31Z"
+    "updated_at": "2026-03-10T12:59:57Z"
   },
   {
     "name": "Antigravity-claw",
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 152,
+    "stars": 193,
     "language": "Rust",
-    "updated_at": "2026-03-10T08:39:19Z"
+    "updated_at": "2026-03-10T12:51:44Z"
   },
   {
     "name": "SkyRoads-Codex",
     "full_name": "ammaarreshi/SkyRoads-Codex",
     "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
     "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 147,
+    "stars": 150,
     "language": "Rust",
-    "updated_at": "2026-03-10T07:00:08Z"
+    "updated_at": "2026-03-10T11:41:37Z"
   },
   {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 120,
+    "stars": 121,
     "language": "Rust",
-    "updated_at": "2026-03-10T06:57:12Z"
+    "updated_at": "2026-03-10T13:01:25Z"
   },
   {
     "name": "Lucid",
@@ -58,35 +58,35 @@
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 96,
+    "stars": 95,
     "language": "Python",
-    "updated_at": "2026-03-10T08:00:59Z"
-  },
-  {
-    "name": "ai-meme-trading-bot",
-    "full_name": "heri1845/ai-meme-trading-bot",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-    "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 88,
-    "language": "Go",
-    "updated_at": "2026-03-10T07:01:14Z"
+    "updated_at": "2026-03-10T12:45:24Z"
   },
   {
     "name": "agency-agents-zh",
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 84,
+    "stars": 89,
     "language": null,
-    "updated_at": "2026-03-10T08:41:47Z"
+    "updated_at": "2026-03-10T12:19:54Z"
+  },
+  {
+    "name": "ai-meme-trading-bot",
+    "full_name": "heri1845/ai-meme-trading-bot",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
+    "url": "https://github.com/heri1845/ai-meme-trading-bot",
+    "stars": 85,
+    "language": "Go",
+    "updated_at": "2026-03-10T12:40:42Z"
   },
   {
     "name": "RusTorch",
     "full_name": "Genius-apple/RusTorch",
     "description": "RusTorch is a production-grade deep learning framework re-imagined in Rust. It combines the usability you love from PyTorch with the performance, safety, and concurrency guarantees of Rust. Say goodbye to GIL locks, GC pauses, and runtime errors. Say hello to RusTorch.",
     "url": "https://github.com/Genius-apple/RusTorch",
-    "stars": 60,
+    "stars": 67,
     "language": "Rust",
-    "updated_at": "2026-03-10T08:20:16Z"
+    "updated_at": "2026-03-10T12:38:12Z"
   }
 ]
