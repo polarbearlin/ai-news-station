@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-03-10 16:56:15",
+  "generated_at": "2026-03-10 20:35:17",
   "news": [
+    {
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "source": "Hacker News",
+      "time": "2026-03-10 08:46",
+      "score": 163,
+      "comments": 267
+    },
+    {
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "source": "Hacker News",
+      "time": "2026-03-10 17:14",
+      "score": 142,
+      "comments": 57
+    },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
       "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
       "source": "Hacker News",
       "time": "2026-03-10 14:53",
-      "score": 97,
-      "comments": 69
+      "score": 216,
+      "comments": 170
     },
     {
-      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
-      "url": "https://dnhkng.github.io/posts/rys/",
+      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
       "source": "Hacker News",
-      "time": "2026-03-10 13:18",
-      "score": 85,
-      "comments": 36
-    },
-    {
-      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
-      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "source": "Hacker News",
-      "time": "2026-03-07 11:28",
-      "score": 206,
-      "comments": 85
+      "time": "2026-03-10 13:31",
+      "score": 27,
+      "comments": 207
     }
   ]
 }
