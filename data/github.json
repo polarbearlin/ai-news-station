@@ -15,34 +15,34 @@
     "url": "https://github.com/deborahikssv/Antigravity-claw",
     "stars": 255,
     "language": "Rust",
-    "updated_at": "2026-03-11T07:42:29Z"
-  },
-  {
-    "name": "SkyRoads-Codex",
-    "full_name": "ammaarreshi/SkyRoads-Codex",
-    "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
-    "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 154,
-    "language": "Rust",
-    "updated_at": "2026-03-11T07:21:29Z"
+    "updated_at": "2026-03-11T12:59:06Z"
   },
   {
     "name": "agency-agents-zh",
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 147,
+    "stars": 157,
     "language": null,
-    "updated_at": "2026-03-11T08:34:00Z"
+    "updated_at": "2026-03-11T12:34:16Z"
+  },
+  {
+    "name": "SkyRoads-Codex",
+    "full_name": "ammaarreshi/SkyRoads-Codex",
+    "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
+    "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
+    "stars": 155,
+    "language": "Rust",
+    "updated_at": "2026-03-11T08:43:46Z"
   },
   {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 140,
+    "stars": 151,
     "language": "Shell",
-    "updated_at": "2026-03-11T08:17:31Z"
+    "updated_at": "2026-03-11T12:56:31Z"
   },
   {
     "name": "blooket",
@@ -67,9 +67,9 @@
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 97,
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-03-11T05:24:38Z"
+    "updated_at": "2026-03-11T09:25:31Z"
   },
   {
     "name": "RusTorch",
@@ -85,8 +85,8 @@
     "full_name": "heri1845/ai-meme-trading-bot",
     "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
     "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 82,
+    "stars": 81,
     "language": "Go",
-    "updated_at": "2026-03-11T06:17:09Z"
+    "updated_at": "2026-03-11T12:13:25Z"
   }
 ]
