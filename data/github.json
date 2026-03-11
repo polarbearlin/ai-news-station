@@ -13,9 +13,9 @@
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 247,
+    "stars": 252,
     "language": "Rust",
-    "updated_at": "2026-03-11T01:47:33Z"
+    "updated_at": "2026-03-11T04:53:22Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -31,9 +31,18 @@
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 123,
+    "stars": 130,
     "language": "Shell",
-    "updated_at": "2026-03-11T02:01:33Z"
+    "updated_at": "2026-03-11T04:52:46Z"
+  },
+  {
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 127,
+    "language": null,
+    "updated_at": "2026-03-11T04:58:55Z"
   },
   {
     "name": "blooket",
@@ -43,15 +52,6 @@
     "stars": 123,
     "language": "Rust",
     "updated_at": "2026-03-10T23:22:05Z"
-  },
-  {
-    "name": "agency-agents-zh",
-    "full_name": "jnMetaCode/agency-agents-zh",
-    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 109,
-    "language": null,
-    "updated_at": "2026-03-11T01:45:07Z"
   },
   {
     "name": "Lucid",
@@ -67,9 +67,18 @@
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 95,
+    "stars": 96,
     "language": "Python",
-    "updated_at": "2026-03-10T12:45:24Z"
+    "updated_at": "2026-03-11T04:40:26Z"
+  },
+  {
+    "name": "RusTorch",
+    "full_name": "Genius-apple/RusTorch",
+    "description": "RusTorch is a production-grade deep learning framework re-imagined in Rust. It combines the usability you love from PyTorch with the performance, safety, and concurrency guarantees of Rust. Say goodbye to GIL locks, GC pauses, and runtime errors. Say hello to RusTorch.",
+    "url": "https://github.com/Genius-apple/RusTorch",
+    "stars": 83,
+    "language": "Rust",
+    "updated_at": "2026-03-11T05:07:39Z"
   },
   {
     "name": "ai-meme-trading-bot",
@@ -79,14 +88,5 @@
     "stars": 83,
     "language": "Go",
     "updated_at": "2026-03-10T22:46:54Z"
-  },
-  {
-    "name": "RusTorch",
-    "full_name": "Genius-apple/RusTorch",
-    "description": "RusTorch is a production-grade deep learning framework re-imagined in Rust. It combines the usability you love from PyTorch with the performance, safety, and concurrency guarantees of Rust. Say goodbye to GIL locks, GC pauses, and runtime errors. Say hello to RusTorch.",
-    "url": "https://github.com/Genius-apple/RusTorch",
-    "stars": 77,
-    "language": "Rust",
-    "updated_at": "2026-03-11T02:02:18Z"
   }
 ]
