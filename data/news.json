@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-03-11 16:53:30",
+  "generated_at": "2026-03-11 20:34:55",
   "news": [
     {
-      "title": "Faster asin() was hiding in plain sight",
-      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "source": "Hacker News",
-      "time": "2026-03-11 14:35",
-      "score": 99,
-      "comments": 43
-    },
-    {
-      "title": "Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do",
-      "url": "https://www.sentrial.com/",
-      "source": "Hacker News",
-      "time": "2026-03-11 16:24",
-      "score": 5,
-      "comments": 4
+      "time": "2026-03-11 19:29",
+      "score": 707,
+      "comments": 306
     }
   ]
 }
