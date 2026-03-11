@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-03-11 05:11:30",
+  "generated_at": "2026-03-11 08:42:01",
   "news": [
+    {
+      "title": "Why does AI tell you to use Terminal so much?",
+      "url": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
+      "source": "Hacker News",
+      "time": "2026-03-11 08:22",
+      "score": 12,
+      "comments": 6
+    },
     {
       "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
       "url": "https://github.com/gcv/julia-snail",
       "source": "Hacker News",
       "time": "2026-03-08 09:27",
-      "score": 26,
-      "comments": 0
+      "score": 58,
+      "comments": 7
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "source": "Hacker News",
       "time": "2026-03-10 08:46",
-      "score": 391,
-      "comments": 347
-    },
-    {
-      "title": "Writing my own text editor, and daily-driving it",
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "source": "Hacker News",
-      "time": "2026-03-11 02:04",
-      "score": 38,
-      "comments": 9
-    },
-    {
-      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "url": "https://github.com/RunanywhereAI/rcli",
-      "source": "Hacker News",
-      "time": "2026-03-10 17:14",
-      "score": 196,
-      "comments": 118
+      "score": 450,
+      "comments": 369
     }
   ]
 }
