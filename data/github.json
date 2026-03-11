@@ -18,13 +18,31 @@
     "updated_at": "2026-03-11T12:59:06Z"
   },
   {
+    "name": "Lucid",
+    "full_name": "get-Lucid/Lucid",
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
+    "url": "https://github.com/get-Lucid/Lucid",
+    "stars": 194,
+    "language": "TypeScript",
+    "updated_at": "2026-03-11T16:53:28Z"
+  },
+  {
     "name": "agency-agents-zh",
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 157,
+    "stars": 168,
     "language": null,
-    "updated_at": "2026-03-11T12:34:16Z"
+    "updated_at": "2026-03-11T16:34:25Z"
+  },
+  {
+    "name": "design-studio",
+    "full_name": "Adityaraj0421/design-studio",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
+    "url": "https://github.com/Adityaraj0421/design-studio",
+    "stars": 162,
+    "language": "Shell",
+    "updated_at": "2026-03-11T16:16:41Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -36,15 +54,6 @@
     "updated_at": "2026-03-11T08:43:46Z"
   },
   {
-    "name": "design-studio",
-    "full_name": "Adityaraj0421/design-studio",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
-    "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 151,
-    "language": "Shell",
-    "updated_at": "2026-03-11T12:56:31Z"
-  },
-  {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
@@ -54,22 +63,13 @@
     "updated_at": "2026-03-10T23:22:05Z"
   },
   {
-    "name": "Lucid",
-    "full_name": "get-Lucid/Lucid",
-    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
-    "url": "https://github.com/get-Lucid/Lucid",
-    "stars": 103,
-    "language": "TypeScript",
-    "updated_at": "2026-03-10T22:33:44Z"
-  },
-  {
     "name": "PaperForge",
     "full_name": "QJHWC/PaperForge",
     "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
     "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 98,
+    "stars": 99,
     "language": "Python",
-    "updated_at": "2026-03-11T09:25:31Z"
+    "updated_at": "2026-03-11T14:16:30Z"
   },
   {
     "name": "RusTorch",
