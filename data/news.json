@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-03-10 20:35:17",
+  "generated_at": "2026-03-11 02:02:44",
   "news": [
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "source": "Hacker News",
       "time": "2026-03-10 08:46",
-      "score": 163,
-      "comments": 267
+      "score": 336,
+      "comments": 324
     },
     {
       "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
       "url": "https://github.com/RunanywhereAI/rcli",
       "source": "Hacker News",
       "time": "2026-03-10 17:14",
-      "score": 142,
-      "comments": 57
+      "score": 183,
+      "comments": 99
+    },
+    {
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "source": "Hacker News",
+      "time": "2026-03-10 22:33",
+      "score": 107,
+      "comments": 29
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
       "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
       "source": "Hacker News",
       "time": "2026-03-10 14:53",
-      "score": 216,
-      "comments": 170
-    },
-    {
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "source": "Hacker News",
-      "time": "2026-03-10 13:31",
-      "score": 27,
-      "comments": 207
+      "score": 282,
+      "comments": 212
     }
   ]
 }
