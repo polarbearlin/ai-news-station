@@ -13,9 +13,9 @@
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 255,
+    "stars": 254,
     "language": "Rust",
-    "updated_at": "2026-03-11T12:59:06Z"
+    "updated_at": "2026-03-12T01:24:55Z"
   },
   {
     "name": "Lucid",
@@ -31,18 +31,18 @@
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 169,
+    "stars": 181,
     "language": null,
-    "updated_at": "2026-03-11T19:15:55Z"
+    "updated_at": "2026-03-12T01:46:47Z"
   },
   {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 167,
+    "stars": 175,
     "language": "Shell",
-    "updated_at": "2026-03-11T20:26:17Z"
+    "updated_at": "2026-03-12T01:26:51Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -81,12 +81,12 @@
     "updated_at": "2026-03-11T06:00:36Z"
   },
   {
-    "name": "ai-meme-trading-bot",
-    "full_name": "heri1845/ai-meme-trading-bot",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction",
-    "url": "https://github.com/heri1845/ai-meme-trading-bot",
-    "stars": 81,
-    "language": "Go",
-    "updated_at": "2026-03-11T12:13:25Z"
+    "name": "airt",
+    "full_name": "0x4D31/airt",
+    "description": "AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
+    "url": "https://github.com/0x4D31/airt",
+    "stars": 54,
+    "language": "HTML",
+    "updated_at": "2026-03-12T02:08:43Z"
   }
 ]
