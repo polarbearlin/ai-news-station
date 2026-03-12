@@ -4,9 +4,9 @@
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 338,
+    "stars": 348,
     "language": "Rust",
-    "updated_at": "2026-03-12T16:37:28Z"
+    "updated_at": "2026-03-12T20:15:39Z"
   },
   {
     "name": "holysheep-cli",
@@ -18,31 +18,31 @@
     "updated_at": "2026-03-11T07:07:09Z"
   },
   {
-    "name": "agency-agents-zh",
-    "full_name": "jnMetaCode/agency-agents-zh",
-    "description": "AI 智能体专家团队（中文版）— 146 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等 19 个中国平台原创智能体，支持 10 种 AI 编程工具",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 243,
-    "language": "Shell",
-    "updated_at": "2026-03-12T16:36:38Z"
-  },
-  {
     "name": "Lucid",
     "full_name": "get-Lucid/Lucid",
     "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
     "url": "https://github.com/get-Lucid/Lucid",
-    "stars": 237,
+    "stars": 248,
     "language": "TypeScript",
-    "updated_at": "2026-03-12T15:01:47Z"
+    "updated_at": "2026-03-12T17:52:59Z"
+  },
+  {
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 146 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等 19 个中国平台原创智能体，支持 10 种 AI 编程工具",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 247,
+    "language": "Shell",
+    "updated_at": "2026-03-12T19:58:19Z"
   },
   {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 184,
+    "stars": 185,
     "language": "Shell",
-    "updated_at": "2026-03-12T16:02:53Z"
+    "updated_at": "2026-03-12T18:14:26Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -58,9 +58,9 @@
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 125,
+    "stars": 126,
     "language": "Rust",
-    "updated_at": "2026-03-12T15:31:12Z"
+    "updated_at": "2026-03-12T19:16:04Z"
   },
   {
     "name": "PaperForge",
@@ -76,9 +76,9 @@
     "full_name": "0x4D31/airt",
     "description": "AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
     "url": "https://github.com/0x4D31/airt",
-    "stars": 91,
+    "stars": 92,
     "language": "HTML",
-    "updated_at": "2026-03-12T14:33:00Z"
+    "updated_at": "2026-03-12T17:21:53Z"
   },
   {
     "name": "RusTorch",
