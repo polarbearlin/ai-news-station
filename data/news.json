@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-03-12 05:15:30",
+  "generated_at": "2026-03-12 08:43:02",
   "news": [
     {
-      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
       "source": "Hacker News",
-      "time": "2026-03-12 03:29",
-      "score": 68,
-      "comments": 12
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "source": "Hacker News",
-      "time": "2026-03-11 19:29",
-      "score": 3114,
-      "comments": 1182
-    },
-    {
-      "title": "I was interviewed by an AI bot for a job",
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "source": "Hacker News",
-      "time": "2026-03-11 18:17",
-      "score": 213,
-      "comments": 212
+      "time": "2026-03-12 06:06",
+      "score": 76,
+      "comments": 53
     }
   ]
 }
