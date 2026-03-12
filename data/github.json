@@ -13,45 +13,45 @@
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 254,
+    "stars": 268,
     "language": "Rust",
-    "updated_at": "2026-03-12T01:24:55Z"
+    "updated_at": "2026-03-12T05:12:11Z"
   },
   {
     "name": "Lucid",
     "full_name": "get-Lucid/Lucid",
     "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
     "url": "https://github.com/get-Lucid/Lucid",
-    "stars": 203,
+    "stars": 218,
     "language": "TypeScript",
-    "updated_at": "2026-03-11T17:07:09Z"
+    "updated_at": "2026-03-12T05:02:34Z"
   },
   {
     "name": "agency-agents-zh",
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 181,
+    "stars": 195,
     "language": null,
-    "updated_at": "2026-03-12T01:46:47Z"
+    "updated_at": "2026-03-12T04:58:50Z"
   },
   {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 175,
+    "stars": 177,
     "language": "Shell",
-    "updated_at": "2026-03-12T01:26:51Z"
+    "updated_at": "2026-03-12T03:43:33Z"
   },
   {
     "name": "SkyRoads-Codex",
     "full_name": "ammaarreshi/SkyRoads-Codex",
     "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
     "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 155,
+    "stars": 156,
     "language": "Rust",
-    "updated_at": "2026-03-11T08:43:46Z"
+    "updated_at": "2026-03-12T03:47:05Z"
   },
   {
     "name": "blooket",
@@ -60,7 +60,7 @@
     "url": "https://github.com/helenigtxu/blooket",
     "stars": 123,
     "language": "Rust",
-    "updated_at": "2026-03-10T23:22:05Z"
+    "updated_at": "2026-03-12T02:11:36Z"
   },
   {
     "name": "PaperForge",
@@ -85,8 +85,8 @@
     "full_name": "0x4D31/airt",
     "description": "AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
     "url": "https://github.com/0x4D31/airt",
-    "stars": 54,
+    "stars": 75,
     "language": "HTML",
-    "updated_at": "2026-03-12T02:08:43Z"
+    "updated_at": "2026-03-12T04:22:43Z"
   }
 ]

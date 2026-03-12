@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-12 02:09:06",
+  "generated_at": "2026-03-12 05:15:30",
   "news": [
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "source": "Hacker News",
+      "time": "2026-03-12 03:29",
+      "score": 68,
+      "comments": 12
+    },
+    {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "source": "Hacker News",
       "time": "2026-03-11 19:29",
-      "score": 2802,
-      "comments": 1028
+      "score": 3114,
+      "comments": 1182
     },
     {
       "title": "I was interviewed by an AI bot for a job",
       "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "source": "Hacker News",
       "time": "2026-03-11 18:17",
-      "score": 148,
-      "comments": 159
-    },
-    {
-      "title": "How much of HN is AI?",
-      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
-      "source": "Hacker News",
-      "time": "2026-03-12 01:15",
-      "score": 30,
-      "comments": 8
+      "score": 213,
+      "comments": 212
     }
   ]
 }
