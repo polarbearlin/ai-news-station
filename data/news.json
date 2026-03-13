@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-03-13 02:06:47",
+  "generated_at": "2026-03-13 05:12:54",
   "news": [
     {
       "title": "Reversing memory loss via gut-brain communication",
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
       "source": "Hacker News",
       "time": "2026-03-12 16:38",
-      "score": 236,
-      "comments": 94
-    },
-    {
-      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
-      "url": "https://aminrj.com/posts/rag-document-poisoning/",
-      "source": "Hacker News",
-      "time": "2026-03-12 13:40",
-      "score": 71,
-      "comments": 26
-    },
-    {
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "source": "Hacker News",
-      "time": "2026-03-12 20:55",
-      "score": 408,
-      "comments": 208
+      "score": 274,
+      "comments": 108
     }
   ]
 }
