@@ -1,5 +1,14 @@
 [
   {
+    "name": "HyperLiquid-Claw",
+    "full_name": "Rohit24567/HyperLiquid-Claw",
+    "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
+    "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+    "stars": 390,
+    "language": "Rust",
+    "updated_at": "2026-03-13T08:39:38Z"
+  },
+  {
     "name": "Antigravity-claw",
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
@@ -31,9 +40,9 @@
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 188,
+    "stars": 189,
     "language": "Shell",
-    "updated_at": "2026-03-13T02:55:10Z"
+    "updated_at": "2026-03-13T07:17:39Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -49,9 +58,9 @@
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 134,
+    "stars": 142,
     "language": "TypeScript",
-    "updated_at": "2026-03-13T04:57:26Z"
+    "updated_at": "2026-03-13T08:36:47Z"
   },
   {
     "name": "blooket",
@@ -63,30 +72,21 @@
     "updated_at": "2026-03-12T22:39:05Z"
   },
   {
+    "name": "tome",
+    "full_name": "vxcozy/tome",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+    "url": "https://github.com/vxcozy/tome",
+    "stars": 105,
+    "language": "TypeScript",
+    "updated_at": "2026-03-13T08:39:00Z"
+  },
+  {
     "name": "airt",
     "full_name": "0x4D31/airt",
     "description": "AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
     "url": "https://github.com/0x4D31/airt",
-    "stars": 97,
+    "stars": 100,
     "language": "HTML",
-    "updated_at": "2026-03-13T03:53:16Z"
-  },
-  {
-    "name": "RusTorch",
-    "full_name": "Genius-apple/RusTorch",
-    "description": "RusTorch is a production-grade deep learning framework re-imagined in Rust. It combines the usability you love from PyTorch with the performance, safety, and concurrency guarantees of Rust. Say goodbye to GIL locks, GC pauses, and runtime errors. Say hello to RusTorch.",
-    "url": "https://github.com/Genius-apple/RusTorch",
-    "stars": 85,
-    "language": "Rust",
-    "updated_at": "2026-03-12T12:33:29Z"
-  },
-  {
-    "name": "h1-brain",
-    "full_name": "PatrikFehrenbach/h1-brain",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
-    "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 77,
-    "language": "Python",
-    "updated_at": "2026-03-13T03:59:52Z"
+    "updated_at": "2026-03-13T07:20:12Z"
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-13 05:12:54",
+  "generated_at": "2026-03-13 08:40:26",
   "news": [
     {
-      "title": "Reversing memory loss via gut-brain communication",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "title": "Executing programs inside transformers with exponentially faster inference",
+      "url": "https://www.percepta.ai/blog/can-llms-be-computers",
       "source": "Hacker News",
-      "time": "2026-03-12 16:38",
-      "score": 274,
-      "comments": 108
+      "time": "2026-03-12 09:17",
+      "score": 54,
+      "comments": 5
     }
   ]
 }
