@@ -4,9 +4,9 @@
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 390,
+    "stars": 401,
     "language": "Rust",
-    "updated_at": "2026-03-13T08:39:38Z"
+    "updated_at": "2026-03-13T12:11:11Z"
   },
   {
     "name": "Antigravity-claw",
@@ -40,9 +40,27 @@
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 189,
+    "stars": 190,
     "language": "Shell",
-    "updated_at": "2026-03-13T07:17:39Z"
+    "updated_at": "2026-03-13T12:53:43Z"
+  },
+  {
+    "name": "understudy",
+    "full_name": "understudy-ai/understudy",
+    "description": "An understudy watches. Then performs.",
+    "url": "https://github.com/understudy-ai/understudy",
+    "stars": 162,
+    "language": "TypeScript",
+    "updated_at": "2026-03-13T12:54:49Z"
+  },
+  {
+    "name": "tome",
+    "full_name": "vxcozy/tome",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+    "url": "https://github.com/vxcozy/tome",
+    "stars": 159,
+    "language": "TypeScript",
+    "updated_at": "2026-03-13T12:57:25Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -54,15 +72,6 @@
     "updated_at": "2026-03-12T08:39:54Z"
   },
   {
-    "name": "understudy",
-    "full_name": "understudy-ai/understudy",
-    "description": "An understudy watches. Then performs.",
-    "url": "https://github.com/understudy-ai/understudy",
-    "stars": 142,
-    "language": "TypeScript",
-    "updated_at": "2026-03-13T08:36:47Z"
-  },
-  {
     "name": "blooket",
     "full_name": "helenigtxu/blooket",
     "description": null,
@@ -72,21 +81,12 @@
     "updated_at": "2026-03-12T22:39:05Z"
   },
   {
-    "name": "tome",
-    "full_name": "vxcozy/tome",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
-    "url": "https://github.com/vxcozy/tome",
-    "stars": 105,
-    "language": "TypeScript",
-    "updated_at": "2026-03-13T08:39:00Z"
-  },
-  {
     "name": "airt",
     "full_name": "0x4D31/airt",
     "description": "AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
     "url": "https://github.com/0x4D31/airt",
-    "stars": 100,
+    "stars": 103,
     "language": "HTML",
-    "updated_at": "2026-03-13T07:20:12Z"
+    "updated_at": "2026-03-13T12:29:53Z"
   }
 ]
