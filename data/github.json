@@ -4,9 +4,9 @@
     "full_name": "deborahikssv/Antigravity-claw",
     "description": null,
     "url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 348,
+    "stars": 351,
     "language": "Rust",
-    "updated_at": "2026-03-12T20:15:39Z"
+    "updated_at": "2026-03-12T23:46:42Z"
   },
   {
     "name": "holysheep-cli",
@@ -27,22 +27,13 @@
     "updated_at": "2026-03-12T17:52:59Z"
   },
   {
-    "name": "agency-agents-zh",
-    "full_name": "jnMetaCode/agency-agents-zh",
-    "description": "AI 智能体专家团队（中文版）— 146 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等 19 个中国平台原创智能体，支持 10 种 AI 编程工具",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 247,
-    "language": "Shell",
-    "updated_at": "2026-03-12T19:58:19Z"
-  },
-  {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 185,
+    "stars": 187,
     "language": "Shell",
-    "updated_at": "2026-03-12T18:14:26Z"
+    "updated_at": "2026-03-13T01:31:32Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -60,25 +51,16 @@
     "url": "https://github.com/helenigtxu/blooket",
     "stars": 126,
     "language": "Rust",
-    "updated_at": "2026-03-12T19:16:04Z"
-  },
-  {
-    "name": "PaperForge",
-    "full_name": "QJHWC/PaperForge",
-    "description": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH remote training, incremental sync, and anti-AI-detection writing style.",
-    "url": "https://github.com/QJHWC/PaperForge",
-    "stars": 100,
-    "language": "Python",
-    "updated_at": "2026-03-12T07:23:18Z"
+    "updated_at": "2026-03-12T22:39:05Z"
   },
   {
     "name": "airt",
     "full_name": "0x4D31/airt",
     "description": "AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
     "url": "https://github.com/0x4D31/airt",
-    "stars": 92,
+    "stars": 95,
     "language": "HTML",
-    "updated_at": "2026-03-12T17:21:53Z"
+    "updated_at": "2026-03-13T01:46:33Z"
   },
   {
     "name": "RusTorch",
@@ -88,5 +70,23 @@
     "stars": 85,
     "language": "Rust",
     "updated_at": "2026-03-12T12:33:29Z"
+  },
+  {
+    "name": "h1-brain",
+    "full_name": "PatrikFehrenbach/h1-brain",
+    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
+    "url": "https://github.com/PatrikFehrenbach/h1-brain",
+    "stars": 76,
+    "language": "Python",
+    "updated_at": "2026-03-13T01:41:18Z"
+  },
+  {
+    "name": "claude-memory-engine",
+    "full_name": "HelloRuru/claude-memory-engine",
+    "description": "Claude Code 的記憶系統 | A memory system built with hooks + markdown. Zero dependencies.",
+    "url": "https://github.com/HelloRuru/claude-memory-engine",
+    "stars": 52,
+    "language": "JavaScript",
+    "updated_at": "2026-03-13T01:33:40Z"
   }
 ]
