@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-03-13 16:40:54",
+  "generated_at": "2026-03-13 20:35:35",
   "news": [
     {
-      "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
-      "url": "https://www.runcaptain.com/",
-      "source": "Hacker News",
-      "time": "2026-03-13 15:45",
-      "score": 14,
-      "comments": 3
-    },
-    {
-      "title": "Can I Run AI locally?",
+      "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
       "source": "Hacker News",
       "time": "2026-03-13 12:46",
-      "score": 80,
-      "comments": 19
+      "score": 555,
+      "comments": 137
     },
     {
-      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
-      "url": "https://www.getspine.ai/",
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "source": "Hacker News",
-      "time": "2026-03-13 13:22",
-      "score": 52,
-      "comments": 48
+      "time": "2026-03-13 12:31",
+      "score": 219,
+      "comments": 203
+    },
+    {
+      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+      "url": "https://github.com/Compresr-ai/Context-Gateway",
+      "source": "Hacker News",
+      "time": "2026-03-13 17:58",
+      "score": 35,
+      "comments": 24
+    },
+    {
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+      "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+      "source": "Hacker News",
+      "time": "2026-03-13 16:40",
+      "score": 94,
+      "comments": 82
     }
   ]
 }

@@ -4,9 +4,9 @@
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 408,
+    "stars": 419,
     "language": "Rust",
-    "updated_at": "2026-03-13T16:09:16Z"
+    "updated_at": "2026-03-13T19:50:13Z"
   },
   {
     "name": "Antigravity-claw",
@@ -15,7 +15,7 @@
     "url": "https://github.com/deborahikssv/Antigravity-claw",
     "stars": 351,
     "language": "Rust",
-    "updated_at": "2026-03-12T23:46:42Z"
+    "updated_at": "2026-03-13T20:29:29Z"
   },
   {
     "name": "holysheep-cli",
@@ -36,31 +36,31 @@
     "updated_at": "2026-03-13T14:37:31Z"
   },
   {
-    "name": "design-studio",
-    "full_name": "Adityaraj0421/design-studio",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
-    "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 192,
-    "language": "Shell",
-    "updated_at": "2026-03-13T15:43:17Z"
-  },
-  {
     "name": "tome",
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 185,
+    "stars": 204,
     "language": "TypeScript",
-    "updated_at": "2026-03-13T16:30:40Z"
+    "updated_at": "2026-03-13T20:20:51Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 184,
+    "stars": 196,
     "language": "TypeScript",
-    "updated_at": "2026-03-13T16:40:49Z"
+    "updated_at": "2026-03-13T20:21:45Z"
+  },
+  {
+    "name": "design-studio",
+    "full_name": "Adityaraj0421/design-studio",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
+    "url": "https://github.com/Adityaraj0421/design-studio",
+    "stars": 194,
+    "language": "Shell",
+    "updated_at": "2026-03-13T19:02:31Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -76,9 +76,9 @@
     "full_name": "helenigtxu/blooket",
     "description": null,
     "url": "https://github.com/helenigtxu/blooket",
-    "stars": 126,
+    "stars": 127,
     "language": "Rust",
-    "updated_at": "2026-03-13T14:57:38Z"
+    "updated_at": "2026-03-13T19:34:10Z"
   },
   {
     "name": "airt",
