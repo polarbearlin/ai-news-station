@@ -4,9 +4,9 @@
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 425,
+    "stars": 428,
     "language": "Rust",
-    "updated_at": "2026-03-14T01:47:16Z"
+    "updated_at": "2026-03-14T04:59:12Z"
   },
   {
     "name": "Lucid",
@@ -22,18 +22,18 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 225,
+    "stars": 228,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T02:02:55Z"
+    "updated_at": "2026-03-14T05:08:52Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 206,
+    "stars": 208,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T01:20:15Z"
+    "updated_at": "2026-03-14T02:39:04Z"
   },
   {
     "name": "design-studio",
@@ -42,7 +42,7 @@
     "url": "https://github.com/Adityaraj0421/design-studio",
     "stars": 197,
     "language": "Shell",
-    "updated_at": "2026-03-13T23:23:00Z"
+    "updated_at": "2026-03-14T03:28:08Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -54,22 +54,31 @@
     "updated_at": "2026-03-13T16:14:03Z"
   },
   {
+    "name": "autoresearch",
+    "full_name": "uditgoenka/autoresearch",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "stars": 119,
+    "language": null,
+    "updated_at": "2026-03-14T05:07:53Z"
+  },
+  {
     "name": "clarvis-ai",
     "full_name": "makermate/clarvis-ai",
     "description": "Clarvis - 3D Printing Made Easy",
     "url": "https://github.com/makermate/clarvis-ai",
-    "stars": 103,
+    "stars": 105,
     "language": "Shell",
-    "updated_at": "2026-03-14T02:01:11Z"
+    "updated_at": "2026-03-14T04:12:41Z"
   },
   {
     "name": "h1-brain",
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 95,
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-03-13T21:40:16Z"
+    "updated_at": "2026-03-14T04:42:09Z"
   },
   {
     "name": "RusTorch",
@@ -79,14 +88,5 @@
     "stars": 85,
     "language": "Rust",
     "updated_at": "2026-03-12T12:33:29Z"
-  },
-  {
-    "name": "autoresearch",
-    "full_name": "uditgoenka/autoresearch",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-    "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 79,
-    "language": null,
-    "updated_at": "2026-03-14T01:58:36Z"
   }
 ]
