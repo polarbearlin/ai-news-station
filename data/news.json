@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-03-14 08:36:15",
+  "generated_at": "2026-03-14 12:53:15",
   "news": [
     {
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
       "source": "Hacker News",
       "time": "2026-03-13 17:19",
-      "score": 629,
-      "comments": 256
-    },
-    {
-      "title": "Emacs and Vim in the Age of AI",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "source": "Hacker News",
-      "time": "2026-03-10 04:21",
-      "score": 109,
-      "comments": 48
+      "score": 822,
+      "comments": 322
     },
     {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "source": "Hacker News",
       "time": "2026-03-13 12:31",
-      "score": 546,
-      "comments": 476
+      "score": 623,
+      "comments": 526
     }
   ]
 }

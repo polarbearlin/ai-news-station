@@ -4,9 +4,9 @@
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 434,
+    "stars": 438,
     "language": "Rust",
-    "updated_at": "2026-03-14T07:57:16Z"
+    "updated_at": "2026-03-14T12:50:50Z"
   },
   {
     "name": "Lucid",
@@ -22,18 +22,27 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 231,
+    "stars": 233,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T07:15:57Z"
+    "updated_at": "2026-03-14T10:46:08Z"
+  },
+  {
+    "name": "autoresearch",
+    "full_name": "uditgoenka/autoresearch",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "stars": 232,
+    "language": null,
+    "updated_at": "2026-03-14T12:47:45Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 213,
+    "stars": 216,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T08:34:23Z"
+    "updated_at": "2026-03-14T12:16:31Z"
   },
   {
     "name": "design-studio",
@@ -45,48 +54,39 @@
     "updated_at": "2026-03-14T08:01:17Z"
   },
   {
-    "name": "autoresearch",
-    "full_name": "uditgoenka/autoresearch",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-    "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 174,
-    "language": null,
-    "updated_at": "2026-03-14T08:35:02Z"
-  },
-  {
     "name": "SkyRoads-Codex",
     "full_name": "ammaarreshi/SkyRoads-Codex",
     "description": "Reverse engineering a DOS game with no source code using Codex 5.4",
     "url": "https://github.com/ammaarreshi/SkyRoads-Codex",
-    "stars": 159,
+    "stars": 160,
     "language": "Rust",
-    "updated_at": "2026-03-13T16:14:03Z"
+    "updated_at": "2026-03-14T11:56:44Z"
   },
   {
     "name": "clarvis-ai",
     "full_name": "makermate/clarvis-ai",
     "description": "Clarvis - 3D Printing Made Easy",
     "url": "https://github.com/makermate/clarvis-ai",
-    "stars": 108,
+    "stars": 112,
     "language": "Shell",
-    "updated_at": "2026-03-14T08:01:38Z"
+    "updated_at": "2026-03-14T10:14:57Z"
   },
   {
     "name": "h1-brain",
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 98,
+    "stars": 99,
     "language": "Python",
-    "updated_at": "2026-03-14T04:42:09Z"
+    "updated_at": "2026-03-14T12:40:00Z"
   },
   {
-    "name": "RusTorch",
-    "full_name": "Genius-apple/RusTorch",
-    "description": "RusTorch is a production-grade deep learning framework re-imagined in Rust. It combines the usability you love from PyTorch with the performance, safety, and concurrency guarantees of Rust. Say goodbye to GIL locks, GC pauses, and runtime errors. Say hello to RusTorch.",
-    "url": "https://github.com/Genius-apple/RusTorch",
-    "stars": 85,
-    "language": "Rust",
-    "updated_at": "2026-03-12T12:33:29Z"
+    "name": "ScienceClaw",
+    "full_name": "beita6969/ScienceClaw",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
+    "url": "https://github.com/beita6969/ScienceClaw",
+    "stars": 87,
+    "language": "TypeScript",
+    "updated_at": "2026-03-14T12:47:45Z"
   }
 ]
