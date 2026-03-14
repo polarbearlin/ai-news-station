@@ -4,9 +4,9 @@
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 428,
+    "stars": 434,
     "language": "Rust",
-    "updated_at": "2026-03-14T04:59:12Z"
+    "updated_at": "2026-03-14T07:57:16Z"
   },
   {
     "name": "Lucid",
@@ -22,27 +22,36 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 228,
+    "stars": 231,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T05:08:52Z"
+    "updated_at": "2026-03-14T07:15:57Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 208,
+    "stars": 213,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T02:39:04Z"
+    "updated_at": "2026-03-14T08:34:23Z"
   },
   {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents",
+    "description": "A virtual design studio for Claude Code — 27 slash commands, 13 specialist roles, full design-to-code pipeline with deep Figma integration",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 197,
+    "stars": 198,
     "language": "Shell",
-    "updated_at": "2026-03-14T03:28:08Z"
+    "updated_at": "2026-03-14T08:01:17Z"
+  },
+  {
+    "name": "autoresearch",
+    "full_name": "uditgoenka/autoresearch",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "stars": 174,
+    "language": null,
+    "updated_at": "2026-03-14T08:35:02Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -54,22 +63,13 @@
     "updated_at": "2026-03-13T16:14:03Z"
   },
   {
-    "name": "autoresearch",
-    "full_name": "uditgoenka/autoresearch",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-    "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 119,
-    "language": null,
-    "updated_at": "2026-03-14T05:07:53Z"
-  },
-  {
     "name": "clarvis-ai",
     "full_name": "makermate/clarvis-ai",
     "description": "Clarvis - 3D Printing Made Easy",
     "url": "https://github.com/makermate/clarvis-ai",
-    "stars": 105,
+    "stars": 108,
     "language": "Shell",
-    "updated_at": "2026-03-14T04:12:41Z"
+    "updated_at": "2026-03-14T08:01:38Z"
   },
   {
     "name": "h1-brain",

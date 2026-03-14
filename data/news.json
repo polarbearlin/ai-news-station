@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-03-14 05:10:37",
+  "generated_at": "2026-03-14 08:36:15",
   "news": [
     {
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
       "source": "Hacker News",
       "time": "2026-03-13 17:19",
-      "score": 465,
-      "comments": 171
-    },
-    {
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "source": "Hacker News",
-      "time": "2026-03-13 12:46",
-      "score": 1063,
-      "comments": 274
-    },
-    {
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "source": "Hacker News",
-      "time": "2026-03-13 12:31",
-      "score": 487,
-      "comments": 440
+      "score": 629,
+      "comments": 256
     },
     {
       "title": "Emacs and Vim in the Age of AI",
       "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
       "source": "Hacker News",
       "time": "2026-03-10 04:21",
-      "score": 28,
-      "comments": 5
+      "score": 109,
+      "comments": 48
+    },
+    {
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "source": "Hacker News",
+      "time": "2026-03-13 12:31",
+      "score": 546,
+      "comments": 476
     }
   ]
 }
