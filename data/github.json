@@ -6,7 +6,16 @@
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
     "stars": 438,
     "language": "Rust",
-    "updated_at": "2026-03-14T12:50:50Z"
+    "updated_at": "2026-03-14T16:32:00Z"
+  },
+  {
+    "name": "autoresearch",
+    "full_name": "uditgoenka/autoresearch",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "stars": 278,
+    "language": null,
+    "updated_at": "2026-03-14T16:22:56Z"
   },
   {
     "name": "Lucid",
@@ -15,43 +24,34 @@
     "url": "https://github.com/get-Lucid/Lucid",
     "stars": 260,
     "language": "TypeScript",
-    "updated_at": "2026-03-13T14:37:31Z"
+    "updated_at": "2026-03-14T14:39:03Z"
   },
   {
     "name": "tome",
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 233,
+    "stars": 237,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T10:46:08Z"
-  },
-  {
-    "name": "autoresearch",
-    "full_name": "uditgoenka/autoresearch",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-    "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 232,
-    "language": null,
-    "updated_at": "2026-03-14T12:47:45Z"
+    "updated_at": "2026-03-14T15:24:48Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 216,
+    "stars": 217,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T12:16:31Z"
+    "updated_at": "2026-03-14T14:15:16Z"
   },
   {
     "name": "design-studio",
     "full_name": "Adityaraj0421/design-studio",
     "description": "A virtual design studio for Claude Code — 27 slash commands, 13 specialist roles, full design-to-code pipeline with deep Figma integration",
     "url": "https://github.com/Adityaraj0421/design-studio",
-    "stars": 198,
+    "stars": 200,
     "language": "Shell",
-    "updated_at": "2026-03-14T08:01:17Z"
+    "updated_at": "2026-03-14T14:54:11Z"
   },
   {
     "name": "SkyRoads-Codex",
@@ -67,26 +67,26 @@
     "full_name": "makermate/clarvis-ai",
     "description": "Clarvis - 3D Printing Made Easy",
     "url": "https://github.com/makermate/clarvis-ai",
-    "stars": 112,
+    "stars": 115,
     "language": "Shell",
-    "updated_at": "2026-03-14T10:14:57Z"
+    "updated_at": "2026-03-14T15:45:44Z"
   },
   {
     "name": "h1-brain",
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 99,
+    "stars": 107,
     "language": "Python",
-    "updated_at": "2026-03-14T12:40:00Z"
+    "updated_at": "2026-03-14T16:13:55Z"
   },
   {
-    "name": "ScienceClaw",
-    "full_name": "beita6969/ScienceClaw",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
-    "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 87,
-    "language": "TypeScript",
-    "updated_at": "2026-03-14T12:47:45Z"
+    "name": "rt-claw",
+    "full_name": "zevorn/rt-claw",
+    "description": "Making AI Assistants Cheap Again!",
+    "url": "https://github.com/zevorn/rt-claw",
+    "stars": 97,
+    "language": "C",
+    "updated_at": "2026-03-14T16:11:13Z"
   }
 ]
