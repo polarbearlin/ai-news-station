@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-03-13 20:35:35",
+  "generated_at": "2026-03-14 02:04:46",
   "news": [
+    {
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "source": "Hacker News",
+      "time": "2026-03-13 17:19",
+      "score": 229,
+      "comments": 67
+    },
     {
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
       "source": "Hacker News",
       "time": "2026-03-13 12:46",
-      "score": 555,
-      "comments": 137
+      "score": 936,
+      "comments": 254
     },
     {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "source": "Hacker News",
       "time": "2026-03-13 12:31",
-      "score": 219,
-      "comments": 203
-    },
-    {
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "source": "Hacker News",
-      "time": "2026-03-13 17:58",
-      "score": 35,
-      "comments": 24
-    },
-    {
-      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "source": "Hacker News",
-      "time": "2026-03-13 16:40",
-      "score": 94,
-      "comments": 82
+      "score": 428,
+      "comments": 392
     }
   ]
 }
