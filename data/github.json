@@ -4,27 +4,27 @@
     "full_name": "knowsuchagency/mcp2cli",
     "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
     "url": "https://github.com/knowsuchagency/mcp2cli",
-    "stars": 976,
+    "stars": 996,
     "language": "Python",
-    "updated_at": "2026-03-15T05:11:37Z"
+    "updated_at": "2026-03-15T08:27:31Z"
   },
   {
     "name": "HyperLiquid-Claw",
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 449,
+    "stars": 450,
     "language": "Rust",
-    "updated_at": "2026-03-15T05:07:13Z"
+    "updated_at": "2026-03-15T08:25:00Z"
   },
   {
     "name": "autoresearch",
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 373,
+    "stars": 391,
     "language": null,
-    "updated_at": "2026-03-15T05:10:07Z"
+    "updated_at": "2026-03-15T08:24:30Z"
   },
   {
     "name": "Lucid",
@@ -40,18 +40,18 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 255,
+    "stars": 257,
     "language": "JavaScript",
-    "updated_at": "2026-03-15T05:17:40Z"
+    "updated_at": "2026-03-15T07:50:25Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 226,
+    "stars": 229,
     "language": "TypeScript",
-    "updated_at": "2026-03-15T00:44:28Z"
+    "updated_at": "2026-03-15T08:20:22Z"
   },
   {
     "name": "naksha-studio",
@@ -60,33 +60,33 @@
     "url": "https://github.com/Adityaraj0421/naksha-studio",
     "stars": 203,
     "language": "Shell",
-    "updated_at": "2026-03-15T05:05:16Z"
+    "updated_at": "2026-03-15T06:17:24Z"
   },
   {
-    "name": "h1-brain",
-    "full_name": "PatrikFehrenbach/h1-brain",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
-    "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 138,
-    "language": "Python",
-    "updated_at": "2026-03-15T04:53:39Z"
+    "name": "Aave-Claw",
+    "full_name": "susanudgzf/Aave-Claw",
+    "description": null,
+    "url": "https://github.com/susanudgzf/Aave-Claw",
+    "stars": 154,
+    "language": "Rust",
+    "updated_at": "2026-03-15T08:36:13Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 136,
+    "stars": 148,
     "language": "C",
-    "updated_at": "2026-03-15T05:22:31Z"
+    "updated_at": "2026-03-15T08:35:48Z"
   },
   {
-    "name": "ScienceClaw",
-    "full_name": "beita6969/ScienceClaw",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
-    "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 123,
-    "language": "TypeScript",
-    "updated_at": "2026-03-15T05:00:13Z"
+    "name": "h1-brain",
+    "full_name": "PatrikFehrenbach/h1-brain",
+    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
+    "url": "https://github.com/PatrikFehrenbach/h1-brain",
+    "stars": 147,
+    "language": "Python",
+    "updated_at": "2026-03-15T08:31:02Z"
   }
 ]
