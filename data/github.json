@@ -4,89 +4,89 @@
     "full_name": "knowsuchagency/mcp2cli",
     "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
     "url": "https://github.com/knowsuchagency/mcp2cli",
-    "stars": 996,
+    "stars": 1036,
     "language": "Python",
-    "updated_at": "2026-03-15T08:27:31Z"
+    "updated_at": "2026-03-15T12:53:13Z"
   },
   {
     "name": "HyperLiquid-Claw",
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 450,
+    "stars": 451,
     "language": "Rust",
-    "updated_at": "2026-03-15T08:25:00Z"
+    "updated_at": "2026-03-15T12:51:11Z"
   },
   {
     "name": "autoresearch",
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 391,
+    "stars": 412,
     "language": null,
-    "updated_at": "2026-03-15T08:24:30Z"
+    "updated_at": "2026-03-15T12:54:42Z"
   },
   {
     "name": "Lucid",
     "full_name": "get-Lucid/Lucid",
     "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
     "url": "https://github.com/get-Lucid/Lucid",
-    "stars": 261,
+    "stars": 301,
     "language": "TypeScript",
-    "updated_at": "2026-03-14T18:35:37Z"
+    "updated_at": "2026-03-15T12:22:29Z"
   },
   {
     "name": "tome",
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 257,
+    "stars": 259,
     "language": "JavaScript",
-    "updated_at": "2026-03-15T07:50:25Z"
+    "updated_at": "2026-03-15T11:52:41Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 229,
+    "stars": 231,
     "language": "TypeScript",
-    "updated_at": "2026-03-15T08:20:22Z"
+    "updated_at": "2026-03-15T09:57:34Z"
   },
   {
     "name": "naksha-studio",
     "full_name": "Adityaraj0421/naksha-studio",
     "description": "A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 18 roles, 32 commands, 11,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal.",
     "url": "https://github.com/Adityaraj0421/naksha-studio",
-    "stars": 203,
+    "stars": 204,
     "language": "Shell",
-    "updated_at": "2026-03-15T06:17:24Z"
+    "updated_at": "2026-03-15T12:03:44Z"
   },
   {
     "name": "Aave-Claw",
     "full_name": "susanudgzf/Aave-Claw",
     "description": null,
     "url": "https://github.com/susanudgzf/Aave-Claw",
-    "stars": 154,
+    "stars": 191,
     "language": "Rust",
-    "updated_at": "2026-03-15T08:36:13Z"
+    "updated_at": "2026-03-15T12:51:11Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 148,
+    "stars": 169,
     "language": "C",
-    "updated_at": "2026-03-15T08:35:48Z"
+    "updated_at": "2026-03-15T12:45:20Z"
   },
   {
     "name": "h1-brain",
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 147,
+    "stars": 152,
     "language": "Python",
-    "updated_at": "2026-03-15T08:31:02Z"
+    "updated_at": "2026-03-15T11:49:13Z"
   }
 ]
