@@ -4,27 +4,27 @@
     "full_name": "knowsuchagency/mcp2cli",
     "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
     "url": "https://github.com/knowsuchagency/mcp2cli",
-    "stars": 1070,
+    "stars": 1105,
     "language": "Python",
-    "updated_at": "2026-03-15T16:30:21Z"
-  },
-  {
-    "name": "HyperLiquid-Claw",
-    "full_name": "Rohit24567/HyperLiquid-Claw",
-    "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-    "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 451,
-    "language": "Rust",
-    "updated_at": "2026-03-15T16:22:00Z"
+    "updated_at": "2026-03-15T20:29:55Z"
   },
   {
     "name": "autoresearch",
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 439,
+    "stars": 458,
     "language": null,
-    "updated_at": "2026-03-15T16:30:19Z"
+    "updated_at": "2026-03-15T20:22:21Z"
+  },
+  {
+    "name": "HyperLiquid-Claw",
+    "full_name": "Rohit24567/HyperLiquid-Claw",
+    "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
+    "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+    "stars": 457,
+    "language": "Rust",
+    "updated_at": "2026-03-15T20:28:18Z"
   },
   {
     "name": "Lucid",
@@ -40,18 +40,18 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 262,
+    "stars": 264,
     "language": "JavaScript",
-    "updated_at": "2026-03-15T15:31:16Z"
+    "updated_at": "2026-03-15T18:12:28Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 233,
+    "stars": 238,
     "language": "TypeScript",
-    "updated_at": "2026-03-15T15:36:50Z"
+    "updated_at": "2026-03-15T20:23:08Z"
   },
   {
     "name": "naksha-studio",
@@ -60,33 +60,33 @@
     "url": "https://github.com/Adityaraj0421/naksha-studio",
     "stars": 205,
     "language": "Shell",
-    "updated_at": "2026-03-15T15:37:57Z"
+    "updated_at": "2026-03-15T17:28:58Z"
   },
   {
     "name": "Aave-Claw",
     "full_name": "susanudgzf/Aave-Claw",
     "description": null,
     "url": "https://github.com/susanudgzf/Aave-Claw",
-    "stars": 198,
+    "stars": 200,
     "language": "Rust",
-    "updated_at": "2026-03-15T16:30:45Z"
+    "updated_at": "2026-03-15T18:39:36Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 184,
+    "stars": 196,
     "language": "C",
-    "updated_at": "2026-03-15T16:21:33Z"
+    "updated_at": "2026-03-15T20:16:06Z"
   },
   {
-    "name": "h1-brain",
-    "full_name": "PatrikFehrenbach/h1-brain",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
-    "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 153,
+    "name": "trump-code",
+    "full_name": "sstklen/trump-code",
+    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API.",
+    "url": "https://github.com/sstklen/trump-code",
+    "stars": 177,
     "language": "Python",
-    "updated_at": "2026-03-15T15:13:56Z"
+    "updated_at": "2026-03-15T20:17:40Z"
   }
 ]

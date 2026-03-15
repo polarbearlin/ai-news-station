@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-15 16:33:22",
+  "generated_at": "2026-03-15 20:30:28",
   "news": [
     {
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "source": "Hacker News",
-      "time": "2026-03-15 10:47",
-      "score": 202,
-      "comments": 12
+      "time": "2026-03-15 16:01",
+      "score": 53,
+      "comments": 2
     }
   ]
 }
