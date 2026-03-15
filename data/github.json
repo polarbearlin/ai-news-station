@@ -4,27 +4,27 @@
     "full_name": "knowsuchagency/mcp2cli",
     "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
     "url": "https://github.com/knowsuchagency/mcp2cli",
-    "stars": 961,
+    "stars": 976,
     "language": "Python",
-    "updated_at": "2026-03-15T02:26:38Z"
+    "updated_at": "2026-03-15T05:11:37Z"
   },
   {
     "name": "HyperLiquid-Claw",
     "full_name": "Rohit24567/HyperLiquid-Claw",
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 447,
+    "stars": 449,
     "language": "Rust",
-    "updated_at": "2026-03-15T02:06:55Z"
+    "updated_at": "2026-03-15T05:07:13Z"
   },
   {
     "name": "autoresearch",
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 358,
+    "stars": 373,
     "language": null,
-    "updated_at": "2026-03-15T02:25:41Z"
+    "updated_at": "2026-03-15T05:10:07Z"
   },
   {
     "name": "Lucid",
@@ -40,9 +40,9 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 251,
-    "language": "TypeScript",
-    "updated_at": "2026-03-15T02:25:56Z"
+    "stars": 255,
+    "language": "JavaScript",
+    "updated_at": "2026-03-15T05:17:40Z"
   },
   {
     "name": "understudy",
@@ -56,37 +56,37 @@
   {
     "name": "naksha-studio",
     "full_name": "Adityaraj0421/naksha-studio",
-    "description": "Your agency's design brain. Always on, always yours. — 27 slash commands, 13 specialist roles, full design-to-code pipeline with deep Figma integration",
+    "description": "A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 18 roles, 32 commands, 11,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal.",
     "url": "https://github.com/Adityaraj0421/naksha-studio",
-    "stars": 202,
+    "stars": 203,
     "language": "Shell",
-    "updated_at": "2026-03-14T19:48:47Z"
+    "updated_at": "2026-03-15T05:05:16Z"
   },
   {
     "name": "h1-brain",
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 132,
+    "stars": 138,
     "language": "Python",
-    "updated_at": "2026-03-15T01:46:50Z"
+    "updated_at": "2026-03-15T04:53:39Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 124,
+    "stars": 136,
     "language": "C",
-    "updated_at": "2026-03-15T02:18:47Z"
+    "updated_at": "2026-03-15T05:22:31Z"
   },
   {
-    "name": "clarvis-ai",
-    "full_name": "makermate/clarvis-ai",
-    "description": "Clarvis - 3D Printing Made Easy",
-    "url": "https://github.com/makermate/clarvis-ai",
-    "stars": 118,
-    "language": "Shell",
-    "updated_at": "2026-03-14T22:58:26Z"
+    "name": "ScienceClaw",
+    "full_name": "beita6969/ScienceClaw",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
+    "url": "https://github.com/beita6969/ScienceClaw",
+    "stars": 123,
+    "language": "TypeScript",
+    "updated_at": "2026-03-15T05:00:13Z"
   }
 ]
