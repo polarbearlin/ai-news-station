@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-03-15 12:54:46",
+  "generated_at": "2026-03-15 16:33:22",
   "news": [
     {
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "source": "Hacker News",
-      "time": "2026-03-15 10:15",
-      "score": 134,
-      "comments": 69
-    },
-    {
-      "title": "A Visual Introduction to Machine Learning",
+      "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
       "source": "Hacker News",
       "time": "2026-03-15 10:47",
-      "score": 81,
-      "comments": 4
-    },
-    {
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "source": "Hacker News",
-      "time": "2026-03-15 08:04",
-      "score": 196,
-      "comments": 169
+      "score": 202,
+      "comments": 12
     }
   ]
 }

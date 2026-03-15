@@ -4,9 +4,9 @@
     "full_name": "knowsuchagency/mcp2cli",
     "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
     "url": "https://github.com/knowsuchagency/mcp2cli",
-    "stars": 1036,
+    "stars": 1070,
     "language": "Python",
-    "updated_at": "2026-03-15T12:53:13Z"
+    "updated_at": "2026-03-15T16:30:21Z"
   },
   {
     "name": "HyperLiquid-Claw",
@@ -15,16 +15,16 @@
     "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
     "stars": 451,
     "language": "Rust",
-    "updated_at": "2026-03-15T12:51:11Z"
+    "updated_at": "2026-03-15T16:22:00Z"
   },
   {
     "name": "autoresearch",
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 412,
+    "stars": 439,
     "language": null,
-    "updated_at": "2026-03-15T12:54:42Z"
+    "updated_at": "2026-03-15T16:30:19Z"
   },
   {
     "name": "Lucid",
@@ -40,53 +40,53 @@
     "full_name": "vxcozy/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/vxcozy/tome",
-    "stars": 259,
+    "stars": 262,
     "language": "JavaScript",
-    "updated_at": "2026-03-15T11:52:41Z"
+    "updated_at": "2026-03-15T15:31:16Z"
   },
   {
     "name": "understudy",
     "full_name": "understudy-ai/understudy",
     "description": "An understudy watches. Then performs.",
     "url": "https://github.com/understudy-ai/understudy",
-    "stars": 231,
+    "stars": 233,
     "language": "TypeScript",
-    "updated_at": "2026-03-15T09:57:34Z"
+    "updated_at": "2026-03-15T15:36:50Z"
   },
   {
     "name": "naksha-studio",
     "full_name": "Adityaraj0421/naksha-studio",
     "description": "A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 18 roles, 32 commands, 11,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal.",
     "url": "https://github.com/Adityaraj0421/naksha-studio",
-    "stars": 204,
+    "stars": 205,
     "language": "Shell",
-    "updated_at": "2026-03-15T12:03:44Z"
+    "updated_at": "2026-03-15T15:37:57Z"
   },
   {
     "name": "Aave-Claw",
     "full_name": "susanudgzf/Aave-Claw",
     "description": null,
     "url": "https://github.com/susanudgzf/Aave-Claw",
-    "stars": 191,
+    "stars": 198,
     "language": "Rust",
-    "updated_at": "2026-03-15T12:51:11Z"
+    "updated_at": "2026-03-15T16:30:45Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 169,
+    "stars": 184,
     "language": "C",
-    "updated_at": "2026-03-15T12:45:20Z"
+    "updated_at": "2026-03-15T16:21:33Z"
   },
   {
     "name": "h1-brain",
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 152,
+    "stars": 153,
     "language": "Python",
-    "updated_at": "2026-03-15T11:49:13Z"
+    "updated_at": "2026-03-15T15:13:56Z"
   }
 ]
