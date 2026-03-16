@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-03-16 05:49:10",
+  "generated_at": "2026-03-16 08:57:39",
   "news": [
     {
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
       "source": "Hacker News",
       "time": "2026-03-16 01:24",
-      "score": 64,
-      "comments": 13
-    },
-    {
-      "title": "LLMs can be exhausting",
-      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "source": "Hacker News",
-      "time": "2026-03-15 20:56",
-      "score": 147,
-      "comments": 113
+      "score": 163,
+      "comments": 100
     },
     {
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "source": "Hacker News",
       "time": "2026-03-15 16:01",
-      "score": 321,
-      "comments": 24
+      "score": 382,
+      "comments": 29
     }
   ]
 }

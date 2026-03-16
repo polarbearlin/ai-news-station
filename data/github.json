@@ -4,45 +4,54 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 523,
+    "stars": 536,
     "language": null,
-    "updated_at": "2026-03-16T05:42:42Z"
-  },
-  {
-    "name": "tome",
-    "full_name": "tomehq/tome",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
-    "url": "https://github.com/tomehq/tome",
-    "stars": 271,
-    "language": "JavaScript",
-    "updated_at": "2026-03-16T02:33:57Z"
+    "updated_at": "2026-03-16T08:47:15Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 254,
+    "stars": 282,
     "language": "Python",
-    "updated_at": "2026-03-16T05:48:09Z"
+    "updated_at": "2026-03-16T08:53:10Z"
   },
   {
-    "name": "walrus",
-    "full_name": "openwalrus/walrus",
-    "description": "The composable agent runtime.",
-    "url": "https://github.com/openwalrus/walrus",
-    "stars": 233,
-    "language": "Rust",
-    "updated_at": "2026-03-16T05:42:31Z"
+    "name": "llm-architecture-gallery",
+    "full_name": "rasbt/llm-architecture-gallery",
+    "description": "LLM Architecture Gallery source data",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stars": 272,
+    "language": null,
+    "updated_at": "2026-03-16T08:57:24Z"
+  },
+  {
+    "name": "tome",
+    "full_name": "tomehq/tome",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+    "url": "https://github.com/tomehq/tome",
+    "stars": 272,
+    "language": "JavaScript",
+    "updated_at": "2026-03-16T06:15:44Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 223,
+    "stars": 237,
     "language": "C",
-    "updated_at": "2026-03-16T05:15:35Z"
+    "updated_at": "2026-03-16T08:47:11Z"
+  },
+  {
+    "name": "walrus",
+    "full_name": "openwalrus/walrus",
+    "description": "The composable agent runtime.",
+    "url": "https://github.com/openwalrus/walrus",
+    "stars": 235,
+    "language": "Rust",
+    "updated_at": "2026-03-16T08:47:05Z"
   },
   {
     "name": "Aave-Claw",
@@ -58,35 +67,26 @@
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 172,
+    "stars": 177,
     "language": "Python",
-    "updated_at": "2026-03-16T04:13:39Z"
+    "updated_at": "2026-03-16T08:22:55Z"
   },
   {
     "name": "ScienceClaw",
     "full_name": "beita6969/ScienceClaw",
     "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
     "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 160,
+    "stars": 168,
     "language": "TypeScript",
-    "updated_at": "2026-03-16T05:39:29Z"
-  },
-  {
-    "name": "llm-architecture-gallery",
-    "full_name": "rasbt/llm-architecture-gallery",
-    "description": "LLM Architecture Gallery source data",
-    "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 142,
-    "language": null,
-    "updated_at": "2026-03-16T05:47:46Z"
+    "updated_at": "2026-03-16T08:51:25Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 127,
+    "stars": 153,
     "language": "Python",
-    "updated_at": "2026-03-16T05:44:43Z"
+    "updated_at": "2026-03-16T08:50:02Z"
   }
 ]
