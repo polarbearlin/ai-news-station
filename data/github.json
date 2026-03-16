@@ -4,81 +4,81 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 664,
+    "stars": 715,
     "language": null,
-    "updated_at": "2026-03-16T16:59:49Z"
+    "updated_at": "2026-03-16T20:38:24Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 468,
+    "stars": 497,
     "language": null,
-    "updated_at": "2026-03-16T17:00:59Z"
+    "updated_at": "2026-03-16T20:25:13Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 347,
+    "stars": 360,
     "language": "Python",
-    "updated_at": "2026-03-16T16:46:08Z"
+    "updated_at": "2026-03-16T20:14:05Z"
   },
   {
     "name": "tome",
     "full_name": "tomehq/tome",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source with all of your favorite features.",
     "url": "https://github.com/tomehq/tome",
-    "stars": 276,
-    "language": "JavaScript",
-    "updated_at": "2026-03-16T16:30:04Z"
+    "stars": 277,
+    "language": "TypeScript",
+    "updated_at": "2026-03-16T19:52:05Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 266,
+    "stars": 277,
     "language": "C",
-    "updated_at": "2026-03-16T16:56:35Z"
+    "updated_at": "2026-03-16T20:36:28Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 249,
+    "stars": 276,
     "language": "Python",
-    "updated_at": "2026-03-16T16:46:03Z"
+    "updated_at": "2026-03-16T20:29:12Z"
   },
   {
     "name": "walrus",
     "full_name": "openwalrus/walrus",
     "description": "The composable agent runtime.",
     "url": "https://github.com/openwalrus/walrus",
-    "stars": 247,
+    "stars": 252,
     "language": "Rust",
-    "updated_at": "2026-03-16T16:59:56Z"
+    "updated_at": "2026-03-16T19:46:13Z"
   },
   {
     "name": "Aave-Claw",
     "full_name": "susanudgzf/Aave-Claw",
     "description": null,
     "url": "https://github.com/susanudgzf/Aave-Claw",
-    "stars": 200,
+    "stars": 198,
     "language": "Rust",
-    "updated_at": "2026-03-16T15:26:41Z"
+    "updated_at": "2026-03-16T20:21:32Z"
   },
   {
     "name": "ScienceClaw",
     "full_name": "beita6969/ScienceClaw",
     "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
     "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 182,
+    "stars": 185,
     "language": "TypeScript",
-    "updated_at": "2026-03-16T16:41:47Z"
+    "updated_at": "2026-03-16T19:19:10Z"
   },
   {
     "name": "h1-brain",

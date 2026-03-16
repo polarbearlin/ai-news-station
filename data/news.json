@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-16 17:01:12",
+  "generated_at": "2026-03-16 20:39:37",
   "news": [
     {
-      "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
-      "url": "https://www.kaizenautomation.com/careers",
+      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
       "source": "Hacker News",
-      "time": "2026-03-16 17:00",
-      "score": 1,
-      "comments": 0
+      "time": "2026-03-16 15:25",
+      "score": 94,
+      "comments": 88
+    },
+    {
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+      "source": "Hacker News",
+      "time": "2026-03-16 20:01",
+      "score": 25,
+      "comments": 6
     }
   ]
 }
