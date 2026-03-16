@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-16 08:57:39",
+  "generated_at": "2026-03-16 13:14:32",
   "news": [
+    {
+      "title": "The \"are you sure?\" Problem: Why AI keeps changing its mind",
+      "url": "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/",
+      "source": "Hacker News",
+      "time": "2026-03-15 18:56",
+      "score": 13,
+      "comments": 14
+    },
     {
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
       "source": "Hacker News",
       "time": "2026-03-16 01:24",
-      "score": 163,
-      "comments": 100
-    },
-    {
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "source": "Hacker News",
-      "time": "2026-03-15 16:01",
-      "score": 382,
-      "comments": 29
+      "score": 299,
+      "comments": 243
     }
   ]
 }
