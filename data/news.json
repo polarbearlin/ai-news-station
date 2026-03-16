@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-16 02:30:37",
+  "generated_at": "2026-03-16 05:49:10",
   "news": [
     {
-      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "title": "How I write software with LLMs",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
       "source": "Hacker News",
-      "time": "2026-03-15 22:15",
-      "score": 51,
-      "comments": 15
+      "time": "2026-03-16 01:24",
+      "score": 64,
+      "comments": 13
+    },
+    {
+      "title": "LLMs can be exhausting",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "source": "Hacker News",
+      "time": "2026-03-15 20:56",
+      "score": 147,
+      "comments": 113
     },
     {
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "source": "Hacker News",
       "time": "2026-03-15 16:01",
-      "score": 257,
-      "comments": 20
-    },
-    {
-      "title": "\"How I write software with LLMs\"",
-      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "source": "Hacker News",
-      "time": "2026-03-16 01:24",
-      "score": 12,
-      "comments": 0
+      "score": 321,
+      "comments": 24
     }
   ]
 }

@@ -4,45 +4,45 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 504,
+    "stars": 523,
     "language": null,
-    "updated_at": "2026-03-16T02:21:15Z"
+    "updated_at": "2026-03-16T05:42:42Z"
   },
   {
     "name": "tome",
     "full_name": "tomehq/tome",
     "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.",
     "url": "https://github.com/tomehq/tome",
-    "stars": 270,
+    "stars": 271,
     "language": "JavaScript",
-    "updated_at": "2026-03-16T02:19:28Z"
-  },
-  {
-    "name": "walrus",
-    "full_name": "openwalrus/walrus",
-    "description": "The composable agent runtime.",
-    "url": "https://github.com/openwalrus/walrus",
-    "stars": 228,
-    "language": "Rust",
-    "updated_at": "2026-03-16T02:12:19Z"
+    "updated_at": "2026-03-16T02:33:57Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 217,
+    "stars": 254,
     "language": "Python",
-    "updated_at": "2026-03-16T02:25:32Z"
+    "updated_at": "2026-03-16T05:48:09Z"
+  },
+  {
+    "name": "walrus",
+    "full_name": "openwalrus/walrus",
+    "description": "The composable agent runtime.",
+    "url": "https://github.com/openwalrus/walrus",
+    "stars": 233,
+    "language": "Rust",
+    "updated_at": "2026-03-16T05:42:31Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 212,
+    "stars": 223,
     "language": "C",
-    "updated_at": "2026-03-16T02:22:36Z"
+    "updated_at": "2026-03-16T05:15:35Z"
   },
   {
     "name": "Aave-Claw",
@@ -58,35 +58,35 @@
     "full_name": "PatrikFehrenbach/h1-brain",
     "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting",
     "url": "https://github.com/PatrikFehrenbach/h1-brain",
-    "stars": 169,
+    "stars": 172,
     "language": "Python",
-    "updated_at": "2026-03-16T02:25:00Z"
+    "updated_at": "2026-03-16T04:13:39Z"
   },
   {
     "name": "ScienceClaw",
     "full_name": "beita6969/ScienceClaw",
     "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
     "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 154,
+    "stars": 160,
     "language": "TypeScript",
-    "updated_at": "2026-03-16T02:30:36Z"
+    "updated_at": "2026-03-16T05:39:29Z"
   },
   {
-    "name": "clarvis-ai",
-    "full_name": "makermate/clarvis-ai",
-    "description": "Clarvis - 3D Printing Made Easy",
-    "url": "https://github.com/makermate/clarvis-ai",
-    "stars": 124,
-    "language": "Shell",
-    "updated_at": "2026-03-16T02:21:23Z"
+    "name": "llm-architecture-gallery",
+    "full_name": "rasbt/llm-architecture-gallery",
+    "description": "LLM Architecture Gallery source data",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stars": 142,
+    "language": null,
+    "updated_at": "2026-03-16T05:47:46Z"
   },
   {
-    "name": "cli",
-    "full_name": "jina-ai/cli",
-    "description": "All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes.",
-    "url": "https://github.com/jina-ai/cli",
-    "stars": 90,
+    "name": "MiroFish-Offline",
+    "full_name": "nikmcfly/MiroFish-Offline",
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+    "url": "https://github.com/nikmcfly/MiroFish-Offline",
+    "stars": 127,
     "language": "Python",
-    "updated_at": "2026-03-15T21:42:48Z"
+    "updated_at": "2026-03-16T05:44:43Z"
   }
 ]
