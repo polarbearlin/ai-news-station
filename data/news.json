@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-03-15 20:30:28",
+  "generated_at": "2026-03-16 02:30:37",
   "news": [
+    {
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "source": "Hacker News",
+      "time": "2026-03-15 22:15",
+      "score": 51,
+      "comments": 15
+    },
     {
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "source": "Hacker News",
       "time": "2026-03-15 16:01",
-      "score": 53,
-      "comments": 2
+      "score": 257,
+      "comments": 20
+    },
+    {
+      "title": "\"How I write software with LLMs\"",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "source": "Hacker News",
+      "time": "2026-03-16 01:24",
+      "score": 12,
+      "comments": 0
     }
   ]
 }
