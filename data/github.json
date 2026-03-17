@@ -4,54 +4,54 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 862,
+    "stars": 922,
     "language": null,
-    "updated_at": "2026-03-17T05:18:41Z"
+    "updated_at": "2026-03-17T08:48:16Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 585,
+    "stars": 619,
     "language": null,
-    "updated_at": "2026-03-17T05:17:47Z"
+    "updated_at": "2026-03-17T08:51:44Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 401,
+    "stars": 421,
     "language": "Python",
-    "updated_at": "2026-03-17T05:19:53Z"
+    "updated_at": "2026-03-17T08:51:12Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 339,
+    "stars": 371,
     "language": "Python",
-    "updated_at": "2026-03-17T05:18:08Z"
+    "updated_at": "2026-03-17T08:53:54Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 308,
+    "stars": 319,
     "language": "C",
-    "updated_at": "2026-03-17T05:15:14Z"
+    "updated_at": "2026-03-17T08:48:52Z"
   },
   {
     "name": "walrus",
     "full_name": "openwalrus/walrus",
     "description": "The composable agent runtime.",
     "url": "https://github.com/openwalrus/walrus",
-    "stars": 261,
+    "stars": 264,
     "language": "Rust",
-    "updated_at": "2026-03-17T04:58:20Z"
+    "updated_at": "2026-03-17T08:17:35Z"
   },
   {
     "name": "Aave-Claw",
@@ -67,26 +67,26 @@
     "full_name": "beita6969/ScienceClaw",
     "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
     "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 189,
+    "stars": 191,
     "language": "TypeScript",
-    "updated_at": "2026-03-17T04:45:14Z"
+    "updated_at": "2026-03-17T08:06:43Z"
   },
   {
     "name": "openai-oauth",
     "full_name": "EvanZhouDev/openai-oauth",
     "description": "Free OpenAI API access with your ChatGPT account.",
     "url": "https://github.com/EvanZhouDev/openai-oauth",
-    "stars": 104,
+    "stars": 106,
     "language": "TypeScript",
-    "updated_at": "2026-03-17T04:49:57Z"
+    "updated_at": "2026-03-17T06:01:44Z"
   },
   {
     "name": "openclaw-guide",
     "full_name": "liyupi/openclaw-guide",
     "description": "开源OpenClaw中文文档站，OpenClaw中文指南，支持小龙虾 AI 智能体安装部署、消息渠道接入、Agent 架构、Skills 技能配置、模型提供商、CLI 命令参考、网关运维、安全沙箱等全方位文档。覆盖 WhatsApp、Telegram、Discord、飞书、钉钉、企业微信等 20+ 聊天平台，OpenAI、Anthropic、Ollama、通义千问等 30+ LLM 提供商，Docker / 云端部署，macOS / Windows / Linux / iOS / Android 多平台适配。中文社区维护，术语规范，持续更新，助力中文用户零门槛上手开源自托管 AI 助手。",
     "url": "https://github.com/liyupi/openclaw-guide",
-    "stars": 98,
+    "stars": 100,
     "language": "HTML",
-    "updated_at": "2026-03-17T03:16:52Z"
+    "updated_at": "2026-03-17T08:31:15Z"
   }
 ]
