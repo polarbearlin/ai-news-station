@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-17 17:04:15",
+  "generated_at": "2026-03-17 20:40:18",
   "news": [
     {
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "url": "https://www.Bracketmadness.ai",
+      "title": "Toward automated verification of unreviewed AI-generated code",
+      "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
       "source": "Hacker News",
-      "time": "2026-03-17 12:56",
-      "score": 18,
-      "comments": 1
+      "time": "2026-03-16 10:52",
+      "score": 50,
+      "comments": 40
     }
   ]
 }

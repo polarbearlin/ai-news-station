@@ -4,54 +4,54 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 1057,
-    "language": null,
-    "updated_at": "2026-03-17T17:02:58Z"
+    "stars": 1100,
+    "language": "Shell",
+    "updated_at": "2026-03-17T20:32:12Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 674,
+    "stars": 679,
     "language": null,
-    "updated_at": "2026-03-17T16:35:00Z"
-  },
-  {
-    "name": "trump-code",
-    "full_name": "sstklen/trump-code",
-    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-    "url": "https://github.com/sstklen/trump-code",
-    "stars": 455,
-    "language": "Python",
-    "updated_at": "2026-03-17T17:02:25Z"
+    "updated_at": "2026-03-17T19:16:47Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 448,
+    "stars": 481,
     "language": "Python",
-    "updated_at": "2026-03-17T16:47:40Z"
+    "updated_at": "2026-03-17T20:31:16Z"
+  },
+  {
+    "name": "trump-code",
+    "full_name": "sstklen/trump-code",
+    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+    "url": "https://github.com/sstklen/trump-code",
+    "stars": 460,
+    "language": "Python",
+    "updated_at": "2026-03-17T20:36:19Z"
   },
   {
     "name": "rt-claw",
     "full_name": "zevorn/rt-claw",
     "description": "Making AI Assistants Cheap Again!",
     "url": "https://github.com/zevorn/rt-claw",
-    "stars": 344,
+    "stars": 349,
     "language": "C",
-    "updated_at": "2026-03-17T16:51:41Z"
+    "updated_at": "2026-03-17T20:35:36Z"
   },
   {
     "name": "walrus",
     "full_name": "openwalrus/walrus",
     "description": "The composable agent runtime.",
     "url": "https://github.com/openwalrus/walrus",
-    "stars": 270,
+    "stars": 271,
     "language": "Rust",
-    "updated_at": "2026-03-17T16:50:45Z"
+    "updated_at": "2026-03-17T19:20:52Z"
   },
   {
     "name": "ScienceClaw",
@@ -63,30 +63,30 @@
     "updated_at": "2026-03-17T16:25:43Z"
   },
   {
-    "name": "Aave-Claw",
-    "full_name": "susanudgzf/Aave-Claw",
-    "description": null,
-    "url": "https://github.com/susanudgzf/Aave-Claw",
-    "stars": 193,
-    "language": "Rust",
-    "updated_at": "2026-03-17T14:39:13Z"
-  },
-  {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 122,
+    "stars": 150,
     "language": "JavaScript",
-    "updated_at": "2026-03-17T17:01:16Z"
+    "updated_at": "2026-03-17T20:38:50Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
     "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 116,
+    "stars": 123,
     "language": "Rust",
-    "updated_at": "2026-03-17T16:46:23Z"
+    "updated_at": "2026-03-17T20:34:43Z"
+  },
+  {
+    "name": "openai-oauth",
+    "full_name": "EvanZhouDev/openai-oauth",
+    "description": "Free OpenAI API access with your ChatGPT account.",
+    "url": "https://github.com/EvanZhouDev/openai-oauth",
+    "stars": 113,
+    "language": "TypeScript",
+    "updated_at": "2026-03-17T20:21:55Z"
   }
 ]
