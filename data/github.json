@@ -4,54 +4,63 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 1291,
+    "stars": 1328,
     "language": "Shell",
-    "updated_at": "2026-03-18T13:13:36Z"
+    "updated_at": "2026-03-18T16:59:45Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 742,
+    "stars": 749,
     "language": null,
-    "updated_at": "2026-03-18T12:59:58Z"
+    "updated_at": "2026-03-18T16:10:25Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 607,
+    "stars": 634,
     "language": "Python",
-    "updated_at": "2026-03-18T12:59:38Z"
+    "updated_at": "2026-03-18T16:41:58Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 532,
+    "stars": 539,
     "language": "Python",
-    "updated_at": "2026-03-18T12:56:11Z"
+    "updated_at": "2026-03-18T16:44:44Z"
+  },
+  {
+    "name": "nightingale",
+    "full_name": "rzru/nightingale",
+    "description": "Machine learning powered Karaoke app (with scores!) ",
+    "url": "https://github.com/rzru/nightingale",
+    "stars": 329,
+    "language": "Rust",
+    "updated_at": "2026-03-18T16:57:55Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 181,
+    "stars": 195,
     "language": "JavaScript",
-    "updated_at": "2026-03-18T12:59:58Z"
+    "updated_at": "2026-03-18T16:42:10Z"
   },
   {
     "name": "kavach",
     "full_name": "LucidAkshay/kavach",
     "description": "The Tactical Zero-Trust AI Firewall",
     "url": "https://github.com/LucidAkshay/kavach",
-    "stars": 167,
+    "stars": 173,
     "language": "TypeScript",
-    "updated_at": "2026-03-18T12:51:24Z"
+    "updated_at": "2026-03-18T16:48:17Z"
   },
   {
     "name": "affiliate-skills",
@@ -63,30 +72,21 @@
     "updated_at": "2026-03-18T13:07:13Z"
   },
   {
-    "name": "nightingale",
-    "full_name": "rzru/nightingale",
-    "description": "Machine learning powered Karaoke app (with scores!) ",
-    "url": "https://github.com/rzru/nightingale",
-    "stars": 140,
-    "language": "Rust",
-    "updated_at": "2026-03-18T13:13:36Z"
-  },
-  {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
     "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 125,
+    "stars": 129,
     "language": "Rust",
-    "updated_at": "2026-03-18T12:28:09Z"
+    "updated_at": "2026-03-18T16:49:11Z"
   },
   {
     "name": "openai-oauth",
     "full_name": "EvanZhouDev/openai-oauth",
     "description": "Free OpenAI API access with your ChatGPT account.",
     "url": "https://github.com/EvanZhouDev/openai-oauth",
-    "stars": 120,
+    "stars": 121,
     "language": "TypeScript",
-    "updated_at": "2026-03-18T07:07:54Z"
+    "updated_at": "2026-03-18T14:20:59Z"
   }
 ]
