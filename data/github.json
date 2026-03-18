@@ -4,89 +4,89 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 1100,
+    "stars": 1185,
     "language": "Shell",
-    "updated_at": "2026-03-17T20:32:12Z"
+    "updated_at": "2026-03-18T02:01:05Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 679,
+    "stars": 699,
     "language": null,
-    "updated_at": "2026-03-17T19:16:47Z"
+    "updated_at": "2026-03-18T02:08:17Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 481,
+    "stars": 520,
     "language": "Python",
-    "updated_at": "2026-03-17T20:31:16Z"
+    "updated_at": "2026-03-18T02:05:43Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 460,
+    "stars": 467,
     "language": "Python",
-    "updated_at": "2026-03-17T20:36:19Z"
-  },
-  {
-    "name": "rt-claw",
-    "full_name": "zevorn/rt-claw",
-    "description": "Making AI Assistants Cheap Again!",
-    "url": "https://github.com/zevorn/rt-claw",
-    "stars": 349,
-    "language": "C",
-    "updated_at": "2026-03-17T20:35:36Z"
-  },
-  {
-    "name": "walrus",
-    "full_name": "openwalrus/walrus",
-    "description": "The composable agent runtime.",
-    "url": "https://github.com/openwalrus/walrus",
-    "stars": 271,
-    "language": "Rust",
-    "updated_at": "2026-03-17T19:20:52Z"
-  },
-  {
-    "name": "ScienceClaw",
-    "full_name": "beita6969/ScienceClaw",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
-    "url": "https://github.com/beita6969/ScienceClaw",
-    "stars": 199,
-    "language": "TypeScript",
-    "updated_at": "2026-03-17T16:25:43Z"
+    "updated_at": "2026-03-18T02:12:59Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 150,
+    "stars": 167,
     "language": "JavaScript",
-    "updated_at": "2026-03-17T20:38:50Z"
+    "updated_at": "2026-03-18T02:11:39Z"
+  },
+  {
+    "name": "affiliate-skills",
+    "full_name": "Affitor/affiliate-skills",
+    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
+    "url": "https://github.com/Affitor/affiliate-skills",
+    "stars": 129,
+    "language": "HTML",
+    "updated_at": "2026-03-18T01:02:08Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
     "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 123,
+    "stars": 116,
     "language": "Rust",
-    "updated_at": "2026-03-17T20:34:43Z"
+    "updated_at": "2026-03-18T02:00:43Z"
+  },
+  {
+    "name": "kavach",
+    "full_name": "LucidAkshay/kavach",
+    "description": "The Tactical Zero-Trust AI Firewall",
+    "url": "https://github.com/LucidAkshay/kavach",
+    "stars": 115,
+    "language": "TypeScript",
+    "updated_at": "2026-03-18T01:55:08Z"
   },
   {
     "name": "openai-oauth",
     "full_name": "EvanZhouDev/openai-oauth",
     "description": "Free OpenAI API access with your ChatGPT account.",
     "url": "https://github.com/EvanZhouDev/openai-oauth",
-    "stars": 113,
+    "stars": 115,
     "language": "TypeScript",
-    "updated_at": "2026-03-17T20:21:55Z"
+    "updated_at": "2026-03-17T22:48:24Z"
+  },
+  {
+    "name": "openclaw-guide",
+    "full_name": "liyupi/openclaw-guide",
+    "description": "开源OpenClaw中文文档站，OpenClaw中文指南，支持小龙虾 AI 智能体安装部署、消息渠道接入、Agent 架构、Skills 技能配置、模型提供商、CLI 命令参考、网关运维、安全沙箱等全方位文档。覆盖 WhatsApp、Telegram、Discord、飞书、钉钉、企业微信等 20+ 聊天平台，OpenAI、Anthropic、Ollama、通义千问等 30+ LLM 提供商，Docker / 云端部署，macOS / Windows / Linux / iOS / Android 多平台适配。中文社区维护，术语规范，持续更新，助力中文用户零门槛上手开源自托管 AI 助手。",
+    "url": "https://github.com/liyupi/openclaw-guide",
+    "stars": 105,
+    "language": "HTML",
+    "updated_at": "2026-03-18T01:36:20Z"
   }
 ]

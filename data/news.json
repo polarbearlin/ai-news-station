@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-17 20:40:18",
+  "generated_at": "2026-03-18 02:13:24",
   "news": [
     {
-      "title": "Toward automated verification of unreviewed AI-generated code",
-      "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
       "source": "Hacker News",
-      "time": "2026-03-16 10:52",
-      "score": 50,
-      "comments": 40
+      "time": "2026-03-17 21:04",
+      "score": 146,
+      "comments": 16
+    },
+    {
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "source": "Hacker News",
+      "time": "2026-03-18 01:10",
+      "score": 7,
+      "comments": 1
     }
   ]
 }
