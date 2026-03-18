@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-03-18 02:13:24",
+  "generated_at": "2026-03-18 05:25:58",
   "news": [
     {
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
       "source": "Hacker News",
       "time": "2026-03-17 21:04",
-      "score": 146,
-      "comments": 16
-    },
-    {
-      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-      "url": "https://amaiya.github.io/onprem/examples_agent.html",
-      "source": "Hacker News",
-      "time": "2026-03-18 01:10",
-      "score": 7,
-      "comments": 1
+      "score": 231,
+      "comments": 35
     }
   ]
 }
