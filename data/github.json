@@ -4,89 +4,89 @@
     "full_name": "calesthio/Crucix",
     "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
     "url": "https://github.com/calesthio/Crucix",
-    "stars": 4753,
+    "stars": 4899,
     "language": "JavaScript",
-    "updated_at": "2026-03-19T08:42:28Z"
+    "updated_at": "2026-03-19T13:05:11Z"
   },
   {
     "name": "autoresearch",
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 1428,
+    "stars": 1452,
     "language": "Shell",
-    "updated_at": "2026-03-19T08:37:03Z"
+    "updated_at": "2026-03-19T12:37:22Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 772,
+    "stars": 776,
     "language": null,
-    "updated_at": "2026-03-19T08:25:58Z"
+    "updated_at": "2026-03-19T11:15:19Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 712,
+    "stars": 728,
     "language": "Python",
-    "updated_at": "2026-03-19T08:32:50Z"
-  },
-  {
-    "name": "trump-code",
-    "full_name": "sstklen/trump-code",
-    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-    "url": "https://github.com/sstklen/trump-code",
-    "stars": 561,
-    "language": "Python",
-    "updated_at": "2026-03-19T07:35:02Z"
+    "updated_at": "2026-03-19T13:04:39Z"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 554,
+    "stars": 576,
     "language": "Rust",
-    "updated_at": "2026-03-19T08:35:10Z"
+    "updated_at": "2026-03-19T12:59:25Z"
+  },
+  {
+    "name": "trump-code",
+    "full_name": "sstklen/trump-code",
+    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+    "url": "https://github.com/sstklen/trump-code",
+    "stars": 571,
+    "language": "Python",
+    "updated_at": "2026-03-19T13:02:18Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 209,
+    "stars": 213,
     "language": "JavaScript",
-    "updated_at": "2026-03-19T06:47:52Z"
+    "updated_at": "2026-03-19T11:39:18Z"
   },
   {
     "name": "kavach",
     "full_name": "LucidAkshay/kavach",
     "description": "Tactical AI Workspace Monitor & EDR",
     "url": "https://github.com/LucidAkshay/kavach",
-    "stars": 191,
+    "stars": 194,
     "language": "TypeScript",
-    "updated_at": "2026-03-19T07:16:05Z"
+    "updated_at": "2026-03-19T11:54:08Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
     "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 156,
+    "stars": 155,
     "language": "Rust",
-    "updated_at": "2026-03-19T07:50:34Z"
+    "updated_at": "2026-03-19T12:57:02Z"
   },
   {
     "name": "affiliate-skills",
     "full_name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 151,
+    "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-03-19T04:25:32Z"
+    "updated_at": "2026-03-19T09:20:36Z"
   }
 ]
