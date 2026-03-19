@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-03-19 16:59:01",
+  "generated_at": "2026-03-19 20:38:38",
   "news": [
     {
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
       "source": "Hacker News",
       "time": "2026-03-19 13:05",
-      "score": 697,
-      "comments": 441
+      "score": 1008,
+      "comments": 641
+    },
+    {
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186",
+      "source": "Hacker News",
+      "time": "2026-03-19 19:37",
+      "score": 170,
+      "comments": 111
+    },
+    {
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "source": "Hacker News",
+      "time": "2026-03-19 17:16",
+      "score": 145,
+      "comments": 174
+    },
+    {
+      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+      "url": "https://qlabs.sh/10x",
+      "source": "Hacker News",
+      "time": "2026-03-19 18:51",
+      "score": 37,
+      "comments": 7
     }
   ]
 }
