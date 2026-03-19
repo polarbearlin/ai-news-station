@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-18 20:37:37",
+  "generated_at": "2026-03-19 02:22:22",
   "news": [
     {
-      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "url": "https://mlbenchmarks.org/00-preface.html",
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "url": "https://github.com/alainnothere/llm-circuit-finder",
       "source": "Hacker News",
-      "time": "2026-03-14 20:15",
-      "score": 24,
-      "comments": 0
+      "time": "2026-03-18 21:31",
+      "score": 72,
+      "comments": 19
     },
     {
-      "title": "AI coding is gambling",
-      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "title": "The math that explains why bell curves are everywhere",
+      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
       "source": "Hacker News",
-      "time": "2026-03-18 17:22",
-      "score": 229,
-      "comments": 263
+      "time": "2026-03-16 16:51",
+      "score": 60,
+      "comments": 23
     }
   ]
 }

@@ -4,81 +4,81 @@
     "full_name": "uditgoenka/autoresearch",
     "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
     "url": "https://github.com/uditgoenka/autoresearch",
-    "stars": 1352,
+    "stars": 1394,
     "language": "Shell",
-    "updated_at": "2026-03-18T20:26:36Z"
+    "updated_at": "2026-03-19T02:20:59Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 754,
+    "stars": 761,
     "language": null,
-    "updated_at": "2026-03-18T19:00:13Z"
+    "updated_at": "2026-03-19T02:21:38Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 657,
+    "stars": 686,
     "language": "Python",
-    "updated_at": "2026-03-18T20:16:35Z"
+    "updated_at": "2026-03-19T02:21:05Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 542,
+    "stars": 549,
     "language": "Python",
-    "updated_at": "2026-03-18T19:08:43Z"
+    "updated_at": "2026-03-19T02:16:57Z"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 413,
+    "stars": 492,
     "language": "Rust",
-    "updated_at": "2026-03-18T20:36:58Z"
+    "updated_at": "2026-03-19T02:20:17Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 202,
+    "stars": 208,
     "language": "JavaScript",
-    "updated_at": "2026-03-18T19:20:30Z"
+    "updated_at": "2026-03-19T00:16:07Z"
   },
   {
     "name": "kavach",
     "full_name": "LucidAkshay/kavach",
     "description": "Tactical AI Workspace Monitor & EDR",
     "url": "https://github.com/LucidAkshay/kavach",
-    "stars": 178,
+    "stars": 187,
     "language": "TypeScript",
-    "updated_at": "2026-03-18T20:35:48Z"
+    "updated_at": "2026-03-19T01:29:06Z"
   },
   {
     "name": "affiliate-skills",
     "full_name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 145,
+    "stars": 149,
     "language": "HTML",
-    "updated_at": "2026-03-18T13:07:13Z"
+    "updated_at": "2026-03-19T01:50:04Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
     "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 136,
+    "stars": 146,
     "language": "Rust",
-    "updated_at": "2026-03-18T20:23:12Z"
+    "updated_at": "2026-03-19T02:04:00Z"
   },
   {
     "name": "openai-oauth",
