@@ -4,45 +4,45 @@
     "full_name": "calesthio/Crucix",
     "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
     "url": "https://github.com/calesthio/Crucix",
-    "stars": 5185,
+    "stars": 5215,
     "language": "JavaScript",
-    "updated_at": "2026-03-20T02:04:51Z"
+    "updated_at": "2026-03-20T04:49:15Z"
   },
   {
     "name": "MiroFish-Offline",
     "full_name": "nikmcfly/MiroFish-Offline",
     "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
     "url": "https://github.com/nikmcfly/MiroFish-Offline",
-    "stars": 786,
+    "stars": 794,
     "language": "Python",
-    "updated_at": "2026-03-20T02:04:07Z"
+    "updated_at": "2026-03-20T04:47:02Z"
   },
   {
     "name": "llm-architecture-gallery",
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 785,
+    "stars": 788,
     "language": null,
-    "updated_at": "2026-03-20T01:52:37Z"
+    "updated_at": "2026-03-20T04:28:26Z"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 653,
+    "stars": 669,
     "language": "Rust",
-    "updated_at": "2026-03-20T02:06:39Z"
+    "updated_at": "2026-03-20T05:11:26Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 579,
+    "stars": 582,
     "language": "Python",
-    "updated_at": "2026-03-20T01:19:21Z"
+    "updated_at": "2026-03-20T04:28:02Z"
   },
   {
     "name": "Psters_AI_Workflow",
@@ -58,18 +58,18 @@
     "full_name": "LucidAkshay/kavach",
     "description": "Tactical AI Workspace Monitor & EDR",
     "url": "https://github.com/LucidAkshay/kavach",
-    "stars": 207,
+    "stars": 208,
     "language": "TypeScript",
-    "updated_at": "2026-03-20T00:48:24Z"
+    "updated_at": "2026-03-20T02:43:17Z"
   },
   {
     "name": "affiliate-skills",
     "full_name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 158,
+    "stars": 162,
     "language": "HTML",
-    "updated_at": "2026-03-20T00:11:07Z"
+    "updated_at": "2026-03-20T04:10:48Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
@@ -85,8 +85,8 @@
     "full_name": "EvanZhouDev/openai-oauth",
     "description": "Free OpenAI API access with your ChatGPT account.",
     "url": "https://github.com/EvanZhouDev/openai-oauth",
-    "stars": 125,
+    "stars": 126,
     "language": "TypeScript",
-    "updated_at": "2026-03-19T05:25:44Z"
+    "updated_at": "2026-03-20T03:19:02Z"
   }
 ]
