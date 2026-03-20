@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-20 05:15:56",
+  "generated_at": "2026-03-20 08:41:22",
   "news": [
+    {
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "source": "Hacker News",
+      "time": "2026-03-16 19:49",
+      "score": 74,
+      "comments": 39
+    },
     {
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
       "source": "Hacker News",
       "time": "2026-03-19 17:16",
-      "score": 631,
-      "comments": 704
+      "score": 764,
+      "comments": 856
     }
   ]
 }
