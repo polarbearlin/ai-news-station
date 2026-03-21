@@ -4,45 +4,45 @@
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 816,
+    "stars": 820,
     "language": null,
-    "updated_at": "2026-03-21T15:17:28Z"
+    "updated_at": "2026-03-21T20:22:40Z"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 726,
+    "stars": 731,
     "language": "Rust",
-    "updated_at": "2026-03-21T16:19:31Z"
+    "updated_at": "2026-03-21T17:23:58Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 615,
+    "stars": 616,
     "language": "Python",
-    "updated_at": "2026-03-21T16:00:07Z"
+    "updated_at": "2026-03-21T17:10:23Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 238,
+    "stars": 239,
     "language": "JavaScript",
-    "updated_at": "2026-03-21T15:51:29Z"
+    "updated_at": "2026-03-21T18:22:57Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 183,
+    "stars": 196,
     "language": "Python",
-    "updated_at": "2026-03-21T16:30:41Z"
+    "updated_at": "2026-03-21T20:10:29Z"
   },
   {
     "name": "affiliate-skills",
@@ -67,26 +67,26 @@
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 147,
+    "stars": 149,
     "language": "Python",
-    "updated_at": "2026-03-21T15:58:36Z"
-  },
-  {
-    "name": "openai-oauth",
-    "full_name": "EvanZhouDev/openai-oauth",
-    "description": "Free OpenAI API access with your ChatGPT account.",
-    "url": "https://github.com/EvanZhouDev/openai-oauth",
-    "stars": 127,
-    "language": "TypeScript",
-    "updated_at": "2026-03-20T06:18:53Z"
+    "updated_at": "2026-03-21T17:04:18Z"
   },
   {
     "name": "chops",
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 117,
+    "stars": 135,
     "language": "Swift",
-    "updated_at": "2026-03-21T16:02:49Z"
+    "updated_at": "2026-03-21T19:47:56Z"
+  },
+  {
+    "name": "openai-oauth",
+    "full_name": "EvanZhouDev/openai-oauth",
+    "description": "Free OpenAI API access with your ChatGPT account.",
+    "url": "https://github.com/EvanZhouDev/openai-oauth",
+    "stars": 128,
+    "language": "TypeScript",
+    "updated_at": "2026-03-21T18:40:47Z"
   }
 ]

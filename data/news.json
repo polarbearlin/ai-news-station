@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-03-21 16:30:58",
+  "generated_at": "2026-03-21 20:28:01",
   "news": [
+    {
+      "title": "Tinybox- offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "source": "Hacker News",
+      "time": "2026-03-21 20:08",
+      "score": 26,
+      "comments": 7
+    },
+    {
+      "title": "The seven hour explosion nobody could explain",
+      "url": "https://phys.org/news/2026-03-hour-explosion.html",
+      "source": "Hacker News",
+      "time": "2026-03-17 11:14",
+      "score": 29,
+      "comments": 3
+    },
     {
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
       "source": "Hacker News",
       "time": "2026-03-20 21:03",
-      "score": 1067,
-      "comments": 524
+      "score": 1160,
+      "comments": 569
     },
     {
-      "title": "Show HN: A deterministic middleware to compress LLM prompts by 50-80%",
-      "url": "https://github.com/ARPAHLS/skillware",
+      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
       "source": "Hacker News",
-      "time": "2026-03-21 15:49",
-      "score": 4,
-      "comments": 0
+      "time": "2026-03-21 15:30",
+      "score": 44,
+      "comments": 21
     }
   ]
 }
