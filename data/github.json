@@ -4,54 +4,72 @@
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 802,
+    "stars": 805,
     "language": null,
-    "updated_at": "2026-03-21T01:51:21Z"
+    "updated_at": "2026-03-21T04:26:26Z"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 709,
+    "stars": 715,
     "language": "Rust",
-    "updated_at": "2026-03-21T00:51:34Z"
+    "updated_at": "2026-03-21T04:04:51Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 599,
+    "stars": 602,
     "language": "Python",
-    "updated_at": "2026-03-21T00:59:33Z"
+    "updated_at": "2026-03-21T04:56:24Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 234,
+    "stars": 236,
     "language": "JavaScript",
-    "updated_at": "2026-03-21T01:18:23Z"
+    "updated_at": "2026-03-21T05:03:52Z"
   },
   {
     "name": "affiliate-skills",
     "full_name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 167,
+    "stars": 170,
     "language": "HTML",
-    "updated_at": "2026-03-20T17:26:26Z"
+    "updated_at": "2026-03-21T04:28:29Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
     "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 158,
+    "stars": 160,
     "language": "Rust",
-    "updated_at": "2026-03-20T21:12:22Z"
+    "updated_at": "2026-03-21T04:29:04Z"
+  },
+  {
+    "name": "ai-engineering-from-scratch",
+    "full_name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 136,
+    "language": "Python",
+    "updated_at": "2026-03-21T04:49:32Z"
+  },
+  {
+    "name": "NanoResearch",
+    "full_name": "OpenRaiser/NanoResearch",
+    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
+    "url": "https://github.com/OpenRaiser/NanoResearch",
+    "stars": 128,
+    "language": "Python",
+    "updated_at": "2026-03-21T04:36:11Z"
   },
   {
     "name": "openai-oauth",
@@ -61,24 +79,6 @@
     "stars": 127,
     "language": "TypeScript",
     "updated_at": "2026-03-20T06:18:53Z"
-  },
-  {
-    "name": "NanoResearch",
-    "full_name": "OpenRaiser/NanoResearch",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
-    "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 124,
-    "language": "Python",
-    "updated_at": "2026-03-21T01:22:35Z"
-  },
-  {
-    "name": "ai-engineering-from-scratch",
-    "full_name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 123,
-    "language": "Python",
-    "updated_at": "2026-03-21T01:57:55Z"
   },
   {
     "name": "chops",
