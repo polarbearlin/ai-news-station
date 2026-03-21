@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-20 20:33:59",
+  "generated_at": "2026-03-21 02:02:20",
   "news": [
+    {
+      "title": "OpenCode – Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "source": "Hacker News",
+      "time": "2026-03-20 21:03",
+      "score": 438,
+      "comments": 199
+    },
     {
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
       "source": "Hacker News",
       "time": "2026-03-20 13:01",
-      "score": 337,
-      "comments": 300
+      "score": 470,
+      "comments": 394
     }
   ]
 }
