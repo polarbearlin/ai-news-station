@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-03-21 08:34:35",
+  "generated_at": "2026-03-21 12:51:11",
   "news": [
     {
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
       "source": "Hacker News",
       "time": "2026-03-20 21:03",
-      "score": 727,
-      "comments": 321
+      "score": 907,
+      "comments": 425
+    },
+    {
+      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+      "url": "https://blog.atuin.sh/atuin-v18-13/",
+      "source": "Hacker News",
+      "time": "2026-03-21 10:35",
+      "score": 41,
+      "comments": 15
+    },
+    {
+      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+      "source": "Hacker News",
+      "time": "2026-03-21 07:30",
+      "score": 112,
+      "comments": 19
     }
   ]
 }

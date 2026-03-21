@@ -4,45 +4,54 @@
     "full_name": "rasbt/llm-architecture-gallery",
     "description": "LLM Architecture Gallery source data",
     "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 811,
+    "stars": 815,
     "language": null,
-    "updated_at": "2026-03-21T08:00:24Z"
+    "updated_at": "2026-03-21T11:33:16Z"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 720,
+    "stars": 724,
     "language": "Rust",
-    "updated_at": "2026-03-21T08:07:33Z"
+    "updated_at": "2026-03-21T12:04:17Z"
   },
   {
     "name": "trump-code",
     "full_name": "sstklen/trump-code",
     "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
     "url": "https://github.com/sstklen/trump-code",
-    "stars": 606,
+    "stars": 612,
     "language": "Python",
-    "updated_at": "2026-03-21T08:00:32Z"
+    "updated_at": "2026-03-21T12:33:56Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 236,
+    "stars": 237,
     "language": "JavaScript",
-    "updated_at": "2026-03-21T05:03:52Z"
+    "updated_at": "2026-03-21T09:05:39Z"
   },
   {
     "name": "affiliate-skills",
     "full_name": "Affitor/affiliate-skills",
     "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
     "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 171,
+    "stars": 173,
     "language": "HTML",
-    "updated_at": "2026-03-21T05:09:06Z"
+    "updated_at": "2026-03-21T11:50:53Z"
+  },
+  {
+    "name": "ai-engineering-from-scratch",
+    "full_name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 161,
+    "language": "Python",
+    "updated_at": "2026-03-21T12:43:20Z"
   },
   {
     "name": "polymarket-copytrading-bot-rust-sport-crypto",
@@ -51,25 +60,16 @@
     "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "stars": 161,
     "language": "Rust",
-    "updated_at": "2026-03-21T06:15:02Z"
-  },
-  {
-    "name": "ai-engineering-from-scratch",
-    "full_name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 150,
-    "language": "Python",
-    "updated_at": "2026-03-21T08:30:17Z"
+    "updated_at": "2026-03-21T12:18:49Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 137,
+    "stars": 144,
     "language": "Python",
-    "updated_at": "2026-03-21T07:19:21Z"
+    "updated_at": "2026-03-21T12:11:09Z"
   },
   {
     "name": "openai-oauth",
@@ -85,8 +85,8 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 104,
+    "stars": 106,
     "language": "Swift",
-    "updated_at": "2026-03-20T22:44:21Z"
+    "updated_at": "2026-03-21T12:51:07Z"
   }
 ]
