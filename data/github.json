@@ -1,39 +1,48 @@
 [
   {
-    "name": "Psters_AI_Workflow",
-    "full_name": "J-Pster/Psters_AI_Workflow",
-    "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-    "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 245,
-    "language": "JavaScript",
-    "updated_at": "2026-03-22T07:15:01Z"
+    "name": "chops",
+    "full_name": "Shpigford/chops",
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+    "url": "https://github.com/Shpigford/chops",
+    "stars": 282,
+    "language": "Swift",
+    "updated_at": "2026-03-22T12:46:32Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 229,
+    "stars": 255,
     "language": "Python",
-    "updated_at": "2026-03-22T08:27:57Z"
+    "updated_at": "2026-03-22T12:25:09Z"
   },
   {
-    "name": "chops",
-    "full_name": "Shpigford/chops",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-    "url": "https://github.com/Shpigford/chops",
-    "stars": 223,
-    "language": "Swift",
-    "updated_at": "2026-03-22T08:28:30Z"
+    "name": "Psters_AI_Workflow",
+    "full_name": "J-Pster/Psters_AI_Workflow",
+    "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+    "url": "https://github.com/J-Pster/Psters_AI_Workflow",
+    "stars": 246,
+    "language": "JavaScript",
+    "updated_at": "2026-03-22T11:22:26Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 160,
+    "stars": 167,
     "language": "Python",
-    "updated_at": "2026-03-22T06:52:58Z"
+    "updated_at": "2026-03-22T12:35:48Z"
+  },
+  {
+    "name": "clawless",
+    "full_name": "open-gitagent/clawless",
+    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
+    "url": "https://github.com/open-gitagent/clawless",
+    "stars": 90,
+    "language": "TypeScript",
+    "updated_at": "2026-03-22T11:04:00Z"
   },
   {
     "name": "nuxt-edge-ai",
@@ -43,15 +52,6 @@
     "stars": 89,
     "language": "TypeScript",
     "updated_at": "2026-03-21T05:47:30Z"
-  },
-  {
-    "name": "clawless",
-    "full_name": "open-gitagent/clawless",
-    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
-    "url": "https://github.com/open-gitagent/clawless",
-    "stars": 89,
-    "language": "TypeScript",
-    "updated_at": "2026-03-22T05:06:35Z"
   },
   {
     "name": "no-ai-in-nodejs-core",
@@ -85,8 +85,8 @@
     "full_name": "thearnavrustagi/marketmenow",
     "description": "An agentic marketing automation for startups",
     "url": "https://github.com/thearnavrustagi/marketmenow",
-    "stars": 67,
+    "stars": 70,
     "language": "Python",
-    "updated_at": "2026-03-22T08:22:47Z"
+    "updated_at": "2026-03-22T11:08:58Z"
   }
 ]
