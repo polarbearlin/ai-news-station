@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-03-22 12:53:28",
-  "news": []
+  "generated_at": "2026-03-22 16:31:54",
+  "news": [
+    {
+      "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
+      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
+      "source": "Hacker News",
+      "time": "2026-03-22 12:23",
+      "score": 48,
+      "comments": 22
+    },
+    {
+      "title": "A case against currying",
+      "url": "https://emi-h.com/articles/a-case-against-currying.html",
+      "source": "Hacker News",
+      "time": "2026-03-22 13:03",
+      "score": 44,
+      "comments": 59
+    }
+  ]
 }
