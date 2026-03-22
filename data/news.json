@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-22 02:22:23",
+  "generated_at": "2026-03-22 05:18:53",
   "news": [
     {
       "title": "Tinybox – Offline AI device 120B parameters",
       "url": "https://tinygrad.org/#tinybox",
       "source": "Hacker News",
       "time": "2026-03-21 20:08",
-      "score": 332,
-      "comments": 191
+      "score": 396,
+      "comments": 245
     },
     {
       "title": "Trivy ecosystem supply chain briefly compromised",
       "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
       "source": "Hacker News",
       "time": "2026-03-20 03:30",
-      "score": 25,
-      "comments": 7
+      "score": 51,
+      "comments": 16
     }
   ]
 }
