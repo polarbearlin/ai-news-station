@@ -4,45 +4,45 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 318,
+    "stars": 343,
     "language": "Swift",
-    "updated_at": "2026-03-22T16:26:53Z"
+    "updated_at": "2026-03-22T20:21:44Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 295,
+    "stars": 316,
     "language": "Python",
-    "updated_at": "2026-03-22T16:26:10Z"
+    "updated_at": "2026-03-22T20:15:29Z"
   },
   {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 247,
+    "stars": 249,
     "language": "JavaScript",
-    "updated_at": "2026-03-22T14:55:09Z"
+    "updated_at": "2026-03-22T19:11:27Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 171,
+    "stars": 175,
     "language": "Python",
-    "updated_at": "2026-03-22T16:05:14Z"
+    "updated_at": "2026-03-22T19:41:00Z"
   },
   {
     "name": "clawless",
     "full_name": "open-gitagent/clawless",
     "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
     "url": "https://github.com/open-gitagent/clawless",
-    "stars": 92,
+    "stars": 97,
     "language": "TypeScript",
-    "updated_at": "2026-03-22T15:17:40Z"
+    "updated_at": "2026-03-22T19:29:43Z"
   },
   {
     "name": "nuxt-edge-ai",
@@ -60,7 +60,7 @@
     "url": "https://github.com/indutny/no-ai-in-nodejs-core",
     "stars": 88,
     "language": null,
-    "updated_at": "2026-03-22T16:25:22Z"
+    "updated_at": "2026-03-22T17:53:14Z"
   },
   {
     "name": "agent-lens",
@@ -72,6 +72,15 @@
     "updated_at": "2026-03-21T19:02:07Z"
   },
   {
+    "name": "marketmenow",
+    "full_name": "thearnavrustagi/marketmenow",
+    "description": "An agentic marketing automation for startups",
+    "url": "https://github.com/thearnavrustagi/marketmenow",
+    "stars": 76,
+    "language": "Python",
+    "updated_at": "2026-03-22T20:22:15Z"
+  },
+  {
     "name": "ValorantAi",
     "full_name": "cjiohuktroll182/ValorantAi",
     "description": "Valorant | Software | Skin | Changer | Unlock | Tools | UnlockTools | Windows | 2026",
@@ -79,14 +88,5 @@
     "stars": 74,
     "language": null,
     "updated_at": "2026-03-19T18:36:53Z"
-  },
-  {
-    "name": "marketmenow",
-    "full_name": "thearnavrustagi/marketmenow",
-    "description": "An agentic marketing automation for startups",
-    "url": "https://github.com/thearnavrustagi/marketmenow",
-    "stars": 73,
-    "language": "Python",
-    "updated_at": "2026-03-22T14:15:20Z"
   }
 ]
