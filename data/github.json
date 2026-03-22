@@ -1,92 +1,92 @@
 [
   {
-    "name": "llm-architecture-gallery",
-    "full_name": "rasbt/llm-architecture-gallery",
-    "description": "LLM Architecture Gallery source data",
-    "url": "https://github.com/rasbt/llm-architecture-gallery",
-    "stars": 820,
-    "language": null,
-    "updated_at": "2026-03-21T20:22:40Z"
-  },
-  {
-    "name": "nightingale",
-    "full_name": "rzru/nightingale",
-    "description": "Machine learning powered Karaoke app (with scores!) ",
-    "url": "https://github.com/rzru/nightingale",
-    "stars": 731,
-    "language": "Rust",
-    "updated_at": "2026-03-21T17:23:58Z"
-  },
-  {
-    "name": "trump-code",
-    "full_name": "sstklen/trump-code",
-    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-    "url": "https://github.com/sstklen/trump-code",
-    "stars": 616,
-    "language": "Python",
-    "updated_at": "2026-03-21T17:10:23Z"
-  },
-  {
     "name": "Psters_AI_Workflow",
     "full_name": "J-Pster/Psters_AI_Workflow",
     "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
     "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 239,
+    "stars": 241,
     "language": "JavaScript",
-    "updated_at": "2026-03-21T18:22:57Z"
+    "updated_at": "2026-03-21T22:00:46Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 196,
+    "stars": 205,
     "language": "Python",
-    "updated_at": "2026-03-21T20:10:29Z"
-  },
-  {
-    "name": "affiliate-skills",
-    "full_name": "Affitor/affiliate-skills",
-    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy.",
-    "url": "https://github.com/Affitor/affiliate-skills",
-    "stars": 174,
-    "language": "HTML",
-    "updated_at": "2026-03-21T15:54:41Z"
-  },
-  {
-    "name": "polymarket-copytrading-bot-rust-sport-crypto",
-    "full_name": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now.",
-    "url": "https://github.com/Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "stars": 163,
-    "language": "Rust",
-    "updated_at": "2026-03-21T16:08:27Z"
-  },
-  {
-    "name": "NanoResearch",
-    "full_name": "OpenRaiser/NanoResearch",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
-    "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 149,
-    "language": "Python",
-    "updated_at": "2026-03-21T17:04:18Z"
+    "updated_at": "2026-03-22T02:16:09Z"
   },
   {
     "name": "chops",
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 135,
+    "stars": 162,
     "language": "Swift",
-    "updated_at": "2026-03-21T19:47:56Z"
+    "updated_at": "2026-03-22T02:02:22Z"
   },
   {
-    "name": "openai-oauth",
-    "full_name": "EvanZhouDev/openai-oauth",
-    "description": "Free OpenAI API access with your ChatGPT account.",
-    "url": "https://github.com/EvanZhouDev/openai-oauth",
-    "stars": 128,
+    "name": "NanoResearch",
+    "full_name": "OpenRaiser/NanoResearch",
+    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
+    "url": "https://github.com/OpenRaiser/NanoResearch",
+    "stars": 152,
+    "language": "Python",
+    "updated_at": "2026-03-22T01:19:47Z"
+  },
+  {
+    "name": "nuxt-edge-ai",
+    "full_name": "otadk/nuxt-edge-ai",
+    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
+    "url": "https://github.com/otadk/nuxt-edge-ai",
+    "stars": 89,
     "language": "TypeScript",
-    "updated_at": "2026-03-21T18:40:47Z"
+    "updated_at": "2026-03-21T05:47:30Z"
+  },
+  {
+    "name": "clawless",
+    "full_name": "open-gitagent/clawless",
+    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
+    "url": "https://github.com/open-gitagent/clawless",
+    "stars": 87,
+    "language": "TypeScript",
+    "updated_at": "2026-03-21T19:59:59Z"
+  },
+  {
+    "name": "no-ai-in-nodejs-core",
+    "full_name": "indutny/no-ai-in-nodejs-core",
+    "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
+    "url": "https://github.com/indutny/no-ai-in-nodejs-core",
+    "stars": 86,
+    "language": null,
+    "updated_at": "2026-03-21T23:25:16Z"
+  },
+  {
+    "name": "agent-lens",
+    "full_name": "dreadnode/agent-lens",
+    "description": "Agent observability and replay tooling for AI safety & interpretability research.",
+    "url": "https://github.com/dreadnode/agent-lens",
+    "stars": 83,
+    "language": "Python",
+    "updated_at": "2026-03-21T19:02:07Z"
+  },
+  {
+    "name": "ValorantAi",
+    "full_name": "cjiohuktroll182/ValorantAi",
+    "description": "Valorant | Software | Skin | Changer | Unlock | Tools | UnlockTools | Windows | 2026",
+    "url": "https://github.com/cjiohuktroll182/ValorantAi",
+    "stars": 74,
+    "language": null,
+    "updated_at": "2026-03-19T18:36:53Z"
+  },
+  {
+    "name": "marketmenow",
+    "full_name": "thearnavrustagi/marketmenow",
+    "description": "An agentic marketing automation for startups",
+    "url": "https://github.com/thearnavrustagi/marketmenow",
+    "stars": 63,
+    "language": "Python",
+    "updated_at": "2026-03-22T01:32:38Z"
   }
 ]
