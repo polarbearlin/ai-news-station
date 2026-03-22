@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-03-22 05:18:53",
+  "generated_at": "2026-03-22 08:35:46",
   "news": [
     {
-      "title": "Tinybox – Offline AI device 120B parameters",
-      "url": "https://tinygrad.org/#tinybox",
+      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "url": "https://zenodo.org/records/18976656",
       "source": "Hacker News",
-      "time": "2026-03-21 20:08",
-      "score": 396,
-      "comments": 245
-    },
-    {
-      "title": "Trivy ecosystem supply chain briefly compromised",
-      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
-      "source": "Hacker News",
-      "time": "2026-03-20 03:30",
-      "score": 51,
-      "comments": 16
+      "time": "2026-03-22 07:07",
+      "score": 9,
+      "comments": 3
     }
   ]
 }
