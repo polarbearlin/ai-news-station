@@ -4,63 +4,72 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 433,
+    "stars": 453,
     "language": "Swift",
-    "updated_at": "2026-03-23T08:50:31Z"
+    "updated_at": "2026-03-23T13:05:44Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 355,
+    "stars": 367,
     "language": "Python",
-    "updated_at": "2026-03-23T08:08:48Z"
+    "updated_at": "2026-03-23T12:56:03Z"
   },
   {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 352,
+    "stars": 365,
     "language": "TypeScript",
-    "updated_at": "2026-03-23T08:44:37Z"
+    "updated_at": "2026-03-23T11:24:32Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 196,
+    "stars": 203,
     "language": "Python",
-    "updated_at": "2026-03-23T08:55:09Z"
+    "updated_at": "2026-03-23T12:58:59Z"
   },
   {
-    "name": "clawless",
-    "full_name": "open-gitagent/clawless",
-    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
-    "url": "https://github.com/open-gitagent/clawless",
-    "stars": 99,
-    "language": "TypeScript",
-    "updated_at": "2026-03-23T08:04:46Z"
+    "name": "ai-engineering-interview-questions",
+    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 106,
+    "language": "Markdown",
+    "updated_at": "2026-03-23T12:54:53Z"
   },
   {
     "name": "pattern8",
     "full_name": "Aquifer-sea/pattern8",
     "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8",
     "url": "https://github.com/Aquifer-sea/pattern8",
-    "stars": 94,
+    "stars": 101,
     "language": "Python",
-    "updated_at": "2026-03-23T08:49:44Z"
+    "updated_at": "2026-03-23T09:40:30Z"
+  },
+  {
+    "name": "clawless",
+    "full_name": "open-gitagent/clawless",
+    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
+    "url": "https://github.com/open-gitagent/clawless",
+    "stars": 100,
+    "language": "TypeScript",
+    "updated_at": "2026-03-23T12:48:16Z"
   },
   {
     "name": "no-ai-in-nodejs-core",
     "full_name": "indutny/no-ai-in-nodejs-core",
     "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
     "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-    "stars": 92,
+    "stars": 94,
     "language": null,
-    "updated_at": "2026-03-23T08:14:59Z"
+    "updated_at": "2026-03-23T12:58:46Z"
   },
   {
     "name": "agent-lens",
@@ -79,14 +88,5 @@
     "stars": 74,
     "language": null,
     "updated_at": "2026-03-19T18:36:53Z"
-  },
-  {
-    "name": "ai-engineering-interview-questions",
-    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 73,
-    "language": "Markdown",
-    "updated_at": "2026-03-23T08:52:58Z"
   }
 ]
