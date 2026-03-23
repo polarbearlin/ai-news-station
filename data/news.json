@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-03-23 16:56:48",
+  "generated_at": "2026-03-23 20:38:16",
   "news": [
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
       "source": "Hacker News",
       "time": "2026-03-23 14:30",
-      "score": 121,
-      "comments": 75
+      "score": 349,
+      "comments": 198
+    },
+    {
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "source": "Hacker News",
+      "time": "2026-03-22 09:45",
+      "score": 110,
+      "comments": 36
+    },
+    {
+      "title": "AI Risks \"Hypernormal\" Science",
+      "url": "https://www.asimov.press/p/ai-science",
+      "source": "Hacker News",
+      "time": "2026-03-23 18:19",
+      "score": 22,
+      "comments": 11
     }
   ]
 }

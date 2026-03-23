@@ -4,54 +4,72 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 480,
+    "stars": 499,
     "language": "Swift",
-    "updated_at": "2026-03-23T16:45:08Z"
+    "updated_at": "2026-03-23T20:24:25Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 378,
+    "stars": 386,
     "language": "Python",
-    "updated_at": "2026-03-23T16:32:21Z"
+    "updated_at": "2026-03-23T20:20:45Z"
   },
   {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 372,
+    "stars": 383,
     "language": "TypeScript",
-    "updated_at": "2026-03-23T16:45:48Z"
+    "updated_at": "2026-03-23T19:47:40Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 208,
+    "stars": 210,
     "language": "Python",
-    "updated_at": "2026-03-23T15:53:28Z"
+    "updated_at": "2026-03-23T19:25:55Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 148,
+    "stars": 173,
     "language": "Markdown",
-    "updated_at": "2026-03-23T16:55:31Z"
+    "updated_at": "2026-03-23T20:33:42Z"
   },
   {
     "name": "claude-code-toolkit",
     "full_name": "notque/claude-code-toolkit",
     "description": "my ai system",
     "url": "https://github.com/notque/claude-code-toolkit",
-    "stars": 112,
+    "stars": 121,
     "language": "Python",
-    "updated_at": "2026-03-23T16:52:56Z"
+    "updated_at": "2026-03-23T20:34:43Z"
+  },
+  {
+    "name": "cc-skills-golang",
+    "full_name": "samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "url": "https://github.com/samber/cc-skills-golang",
+    "stars": 113,
+    "language": "Go",
+    "updated_at": "2026-03-23T20:33:48Z"
+  },
+  {
+    "name": "clawless",
+    "full_name": "open-gitagent/clawless",
+    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
+    "url": "https://github.com/open-gitagent/clawless",
+    "stars": 101,
+    "language": "TypeScript",
+    "updated_at": "2026-03-23T20:10:21Z"
   },
   {
     "name": "pattern8",
@@ -63,30 +81,12 @@
     "updated_at": "2026-03-23T09:40:30Z"
   },
   {
-    "name": "clawless",
-    "full_name": "open-gitagent/clawless",
-    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
-    "url": "https://github.com/open-gitagent/clawless",
-    "stars": 100,
-    "language": "TypeScript",
-    "updated_at": "2026-03-23T12:48:16Z"
-  },
-  {
     "name": "no-ai-in-nodejs-core",
     "full_name": "indutny/no-ai-in-nodejs-core",
     "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
     "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-    "stars": 95,
+    "stars": 96,
     "language": null,
-    "updated_at": "2026-03-23T15:46:21Z"
-  },
-  {
-    "name": "agent-lens",
-    "full_name": "dreadnode/agent-lens",
-    "description": "Agent observability and replay tooling for AI safety & interpretability research.",
-    "url": "https://github.com/dreadnode/agent-lens",
-    "stars": 84,
-    "language": "Python",
-    "updated_at": "2026-03-22T20:31:05Z"
+    "updated_at": "2026-03-23T17:44:01Z"
   }
 ]
