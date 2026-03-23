@@ -4,81 +4,63 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 343,
+    "stars": 384,
     "language": "Swift",
-    "updated_at": "2026-03-22T20:21:44Z"
+    "updated_at": "2026-03-23T02:14:15Z"
+  },
+  {
+    "name": "opencode-claude-auth",
+    "full_name": "griffinmartin/opencode-claude-auth",
+    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
+    "url": "https://github.com/griffinmartin/opencode-claude-auth",
+    "stars": 342,
+    "language": "TypeScript",
+    "updated_at": "2026-03-23T02:11:32Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 316,
+    "stars": 335,
     "language": "Python",
-    "updated_at": "2026-03-22T20:15:29Z"
-  },
-  {
-    "name": "Psters_AI_Workflow",
-    "full_name": "J-Pster/Psters_AI_Workflow",
-    "description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
-    "url": "https://github.com/J-Pster/Psters_AI_Workflow",
-    "stars": 249,
-    "language": "JavaScript",
-    "updated_at": "2026-03-22T19:11:27Z"
+    "updated_at": "2026-03-23T02:04:09Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 175,
+    "stars": 188,
     "language": "Python",
-    "updated_at": "2026-03-22T19:41:00Z"
+    "updated_at": "2026-03-23T01:52:10Z"
   },
   {
     "name": "clawless",
     "full_name": "open-gitagent/clawless",
     "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
     "url": "https://github.com/open-gitagent/clawless",
-    "stars": 97,
+    "stars": 98,
     "language": "TypeScript",
-    "updated_at": "2026-03-22T19:29:43Z"
-  },
-  {
-    "name": "nuxt-edge-ai",
-    "full_name": "otadk/nuxt-edge-ai",
-    "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime.",
-    "url": "https://github.com/otadk/nuxt-edge-ai",
-    "stars": 89,
-    "language": "TypeScript",
-    "updated_at": "2026-03-21T05:47:30Z"
+    "updated_at": "2026-03-22T21:09:47Z"
   },
   {
     "name": "no-ai-in-nodejs-core",
     "full_name": "indutny/no-ai-in-nodejs-core",
     "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
     "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-    "stars": 88,
+    "stars": 89,
     "language": null,
-    "updated_at": "2026-03-22T17:53:14Z"
+    "updated_at": "2026-03-23T01:31:21Z"
   },
   {
     "name": "agent-lens",
     "full_name": "dreadnode/agent-lens",
     "description": "Agent observability and replay tooling for AI safety & interpretability research.",
     "url": "https://github.com/dreadnode/agent-lens",
-    "stars": 83,
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-03-21T19:02:07Z"
-  },
-  {
-    "name": "marketmenow",
-    "full_name": "thearnavrustagi/marketmenow",
-    "description": "An agentic marketing automation for startups",
-    "url": "https://github.com/thearnavrustagi/marketmenow",
-    "stars": 76,
-    "language": "Python",
-    "updated_at": "2026-03-22T20:22:15Z"
+    "updated_at": "2026-03-22T20:31:05Z"
   },
   {
     "name": "ValorantAi",
@@ -88,5 +70,23 @@
     "stars": 74,
     "language": null,
     "updated_at": "2026-03-19T18:36:53Z"
+  },
+  {
+    "name": "pattern8",
+    "full_name": "Aquifer-sea/pattern8",
+    "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8",
+    "url": "https://github.com/Aquifer-sea/pattern8",
+    "stars": 71,
+    "language": "Python",
+    "updated_at": "2026-03-22T13:35:27Z"
+  },
+  {
+    "name": "memind",
+    "full_name": "openmemind/memind",
+    "description": "Self-evolving cognitive memory for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding.",
+    "url": "https://github.com/openmemind/memind",
+    "stars": 64,
+    "language": "Java",
+    "updated_at": "2026-03-23T01:59:43Z"
   }
 ]

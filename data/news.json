@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-03-22 20:29:05",
-  "news": []
+  "generated_at": "2026-03-23 02:23:26",
+  "news": [
+    {
+      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "source": "Hacker News",
+      "time": "2026-03-19 04:56",
+      "score": 26,
+      "comments": 7
+    },
+    {
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "source": "Hacker News",
+      "time": "2026-03-22 21:14",
+      "score": 241,
+      "comments": 65
+    }
+  ]
 }
