@@ -4,45 +4,54 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 453,
+    "stars": 480,
     "language": "Swift",
-    "updated_at": "2026-03-23T13:05:44Z"
+    "updated_at": "2026-03-23T16:45:08Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 367,
+    "stars": 378,
     "language": "Python",
-    "updated_at": "2026-03-23T12:56:03Z"
+    "updated_at": "2026-03-23T16:32:21Z"
   },
   {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 365,
+    "stars": 372,
     "language": "TypeScript",
-    "updated_at": "2026-03-23T11:24:32Z"
+    "updated_at": "2026-03-23T16:45:48Z"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 203,
+    "stars": 208,
     "language": "Python",
-    "updated_at": "2026-03-23T12:58:59Z"
+    "updated_at": "2026-03-23T15:53:28Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 106,
+    "stars": 148,
     "language": "Markdown",
-    "updated_at": "2026-03-23T12:54:53Z"
+    "updated_at": "2026-03-23T16:55:31Z"
+  },
+  {
+    "name": "claude-code-toolkit",
+    "full_name": "notque/claude-code-toolkit",
+    "description": "my ai system",
+    "url": "https://github.com/notque/claude-code-toolkit",
+    "stars": 112,
+    "language": "Python",
+    "updated_at": "2026-03-23T16:52:56Z"
   },
   {
     "name": "pattern8",
@@ -67,9 +76,9 @@
     "full_name": "indutny/no-ai-in-nodejs-core",
     "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
     "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-    "stars": 94,
+    "stars": 95,
     "language": null,
-    "updated_at": "2026-03-23T12:58:46Z"
+    "updated_at": "2026-03-23T15:46:21Z"
   },
   {
     "name": "agent-lens",
@@ -79,14 +88,5 @@
     "stars": 84,
     "language": "Python",
     "updated_at": "2026-03-22T20:31:05Z"
-  },
-  {
-    "name": "ValorantAi",
-    "full_name": "cjiohuktroll182/ValorantAi",
-    "description": "Valorant | Software | Skin | Changer | Unlock | Tools | UnlockTools | Windows | 2026",
-    "url": "https://github.com/cjiohuktroll182/ValorantAi",
-    "stars": 74,
-    "language": null,
-    "updated_at": "2026-03-19T18:36:53Z"
   }
 ]
