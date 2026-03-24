@@ -4,63 +4,54 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 499,
+    "stars": 519,
     "language": "Swift",
-    "updated_at": "2026-03-23T20:24:25Z"
+    "updated_at": "2026-03-24T01:57:26Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 386,
+    "stars": 399,
     "language": "Python",
-    "updated_at": "2026-03-23T20:20:45Z"
+    "updated_at": "2026-03-24T02:07:36Z"
   },
   {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 383,
+    "stars": 387,
     "language": "TypeScript",
-    "updated_at": "2026-03-23T19:47:40Z"
-  },
-  {
-    "name": "NanoResearch",
-    "full_name": "OpenRaiser/NanoResearch",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
-    "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 210,
-    "language": "Python",
-    "updated_at": "2026-03-23T19:25:55Z"
+    "updated_at": "2026-03-24T00:30:26Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 173,
+    "stars": 188,
     "language": "Markdown",
-    "updated_at": "2026-03-23T20:33:42Z"
-  },
-  {
-    "name": "claude-code-toolkit",
-    "full_name": "notque/claude-code-toolkit",
-    "description": "my ai system",
-    "url": "https://github.com/notque/claude-code-toolkit",
-    "stars": 121,
-    "language": "Python",
-    "updated_at": "2026-03-23T20:34:43Z"
+    "updated_at": "2026-03-24T01:31:30Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 113,
+    "stars": 138,
     "language": "Go",
-    "updated_at": "2026-03-23T20:33:48Z"
+    "updated_at": "2026-03-24T02:07:56Z"
+  },
+  {
+    "name": "claude-code-toolkit",
+    "full_name": "notque/claude-code-toolkit",
+    "description": "AI Agent System - Creator of the /do router",
+    "url": "https://github.com/notque/claude-code-toolkit",
+    "stars": 122,
+    "language": "Python",
+    "updated_at": "2026-03-23T23:09:06Z"
   },
   {
     "name": "clawless",
@@ -88,5 +79,14 @@
     "stars": 96,
     "language": null,
     "updated_at": "2026-03-23T17:44:01Z"
+  },
+  {
+    "name": "ai-coding-principles",
+    "full_name": "luoling8192/ai-coding-principles",
+    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
+    "url": "https://github.com/luoling8192/ai-coding-principles",
+    "stars": 93,
+    "language": null,
+    "updated_at": "2026-03-24T02:04:53Z"
   }
 ]
