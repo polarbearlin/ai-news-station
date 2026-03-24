@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-24 13:13:23",
+  "generated_at": "2026-03-24 17:00:13",
   "news": [
     {
       "title": "LiteLLM Python package compromised by supply-chain attack",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "source": "Hacker News",
       "time": "2026-03-24 12:36",
-      "score": 27,
-      "comments": 10
+      "score": 552,
+      "comments": 222
+    },
+    {
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "source": "Hacker News",
+      "time": "2026-03-24 15:19",
+      "score": 135,
+      "comments": 96
     }
   ]
 }

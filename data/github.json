@@ -4,72 +4,81 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 551,
+    "stars": 575,
     "language": "Swift",
-    "updated_at": "2026-03-24T13:11:44Z"
+    "updated_at": "2026-03-24T16:56:33Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 426,
+    "stars": 448,
     "language": "Python",
-    "updated_at": "2026-03-24T13:09:45Z"
+    "updated_at": "2026-03-24T16:59:42Z"
   },
   {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 423,
+    "stars": 430,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T12:59:57Z"
+    "updated_at": "2026-03-24T16:51:59Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 219,
+    "stars": 224,
     "language": "Markdown",
-    "updated_at": "2026-03-24T12:49:22Z"
+    "updated_at": "2026-03-24T16:20:54Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 198,
+    "stars": 217,
     "language": "Go",
-    "updated_at": "2026-03-24T13:09:26Z"
+    "updated_at": "2026-03-24T16:44:01Z"
   },
   {
     "name": "claude-code-toolkit",
     "full_name": "notque/claude-code-toolkit",
     "description": "AI Agent System - Creator of the /do router",
     "url": "https://github.com/notque/claude-code-toolkit",
-    "stars": 131,
+    "stars": 143,
     "language": "Python",
-    "updated_at": "2026-03-24T13:07:43Z"
-  },
-  {
-    "name": "ai-coding-principles",
-    "full_name": "luoling8192/ai-coding-principles",
-    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
-    "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 113,
-    "language": null,
-    "updated_at": "2026-03-24T12:23:19Z"
+    "updated_at": "2026-03-24T16:54:59Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 110,
+    "stars": 117,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T12:28:04Z"
+    "updated_at": "2026-03-24T16:49:03Z"
+  },
+  {
+    "name": "ai-coding-principles",
+    "full_name": "luoling8192/ai-coding-principles",
+    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
+    "url": "https://github.com/luoling8192/ai-coding-principles",
+    "stars": 114,
+    "language": null,
+    "updated_at": "2026-03-24T15:43:51Z"
+  },
+  {
+    "name": "no-ai-in-nodejs-core",
+    "full_name": "indutny/no-ai-in-nodejs-core",
+    "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
+    "url": "https://github.com/indutny/no-ai-in-nodejs-core",
+    "stars": 104,
+    "language": null,
+    "updated_at": "2026-03-24T16:43:11Z"
   },
   {
     "name": "clawless",
@@ -79,14 +88,5 @@
     "stars": 103,
     "language": "TypeScript",
     "updated_at": "2026-03-24T09:33:52Z"
-  },
-  {
-    "name": "pattern8",
-    "full_name": "Aquifer-sea/pattern8",
-    "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8",
-    "url": "https://github.com/Aquifer-sea/pattern8",
-    "stars": 99,
-    "language": "Python",
-    "updated_at": "2026-03-24T10:22:22Z"
   }
 ]
