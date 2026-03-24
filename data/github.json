@@ -4,81 +4,81 @@
     "full_name": "Shpigford/chops",
     "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
     "url": "https://github.com/Shpigford/chops",
-    "stars": 538,
+    "stars": 551,
     "language": "Swift",
-    "updated_at": "2026-03-24T08:40:29Z"
+    "updated_at": "2026-03-24T13:11:44Z"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 420,
+    "stars": 426,
     "language": "Python",
-    "updated_at": "2026-03-24T08:25:54Z"
+    "updated_at": "2026-03-24T13:09:45Z"
   },
   {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 412,
+    "stars": 423,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T08:46:29Z"
+    "updated_at": "2026-03-24T12:59:57Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 207,
+    "stars": 219,
     "language": "Markdown",
-    "updated_at": "2026-03-24T08:40:10Z"
+    "updated_at": "2026-03-24T12:49:22Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 165,
+    "stars": 198,
     "language": "Go",
-    "updated_at": "2026-03-24T08:51:22Z"
+    "updated_at": "2026-03-24T13:09:26Z"
   },
   {
     "name": "claude-code-toolkit",
     "full_name": "notque/claude-code-toolkit",
     "description": "AI Agent System - Creator of the /do router",
     "url": "https://github.com/notque/claude-code-toolkit",
-    "stars": 124,
+    "stars": 131,
     "language": "Python",
-    "updated_at": "2026-03-24T07:01:41Z"
+    "updated_at": "2026-03-24T13:07:43Z"
   },
   {
     "name": "ai-coding-principles",
     "full_name": "luoling8192/ai-coding-principles",
     "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
     "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 107,
+    "stars": 113,
     "language": null,
-    "updated_at": "2026-03-24T05:55:30Z"
+    "updated_at": "2026-03-24T12:23:19Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 106,
+    "stars": 110,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T08:13:50Z"
+    "updated_at": "2026-03-24T12:28:04Z"
   },
   {
     "name": "clawless",
     "full_name": "open-gitagent/clawless",
     "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
     "url": "https://github.com/open-gitagent/clawless",
-    "stars": 102,
+    "stars": 103,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T07:16:06Z"
+    "updated_at": "2026-03-24T09:33:52Z"
   },
   {
     "name": "pattern8",
@@ -87,6 +87,6 @@
     "url": "https://github.com/Aquifer-sea/pattern8",
     "stars": 99,
     "language": "Python",
-    "updated_at": "2026-03-24T06:23:21Z"
+    "updated_at": "2026-03-24T10:22:22Z"
   }
 ]
