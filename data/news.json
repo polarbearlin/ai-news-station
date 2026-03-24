@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-03-24 02:08:03",
+  "generated_at": "2026-03-24 05:23:03",
   "news": [
     {
-      "title": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
-      "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
       "source": "Hacker News",
-      "time": "2026-03-24 01:42",
-      "score": 13,
-      "comments": 8
+      "time": "2026-03-24 01:53",
+      "score": 190,
+      "comments": 88
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
       "source": "Hacker News",
       "time": "2026-03-23 14:30",
-      "score": 486,
-      "comments": 243
-    },
-    {
-      "title": "Ju Ci: The Art of Repairing Porcelain",
-      "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
-      "source": "Hacker News",
-      "time": "2026-03-21 15:07",
-      "score": 56,
-      "comments": 6
+      "score": 536,
+      "comments": 252
     },
     {
       "title": "Show HN: Cq – Stack Overflow for AI coding agents",
       "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
       "source": "Hacker News",
       "time": "2026-03-23 16:11",
-      "score": 67,
-      "comments": 25
+      "score": 101,
+      "comments": 30
     }
   ]
 }
