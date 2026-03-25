@@ -4,54 +4,63 @@
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 466,
+    "stars": 470,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T12:18:40Z"
+    "updated_at": "2026-03-25T16:05:46Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 283,
+    "stars": 325,
     "language": "Markdown",
-    "updated_at": "2026-03-25T13:09:55Z"
+    "updated_at": "2026-03-25T16:55:19Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 281,
+    "stars": 288,
     "language": "Go",
-    "updated_at": "2026-03-25T12:57:16Z"
+    "updated_at": "2026-03-25T17:00:50Z"
+  },
+  {
+    "name": "HolyClaude",
+    "full_name": "CoderLuii/HolyClaude",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+    "url": "https://github.com/CoderLuii/HolyClaude",
+    "stars": 167,
+    "language": "Dockerfile",
+    "updated_at": "2026-03-25T17:01:45Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 155,
+    "stars": 158,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T11:55:39Z"
+    "updated_at": "2026-03-25T14:57:39Z"
   },
   {
     "name": "ai-coding-principles",
     "full_name": "luoling8192/ai-coding-principles",
     "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
     "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 118,
+    "stars": 120,
     "language": null,
-    "updated_at": "2026-03-25T10:14:39Z"
+    "updated_at": "2026-03-25T15:47:17Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 106,
+    "stars": 113,
     "language": "Rust",
-    "updated_at": "2026-03-25T13:12:23Z"
+    "updated_at": "2026-03-25T16:30:45Z"
   },
   {
     "name": "pattern8",
@@ -79,14 +88,5 @@
     "stars": 75,
     "language": "Java",
     "updated_at": "2026-03-24T10:52:01Z"
-  },
-  {
-    "name": "pls",
-    "full_name": "salvy9978/pls",
-    "description": "Just say what you want. In your terminal.",
-    "url": "https://github.com/salvy9978/pls",
-    "stars": 60,
-    "language": "Python",
-    "updated_at": "2026-03-25T03:56:35Z"
   }
 ]
