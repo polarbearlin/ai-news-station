@@ -4,45 +4,45 @@
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 470,
+    "stars": 473,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T16:05:46Z"
+    "updated_at": "2026-03-25T20:36:31Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 325,
+    "stars": 353,
     "language": "Markdown",
-    "updated_at": "2026-03-25T16:55:19Z"
+    "updated_at": "2026-03-25T20:30:25Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 288,
+    "stars": 303,
     "language": "Go",
-    "updated_at": "2026-03-25T17:00:50Z"
+    "updated_at": "2026-03-25T20:33:30Z"
   },
   {
     "name": "HolyClaude",
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 167,
+    "stars": 283,
     "language": "Dockerfile",
-    "updated_at": "2026-03-25T17:01:45Z"
+    "updated_at": "2026-03-25T20:38:50Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 158,
+    "stars": 159,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T14:57:39Z"
+    "updated_at": "2026-03-25T20:04:59Z"
   },
   {
     "name": "ai-coding-principles",
@@ -58,9 +58,9 @@
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 113,
+    "stars": 117,
     "language": "Rust",
-    "updated_at": "2026-03-25T16:30:45Z"
+    "updated_at": "2026-03-25T20:38:32Z"
   },
   {
     "name": "pattern8",

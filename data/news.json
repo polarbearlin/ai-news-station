@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-03-25 17:02:35",
+  "generated_at": "2026-03-25 20:39:25",
   "news": [
     {
-      "title": "Local LLM App by Ente",
-      "url": "https://ente.com/blog/ensu/",
-      "source": "Hacker News",
-      "time": "2026-03-25 12:49",
-      "score": 225,
-      "comments": 95
-    },
-    {
-      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
       "source": "Hacker News",
       "time": "2026-03-22 14:28",
-      "score": 317,
-      "comments": 98
+      "score": 569,
+      "comments": 161
+    },
+    {
+      "title": "Ensu – Ente’s Local LLM app",
+      "url": "https://ente.com/blog/ensu/",
+      "source": "Hacker News",
+      "time": "2026-03-25 12:49",
+      "score": 299,
+      "comments": 133
+    },
+    {
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "source": "Hacker News",
+      "time": "2026-03-25 19:14",
+      "score": 68,
+      "comments": 33
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
       "source": "Hacker News",
       "time": "2026-03-25 05:00",
-      "score": 376,
-      "comments": 106
+      "score": 440,
+      "comments": 123
     }
   ]
 }
