@@ -1,66 +1,39 @@
 [
   {
-    "name": "chops",
-    "full_name": "Shpigford/chops",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-    "url": "https://github.com/Shpigford/chops",
-    "stars": 595,
-    "language": "Swift",
-    "updated_at": "2026-03-24T20:12:39Z"
-  },
-  {
-    "name": "ai-engineering-from-scratch",
-    "full_name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 462,
-    "language": "Python",
-    "updated_at": "2026-03-24T20:40:30Z"
-  },
-  {
     "name": "opencode-claude-auth",
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 440,
+    "stars": 452,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T20:13:55Z"
-  },
-  {
-    "name": "ai-engineering-interview-questions",
-    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 233,
-    "language": "Markdown",
-    "updated_at": "2026-03-24T20:37:27Z"
+    "updated_at": "2026-03-25T01:27:49Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 231,
+    "stars": 247,
     "language": "Go",
-    "updated_at": "2026-03-24T20:38:08Z"
+    "updated_at": "2026-03-25T01:47:58Z"
   },
   {
-    "name": "claude-code-toolkit",
-    "full_name": "notque/claude-code-toolkit",
-    "description": "AI Agent System - Creator of the /do router",
-    "url": "https://github.com/notque/claude-code-toolkit",
-    "stars": 153,
-    "language": "Python",
-    "updated_at": "2026-03-24T20:37:19Z"
+    "name": "ai-engineering-interview-questions",
+    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 237,
+    "language": "Markdown",
+    "updated_at": "2026-03-25T01:47:41Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 127,
+    "stars": 142,
     "language": "TypeScript",
-    "updated_at": "2026-03-24T20:27:59Z"
+    "updated_at": "2026-03-25T01:31:12Z"
   },
   {
     "name": "ai-coding-principles",
@@ -72,15 +45,6 @@
     "updated_at": "2026-03-24T15:43:51Z"
   },
   {
-    "name": "no-ai-in-nodejs-core",
-    "full_name": "indutny/no-ai-in-nodejs-core",
-    "description": "A petition to disallow acceptance of LLM generated Pull Requests in Node.js core",
-    "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-    "stars": 105,
-    "language": null,
-    "updated_at": "2026-03-24T20:34:59Z"
-  },
-  {
     "name": "clawless",
     "full_name": "open-gitagent/clawless",
     "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
@@ -88,5 +52,41 @@
     "stars": 103,
     "language": "TypeScript",
     "updated_at": "2026-03-24T09:33:52Z"
+  },
+  {
+    "name": "pattern8",
+    "full_name": "Aquifer-sea/pattern8",
+    "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8",
+    "url": "https://github.com/Aquifer-sea/pattern8",
+    "stars": 99,
+    "language": "Python",
+    "updated_at": "2026-03-24T14:05:30Z"
+  },
+  {
+    "name": "memind",
+    "full_name": "openmemind/memind",
+    "description": "Self-evolving cognitive memory for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding.",
+    "url": "https://github.com/openmemind/memind",
+    "stars": 75,
+    "language": "Java",
+    "updated_at": "2026-03-24T10:52:01Z"
+  },
+  {
+    "name": "lean-ctx",
+    "full_name": "yvgude/lean-ctx",
+    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
+    "url": "https://github.com/yvgude/lean-ctx",
+    "stars": 70,
+    "language": "Rust",
+    "updated_at": "2026-03-25T01:56:18Z"
+  },
+  {
+    "name": "pls",
+    "full_name": "salvy9978/pls",
+    "description": "Just say what you want. In your terminal.",
+    "url": "https://github.com/salvy9978/pls",
+    "stars": 59,
+    "language": "Python",
+    "updated_at": "2026-03-25T00:46:17Z"
   }
 ]

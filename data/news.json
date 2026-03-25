@@ -1,45 +1,21 @@
 {
-  "generated_at": "2026-03-24 20:41:46",
+  "generated_at": "2026-03-25 02:13:21",
   "news": [
     {
-      "title": "Is anybody else bored of talking about AI?",
-      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
       "source": "Hacker News",
-      "time": "2026-03-24 20:31",
-      "score": 42,
-      "comments": 8
-    },
-    {
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "url": "https://github.com/t8/hypura",
-      "source": "Hacker News",
-      "time": "2026-03-24 16:02",
-      "score": 162,
-      "comments": 66
+      "time": "2026-03-25 00:29",
+      "score": 70,
+      "comments": 18
     },
     {
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "source": "Hacker News",
       "time": "2026-03-24 12:06",
-      "score": 242,
-      "comments": 322
-    },
-    {
-      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "source": "Hacker News",
-      "time": "2026-03-24 18:34",
-      "score": 255,
-      "comments": 85
-    },
-    {
-      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "url": "https://www.emailmd.dev/",
-      "source": "Hacker News",
-      "time": "2026-03-24 16:26",
-      "score": 108,
-      "comments": 30
+      "score": 499,
+      "comments": 378
     }
   ]
 }
