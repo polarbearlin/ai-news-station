@@ -4,45 +4,54 @@
     "full_name": "griffinmartin/opencode-claude-auth",
     "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
     "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 460,
+    "stars": 466,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T08:12:09Z"
-  },
-  {
-    "name": "cc-skills-golang",
-    "full_name": "samber/cc-skills-golang",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-    "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 269,
-    "language": "Go",
-    "updated_at": "2026-03-25T08:37:04Z"
+    "updated_at": "2026-03-25T12:18:40Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 260,
+    "stars": 283,
     "language": "Markdown",
-    "updated_at": "2026-03-25T08:45:51Z"
+    "updated_at": "2026-03-25T13:09:55Z"
+  },
+  {
+    "name": "cc-skills-golang",
+    "full_name": "samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "url": "https://github.com/samber/cc-skills-golang",
+    "stars": 281,
+    "language": "Go",
+    "updated_at": "2026-03-25T12:57:16Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 152,
+    "stars": 155,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T07:57:48Z"
+    "updated_at": "2026-03-25T11:55:39Z"
   },
   {
     "name": "ai-coding-principles",
     "full_name": "luoling8192/ai-coding-principles",
     "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
     "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 117,
+    "stars": 118,
     "language": null,
-    "updated_at": "2026-03-25T07:45:38Z"
+    "updated_at": "2026-03-25T10:14:39Z"
+  },
+  {
+    "name": "lean-ctx",
+    "full_name": "yvgude/lean-ctx",
+    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
+    "url": "https://github.com/yvgude/lean-ctx",
+    "stars": 106,
+    "language": "Rust",
+    "updated_at": "2026-03-25T13:12:23Z"
   },
   {
     "name": "pattern8",
@@ -61,15 +70,6 @@
     "stars": 103,
     "language": "TypeScript",
     "updated_at": "2026-03-24T09:33:52Z"
-  },
-  {
-    "name": "lean-ctx",
-    "full_name": "yvgude/lean-ctx",
-    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
-    "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 90,
-    "language": "Rust",
-    "updated_at": "2026-03-25T08:38:13Z"
   },
   {
     "name": "memind",
