@@ -4,54 +4,54 @@
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 546,
+    "stars": 601,
     "language": "Dockerfile",
-    "updated_at": "2026-03-26T08:47:11Z"
-  },
-  {
-    "name": "ai-engineering-interview-questions",
-    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 428,
-    "language": "Markdown",
-    "updated_at": "2026-03-26T08:52:14Z"
-  },
-  {
-    "name": "cc-skills-golang",
-    "full_name": "samber/cc-skills-golang",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-    "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 335,
-    "language": "Go",
-    "updated_at": "2026-03-26T08:42:19Z"
+    "updated_at": "2026-03-26T13:17:13Z"
   },
   {
     "name": "awesome-opensource-ai",
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 319,
+    "stars": 565,
     "language": null,
-    "updated_at": "2026-03-26T08:56:09Z"
+    "updated_at": "2026-03-26T13:17:16Z"
+  },
+  {
+    "name": "ai-engineering-interview-questions",
+    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 442,
+    "language": "Markdown",
+    "updated_at": "2026-03-26T13:05:48Z"
+  },
+  {
+    "name": "cc-skills-golang",
+    "full_name": "samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "url": "https://github.com/samber/cc-skills-golang",
+    "stars": 342,
+    "language": "Go",
+    "updated_at": "2026-03-26T12:48:20Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 168,
+    "stars": 186,
     "language": "Rust",
-    "updated_at": "2026-03-26T08:51:22Z"
+    "updated_at": "2026-03-26T12:53:32Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 166,
+    "stars": 170,
     "language": "TypeScript",
-    "updated_at": "2026-03-26T07:59:54Z"
+    "updated_at": "2026-03-26T12:15:46Z"
   },
   {
     "name": "ai-coding-principles",
@@ -76,17 +76,17 @@
     "full_name": "salvy9978/pls",
     "description": "Just say what you want. In your terminal.",
     "url": "https://github.com/salvy9978/pls",
-    "stars": 61,
+    "stars": 62,
     "language": "Python",
-    "updated_at": "2026-03-25T22:55:13Z"
+    "updated_at": "2026-03-26T09:36:08Z"
   },
   {
     "name": "codexmaster",
     "full_name": "robbiecalvin/codexmaster",
     "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such strict constraints and rules for Codex that its output is nearly flawless. Files for: Governance, Execution, Workflow, Standards, Recovery, Design, Validation, Config plus Master Prompt Generator for App and Website Builds!",
     "url": "https://github.com/robbiecalvin/codexmaster",
-    "stars": 59,
+    "stars": 60,
     "language": "HTML",
-    "updated_at": "2026-03-26T03:00:08Z"
+    "updated_at": "2026-03-26T10:44:28Z"
   }
 ]
