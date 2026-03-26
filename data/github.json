@@ -1,66 +1,57 @@
 [
   {
-    "name": "opencode-claude-auth",
-    "full_name": "griffinmartin/opencode-claude-auth",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
-    "url": "https://github.com/griffinmartin/opencode-claude-auth",
-    "stars": 473,
-    "language": "TypeScript",
-    "updated_at": "2026-03-25T20:36:31Z"
+    "name": "HolyClaude",
+    "full_name": "CoderLuii/HolyClaude",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+    "url": "https://github.com/CoderLuii/HolyClaude",
+    "stars": 425,
+    "language": "Dockerfile",
+    "updated_at": "2026-03-26T02:23:21Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 353,
+    "stars": 380,
     "language": "Markdown",
-    "updated_at": "2026-03-25T20:30:25Z"
+    "updated_at": "2026-03-26T02:08:19Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 303,
+    "stars": 320,
     "language": "Go",
-    "updated_at": "2026-03-25T20:33:30Z"
-  },
-  {
-    "name": "HolyClaude",
-    "full_name": "CoderLuii/HolyClaude",
-    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
-    "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 283,
-    "language": "Dockerfile",
-    "updated_at": "2026-03-25T20:38:50Z"
+    "updated_at": "2026-03-26T02:17:16Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 159,
+    "stars": 160,
     "language": "TypeScript",
-    "updated_at": "2026-03-25T20:04:59Z"
-  },
-  {
-    "name": "ai-coding-principles",
-    "full_name": "luoling8192/ai-coding-principles",
-    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
-    "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 120,
-    "language": null,
-    "updated_at": "2026-03-25T15:47:17Z"
+    "updated_at": "2026-03-26T01:21:06Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 117,
+    "stars": 131,
     "language": "Rust",
-    "updated_at": "2026-03-25T20:38:32Z"
+    "updated_at": "2026-03-26T02:13:56Z"
+  },
+  {
+    "name": "ai-coding-principles",
+    "full_name": "luoling8192/ai-coding-principles",
+    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
+    "url": "https://github.com/luoling8192/ai-coding-principles",
+    "stars": 124,
+    "language": null,
+    "updated_at": "2026-03-26T02:00:23Z"
   },
   {
     "name": "pattern8",
@@ -72,21 +63,30 @@
     "updated_at": "2026-03-25T05:52:45Z"
   },
   {
-    "name": "clawless",
-    "full_name": "open-gitagent/clawless",
-    "description": "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
-    "url": "https://github.com/open-gitagent/clawless",
-    "stars": 103,
-    "language": "TypeScript",
-    "updated_at": "2026-03-24T09:33:52Z"
+    "name": "awesome-opensource-ai",
+    "full_name": "alvinunreal/awesome-opensource-ai",
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "stars": 87,
+    "language": null,
+    "updated_at": "2026-03-26T02:20:34Z"
   },
   {
-    "name": "memind",
-    "full_name": "openmemind/memind",
-    "description": "Self-evolving cognitive memory for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding.",
-    "url": "https://github.com/openmemind/memind",
-    "stars": 75,
-    "language": "Java",
-    "updated_at": "2026-03-24T10:52:01Z"
+    "name": "pls",
+    "full_name": "salvy9978/pls",
+    "description": "Just say what you want. In your terminal.",
+    "url": "https://github.com/salvy9978/pls",
+    "stars": 61,
+    "language": "Python",
+    "updated_at": "2026-03-25T22:55:13Z"
+  },
+  {
+    "name": "codexmaster",
+    "full_name": "robbiecalvin/codexmaster",
+    "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such strict constraints and rules for Codex that its output is nearly flawless. Files for: Governance, Execution, Workflow, Standards, Recovery, Design, Validation, Config plus Master Prompt Generator for App and Website Builds!",
+    "url": "https://github.com/robbiecalvin/codexmaster",
+    "stars": 58,
+    "language": "HTML",
+    "updated_at": "2026-03-25T21:18:18Z"
   }
 ]
