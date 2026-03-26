@@ -4,54 +4,54 @@
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 493,
+    "stars": 546,
     "language": "Dockerfile",
-    "updated_at": "2026-03-26T05:38:22Z"
+    "updated_at": "2026-03-26T08:47:11Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 404,
+    "stars": 428,
     "language": "Markdown",
-    "updated_at": "2026-03-26T05:35:34Z"
+    "updated_at": "2026-03-26T08:52:14Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 328,
+    "stars": 335,
     "language": "Go",
-    "updated_at": "2026-03-26T05:20:02Z"
+    "updated_at": "2026-03-26T08:42:19Z"
   },
   {
     "name": "awesome-opensource-ai",
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 166,
+    "stars": 319,
     "language": null,
-    "updated_at": "2026-03-26T05:39:07Z"
-  },
-  {
-    "name": "katmer-code",
-    "full_name": "hkcanan/katmer-code",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
-    "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 162,
-    "language": "TypeScript",
-    "updated_at": "2026-03-26T03:35:13Z"
+    "updated_at": "2026-03-26T08:56:09Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 143,
+    "stars": 168,
     "language": "Rust",
-    "updated_at": "2026-03-26T05:40:06Z"
+    "updated_at": "2026-03-26T08:51:22Z"
+  },
+  {
+    "name": "katmer-code",
+    "full_name": "hkcanan/katmer-code",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
+    "url": "https://github.com/hkcanan/katmer-code",
+    "stars": 166,
+    "language": "TypeScript",
+    "updated_at": "2026-03-26T07:59:54Z"
   },
   {
     "name": "ai-coding-principles",
@@ -60,7 +60,7 @@
     "url": "https://github.com/luoling8192/ai-coding-principles",
     "stars": 125,
     "language": null,
-    "updated_at": "2026-03-26T03:03:43Z"
+    "updated_at": "2026-03-26T08:32:12Z"
   },
   {
     "name": "pattern8",
