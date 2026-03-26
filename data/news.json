@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-26 02:26:57",
+  "generated_at": "2026-03-26 05:41:13",
   "news": [
-    {
-      "title": "False claims in a widely-cited paper. No corrections. No consequences",
-      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259",
-      "source": "Hacker News",
-      "time": "2026-03-26 00:46",
-      "score": 72,
-      "comments": 26
-    },
     {
       "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
       "source": "Hacker News",
       "time": "2026-03-22 14:28",
-      "score": 715,
-      "comments": 185
+      "score": 778,
+      "comments": 192
+    },
+    {
+      "title": "False claims in a widely-cited paper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "source": "Hacker News",
+      "time": "2026-03-26 00:46",
+      "score": 211,
+      "comments": 70
     }
   ]
 }
