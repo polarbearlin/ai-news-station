@@ -4,81 +4,72 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 879,
+    "stars": 1049,
     "language": null,
-    "updated_at": "2026-03-26T20:36:12Z"
+    "updated_at": "2026-03-27T02:25:16Z"
   },
   {
     "name": "HolyClaude",
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 708,
+    "stars": 772,
     "language": "Dockerfile",
-    "updated_at": "2026-03-26T20:33:58Z"
+    "updated_at": "2026-03-27T02:16:53Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 470,
+    "stars": 484,
     "language": "Markdown",
-    "updated_at": "2026-03-26T19:48:38Z"
+    "updated_at": "2026-03-27T02:15:49Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 349,
+    "stars": 373,
     "language": "Go",
-    "updated_at": "2026-03-26T19:52:59Z"
+    "updated_at": "2026-03-27T02:27:46Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 218,
+    "stars": 229,
     "language": "Rust",
-    "updated_at": "2026-03-26T20:14:17Z"
+    "updated_at": "2026-03-27T02:20:54Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 171,
+    "stars": 173,
     "language": "TypeScript",
-    "updated_at": "2026-03-26T13:36:05Z"
+    "updated_at": "2026-03-26T23:39:17Z"
   },
   {
     "name": "ai-coding-principles",
     "full_name": "luoling8192/ai-coding-principles",
     "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
     "url": "https://github.com/luoling8192/ai-coding-principles",
-    "stars": 125,
+    "stars": 126,
     "language": null,
-    "updated_at": "2026-03-26T08:32:12Z"
-  },
-  {
-    "name": "pattern8",
-    "full_name": "Aquifer-sea/pattern8",
-    "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8",
-    "url": "https://github.com/Aquifer-sea/pattern8",
-    "stars": 104,
-    "language": "Python",
-    "updated_at": "2026-03-26T19:52:40Z"
+    "updated_at": "2026-03-27T01:50:50Z"
   },
   {
     "name": "CLI-WeChat-Bridge",
     "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
     "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
     "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 63,
+    "stars": 68,
     "language": "TypeScript",
-    "updated_at": "2026-03-26T17:12:22Z"
+    "updated_at": "2026-03-27T02:13:00Z"
   },
   {
     "name": "pls",
@@ -88,5 +79,14 @@
     "stars": 62,
     "language": "Python",
     "updated_at": "2026-03-26T09:36:08Z"
+  },
+  {
+    "name": "codexmaster",
+    "full_name": "robbiecalvin/codexmaster",
+    "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such strict constraints and rules for Codex that its output is nearly flawless. Files for: Governance, Execution, Workflow, Standards, Recovery, Design, Validation, Config plus Master Prompt Generator for App and Website Builds!",
+    "url": "https://github.com/robbiecalvin/codexmaster",
+    "stars": 60,
+    "language": "HTML",
+    "updated_at": "2026-03-26T10:44:28Z"
   }
 ]

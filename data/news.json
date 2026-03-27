@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-03-26 20:36:38",
+  "generated_at": "2026-03-27 02:28:03",
   "news": [
+    {
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "source": "Hacker News",
+      "time": "2026-03-26 22:41",
+      "score": 107,
+      "comments": 36
+    },
+    {
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "source": "Hacker News",
+      "time": "2026-03-26 23:33",
+      "score": 190,
+      "comments": 121
+    },
     {
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
       "source": "Hacker News",
       "time": "2026-03-26 15:48",
-      "score": 205,
-      "comments": 91
+      "score": 304,
+      "comments": 125
     }
   ]
 }
