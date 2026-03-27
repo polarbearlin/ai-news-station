@@ -4,54 +4,54 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1049,
+    "stars": 1115,
     "language": null,
-    "updated_at": "2026-03-27T02:25:16Z"
+    "updated_at": "2026-03-27T05:41:04Z"
   },
   {
     "name": "HolyClaude",
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 772,
+    "stars": 803,
     "language": "Dockerfile",
-    "updated_at": "2026-03-27T02:16:53Z"
+    "updated_at": "2026-03-27T05:38:52Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 484,
+    "stars": 498,
     "language": "Markdown",
-    "updated_at": "2026-03-27T02:15:49Z"
+    "updated_at": "2026-03-27T05:23:07Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 373,
+    "stars": 379,
     "language": "Go",
-    "updated_at": "2026-03-27T02:27:46Z"
+    "updated_at": "2026-03-27T05:40:22Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 229,
+    "stars": 232,
     "language": "Rust",
-    "updated_at": "2026-03-27T02:20:54Z"
+    "updated_at": "2026-03-27T04:51:01Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 173,
+    "stars": 174,
     "language": "TypeScript",
-    "updated_at": "2026-03-26T23:39:17Z"
+    "updated_at": "2026-03-27T04:20:45Z"
   },
   {
     "name": "ai-coding-principles",
@@ -67,9 +67,9 @@
     "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
     "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
     "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 68,
+    "stars": 70,
     "language": "TypeScript",
-    "updated_at": "2026-03-27T02:13:00Z"
+    "updated_at": "2026-03-27T04:51:24Z"
   },
   {
     "name": "pls",
