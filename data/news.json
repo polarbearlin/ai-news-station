@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-27 08:54:32",
+  "generated_at": "2026-03-27 13:08:16",
   "news": [
     {
-      "title": "21,864 Yugoslavian .yu Domains",
-      "url": "https://jacobfilipp.com/yu/",
+      "title": "Everything old is new again: memory optimization",
+      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
       "source": "Hacker News",
-      "time": "2026-03-23 15:30",
-      "score": 23,
-      "comments": 13
+      "time": "2026-03-23 18:22",
+      "score": 77,
+      "comments": 37
     },
     {
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
       "source": "Hacker News",
       "time": "2026-03-26 22:41",
-      "score": 229,
-      "comments": 70
+      "score": 278,
+      "comments": 78
     }
   ]
 }

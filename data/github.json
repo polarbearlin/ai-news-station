@@ -4,54 +4,54 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1188,
+    "stars": 1283,
     "language": null,
-    "updated_at": "2026-03-27T08:48:15Z"
+    "updated_at": "2026-03-27T13:07:24Z"
   },
   {
     "name": "HolyClaude",
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 824,
+    "stars": 865,
     "language": "Dockerfile",
-    "updated_at": "2026-03-27T08:54:27Z"
+    "updated_at": "2026-03-27T12:57:54Z"
   },
   {
     "name": "ai-engineering-interview-questions",
     "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
     "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 519,
+    "stars": 539,
     "language": "Markdown",
-    "updated_at": "2026-03-27T08:32:57Z"
+    "updated_at": "2026-03-27T13:04:27Z"
   },
   {
     "name": "cc-skills-golang",
     "full_name": "samber/cc-skills-golang",
     "description": "🧑‍🎨 A collection of Golang agentic skills that works",
     "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 386,
+    "stars": 393,
     "language": "Go",
-    "updated_at": "2026-03-27T08:25:26Z"
+    "updated_at": "2026-03-27T12:56:41Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 239,
+    "stars": 242,
     "language": "Rust",
-    "updated_at": "2026-03-27T08:17:47Z"
+    "updated_at": "2026-03-27T12:14:50Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 177,
+    "stars": 183,
     "language": "TypeScript",
-    "updated_at": "2026-03-27T08:34:57Z"
+    "updated_at": "2026-03-27T12:45:57Z"
   },
   {
     "name": "ai-coding-principles",
@@ -67,26 +67,26 @@
     "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
     "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
     "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 76,
+    "stars": 80,
     "language": "TypeScript",
-    "updated_at": "2026-03-27T08:40:42Z"
+    "updated_at": "2026-03-27T11:50:51Z"
+  },
+  {
+    "name": "forge-film",
+    "full_name": "F-R-L/forge-film",
+    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
+    "url": "https://github.com/F-R-L/forge-film",
+    "stars": 66,
+    "language": "Python",
+    "updated_at": "2026-03-27T13:06:46Z"
   },
   {
     "name": "pls",
     "full_name": "salvy9978/pls",
     "description": "Just say what you want. In your terminal.",
     "url": "https://github.com/salvy9978/pls",
-    "stars": 62,
+    "stars": 61,
     "language": "Python",
-    "updated_at": "2026-03-26T09:36:08Z"
-  },
-  {
-    "name": "codexmaster",
-    "full_name": "robbiecalvin/codexmaster",
-    "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such strict constraints and rules for Codex that its output is nearly flawless. Files for: Governance, Execution, Workflow, Standards, Recovery, Design, Validation, Config plus Master Prompt Generator for App and Website Builds!",
-    "url": "https://github.com/robbiecalvin/codexmaster",
-    "stars": 60,
-    "language": "HTML",
-    "updated_at": "2026-03-26T10:44:28Z"
+    "updated_at": "2026-03-27T09:07:53Z"
   }
 ]
