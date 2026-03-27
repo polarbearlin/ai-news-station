@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-03-27 05:42:12",
+  "generated_at": "2026-03-27 08:54:32",
   "news": [
+    {
+      "title": "21,864 Yugoslavian .yu Domains",
+      "url": "https://jacobfilipp.com/yu/",
+      "source": "Hacker News",
+      "time": "2026-03-23 15:30",
+      "score": 23,
+      "comments": 13
+    },
     {
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
       "source": "Hacker News",
       "time": "2026-03-26 22:41",
-      "score": 170,
-      "comments": 61
-    },
-    {
-      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
-      "url": "https://www.trychroma.com/research/context-1",
-      "source": "Hacker News",
-      "time": "2026-03-26 19:25",
-      "score": 31,
-      "comments": 1
-    },
-    {
-      "title": "Agent-to-agent pair programming",
-      "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-      "source": "Hacker News",
-      "time": "2026-03-27 01:47",
-      "score": 29,
-      "comments": 9
+      "score": 229,
+      "comments": 70
     }
   ]
 }
