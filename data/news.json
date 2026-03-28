@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-03-28 12:56:33",
+  "generated_at": "2026-03-28 16:35:29",
   "news": [
+    {
+      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "source": "Hacker News",
+      "time": "2026-03-28 14:08",
+      "score": 220,
+      "comments": 174
+    },
     {
       "title": "Britain today generating 90%+ of electricity from renewables",
       "url": "https://grid.iamkate.com/",
       "source": "Hacker News",
       "time": "2026-03-28 11:06",
-      "score": 47,
-      "comments": 25
+      "score": 323,
+      "comments": 210
     },
     {
       "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
       "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
       "source": "Hacker News",
       "time": "2026-03-28 08:06",
-      "score": 142,
-      "comments": 71
+      "score": 212,
+      "comments": 107
     },
     {
-      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
-      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
       "source": "Hacker News",
-      "time": "2026-03-28 12:01",
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-      "url": "https://github.com/dbrll/ATTN-11",
-      "source": "Hacker News",
-      "time": "2026-03-25 15:20",
-      "score": 26,
-      "comments": 0
+      "time": "2026-03-28 14:49",
+      "score": 94,
+      "comments": 53
     }
   ]
 }
