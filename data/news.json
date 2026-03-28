@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-03-28 08:40:09",
+  "generated_at": "2026-03-28 12:56:33",
   "news": [
+    {
+      "title": "Britain today generating 90%+ of electricity from renewables",
+      "url": "https://grid.iamkate.com/",
+      "source": "Hacker News",
+      "time": "2026-03-28 11:06",
+      "score": 47,
+      "comments": 25
+    },
     {
       "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
       "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
       "source": "Hacker News",
       "time": "2026-03-28 08:06",
-      "score": 10,
-      "comments": 7
+      "score": 142,
+      "comments": 71
+    },
+    {
+      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+      "source": "Hacker News",
+      "time": "2026-03-28 12:01",
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+      "url": "https://github.com/dbrll/ATTN-11",
+      "source": "Hacker News",
+      "time": "2026-03-25 15:20",
+      "score": 26,
+      "comments": 0
     }
   ]
 }
