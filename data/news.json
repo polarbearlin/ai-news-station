@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-03-28 16:35:29",
+  "generated_at": "2026-03-28 20:31:36",
   "news": [
     {
-      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "source": "Hacker News",
+      "time": "2026-03-28 18:38",
+      "score": 71,
+      "comments": 14
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
       "source": "Hacker News",
       "time": "2026-03-28 14:08",
-      "score": 220,
-      "comments": 174
-    },
-    {
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "source": "Hacker News",
-      "time": "2026-03-28 11:06",
-      "score": 323,
-      "comments": 210
-    },
-    {
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "source": "Hacker News",
-      "time": "2026-03-28 08:06",
-      "score": 212,
-      "comments": 107
-    },
-    {
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "source": "Hacker News",
-      "time": "2026-03-28 14:49",
-      "score": 94,
-      "comments": 53
+      "score": 420,
+      "comments": 338
     }
   ]
 }

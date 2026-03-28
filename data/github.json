@@ -4,36 +4,36 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1652,
+    "stars": 1694,
     "language": null,
-    "updated_at": "2026-03-28T16:24:04Z"
+    "updated_at": "2026-03-28T20:21:40Z"
   },
   {
     "name": "HolyClaude",
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 1117,
+    "stars": 1153,
     "language": "Dockerfile",
-    "updated_at": "2026-03-28T16:33:30Z"
+    "updated_at": "2026-03-28T20:27:37Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 280,
+    "stars": 289,
     "language": "Rust",
-    "updated_at": "2026-03-28T15:50:12Z"
+    "updated_at": "2026-03-28T20:03:22Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 206,
+    "stars": 207,
     "language": "TypeScript",
-    "updated_at": "2026-03-28T15:44:26Z"
+    "updated_at": "2026-03-28T20:03:23Z"
   },
   {
     "name": "ai-coding-principles",
@@ -45,22 +45,22 @@
     "updated_at": "2026-03-28T03:20:26Z"
   },
   {
-    "name": "forge-film",
-    "full_name": "F-R-L/forge-film",
-    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
-    "url": "https://github.com/F-R-L/forge-film",
-    "stars": 124,
-    "language": "Python",
-    "updated_at": "2026-03-28T16:32:26Z"
-  },
-  {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 111,
+    "stars": 126,
     "language": null,
-    "updated_at": "2026-03-28T16:21:56Z"
+    "updated_at": "2026-03-28T20:31:13Z"
+  },
+  {
+    "name": "forge-film",
+    "full_name": "F-R-L/forge-film",
+    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
+    "url": "https://github.com/F-R-L/forge-film",
+    "stars": 114,
+    "language": "Python",
+    "updated_at": "2026-03-28T20:30:13Z"
   },
   {
     "name": "hola-boss-oss",
@@ -69,16 +69,16 @@
     "url": "https://github.com/holaboss-ai/hola-boss-oss",
     "stars": 104,
     "language": "TypeScript",
-    "updated_at": "2026-03-28T14:15:52Z"
+    "updated_at": "2026-03-28T17:09:35Z"
   },
   {
     "name": "CLI-WeChat-Bridge",
     "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
     "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
     "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 94,
+    "stars": 95,
     "language": "TypeScript",
-    "updated_at": "2026-03-28T16:06:26Z"
+    "updated_at": "2026-03-28T17:25:08Z"
   },
   {
     "name": "AQBot",
