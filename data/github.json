@@ -4,54 +4,36 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1415,
+    "stars": 1467,
     "language": null,
-    "updated_at": "2026-03-27T20:28:20Z"
+    "updated_at": "2026-03-28T01:52:12Z"
   },
   {
     "name": "HolyClaude",
     "full_name": "CoderLuii/HolyClaude",
     "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
     "url": "https://github.com/CoderLuii/HolyClaude",
-    "stars": 931,
+    "stars": 974,
     "language": "Dockerfile",
-    "updated_at": "2026-03-27T20:32:22Z"
-  },
-  {
-    "name": "ai-engineering-interview-questions",
-    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 572,
-    "language": "Markdown",
-    "updated_at": "2026-03-27T20:35:05Z"
-  },
-  {
-    "name": "cc-skills-golang",
-    "full_name": "samber/cc-skills-golang",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-    "url": "https://github.com/samber/cc-skills-golang",
-    "stars": 411,
-    "language": "Go",
-    "updated_at": "2026-03-27T20:25:51Z"
+    "updated_at": "2026-03-28T02:07:40Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 257,
+    "stars": 269,
     "language": "Rust",
-    "updated_at": "2026-03-27T20:33:45Z"
+    "updated_at": "2026-03-28T01:28:55Z"
   },
   {
     "name": "katmer-code",
     "full_name": "hkcanan/katmer-code",
     "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
     "url": "https://github.com/hkcanan/katmer-code",
-    "stars": 194,
+    "stars": 198,
     "language": "TypeScript",
-    "updated_at": "2026-03-27T20:33:15Z"
+    "updated_at": "2026-03-28T02:06:14Z"
   },
   {
     "name": "ai-coding-principles",
@@ -67,18 +49,18 @@
     "full_name": "holaboss-ai/hola-boss-oss",
     "description": "OSS core runtime and desktop workspace stack for Holaboss",
     "url": "https://github.com/holaboss-ai/hola-boss-oss",
-    "stars": 97,
+    "stars": 102,
     "language": "TypeScript",
-    "updated_at": "2026-03-27T20:08:49Z"
+    "updated_at": "2026-03-28T02:05:10Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 95,
+    "stars": 97,
     "language": "Python",
-    "updated_at": "2026-03-27T18:29:00Z"
+    "updated_at": "2026-03-28T02:00:36Z"
   },
   {
     "name": "CLI-WeChat-Bridge",
@@ -88,5 +70,23 @@
     "stars": 83,
     "language": "TypeScript",
     "updated_at": "2026-03-27T17:38:34Z"
+  },
+  {
+    "name": "codexmaster",
+    "full_name": "robbiecalvin/codexmaster",
+    "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such strict constraints and rules for Codex that its output is nearly flawless. Files for: Governance, Execution, Workflow, Standards, Recovery, Design, Validation, Config plus Master Prompt Generator for App and Website Builds!",
+    "url": "https://github.com/robbiecalvin/codexmaster",
+    "stars": 63,
+    "language": "HTML",
+    "updated_at": "2026-03-28T00:49:58Z"
+  },
+  {
+    "name": "oh-my-mermaid",
+    "full_name": "oh-my-mermaid/oh-my-mermaid",
+    "description": "Turn complex codebases into clear, navigable architecture diagrams with Claude Code.",
+    "url": "https://github.com/oh-my-mermaid/oh-my-mermaid",
+    "stars": 59,
+    "language": "TypeScript",
+    "updated_at": "2026-03-27T23:25:36Z"
   }
 ]
