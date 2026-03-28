@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-03-28 05:21:14",
-  "news": []
+  "generated_at": "2026-03-28 08:40:09",
+  "news": [
+    {
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "source": "Hacker News",
+      "time": "2026-03-28 08:06",
+      "score": 10,
+      "comments": 7
+    }
+  ]
 }
