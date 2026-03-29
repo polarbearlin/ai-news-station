@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-03-28 20:31:36",
+  "generated_at": "2026-03-29 02:31:03",
   "news": [
     {
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "url": "https://twitter.com/BoWang87/status/2037648937453232504",
       "source": "Hacker News",
       "time": "2026-03-28 18:38",
-      "score": 71,
-      "comments": 14
+      "score": 153,
+      "comments": 106
     },
     {
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
       "source": "Hacker News",
       "time": "2026-03-28 14:08",
-      "score": 420,
-      "comments": 338
+      "score": 532,
+      "comments": 412
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "source": "Hacker News",
+      "time": "2026-03-28 18:42",
+      "score": 123,
+      "comments": 57
     }
   ]
 }
