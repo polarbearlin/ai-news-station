@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-29 08:41:02",
+  "generated_at": "2026-03-29 12:57:36",
   "news": [
+    {
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "source": "Hacker News",
+      "time": "2026-03-29 10:10",
+      "score": 42,
+      "comments": 17
+    },
     {
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
       "source": "Hacker News",
       "time": "2026-03-28 14:08",
-      "score": 631,
-      "comments": 477
-    },
-    {
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "source": "Hacker News",
-      "time": "2026-03-28 18:38",
-      "score": 200,
-      "comments": 130
+      "score": 678,
+      "comments": 532
     }
   ]
 }

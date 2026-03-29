@@ -4,36 +4,36 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1811,
+    "stars": 1846,
     "language": null,
-    "updated_at": "2026-03-29T08:37:39Z"
+    "updated_at": "2026-03-29T12:41:23Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 301,
+    "stars": 306,
     "language": "Rust",
-    "updated_at": "2026-03-29T08:38:21Z"
+    "updated_at": "2026-03-29T12:21:20Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 158,
+    "stars": 164,
     "language": null,
-    "updated_at": "2026-03-29T08:18:31Z"
+    "updated_at": "2026-03-29T12:54:05Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 138,
+    "stars": 145,
     "language": "Python",
-    "updated_at": "2026-03-29T08:23:09Z"
+    "updated_at": "2026-03-29T12:31:26Z"
   },
   {
     "name": "CLI-WeChat-Bridge",
@@ -42,43 +42,43 @@
     "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
     "stars": 96,
     "language": "TypeScript",
-    "updated_at": "2026-03-29T02:54:56Z"
+    "updated_at": "2026-03-29T10:05:27Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 92,
+    "stars": 95,
     "language": "Python",
-    "updated_at": "2026-03-29T08:20:43Z"
+    "updated_at": "2026-03-29T11:53:55Z"
   },
   {
     "name": "AQBot",
     "full_name": "AQBot-Desktop/AQBot",
     "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
     "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 70,
+    "stars": 72,
     "language": "Rust",
-    "updated_at": "2026-03-29T03:20:52Z"
+    "updated_at": "2026-03-29T12:19:39Z"
   },
   {
     "name": "research-idea-explorer",
     "full_name": "jameslemon2002/research-idea-explorer",
     "description": "Literature-grounded research idea exploration for CLI agents. 文献驱动的研究选题与方向探索工具。",
     "url": "https://github.com/jameslemon2002/research-idea-explorer",
-    "stars": 63,
+    "stars": 66,
     "language": "JavaScript",
-    "updated_at": "2026-03-29T04:25:18Z"
+    "updated_at": "2026-03-29T12:01:15Z"
   },
   {
     "name": "free-video-downloader",
     "full_name": "liyupi/free-video-downloader",
     "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
     "url": "https://github.com/liyupi/free-video-downloader",
-    "stars": 57,
+    "stars": 59,
     "language": "Vue",
-    "updated_at": "2026-03-29T02:51:44Z"
+    "updated_at": "2026-03-29T11:30:40Z"
   },
   {
     "name": "ai-friendly-web-design-skill",
