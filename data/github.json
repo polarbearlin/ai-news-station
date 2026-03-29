@@ -4,63 +4,72 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1846,
+    "stars": 1886,
     "language": null,
-    "updated_at": "2026-03-29T12:41:23Z"
+    "updated_at": "2026-03-29T16:35:03Z"
   },
   {
     "name": "lean-ctx",
     "full_name": "yvgude/lean-ctx",
     "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
     "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 306,
+    "stars": 309,
     "language": "Rust",
-    "updated_at": "2026-03-29T12:21:20Z"
+    "updated_at": "2026-03-29T16:11:16Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 164,
+    "stars": 171,
     "language": null,
-    "updated_at": "2026-03-29T12:54:05Z"
+    "updated_at": "2026-03-29T16:00:21Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 145,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-03-29T12:31:26Z"
+    "updated_at": "2026-03-29T15:07:42Z"
   },
   {
-    "name": "CLI-WeChat-Bridge",
-    "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
-    "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
-    "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 96,
-    "language": "TypeScript",
-    "updated_at": "2026-03-29T10:05:27Z"
+    "name": "ai-localbase",
+    "full_name": "veyliss/ai-localbase",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+    "url": "https://github.com/veyliss/ai-localbase",
+    "stars": 125,
+    "language": "Go",
+    "updated_at": "2026-03-29T16:01:16Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 95,
+    "stars": 103,
     "language": "Python",
-    "updated_at": "2026-03-29T11:53:55Z"
+    "updated_at": "2026-03-29T15:14:44Z"
   },
   {
     "name": "AQBot",
     "full_name": "AQBot-Desktop/AQBot",
     "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
     "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 72,
+    "stars": 101,
     "language": "Rust",
-    "updated_at": "2026-03-29T12:19:39Z"
+    "updated_at": "2026-03-29T16:22:30Z"
+  },
+  {
+    "name": "CLI-WeChat-Bridge",
+    "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
+    "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
+    "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
+    "stars": 98,
+    "language": "TypeScript",
+    "updated_at": "2026-03-29T13:43:53Z"
   },
   {
     "name": "research-idea-explorer",
@@ -76,17 +85,8 @@
     "full_name": "liyupi/free-video-downloader",
     "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
     "url": "https://github.com/liyupi/free-video-downloader",
-    "stars": 59,
+    "stars": 61,
     "language": "Vue",
-    "updated_at": "2026-03-29T11:30:40Z"
-  },
-  {
-    "name": "ai-friendly-web-design-skill",
-    "full_name": "ianho7/ai-friendly-web-design-skill",
-    "description": "A Claude Code Skill that helps you build web interfaces friendly to both AI agents and human users — covering semantic HTML, ARIA attributes, stable locators, form best practices, and more.",
-    "url": "https://github.com/ianho7/ai-friendly-web-design-skill",
-    "stars": 53,
-    "language": "JavaScript",
-    "updated_at": "2026-03-28T18:25:18Z"
+    "updated_at": "2026-03-29T15:04:45Z"
   }
 ]
