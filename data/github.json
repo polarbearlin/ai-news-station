@@ -4,36 +4,27 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1910,
+    "stars": 1934,
     "language": null,
-    "updated_at": "2026-03-29T20:22:06Z"
-  },
-  {
-    "name": "lean-ctx",
-    "full_name": "yvgude/lean-ctx",
-    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
-    "url": "https://github.com/yvgude/lean-ctx",
-    "stars": 307,
-    "language": "Rust",
-    "updated_at": "2026-03-29T20:32:59Z"
+    "updated_at": "2026-03-30T02:16:10Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 181,
+    "stars": 200,
     "language": null,
-    "updated_at": "2026-03-29T20:14:41Z"
+    "updated_at": "2026-03-30T01:51:18Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 152,
+    "stars": 159,
     "language": "Python",
-    "updated_at": "2026-03-29T20:03:58Z"
+    "updated_at": "2026-03-30T02:28:01Z"
   },
   {
     "name": "ai-localbase",
@@ -42,51 +33,60 @@
     "url": "https://github.com/veyliss/ai-localbase",
     "stars": 125,
     "language": "Go",
-    "updated_at": "2026-03-29T16:01:16Z"
-  },
-  {
-    "name": "recursive-improve",
-    "full_name": "kayba-ai/recursive-improve",
-    "description": "🪞 Make your agents recursively self-improve",
-    "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 107,
-    "language": "Python",
-    "updated_at": "2026-03-29T20:18:32Z"
+    "updated_at": "2026-03-30T02:10:13Z"
   },
   {
     "name": "AQBot",
     "full_name": "AQBot-Desktop/AQBot",
     "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
     "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 106,
+    "stars": 120,
     "language": "Rust",
-    "updated_at": "2026-03-29T18:22:03Z"
+    "updated_at": "2026-03-30T02:06:49Z"
   },
   {
-    "name": "CLI-WeChat-Bridge",
-    "full_name": "UNLINEARITY/CLI-WeChat-Bridge",
-    "description": "将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。",
-    "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-    "stars": 99,
-    "language": "TypeScript",
-    "updated_at": "2026-03-29T16:57:17Z"
+    "name": "recursive-improve",
+    "full_name": "kayba-ai/recursive-improve",
+    "description": "🪞 Make your agents recursively self-improve",
+    "url": "https://github.com/kayba-ai/recursive-improve",
+    "stars": 113,
+    "language": "Python",
+    "updated_at": "2026-03-30T00:51:11Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 73,
+    "stars": 76,
     "language": "Go",
-    "updated_at": "2026-03-29T18:20:45Z"
+    "updated_at": "2026-03-30T02:06:04Z"
   },
   {
-    "name": "research-idea-explorer",
-    "full_name": "jameslemon2002/research-idea-explorer",
-    "description": "Literature-grounded research idea exploration for CLI agents. 文献驱动的研究选题与方向探索工具。",
-    "url": "https://github.com/jameslemon2002/research-idea-explorer",
-    "stars": 68,
-    "language": "JavaScript",
-    "updated_at": "2026-03-29T17:43:19Z"
+    "name": "glance",
+    "full_name": "DebugBase/glance",
+    "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
+    "url": "https://github.com/DebugBase/glance",
+    "stars": 62,
+    "language": "TypeScript",
+    "updated_at": "2026-03-30T02:33:27Z"
+  },
+  {
+    "name": "anvil",
+    "full_name": "zdenham/anvil",
+    "description": "IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.",
+    "url": "https://github.com/zdenham/anvil",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-03-30T01:19:58Z"
+  },
+  {
+    "name": "Macro",
+    "full_name": "HKU-MMLab/Macro",
+    "description": "The official repo of \"MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data\"",
+    "url": "https://github.com/HKU-MMLab/Macro",
+    "stars": 45,
+    "language": "Python",
+    "updated_at": "2026-03-30T01:05:27Z"
   }
 ]
