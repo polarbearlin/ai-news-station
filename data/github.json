@@ -4,72 +4,72 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1934,
+    "stars": 1950,
     "language": null,
-    "updated_at": "2026-03-30T02:16:10Z"
+    "updated_at": "2026-03-30T05:50:24Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 200,
+    "stars": 210,
     "language": null,
-    "updated_at": "2026-03-30T01:51:18Z"
+    "updated_at": "2026-03-30T05:30:21Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 159,
+    "stars": 161,
     "language": "Python",
-    "updated_at": "2026-03-30T02:28:01Z"
-  },
-  {
-    "name": "ai-localbase",
-    "full_name": "veyliss/ai-localbase",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
-    "url": "https://github.com/veyliss/ai-localbase",
-    "stars": 125,
-    "language": "Go",
-    "updated_at": "2026-03-30T02:10:13Z"
+    "updated_at": "2026-03-30T04:45:15Z"
   },
   {
     "name": "AQBot",
     "full_name": "AQBot-Desktop/AQBot",
     "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
     "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 120,
+    "stars": 131,
     "language": "Rust",
-    "updated_at": "2026-03-30T02:06:49Z"
+    "updated_at": "2026-03-30T05:43:09Z"
+  },
+  {
+    "name": "ai-localbase",
+    "full_name": "veyliss/ai-localbase",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+    "url": "https://github.com/veyliss/ai-localbase",
+    "stars": 126,
+    "language": "Go",
+    "updated_at": "2026-03-30T03:51:02Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 113,
+    "stars": 114,
     "language": "Python",
-    "updated_at": "2026-03-30T00:51:11Z"
+    "updated_at": "2026-03-30T04:24:03Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 76,
+    "stars": 82,
     "language": "Go",
-    "updated_at": "2026-03-30T02:06:04Z"
+    "updated_at": "2026-03-30T05:24:33Z"
   },
   {
     "name": "glance",
     "full_name": "DebugBase/glance",
     "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
     "url": "https://github.com/DebugBase/glance",
-    "stars": 62,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T02:33:27Z"
+    "updated_at": "2026-03-30T04:24:05Z"
   },
   {
     "name": "anvil",
@@ -85,8 +85,8 @@
     "full_name": "HKU-MMLab/Macro",
     "description": "The official repo of \"MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data\"",
     "url": "https://github.com/HKU-MMLab/Macro",
-    "stars": 45,
+    "stars": 47,
     "language": "Python",
-    "updated_at": "2026-03-30T01:05:27Z"
+    "updated_at": "2026-03-30T03:33:27Z"
   }
 ]
