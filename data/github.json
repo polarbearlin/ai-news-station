@@ -4,89 +4,89 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1950,
+    "stars": 1967,
     "language": null,
-    "updated_at": "2026-03-30T05:50:24Z"
+    "updated_at": "2026-03-30T09:02:39Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 210,
+    "stars": 221,
     "language": null,
-    "updated_at": "2026-03-30T05:30:21Z"
+    "updated_at": "2026-03-30T09:03:52Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 161,
+    "stars": 169,
     "language": "Python",
-    "updated_at": "2026-03-30T04:45:15Z"
+    "updated_at": "2026-03-30T09:12:36Z"
   },
   {
     "name": "AQBot",
     "full_name": "AQBot-Desktop/AQBot",
     "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
     "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 131,
+    "stars": 145,
     "language": "Rust",
-    "updated_at": "2026-03-30T05:43:09Z"
+    "updated_at": "2026-03-30T08:59:57Z"
   },
   {
     "name": "ai-localbase",
     "full_name": "veyliss/ai-localbase",
     "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
     "url": "https://github.com/veyliss/ai-localbase",
-    "stars": 126,
+    "stars": 127,
     "language": "Go",
-    "updated_at": "2026-03-30T03:51:02Z"
+    "updated_at": "2026-03-30T08:53:09Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 114,
+    "stars": 117,
     "language": "Python",
-    "updated_at": "2026-03-30T04:24:03Z"
+    "updated_at": "2026-03-30T08:11:43Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 82,
+    "stars": 83,
     "language": "Go",
-    "updated_at": "2026-03-30T05:24:33Z"
+    "updated_at": "2026-03-30T09:01:51Z"
   },
   {
     "name": "glance",
     "full_name": "DebugBase/glance",
     "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
     "url": "https://github.com/DebugBase/glance",
-    "stars": 64,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T04:24:05Z"
+    "updated_at": "2026-03-30T08:45:50Z"
+  },
+  {
+    "name": "Wechat-Claude-bot",
+    "full_name": "mrliuzhiyu/Wechat-Claude-bot",
+    "description": "通过微信远程操控 Claude Code CLI，在手机上写代码、执行命令、管理项目 | Control Claude Code from WeChat",
+    "url": "https://github.com/mrliuzhiyu/Wechat-Claude-bot",
+    "stars": 58,
+    "language": "Python",
+    "updated_at": "2026-03-30T09:08:48Z"
   },
   {
     "name": "anvil",
     "full_name": "zdenham/anvil",
     "description": "IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.",
     "url": "https://github.com/zdenham/anvil",
-    "stars": 52,
+    "stars": 53,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T01:19:58Z"
-  },
-  {
-    "name": "Macro",
-    "full_name": "HKU-MMLab/Macro",
-    "description": "The official repo of \"MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data\"",
-    "url": "https://github.com/HKU-MMLab/Macro",
-    "stars": 47,
-    "language": "Python",
-    "updated_at": "2026-03-30T03:33:27Z"
+    "updated_at": "2026-03-30T07:59:34Z"
   }
 ]
