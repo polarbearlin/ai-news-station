@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-03-30 09:13:30",
+  "generated_at": "2026-03-30 13:21:42",
   "news": [
+    {
+      "title": "How the AI Bubble Bursts",
+      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "source": "Hacker News",
+      "time": "2026-03-30 12:28",
+      "score": 116,
+      "comments": 70
+    },
+    {
+      "title": "Mathematical methods and human thought in the age of AI",
+      "url": "https://arxiv.org/abs/2603.26524",
+      "source": "Hacker News",
+      "time": "2026-03-30 11:05",
+      "score": 53,
+      "comments": 3
+    },
     {
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
       "source": "Hacker News",
       "time": "2026-03-29 20:21",
-      "score": 619,
-      "comments": 400
+      "score": 762,
+      "comments": 489
     },
     {
       "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
       "url": "https://dani2442.github.io/posts/continuous-rl/",
       "source": "Hacker News",
       "time": "2026-03-30 07:34",
-      "score": 22,
-      "comments": 6
-    },
-    {
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "source": "Hacker News",
-      "time": "2026-03-29 22:21",
-      "score": 173,
-      "comments": 166
+      "score": 79,
+      "comments": 20
     }
   ]
 }
