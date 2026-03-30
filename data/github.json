@@ -4,36 +4,45 @@
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 1992,
+    "stars": 2015,
     "language": null,
-    "updated_at": "2026-03-30T13:19:47Z"
+    "updated_at": "2026-03-30T16:52:03Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 230,
+    "stars": 240,
     "language": null,
-    "updated_at": "2026-03-30T12:13:38Z"
+    "updated_at": "2026-03-30T16:41:36Z"
   },
   {
     "name": "forge-film",
     "full_name": "F-R-L/forge-film",
     "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
     "url": "https://github.com/F-R-L/forge-film",
-    "stars": 175,
+    "stars": 180,
     "language": "Python",
-    "updated_at": "2026-03-30T12:39:21Z"
+    "updated_at": "2026-03-30T16:24:00Z"
   },
   {
     "name": "AQBot",
     "full_name": "AQBot-Desktop/AQBot",
     "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
     "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 150,
+    "stars": 154,
     "language": "Rust",
-    "updated_at": "2026-03-30T13:16:28Z"
+    "updated_at": "2026-03-30T16:14:50Z"
+  },
+  {
+    "name": "recursive-improve",
+    "full_name": "kayba-ai/recursive-improve",
+    "description": "🪞 Make your agents recursively self-improve",
+    "url": "https://github.com/kayba-ai/recursive-improve",
+    "stars": 135,
+    "language": "Python",
+    "updated_at": "2026-03-30T16:51:32Z"
   },
   {
     "name": "ai-localbase",
@@ -42,34 +51,25 @@
     "url": "https://github.com/veyliss/ai-localbase",
     "stars": 127,
     "language": "Go",
-    "updated_at": "2026-03-30T08:53:09Z"
-  },
-  {
-    "name": "recursive-improve",
-    "full_name": "kayba-ai/recursive-improve",
-    "description": "🪞 Make your agents recursively self-improve",
-    "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 128,
-    "language": "Python",
-    "updated_at": "2026-03-30T13:21:35Z"
+    "updated_at": "2026-03-30T14:16:02Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 84,
+    "stars": 126,
     "language": "Go",
-    "updated_at": "2026-03-30T10:20:10Z"
+    "updated_at": "2026-03-30T16:55:15Z"
   },
   {
     "name": "glance",
     "full_name": "DebugBase/glance",
     "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
     "url": "https://github.com/DebugBase/glance",
-    "stars": 70,
+    "stars": 71,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T12:23:29Z"
+    "updated_at": "2026-03-30T14:23:26Z"
   },
   {
     "name": "Wechat-Claude-bot",
@@ -85,8 +85,8 @@
     "full_name": "zdenham/anvil",
     "description": "IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.",
     "url": "https://github.com/zdenham/anvil",
-    "stars": 54,
+    "stars": 56,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T10:01:50Z"
+    "updated_at": "2026-03-30T16:09:42Z"
   }
 ]
