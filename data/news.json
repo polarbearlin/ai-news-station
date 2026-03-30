@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-03-30 16:56:56",
+  "generated_at": "2026-03-30 20:46:15",
   "news": [
     {
-      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "title": "Bird brains (2023)",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
       "source": "Hacker News",
       "time": "2026-03-30 13:14",
-      "score": 183,
-      "comments": 107
-    },
-    {
-      "title": "Mathematical methods and human thought in the age of AI",
-      "url": "https://arxiv.org/abs/2603.26524",
-      "source": "Hacker News",
-      "time": "2026-03-30 11:05",
-      "score": 139,
-      "comments": 49
-    },
-    {
-      "title": "FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
-      "source": "Hacker News",
-      "time": "2026-03-30 15:32",
-      "score": 61,
-      "comments": 25
-    },
-    {
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "source": "Hacker News",
-      "time": "2026-03-29 20:21",
-      "score": 882,
-      "comments": 576
+      "score": 266,
+      "comments": 170
     }
   ]
 }
