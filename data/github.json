@@ -4,54 +4,54 @@
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 325,
+    "stars": 386,
     "language": null,
-    "updated_at": "2026-03-31T13:17:18Z"
+    "updated_at": "2026-03-31T16:55:13Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 198,
+    "stars": 209,
     "language": "Go",
-    "updated_at": "2026-03-31T13:16:55Z"
+    "updated_at": "2026-03-31T16:47:56Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 144,
+    "stars": 146,
     "language": "Python",
-    "updated_at": "2026-03-31T12:08:16Z"
+    "updated_at": "2026-03-31T16:15:46Z"
   },
   {
     "name": "ai-localbase",
     "full_name": "veyliss/ai-localbase",
     "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
     "url": "https://github.com/veyliss/ai-localbase",
-    "stars": 129,
+    "stars": 130,
     "language": "Go",
-    "updated_at": "2026-03-31T04:52:41Z"
+    "updated_at": "2026-03-31T13:31:19Z"
   },
   {
     "name": "jarvis",
     "full_name": "ethanplusai/jarvis",
     "description": "JARVIS — A voice-first AI assistant for macOS, inspired by the MCU. Talk to your computer, it talks back and gets things done.",
     "url": "https://github.com/ethanplusai/jarvis",
-    "stars": 96,
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-03-31T12:40:28Z"
+    "updated_at": "2026-03-31T15:34:45Z"
   },
   {
     "name": "glance",
     "full_name": "DebugBase/glance",
     "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
     "url": "https://github.com/DebugBase/glance",
-    "stars": 92,
+    "stars": 95,
     "language": "TypeScript",
-    "updated_at": "2026-03-31T12:28:47Z"
+    "updated_at": "2026-03-31T16:20:09Z"
   },
   {
     "name": "Wechat-Claude-bot",
@@ -63,6 +63,15 @@
     "updated_at": "2026-03-31T09:15:58Z"
   },
   {
+    "name": "Claude-code",
+    "full_name": "fazxes/Claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
+    "url": "https://github.com/fazxes/Claude-code",
+    "stars": 77,
+    "language": "TypeScript",
+    "updated_at": "2026-03-31T16:55:56Z"
+  },
+  {
     "name": "anvil",
     "full_name": "zdenham/anvil",
     "description": "IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-03-31T10:11:22Z"
   },
   {
-    "name": "OpenDocuments",
-    "full_name": "joungminsung/OpenDocuments",
-    "description": "Open source RAG tool for AI document search - connect GitHub, Notion, Google Drive and ask questions with cited answers. Self-hosted with Ollama/OpenAI/Claude.",
-    "url": "https://github.com/joungminsung/OpenDocuments",
-    "stars": 55,
+    "name": "FlowVision",
+    "full_name": "znc15/FlowVision",
+    "description": "FlowVision，一键分析项目代码 · 自动生成架构流程图 · 可视化编辑 · MCP 实时同步",
+    "url": "https://github.com/znc15/FlowVision",
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-03-31T07:49:52Z"
-  },
-  {
-    "name": "Macro",
-    "full_name": "HKU-MMLab/Macro",
-    "description": "The official repo of \"MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data\"",
-    "url": "https://github.com/HKU-MMLab/Macro",
-    "stars": 48,
-    "language": "Python",
-    "updated_at": "2026-03-30T14:35:49Z"
+    "updated_at": "2026-03-31T16:56:11Z"
   }
 ]
