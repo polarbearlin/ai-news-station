@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-03-31 02:28:30",
-  "news": []
+  "generated_at": "2026-03-31 05:43:57",
+  "news": [
+    {
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "source": "Hacker News",
+      "time": "2026-03-26 17:00",
+      "score": 104,
+      "comments": 5
+    }
+  ]
 }
