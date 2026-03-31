@@ -1,57 +1,30 @@
 [
   {
-    "name": "awesome-opensource-ai",
-    "full_name": "alvinunreal/awesome-opensource-ai",
-    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2040,
-    "language": null,
-    "updated_at": "2026-03-30T20:35:36Z"
-  },
-  {
     "name": "awesome-openclaw",
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 248,
+    "stars": 257,
     "language": null,
-    "updated_at": "2026-03-30T20:13:51Z"
-  },
-  {
-    "name": "forge-film",
-    "full_name": "F-R-L/forge-film",
-    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
-    "url": "https://github.com/F-R-L/forge-film",
-    "stars": 181,
-    "language": "Python",
-    "updated_at": "2026-03-30T17:51:03Z"
-  },
-  {
-    "name": "AQBot",
-    "full_name": "AQBot-Desktop/AQBot",
-    "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
-    "url": "https://github.com/AQBot-Desktop/AQBot",
-    "stars": 155,
-    "language": "Rust",
-    "updated_at": "2026-03-30T18:00:22Z"
-  },
-  {
-    "name": "recursive-improve",
-    "full_name": "kayba-ai/recursive-improve",
-    "description": "🪞 Make your agents recursively self-improve",
-    "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 136,
-    "language": "Python",
-    "updated_at": "2026-03-30T17:43:47Z"
+    "updated_at": "2026-03-31T02:25:27Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 134,
+    "stars": 146,
     "language": "Go",
-    "updated_at": "2026-03-30T19:53:24Z"
+    "updated_at": "2026-03-31T02:22:42Z"
+  },
+  {
+    "name": "recursive-improve",
+    "full_name": "kayba-ai/recursive-improve",
+    "description": "🪞 Make your agents recursively self-improve",
+    "url": "https://github.com/kayba-ai/recursive-improve",
+    "stars": 139,
+    "language": "Python",
+    "updated_at": "2026-03-31T01:40:42Z"
   },
   {
     "name": "ai-localbase",
@@ -60,33 +33,60 @@
     "url": "https://github.com/veyliss/ai-localbase",
     "stars": 127,
     "language": "Go",
-    "updated_at": "2026-03-30T14:16:02Z"
+    "updated_at": "2026-03-31T01:43:59Z"
   },
   {
     "name": "glance",
     "full_name": "DebugBase/glance",
     "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
     "url": "https://github.com/DebugBase/glance",
-    "stars": 76,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T20:40:44Z"
+    "updated_at": "2026-03-31T01:56:16Z"
   },
   {
-    "name": "Wechat-Claude-bot",
-    "full_name": "mrliuzhiyu/Wechat-Claude-bot",
-    "description": "通过微信远程操控 Claude Code CLI，在手机上写代码、执行命令、管理项目 | Control Claude Code from WeChat",
-    "url": "https://github.com/mrliuzhiyu/Wechat-Claude-bot",
-    "stars": 62,
+    "name": "jarvis",
+    "full_name": "ethanplusai/jarvis",
+    "description": "JARVIS — A voice-first AI assistant for macOS, inspired by the MCU. Talk to your computer, it talks back and gets things done.",
+    "url": "https://github.com/ethanplusai/jarvis",
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-03-30T10:03:16Z"
+    "updated_at": "2026-03-31T01:00:07Z"
   },
   {
     "name": "anvil",
     "full_name": "zdenham/anvil",
     "description": "IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.",
     "url": "https://github.com/zdenham/anvil",
-    "stars": 60,
+    "stars": 66,
     "language": "TypeScript",
-    "updated_at": "2026-03-30T20:43:50Z"
+    "updated_at": "2026-03-31T02:09:30Z"
+  },
+  {
+    "name": "Wechat-Claude-bot",
+    "full_name": "mrliuzhiyu/Wechat-Claude-bot",
+    "description": "通过微信远程操控 Claude Code CLI，在手机上写代码、执行命令、管理项目 | Control Claude Code from WeChat",
+    "url": "https://github.com/mrliuzhiyu/Wechat-Claude-bot",
+    "stars": 65,
+    "language": "Python",
+    "updated_at": "2026-03-31T02:03:28Z"
+  },
+  {
+    "name": "OpenDocuments",
+    "full_name": "joungminsung/OpenDocuments",
+    "description": "Open source RAG tool for AI document search - connect GitHub, Notion, Google Drive and ask questions with cited answers. Self-hosted with Ollama/OpenAI/Claude.",
+    "url": "https://github.com/joungminsung/OpenDocuments",
+    "stars": 51,
+    "language": "TypeScript",
+    "updated_at": "2026-03-31T02:25:45Z"
+  },
+  {
+    "name": "Macro",
+    "full_name": "HKU-MMLab/Macro",
+    "description": "The official repo of \"MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data\"",
+    "url": "https://github.com/HKU-MMLab/Macro",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-03-30T14:35:49Z"
   }
 ]
