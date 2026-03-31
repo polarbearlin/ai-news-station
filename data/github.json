@@ -4,27 +4,27 @@
     "full_name": "alvinunreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinunreal/awesome-openclaw",
-    "stars": 386,
+    "stars": 411,
     "language": null,
-    "updated_at": "2026-03-31T16:55:13Z"
+    "updated_at": "2026-03-31T20:29:25Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 209,
+    "stars": 216,
     "language": "Go",
-    "updated_at": "2026-03-31T16:47:56Z"
+    "updated_at": "2026-03-31T20:23:13Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 146,
+    "stars": 148,
     "language": "Python",
-    "updated_at": "2026-03-31T16:15:46Z"
+    "updated_at": "2026-03-31T17:29:51Z"
   },
   {
     "name": "ai-localbase",
@@ -40,18 +40,27 @@
     "full_name": "ethanplusai/jarvis",
     "description": "JARVIS — A voice-first AI assistant for macOS, inspired by the MCU. Talk to your computer, it talks back and gets things done.",
     "url": "https://github.com/ethanplusai/jarvis",
-    "stars": 98,
+    "stars": 103,
     "language": "Python",
-    "updated_at": "2026-03-31T15:34:45Z"
+    "updated_at": "2026-03-31T20:28:52Z"
   },
   {
     "name": "glance",
     "full_name": "DebugBase/glance",
     "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
     "url": "https://github.com/DebugBase/glance",
+    "stars": 98,
+    "language": "TypeScript",
+    "updated_at": "2026-03-31T20:40:54Z"
+  },
+  {
+    "name": "Claude-code",
+    "full_name": "fazxes/Claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
+    "url": "https://github.com/fazxes/Claude-code",
     "stars": 95,
     "language": "TypeScript",
-    "updated_at": "2026-03-31T16:20:09Z"
+    "updated_at": "2026-03-31T20:37:55Z"
   },
   {
     "name": "Wechat-Claude-bot",
@@ -63,15 +72,6 @@
     "updated_at": "2026-03-31T09:15:58Z"
   },
   {
-    "name": "Claude-code",
-    "full_name": "fazxes/Claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
-    "url": "https://github.com/fazxes/Claude-code",
-    "stars": 77,
-    "language": "TypeScript",
-    "updated_at": "2026-03-31T16:55:56Z"
-  },
-  {
     "name": "anvil",
     "full_name": "zdenham/anvil",
     "description": "IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-03-31T10:11:22Z"
   },
   {
-    "name": "FlowVision",
-    "full_name": "znc15/FlowVision",
-    "description": "FlowVision，一键分析项目代码 · 自动生成架构流程图 · 可视化编辑 · MCP 实时同步",
-    "url": "https://github.com/znc15/FlowVision",
+    "name": "claude-code-source-code",
+    "full_name": "777genius/claude-code-source-code",
+    "description": "Claude code source code",
+    "url": "https://github.com/777genius/claude-code-source-code",
     "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-03-31T16:56:11Z"
+    "updated_at": "2026-03-31T20:41:58Z"
   }
 ]
