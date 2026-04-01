@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-03-31 20:42:41",
+  "generated_at": "2026-04-01 02:39:14",
   "news": [
     {
-      "title": "Accelerating the Next Phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "source": "Hacker News",
+      "time": "2026-03-31 21:01",
+      "score": 113,
+      "comments": 47
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
       "source": "Hacker News",
       "time": "2026-03-31 20:07",
-      "score": 23,
-      "comments": 30
+      "score": 337,
+      "comments": 297
     }
   ]
 }
