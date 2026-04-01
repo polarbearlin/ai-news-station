@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-01 13:23:42",
+  "generated_at": "2026-04-01 16:56:01",
   "news": [
     {
-      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+      "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "source": "Hacker News",
+      "time": "2026-04-01 15:55",
+      "score": 26,
+      "comments": 2
+    },
+    {
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
       "url": "https://sycamore.dev",
       "source": "Hacker News",
       "time": "2026-04-01 12:30",
-      "score": 17,
-      "comments": 11
+      "score": 75,
+      "comments": 46
     }
   ]
 }
