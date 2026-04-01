@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-01 09:05:31",
+  "generated_at": "2026-04-01 13:23:42",
   "news": [
     {
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
+      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+      "url": "https://sycamore.dev",
       "source": "Hacker News",
-      "time": "2026-03-31 21:01",
-      "score": 240,
-      "comments": 101
+      "time": "2026-04-01 12:30",
+      "score": 17,
+      "comments": 11
     }
   ]
 }

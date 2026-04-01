@@ -4,45 +4,45 @@
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 542,
-    "language": "TypeScript",
-    "updated_at": "2026-04-01T09:04:29Z"
+    "stars": 724,
+    "language": null,
+    "updated_at": "2026-04-01T13:23:42Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 491,
+    "stars": 504,
     "language": null,
-    "updated_at": "2026-04-01T08:15:32Z"
-  },
-  {
-    "name": "figma-mcp-go",
-    "full_name": "vkhanhqui/figma-mcp-go",
-    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
-    "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 241,
-    "language": "Go",
-    "updated_at": "2026-04-01T08:53:33Z"
+    "updated_at": "2026-04-01T13:06:42Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 226,
+    "stars": 267,
     "language": "TypeScript",
-    "updated_at": "2026-04-01T09:02:36Z"
+    "updated_at": "2026-04-01T13:13:39Z"
+  },
+  {
+    "name": "figma-mcp-go",
+    "full_name": "vkhanhqui/figma-mcp-go",
+    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
+    "url": "https://github.com/vkhanhqui/figma-mcp-go",
+    "stars": 255,
+    "language": "Go",
+    "updated_at": "2026-04-01T12:57:08Z"
   },
   {
     "name": "OpenMontage",
     "full_name": "calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 152,
+    "stars": 170,
     "language": "Python",
-    "updated_at": "2026-04-01T08:52:00Z"
+    "updated_at": "2026-04-01T13:16:51Z"
   },
   {
     "name": "recursive-improve",
@@ -58,18 +58,18 @@
     "full_name": "fazxes/Claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
     "url": "https://github.com/fazxes/Claude-code",
-    "stars": 134,
+    "stars": 137,
     "language": "TypeScript",
-    "updated_at": "2026-04-01T08:55:15Z"
+    "updated_at": "2026-04-01T11:27:13Z"
   },
   {
     "name": "jarvis",
     "full_name": "ethanplusai/jarvis",
     "description": "JARVIS — A voice-first AI assistant for macOS, inspired by the MCU. Talk to your computer, it talks back and gets things done.",
     "url": "https://github.com/ethanplusai/jarvis",
-    "stars": 117,
+    "stars": 121,
     "language": "Python",
-    "updated_at": "2026-04-01T06:39:57Z"
+    "updated_at": "2026-04-01T13:02:21Z"
   },
   {
     "name": "glance",
