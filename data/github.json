@@ -1,66 +1,84 @@
 [
   {
+    "name": "claude-reviews-claude",
+    "full_name": "openedclaude/claude-reviews-claude",
+    "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
+    "url": "https://github.com/openedclaude/claude-reviews-claude",
+    "stars": 981,
+    "language": null,
+    "updated_at": "2026-04-01T20:37:26Z"
+  },
+  {
     "name": "how-claude-code-works",
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 826,
+    "stars": 843,
     "language": null,
-    "updated_at": "2026-04-01T16:54:24Z"
+    "updated_at": "2026-04-01T20:00:00Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 757,
+    "stars": 786,
     "language": null,
-    "updated_at": "2026-04-01T16:38:28Z"
+    "updated_at": "2026-04-01T20:39:43Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 516,
+    "stars": 520,
     "language": null,
-    "updated_at": "2026-04-01T16:54:28Z"
+    "updated_at": "2026-04-01T20:40:05Z"
   },
   {
     "name": "claude-code-from-scratch",
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 482,
+    "stars": 490,
     "language": "TypeScript",
-    "updated_at": "2026-04-01T16:52:33Z"
+    "updated_at": "2026-04-01T19:59:58Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 310,
+    "stars": 322,
     "language": "TypeScript",
-    "updated_at": "2026-04-01T16:40:20Z"
+    "updated_at": "2026-04-01T20:07:11Z"
   },
   {
     "name": "figma-mcp-go",
     "full_name": "vkhanhqui/figma-mcp-go",
     "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code",
     "url": "https://github.com/vkhanhqui/figma-mcp-go",
-    "stars": 262,
+    "stars": 268,
     "language": "Go",
-    "updated_at": "2026-04-01T16:48:15Z"
+    "updated_at": "2026-04-01T20:32:14Z"
   },
   {
     "name": "OpenMontage",
     "full_name": "calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 180,
+    "stars": 192,
     "language": "Python",
-    "updated_at": "2026-04-01T16:49:51Z"
+    "updated_at": "2026-04-01T20:34:34Z"
+  },
+  {
+    "name": "Claude-code",
+    "full_name": "fazxes/Claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
+    "url": "https://github.com/fazxes/Claude-code",
+    "stars": 151,
+    "language": "TypeScript",
+    "updated_at": "2026-04-01T19:59:29Z"
   },
   {
     "name": "recursive-improve",
@@ -70,23 +88,5 @@
     "stars": 150,
     "language": "Python",
     "updated_at": "2026-04-01T04:52:53Z"
-  },
-  {
-    "name": "Claude-code",
-    "full_name": "fazxes/Claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
-    "url": "https://github.com/fazxes/Claude-code",
-    "stars": 143,
-    "language": "TypeScript",
-    "updated_at": "2026-04-01T16:14:07Z"
-  },
-  {
-    "name": "jarvis",
-    "full_name": "ethanplusai/jarvis",
-    "description": "JARVIS — A voice-first AI assistant for macOS, inspired by the MCU. Talk to your computer, it talks back and gets things done.",
-    "url": "https://github.com/ethanplusai/jarvis",
-    "stars": 128,
-    "language": "Python",
-    "updated_at": "2026-04-01T16:45:33Z"
   }
 ]
