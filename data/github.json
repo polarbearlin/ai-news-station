@@ -4,81 +4,81 @@
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1221,
+    "stars": 1224,
     "language": null,
-    "updated_at": "2026-04-02T16:33:26Z"
+    "updated_at": "2026-04-02T18:16:34Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1101,
+    "stars": 1106,
     "language": null,
-    "updated_at": "2026-04-02T16:41:12Z"
+    "updated_at": "2026-04-02T20:27:33Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 835,
+    "stars": 839,
     "language": null,
-    "updated_at": "2026-04-02T16:10:36Z"
+    "updated_at": "2026-04-02T19:28:08Z"
   },
   {
     "name": "claude-code-from-scratch",
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 644,
+    "stars": 645,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T16:43:09Z"
+    "updated_at": "2026-04-02T19:49:25Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 538,
+    "stars": 544,
     "language": null,
-    "updated_at": "2026-04-02T13:36:48Z"
+    "updated_at": "2026-04-02T20:38:27Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 413,
+    "stars": 416,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T16:52:48Z"
+    "updated_at": "2026-04-02T17:24:40Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 341,
+    "stars": 375,
     "language": "PowerShell",
-    "updated_at": "2026-04-02T16:46:02Z"
+    "updated_at": "2026-04-02T19:59:24Z"
   },
   {
     "name": "OpenMontage",
     "full_name": "calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 219,
+    "stars": 220,
     "language": "Python",
-    "updated_at": "2026-04-02T16:29:16Z"
+    "updated_at": "2026-04-02T20:12:33Z"
   },
   {
     "name": "Claude-code",
     "full_name": "fazxes/Claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
     "url": "https://github.com/fazxes/Claude-code",
-    "stars": 168,
+    "stars": 170,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T13:43:12Z"
+    "updated_at": "2026-04-02T19:28:02Z"
   },
   {
     "name": "recursive-improve",
