@@ -4,89 +4,89 @@
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1180,
+    "stars": 1221,
     "language": null,
-    "updated_at": "2026-04-02T13:07:05Z"
+    "updated_at": "2026-04-02T16:33:26Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1093,
+    "stars": 1101,
     "language": null,
-    "updated_at": "2026-04-02T13:01:21Z"
+    "updated_at": "2026-04-02T16:41:12Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 830,
+    "stars": 835,
     "language": null,
-    "updated_at": "2026-04-02T13:10:31Z"
+    "updated_at": "2026-04-02T16:10:36Z"
   },
   {
     "name": "claude-code-from-scratch",
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
-    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程",
+    "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 622,
+    "stars": 644,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T13:10:51Z"
+    "updated_at": "2026-04-02T16:43:09Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 537,
+    "stars": 538,
     "language": null,
-    "updated_at": "2026-04-02T13:03:18Z"
+    "updated_at": "2026-04-02T13:36:48Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 402,
+    "stars": 413,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T12:58:39Z"
+    "updated_at": "2026-04-02T16:52:48Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 255,
+    "stars": 341,
     "language": "PowerShell",
-    "updated_at": "2026-04-02T13:14:50Z"
+    "updated_at": "2026-04-02T16:46:02Z"
   },
   {
     "name": "OpenMontage",
     "full_name": "calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 215,
+    "stars": 219,
     "language": "Python",
-    "updated_at": "2026-04-02T12:45:17Z"
+    "updated_at": "2026-04-02T16:29:16Z"
   },
   {
     "name": "Claude-code",
     "full_name": "fazxes/Claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
     "url": "https://github.com/fazxes/Claude-code",
-    "stars": 166,
+    "stars": 168,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T12:13:55Z"
+    "updated_at": "2026-04-02T13:43:12Z"
   },
   {
     "name": "recursive-improve",
     "full_name": "kayba-ai/recursive-improve",
     "description": "🪞 Make your agents recursively self-improve",
     "url": "https://github.com/kayba-ai/recursive-improve",
-    "stars": 151,
+    "stars": 152,
     "language": "Python",
-    "updated_at": "2026-04-01T21:03:51Z"
+    "updated_at": "2026-04-02T16:43:34Z"
   }
 ]
