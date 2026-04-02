@@ -1,75 +1,84 @@
 [
   {
-    "name": "claude-reviews-claude",
-    "full_name": "openedclaude/claude-reviews-claude",
-    "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
-    "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1043,
-    "language": null,
-    "updated_at": "2026-04-02T05:37:02Z"
-  },
-  {
     "name": "how-claude-code-works",
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1039,
+    "stars": 1127,
     "language": null,
-    "updated_at": "2026-04-02T05:40:01Z"
+    "updated_at": "2026-04-02T08:56:28Z"
+  },
+  {
+    "name": "claude-reviews-claude",
+    "full_name": "openedclaude/claude-reviews-claude",
+    "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
+    "url": "https://github.com/openedclaude/claude-reviews-claude",
+    "stars": 1072,
+    "language": null,
+    "updated_at": "2026-04-02T08:40:34Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 817,
+    "stars": 822,
     "language": null,
-    "updated_at": "2026-04-02T05:25:59Z"
+    "updated_at": "2026-04-02T08:22:34Z"
   },
   {
     "name": "claude-code-from-scratch",
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 578,
+    "stars": 610,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T05:39:38Z"
+    "updated_at": "2026-04-02T08:57:18Z"
   },
   {
     "name": "awesome-openclaw",
     "full_name": "alvinreal/awesome-openclaw",
     "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
     "url": "https://github.com/alvinreal/awesome-openclaw",
-    "stars": 532,
+    "stars": 536,
     "language": null,
-    "updated_at": "2026-04-02T05:08:30Z"
+    "updated_at": "2026-04-02T08:13:16Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 366,
+    "stars": 384,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T05:36:04Z"
+    "updated_at": "2026-04-02T08:55:34Z"
   },
   {
     "name": "OpenMontage",
     "full_name": "calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 205,
+    "stars": 211,
     "language": "Python",
-    "updated_at": "2026-04-02T05:26:17Z"
+    "updated_at": "2026-04-02T08:57:25Z"
+  },
+  {
+    "name": "clawgod",
+    "full_name": "0Chencc/clawgod",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
+    "url": "https://github.com/0Chencc/clawgod",
+    "stars": 166,
+    "language": "PowerShell",
+    "updated_at": "2026-04-02T08:56:52Z"
   },
   {
     "name": "Claude-code",
     "full_name": "fazxes/Claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
     "url": "https://github.com/fazxes/Claude-code",
-    "stars": 159,
+    "stars": 163,
     "language": "TypeScript",
-    "updated_at": "2026-04-02T05:31:37Z"
+    "updated_at": "2026-04-02T07:14:27Z"
   },
   {
     "name": "recursive-improve",
@@ -79,14 +88,5 @@
     "stars": 151,
     "language": "Python",
     "updated_at": "2026-04-01T21:03:51Z"
-  },
-  {
-    "name": "glance",
-    "full_name": "DebugBase/glance",
-    "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
-    "url": "https://github.com/DebugBase/glance",
-    "stars": 103,
-    "language": "TypeScript",
-    "updated_at": "2026-04-02T01:22:26Z"
   }
 ]

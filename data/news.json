@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-04-02 05:41:37",
-  "news": []
+  "generated_at": "2026-04-02 08:57:53",
+  "news": [
+    {
+      "title": "Email obfuscation: What works in 2026?",
+      "url": "https://spencermortensen.com/articles/email-obfuscation/",
+      "source": "Hacker News",
+      "time": "2026-04-02 03:35",
+      "score": 97,
+      "comments": 23
+    },
+    {
+      "title": "Should AI have the right to say 'No' to its owner?",
+      "url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
+      "source": "Hacker News",
+      "time": "2026-04-02 08:21",
+      "score": 4,
+      "comments": 6
+    },
+    {
+      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "source": "Hacker News",
+      "time": "2026-04-01 04:14",
+      "score": 31,
+      "comments": 9
+    }
+  ]
 }
