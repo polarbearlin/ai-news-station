@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-03 16:40:39",
+  "generated_at": "2026-04-03 20:37:08",
   "news": [
     {
-      "title": "Show HN: Apfel – The free AI already on your Mac",
-      "url": "https://apfel.franzai.com",
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
       "source": "Hacker News",
-      "time": "2026-04-03 09:15",
-      "score": 483,
-      "comments": 110
+      "time": "2026-04-02 18:24",
+      "score": 140,
+      "comments": 65
     }
   ]
 }
