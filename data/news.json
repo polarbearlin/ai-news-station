@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-03 05:42:19",
+  "generated_at": "2026-04-03 08:55:10",
   "news": [
+    {
+      "title": "The True Shape of Io's Steeple Mountain",
+      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "source": "Hacker News",
+      "time": "2026-03-29 12:07",
+      "score": 38,
+      "comments": 1
+    },
     {
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
       "source": "Hacker News",
       "time": "2026-04-02 18:22",
-      "score": 393,
-      "comments": 192
-    },
-    {
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "source": "Hacker News",
-      "time": "2026-04-02 17:29",
-      "score": 209,
-      "comments": 87
+      "score": 448,
+      "comments": 224
     }
   ]
 }
