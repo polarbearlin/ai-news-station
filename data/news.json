@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-04-03 08:55:10",
+  "generated_at": "2026-04-03 13:05:27",
   "news": [
     {
-      "title": "The True Shape of Io's Steeple Mountain",
-      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
       "source": "Hacker News",
-      "time": "2026-03-29 12:07",
-      "score": 38,
-      "comments": 1
-    },
-    {
-      "title": "Tailscale's new macOS home",
-      "url": "https://tailscale.com/blog/macos-notch-escape",
-      "source": "Hacker News",
-      "time": "2026-04-02 18:22",
-      "score": 448,
-      "comments": 224
+      "time": "2026-04-03 09:15",
+      "score": 251,
+      "comments": 39
     }
   ]
 }
