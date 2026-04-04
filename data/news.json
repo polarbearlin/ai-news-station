@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-04-04 02:11:21",
-  "news": []
+  "generated_at": "2026-04-04 05:21:20",
+  "news": [
+    {
+      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "source": "Hacker News",
+      "time": "2026-04-04 02:26",
+      "score": 44,
+      "comments": 13
+    },
+    {
+      "title": "Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "source": "Hacker News",
+      "time": "2026-04-03 22:23",
+      "score": 61,
+      "comments": 17
+    }
+  ]
 }
