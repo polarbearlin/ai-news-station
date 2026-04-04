@@ -1,13 +1,4 @@
 {
-  "generated_at": "2026-04-03 20:37:08",
-  "news": [
-    {
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "source": "Hacker News",
-      "time": "2026-04-02 18:24",
-      "score": 140,
-      "comments": 65
-    }
-  ]
+  "generated_at": "2026-04-04 02:11:21",
+  "news": []
 }
