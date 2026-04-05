@@ -4,27 +4,27 @@
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1459,
+    "stars": 1468,
     "language": null,
-    "updated_at": "2026-04-05T05:15:18Z"
+    "updated_at": "2026-04-05T08:35:12Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1191,
+    "stars": 1193,
     "language": null,
-    "updated_at": "2026-04-05T05:41:02Z"
+    "updated_at": "2026-04-05T08:42:43Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1061,
+    "stars": 1076,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T05:32:59Z"
+    "updated_at": "2026-04-05T08:41:56Z"
   },
   {
     "name": "claude-code-source-code",
@@ -49,18 +49,18 @@
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 579,
+    "stars": 581,
     "language": "Shell",
-    "updated_at": "2026-04-05T05:13:25Z"
+    "updated_at": "2026-04-05T07:57:17Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 239,
+    "stars": 253,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T05:35:05Z"
+    "updated_at": "2026-04-05T08:42:36Z"
   },
   {
     "name": "Claude-code",
@@ -76,17 +76,17 @@
     "full_name": "math-ai-org/mathcode",
     "description": "MathCode: A Frontier Mathematical Coding Agent",
     "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 183,
+    "stars": 184,
     "language": "Python",
-    "updated_at": "2026-04-05T05:39:51Z"
+    "updated_at": "2026-04-05T05:48:22Z"
   },
   {
     "name": "ospec",
     "full_name": "clawplays/ospec",
     "description": "Document-driven AI development for AI coding assistants.",
     "url": "https://github.com/clawplays/ospec",
-    "stars": 173,
+    "stars": 174,
     "language": "JavaScript",
-    "updated_at": "2026-04-05T05:28:12Z"
+    "updated_at": "2026-04-05T06:43:30Z"
   }
 ]
