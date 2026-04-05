@@ -4,9 +4,18 @@
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1483,
+    "stars": 1486,
     "language": null,
-    "updated_at": "2026-04-05T16:24:25Z"
+    "updated_at": "2026-04-05T20:23:35Z"
+  },
+  {
+    "name": "caveman",
+    "full_name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 1231,
+    "language": "Python",
+    "updated_at": "2026-04-05T20:35:02Z"
   },
   {
     "name": "claude-reviews-claude",
@@ -22,9 +31,9 @@
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1093,
+    "stars": 1100,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T16:21:10Z"
+    "updated_at": "2026-04-05T19:52:28Z"
   },
   {
     "name": "claude-code-source-code",
@@ -33,60 +42,51 @@
     "url": "https://github.com/777genius/claude-code-source-code",
     "stars": 875,
     "language": null,
-    "updated_at": "2026-04-05T14:24:24Z"
-  },
-  {
-    "name": "caveman",
-    "full_name": "JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 806,
-    "language": null,
-    "updated_at": "2026-04-05T16:37:06Z"
+    "updated_at": "2026-04-05T19:01:14Z"
   },
   {
     "name": "claude-code-from-scratch",
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 739,
+    "stars": 741,
     "language": "Python",
-    "updated_at": "2026-04-05T15:00:17Z"
+    "updated_at": "2026-04-05T20:23:31Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 583,
+    "stars": 584,
     "language": "Shell",
-    "updated_at": "2026-04-05T13:47:57Z"
+    "updated_at": "2026-04-05T18:04:27Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 292,
+    "stars": 299,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T16:09:30Z"
+    "updated_at": "2026-04-05T19:38:58Z"
   },
   {
     "name": "mini-coding-agent",
     "full_name": "rasbt/mini-coding-agent",
     "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
     "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 231,
+    "stars": 240,
     "language": "Python",
-    "updated_at": "2026-04-05T16:25:28Z"
+    "updated_at": "2026-04-05T20:03:13Z"
   },
   {
     "name": "mathcode",
     "full_name": "math-ai-org/mathcode",
     "description": "MathCode: A Frontier Mathematical Coding Agent",
     "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 191,
+    "stars": 197,
     "language": "Python",
-    "updated_at": "2026-04-05T15:28:32Z"
+    "updated_at": "2026-04-05T19:42:42Z"
   }
 ]

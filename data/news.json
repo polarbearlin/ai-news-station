@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-04-05 16:37:32",
+  "generated_at": "2026-04-05 20:35:03",
   "news": [
     {
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
       "source": "Hacker News",
       "time": "2026-04-05 12:43",
-      "score": 172,
-      "comments": 32
+      "score": 425,
+      "comments": 128
     },
     {
       "title": "A tail-call interpreter in (nightly) Rust",
       "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
       "source": "Hacker News",
       "time": "2026-04-05 15:18",
-      "score": 14,
-      "comments": 0
-    },
-    {
-      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
-      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "source": "Hacker News",
-      "time": "2026-04-05 13:14",
-      "score": 277,
-      "comments": 75
+      "score": 95,
+      "comments": 8
     }
   ]
 }
