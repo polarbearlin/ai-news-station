@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-04-05 12:59:09",
+  "generated_at": "2026-04-05 16:37:32",
   "news": [
     {
-      "title": "Costco sued for seeking refunds on tariffs customers paid",
-      "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
       "source": "Hacker News",
-      "time": "2026-03-31 16:55",
-      "score": 46,
-      "comments": 22
+      "time": "2026-04-05 12:43",
+      "score": 172,
+      "comments": 32
+    },
+    {
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "source": "Hacker News",
+      "time": "2026-04-05 15:18",
+      "score": 14,
+      "comments": 0
+    },
+    {
+      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "source": "Hacker News",
+      "time": "2026-04-05 13:14",
+      "score": 277,
+      "comments": 75
     }
   ]
 }

@@ -4,89 +4,89 @@
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1475,
+    "stars": 1483,
     "language": null,
-    "updated_at": "2026-04-05T12:58:55Z"
+    "updated_at": "2026-04-05T16:24:25Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1194,
+    "stars": 1201,
     "language": null,
-    "updated_at": "2026-04-05T11:48:57Z"
+    "updated_at": "2026-04-05T16:30:48Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1084,
+    "stars": 1093,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T12:48:05Z"
+    "updated_at": "2026-04-05T16:21:10Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 872,
+    "stars": 875,
     "language": null,
-    "updated_at": "2026-04-05T12:32:12Z"
-  },
-  {
-    "name": "claude-code-from-scratch",
-    "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
-    "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
-    "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 735,
-    "language": "Python",
-    "updated_at": "2026-04-05T12:51:38Z"
-  },
-  {
-    "name": "clawgod",
-    "full_name": "0Chencc/clawgod",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
-    "url": "https://github.com/0Chencc/clawgod",
-    "stars": 582,
-    "language": "Shell",
-    "updated_at": "2026-04-05T08:54:06Z"
+    "updated_at": "2026-04-05T14:24:24Z"
   },
   {
     "name": "caveman",
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 404,
+    "stars": 806,
     "language": null,
-    "updated_at": "2026-04-05T12:58:33Z"
+    "updated_at": "2026-04-05T16:37:06Z"
+  },
+  {
+    "name": "claude-code-from-scratch",
+    "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
+    "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
+    "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
+    "stars": 739,
+    "language": "Python",
+    "updated_at": "2026-04-05T15:00:17Z"
+  },
+  {
+    "name": "clawgod",
+    "full_name": "0Chencc/clawgod",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
+    "url": "https://github.com/0Chencc/clawgod",
+    "stars": 583,
+    "language": "Shell",
+    "updated_at": "2026-04-05T13:47:57Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 274,
+    "stars": 292,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T12:51:37Z"
+    "updated_at": "2026-04-05T16:09:30Z"
   },
   {
-    "name": "Claude-code",
-    "full_name": "fazxes/Claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.",
-    "url": "https://github.com/fazxes/Claude-code",
-    "stars": 187,
-    "language": "TypeScript",
-    "updated_at": "2026-04-05T09:04:31Z"
+    "name": "mini-coding-agent",
+    "full_name": "rasbt/mini-coding-agent",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "stars": 231,
+    "language": "Python",
+    "updated_at": "2026-04-05T16:25:28Z"
   },
   {
     "name": "mathcode",
     "full_name": "math-ai-org/mathcode",
     "description": "MathCode: A Frontier Mathematical Coding Agent",
     "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 186,
+    "stars": 191,
     "language": "Python",
-    "updated_at": "2026-04-05T12:52:56Z"
+    "updated_at": "2026-04-05T15:28:32Z"
   }
 ]
