@@ -4,45 +4,45 @@
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 3397,
+    "stars": 3823,
     "language": "Python",
-    "updated_at": "2026-04-06T16:49:35Z"
+    "updated_at": "2026-04-06T20:37:29Z"
   },
   {
     "name": "how-claude-code-works",
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1526,
+    "stars": 1531,
     "language": null,
-    "updated_at": "2026-04-06T16:23:39Z"
+    "updated_at": "2026-04-06T20:09:15Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1214,
+    "stars": 1215,
     "language": null,
-    "updated_at": "2026-04-06T15:24:42Z"
+    "updated_at": "2026-04-06T17:09:00Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1147,
+    "stars": 1151,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T16:01:31Z"
+    "updated_at": "2026-04-06T20:13:51Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 880,
+    "stars": 883,
     "language": null,
-    "updated_at": "2026-04-06T09:11:41Z"
+    "updated_at": "2026-04-06T20:09:40Z"
   },
   {
     "name": "claude-code-from-scratch",
@@ -58,35 +58,35 @@
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 597,
+    "stars": 598,
     "language": "Shell",
-    "updated_at": "2026-04-06T16:35:02Z"
+    "updated_at": "2026-04-06T18:52:26Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 342,
+    "stars": 347,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T16:39:32Z"
+    "updated_at": "2026-04-06T20:31:04Z"
   },
   {
     "name": "mini-coding-agent",
     "full_name": "rasbt/mini-coding-agent",
     "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
     "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 308,
+    "stars": 317,
     "language": "Python",
-    "updated_at": "2026-04-06T16:49:53Z"
+    "updated_at": "2026-04-06T20:14:17Z"
   },
   {
     "name": "gemma-gem",
     "full_name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 270,
+    "stars": 300,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T16:44:30Z"
+    "updated_at": "2026-04-06T20:37:06Z"
   }
 ]
