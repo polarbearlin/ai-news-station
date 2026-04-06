@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-06 02:34:47",
+  "generated_at": "2026-04-06 05:59:02",
   "news": [
     {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
       "source": "Hacker News",
       "time": "2026-04-06 00:20",
-      "score": 58,
-      "comments": 4
+      "score": 249,
+      "comments": 19
     },
     {
-      "title": "Endian wars and anti-portability: this again?",
-      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+      "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
       "source": "Hacker News",
-      "time": "2026-04-04 07:29",
-      "score": 15,
-      "comments": 10
+      "time": "2026-04-06 00:07",
+      "score": 122,
+      "comments": 25
     },
     {
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "url": "https://github.com/fikrikarim/parlor",
       "source": "Hacker News",
-      "time": "2026-04-05 12:43",
-      "score": 634,
-      "comments": 204
+      "time": "2026-04-05 17:53",
+      "score": 14,
+      "comments": 2
     }
   ]
 }
