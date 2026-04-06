@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-06 09:09:41",
+  "generated_at": "2026-04-06 13:12:27",
   "news": [
     {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
       "source": "Hacker News",
       "time": "2026-04-06 00:20",
-      "score": 432,
-      "comments": 39
+      "score": 624,
+      "comments": 79
     },
     {
       "title": "France pulls last gold held in US for $15B gain",
       "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
       "source": "Hacker News",
       "time": "2026-04-06 08:03",
-      "score": 48,
-      "comments": 26
+      "score": 275,
+      "comments": 155
     },
     {
-      "title": "Jobs Being Created by AI",
-      "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "url": "https://github.com/fikrikarim/parlor",
       "source": "Hacker News",
-      "time": "2026-04-03 02:25",
-      "score": 7,
-      "comments": 2
+      "time": "2026-04-05 17:53",
+      "score": 150,
+      "comments": 13
     }
   ]
 }
