@@ -2,38 +2,38 @@
   {
     "name": "caveman",
     "full_name": "JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 2720,
+    "stars": 3397,
     "language": "Python",
-    "updated_at": "2026-04-06T13:12:09Z"
+    "updated_at": "2026-04-06T16:49:35Z"
   },
   {
     "name": "how-claude-code-works",
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1519,
+    "stars": 1526,
     "language": null,
-    "updated_at": "2026-04-06T12:47:30Z"
+    "updated_at": "2026-04-06T16:23:39Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1212,
+    "stars": 1214,
     "language": null,
-    "updated_at": "2026-04-06T12:47:33Z"
+    "updated_at": "2026-04-06T15:24:42Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1132,
+    "stars": 1147,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T13:12:23Z"
+    "updated_at": "2026-04-06T16:01:31Z"
   },
   {
     "name": "claude-code-source-code",
@@ -49,44 +49,44 @@
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 753,
+    "stars": 757,
     "language": "Python",
-    "updated_at": "2026-04-06T12:48:31Z"
+    "updated_at": "2026-04-06T15:38:34Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 595,
+    "stars": 597,
     "language": "Shell",
-    "updated_at": "2026-04-06T12:52:27Z"
+    "updated_at": "2026-04-06T16:35:02Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 330,
+    "stars": 342,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T12:44:29Z"
+    "updated_at": "2026-04-06T16:39:32Z"
   },
   {
     "name": "mini-coding-agent",
     "full_name": "rasbt/mini-coding-agent",
     "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
     "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 293,
+    "stars": 308,
     "language": "Python",
-    "updated_at": "2026-04-06T13:01:01Z"
+    "updated_at": "2026-04-06T16:49:53Z"
   },
   {
-    "name": "mathcode",
-    "full_name": "math-ai-org/mathcode",
-    "description": "MathCode: A Frontier Mathematical Coding Agent",
-    "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 235,
-    "language": "Python",
-    "updated_at": "2026-04-06T12:42:00Z"
+    "name": "gemma-gem",
+    "full_name": "kessler/gemma-gem",
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
+    "url": "https://github.com/kessler/gemma-gem",
+    "stars": 270,
+    "language": "TypeScript",
+    "updated_at": "2026-04-06T16:44:30Z"
   }
 ]
