@@ -4,89 +4,89 @@
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 1858,
+    "stars": 2123,
     "language": "Python",
-    "updated_at": "2026-04-06T05:58:44Z"
+    "updated_at": "2026-04-06T09:09:27Z"
   },
   {
     "name": "how-claude-code-works",
     "full_name": "Windy3f3f3f3f/how-claude-code-works",
     "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
     "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-    "stars": 1501,
+    "stars": 1505,
     "language": null,
-    "updated_at": "2026-04-06T05:53:52Z"
+    "updated_at": "2026-04-06T08:53:42Z"
   },
   {
     "name": "claude-reviews-claude",
     "full_name": "openedclaude/claude-reviews-claude",
     "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
     "url": "https://github.com/openedclaude/claude-reviews-claude",
-    "stars": 1204,
+    "stars": 1207,
     "language": null,
-    "updated_at": "2026-04-06T05:02:54Z"
+    "updated_at": "2026-04-06T08:04:50Z"
   },
   {
     "name": "claude-code-rust",
     "full_name": "lorryjovens-hub/claude-code-rust",
     "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
     "url": "https://github.com/lorryjovens-hub/claude-code-rust",
-    "stars": 1117,
+    "stars": 1124,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T05:37:41Z"
+    "updated_at": "2026-04-06T09:07:53Z"
   },
   {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 876,
+    "stars": 879,
     "language": null,
-    "updated_at": "2026-04-06T03:00:53Z"
+    "updated_at": "2026-04-06T08:53:28Z"
   },
   {
     "name": "claude-code-from-scratch",
     "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
     "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
     "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
-    "stars": 745,
+    "stars": 748,
     "language": "Python",
-    "updated_at": "2026-04-06T05:03:46Z"
+    "updated_at": "2026-04-06T08:53:04Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 588,
+    "stars": 591,
     "language": "Shell",
-    "updated_at": "2026-04-06T04:32:00Z"
+    "updated_at": "2026-04-06T08:26:59Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 314,
+    "stars": 321,
     "language": "TypeScript",
-    "updated_at": "2026-04-06T05:38:13Z"
+    "updated_at": "2026-04-06T09:04:05Z"
   },
   {
     "name": "mini-coding-agent",
     "full_name": "rasbt/mini-coding-agent",
     "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
     "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 270,
+    "stars": 281,
     "language": "Python",
-    "updated_at": "2026-04-06T05:35:02Z"
+    "updated_at": "2026-04-06T09:06:07Z"
   },
   {
     "name": "mathcode",
     "full_name": "math-ai-org/mathcode",
     "description": "MathCode: A Frontier Mathematical Coding Agent",
     "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 217,
+    "stars": 227,
     "language": "Python",
-    "updated_at": "2026-04-06T05:51:22Z"
+    "updated_at": "2026-04-06T09:01:07Z"
   }
 ]

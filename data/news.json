@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-04-06 05:59:02",
+  "generated_at": "2026-04-06 09:09:41",
   "news": [
     {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
       "source": "Hacker News",
       "time": "2026-04-06 00:20",
-      "score": 249,
-      "comments": 19
+      "score": 432,
+      "comments": 39
     },
     {
-      "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "title": "France pulls last gold held in US for $15B gain",
+      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
       "source": "Hacker News",
-      "time": "2026-04-06 00:07",
-      "score": 122,
-      "comments": 25
+      "time": "2026-04-06 08:03",
+      "score": 48,
+      "comments": 26
     },
     {
-      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "url": "https://github.com/fikrikarim/parlor",
+      "title": "Jobs Being Created by AI",
+      "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
       "source": "Hacker News",
-      "time": "2026-04-05 17:53",
-      "score": 14,
+      "time": "2026-04-03 02:25",
+      "score": 7,
       "comments": 2
     }
   ]
