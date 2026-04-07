@@ -4,63 +4,63 @@
     "full_name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 12384,
+    "stars": 14965,
     "language": "Python",
-    "updated_at": "2026-04-07T16:59:42Z"
+    "updated_at": "2026-04-07T20:49:39Z"
   },
   {
     "name": "caveman",
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 5511,
+    "stars": 5753,
     "language": "Python",
-    "updated_at": "2026-04-07T16:58:11Z"
+    "updated_at": "2026-04-07T20:48:22Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 620,
+    "stars": 624,
     "language": "Shell",
-    "updated_at": "2026-04-07T16:37:39Z"
+    "updated_at": "2026-04-07T18:18:26Z"
   },
   {
     "name": "gemma-gem",
     "full_name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 413,
+    "stars": 425,
     "language": "TypeScript",
-    "updated_at": "2026-04-07T16:43:21Z"
+    "updated_at": "2026-04-07T20:29:46Z"
   },
   {
     "name": "mini-coding-agent",
     "full_name": "rasbt/mini-coding-agent",
     "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
     "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 390,
+    "stars": 400,
     "language": "Python",
-    "updated_at": "2026-04-07T16:50:27Z"
+    "updated_at": "2026-04-07T20:26:01Z"
   },
   {
     "name": "better-clawd",
     "full_name": "x1xhlol/better-clawd",
     "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
     "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 361,
+    "stars": 363,
     "language": "TypeScript",
-    "updated_at": "2026-04-07T16:21:10Z"
+    "updated_at": "2026-04-07T18:57:50Z"
   },
   {
     "name": "mathcode",
     "full_name": "math-ai-org/mathcode",
     "description": "MathCode: A Frontier Mathematical Coding Agent",
     "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 259,
+    "stars": 262,
     "language": "Python",
-    "updated_at": "2026-04-07T15:28:26Z"
+    "updated_at": "2026-04-07T19:18:05Z"
   },
   {
     "name": "deep-live-cam-tutorial",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-02T21:05:16Z"
   },
   {
-    "name": "Mervelas",
-    "full_name": "swadhinbiswas/Mervelas",
-    "description": "An independent, high-performance AI coding CLI built with Bun and driven by free resources",
-    "url": "https://github.com/swadhinbiswas/Mervelas",
+    "name": "mica-plugin",
+    "full_name": "nhevers/mica-plugin",
+    "description": "Claude Code plugin - route compute through MVM nodes on cheap renewable energy. Save tokens, cut inference costs.",
+    "url": "https://github.com/nhevers/mica-plugin",
     "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-04-05T16:53:15Z"
+    "updated_at": "2026-04-07T07:55:59Z"
   }
 ]
