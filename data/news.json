@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-06 20:38:05",
+  "generated_at": "2026-04-07 02:29:34",
   "news": [
     {
-      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-      "url": "https://www.freestyle.sh",
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "source": "Hacker News",
-      "time": "2026-04-06 16:32",
-      "score": 129,
-      "comments": 70
+      "time": "2026-04-06 21:52",
+      "score": 149,
+      "comments": 68
+    },
+    {
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "url": "https://github.com/kitfunso/hippo-memory",
+      "source": "Hacker News",
+      "time": "2026-04-06 21:49",
+      "score": 52,
+      "comments": 14
     }
   ]
 }
