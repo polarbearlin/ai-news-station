@@ -4,72 +4,72 @@
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 4450,
+    "stars": 4733,
     "language": "Python",
-    "updated_at": "2026-04-07T05:42:11Z"
+    "updated_at": "2026-04-07T09:02:39Z"
   },
   {
     "name": "mempalace",
     "full_name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 1121,
+    "stars": 3402,
     "language": "Python",
-    "updated_at": "2026-04-07T05:46:42Z"
+    "updated_at": "2026-04-07T09:03:31Z"
   },
   {
     "name": "clawgod",
     "full_name": "0Chencc/clawgod",
     "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
     "url": "https://github.com/0Chencc/clawgod",
-    "stars": 605,
+    "stars": 609,
     "language": "Shell",
-    "updated_at": "2026-04-07T05:12:55Z"
-  },
-  {
-    "name": "better-clawd",
-    "full_name": "x1xhlol/better-clawd",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
-    "url": "https://github.com/x1xhlol/better-clawd",
-    "stars": 352,
-    "language": "TypeScript",
-    "updated_at": "2026-04-07T04:23:36Z"
-  },
-  {
-    "name": "mini-coding-agent",
-    "full_name": "rasbt/mini-coding-agent",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
-    "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 347,
-    "language": "Python",
-    "updated_at": "2026-04-07T05:41:15Z"
+    "updated_at": "2026-04-07T07:04:52Z"
   },
   {
     "name": "gemma-gem",
     "full_name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 346,
+    "stars": 366,
     "language": "TypeScript",
-    "updated_at": "2026-04-07T05:22:53Z"
+    "updated_at": "2026-04-07T08:21:37Z"
+  },
+  {
+    "name": "mini-coding-agent",
+    "full_name": "rasbt/mini-coding-agent",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "stars": 357,
+    "language": "Python",
+    "updated_at": "2026-04-07T08:43:25Z"
+  },
+  {
+    "name": "better-clawd",
+    "full_name": "x1xhlol/better-clawd",
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.",
+    "url": "https://github.com/x1xhlol/better-clawd",
+    "stars": 353,
+    "language": "TypeScript",
+    "updated_at": "2026-04-07T07:19:47Z"
   },
   {
     "name": "mathcode",
     "full_name": "math-ai-org/mathcode",
     "description": "MathCode: A Frontier Mathematical Coding Agent",
     "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 252,
+    "stars": 254,
     "language": "Python",
-    "updated_at": "2026-04-07T05:24:51Z"
+    "updated_at": "2026-04-07T08:27:53Z"
   },
   {
     "name": "deep-live-cam-tutorial",
     "full_name": "chencore/deep-live-cam-tutorial",
     "description": "Deep-Live-Cam 完整安装与使用教程 - AI 换脸工具中文指南",
     "url": "https://github.com/chencore/deep-live-cam-tutorial",
-    "stars": 77,
+    "stars": 79,
     "language": null,
-    "updated_at": "2026-04-07T05:37:34Z"
+    "updated_at": "2026-04-07T08:49:41Z"
   },
   {
     "name": "toon-json-render",
