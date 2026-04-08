@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-08 17:03:00",
+  "generated_at": "2026-04-08 20:43:08",
   "news": [
     {
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "url": "https://arxiv.org/abs/2604.05091",
       "source": "Hacker News",
       "time": "2026-04-08 12:19",
-      "score": 160,
-      "comments": 35
+      "score": 223,
+      "comments": 42
     }
   ]
 }
