@@ -4,81 +4,54 @@
     "full_name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 26205,
+    "stars": 27899,
     "language": "Python",
-    "updated_at": "2026-04-08T20:42:57Z"
+    "updated_at": "2026-04-09T02:25:29Z"
   },
   {
     "name": "caveman",
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 7325,
+    "stars": 7578,
     "language": "Python",
-    "updated_at": "2026-04-08T20:43:06Z"
-  },
-  {
-    "name": "gemma-gem",
-    "full_name": "kessler/gemma-gem",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
-    "url": "https://github.com/kessler/gemma-gem",
-    "stars": 508,
-    "language": "TypeScript",
-    "updated_at": "2026-04-08T20:24:35Z"
-  },
-  {
-    "name": "mini-coding-agent",
-    "full_name": "rasbt/mini-coding-agent",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
-    "url": "https://github.com/rasbt/mini-coding-agent",
-    "stars": 479,
-    "language": "Python",
-    "updated_at": "2026-04-08T20:13:22Z"
+    "updated_at": "2026-04-09T02:24:02Z"
   },
   {
     "name": "codesight",
     "full_name": "Houseofmvps/codesight",
     "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
     "url": "https://github.com/Houseofmvps/codesight",
-    "stars": 472,
+    "stars": 582,
     "language": "TypeScript",
-    "updated_at": "2026-04-08T20:42:56Z"
+    "updated_at": "2026-04-09T02:24:32Z"
   },
   {
-    "name": "mathcode",
-    "full_name": "math-ai-org/mathcode",
-    "description": "MathCode: A Frontier Mathematical Coding Agent",
-    "url": "https://github.com/math-ai-org/mathcode",
-    "stars": 287,
-    "language": "Shell",
-    "updated_at": "2026-04-08T20:23:31Z"
+    "name": "gemma-gem",
+    "full_name": "kessler/gemma-gem",
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
+    "url": "https://github.com/kessler/gemma-gem",
+    "stars": 526,
+    "language": "TypeScript",
+    "updated_at": "2026-04-09T01:50:04Z"
   },
   {
     "name": "claude-obsidian",
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 160,
+    "stars": 191,
     "language": "Shell",
-    "updated_at": "2026-04-08T20:23:40Z"
+    "updated_at": "2026-04-09T02:20:25Z"
   },
   {
     "name": "personalized-podcast",
     "full_name": "zarazhangrui/personalized-podcast",
     "description": "Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts. Listen in Apple Podcasts, Spotify, or any podcast app.",
     "url": "https://github.com/zarazhangrui/personalized-podcast",
-    "stars": 130,
+    "stars": 161,
     "language": "Python",
-    "updated_at": "2026-04-08T20:35:04Z"
-  },
-  {
-    "name": "ThinkWatch",
-    "full_name": "ThinkWatchProject/ThinkWatch",
-    "description": "Enterprise AI bastion host for secure AI API and MCP access, with unified proxying, RBAC, audit logs, rate limiting, and cost tracking across OpenAI, Anthropic, Gemini, and self-hosted LLMs.",
-    "url": "https://github.com/ThinkWatchProject/ThinkWatch",
-    "stars": 104,
-    "language": "Rust",
-    "updated_at": "2026-04-08T20:15:58Z"
+    "updated_at": "2026-04-09T02:25:29Z"
   },
   {
     "name": "deep-live-cam-tutorial",
@@ -88,5 +61,32 @@
     "stars": 80,
     "language": null,
     "updated_at": "2026-04-08T04:38:06Z"
+  },
+  {
+    "name": "second-brain",
+    "full_name": "NicholasSpisak/second-brain",
+    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
+    "url": "https://github.com/NicholasSpisak/second-brain",
+    "stars": 56,
+    "language": "Shell",
+    "updated_at": "2026-04-09T00:59:31Z"
+  },
+  {
+    "name": "owly",
+    "full_name": "Hesper-Labs/owly",
+    "description": "AI-powered customer support agent with WhatsApp, Email & Phone channels",
+    "url": "https://github.com/Hesper-Labs/owly",
+    "stars": 53,
+    "language": "TypeScript",
+    "updated_at": "2026-04-09T00:55:26Z"
+  },
+  {
+    "name": "ComfyUI-Flux-FaceIR",
+    "full_name": "cosmicrealm/ComfyUI-Flux-FaceIR",
+    "description": null,
+    "url": "https://github.com/cosmicrealm/ComfyUI-Flux-FaceIR",
+    "stars": 35,
+    "language": "Python",
+    "updated_at": "2026-04-09T02:10:24Z"
   }
 ]
