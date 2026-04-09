@@ -4,54 +4,54 @@
     "full_name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 30488,
+    "stars": 32307,
     "language": "Python",
-    "updated_at": "2026-04-09T09:08:50Z"
+    "updated_at": "2026-04-09T13:42:04Z"
   },
   {
     "name": "caveman",
     "full_name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 7989,
+    "stars": 8218,
     "language": "Python",
-    "updated_at": "2026-04-09T09:08:51Z"
+    "updated_at": "2026-04-09T13:40:52Z"
   },
   {
     "name": "codesight",
     "full_name": "Houseofmvps/codesight",
     "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
     "url": "https://github.com/Houseofmvps/codesight",
-    "stars": 669,
+    "stars": 706,
     "language": "TypeScript",
-    "updated_at": "2026-04-09T08:53:48Z"
+    "updated_at": "2026-04-09T13:36:55Z"
   },
   {
     "name": "gemma-gem",
     "full_name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 540,
+    "stars": 558,
     "language": "TypeScript",
-    "updated_at": "2026-04-09T08:52:19Z"
+    "updated_at": "2026-04-09T13:15:29Z"
   },
   {
     "name": "claude-obsidian",
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 223,
+    "stars": 249,
     "language": "Shell",
-    "updated_at": "2026-04-09T09:04:04Z"
+    "updated_at": "2026-04-09T13:21:43Z"
   },
   {
     "name": "personalized-podcast",
     "full_name": "zarazhangrui/personalized-podcast",
     "description": "Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts. Listen in Apple Podcasts, Spotify, or any podcast app.",
     "url": "https://github.com/zarazhangrui/personalized-podcast",
-    "stars": 195,
+    "stars": 210,
     "language": "Python",
-    "updated_at": "2026-04-09T09:05:41Z"
+    "updated_at": "2026-04-09T12:54:31Z"
   },
   {
     "name": "deep-live-cam-tutorial",
@@ -67,9 +67,9 @@
     "full_name": "NicholasSpisak/second-brain",
     "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
     "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 66,
+    "stars": 74,
     "language": "Shell",
-    "updated_at": "2026-04-09T06:49:12Z"
+    "updated_at": "2026-04-09T13:03:08Z"
   },
   {
     "name": "owly",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-09T00:55:26Z"
   },
   {
-    "name": "DeepZero",
-    "full_name": "416rehman/DeepZero",
-    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-    "url": "https://github.com/416rehman/DeepZero",
-    "stars": 36,
+    "name": "ComfyUI-Flux-FaceIR",
+    "full_name": "cosmicrealm/ComfyUI-Flux-FaceIR",
+    "description": null,
+    "url": "https://github.com/cosmicrealm/ComfyUI-Flux-FaceIR",
+    "stars": 39,
     "language": "Python",
-    "updated_at": "2026-04-09T03:24:33Z"
+    "updated_at": "2026-04-09T12:23:58Z"
   }
 ]
