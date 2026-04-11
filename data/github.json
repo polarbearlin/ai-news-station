@@ -4,89 +4,89 @@
     "full_name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 39745,
+    "stars": 40152,
     "language": "Python",
-    "updated_at": "2026-04-10T20:37:47Z"
-  },
-  {
-    "name": "caveman",
-    "full_name": "JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 12209,
-    "language": "Python",
-    "updated_at": "2026-04-10T20:37:32Z"
-  },
-  {
-    "name": "codesight",
-    "full_name": "Houseofmvps/codesight",
-    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
-    "url": "https://github.com/Houseofmvps/codesight",
-    "stars": 797,
-    "language": "TypeScript",
-    "updated_at": "2026-04-10T20:25:10Z"
+    "updated_at": "2026-04-11T02:21:15Z"
   },
   {
     "name": "gemma-gem",
     "full_name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 621,
+    "stars": 628,
     "language": "TypeScript",
-    "updated_at": "2026-04-10T18:41:08Z"
+    "updated_at": "2026-04-11T01:27:33Z"
   },
   {
     "name": "claude-obsidian",
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 389,
+    "stars": 411,
     "language": "Shell",
-    "updated_at": "2026-04-10T20:31:53Z"
+    "updated_at": "2026-04-11T02:21:57Z"
   },
   {
     "name": "second-brain",
     "full_name": "NicholasSpisak/second-brain",
     "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
     "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 93,
+    "stars": 94,
     "language": "Shell",
-    "updated_at": "2026-04-10T18:31:54Z"
-  },
-  {
-    "name": "deep-live-cam-tutorial",
-    "full_name": "chencore/deep-live-cam-tutorial",
-    "description": "Deep-Live-Cam 完整安装与使用教程 - AI 换脸工具中文指南",
-    "url": "https://github.com/chencore/deep-live-cam-tutorial",
-    "stars": 81,
-    "language": null,
-    "updated_at": "2026-04-10T00:57:25Z"
-  },
-  {
-    "name": "owly",
-    "full_name": "Hesper-Labs/owly",
-    "description": "AI-powered customer support agent with WhatsApp, Email & Phone channels",
-    "url": "https://github.com/Hesper-Labs/owly",
-    "stars": 57,
-    "language": "TypeScript",
-    "updated_at": "2026-04-10T14:46:34Z"
-  },
-  {
-    "name": "yupi-skill",
-    "full_name": "liyupi/yupi-skill",
-    "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
-    "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 53,
-    "language": null,
-    "updated_at": "2026-04-10T14:24:36Z"
+    "updated_at": "2026-04-11T00:56:53Z"
   },
   {
     "name": "DeepZero",
     "full_name": "416rehman/DeepZero",
     "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
     "url": "https://github.com/416rehman/DeepZero",
+    "stars": 55,
+    "language": "Python",
+    "updated_at": "2026-04-10T23:40:17Z"
+  },
+  {
+    "name": "yupi-skill",
+    "full_name": "liyupi/yupi-skill",
+    "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
+    "url": "https://github.com/liyupi/yupi-skill",
+    "stars": 54,
+    "language": null,
+    "updated_at": "2026-04-11T02:20:47Z"
+  },
+  {
+    "name": "modular-context-obsidian-plugin",
+    "full_name": "klemensgc/modular-context-obsidian-plugin",
+    "description": "Run multiple Claude Code & Codex terminals side-by-side in Obsidian — split layouts, skills dashboard, agent tracking, session glyphs. Zero context-switching.",
+    "url": "https://github.com/klemensgc/modular-context-obsidian-plugin",
+    "stars": 53,
+    "language": "JavaScript",
+    "updated_at": "2026-04-11T01:24:35Z"
+  },
+  {
+    "name": "llm-wiki",
+    "full_name": "Pratiyush/llm-wiki",
+    "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
+    "url": "https://github.com/Pratiyush/llm-wiki",
     "stars": 52,
     "language": "Python",
-    "updated_at": "2026-04-10T18:00:44Z"
+    "updated_at": "2026-04-11T01:23:40Z"
+  },
+  {
+    "name": "ComfyUI-Flux-FaceIR",
+    "full_name": "cosmicrealm/ComfyUI-Flux-FaceIR",
+    "description": null,
+    "url": "https://github.com/cosmicrealm/ComfyUI-Flux-FaceIR",
+    "stars": 46,
+    "language": "Python",
+    "updated_at": "2026-04-10T18:16:58Z"
+  },
+  {
+    "name": "mao-skill",
+    "full_name": "wwwaapplleecu-source/mao-skill",
+    "description": "“如果是毛主席的话，他会怎么做呢？“",
+    "url": "https://github.com/wwwaapplleecu-source/mao-skill",
+    "stars": 37,
+    "language": "Python",
+    "updated_at": "2026-04-11T02:11:25Z"
   }
 ]
