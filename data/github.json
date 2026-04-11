@@ -4,54 +4,54 @@
     "full_name": "milla-jovovich/mempalace",
     "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
     "url": "https://github.com/milla-jovovich/mempalace",
-    "stars": 40152,
+    "stars": 40388,
     "language": "Python",
-    "updated_at": "2026-04-11T02:21:15Z"
+    "updated_at": "2026-04-11T05:22:28Z"
   },
   {
     "name": "gemma-gem",
     "full_name": "kessler/gemma-gem",
     "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
     "url": "https://github.com/kessler/gemma-gem",
-    "stars": 628,
+    "stars": 631,
     "language": "TypeScript",
-    "updated_at": "2026-04-11T01:27:33Z"
+    "updated_at": "2026-04-11T05:16:52Z"
   },
   {
     "name": "claude-obsidian",
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 411,
+    "stars": 421,
     "language": "Shell",
-    "updated_at": "2026-04-11T02:21:57Z"
+    "updated_at": "2026-04-11T05:05:02Z"
   },
   {
     "name": "second-brain",
     "full_name": "NicholasSpisak/second-brain",
     "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
     "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 94,
+    "stars": 95,
     "language": "Shell",
-    "updated_at": "2026-04-11T00:56:53Z"
-  },
-  {
-    "name": "DeepZero",
-    "full_name": "416rehman/DeepZero",
-    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-    "url": "https://github.com/416rehman/DeepZero",
-    "stars": 55,
-    "language": "Python",
-    "updated_at": "2026-04-10T23:40:17Z"
+    "updated_at": "2026-04-11T02:49:29Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 54,
+    "stars": 59,
     "language": null,
-    "updated_at": "2026-04-11T02:20:47Z"
+    "updated_at": "2026-04-11T05:10:28Z"
+  },
+  {
+    "name": "DeepZero",
+    "full_name": "416rehman/DeepZero",
+    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
+    "url": "https://github.com/416rehman/DeepZero",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-04-11T04:08:06Z"
   },
   {
     "name": "modular-context-obsidian-plugin",
@@ -67,9 +67,9 @@
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 52,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-04-11T01:23:40Z"
+    "updated_at": "2026-04-11T04:41:40Z"
   },
   {
     "name": "ComfyUI-Flux-FaceIR",

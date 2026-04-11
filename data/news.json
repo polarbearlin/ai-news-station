@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-11 02:22:11",
+  "generated_at": "2026-04-11 05:24:27",
   "news": [
     {
       "title": "AI assistance when contributing to the Linux kernel",
       "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
       "source": "Hacker News",
       "time": "2026-04-10 18:35",
-      "score": 166,
-      "comments": 129
+      "score": 242,
+      "comments": 157
     }
   ]
 }
