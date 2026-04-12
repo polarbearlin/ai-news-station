@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-12 16:39:57",
+  "generated_at": "2026-04-12 20:37:12",
   "news": [
     {
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "title": "I gave every train in New York an instrument",
+      "url": "https://www.trainjazz.com/",
       "source": "Hacker News",
-      "time": "2026-04-12 09:16",
-      "score": 266,
-      "comments": 447
+      "time": "2026-04-10 15:21",
+      "score": 128,
+      "comments": 29
     },
     {
-      "title": "Anthropic downgraded cache TTL on March 6th",
-      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+      "url": "https://github.com/imbue-ai/bouncer",
       "source": "Hacker News",
-      "time": "2026-04-12 05:45",
-      "score": 289,
-      "comments": 206
+      "time": "2026-04-12 16:24",
+      "score": 29,
+      "comments": 36
     }
   ]
 }
