@@ -4,36 +4,36 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 558,
+    "stars": 577,
     "language": "Shell",
-    "updated_at": "2026-04-12T13:00:01Z"
-  },
-  {
-    "name": "second-brain",
-    "full_name": "NicholasSpisak/second-brain",
-    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
-    "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 107,
-    "language": "Shell",
-    "updated_at": "2026-04-12T11:25:32Z"
+    "updated_at": "2026-04-12T16:31:03Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 101,
+    "stars": 110,
     "language": null,
-    "updated_at": "2026-04-12T12:58:05Z"
+    "updated_at": "2026-04-12T16:20:50Z"
+  },
+  {
+    "name": "second-brain",
+    "full_name": "NicholasSpisak/second-brain",
+    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
+    "url": "https://github.com/NicholasSpisak/second-brain",
+    "stars": 109,
+    "language": "Shell",
+    "updated_at": "2026-04-12T15:33:44Z"
   },
   {
     "name": "litmus",
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 71,
+    "stars": 74,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T12:48:26Z"
+    "updated_at": "2026-04-12T14:41:24Z"
   },
   {
     "name": "DeepZero",
@@ -49,9 +49,18 @@
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 58,
+    "stars": 60,
     "language": "Python",
-    "updated_at": "2026-04-11T18:17:12Z"
+    "updated_at": "2026-04-12T13:48:59Z"
+  },
+  {
+    "name": "buffett-skills",
+    "full_name": "agi-now/buffett-skills",
+    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
+    "url": "https://github.com/agi-now/buffett-skills",
+    "stars": 53,
+    "language": null,
+    "updated_at": "2026-04-12T15:55:19Z"
   },
   {
     "name": "mao-skill",
@@ -67,18 +76,9 @@
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 45,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T12:05:45Z"
-  },
-  {
-    "name": "buffett-skills",
-    "full_name": "agi-now/buffett-skills",
-    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
-    "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 43,
-    "language": null,
-    "updated_at": "2026-04-12T12:56:37Z"
+    "updated_at": "2026-04-12T15:35:49Z"
   },
   {
     "name": "llm-wiki",
@@ -87,6 +87,6 @@
     "url": "https://github.com/MehmetGoekce/llm-wiki",
     "stars": 36,
     "language": "Shell",
-    "updated_at": "2026-04-12T06:37:06Z"
+    "updated_at": "2026-04-12T14:49:51Z"
   }
 ]
