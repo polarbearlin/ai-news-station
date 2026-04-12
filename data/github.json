@@ -4,27 +4,27 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 520,
+    "stars": 535,
     "language": "Shell",
-    "updated_at": "2026-04-12T02:37:35Z"
+    "updated_at": "2026-04-12T05:44:26Z"
   },
   {
     "name": "second-brain",
     "full_name": "NicholasSpisak/second-brain",
     "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
     "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 102,
+    "stars": 103,
     "language": "Shell",
-    "updated_at": "2026-04-11T20:32:30Z"
+    "updated_at": "2026-04-12T03:31:40Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 84,
+    "stars": 88,
     "language": null,
-    "updated_at": "2026-04-12T02:29:10Z"
+    "updated_at": "2026-04-12T05:07:04Z"
   },
   {
     "name": "DeepZero",
@@ -49,27 +49,27 @@
     "full_name": "wwwaapplleecu-source/mao-skill",
     "description": "“如果是毛主席的话，他会怎么做呢？“",
     "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 44,
+    "stars": 46,
     "language": "Python",
-    "updated_at": "2026-04-11T14:55:40Z"
+    "updated_at": "2026-04-12T04:53:27Z"
   },
   {
     "name": "litmus",
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 43,
+    "stars": 44,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T00:06:35Z"
+    "updated_at": "2026-04-12T05:44:11Z"
   },
   {
-    "name": "unity-cli-plugin",
-    "full_name": "niqibiao/unity-cli-plugin",
-    "description": "Claude Code / Codex plugin for Unity — AI-driven scene editing, GameObject/Component manipulation, profiling, and C# REPL via 40+ built-in commands. Works with any Unity 2022.3+ project.",
-    "url": "https://github.com/niqibiao/unity-cli-plugin",
-    "stars": 36,
-    "language": "Python",
-    "updated_at": "2026-04-11T15:58:22Z"
+    "name": "free-ai-tools",
+    "full_name": "ShaikhWarsi/free-ai-tools",
+    "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
+    "url": "https://github.com/ShaikhWarsi/free-ai-tools",
+    "stars": 40,
+    "language": null,
+    "updated_at": "2026-04-12T05:22:01Z"
   },
   {
     "name": "mempalace",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-12T01:31:04Z"
   },
   {
-    "name": "llm-wiki",
-    "full_name": "MehmetGoekce/llm-wiki",
-    "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
-    "url": "https://github.com/MehmetGoekce/llm-wiki",
-    "stars": 34,
-    "language": "Shell",
-    "updated_at": "2026-04-11T22:19:27Z"
+    "name": "buffett-skills",
+    "full_name": "agi-now/buffett-skills",
+    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
+    "url": "https://github.com/agi-now/buffett-skills",
+    "stars": 36,
+    "language": null,
+    "updated_at": "2026-04-12T05:26:40Z"
   }
 ]

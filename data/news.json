@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-12 02:38:28",
+  "generated_at": "2026-04-12 05:54:20",
   "news": [
     {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "source": "Hacker News",
       "time": "2026-04-11 19:15",
-      "score": 236,
-      "comments": 63
+      "score": 314,
+      "comments": 86
+    },
+    {
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "source": "Hacker News",
+      "time": "2026-04-12 02:09",
+      "score": 19,
+      "comments": 1
     }
   ]
 }
