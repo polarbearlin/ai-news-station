@@ -4,27 +4,36 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 540,
+    "stars": 558,
     "language": "Shell",
-    "updated_at": "2026-04-12T08:14:35Z"
+    "updated_at": "2026-04-12T13:00:01Z"
   },
   {
     "name": "second-brain",
     "full_name": "NicholasSpisak/second-brain",
     "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
     "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 104,
+    "stars": 107,
     "language": "Shell",
-    "updated_at": "2026-04-12T07:49:20Z"
+    "updated_at": "2026-04-12T11:25:32Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 93,
+    "stars": 101,
     "language": null,
-    "updated_at": "2026-04-12T08:48:06Z"
+    "updated_at": "2026-04-12T12:58:05Z"
+  },
+  {
+    "name": "litmus",
+    "full_name": "litmus4ai/litmus",
+    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
+    "url": "https://github.com/litmus4ai/litmus",
+    "stars": 71,
+    "language": "TypeScript",
+    "updated_at": "2026-04-12T12:48:26Z"
   },
   {
     "name": "DeepZero",
@@ -45,40 +54,31 @@
     "updated_at": "2026-04-11T18:17:12Z"
   },
   {
-    "name": "litmus",
-    "full_name": "litmus4ai/litmus",
-    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
-    "url": "https://github.com/litmus4ai/litmus",
-    "stars": 53,
-    "language": "TypeScript",
-    "updated_at": "2026-04-12T08:45:39Z"
-  },
-  {
     "name": "mao-skill",
     "full_name": "wwwaapplleecu-source/mao-skill",
     "description": "“如果是毛主席的话，他会怎么做呢？“",
     "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 47,
+    "stars": 51,
     "language": "Python",
-    "updated_at": "2026-04-12T08:33:59Z"
+    "updated_at": "2026-04-12T12:57:01Z"
   },
   {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 44,
+    "stars": 45,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T07:45:03Z"
+    "updated_at": "2026-04-12T12:05:45Z"
   },
   {
     "name": "buffett-skills",
     "full_name": "agi-now/buffett-skills",
     "description": "A collection of ai skills built on Warren Buffett's investing framework.",
     "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 38,
+    "stars": 43,
     "language": null,
-    "updated_at": "2026-04-12T08:39:18Z"
+    "updated_at": "2026-04-12T12:56:37Z"
   },
   {
     "name": "llm-wiki",
