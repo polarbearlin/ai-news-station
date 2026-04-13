@@ -4,36 +4,36 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 891,
+    "stars": 955,
     "language": "Shell",
-    "updated_at": "2026-04-13T17:02:58Z"
+    "updated_at": "2026-04-13T20:46:20Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 146,
+    "stars": 147,
     "language": null,
-    "updated_at": "2026-04-13T16:44:54Z"
-  },
-  {
-    "name": "litmus",
-    "full_name": "litmus4ai/litmus",
-    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
-    "url": "https://github.com/litmus4ai/litmus",
-    "stars": 82,
-    "language": "TypeScript",
-    "updated_at": "2026-04-13T16:35:24Z"
+    "updated_at": "2026-04-13T19:50:26Z"
   },
   {
     "name": "GEOFlow",
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 79,
+    "stars": 95,
     "language": "PHP",
-    "updated_at": "2026-04-13T16:41:05Z"
+    "updated_at": "2026-04-13T20:24:13Z"
+  },
+  {
+    "name": "litmus",
+    "full_name": "litmus4ai/litmus",
+    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
+    "url": "https://github.com/litmus4ai/litmus",
+    "stars": 84,
+    "language": "TypeScript",
+    "updated_at": "2026-04-13T20:45:09Z"
   },
   {
     "name": "buffett-skills",
@@ -49,27 +49,27 @@
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 74,
+    "stars": 75,
     "language": "Python",
-    "updated_at": "2026-04-13T12:38:05Z"
+    "updated_at": "2026-04-13T17:39:52Z"
   },
   {
     "name": "DeepZero",
     "full_name": "416rehman/DeepZero",
     "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
     "url": "https://github.com/416rehman/DeepZero",
-    "stars": 70,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-04-13T06:29:39Z"
+    "updated_at": "2026-04-13T18:59:16Z"
   },
   {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 59,
+    "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T15:52:47Z"
+    "updated_at": "2026-04-13T20:35:28Z"
   },
   {
     "name": "mao-skill",
@@ -85,8 +85,8 @@
     "full_name": "askalf/dario",
     "description": "Use your Claude subscription as an API. Template replay makes every request indistinguishable from Claude Code. Zero dependencies.",
     "url": "https://github.com/askalf/dario",
-    "stars": 52,
+    "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T16:54:13Z"
+    "updated_at": "2026-04-13T20:47:50Z"
   }
 ]
