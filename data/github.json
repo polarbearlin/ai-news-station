@@ -4,18 +4,18 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 685,
+    "stars": 735,
     "language": "Shell",
-    "updated_at": "2026-04-13T02:42:20Z"
+    "updated_at": "2026-04-13T06:10:48Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 121,
+    "stars": 125,
     "language": null,
-    "updated_at": "2026-04-13T02:27:24Z"
+    "updated_at": "2026-04-13T05:40:31Z"
   },
   {
     "name": "litmus",
@@ -40,36 +40,36 @@
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 67,
+    "stars": 69,
     "language": "Python",
-    "updated_at": "2026-04-13T02:40:36Z"
-  },
-  {
-    "name": "buffett-skills",
-    "full_name": "agi-now/buffett-skills",
-    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
-    "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 55,
-    "language": null,
-    "updated_at": "2026-04-13T02:09:56Z"
+    "updated_at": "2026-04-13T04:45:09Z"
   },
   {
     "name": "mao-skill",
     "full_name": "wwwaapplleecu-source/mao-skill",
     "description": "“如果是毛主席的话，他会怎么做呢？“",
     "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 53,
+    "stars": 57,
     "language": "Python",
-    "updated_at": "2026-04-13T01:00:55Z"
+    "updated_at": "2026-04-13T04:56:58Z"
+  },
+  {
+    "name": "buffett-skills",
+    "full_name": "agi-now/buffett-skills",
+    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
+    "url": "https://github.com/agi-now/buffett-skills",
+    "stars": 57,
+    "language": null,
+    "updated_at": "2026-04-13T05:56:26Z"
   },
   {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 51,
+    "stars": 53,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T01:31:39Z"
+    "updated_at": "2026-04-13T06:13:46Z"
   },
   {
     "name": "llm-wiki",
@@ -85,8 +85,8 @@
     "full_name": "momenbasel/vulnhawk",
     "description": "AI-powered SAST scanner that finds auth bypass, IDOR, and logic bugs Semgrep/CodeQL miss. Free GitHub Action. Supports Python, JS/TS, Go, PHP, Ruby.",
     "url": "https://github.com/momenbasel/vulnhawk",
-    "stars": 37,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-04-13T02:07:23Z"
+    "updated_at": "2026-04-13T04:53:59Z"
   }
 ]
