@@ -4,45 +4,63 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 735,
+    "stars": 776,
     "language": "Shell",
-    "updated_at": "2026-04-13T06:10:48Z"
+    "updated_at": "2026-04-13T09:55:26Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 125,
+    "stars": 136,
     "language": null,
-    "updated_at": "2026-04-13T05:40:31Z"
+    "updated_at": "2026-04-13T09:54:13Z"
   },
   {
     "name": "litmus",
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 77,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T21:20:09Z"
-  },
-  {
-    "name": "DeepZero",
-    "full_name": "416rehman/DeepZero",
-    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-    "url": "https://github.com/416rehman/DeepZero",
-    "stars": 69,
-    "language": "Python",
-    "updated_at": "2026-04-13T01:11:01Z"
+    "updated_at": "2026-04-13T09:40:17Z"
   },
   {
     "name": "llm-wiki",
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 69,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-04-13T04:45:09Z"
+    "updated_at": "2026-04-13T07:18:43Z"
+  },
+  {
+    "name": "DeepZero",
+    "full_name": "416rehman/DeepZero",
+    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
+    "url": "https://github.com/416rehman/DeepZero",
+    "stars": 70,
+    "language": "Python",
+    "updated_at": "2026-04-13T06:29:39Z"
+  },
+  {
+    "name": "buffett-skills",
+    "full_name": "agi-now/buffett-skills",
+    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
+    "url": "https://github.com/agi-now/buffett-skills",
+    "stars": 71,
+    "language": null,
+    "updated_at": "2026-04-13T09:44:56Z"
+  },
+  {
+    "name": "free-ai-tools",
+    "full_name": "ShaikhWarsi/free-ai-tools",
+    "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
+    "url": "https://github.com/ShaikhWarsi/free-ai-tools",
+    "stars": 57,
+    "language": "TypeScript",
+    "updated_at": "2026-04-13T09:35:06Z"
   },
   {
     "name": "mao-skill",
@@ -54,39 +72,21 @@
     "updated_at": "2026-04-13T04:56:58Z"
   },
   {
-    "name": "buffett-skills",
-    "full_name": "agi-now/buffett-skills",
-    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
-    "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 57,
-    "language": null,
-    "updated_at": "2026-04-13T05:56:26Z"
-  },
-  {
-    "name": "free-ai-tools",
-    "full_name": "ShaikhWarsi/free-ai-tools",
-    "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
-    "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 53,
-    "language": "TypeScript",
-    "updated_at": "2026-04-13T06:13:46Z"
-  },
-  {
-    "name": "llm-wiki",
-    "full_name": "MehmetGoekce/llm-wiki",
-    "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
-    "url": "https://github.com/MehmetGoekce/llm-wiki",
-    "stars": 38,
-    "language": "Shell",
-    "updated_at": "2026-04-13T02:33:21Z"
-  },
-  {
-    "name": "vulnhawk",
-    "full_name": "momenbasel/vulnhawk",
-    "description": "AI-powered SAST scanner that finds auth bypass, IDOR, and logic bugs Semgrep/CodeQL miss. Free GitHub Action. Supports Python, JS/TS, Go, PHP, Ruby.",
-    "url": "https://github.com/momenbasel/vulnhawk",
+    "name": "llm-context-base",
+    "full_name": "asakin/llm-context-base",
+    "description": "A git template for building your own LLM-powered personal wiki. Training period, metadata standard, lint system included. Clone and go.",
+    "url": "https://github.com/asakin/llm-context-base",
     "stars": 38,
     "language": "Python",
-    "updated_at": "2026-04-13T04:53:59Z"
+    "updated_at": "2026-04-13T06:58:28Z"
+  },
+  {
+    "name": "dario",
+    "full_name": "askalf/dario",
+    "description": "Use your Claude subscription as an API. Template replay makes every request indistinguishable from Claude Code. Zero dependencies.",
+    "url": "https://github.com/askalf/dario",
+    "stars": 38,
+    "language": "TypeScript",
+    "updated_at": "2026-04-13T08:46:17Z"
   }
 ]
