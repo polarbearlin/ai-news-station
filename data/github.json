@@ -4,89 +4,89 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 600,
+    "stars": 685,
     "language": "Shell",
-    "updated_at": "2026-04-12T20:33:08Z"
+    "updated_at": "2026-04-13T02:42:20Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 115,
+    "stars": 121,
     "language": null,
-    "updated_at": "2026-04-12T18:42:39Z"
-  },
-  {
-    "name": "second-brain",
-    "full_name": "NicholasSpisak/second-brain",
-    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
-    "url": "https://github.com/NicholasSpisak/second-brain",
-    "stars": 111,
-    "language": "Shell",
-    "updated_at": "2026-04-12T19:29:11Z"
+    "updated_at": "2026-04-13T02:27:24Z"
   },
   {
     "name": "litmus",
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 74,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T14:41:24Z"
+    "updated_at": "2026-04-12T21:20:09Z"
   },
   {
     "name": "DeepZero",
     "full_name": "416rehman/DeepZero",
     "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
     "url": "https://github.com/416rehman/DeepZero",
-    "stars": 67,
+    "stars": 69,
     "language": "Python",
-    "updated_at": "2026-04-12T16:53:36Z"
+    "updated_at": "2026-04-13T01:11:01Z"
   },
   {
     "name": "llm-wiki",
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 62,
+    "stars": 67,
     "language": "Python",
-    "updated_at": "2026-04-12T20:02:25Z"
+    "updated_at": "2026-04-13T02:40:36Z"
   },
   {
     "name": "buffett-skills",
     "full_name": "agi-now/buffett-skills",
     "description": "A collection of ai skills built on Warren Buffett's investing framework.",
     "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 53,
+    "stars": 55,
     "language": null,
-    "updated_at": "2026-04-12T15:55:19Z"
+    "updated_at": "2026-04-13T02:09:56Z"
   },
   {
     "name": "mao-skill",
     "full_name": "wwwaapplleecu-source/mao-skill",
     "description": "“如果是毛主席的话，他会怎么做呢？“",
     "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 52,
+    "stars": 53,
     "language": "Python",
-    "updated_at": "2026-04-12T19:44:52Z"
+    "updated_at": "2026-04-13T01:00:55Z"
   },
   {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 48,
+    "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-04-12T15:35:49Z"
+    "updated_at": "2026-04-13T01:31:39Z"
   },
   {
     "name": "llm-wiki",
     "full_name": "MehmetGoekce/llm-wiki",
     "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
     "url": "https://github.com/MehmetGoekce/llm-wiki",
-    "stars": 37,
+    "stars": 38,
     "language": "Shell",
-    "updated_at": "2026-04-12T19:57:09Z"
+    "updated_at": "2026-04-13T02:33:21Z"
+  },
+  {
+    "name": "vulnhawk",
+    "full_name": "momenbasel/vulnhawk",
+    "description": "AI-powered SAST scanner that finds auth bypass, IDOR, and logic bugs Semgrep/CodeQL miss. Free GitHub Action. Supports Python, JS/TS, Go, PHP, Ruby.",
+    "url": "https://github.com/momenbasel/vulnhawk",
+    "stars": 37,
+    "language": "Python",
+    "updated_at": "2026-04-13T02:07:23Z"
   }
 ]
