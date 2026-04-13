@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-04-13 13:27:05",
+  "generated_at": "2026-04-13 17:03:55",
   "news": [
     {
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
       "source": "Hacker News",
-      "time": "2026-04-13 12:29",
-      "score": 50,
-      "comments": 16
+      "time": "2026-04-13 12:12",
+      "score": 259,
+      "comments": 88
     },
     {
-      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "url": "https://spectrum.ieee.org/mems-photonics",
       "source": "Hacker News",
-      "time": "2026-04-13 12:05",
-      "score": 29,
-      "comments": 14
+      "time": "2026-04-13 14:26",
+      "score": 23,
+      "comments": 5
+    },
+    {
+      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "source": "Hacker News",
+      "time": "2026-04-13 13:23",
+      "score": 37,
+      "comments": 7
     }
   ]
 }

@@ -4,36 +4,45 @@
     "full_name": "AgriciDaniel/claude-obsidian",
     "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 825,
+    "stars": 891,
     "language": "Shell",
-    "updated_at": "2026-04-13T13:25:37Z"
+    "updated_at": "2026-04-13T17:02:58Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 141,
+    "stars": 146,
     "language": null,
-    "updated_at": "2026-04-13T12:57:43Z"
+    "updated_at": "2026-04-13T16:44:54Z"
   },
   {
     "name": "litmus",
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 81,
+    "stars": 82,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T11:58:02Z"
+    "updated_at": "2026-04-13T16:35:24Z"
+  },
+  {
+    "name": "GEOFlow",
+    "full_name": "yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "stars": 79,
+    "language": "PHP",
+    "updated_at": "2026-04-13T16:41:05Z"
   },
   {
     "name": "buffett-skills",
     "full_name": "agi-now/buffett-skills",
     "description": "A collection of ai skills built on Warren Buffett's investing framework.",
     "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 75,
+    "stars": 78,
     "language": null,
-    "updated_at": "2026-04-13T13:10:09Z"
+    "updated_at": "2026-04-13T15:34:39Z"
   },
   {
     "name": "llm-wiki",
@@ -58,35 +67,26 @@
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 58,
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T11:07:01Z"
+    "updated_at": "2026-04-13T15:52:47Z"
   },
   {
     "name": "mao-skill",
     "full_name": "wwwaapplleecu-source/mao-skill",
     "description": "“如果是毛主席的话，他会怎么做呢？“",
     "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 57,
+    "stars": 59,
     "language": "Python",
-    "updated_at": "2026-04-13T04:56:58Z"
+    "updated_at": "2026-04-13T16:50:16Z"
   },
   {
     "name": "dario",
     "full_name": "askalf/dario",
     "description": "Use your Claude subscription as an API. Template replay makes every request indistinguishable from Claude Code. Zero dependencies.",
     "url": "https://github.com/askalf/dario",
-    "stars": 43,
-    "language": "JavaScript",
-    "updated_at": "2026-04-13T13:25:26Z"
-  },
-  {
-    "name": "awesome-ai-extensions",
-    "full_name": "kklt92/awesome-ai-extensions",
-    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
-    "url": "https://github.com/kklt92/awesome-ai-extensions",
-    "stars": 42,
-    "language": null,
-    "updated_at": "2026-04-13T12:05:16Z"
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-04-13T16:54:13Z"
   }
 ]
