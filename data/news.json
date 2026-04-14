@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-04-14 17:08:44",
+  "generated_at": "2026-04-14 20:55:00",
   "news": [
     {
-      "title": "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
-      "url": "https://github.com/kontext-dev/kontext-cli",
+      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
       "source": "Hacker News",
-      "time": "2026-04-14 13:26",
-      "score": 34,
-      "comments": 9
+      "time": "2026-04-14 16:59",
+      "score": 356,
+      "comments": 329
     },
     {
-      "title": "Introspective Diffusion Language Models",
-      "url": "https://introspective-diffusion.github.io/",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
       "source": "Hacker News",
-      "time": "2026-04-14 07:57",
-      "score": 169,
-      "comments": 35
+      "time": "2026-04-14 17:09",
+      "score": 46,
+      "comments": 24
+    },
+    {
+      "title": "ClawRun – Deploy and manage AI agents in seconds",
+      "url": "https://github.com/clawrun-sh/clawrun",
+      "source": "Hacker News",
+      "time": "2026-04-14 19:12",
+      "score": 19,
+      "comments": 1
     }
   ]
 }
