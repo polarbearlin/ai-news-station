@@ -4,27 +4,27 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 333,
+    "stars": 403,
     "language": "PHP",
-    "updated_at": "2026-04-14T09:11:50Z"
+    "updated_at": "2026-04-14T13:24:03Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 163,
+    "stars": 166,
     "language": null,
-    "updated_at": "2026-04-14T08:02:43Z"
+    "updated_at": "2026-04-14T13:01:18Z"
   },
   {
     "name": "buffett-skills",
     "full_name": "agi-now/buffett-skills",
     "description": "A collection of ai skills built on Warren Buffett's investing framework.",
     "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 91,
+    "stars": 100,
     "language": null,
-    "updated_at": "2026-04-14T08:18:32Z"
+    "updated_at": "2026-04-14T13:24:29Z"
   },
   {
     "name": "litmus",
@@ -40,9 +40,9 @@
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 80,
+    "stars": 82,
     "language": "Python",
-    "updated_at": "2026-04-14T07:57:13Z"
+    "updated_at": "2026-04-14T10:59:48Z"
   },
   {
     "name": "free-ai-tools",
@@ -67,9 +67,9 @@
     "full_name": "askalf/dario",
     "description": "A local LLM router. One endpoint, every provider — Claude subscriptions, OpenAI, OpenRouter, Groq, local LiteLLM, any OpenAI-compat endpoint — your tools don't need to change.",
     "url": "https://github.com/askalf/dario",
-    "stars": 57,
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T06:31:41Z"
+    "updated_at": "2026-04-14T12:46:54Z"
   },
   {
     "name": "awesome-ai-extensions",
@@ -85,8 +85,8 @@
     "full_name": "cloveric/cc-telegram-bridge",
     "description": "Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.",
     "url": "https://github.com/cloveric/cc-telegram-bridge",
-    "stars": 46,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T08:46:05Z"
+    "updated_at": "2026-04-14T13:05:39Z"
   }
 ]
