@@ -1,30 +1,21 @@
 [
   {
-    "name": "claude-obsidian",
-    "full_name": "AgriciDaniel/claude-obsidian",
-    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-    "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 955,
-    "language": "Shell",
-    "updated_at": "2026-04-13T20:46:20Z"
+    "name": "GEOFlow",
+    "full_name": "yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "stars": 167,
+    "language": "PHP",
+    "updated_at": "2026-04-14T02:36:29Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 147,
+    "stars": 152,
     "language": null,
-    "updated_at": "2026-04-13T19:50:26Z"
-  },
-  {
-    "name": "GEOFlow",
-    "full_name": "yaojingang/GEOFlow",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-    "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 95,
-    "language": "PHP",
-    "updated_at": "2026-04-13T20:24:13Z"
+    "updated_at": "2026-04-14T02:28:58Z"
   },
   {
     "name": "litmus",
@@ -40,53 +31,62 @@
     "full_name": "agi-now/buffett-skills",
     "description": "A collection of ai skills built on Warren Buffett's investing framework.",
     "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 78,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-04-13T15:34:39Z"
+    "updated_at": "2026-04-14T02:08:28Z"
   },
   {
     "name": "llm-wiki",
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 75,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-04-13T17:39:52Z"
-  },
-  {
-    "name": "DeepZero",
-    "full_name": "416rehman/DeepZero",
-    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-    "url": "https://github.com/416rehman/DeepZero",
-    "stars": 71,
-    "language": "Python",
-    "updated_at": "2026-04-13T18:59:16Z"
+    "updated_at": "2026-04-14T01:51:55Z"
   },
   {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 63,
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T20:35:28Z"
+    "updated_at": "2026-04-14T01:10:02Z"
   },
   {
     "name": "mao-skill",
     "full_name": "wwwaapplleecu-source/mao-skill",
     "description": "“如果是毛主席的话，他会怎么做呢？“",
     "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 59,
+    "stars": 60,
     "language": "Python",
-    "updated_at": "2026-04-13T16:50:16Z"
+    "updated_at": "2026-04-14T02:20:08Z"
   },
   {
     "name": "dario",
     "full_name": "askalf/dario",
-    "description": "Use your Claude subscription as an API. Template replay makes every request indistinguishable from Claude Code. Zero dependencies.",
+    "description": "A local LLM router. One endpoint, every provider — Claude subscriptions, OpenAI, OpenRouter, Groq, local LiteLLM, any OpenAI-compat endpoint — your tools don't need to change.",
     "url": "https://github.com/askalf/dario",
-    "stars": 54,
+    "stars": 56,
     "language": "TypeScript",
-    "updated_at": "2026-04-13T20:47:50Z"
+    "updated_at": "2026-04-14T01:11:19Z"
+  },
+  {
+    "name": "awesome-ai-extensions",
+    "full_name": "kklt92/awesome-ai-extensions",
+    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
+    "url": "https://github.com/kklt92/awesome-ai-extensions",
+    "stars": 52,
+    "language": null,
+    "updated_at": "2026-04-14T02:34:24Z"
+  },
+  {
+    "name": "cc-telegram-bridge",
+    "full_name": "cloveric/cc-telegram-bridge",
+    "description": "Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.",
+    "url": "https://github.com/cloveric/cc-telegram-bridge",
+    "stars": 43,
+    "language": "TypeScript",
+    "updated_at": "2026-04-14T02:31:35Z"
   }
 ]
