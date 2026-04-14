@@ -4,45 +4,45 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 167,
+    "stars": 252,
     "language": "PHP",
-    "updated_at": "2026-04-14T02:36:29Z"
+    "updated_at": "2026-04-14T05:59:58Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 152,
+    "stars": 157,
     "language": null,
-    "updated_at": "2026-04-14T02:28:58Z"
-  },
-  {
-    "name": "litmus",
-    "full_name": "litmus4ai/litmus",
-    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
-    "url": "https://github.com/litmus4ai/litmus",
-    "stars": 84,
-    "language": "TypeScript",
-    "updated_at": "2026-04-13T20:45:09Z"
+    "updated_at": "2026-04-14T04:24:36Z"
   },
   {
     "name": "buffett-skills",
     "full_name": "agi-now/buffett-skills",
     "description": "A collection of ai skills built on Warren Buffett's investing framework.",
     "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 85,
+    "stars": 87,
     "language": null,
-    "updated_at": "2026-04-14T02:08:28Z"
+    "updated_at": "2026-04-14T05:13:16Z"
+  },
+  {
+    "name": "litmus",
+    "full_name": "litmus4ai/litmus",
+    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
+    "url": "https://github.com/litmus4ai/litmus",
+    "stars": 85,
+    "language": "TypeScript",
+    "updated_at": "2026-04-14T05:56:22Z"
   },
   {
     "name": "llm-wiki",
     "full_name": "Pratiyush/llm-wiki",
     "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
     "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 77,
+    "stars": 78,
     "language": "Python",
-    "updated_at": "2026-04-14T01:51:55Z"
+    "updated_at": "2026-04-14T03:49:21Z"
   },
   {
     "name": "free-ai-tools",
@@ -67,26 +67,26 @@
     "full_name": "askalf/dario",
     "description": "A local LLM router. One endpoint, every provider — Claude subscriptions, OpenAI, OpenRouter, Groq, local LiteLLM, any OpenAI-compat endpoint — your tools don't need to change.",
     "url": "https://github.com/askalf/dario",
-    "stars": 56,
+    "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T01:11:19Z"
+    "updated_at": "2026-04-14T03:45:40Z"
   },
   {
     "name": "awesome-ai-extensions",
     "full_name": "kklt92/awesome-ai-extensions",
     "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
     "url": "https://github.com/kklt92/awesome-ai-extensions",
-    "stars": 52,
+    "stars": 53,
     "language": null,
-    "updated_at": "2026-04-14T02:34:24Z"
+    "updated_at": "2026-04-14T04:29:19Z"
   },
   {
     "name": "cc-telegram-bridge",
     "full_name": "cloveric/cc-telegram-bridge",
     "description": "Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.",
     "url": "https://github.com/cloveric/cc-telegram-bridge",
-    "stars": 43,
+    "stars": 44,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T02:31:35Z"
+    "updated_at": "2026-04-14T02:53:17Z"
   }
 ]
