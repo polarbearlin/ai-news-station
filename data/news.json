@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-14 13:27:38",
+  "generated_at": "2026-04-14 17:08:44",
   "news": [
+    {
+      "title": "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+      "url": "https://github.com/kontext-dev/kontext-cli",
+      "source": "Hacker News",
+      "time": "2026-04-14 13:26",
+      "score": 34,
+      "comments": 9
+    },
     {
       "title": "Introspective Diffusion Language Models",
       "url": "https://introspective-diffusion.github.io/",
       "source": "Hacker News",
       "time": "2026-04-14 07:57",
-      "score": 107,
-      "comments": 27
+      "score": 169,
+      "comments": 35
     }
   ]
 }
