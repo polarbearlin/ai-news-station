@@ -4,18 +4,18 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 552,
+    "stars": 570,
     "language": "PHP",
-    "updated_at": "2026-04-15T06:00:05Z"
+    "updated_at": "2026-04-15T09:20:05Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 175,
+    "stars": 177,
     "language": null,
-    "updated_at": "2026-04-15T05:27:41Z"
+    "updated_at": "2026-04-15T08:07:15Z"
   },
   {
     "name": "litmus",
@@ -31,18 +31,18 @@
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 70,
+    "stars": 72,
     "language": "TypeScript",
-    "updated_at": "2026-04-15T04:09:07Z"
+    "updated_at": "2026-04-15T08:05:32Z"
   },
   {
     "name": "Leeway",
     "full_name": "hardness1020/Leeway",
     "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees. Bridging rigid automation and unpredictable agents",
     "url": "https://github.com/hardness1020/Leeway",
-    "stars": 44,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-04-15T05:12:46Z"
+    "updated_at": "2026-04-15T06:14:56Z"
   },
   {
     "name": "cs-net",

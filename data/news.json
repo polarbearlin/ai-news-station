@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-04-15 06:00:14",
-  "news": []
+  "generated_at": "2026-04-15 09:20:14",
+  "news": [
+    {
+      "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
+      "url": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
+      "source": "Hacker News",
+      "time": "2026-04-15 07:00",
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "title": "My AI-Assisted Workflow",
+      "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+      "source": "Hacker News",
+      "time": "2026-04-15 07:08",
+      "score": 19,
+      "comments": 10
+    }
+  ]
 }
