@@ -4,36 +4,36 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 617,
+    "stars": 646,
     "language": "PHP",
-    "updated_at": "2026-04-15T16:51:05Z"
+    "updated_at": "2026-04-15T20:44:32Z"
   },
   {
     "name": "antivibe",
     "full_name": "mohi-devhub/antivibe",
     "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
     "url": "https://github.com/mohi-devhub/antivibe",
-    "stars": 222,
+    "stars": 330,
     "language": "Shell",
-    "updated_at": "2026-04-15T17:03:03Z"
-  },
-  {
-    "name": "yupi-skill",
-    "full_name": "liyupi/yupi-skill",
-    "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
-    "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 179,
-    "language": null,
-    "updated_at": "2026-04-15T15:54:46Z"
+    "updated_at": "2026-04-15T20:46:48Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 147,
+    "stars": 229,
     "language": "JavaScript",
-    "updated_at": "2026-04-15T17:04:30Z"
+    "updated_at": "2026-04-15T20:46:42Z"
+  },
+  {
+    "name": "yupi-skill",
+    "full_name": "liyupi/yupi-skill",
+    "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
+    "url": "https://github.com/liyupi/yupi-skill",
+    "stars": 180,
+    "language": null,
+    "updated_at": "2026-04-15T17:45:34Z"
   },
   {
     "name": "OmniVoice-Studio",
@@ -49,9 +49,9 @@
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 92,
+    "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-04-15T15:12:44Z"
+    "updated_at": "2026-04-15T20:27:49Z"
   },
   {
     "name": "free-ai-tools",
@@ -67,9 +67,18 @@
     "full_name": "hardness1020/Leeway",
     "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees. Bridging rigid automation and unpredictable agents",
     "url": "https://github.com/hardness1020/Leeway",
-    "stars": 50,
+    "stars": 52,
     "language": "Python",
-    "updated_at": "2026-04-15T14:25:26Z"
+    "updated_at": "2026-04-15T20:45:41Z"
+  },
+  {
+    "name": "HY-World-2.0",
+    "full_name": "Tencent-Hunyuan/HY-World-2.0",
+    "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+    "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "stars": 47,
+    "language": "Python",
+    "updated_at": "2026-04-15T20:49:34Z"
   },
   {
     "name": "cs-net",
@@ -79,14 +88,5 @@
     "stars": 40,
     "language": "Python",
     "updated_at": "2026-04-14T12:28:59Z"
-  },
-  {
-    "name": "naotab",
-    "full_name": "bsquang/naotab",
-    "description": "A Chrome extension that turns your browser tabs into a personal knowledge base — save tabs with context, auto-tag with AI, and visualize connections as a network graph.",
-    "url": "https://github.com/bsquang/naotab",
-    "stars": 38,
-    "language": "JavaScript",
-    "updated_at": "2026-04-15T01:58:14Z"
   }
 ]

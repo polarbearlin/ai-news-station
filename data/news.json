@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-15 17:04:51",
+  "generated_at": "2026-04-15 20:50:35",
   "news": [
     {
-      "title": "Adaptional (YC S25) Is Hiring Founding AI Engineers",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+      "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
       "source": "Hacker News",
-      "time": "2026-04-15 17:00",
-      "score": 1,
-      "comments": 0
+      "time": "2026-04-12 10:27",
+      "score": 78,
+      "comments": 39
+    },
+    {
+      "title": "AI-assisted cognition endangers human development",
+      "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "source": "Hacker News",
+      "time": "2026-04-15 18:16",
+      "score": 204,
+      "comments": 129
     }
   ]
 }
