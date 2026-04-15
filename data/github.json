@@ -4,27 +4,18 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 475,
+    "stars": 523,
     "language": "PHP",
-    "updated_at": "2026-04-14T20:43:01Z"
+    "updated_at": "2026-04-15T02:32:02Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 169,
+    "stars": 171,
     "language": null,
-    "updated_at": "2026-04-14T17:22:01Z"
-  },
-  {
-    "name": "buffett-skills",
-    "full_name": "agi-now/buffett-skills",
-    "description": "A collection of ai skills built on Warren Buffett's investing framework.",
-    "url": "https://github.com/agi-now/buffett-skills",
-    "stars": 103,
-    "language": null,
-    "updated_at": "2026-04-14T17:59:19Z"
+    "updated_at": "2026-04-15T01:30:14Z"
   },
   {
     "name": "litmus",
@@ -36,57 +27,66 @@
     "updated_at": "2026-04-14T19:50:33Z"
   },
   {
-    "name": "llm-wiki",
-    "full_name": "Pratiyush/llm-wiki",
-    "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
-    "url": "https://github.com/Pratiyush/llm-wiki",
-    "stars": 83,
-    "language": "Python",
-    "updated_at": "2026-04-14T14:38:36Z"
-  },
-  {
-    "name": "cc-telegram-bridge",
-    "full_name": "cloveric/cc-telegram-bridge",
-    "description": "Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.",
-    "url": "https://github.com/cloveric/cc-telegram-bridge",
-    "stars": 75,
-    "language": "TypeScript",
-    "updated_at": "2026-04-14T16:40:11Z"
-  },
-  {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 66,
+    "stars": 69,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T09:02:26Z"
+    "updated_at": "2026-04-15T00:01:02Z"
   },
   {
-    "name": "mao-skill",
-    "full_name": "wwwaapplleecu-source/mao-skill",
-    "description": "“如果是毛主席的话，他会怎么做呢？“",
-    "url": "https://github.com/wwwaapplleecu-source/mao-skill",
-    "stars": 60,
+    "name": "Leeway",
+    "full_name": "hardness1020/Leeway",
+    "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees. Bridging rigid automation and unpredictable agents",
+    "url": "https://github.com/hardness1020/Leeway",
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-04-14T02:20:08Z"
+    "updated_at": "2026-04-14T23:34:25Z"
   },
   {
-    "name": "dario",
-    "full_name": "askalf/dario",
-    "description": "A local LLM router. One endpoint, every provider — Claude subscriptions, OpenAI, OpenRouter, Groq, local LiteLLM, any OpenAI-compat endpoint — your tools don't need to change.",
-    "url": "https://github.com/askalf/dario",
-    "stars": 60,
+    "name": "cs-net",
+    "full_name": "Gary2005/cs-net",
+    "description": "CS-NET is a Transformer-based deep learning framework for analyzing Counter-Strike 2 match replays (.dem demo files). It parses match recordings, converts game states into token sequences, and uses pre-trained Transformer models for multiple real-time predictions.",
+    "url": "https://github.com/Gary2005/cs-net",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-04-14T12:28:59Z"
+  },
+  {
+    "name": "naotab",
+    "full_name": "bsquang/naotab",
+    "description": "A Chrome extension that turns your browser tabs into a personal knowledge base — save tabs with context, auto-tag with AI, and visualize connections as a network graph.",
+    "url": "https://github.com/bsquang/naotab",
+    "stars": 38,
+    "language": "JavaScript",
+    "updated_at": "2026-04-15T01:58:14Z"
+  },
+  {
+    "name": "sample-automated-reasoning-formalization",
+    "full_name": "aws-samples/sample-automated-reasoning-formalization",
+    "description": "ARchitect helps non-technical users create Automated Reasoning policies from their document ",
+    "url": "https://github.com/aws-samples/sample-automated-reasoning-formalization",
+    "stars": 33,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T19:38:03Z"
+    "updated_at": "2026-04-13T15:30:23Z"
   },
   {
-    "name": "awesome-ai-extensions",
-    "full_name": "kklt92/awesome-ai-extensions",
-    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
-    "url": "https://github.com/kklt92/awesome-ai-extensions",
-    "stars": 59,
-    "language": null,
-    "updated_at": "2026-04-14T20:37:48Z"
+    "name": "career-copilot",
+    "full_name": "RajjjAryan/career-copilot",
+    "description": "AI-powered job search pipeline built on GitHub Copilot CLI",
+    "url": "https://github.com/RajjjAryan/career-copilot",
+    "stars": 31,
+    "language": "JavaScript",
+    "updated_at": "2026-04-14T20:24:09Z"
+  },
+  {
+    "name": "twotrim",
+    "full_name": "overseek944/twotrim",
+    "description": " ultra-lightweight, mathematically robust prompt compression middleware",
+    "url": "https://github.com/overseek944/twotrim",
+    "stars": 28,
+    "language": "Python",
+    "updated_at": "2026-04-13T21:49:42Z"
   }
 ]
