@@ -4,18 +4,36 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 593,
+    "stars": 617,
     "language": "PHP",
-    "updated_at": "2026-04-15T13:15:35Z"
+    "updated_at": "2026-04-15T16:51:05Z"
+  },
+  {
+    "name": "antivibe",
+    "full_name": "mohi-devhub/antivibe",
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
+    "url": "https://github.com/mohi-devhub/antivibe",
+    "stars": 222,
+    "language": "Shell",
+    "updated_at": "2026-04-15T17:03:03Z"
   },
   {
     "name": "yupi-skill",
     "full_name": "liyupi/yupi-skill",
     "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
     "url": "https://github.com/liyupi/yupi-skill",
-    "stars": 177,
+    "stars": 179,
     "language": null,
-    "updated_at": "2026-04-15T08:07:15Z"
+    "updated_at": "2026-04-15T15:54:46Z"
+  },
+  {
+    "name": "design-extract",
+    "full_name": "Manavarya09/design-extract",
+    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "stars": 147,
+    "language": "JavaScript",
+    "updated_at": "2026-04-15T17:04:30Z"
   },
   {
     "name": "OmniVoice-Studio",
@@ -31,45 +49,27 @@
     "full_name": "litmus4ai/litmus",
     "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
     "url": "https://github.com/litmus4ai/litmus",
-    "stars": 91,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-04-14T19:50:33Z"
+    "updated_at": "2026-04-15T15:12:44Z"
   },
   {
     "name": "free-ai-tools",
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 74,
+    "stars": 76,
     "language": "TypeScript",
-    "updated_at": "2026-04-15T09:27:15Z"
-  },
-  {
-    "name": "antivibe",
-    "full_name": "mohi-devhub/antivibe",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
-    "url": "https://github.com/mohi-devhub/antivibe",
-    "stars": 55,
-    "language": "Shell",
-    "updated_at": "2026-04-15T13:24:14Z"
+    "updated_at": "2026-04-15T14:35:40Z"
   },
   {
     "name": "Leeway",
     "full_name": "hardness1020/Leeway",
     "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees. Bridging rigid automation and unpredictable agents",
     "url": "https://github.com/hardness1020/Leeway",
-    "stars": 48,
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-04-15T12:43:07Z"
-  },
-  {
-    "name": "design-extract",
-    "full_name": "Manavarya09/design-extract",
-    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-    "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 40,
-    "language": "JavaScript",
-    "updated_at": "2026-04-15T13:25:00Z"
+    "updated_at": "2026-04-15T14:25:26Z"
   },
   {
     "name": "cs-net",
