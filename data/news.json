@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-04-15 09:20:14",
+  "generated_at": "2026-04-15 13:25:35",
   "news": [
     {
-      "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
-      "url": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
       "source": "Hacker News",
-      "time": "2026-04-15 07:00",
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "title": "My AI-Assisted Workflow",
-      "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-      "source": "Hacker News",
-      "time": "2026-04-15 07:08",
-      "score": 19,
-      "comments": 10
+      "time": "2026-04-15 05:19",
+      "score": 111,
+      "comments": 82
     }
   ]
 }
