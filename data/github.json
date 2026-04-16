@@ -4,54 +4,54 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 748,
+    "stars": 752,
     "language": "PHP",
-    "updated_at": "2026-04-16T17:02:32Z"
+    "updated_at": "2026-04-16T20:17:50Z"
   },
   {
     "name": "HY-World-2.0",
     "full_name": "Tencent-Hunyuan/HY-World-2.0",
     "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
     "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-    "stars": 703,
+    "stars": 733,
     "language": "Python",
-    "updated_at": "2026-04-16T17:07:32Z"
+    "updated_at": "2026-04-16T20:29:32Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 703,
+    "stars": 718,
     "language": null,
-    "updated_at": "2026-04-16T17:13:42Z"
+    "updated_at": "2026-04-16T20:03:16Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 599,
+    "stars": 637,
     "language": "JavaScript",
-    "updated_at": "2026-04-16T17:14:54Z"
+    "updated_at": "2026-04-16T20:49:43Z"
   },
   {
     "name": "antivibe",
     "full_name": "mohi-devhub/antivibe",
     "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
     "url": "https://github.com/mohi-devhub/antivibe",
-    "stars": 467,
+    "stars": 484,
     "language": "Shell",
-    "updated_at": "2026-04-16T17:00:06Z"
+    "updated_at": "2026-04-16T20:28:08Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 221,
+    "stars": 239,
     "language": "JavaScript",
-    "updated_at": "2026-04-16T17:09:38Z"
+    "updated_at": "2026-04-16T20:46:49Z"
   },
   {
     "name": "litmus",
@@ -67,26 +67,26 @@
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 79,
+    "stars": 83,
     "language": "TypeScript",
-    "updated_at": "2026-04-16T17:04:38Z"
+    "updated_at": "2026-04-16T20:13:40Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 68,
+    "stars": 73,
     "language": "TypeScript",
-    "updated_at": "2026-04-16T16:28:29Z"
+    "updated_at": "2026-04-16T18:46:52Z"
   },
   {
-    "name": "naotab",
-    "full_name": "bsquang/naotab",
-    "description": "A Chrome extension that turns your browser tabs into a personal knowledge base — save tabs with context, auto-tag with AI, and visualize connections as a network graph.",
-    "url": "https://github.com/bsquang/naotab",
-    "stars": 38,
-    "language": "JavaScript",
-    "updated_at": "2026-04-15T01:58:14Z"
+    "name": "WorldSeed",
+    "full_name": "AIScientists-Dev/WorldSeed",
+    "description": "A world engine where AI agents live autonomously — define any scenario in YAML, watch stories emerge",
+    "url": "https://github.com/AIScientists-Dev/WorldSeed",
+    "stars": 44,
+    "language": "Python",
+    "updated_at": "2026-04-16T20:35:04Z"
   }
 ]
