@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-16 09:20:23",
+  "generated_at": "2026-04-16 13:45:49",
   "news": [
+    {
+      "title": "AI cybersecurity is not proof of work",
+      "url": "https://antirez.com/news/163",
+      "source": "Hacker News",
+      "time": "2026-04-16 10:48",
+      "score": 54,
+      "comments": 14
+    },
     {
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
       "source": "Hacker News",
       "time": "2026-04-16 03:44",
-      "score": 141,
-      "comments": 75
+      "score": 238,
+      "comments": 145
     }
   ]
 }
