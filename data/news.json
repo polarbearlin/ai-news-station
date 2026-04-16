@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-04-16 02:42:15",
+  "generated_at": "2026-04-16 06:01:58",
   "news": [
     {
-      "title": "Amazon AI Cancelling Webcomics",
-      "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+      "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
+      "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
       "source": "Hacker News",
-      "time": "2026-04-16 00:52",
+      "time": "2026-04-16 05:05",
+      "score": 20,
+      "comments": 10
+    },
+    {
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "source": "Hacker News",
+      "time": "2026-04-16 03:44",
+      "score": 54,
+      "comments": 19
+    },
+    {
+      "title": "Airbnb discloses a billion-series Prometheus metrics pipeline",
+      "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "source": "Hacker News",
+      "time": "2026-04-16 05:01",
       "score": 10,
-      "comments": 0
+      "comments": 1
     }
   ]
 }

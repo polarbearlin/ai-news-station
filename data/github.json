@@ -4,36 +4,45 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 688,
+    "stars": 705,
     "language": "PHP",
-    "updated_at": "2026-04-16T02:38:07Z"
+    "updated_at": "2026-04-16T05:54:40Z"
   },
   {
     "name": "antivibe",
     "full_name": "mohi-devhub/antivibe",
     "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
     "url": "https://github.com/mohi-devhub/antivibe",
-    "stars": 386,
+    "stars": 408,
     "language": "Shell",
-    "updated_at": "2026-04-16T02:41:59Z"
+    "updated_at": "2026-04-16T05:59:50Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 301,
+    "stars": 396,
     "language": "JavaScript",
-    "updated_at": "2026-04-16T02:42:11Z"
+    "updated_at": "2026-04-16T05:57:19Z"
   },
   {
     "name": "HY-World-2.0",
     "full_name": "Tencent-Hunyuan/HY-World-2.0",
     "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
     "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-    "stars": 113,
+    "stars": 335,
     "language": "Python",
-    "updated_at": "2026-04-16T02:40:52Z"
+    "updated_at": "2026-04-16T05:59:40Z"
+  },
+  {
+    "name": "BuilderPulse",
+    "full_name": "BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "stars": 334,
+    "language": null,
+    "updated_at": "2026-04-16T06:01:52Z"
   },
   {
     "name": "litmus",
@@ -58,9 +67,18 @@
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 57,
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-04-16T01:41:03Z"
+    "updated_at": "2026-04-16T05:50:54Z"
+  },
+  {
+    "name": "design-md-chrome",
+    "full_name": "bergside/design-md-chrome",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+    "url": "https://github.com/bergside/design-md-chrome",
+    "stars": 59,
+    "language": "JavaScript",
+    "updated_at": "2026-04-16T06:00:53Z"
   },
   {
     "name": "naotab",
@@ -70,23 +88,5 @@
     "stars": 38,
     "language": "JavaScript",
     "updated_at": "2026-04-15T01:58:14Z"
-  },
-  {
-    "name": "twotrim",
-    "full_name": "overseek944/twotrim",
-    "description": " ultra-lightweight, mathematically robust prompt compression middleware",
-    "url": "https://github.com/overseek944/twotrim",
-    "stars": 28,
-    "language": "Python",
-    "updated_at": "2026-04-13T21:49:42Z"
-  },
-  {
-    "name": "lazyagent",
-    "full_name": "chojs23/lazyagent",
-    "description": "TUI for to watch all your AI coding agents(claude, codex, opencode)",
-    "url": "https://github.com/chojs23/lazyagent",
-    "stars": 26,
-    "language": "Go",
-    "updated_at": "2026-04-16T02:37:05Z"
   }
 ]
