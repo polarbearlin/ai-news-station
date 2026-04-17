@@ -4,54 +4,36 @@
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 752,
+    "stars": 765,
     "language": "PHP",
-    "updated_at": "2026-04-16T20:17:50Z"
-  },
-  {
-    "name": "HY-World-2.0",
-    "full_name": "Tencent-Hunyuan/HY-World-2.0",
-    "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
-    "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-    "stars": 733,
-    "language": "Python",
-    "updated_at": "2026-04-16T20:29:32Z"
+    "updated_at": "2026-04-17T02:30:27Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 718,
+    "stars": 755,
     "language": null,
-    "updated_at": "2026-04-16T20:03:16Z"
+    "updated_at": "2026-04-17T02:29:10Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 637,
+    "stars": 687,
     "language": "JavaScript",
-    "updated_at": "2026-04-16T20:49:43Z"
-  },
-  {
-    "name": "antivibe",
-    "full_name": "mohi-devhub/antivibe",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
-    "url": "https://github.com/mohi-devhub/antivibe",
-    "stars": 484,
-    "language": "Shell",
-    "updated_at": "2026-04-16T20:28:08Z"
+    "updated_at": "2026-04-17T02:21:17Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 239,
+    "stars": 280,
     "language": "JavaScript",
-    "updated_at": "2026-04-16T20:46:49Z"
+    "updated_at": "2026-04-17T02:21:52Z"
   },
   {
     "name": "litmus",
@@ -67,26 +49,44 @@
     "full_name": "ShaikhWarsi/free-ai-tools",
     "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
     "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-    "stars": 83,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-04-16T20:13:40Z"
+    "updated_at": "2026-04-16T21:10:38Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 73,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-04-16T18:46:52Z"
+    "updated_at": "2026-04-17T02:25:52Z"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — define any scenario in YAML, watch stories emerge",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 44,
+    "stars": 55,
     "language": "Python",
-    "updated_at": "2026-04-16T20:35:04Z"
+    "updated_at": "2026-04-17T02:29:42Z"
+  },
+  {
+    "name": "lazyagent",
+    "full_name": "chojs23/lazyagent",
+    "description": "TUI for watching all your AI coding agents(claude, codex and opencode)",
+    "url": "https://github.com/chojs23/lazyagent",
+    "stars": 30,
+    "language": "Go",
+    "updated_at": "2026-04-16T23:47:03Z"
+  },
+  {
+    "name": "claude-second-brain",
+    "full_name": "jessepinkman9900/claude-second-brain",
+    "description": "Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github",
+    "url": "https://github.com/jessepinkman9900/claude-second-brain",
+    "stars": 30,
+    "language": "JavaScript",
+    "updated_at": "2026-04-16T19:28:33Z"
   }
 ]
