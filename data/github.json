@@ -4,63 +4,63 @@
     "full_name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 966,
+    "stars": 983,
     "language": "JavaScript",
-    "updated_at": "2026-04-18T16:31:33Z"
+    "updated_at": "2026-04-18T20:24:22Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 921,
+    "stars": 927,
     "language": null,
-    "updated_at": "2026-04-18T16:38:36Z"
+    "updated_at": "2026-04-18T19:44:11Z"
   },
   {
     "name": "GEOFlow",
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 806,
+    "stars": 807,
     "language": "PHP",
-    "updated_at": "2026-04-18T15:03:05Z"
+    "updated_at": "2026-04-18T18:11:33Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 407,
+    "stars": 413,
     "language": "JavaScript",
-    "updated_at": "2026-04-18T16:16:41Z"
+    "updated_at": "2026-04-18T20:25:25Z"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 108,
+    "stars": 110,
     "language": "Python",
-    "updated_at": "2026-04-18T14:22:04Z"
+    "updated_at": "2026-04-18T19:11:30Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 101,
+    "stars": 105,
     "language": "TypeScript",
-    "updated_at": "2026-04-18T11:29:26Z"
+    "updated_at": "2026-04-18T20:12:58Z"
   },
   {
     "name": "sqz",
     "full_name": "ojuschugh1/sqz",
     "description": "Compress LLM context to save tokens and reduce costs",
     "url": "https://github.com/ojuschugh1/sqz",
-    "stars": 66,
+    "stars": 74,
     "language": "Rust",
-    "updated_at": "2026-04-18T16:32:46Z"
+    "updated_at": "2026-04-18T18:04:18Z"
   },
   {
     "name": "lazyagent",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-13T21:49:42Z"
   },
   {
-    "name": "usage-board",
-    "full_name": "lonewolfyx/usage-board",
-    "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-    "url": "https://github.com/lonewolfyx/usage-board",
+    "name": "claude-code-staff-engineer",
+    "full_name": "FareedKhan-dev/claude-code-staff-engineer",
+    "description": "Building a Senior Staff Engineer with Sub-Agent Teams in Claude Code",
+    "url": "https://github.com/FareedKhan-dev/claude-code-staff-engineer",
     "stars": 23,
-    "language": "Vue",
-    "updated_at": "2026-04-18T00:47:19Z"
+    "language": "Shell",
+    "updated_at": "2026-04-18T17:50:33Z"
   }
 ]
