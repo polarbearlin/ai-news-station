@@ -4,36 +4,36 @@
     "full_name": "Manavarya09/design-extract",
     "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 949,
+    "stars": 966,
     "language": "JavaScript",
-    "updated_at": "2026-04-18T13:01:24Z"
+    "updated_at": "2026-04-18T16:31:33Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 914,
+    "stars": 921,
     "language": null,
-    "updated_at": "2026-04-18T13:01:07Z"
+    "updated_at": "2026-04-18T16:38:36Z"
   },
   {
     "name": "GEOFlow",
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 803,
+    "stars": 806,
     "language": "PHP",
-    "updated_at": "2026-04-18T12:15:39Z"
+    "updated_at": "2026-04-18T15:03:05Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 392,
+    "stars": 407,
     "language": "JavaScript",
-    "updated_at": "2026-04-18T12:34:40Z"
+    "updated_at": "2026-04-18T16:16:41Z"
   },
   {
     "name": "WorldSeed",
@@ -42,7 +42,7 @@
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
     "stars": 108,
     "language": "Python",
-    "updated_at": "2026-04-18T11:59:50Z"
+    "updated_at": "2026-04-18T14:22:04Z"
   },
   {
     "name": "open-carrusel",
@@ -58,9 +58,9 @@
     "full_name": "ojuschugh1/sqz",
     "description": "Compress LLM context to save tokens and reduce costs",
     "url": "https://github.com/ojuschugh1/sqz",
-    "stars": 55,
+    "stars": 66,
     "language": "Rust",
-    "updated_at": "2026-04-18T13:02:59Z"
+    "updated_at": "2026-04-18T16:32:46Z"
   },
   {
     "name": "lazyagent",
@@ -69,7 +69,7 @@
     "url": "https://github.com/chojs23/lazyagent",
     "stars": 42,
     "language": "Go",
-    "updated_at": "2026-04-18T12:16:43Z"
+    "updated_at": "2026-04-18T15:23:04Z"
   },
   {
     "name": "twotrim",
