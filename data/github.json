@@ -2,91 +2,91 @@
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
-    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 983,
+    "stars": 1012,
     "language": "JavaScript",
-    "updated_at": "2026-04-18T20:24:22Z"
+    "updated_at": "2026-04-19T02:34:56Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 927,
+    "stars": 932,
     "language": null,
-    "updated_at": "2026-04-18T19:44:11Z"
+    "updated_at": "2026-04-19T02:23:34Z"
   },
   {
     "name": "GEOFlow",
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 807,
+    "stars": 809,
     "language": "PHP",
-    "updated_at": "2026-04-18T18:11:33Z"
+    "updated_at": "2026-04-19T02:13:12Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 413,
+    "stars": 429,
     "language": "JavaScript",
-    "updated_at": "2026-04-18T20:25:25Z"
+    "updated_at": "2026-04-19T02:39:29Z"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 110,
+    "stars": 111,
     "language": "Python",
-    "updated_at": "2026-04-18T19:11:30Z"
+    "updated_at": "2026-04-18T20:56:15Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 105,
+    "stars": 107,
     "language": "TypeScript",
-    "updated_at": "2026-04-18T20:12:58Z"
+    "updated_at": "2026-04-19T02:00:56Z"
   },
   {
-    "name": "sqz",
-    "full_name": "ojuschugh1/sqz",
-    "description": "Compress LLM context to save tokens and reduce costs",
-    "url": "https://github.com/ojuschugh1/sqz",
-    "stars": 74,
-    "language": "Rust",
-    "updated_at": "2026-04-18T18:04:18Z"
+    "name": "claude-bedrock",
+    "full_name": "iurykrieger/claude-bedrock",
+    "description": "Second Brain automation for Obsidian vaults — entity management, ingestion, compression, and sync via Claude Code skills",
+    "url": "https://github.com/iurykrieger/claude-bedrock",
+    "stars": 26,
+    "language": "HTML",
+    "updated_at": "2026-04-19T01:39:11Z"
   },
   {
-    "name": "lazyagent",
-    "full_name": "chojs23/lazyagent",
-    "description": "TUI for watching all your AI coding agents(claude, codex and opencode)",
-    "url": "https://github.com/chojs23/lazyagent",
-    "stars": 42,
-    "language": "Go",
-    "updated_at": "2026-04-18T15:23:04Z"
-  },
-  {
-    "name": "twotrim",
-    "full_name": "overseek944/twotrim",
-    "description": " ultra-lightweight, mathematically robust prompt compression middleware",
-    "url": "https://github.com/overseek944/twotrim",
-    "stars": 28,
+    "name": "OpenMythos",
+    "full_name": "kyegomez/OpenMythos",
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "stars": 24,
     "language": "Python",
-    "updated_at": "2026-04-13T21:49:42Z"
+    "updated_at": "2026-04-19T02:41:23Z"
   },
   {
     "name": "claude-code-staff-engineer",
     "full_name": "FareedKhan-dev/claude-code-staff-engineer",
     "description": "Building a Senior Staff Engineer with Sub-Agent Teams in Claude Code",
     "url": "https://github.com/FareedKhan-dev/claude-code-staff-engineer",
-    "stars": 23,
+    "stars": 25,
     "language": "Shell",
-    "updated_at": "2026-04-18T17:50:33Z"
+    "updated_at": "2026-04-19T01:40:19Z"
+  },
+  {
+    "name": "usage-board",
+    "full_name": "lonewolfyx/usage-board",
+    "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+    "url": "https://github.com/lonewolfyx/usage-board",
+    "stars": 23,
+    "language": "Vue",
+    "updated_at": "2026-04-18T00:47:19Z"
   }
 ]
