@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-04-19 05:58:11",
+  "generated_at": "2026-04-19 08:55:01",
   "news": [
+    {
+      "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+      "source": "Hacker News",
+      "time": "2026-04-16 14:05",
+      "score": 79,
+      "comments": 46
+    },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
       "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
       "source": "Hacker News",
       "time": "2026-04-18 19:00",
-      "score": 219,
-      "comments": 201
+      "score": 268,
+      "comments": 253
     },
     {
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
       "source": "Hacker News",
       "time": "2026-04-18 12:29",
-      "score": 354,
-      "comments": 351
+      "score": 398,
+      "comments": 366
     }
   ]
 }

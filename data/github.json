@@ -4,63 +4,63 @@
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1022,
+    "stars": 1036,
     "language": "JavaScript",
-    "updated_at": "2026-04-19T05:33:54Z"
+    "updated_at": "2026-04-19T08:21:05Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 937,
+    "stars": 942,
     "language": null,
-    "updated_at": "2026-04-19T05:42:17Z"
+    "updated_at": "2026-04-19T08:38:30Z"
   },
   {
     "name": "GEOFlow",
     "full_name": "yaojingang/GEOFlow",
     "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
     "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 812,
+    "stars": 817,
     "language": "PHP",
-    "updated_at": "2026-04-19T05:27:22Z"
+    "updated_at": "2026-04-19T08:24:49Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 431,
+    "stars": 433,
     "language": "JavaScript",
-    "updated_at": "2026-04-19T05:02:03Z"
+    "updated_at": "2026-04-19T08:13:22Z"
   },
   {
     "name": "OpenMythos",
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 146,
+    "stars": 277,
     "language": "Python",
-    "updated_at": "2026-04-19T05:57:09Z"
+    "updated_at": "2026-04-19T08:54:40Z"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 115,
+    "stars": 149,
     "language": "Python",
-    "updated_at": "2026-04-19T05:48:36Z"
+    "updated_at": "2026-04-19T08:39:50Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 107,
+    "stars": 108,
     "language": "TypeScript",
-    "updated_at": "2026-04-19T02:00:56Z"
+    "updated_at": "2026-04-19T06:06:29Z"
   },
   {
     "name": "claude-bedrock",
