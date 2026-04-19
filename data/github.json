@@ -4,72 +4,72 @@
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1058,
+    "stars": 1079,
     "language": "JavaScript",
-    "updated_at": "2026-04-19T16:39:45Z"
-  },
-  {
-    "name": "BuilderPulse",
-    "full_name": "BuilderPulse/BuilderPulse",
-    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-    "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 957,
-    "language": null,
-    "updated_at": "2026-04-19T16:36:22Z"
-  },
-  {
-    "name": "GEOFlow",
-    "full_name": "yaojingang/GEOFlow",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-    "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 842,
-    "language": "PHP",
-    "updated_at": "2026-04-19T16:38:20Z"
+    "updated_at": "2026-04-19T20:31:03Z"
   },
   {
     "name": "OpenMythos",
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 689,
+    "stars": 1025,
     "language": "Python",
-    "updated_at": "2026-04-19T16:40:40Z"
+    "updated_at": "2026-04-19T20:38:30Z"
+  },
+  {
+    "name": "BuilderPulse",
+    "full_name": "BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "stars": 962,
+    "language": null,
+    "updated_at": "2026-04-19T19:31:52Z"
+  },
+  {
+    "name": "GEOFlow",
+    "full_name": "yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "stars": 848,
+    "language": "PHP",
+    "updated_at": "2026-04-19T18:37:01Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 457,
+    "stars": 469,
     "language": "JavaScript",
-    "updated_at": "2026-04-19T16:10:25Z"
+    "updated_at": "2026-04-19T20:26:51Z"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 152,
+    "stars": 155,
     "language": "Python",
-    "updated_at": "2026-04-19T14:33:47Z"
+    "updated_at": "2026-04-19T20:14:12Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 108,
+    "stars": 116,
     "language": "TypeScript",
-    "updated_at": "2026-04-19T06:06:29Z"
+    "updated_at": "2026-04-19T20:23:34Z"
   },
   {
     "name": "ennoia",
     "full_name": "vunone/ennoia",
     "description": "Declarative Document Indexing (DDI) framework for Python. Define schemas, extract structured indices, search smarter.",
     "url": "https://github.com/vunone/ennoia",
-    "stars": 29,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-04-19T13:47:28Z"
+    "updated_at": "2026-04-19T20:32:46Z"
   },
   {
     "name": "claude-bedrock",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-19T16:20:31Z"
   },
   {
-    "name": "claude-code-staff-engineer",
-    "full_name": "FareedKhan-dev/claude-code-staff-engineer",
-    "description": "Building a Senior Staff Engineer with Sub-Agent Teams in Claude Code",
-    "url": "https://github.com/FareedKhan-dev/claude-code-staff-engineer",
-    "stars": 25,
-    "language": "Shell",
-    "updated_at": "2026-04-19T01:40:19Z"
+    "name": "alice",
+    "full_name": "simoncirstoiu/alice",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+    "url": "https://github.com/simoncirstoiu/alice",
+    "stars": 28,
+    "language": "JavaScript",
+    "updated_at": "2026-04-19T20:34:11Z"
   }
 ]
