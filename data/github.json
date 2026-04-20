@@ -4,89 +4,89 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 2573,
+    "stars": 3122,
     "language": "Python",
-    "updated_at": "2026-04-20T09:57:49Z"
+    "updated_at": "2026-04-20T13:43:31Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1111,
+    "stars": 1120,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T09:12:36Z"
+    "updated_at": "2026-04-20T13:36:27Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 1002,
+    "stars": 1003,
     "language": null,
-    "updated_at": "2026-04-20T09:56:00Z"
+    "updated_at": "2026-04-20T12:01:35Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 493,
+    "stars": 536,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T09:33:11Z"
+    "updated_at": "2026-04-20T13:39:14Z"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 154,
+    "stars": 155,
     "language": "Python",
-    "updated_at": "2026-04-20T03:48:59Z"
+    "updated_at": "2026-04-20T11:42:33Z"
   },
   {
     "name": "open-carrusel",
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 119,
+    "stars": 124,
     "language": "TypeScript",
-    "updated_at": "2026-04-20T06:38:14Z"
+    "updated_at": "2026-04-20T13:28:22Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 70,
+    "stars": 74,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T09:37:22Z"
+    "updated_at": "2026-04-20T11:38:45Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 50,
+    "stars": 49,
     "language": null,
-    "updated_at": "2026-04-20T05:05:31Z"
+    "updated_at": "2026-04-20T13:23:39Z"
   },
   {
-    "name": "ennoia",
-    "full_name": "vunone/ennoia",
-    "description": "Declarative Document Indexing (DDI) framework for Python. Define schemas, extract structured indices, search smarter.",
-    "url": "https://github.com/vunone/ennoia",
-    "stars": 35,
-    "language": "Python",
-    "updated_at": "2026-04-20T09:03:54Z"
+    "name": "cavemem",
+    "full_name": "JuliusBrussee/cavemem",
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "stars": 40,
+    "language": "TypeScript",
+    "updated_at": "2026-04-20T12:38:42Z"
   },
   {
-    "name": "reef",
-    "full_name": "Blushyes/reef",
-    "description": " The minimal dev terminal for the AI coding era — AI writes the code, Reef is   where you review it.",
-    "url": "https://github.com/Blushyes/reef",
-    "stars": 25,
-    "language": "Rust",
-    "updated_at": "2026-04-20T06:07:24Z"
+    "name": "hi-kid",
+    "full_name": "xiaochong/hi-kid",
+    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+    "url": "https://github.com/xiaochong/hi-kid",
+    "stars": 39,
+    "language": "TypeScript",
+    "updated_at": "2026-04-20T13:41:37Z"
   }
 ]

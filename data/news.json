@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-04-20 09:57:59",
-  "news": []
+  "generated_at": "2026-04-20 13:43:42",
+  "news": [
+    {
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+      "source": "Hacker News",
+      "time": "2026-04-20 10:00",
+      "score": 183,
+      "comments": 135
+    }
+  ]
 }
