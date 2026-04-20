@@ -4,36 +4,36 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 1939,
+    "stars": 2573,
     "language": "Python",
-    "updated_at": "2026-04-20T06:12:33Z"
+    "updated_at": "2026-04-20T09:57:49Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1099,
+    "stars": 1111,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T06:11:28Z"
+    "updated_at": "2026-04-20T09:12:36Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 982,
+    "stars": 1002,
     "language": null,
-    "updated_at": "2026-04-20T06:05:29Z"
+    "updated_at": "2026-04-20T09:56:00Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 485,
+    "stars": 493,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T05:45:27Z"
+    "updated_at": "2026-04-20T09:33:11Z"
   },
   {
     "name": "WorldSeed",
@@ -49,9 +49,18 @@
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 118,
+    "stars": 119,
     "language": "TypeScript",
-    "updated_at": "2026-04-19T22:43:11Z"
+    "updated_at": "2026-04-20T06:38:14Z"
+  },
+  {
+    "name": "alice",
+    "full_name": "simoncirstoiu/alice",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+    "url": "https://github.com/simoncirstoiu/alice",
+    "stars": 70,
+    "language": "JavaScript",
+    "updated_at": "2026-04-20T09:37:22Z"
   },
   {
     "name": "agent-startup-kit",
@@ -63,22 +72,13 @@
     "updated_at": "2026-04-20T05:05:31Z"
   },
   {
-    "name": "alice",
-    "full_name": "simoncirstoiu/alice",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-    "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 44,
-    "language": "JavaScript",
-    "updated_at": "2026-04-20T06:00:47Z"
-  },
-  {
     "name": "ennoia",
     "full_name": "vunone/ennoia",
     "description": "Declarative Document Indexing (DDI) framework for Python. Define schemas, extract structured indices, search smarter.",
     "url": "https://github.com/vunone/ennoia",
     "stars": 35,
     "language": "Python",
-    "updated_at": "2026-04-20T04:19:47Z"
+    "updated_at": "2026-04-20T09:03:54Z"
   },
   {
     "name": "reef",
