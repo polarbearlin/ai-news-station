@@ -1,48 +1,39 @@
 [
   {
-    "name": "design-extract",
-    "full_name": "Manavarya09/design-extract",
-    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-    "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1079,
-    "language": "JavaScript",
-    "updated_at": "2026-04-19T20:31:03Z"
-  },
-  {
     "name": "OpenMythos",
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 1025,
+    "stars": 1620,
     "language": "Python",
-    "updated_at": "2026-04-19T20:38:30Z"
+    "updated_at": "2026-04-20T02:44:40Z"
+  },
+  {
+    "name": "design-extract",
+    "full_name": "Manavarya09/design-extract",
+    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "stars": 1091,
+    "language": "JavaScript",
+    "updated_at": "2026-04-20T02:44:26Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 962,
+    "stars": 971,
     "language": null,
-    "updated_at": "2026-04-19T19:31:52Z"
-  },
-  {
-    "name": "GEOFlow",
-    "full_name": "yaojingang/GEOFlow",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-    "url": "https://github.com/yaojingang/GEOFlow",
-    "stars": 848,
-    "language": "PHP",
-    "updated_at": "2026-04-19T18:37:01Z"
+    "updated_at": "2026-04-20T02:42:11Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 469,
+    "stars": 476,
     "language": "JavaScript",
-    "updated_at": "2026-04-19T20:26:51Z"
+    "updated_at": "2026-04-20T02:35:26Z"
   },
   {
     "name": "WorldSeed",
@@ -58,35 +49,44 @@
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 116,
+    "stars": 118,
     "language": "TypeScript",
-    "updated_at": "2026-04-19T20:23:34Z"
+    "updated_at": "2026-04-19T22:43:11Z"
   },
   {
     "name": "ennoia",
     "full_name": "vunone/ennoia",
     "description": "Declarative Document Indexing (DDI) framework for Python. Define schemas, extract structured indices, search smarter.",
     "url": "https://github.com/vunone/ennoia",
-    "stars": 32,
+    "stars": 34,
     "language": "Python",
-    "updated_at": "2026-04-19T20:32:46Z"
-  },
-  {
-    "name": "claude-bedrock",
-    "full_name": "iurykrieger/claude-bedrock",
-    "description": "Second Brain automation for Obsidian vaults — entity management, ingestion, compression, and sync via Claude Code skills",
-    "url": "https://github.com/iurykrieger/claude-bedrock",
-    "stars": 28,
-    "language": "HTML",
-    "updated_at": "2026-04-19T16:20:31Z"
+    "updated_at": "2026-04-19T21:56:56Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 28,
+    "stars": 33,
     "language": "JavaScript",
-    "updated_at": "2026-04-19T20:34:11Z"
+    "updated_at": "2026-04-19T21:44:07Z"
+  },
+  {
+    "name": "reef",
+    "full_name": "Blushyes/reef",
+    "description": " The minimal dev terminal for the AI coding era — AI writes the code, Reef is   where you review it.",
+    "url": "https://github.com/Blushyes/reef",
+    "stars": 23,
+    "language": "Rust",
+    "updated_at": "2026-04-19T18:57:49Z"
+  },
+  {
+    "name": "ghostwriter",
+    "full_name": "ycedrick/ghostwriter",
+    "description": "GhostWriter reduces API costs and improves AI debugging accuracy by ensuring the AI remains focused only on the logic relevant to the failure, even in files that exceed standard token limits.",
+    "url": "https://github.com/ycedrick/ghostwriter",
+    "stars": 22,
+    "language": "TypeScript",
+    "updated_at": "2026-04-19T11:40:19Z"
   }
 ]
