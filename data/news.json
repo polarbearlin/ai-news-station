@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-04-20 17:04:12",
+  "generated_at": "2026-04-20 20:48:18",
   "news": [
     {
-      "title": "Atlassian Enables Default Data Collection to Train AI",
-      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "title": "Tim Cook to become Apple Executive Chairman",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
       "source": "Hacker News",
-      "time": "2026-04-20 12:23",
-      "score": 273,
-      "comments": 66
+      "time": "2026-04-20 20:39",
+      "score": 72,
+      "comments": 15
+    },
+    {
+      "title": "AI Resistance Is Growing",
+      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "source": "Hacker News",
+      "time": "2026-04-20 20:19",
+      "score": 54,
+      "comments": 6
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
       "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
       "source": "Hacker News",
       "time": "2026-04-20 15:41",
-      "score": 78,
-      "comments": 72
+      "score": 207,
+      "comments": 212
     }
   ]
 }

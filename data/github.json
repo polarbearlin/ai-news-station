@@ -4,36 +4,36 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 3573,
+    "stars": 3920,
     "language": "Python",
-    "updated_at": "2026-04-20T17:03:59Z"
+    "updated_at": "2026-04-20T20:47:42Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1131,
+    "stars": 1138,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T16:37:25Z"
+    "updated_at": "2026-04-20T20:13:05Z"
   },
   {
     "name": "BuilderPulse",
     "full_name": "BuilderPulse/BuilderPulse",
     "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
     "url": "https://github.com/BuilderPulse/BuilderPulse",
-    "stars": 1011,
+    "stars": 1014,
     "language": null,
-    "updated_at": "2026-04-20T16:06:23Z"
+    "updated_at": "2026-04-20T17:59:19Z"
   },
   {
     "name": "design-md-chrome",
     "full_name": "bergside/design-md-chrome",
     "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
     "url": "https://github.com/bergside/design-md-chrome",
-    "stars": 599,
+    "stars": 629,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T17:04:04Z"
+    "updated_at": "2026-04-20T20:42:56Z"
   },
   {
     "name": "WorldSeed",
@@ -49,27 +49,36 @@
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 137,
+    "stars": 144,
     "language": "TypeScript",
-    "updated_at": "2026-04-20T16:51:13Z"
+    "updated_at": "2026-04-20T19:58:04Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 82,
+    "stars": 86,
     "language": "JavaScript",
-    "updated_at": "2026-04-20T17:00:07Z"
+    "updated_at": "2026-04-20T19:13:35Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 56,
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-04-20T16:09:57Z"
+    "updated_at": "2026-04-20T20:00:58Z"
+  },
+  {
+    "name": "cavemem",
+    "full_name": "JuliusBrussee/cavemem",
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "stars": 51,
+    "language": "TypeScript",
+    "updated_at": "2026-04-20T19:33:01Z"
   },
   {
     "name": "agent-startup-kit",
@@ -79,14 +88,5 @@
     "stars": 49,
     "language": null,
     "updated_at": "2026-04-20T13:23:39Z"
-  },
-  {
-    "name": "cavemem",
-    "full_name": "JuliusBrussee/cavemem",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
-    "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 46,
-    "language": "TypeScript",
-    "updated_at": "2026-04-20T16:49:23Z"
   }
 ]
