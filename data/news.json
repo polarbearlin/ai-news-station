@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-04-21 17:02:47",
+  "generated_at": "2026-04-21 20:53:46",
   "news": [
     {
-      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
       "url": "https://github.com/ENTERPILOT/GOModel/",
       "source": "Hacker News",
       "time": "2026-04-21 14:11",
-      "score": 63,
-      "comments": 16
-    },
-    {
-      "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
-      "source": "Hacker News",
-      "time": "2026-04-21 17:01",
-      "score": 1,
-      "comments": 0
+      "score": 137,
+      "comments": 51
     }
   ]
 }

@@ -4,54 +4,54 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 6089,
+    "stars": 6517,
     "language": "Python",
-    "updated_at": "2026-04-21T17:02:30Z"
+    "updated_at": "2026-04-21T20:53:45Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1246,
+    "stars": 1264,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T17:00:58Z"
-  },
-  {
-    "name": "open-carrusel",
-    "full_name": "Hainrixz/open-carrusel",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
-    "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 155,
-    "language": "TypeScript",
-    "updated_at": "2026-04-21T16:34:03Z"
-  },
-  {
-    "name": "WorldSeed",
-    "full_name": "AIScientists-Dev/WorldSeed",
-    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
-    "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 155,
-    "language": "Python",
-    "updated_at": "2026-04-21T10:20:06Z"
+    "updated_at": "2026-04-21T20:52:49Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 153,
+    "stars": 158,
     "language": null,
-    "updated_at": "2026-04-21T16:59:34Z"
+    "updated_at": "2026-04-21T20:04:37Z"
+  },
+  {
+    "name": "open-carrusel",
+    "full_name": "Hainrixz/open-carrusel",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
+    "url": "https://github.com/Hainrixz/open-carrusel",
+    "stars": 157,
+    "language": "TypeScript",
+    "updated_at": "2026-04-21T19:43:11Z"
+  },
+  {
+    "name": "WorldSeed",
+    "full_name": "AIScientists-Dev/WorldSeed",
+    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
+    "url": "https://github.com/AIScientists-Dev/WorldSeed",
+    "stars": 156,
+    "language": "Python",
+    "updated_at": "2026-04-21T17:41:23Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 124,
+    "stars": 130,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T16:25:44Z"
+    "updated_at": "2026-04-21T20:27:31Z"
   },
   {
     "name": "hi-kid",
@@ -67,9 +67,18 @@
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 69,
+    "stars": 73,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T16:49:37Z"
+    "updated_at": "2026-04-21T20:42:12Z"
+  },
+  {
+    "name": "ai-attestation",
+    "full_name": "Korext/ai-attestation",
+    "description": "Track AI generated code in your repository. Open standard. Detects 19 AI coding tools. CC0 spec.",
+    "url": "https://github.com/Korext/ai-attestation",
+    "stars": 40,
+    "language": "JavaScript",
+    "updated_at": "2026-04-21T20:52:19Z"
   },
   {
     "name": "ennoia",
@@ -79,14 +88,5 @@
     "stars": 36,
     "language": "Python",
     "updated_at": "2026-04-21T07:15:21Z"
-  },
-  {
-    "name": "agentodyssey",
-    "full_name": "agentodyssey/agentodyssey",
-    "description": "Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
-    "url": "https://github.com/agentodyssey/agentodyssey",
-    "stars": 33,
-    "language": "Python",
-    "updated_at": "2026-04-21T16:45:56Z"
   }
 ]
