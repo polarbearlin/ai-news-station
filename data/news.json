@@ -1,21 +1,45 @@
 {
-  "generated_at": "2026-04-21 02:38:27",
+  "generated_at": "2026-04-21 06:02:35",
   "news": [
     {
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
       "source": "Hacker News",
-      "time": "2026-04-18 02:51",
-      "score": 60,
-      "comments": 12
+      "time": "2026-04-21 03:43",
+      "score": 39,
+      "comments": 19
     },
     {
-      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "url": "https://github.com/gizmo64k/soulplayer-c64",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
       "source": "Hacker News",
-      "time": "2026-04-20 19:51",
-      "score": 82,
-      "comments": 21
+      "time": "2026-04-21 04:12",
+      "score": 68,
+      "comments": 24
+    },
+    {
+      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "url": "https://mediator.ai/",
+      "source": "Hacker News",
+      "time": "2026-04-20 15:07",
+      "score": 20,
+      "comments": 5
+    },
+    {
+      "title": "The Beauty of Bonsai Styles",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "source": "Hacker News",
+      "time": "2026-04-21 04:31",
+      "score": 12,
+      "comments": 1
+    },
+    {
+      "title": "How a subsea cable is repaired",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "source": "Hacker News",
+      "time": "2026-04-16 18:25",
+      "score": 30,
+      "comments": 7
     }
   ]
 }
