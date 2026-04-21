@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-21 13:28:20",
+  "generated_at": "2026-04-21 17:02:47",
   "news": [
     {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
       "source": "Hacker News",
-      "time": "2026-04-21 03:43",
-      "score": 294,
-      "comments": 180
+      "time": "2026-04-21 14:11",
+      "score": 63,
+      "comments": 16
+    },
+    {
+      "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+      "source": "Hacker News",
+      "time": "2026-04-21 17:01",
+      "score": 1,
+      "comments": 0
     }
   ]
 }

@@ -4,27 +4,27 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 5501,
+    "stars": 6089,
     "language": "Python",
-    "updated_at": "2026-04-21T13:27:54Z"
+    "updated_at": "2026-04-21T17:02:30Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1212,
+    "stars": 1246,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T13:18:09Z"
+    "updated_at": "2026-04-21T17:00:58Z"
   },
   {
-    "name": "open-codesign",
-    "full_name": "OpenCoworkAI/open-codesign",
-    "description": "Open-source AI design tool — prompt to interactive prototype, slide deck, PDF & marketing assets. Multi-model (Anthropic, OpenAI, Gemini, DeepSeek, Ollama), BYOK, local-first. The open counterpart to Claude Design.",
-    "url": "https://github.com/OpenCoworkAI/open-codesign",
-    "stars": 165,
+    "name": "open-carrusel",
+    "full_name": "Hainrixz/open-carrusel",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
+    "url": "https://github.com/Hainrixz/open-carrusel",
+    "stars": 155,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T13:26:33Z"
+    "updated_at": "2026-04-21T16:34:03Z"
   },
   {
     "name": "WorldSeed",
@@ -36,49 +36,40 @@
     "updated_at": "2026-04-21T10:20:06Z"
   },
   {
-    "name": "open-carrusel",
-    "full_name": "Hainrixz/open-carrusel",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
-    "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 151,
-    "language": "TypeScript",
-    "updated_at": "2026-04-21T11:25:25Z"
-  },
-  {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 146,
+    "stars": 153,
     "language": null,
-    "updated_at": "2026-04-21T13:23:35Z"
+    "updated_at": "2026-04-21T16:59:34Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 114,
+    "stars": 124,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T13:24:03Z"
+    "updated_at": "2026-04-21T16:25:44Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 109,
+    "stars": 117,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T13:18:30Z"
+    "updated_at": "2026-04-21T15:32:08Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 64,
+    "stars": 69,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T10:51:33Z"
+    "updated_at": "2026-04-21T16:49:37Z"
   },
   {
     "name": "ennoia",
@@ -88,5 +79,14 @@
     "stars": 36,
     "language": "Python",
     "updated_at": "2026-04-21T07:15:21Z"
+  },
+  {
+    "name": "agentodyssey",
+    "full_name": "agentodyssey/agentodyssey",
+    "description": "Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
+    "url": "https://github.com/agentodyssey/agentodyssey",
+    "stars": 33,
+    "language": "Python",
+    "updated_at": "2026-04-21T16:45:56Z"
   }
 ]
