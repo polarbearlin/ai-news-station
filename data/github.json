@@ -4,18 +4,18 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 4675,
+    "stars": 4959,
     "language": "Python",
-    "updated_at": "2026-04-21T06:02:35Z"
+    "updated_at": "2026-04-21T09:25:54Z"
   },
   {
     "name": "design-extract",
     "full_name": "Manavarya09/design-extract",
     "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
     "url": "https://github.com/Manavarya09/design-extract",
-    "stars": 1175,
+    "stars": 1195,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T05:49:25Z"
+    "updated_at": "2026-04-21T09:20:05Z"
   },
   {
     "name": "WorldSeed",
@@ -31,62 +31,62 @@
     "full_name": "Hainrixz/open-carrusel",
     "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
     "url": "https://github.com/Hainrixz/open-carrusel",
-    "stars": 149,
+    "stars": 150,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T00:36:13Z"
+    "updated_at": "2026-04-21T09:19:07Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 110,
+    "stars": 141,
     "language": null,
-    "updated_at": "2026-04-21T05:54:14Z"
+    "updated_at": "2026-04-21T09:16:34Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 96,
+    "stars": 104,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T05:26:06Z"
+    "updated_at": "2026-04-21T09:16:47Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 87,
+    "stars": 101,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T04:30:57Z"
+    "updated_at": "2026-04-21T09:20:05Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 56,
+    "stars": 60,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T02:51:17Z"
+    "updated_at": "2026-04-21T09:20:40Z"
   },
   {
     "name": "ennoia",
     "full_name": "vunone/ennoia",
     "description": "Declarative Document Indexing (DDI) framework for Python. Define schemas, extract structured indices, search smarter.",
     "url": "https://github.com/vunone/ennoia",
-    "stars": 35,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-04-20T17:10:58Z"
+    "updated_at": "2026-04-21T07:15:21Z"
   },
   {
-    "name": "agentodyssey",
-    "full_name": "agentodyssey/agentodyssey",
-    "description": "Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
-    "url": "https://github.com/agentodyssey/agentodyssey",
-    "stars": 27,
-    "language": "Python",
-    "updated_at": "2026-04-21T02:50:39Z"
+    "name": "ai-attestation",
+    "full_name": "Korext/ai-attestation",
+    "description": "Track AI generated code in your repository. Open standard. Detects 19 AI coding tools. CC0 spec.",
+    "url": "https://github.com/Korext/ai-attestation",
+    "stars": 33,
+    "language": "JavaScript",
+    "updated_at": "2026-04-21T07:57:41Z"
   }
 ]
