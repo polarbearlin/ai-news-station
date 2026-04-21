@@ -1,53 +1,13 @@
 {
-  "generated_at": "2026-04-21 09:27:03",
+  "generated_at": "2026-04-21 13:28:20",
   "news": [
     {
       "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
       "url": "https://docs.openclaw.ai/providers/anthropic",
       "source": "Hacker News",
       "time": "2026-04-21 03:43",
-      "score": 180,
-      "comments": 103
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "source": "Hacker News",
-      "time": "2026-04-21 04:12",
-      "score": 142,
-      "comments": 66
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "source": "Hacker News",
-      "time": "2026-04-21 04:31",
-      "score": 64,
-      "comments": 16
-    },
-    {
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "source": "Hacker News",
-      "time": "2026-04-21 05:27",
-      "score": 27,
-      "comments": 5
-    },
-    {
-      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-      "url": "https://mediator.ai/",
-      "source": "Hacker News",
-      "time": "2026-04-20 15:07",
-      "score": 60,
-      "comments": 26
-    },
-    {
-      "title": "Types and Neural Networks",
-      "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
-      "source": "Hacker News",
-      "time": "2026-04-21 05:59",
-      "score": 23,
-      "comments": 4
+      "score": 294,
+      "comments": 180
     }
   ]
 }
