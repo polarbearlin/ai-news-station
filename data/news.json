@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-04-20 20:48:18",
+  "generated_at": "2026-04-21 02:38:27",
   "news": [
     {
-      "title": "Tim Cook to become Apple Executive Chairman",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "url": "https://prismml.com/news/ternary-bonsai",
       "source": "Hacker News",
-      "time": "2026-04-20 20:39",
-      "score": 72,
-      "comments": 15
+      "time": "2026-04-18 02:51",
+      "score": 60,
+      "comments": 12
     },
     {
-      "title": "AI Resistance Is Growing",
-      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+      "url": "https://github.com/gizmo64k/soulplayer-c64",
       "source": "Hacker News",
-      "time": "2026-04-20 20:19",
-      "score": 54,
-      "comments": 6
-    },
-    {
-      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "source": "Hacker News",
-      "time": "2026-04-20 15:41",
-      "score": 207,
-      "comments": 212
+      "time": "2026-04-20 19:51",
+      "score": 82,
+      "comments": 21
     }
   ]
 }
