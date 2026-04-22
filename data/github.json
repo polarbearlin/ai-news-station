@@ -4,27 +4,27 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 8512,
+    "stars": 8714,
     "language": "Python",
-    "updated_at": "2026-04-22T17:01:13Z"
+    "updated_at": "2026-04-22T20:55:09Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 220,
+    "stars": 225,
     "language": null,
-    "updated_at": "2026-04-22T17:01:13Z"
+    "updated_at": "2026-04-22T20:32:32Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 161,
+    "stars": 169,
     "language": "JavaScript",
-    "updated_at": "2026-04-22T16:50:22Z"
+    "updated_at": "2026-04-22T20:29:39Z"
   },
   {
     "name": "hi-kid",
@@ -40,36 +40,36 @@
     "full_name": "Korext/ai-attestation",
     "description": "Track AI generated code in your repository. Open standard. Detects 19 AI coding tools. CC0 spec.",
     "url": "https://github.com/Korext/ai-attestation",
-    "stars": 144,
+    "stars": 145,
     "language": "JavaScript",
-    "updated_at": "2026-04-22T16:11:48Z"
+    "updated_at": "2026-04-22T18:54:09Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 87,
+    "stars": 90,
     "language": "TypeScript",
-    "updated_at": "2026-04-22T16:19:03Z"
+    "updated_at": "2026-04-22T19:45:10Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 60,
+    "stars": 65,
     "language": "CSS",
-    "updated_at": "2026-04-22T16:36:27Z"
+    "updated_at": "2026-04-22T20:32:40Z"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 45,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-04-22T16:10:24Z"
+    "updated_at": "2026-04-22T20:52:45Z"
   },
   {
     "name": "agentodyssey",
@@ -85,8 +85,8 @@
     "full_name": "MatthewK78/Rose",
     "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
     "url": "https://github.com/MatthewK78/Rose",
-    "stars": 28,
+    "stars": 29,
     "language": "Python",
-    "updated_at": "2026-04-22T16:53:38Z"
+    "updated_at": "2026-04-22T19:45:48Z"
   }
 ]
