@@ -4,54 +4,54 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 7138,
+    "stars": 7533,
     "language": "Python",
-    "updated_at": "2026-04-22T02:36:45Z"
+    "updated_at": "2026-04-22T05:58:59Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 173,
+    "stars": 185,
     "language": null,
-    "updated_at": "2026-04-22T02:28:46Z"
+    "updated_at": "2026-04-22T05:59:51Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 138,
+    "stars": 141,
     "language": "JavaScript",
-    "updated_at": "2026-04-22T01:32:15Z"
+    "updated_at": "2026-04-22T05:54:58Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 118,
+    "stars": 126,
     "language": "TypeScript",
-    "updated_at": "2026-04-22T00:38:05Z"
+    "updated_at": "2026-04-22T05:54:08Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 77,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-04-21T23:55:09Z"
+    "updated_at": "2026-04-22T04:29:56Z"
   },
   {
     "name": "ai-attestation",
     "full_name": "Korext/ai-attestation",
     "description": "Track AI generated code in your repository. Open standard. Detects 19 AI coding tools. CC0 spec.",
     "url": "https://github.com/Korext/ai-attestation",
-    "stars": 75,
+    "stars": 79,
     "language": "JavaScript",
-    "updated_at": "2026-04-21T22:15:15Z"
+    "updated_at": "2026-04-22T05:18:56Z"
   },
   {
     "name": "agentodyssey",
@@ -69,7 +69,7 @@
     "url": "https://github.com/Blushyes/reef",
     "stars": 27,
     "language": "Rust",
-    "updated_at": "2026-04-21T18:01:34Z"
+    "updated_at": "2026-04-22T03:31:30Z"
   },
   {
     "name": "Rose",
@@ -78,7 +78,7 @@
     "url": "https://github.com/MatthewK78/Rose",
     "stars": 25,
     "language": "Python",
-    "updated_at": "2026-04-21T23:25:07Z"
+    "updated_at": "2026-04-22T02:46:29Z"
   },
   {
     "name": "mmx-mcp-server",

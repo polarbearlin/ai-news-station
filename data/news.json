@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-04-22 02:37:11",
+  "generated_at": "2026-04-22 06:00:03",
   "news": [
     {
       "title": "ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "source": "Hacker News",
       "time": "2026-04-21 18:50",
-      "score": 480,
-      "comments": 438
-    },
-    {
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "url": "https://www.brex.com/crabtrap",
-      "source": "Hacker News",
-      "time": "2026-04-21 15:29",
-      "score": 84,
-      "comments": 20
-    },
-    {
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-      "source": "Hacker News",
-      "time": "2026-04-18 10:53",
-      "score": 141,
-      "comments": 68
+      "score": 657,
+      "comments": 528
     }
   ]
 }
