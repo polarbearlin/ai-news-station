@@ -4,36 +4,36 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 8021,
+    "stars": 8302,
     "language": "Python",
-    "updated_at": "2026-04-22T09:20:54Z"
+    "updated_at": "2026-04-22T13:27:54Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 189,
+    "stars": 197,
     "language": null,
-    "updated_at": "2026-04-22T08:47:56Z"
-  },
-  {
-    "name": "alice",
-    "full_name": "simoncirstoiu/alice",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-    "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 146,
-    "language": "JavaScript",
-    "updated_at": "2026-04-22T09:07:39Z"
+    "updated_at": "2026-04-22T13:12:36Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 144,
+    "stars": 155,
     "language": "TypeScript",
-    "updated_at": "2026-04-22T09:18:23Z"
+    "updated_at": "2026-04-22T13:23:19Z"
+  },
+  {
+    "name": "alice",
+    "full_name": "simoncirstoiu/alice",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+    "url": "https://github.com/simoncirstoiu/alice",
+    "stars": 152,
+    "language": "JavaScript",
+    "updated_at": "2026-04-22T13:16:41Z"
   },
   {
     "name": "ai-attestation",
@@ -49,18 +49,36 @@
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 80,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-04-22T07:18:52Z"
+    "updated_at": "2026-04-22T13:19:01Z"
+  },
+  {
+    "name": "intro-agentic-ai",
+    "full_name": "riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 39,
+    "language": "CSS",
+    "updated_at": "2026-04-22T13:15:47Z"
   },
   {
     "name": "agentodyssey",
     "full_name": "agentodyssey/agentodyssey",
     "description": "Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
     "url": "https://github.com/agentodyssey/agentodyssey",
-    "stars": 36,
+    "stars": 37,
     "language": "Python",
-    "updated_at": "2026-04-21T23:22:02Z"
+    "updated_at": "2026-04-22T10:35:27Z"
+  },
+  {
+    "name": "reef",
+    "full_name": "Blushyes/reef",
+    "description": " The minimal dev terminal for the AI coding era — AI writes the code, Reef is  where you review it.",
+    "url": "https://github.com/Blushyes/reef",
+    "stars": 28,
+    "language": "Rust",
+    "updated_at": "2026-04-22T10:15:41Z"
   },
   {
     "name": "Rose",
@@ -70,23 +88,5 @@
     "stars": 27,
     "language": "Python",
     "updated_at": "2026-04-22T08:16:38Z"
-  },
-  {
-    "name": "reef",
-    "full_name": "Blushyes/reef",
-    "description": " The minimal dev terminal for the AI coding era — AI writes the code, Reef is  where you review it.",
-    "url": "https://github.com/Blushyes/reef",
-    "stars": 27,
-    "language": "Rust",
-    "updated_at": "2026-04-22T09:04:08Z"
-  },
-  {
-    "name": "intro-agentic-ai",
-    "full_name": "riverscn/intro-agentic-ai",
-    "description": "认识 Agentic AI：从神经网络到智能体",
-    "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 22,
-    "language": "CSS",
-    "updated_at": "2026-04-22T09:17:16Z"
   }
 ]
