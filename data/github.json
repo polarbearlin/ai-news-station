@@ -4,54 +4,54 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 7533,
+    "stars": 8021,
     "language": "Python",
-    "updated_at": "2026-04-22T05:58:59Z"
+    "updated_at": "2026-04-22T09:20:54Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 185,
+    "stars": 189,
     "language": null,
-    "updated_at": "2026-04-22T05:59:51Z"
+    "updated_at": "2026-04-22T08:47:56Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 141,
+    "stars": 146,
     "language": "JavaScript",
-    "updated_at": "2026-04-22T05:54:58Z"
+    "updated_at": "2026-04-22T09:07:39Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 126,
+    "stars": 144,
     "language": "TypeScript",
-    "updated_at": "2026-04-22T05:54:08Z"
-  },
-  {
-    "name": "cavemem",
-    "full_name": "JuliusBrussee/cavemem",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
-    "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 79,
-    "language": "TypeScript",
-    "updated_at": "2026-04-22T04:29:56Z"
+    "updated_at": "2026-04-22T09:18:23Z"
   },
   {
     "name": "ai-attestation",
     "full_name": "Korext/ai-attestation",
     "description": "Track AI generated code in your repository. Open standard. Detects 19 AI coding tools. CC0 spec.",
     "url": "https://github.com/Korext/ai-attestation",
-    "stars": 79,
+    "stars": 132,
     "language": "JavaScript",
-    "updated_at": "2026-04-22T05:18:56Z"
+    "updated_at": "2026-04-22T08:36:10Z"
+  },
+  {
+    "name": "cavemem",
+    "full_name": "JuliusBrussee/cavemem",
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "stars": 80,
+    "language": "TypeScript",
+    "updated_at": "2026-04-22T07:18:52Z"
   },
   {
     "name": "agentodyssey",
@@ -63,30 +63,30 @@
     "updated_at": "2026-04-21T23:22:02Z"
   },
   {
+    "name": "Rose",
+    "full_name": "MatthewK78/Rose",
+    "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
+    "url": "https://github.com/MatthewK78/Rose",
+    "stars": 27,
+    "language": "Python",
+    "updated_at": "2026-04-22T08:16:38Z"
+  },
+  {
     "name": "reef",
     "full_name": "Blushyes/reef",
     "description": " The minimal dev terminal for the AI coding era — AI writes the code, Reef is  where you review it.",
     "url": "https://github.com/Blushyes/reef",
     "stars": 27,
     "language": "Rust",
-    "updated_at": "2026-04-22T03:31:30Z"
+    "updated_at": "2026-04-22T09:04:08Z"
   },
   {
-    "name": "Rose",
-    "full_name": "MatthewK78/Rose",
-    "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
-    "url": "https://github.com/MatthewK78/Rose",
-    "stars": 25,
-    "language": "Python",
-    "updated_at": "2026-04-22T02:46:29Z"
-  },
-  {
-    "name": "mmx-mcp-server",
-    "full_name": "zth0828/mmx-mcp-server",
-    "description": "A unified Model Context Protocol server for MiniMax CLI (mmx)",
-    "url": "https://github.com/zth0828/mmx-mcp-server",
-    "stars": 21,
-    "language": "JavaScript",
-    "updated_at": "2026-04-22T00:40:23Z"
+    "name": "intro-agentic-ai",
+    "full_name": "riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 22,
+    "language": "CSS",
+    "updated_at": "2026-04-22T09:17:16Z"
   }
 ]
