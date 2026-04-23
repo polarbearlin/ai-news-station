@@ -4,63 +4,72 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 8929,
+    "stars": 9052,
     "language": "Python",
-    "updated_at": "2026-04-23T02:36:47Z"
+    "updated_at": "2026-04-23T06:03:19Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 229,
+    "stars": 232,
     "language": null,
-    "updated_at": "2026-04-23T02:10:22Z"
+    "updated_at": "2026-04-23T05:05:41Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 192,
+    "stars": 214,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T02:27:10Z"
+    "updated_at": "2026-04-23T05:59:35Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 166,
+    "stars": 175,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T02:15:03Z"
+    "updated_at": "2026-04-23T06:04:50Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 91,
+    "stars": 94,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T01:42:34Z"
+    "updated_at": "2026-04-23T05:52:50Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 78,
+    "stars": 83,
     "language": "CSS",
-    "updated_at": "2026-04-23T02:14:26Z"
+    "updated_at": "2026-04-23T05:57:29Z"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 58,
+    "stars": 71,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T02:22:30Z"
+    "updated_at": "2026-04-23T06:00:52Z"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 45,
+    "language": "JavaScript",
+    "updated_at": "2026-04-23T05:54:36Z"
   },
   {
     "name": "agentodyssey",
@@ -79,14 +88,5 @@
     "stars": 30,
     "language": "Python",
     "updated_at": "2026-04-22T23:08:09Z"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 25,
-    "language": "JavaScript",
-    "updated_at": "2026-04-23T02:24:27Z"
   }
 ]
