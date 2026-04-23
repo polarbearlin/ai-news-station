@@ -4,27 +4,27 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9052,
+    "stars": 9212,
     "language": "Python",
-    "updated_at": "2026-04-23T06:03:19Z"
+    "updated_at": "2026-04-23T09:44:34Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 232,
+    "stars": 233,
     "language": null,
-    "updated_at": "2026-04-23T05:05:41Z"
+    "updated_at": "2026-04-23T07:27:36Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 214,
+    "stars": 230,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T05:59:35Z"
+    "updated_at": "2026-04-23T09:36:33Z"
   },
   {
     "name": "hi-kid",
@@ -40,36 +40,36 @@
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 94,
+    "stars": 97,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T05:52:50Z"
-  },
-  {
-    "name": "intro-agentic-ai",
-    "full_name": "riverscn/intro-agentic-ai",
-    "description": "认识 Agentic AI：从神经网络到智能体",
-    "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 83,
-    "language": "CSS",
-    "updated_at": "2026-04-23T05:57:29Z"
+    "updated_at": "2026-04-23T09:28:20Z"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 71,
+    "stars": 89,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T06:00:52Z"
+    "updated_at": "2026-04-23T09:38:55Z"
+  },
+  {
+    "name": "intro-agentic-ai",
+    "full_name": "riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 85,
+    "language": "CSS",
+    "updated_at": "2026-04-23T09:07:16Z"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 45,
+    "stars": 79,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T05:54:36Z"
+    "updated_at": "2026-04-23T09:13:24Z"
   },
   {
     "name": "agentodyssey",
