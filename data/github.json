@@ -4,72 +4,72 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9212,
+    "stars": 9402,
     "language": "Python",
-    "updated_at": "2026-04-23T09:44:34Z"
-  },
-  {
-    "name": "agent-startup-kit",
-    "full_name": "Blink-h/agent-startup-kit",
-    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-    "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 233,
-    "language": null,
-    "updated_at": "2026-04-23T07:27:36Z"
+    "updated_at": "2026-04-23T13:42:14Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 230,
+    "stars": 236,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T09:36:33Z"
+    "updated_at": "2026-04-23T11:45:22Z"
+  },
+  {
+    "name": "agent-startup-kit",
+    "full_name": "Blink-h/agent-startup-kit",
+    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
+    "url": "https://github.com/Blink-h/agent-startup-kit",
+    "stars": 234,
+    "language": null,
+    "updated_at": "2026-04-23T10:09:55Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+    "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 175,
+    "stars": 178,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T06:04:50Z"
+    "updated_at": "2026-04-23T13:35:23Z"
+  },
+  {
+    "name": "WorldX",
+    "full_name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 118,
+    "language": "TypeScript",
+    "updated_at": "2026-04-23T13:20:44Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 97,
+    "stars": 104,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T09:28:20Z"
-  },
-  {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 89,
-    "language": "TypeScript",
-    "updated_at": "2026-04-23T09:38:55Z"
-  },
-  {
-    "name": "intro-agentic-ai",
-    "full_name": "riverscn/intro-agentic-ai",
-    "description": "认识 Agentic AI：从神经网络到智能体",
-    "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 85,
-    "language": "CSS",
-    "updated_at": "2026-04-23T09:07:16Z"
+    "updated_at": "2026-04-23T13:18:20Z"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 79,
+    "stars": 101,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T09:13:24Z"
+    "updated_at": "2026-04-23T13:38:34Z"
+  },
+  {
+    "name": "intro-agentic-ai",
+    "full_name": "riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 87,
+    "language": "CSS",
+    "updated_at": "2026-04-23T11:27:45Z"
   },
   {
     "name": "agentodyssey",
