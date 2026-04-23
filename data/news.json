@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-04-23 17:21:00",
+  "generated_at": "2026-04-23 20:53:23",
   "news": [
     {
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "source": "Hacker News",
+      "time": "2026-04-23 18:01",
+      "score": 744,
+      "comments": 366
+    },
+    {
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "source": "Hacker News",
       "time": "2026-04-23 14:17",
-      "score": 309,
-      "comments": 149
+      "score": 493,
+      "comments": 228
     },
     {
-      "title": "'Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet",
-      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+      "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
       "source": "Hacker News",
-      "time": "2026-04-23 17:01",
-      "score": 19,
-      "comments": 2
+      "time": "2026-04-23 19:43",
+      "score": 56,
+      "comments": 6
+    },
+    {
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "source": "Hacker News",
+      "time": "2026-04-23 16:55",
+      "score": 83,
+      "comments": 51
     }
   ]
 }
