@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-23 13:43:55",
+  "generated_at": "2026-04-23 17:21:00",
   "news": [
     {
-      "title": "A Renaissance gambling dispute spawned probability theory",
-      "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "source": "Hacker News",
-      "time": "2026-04-21 12:59",
-      "score": 12,
-      "comments": 1
+      "time": "2026-04-23 14:17",
+      "score": 309,
+      "comments": 149
+    },
+    {
+      "title": "'Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet",
+      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+      "source": "Hacker News",
+      "time": "2026-04-23 17:01",
+      "score": 19,
+      "comments": 2
     }
   ]
 }

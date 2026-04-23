@@ -4,72 +4,81 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9402,
+    "stars": 9533,
     "language": "Python",
-    "updated_at": "2026-04-23T13:42:14Z"
+    "updated_at": "2026-04-23T17:19:15Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 236,
+    "stars": 246,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T11:45:22Z"
+    "updated_at": "2026-04-23T17:05:06Z"
   },
   {
     "name": "agent-startup-kit",
     "full_name": "Blink-h/agent-startup-kit",
     "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
     "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 234,
+    "stars": 237,
     "language": null,
-    "updated_at": "2026-04-23T10:09:55Z"
+    "updated_at": "2026-04-23T16:46:51Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 178,
+    "stars": 179,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T13:35:23Z"
+    "updated_at": "2026-04-23T15:09:18Z"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 118,
+    "stars": 134,
     "language": "TypeScript",
-    "updated_at": "2026-04-23T13:20:44Z"
-  },
-  {
-    "name": "cavemem",
-    "full_name": "JuliusBrussee/cavemem",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
-    "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 104,
-    "language": "TypeScript",
-    "updated_at": "2026-04-23T13:18:20Z"
+    "updated_at": "2026-04-23T17:20:56Z"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 101,
+    "stars": 123,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T13:38:34Z"
+    "updated_at": "2026-04-23T17:12:33Z"
+  },
+  {
+    "name": "cavemem",
+    "full_name": "JuliusBrussee/cavemem",
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "stars": 112,
+    "language": "TypeScript",
+    "updated_at": "2026-04-23T16:57:27Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 87,
+    "stars": 88,
     "language": "CSS",
-    "updated_at": "2026-04-23T11:27:45Z"
+    "updated_at": "2026-04-23T14:33:33Z"
+  },
+  {
+    "name": "future-agi",
+    "full_name": "future-agi/future-agi",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+    "url": "https://github.com/future-agi/future-agi",
+    "stars": 58,
+    "language": "Python",
+    "updated_at": "2026-04-23T17:20:12Z"
   },
   {
     "name": "agentodyssey",
@@ -79,14 +88,5 @@
     "stars": 37,
     "language": "Python",
     "updated_at": "2026-04-22T10:35:27Z"
-  },
-  {
-    "name": "Rose",
-    "full_name": "MatthewK78/Rose",
-    "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
-    "url": "https://github.com/MatthewK78/Rose",
-    "stars": 30,
-    "language": "Python",
-    "updated_at": "2026-04-22T23:08:09Z"
   }
 ]
