@@ -4,63 +4,63 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9757,
+    "stars": 9826,
     "language": "Python",
-    "updated_at": "2026-04-24T02:40:54Z"
+    "updated_at": "2026-04-24T06:02:30Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 255,
+    "stars": 259,
     "language": "JavaScript",
-    "updated_at": "2026-04-23T21:43:52Z"
+    "updated_at": "2026-04-24T06:03:24Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 230,
+    "stars": 258,
     "language": "TypeScript",
-    "updated_at": "2026-04-24T02:36:39Z"
-  },
-  {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 149,
-    "language": "TypeScript",
-    "updated_at": "2026-04-24T02:28:10Z"
+    "updated_at": "2026-04-24T06:01:40Z"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 148,
+    "stars": 192,
     "language": "JavaScript",
-    "updated_at": "2026-04-24T02:30:56Z"
+    "updated_at": "2026-04-24T06:01:03Z"
+  },
+  {
+    "name": "WorldX",
+    "full_name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 156,
+    "language": "TypeScript",
+    "updated_at": "2026-04-24T05:19:05Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 127,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-04-24T02:13:27Z"
+    "updated_at": "2026-04-24T05:43:32Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 96,
+    "stars": 111,
     "language": "Python",
-    "updated_at": "2026-04-24T02:19:43Z"
+    "updated_at": "2026-04-24T05:29:17Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -68,8 +68,8 @@
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
     "stars": 88,
-    "language": "CSS",
-    "updated_at": "2026-04-24T02:16:23Z"
+    "language": "Vue",
+    "updated_at": "2026-04-24T04:23:39Z"
   },
   {
     "name": "LLM-Prompt-Orchestration-Engine",

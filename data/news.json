@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-04-24 02:41:22",
+  "generated_at": "2026-04-24 06:07:53",
   "news": [
+    {
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "source": "Hacker News",
+      "time": "2026-04-24 03:01",
+      "score": 476,
+      "comments": 199
+    },
     {
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
       "source": "Hacker News",
       "time": "2026-04-23 18:01",
-      "score": 1124,
-      "comments": 779
+      "score": 1245,
+      "comments": 840
     },
     {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "source": "Hacker News",
       "time": "2026-04-23 14:17",
-      "score": 660,
-      "comments": 324
+      "score": 713,
+      "comments": 348
+    },
+    {
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "source": "Hacker News",
+      "time": "2026-04-23 21:56",
+      "score": 125,
+      "comments": 182
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
       "source": "Hacker News",
       "time": "2026-04-23 16:55",
-      "score": 160,
-      "comments": 96
+      "score": 194,
+      "comments": 104
     }
   ]
 }
