@@ -1,53 +1,37 @@
 {
-  "generated_at": "2026-04-24 09:44:56",
+  "generated_at": "2026-04-24 13:25:18",
   "news": [
     {
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
+      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
       "source": "Hacker News",
-      "time": "2026-04-24 03:01",
-      "score": 937,
-      "comments": 579
+      "time": "2026-04-24 11:09",
+      "score": 122,
+      "comments": 43
     },
     {
       "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
       "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
       "source": "Hacker News",
       "time": "2026-04-24 09:17",
-      "score": 4,
-      "comments": 0
+      "score": 150,
+      "comments": 86
     },
     {
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "url": "https://ynarwal.github.io/how-llms-work/",
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
       "source": "Hacker News",
-      "time": "2026-04-24 06:48",
-      "score": 32,
-      "comments": 5
-    },
-    {
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "source": "Hacker News",
-      "time": "2026-04-23 18:01",
-      "score": 1371,
-      "comments": 901
+      "time": "2026-04-24 03:01",
+      "score": 1248,
+      "comments": 880
     },
     {
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
       "source": "Hacker News",
       "time": "2026-04-23 21:56",
-      "score": 241,
-      "comments": 284
-    },
-    {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "source": "Hacker News",
-      "time": "2026-04-23 14:17",
-      "score": 752,
-      "comments": 365
+      "score": 362,
+      "comments": 408
     }
   ]
 }
