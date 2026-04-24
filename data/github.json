@@ -4,72 +4,81 @@
     "full_name": "kyegomez/OpenMythos",
     "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "url": "https://github.com/kyegomez/OpenMythos",
-    "stars": 9826,
+    "stars": 9900,
     "language": "Python",
-    "updated_at": "2026-04-24T06:02:30Z"
-  },
-  {
-    "name": "alice",
-    "full_name": "simoncirstoiu/alice",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-    "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 259,
-    "language": "JavaScript",
-    "updated_at": "2026-04-24T06:03:24Z"
+    "updated_at": "2026-04-24T09:43:42Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 258,
+    "stars": 296,
     "language": "TypeScript",
-    "updated_at": "2026-04-24T06:01:40Z"
+    "updated_at": "2026-04-24T09:40:34Z"
+  },
+  {
+    "name": "alice",
+    "full_name": "simoncirstoiu/alice",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+    "url": "https://github.com/simoncirstoiu/alice",
+    "stars": 261,
+    "language": "JavaScript",
+    "updated_at": "2026-04-24T08:59:53Z"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 192,
+    "stars": 243,
     "language": "JavaScript",
-    "updated_at": "2026-04-24T06:01:03Z"
+    "updated_at": "2026-04-24T09:44:32Z"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 156,
+    "stars": 174,
     "language": "TypeScript",
-    "updated_at": "2026-04-24T05:19:05Z"
+    "updated_at": "2026-04-24T09:26:14Z"
   },
   {
     "name": "cavemem",
     "full_name": "JuliusBrussee/cavemem",
     "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
     "url": "https://github.com/JuliusBrussee/cavemem",
-    "stars": 130,
+    "stars": 134,
     "language": "TypeScript",
-    "updated_at": "2026-04-24T05:43:32Z"
+    "updated_at": "2026-04-24T08:34:38Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 111,
+    "stars": 126,
     "language": "Python",
-    "updated_at": "2026-04-24T05:29:17Z"
+    "updated_at": "2026-04-24T09:42:52Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 88,
+    "stars": 94,
     "language": "Vue",
-    "updated_at": "2026-04-24T04:23:39Z"
+    "updated_at": "2026-04-24T09:21:16Z"
+  },
+  {
+    "name": "ai-auto-work",
+    "full_name": "chaohong-ai/ai-auto-work",
+    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects.",
+    "url": "https://github.com/chaohong-ai/ai-auto-work",
+    "stars": 89,
+    "language": "Shell",
+    "updated_at": "2026-04-24T08:36:40Z"
   },
   {
     "name": "LLM-Prompt-Orchestration-Engine",
@@ -79,14 +88,5 @@
     "stars": 44,
     "language": "Python",
     "updated_at": "2026-04-23T20:51:16Z"
-  },
-  {
-    "name": "Neural-Vision-Cleanup-Suite",
-    "full_name": "rulecobeket742828/Neural-Vision-Cleanup-Suite",
-    "description": "Advanced computer vision framework for generative media restoration and artifact removal. Optimized for high-fidelity image cleanup, inpainting, and visual noise reduction using deep learning architectures.",
-    "url": "https://github.com/rulecobeket742828/Neural-Vision-Cleanup-Suite",
-    "stars": 44,
-    "language": "Python",
-    "updated_at": "2026-04-23T20:51:34Z"
   }
 ]
