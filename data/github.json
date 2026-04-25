@@ -4,54 +4,54 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 407,
+    "stars": 420,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T12:32:48Z"
-  },
-  {
-    "name": "hi-kid",
-    "full_name": "xiaochong/hi-kid",
-    "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-    "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 334,
-    "language": "TypeScript",
-    "updated_at": "2026-04-25T12:59:38Z"
+    "updated_at": "2026-04-25T16:35:54Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 327,
+    "stars": 352,
     "language": "Python",
-    "updated_at": "2026-04-25T12:59:25Z"
+    "updated_at": "2026-04-25T16:41:39Z"
+  },
+  {
+    "name": "hi-kid",
+    "full_name": "xiaochong/hi-kid",
+    "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+    "url": "https://github.com/xiaochong/hi-kid",
+    "stars": 335,
+    "language": "TypeScript",
+    "updated_at": "2026-04-25T15:16:54Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 273,
+    "stars": 274,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T12:19:59Z"
-  },
-  {
-    "name": "intro-agentic-ai",
-    "full_name": "riverscn/intro-agentic-ai",
-    "description": "认识 Agentic AI：从神经网络到智能体",
-    "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 99,
-    "language": "Vue",
-    "updated_at": "2026-04-25T07:59:39Z"
+    "updated_at": "2026-04-25T16:28:05Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 96,
+    "stars": 147,
     "language": "Go",
-    "updated_at": "2026-04-25T12:55:22Z"
+    "updated_at": "2026-04-25T16:38:11Z"
+  },
+  {
+    "name": "intro-agentic-ai",
+    "full_name": "riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 102,
+    "language": "Vue",
+    "updated_at": "2026-04-25T15:37:56Z"
   },
   {
     "name": "ai-auto-work",
@@ -61,6 +61,15 @@
     "stars": 89,
     "language": "Shell",
     "updated_at": "2026-04-24T08:36:40Z"
+  },
+  {
+    "name": "VizPilot_AI",
+    "full_name": "Zafer-Liu/VizPilot_AI",
+    "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
+    "url": "https://github.com/Zafer-Liu/VizPilot_AI",
+    "stars": 48,
+    "language": "HTML",
+    "updated_at": "2026-04-25T16:35:41Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -79,14 +88,5 @@
     "stars": 44,
     "language": "Python",
     "updated_at": "2026-04-23T20:51:16Z"
-  },
-  {
-    "name": "VizPilot_AI",
-    "full_name": "Zafer-Liu/VizPilot_AI",
-    "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
-    "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 37,
-    "language": "HTML",
-    "updated_at": "2026-04-25T11:34:50Z"
   }
 ]

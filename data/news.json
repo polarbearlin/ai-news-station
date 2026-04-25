@@ -1,45 +1,29 @@
 {
-  "generated_at": "2026-04-25 13:05:56",
+  "generated_at": "2026-04-25 16:41:41",
   "news": [
+    {
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "source": "Hacker News",
+      "time": "2026-04-22 13:46",
+      "score": 260,
+      "comments": 47
+    },
+    {
+      "title": "GPT 5.5 biosafety bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "source": "Hacker News",
+      "time": "2026-04-25 14:17",
+      "score": 42,
+      "comments": 28
+    },
     {
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
       "source": "Hacker News",
       "time": "2026-04-24 16:04",
-      "score": 646,
-      "comments": 642
-    },
-    {
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "source": "Hacker News",
-      "time": "2026-04-25 11:16",
-      "score": 15,
-      "comments": 3
-    },
-    {
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "url": "https://github.com/nex-crm/wuphf",
-      "source": "Hacker News",
-      "time": "2026-04-25 08:53",
-      "score": 115,
-      "comments": 52
-    },
-    {
-      "title": "1-Bit Hokusai's \"The Great Wave\"",
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "source": "Hacker News",
-      "time": "2026-04-22 13:46",
-      "score": 11,
-      "comments": 1
-    },
-    {
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "source": "Hacker News",
-      "time": "2026-04-25 01:03",
-      "score": 143,
-      "comments": 56
+      "score": 721,
+      "comments": 700
     }
   ]
 }
