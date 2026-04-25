@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-04-25 16:41:41",
+  "generated_at": "2026-04-25 20:39:18",
   "news": [
     {
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
       "source": "Hacker News",
       "time": "2026-04-22 13:46",
-      "score": 260,
-      "comments": 47
+      "score": 442,
+      "comments": 81
     },
     {
-      "title": "GPT 5.5 biosafety bounty",
+      "title": "GPT‑5.5 Bio Bug Bounty",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
       "source": "Hacker News",
       "time": "2026-04-25 14:17",
-      "score": 42,
-      "comments": 28
-    },
-    {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "source": "Hacker News",
-      "time": "2026-04-24 16:04",
-      "score": 721,
-      "comments": 700
+      "score": 99,
+      "comments": 85
     }
   ]
 }

@@ -4,45 +4,45 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 420,
+    "stars": 442,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T16:35:54Z"
+    "updated_at": "2026-04-25T20:36:50Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 352,
+    "stars": 379,
     "language": "Python",
-    "updated_at": "2026-04-25T16:41:39Z"
+    "updated_at": "2026-04-25T20:38:03Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 335,
+    "stars": 338,
     "language": "TypeScript",
-    "updated_at": "2026-04-25T15:16:54Z"
+    "updated_at": "2026-04-25T17:43:12Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 274,
+    "stars": 276,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T16:28:05Z"
+    "updated_at": "2026-04-25T19:29:06Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 147,
+    "stars": 194,
     "language": "Go",
-    "updated_at": "2026-04-25T16:38:11Z"
+    "updated_at": "2026-04-25T20:36:36Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -67,9 +67,9 @@
     "full_name": "Zafer-Liu/VizPilot_AI",
     "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
     "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 48,
+    "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-04-25T16:35:41Z"
+    "updated_at": "2026-04-25T18:15:02Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
