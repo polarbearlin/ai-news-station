@@ -4,36 +4,36 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 358,
+    "stars": 368,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T02:29:18Z"
+    "updated_at": "2026-04-25T05:24:00Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 317,
+    "stars": 322,
     "language": "TypeScript",
-    "updated_at": "2026-04-25T02:06:42Z"
-  },
-  {
-    "name": "alice",
-    "full_name": "simoncirstoiu/alice",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-    "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 267,
-    "language": "JavaScript",
-    "updated_at": "2026-04-24T19:19:07Z"
+    "updated_at": "2026-04-25T05:03:48Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 266,
+    "stars": 285,
     "language": "Python",
-    "updated_at": "2026-04-25T02:05:47Z"
+    "updated_at": "2026-04-25T05:48:06Z"
+  },
+  {
+    "name": "alice",
+    "full_name": "simoncirstoiu/alice",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+    "url": "https://github.com/simoncirstoiu/alice",
+    "stars": 268,
+    "language": "JavaScript",
+    "updated_at": "2026-04-25T05:43:46Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -54,15 +54,6 @@
     "updated_at": "2026-04-24T08:36:40Z"
   },
   {
-    "name": "LLM-Prompt-Orchestration-Engine",
-    "full_name": "linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
-    "description": "High-performance prompt engineering framework. Features template versioning, variable injection, context optimization, and automated pipeline integration for LLM-driven applications.",
-    "url": "https://github.com/linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
-    "stars": 44,
-    "language": "Python",
-    "updated_at": "2026-04-23T20:51:16Z"
-  },
-  {
     "name": "Neural-Vision-Cleanup-Suite",
     "full_name": "rulecobeket742828/Neural-Vision-Cleanup-Suite",
     "description": "Advanced computer vision framework for generative media restoration and artifact removal. Optimized for high-fidelity image cleanup, inpainting, and visual noise reduction using deep learning architectures.",
@@ -70,6 +61,15 @@
     "stars": 44,
     "language": "Python",
     "updated_at": "2026-04-23T20:51:34Z"
+  },
+  {
+    "name": "LLM-Prompt-Orchestration-Engine",
+    "full_name": "linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
+    "description": "High-performance prompt engineering framework. Features template versioning, variable injection, context optimization, and automated pipeline integration for LLM-driven applications.",
+    "url": "https://github.com/linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
+    "stars": 44,
+    "language": "Python",
+    "updated_at": "2026-04-23T20:51:16Z"
   },
   {
     "name": "agentodyssey",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-22T10:35:27Z"
   },
   {
-    "name": "kimiflare",
-    "full_name": "sinameraji/kimiflare",
-    "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
-    "url": "https://github.com/sinameraji/kimiflare",
-    "stars": 33,
-    "language": "TypeScript",
-    "updated_at": "2026-04-24T18:19:47Z"
+    "name": "VizPilot_AI",
+    "full_name": "Zafer-Liu/VizPilot_AI",
+    "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
+    "url": "https://github.com/Zafer-Liu/VizPilot_AI",
+    "stars": 34,
+    "language": "HTML",
+    "updated_at": "2026-04-25T04:13:02Z"
   }
 ]

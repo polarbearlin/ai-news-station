@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-25 02:30:26",
+  "generated_at": "2026-04-25 05:48:11",
   "news": [
     {
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
       "source": "Hacker News",
       "time": "2026-04-24 16:04",
-      "score": 362,
-      "comments": 397
+      "score": 469,
+      "comments": 479
+    },
+    {
+      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "source": "Hacker News",
+      "time": "2026-04-25 01:03",
+      "score": 36,
+      "comments": 5
     }
   ]
 }
