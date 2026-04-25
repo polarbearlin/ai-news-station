@@ -4,45 +4,45 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 368,
+    "stars": 387,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T05:24:00Z"
+    "updated_at": "2026-04-25T08:49:17Z"
   },
   {
     "name": "hi-kid",
     "full_name": "xiaochong/hi-kid",
     "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
     "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 322,
+    "stars": 327,
     "language": "TypeScript",
-    "updated_at": "2026-04-25T05:03:48Z"
+    "updated_at": "2026-04-25T08:48:08Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 285,
+    "stars": 303,
     "language": "Python",
-    "updated_at": "2026-04-25T05:48:06Z"
+    "updated_at": "2026-04-25T08:26:37Z"
   },
   {
     "name": "alice",
     "full_name": "simoncirstoiu/alice",
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
     "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 268,
+    "stars": 271,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T05:43:46Z"
+    "updated_at": "2026-04-25T07:55:53Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 98,
+    "stars": 99,
     "language": "Vue",
-    "updated_at": "2026-04-24T14:25:19Z"
+    "updated_at": "2026-04-25T07:59:39Z"
   },
   {
     "name": "ai-auto-work",
@@ -85,8 +85,8 @@
     "full_name": "Zafer-Liu/VizPilot_AI",
     "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
     "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 34,
+    "stars": 36,
     "language": "HTML",
-    "updated_at": "2026-04-25T04:13:02Z"
+    "updated_at": "2026-04-25T08:18:59Z"
   }
 ]
