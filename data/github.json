@@ -4,27 +4,36 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 570,
+    "stars": 611,
     "language": "JavaScript",
-    "updated_at": "2026-04-26T16:42:11Z"
+    "updated_at": "2026-04-26T20:37:36Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 519,
+    "stars": 536,
     "language": "Python",
-    "updated_at": "2026-04-26T16:39:45Z"
+    "updated_at": "2026-04-26T20:21:12Z"
+  },
+  {
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 470,
+    "language": "Rust",
+    "updated_at": "2026-04-26T20:20:56Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 276,
+    "stars": 278,
     "language": "Go",
-    "updated_at": "2026-04-26T16:18:44Z"
+    "updated_at": "2026-04-26T18:24:58Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -79,14 +88,5 @@
     "stars": 37,
     "language": "Python",
     "updated_at": "2026-04-25T21:47:15Z"
-  },
-  {
-    "name": "kimiflare",
-    "full_name": "sinameraji/kimiflare",
-    "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
-    "url": "https://github.com/sinameraji/kimiflare",
-    "stars": 36,
-    "language": "TypeScript",
-    "updated_at": "2026-04-26T14:37:00Z"
   }
 ]
