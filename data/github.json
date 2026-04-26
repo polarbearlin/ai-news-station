@@ -4,27 +4,27 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 521,
+    "stars": 543,
     "language": "JavaScript",
-    "updated_at": "2026-04-26T08:48:40Z"
+    "updated_at": "2026-04-26T13:04:13Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 463,
+    "stars": 489,
     "language": "Python",
-    "updated_at": "2026-04-26T08:29:57Z"
+    "updated_at": "2026-04-26T12:34:06Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 257,
+    "stars": 268,
     "language": "Go",
-    "updated_at": "2026-04-26T08:36:27Z"
+    "updated_at": "2026-04-26T13:05:32Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -40,18 +40,18 @@
     "full_name": "chaohong-ai/ai-auto-work",
     "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects.",
     "url": "https://github.com/chaohong-ai/ai-auto-work",
-    "stars": 93,
+    "stars": 98,
     "language": "Shell",
-    "updated_at": "2026-04-26T06:28:02Z"
+    "updated_at": "2026-04-26T12:57:40Z"
   },
   {
     "name": "VizPilot_AI",
     "full_name": "Zafer-Liu/VizPilot_AI",
     "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
     "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 58,
+    "stars": 61,
     "language": "HTML",
-    "updated_at": "2026-04-26T03:19:04Z"
+    "updated_at": "2026-04-26T12:57:57Z"
   },
   {
     "name": "LLM-Prompt-Orchestration-Engine",
@@ -87,6 +87,6 @@
     "url": "https://github.com/sinameraji/kimiflare",
     "stars": 36,
     "language": "TypeScript",
-    "updated_at": "2026-04-26T06:22:30Z"
+    "updated_at": "2026-04-26T11:10:07Z"
   }
 ]
