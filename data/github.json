@@ -4,36 +4,36 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 476,
+    "stars": 502,
     "language": "JavaScript",
-    "updated_at": "2026-04-26T02:43:47Z"
+    "updated_at": "2026-04-26T06:05:41Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 425,
+    "stars": 444,
     "language": "Python",
-    "updated_at": "2026-04-26T02:42:41Z"
+    "updated_at": "2026-04-26T05:55:43Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 229,
+    "stars": 243,
     "language": "Go",
-    "updated_at": "2026-04-26T02:46:52Z"
+    "updated_at": "2026-04-26T06:06:30Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 102,
+    "stars": 103,
     "language": "Vue",
-    "updated_at": "2026-04-25T15:37:56Z"
+    "updated_at": "2026-04-26T04:23:30Z"
   },
   {
     "name": "ai-auto-work",
@@ -49,9 +49,9 @@
     "full_name": "Zafer-Liu/VizPilot_AI",
     "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
     "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 57,
+    "stars": 58,
     "language": "HTML",
-    "updated_at": "2026-04-26T01:26:54Z"
+    "updated_at": "2026-04-26T03:19:04Z"
   },
   {
     "name": "LLM-Prompt-Orchestration-Engine",
@@ -87,6 +87,6 @@
     "url": "https://github.com/sinameraji/kimiflare",
     "stars": 36,
     "language": "TypeScript",
-    "updated_at": "2026-04-25T15:32:21Z"
+    "updated_at": "2026-04-26T05:51:29Z"
   }
 ]
