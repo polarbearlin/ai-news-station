@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-04-26 06:06:48",
+  "generated_at": "2026-04-26 09:01:16",
   "news": [
     {
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "source": "Hacker News",
       "time": "2026-04-25 17:40",
-      "score": 242,
-      "comments": 159
+      "score": 352,
+      "comments": 212
     },
     {
       "title": "GnuPG – post-quantum crypto landing in mainline",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
       "source": "Hacker News",
       "time": "2026-04-26 03:25",
-      "score": 17,
-      "comments": 2
+      "score": 58,
+      "comments": 17
+    },
+    {
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+      "source": "Hacker News",
+      "time": "2026-04-26 07:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
