@@ -4,45 +4,27 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 442,
+    "stars": 476,
     "language": "JavaScript",
-    "updated_at": "2026-04-25T20:36:50Z"
+    "updated_at": "2026-04-26T02:43:47Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 379,
+    "stars": 425,
     "language": "Python",
-    "updated_at": "2026-04-25T20:38:03Z"
-  },
-  {
-    "name": "hi-kid",
-    "full_name": "xiaochong/hi-kid",
-    "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-    "url": "https://github.com/xiaochong/hi-kid",
-    "stars": 338,
-    "language": "TypeScript",
-    "updated_at": "2026-04-25T17:43:12Z"
-  },
-  {
-    "name": "alice",
-    "full_name": "simoncirstoiu/alice",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-    "url": "https://github.com/simoncirstoiu/alice",
-    "stars": 276,
-    "language": "JavaScript",
-    "updated_at": "2026-04-25T19:29:06Z"
+    "updated_at": "2026-04-26T02:42:41Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 194,
+    "stars": 229,
     "language": "Go",
-    "updated_at": "2026-04-25T20:36:36Z"
+    "updated_at": "2026-04-26T02:46:52Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -67,9 +49,18 @@
     "full_name": "Zafer-Liu/VizPilot_AI",
     "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
     "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 55,
+    "stars": 57,
     "language": "HTML",
-    "updated_at": "2026-04-25T18:15:02Z"
+    "updated_at": "2026-04-26T01:26:54Z"
+  },
+  {
+    "name": "LLM-Prompt-Orchestration-Engine",
+    "full_name": "linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
+    "description": "High-performance prompt engineering framework. Features template versioning, variable injection, context optimization, and automated pipeline integration for LLM-driven applications.",
+    "url": "https://github.com/linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
+    "stars": 44,
+    "language": "Python",
+    "updated_at": "2026-04-23T20:51:16Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -81,12 +72,21 @@
     "updated_at": "2026-04-23T20:51:34Z"
   },
   {
-    "name": "LLM-Prompt-Orchestration-Engine",
-    "full_name": "linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
-    "description": "High-performance prompt engineering framework. Features template versioning, variable injection, context optimization, and automated pipeline integration for LLM-driven applications.",
-    "url": "https://github.com/linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
-    "stars": 44,
+    "name": "agentodyssey",
+    "full_name": "agentodyssey/agentodyssey",
+    "description": "Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
+    "url": "https://github.com/agentodyssey/agentodyssey",
+    "stars": 37,
     "language": "Python",
-    "updated_at": "2026-04-23T20:51:16Z"
+    "updated_at": "2026-04-25T21:47:15Z"
+  },
+  {
+    "name": "kimiflare",
+    "full_name": "sinameraji/kimiflare",
+    "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
+    "url": "https://github.com/sinameraji/kimiflare",
+    "stars": 36,
+    "language": "TypeScript",
+    "updated_at": "2026-04-25T15:32:21Z"
   }
 ]
