@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-26 20:38:53",
+  "generated_at": "2026-04-27 02:49:56",
   "news": [
     {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
       "source": "Hacker News",
-      "time": "2026-04-26 16:27",
-      "score": 215,
-      "comments": 272
+      "time": "2026-04-25 18:41",
+      "score": 62,
+      "comments": 8
     },
     {
-      "title": "GoDaddy gave a domain to a stranger without any documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
       "source": "Hacker News",
-      "time": "2026-04-26 16:57",
-      "score": 364,
-      "comments": 138
+      "time": "2026-04-27 00:34",
+      "score": 70,
+      "comments": 34
     }
   ]
 }
