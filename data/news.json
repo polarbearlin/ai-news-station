@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-04-27 10:15:48",
+  "generated_at": "2026-04-27 13:54:54",
   "news": [
+    {
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "source": "Hacker News",
+      "time": "2026-04-27 10:56",
+      "score": 205,
+      "comments": 87
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership – OpenAI",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+      "source": "Hacker News",
+      "time": "2026-04-27 13:24",
+      "score": 21,
+      "comments": 10
+    },
+    {
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "source": "Hacker News",
+      "time": "2026-04-27 09:57",
+      "score": 43,
+      "comments": 11
+    },
     {
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
       "source": "Hacker News",
       "time": "2026-04-26 20:03",
-      "score": 502,
-      "comments": 364
-    },
-    {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "source": "Hacker News",
-      "time": "2026-04-25 18:41",
-      "score": 215,
-      "comments": 36
+      "score": 654,
+      "comments": 469
     }
   ]
 }

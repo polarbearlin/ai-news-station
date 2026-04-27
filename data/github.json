@@ -4,36 +4,36 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 799,
+    "stars": 852,
     "language": "JavaScript",
-    "updated_at": "2026-04-27T10:07:58Z"
+    "updated_at": "2026-04-27T13:53:46Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 580,
+    "stars": 588,
     "language": "Python",
-    "updated_at": "2026-04-27T09:56:08Z"
+    "updated_at": "2026-04-27T13:51:34Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 299,
+    "stars": 343,
     "language": "Go",
-    "updated_at": "2026-04-27T10:01:25Z"
+    "updated_at": "2026-04-27T13:53:12Z"
   },
   {
     "name": "LoongForge",
     "full_name": "baidu-baige/LoongForge",
     "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 135,
+    "stars": 138,
     "language": "Python",
-    "updated_at": "2026-04-27T09:35:12Z"
+    "updated_at": "2026-04-27T13:50:00Z"
   },
   {
     "name": "intro-agentic-ai",
@@ -63,13 +63,13 @@
     "updated_at": "2026-04-27T07:35:27Z"
   },
   {
-    "name": "LLM-Prompt-Orchestration-Engine",
-    "full_name": "linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
-    "description": "High-performance prompt engineering framework. Features template versioning, variable injection, context optimization, and automated pipeline integration for LLM-driven applications.",
-    "url": "https://github.com/linedelmont81825829134/LLM-Prompt-Orchestration-Engine",
-    "stars": 44,
-    "language": "Python",
-    "updated_at": "2026-04-23T20:51:16Z"
+    "name": "kimiflare",
+    "full_name": "sinameraji/kimiflare",
+    "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
+    "url": "https://github.com/sinameraji/kimiflare",
+    "stars": 45,
+    "language": "TypeScript",
+    "updated_at": "2026-04-27T13:31:35Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-23T20:51:34Z"
   },
   {
-    "name": "kimiflare",
-    "full_name": "sinameraji/kimiflare",
-    "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
-    "url": "https://github.com/sinameraji/kimiflare",
-    "stars": 41,
+    "name": "clawd.rip",
+    "full_name": "maria-rcks/clawd.rip",
+    "description": "Everything that *went* wrong with Claude.",
+    "url": "https://github.com/maria-rcks/clawd.rip",
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-04-27T09:40:02Z"
+    "updated_at": "2026-04-27T13:44:27Z"
   }
 ]
