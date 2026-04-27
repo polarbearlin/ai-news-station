@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-27 06:27:26",
+  "generated_at": "2026-04-27 10:15:48",
   "news": [
+    {
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "source": "Hacker News",
+      "time": "2026-04-26 20:03",
+      "score": 502,
+      "comments": 364
+    },
     {
       "title": "Three constraints before I build anything",
       "url": "https://jordanlord.co.uk/blog/3-constraints/",
       "source": "Hacker News",
       "time": "2026-04-25 18:41",
-      "score": 151,
-      "comments": 23
-    },
-    {
-      "title": "AI can cost more than human workers now",
-      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-      "source": "Hacker News",
-      "time": "2026-04-27 05:28",
-      "score": 31,
-      "comments": 12
+      "score": 215,
+      "comments": 36
     }
   ]
 }

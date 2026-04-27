@@ -4,36 +4,45 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 740,
+    "stars": 799,
     "language": "JavaScript",
-    "updated_at": "2026-04-27T06:23:37Z"
+    "updated_at": "2026-04-27T10:07:58Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 566,
+    "stars": 580,
     "language": "Python",
-    "updated_at": "2026-04-27T06:22:56Z"
+    "updated_at": "2026-04-27T09:56:08Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 292,
+    "stars": 299,
     "language": "Go",
-    "updated_at": "2026-04-27T06:27:24Z"
+    "updated_at": "2026-04-27T10:01:25Z"
+  },
+  {
+    "name": "LoongForge",
+    "full_name": "baidu-baige/LoongForge",
+    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
+    "url": "https://github.com/baidu-baige/LoongForge",
+    "stars": 135,
+    "language": "Python",
+    "updated_at": "2026-04-27T09:35:12Z"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 106,
+    "stars": 107,
     "language": "Vue",
-    "updated_at": "2026-04-27T03:23:25Z"
+    "updated_at": "2026-04-27T09:52:49Z"
   },
   {
     "name": "ai-auto-work",
@@ -51,7 +60,7 @@
     "url": "https://github.com/Zafer-Liu/VizPilot_AI",
     "stars": 73,
     "language": "HTML",
-    "updated_at": "2026-04-27T06:01:03Z"
+    "updated_at": "2026-04-27T07:35:27Z"
   },
   {
     "name": "LLM-Prompt-Orchestration-Engine",
@@ -76,17 +85,8 @@
     "full_name": "sinameraji/kimiflare",
     "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
     "url": "https://github.com/sinameraji/kimiflare",
-    "stars": 39,
+    "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-04-27T05:57:26Z"
-  },
-  {
-    "name": "claude-comstyle",
-    "full_name": "bsquang/claude-comstyle",
-    "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
-    "url": "https://github.com/bsquang/claude-comstyle",
-    "stars": 24,
-    "language": null,
-    "updated_at": "2026-04-26T17:13:58Z"
+    "updated_at": "2026-04-27T09:40:02Z"
   }
 ]
