@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-27 02:49:56",
+  "generated_at": "2026-04-27 06:27:26",
   "news": [
     {
       "title": "Three constraints before I build anything",
       "url": "https://jordanlord.co.uk/blog/3-constraints/",
       "source": "Hacker News",
       "time": "2026-04-25 18:41",
-      "score": 62,
-      "comments": 8
+      "score": 151,
+      "comments": 23
     },
     {
-      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "title": "AI can cost more than human workers now",
+      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
       "source": "Hacker News",
-      "time": "2026-04-27 00:34",
-      "score": 70,
-      "comments": 34
+      "time": "2026-04-27 05:28",
+      "score": 31,
+      "comments": 12
     }
   ]
 }
