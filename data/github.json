@@ -4,45 +4,45 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 958,
+    "stars": 978,
     "language": "JavaScript",
-    "updated_at": "2026-04-28T02:27:41Z"
+    "updated_at": "2026-04-28T06:23:37Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 646,
+    "stars": 659,
     "language": "Python",
-    "updated_at": "2026-04-28T02:33:01Z"
+    "updated_at": "2026-04-28T06:14:47Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 428,
+    "stars": 444,
     "language": "Go",
-    "updated_at": "2026-04-28T02:26:32Z"
+    "updated_at": "2026-04-28T05:03:39Z"
   },
   {
     "name": "LoongForge",
     "full_name": "baidu-baige/LoongForge",
     "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 142,
+    "stars": 144,
     "language": "Python",
-    "updated_at": "2026-04-28T02:54:49Z"
+    "updated_at": "2026-04-28T06:24:29Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 64,
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-04-28T02:27:56Z"
+    "updated_at": "2026-04-28T05:25:58Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -58,18 +58,18 @@
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 40,
+    "stars": 43,
     "language": null,
-    "updated_at": "2026-04-28T02:00:56Z"
+    "updated_at": "2026-04-28T05:39:35Z"
   },
   {
     "name": "claude-comstyle",
     "full_name": "bsquang/claude-comstyle",
     "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
     "url": "https://github.com/bsquang/claude-comstyle",
-    "stars": 25,
+    "stars": 26,
     "language": null,
-    "updated_at": "2026-04-27T11:20:01Z"
+    "updated_at": "2026-04-28T05:29:09Z"
   },
   {
     "name": "claude-history-manager",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-27T13:42:33Z"
   },
   {
-    "name": "awesome-website-prompts-and-skills",
-    "full_name": "TencentEdgeOne/awesome-website-prompts-and-skills",
-    "description": "Tencent EdgeOne 维护的网站资源合集。在 AI 编程工具中，给它一个 Prompt 或 Skill，就能生成精美酷炫的网页，或者带有登录、支付、AI 能力的完整网站。WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛官方作品池。",
-    "url": "https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills",
-    "stars": 21,
-    "language": null,
-    "updated_at": "2026-04-27T12:12:25Z"
+    "name": "smart-rename",
+    "full_name": "Jane-xiaoer/smart-rename",
+    "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
+    "url": "https://github.com/Jane-xiaoer/smart-rename",
+    "stars": 22,
+    "language": "Shell",
+    "updated_at": "2026-04-28T04:25:27Z"
   }
 ]
