@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-04-28 10:13:25",
+  "generated_at": "2026-04-28 17:46:40",
   "news": [
     {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
       "source": "Hacker News",
-      "time": "2026-04-27 13:22",
-      "score": 881,
-      "comments": 760
+      "time": "2026-04-28 16:06",
+      "score": 95,
+      "comments": 65
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "source": "Hacker News",
+      "time": "2026-04-28 11:54",
+      "score": 520,
+      "comments": 180
+    },
+    {
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "source": "Hacker News",
+      "time": "2026-04-28 11:56",
+      "score": 224,
+      "comments": 141
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "source": "Hacker News",
+      "time": "2026-04-28 15:49",
+      "score": 150,
+      "comments": 126
     }
   ]
 }
