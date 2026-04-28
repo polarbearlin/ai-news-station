@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-04-28 17:46:40",
+  "generated_at": "2026-04-28 21:07:26",
   "news": [
     {
-      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
       "source": "Hacker News",
-      "time": "2026-04-28 16:06",
-      "score": 95,
-      "comments": 65
-    },
-    {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "source": "Hacker News",
-      "time": "2026-04-28 11:54",
-      "score": 520,
-      "comments": 180
-    },
-    {
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "source": "Hacker News",
-      "time": "2026-04-28 11:56",
-      "score": 224,
-      "comments": 141
-    },
-    {
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "source": "Hacker News",
-      "time": "2026-04-28 15:49",
-      "score": 150,
-      "comments": 126
+      "time": "2026-04-28 19:24",
+      "score": 89,
+      "comments": 24
     }
   ]
 }

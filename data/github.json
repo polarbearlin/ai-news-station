@@ -4,27 +4,27 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1047,
+    "stars": 1074,
     "language": "JavaScript",
-    "updated_at": "2026-04-28T17:34:26Z"
+    "updated_at": "2026-04-28T20:54:16Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 696,
+    "stars": 699,
     "language": "Python",
-    "updated_at": "2026-04-28T17:39:02Z"
+    "updated_at": "2026-04-28T19:06:38Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 491,
+    "stars": 498,
     "language": "Go",
-    "updated_at": "2026-04-28T17:41:18Z"
+    "updated_at": "2026-04-28T20:25:51Z"
   },
   {
     "name": "LoongForge",
@@ -40,18 +40,27 @@
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 79,
+    "stars": 80,
     "language": "TypeScript",
-    "updated_at": "2026-04-28T17:43:43Z"
+    "updated_at": "2026-04-28T20:10:20Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 64,
+    "stars": 65,
     "language": null,
-    "updated_at": "2026-04-28T17:09:26Z"
+    "updated_at": "2026-04-28T18:12:34Z"
+  },
+  {
+    "name": "teenycode",
+    "full_name": "yangshun/teenycode",
+    "description": "A tiny coding agent in under 200 LOC",
+    "url": "https://github.com/yangshun/teenycode",
+    "stars": 49,
+    "language": "TypeScript",
+    "updated_at": "2026-04-28T20:28:45Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -61,15 +70,6 @@
     "stars": 45,
     "language": "Python",
     "updated_at": "2026-04-28T10:16:12Z"
-  },
-  {
-    "name": "teenycode",
-    "full_name": "yangshun/teenycode",
-    "description": "A tiny coding agent in under 200 LOC",
-    "url": "https://github.com/yangshun/teenycode",
-    "stars": 43,
-    "language": "TypeScript",
-    "updated_at": "2026-04-28T16:59:09Z"
   },
   {
     "name": "claude-comstyle",
@@ -85,8 +85,8 @@
     "full_name": "josephyaduvanshi/claude-history-manager",
     "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
     "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 25,
+    "stars": 26,
     "language": "Swift",
-    "updated_at": "2026-04-28T14:12:58Z"
+    "updated_at": "2026-04-28T20:10:14Z"
   }
 ]
