@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-04-28 06:29:08",
+  "generated_at": "2026-04-28 10:13:25",
   "news": [
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "source": "Hacker News",
       "time": "2026-04-27 13:22",
-      "score": 836,
-      "comments": 715
-    },
-    {
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "url": "https://technology.robbyant.com/lingbot-map",
-      "source": "Hacker News",
-      "time": "2026-04-28 03:27",
-      "score": 17,
-      "comments": 1
-    },
-    {
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "source": "Hacker News",
-      "time": "2026-04-27 09:57",
-      "score": 499,
-      "comments": 177
+      "score": 881,
+      "comments": 760
     }
   ]
 }

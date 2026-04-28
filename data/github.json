@@ -4,45 +4,54 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 978,
+    "stars": 1000,
     "language": "JavaScript",
-    "updated_at": "2026-04-28T06:23:37Z"
+    "updated_at": "2026-04-28T09:50:10Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 659,
+    "stars": 675,
     "language": "Python",
-    "updated_at": "2026-04-28T06:14:47Z"
+    "updated_at": "2026-04-28T10:11:22Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 444,
+    "stars": 457,
     "language": "Go",
-    "updated_at": "2026-04-28T05:03:39Z"
+    "updated_at": "2026-04-28T10:06:16Z"
   },
   {
     "name": "LoongForge",
     "full_name": "baidu-baige/LoongForge",
     "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 144,
+    "stars": 146,
     "language": "Python",
-    "updated_at": "2026-04-28T06:24:29Z"
+    "updated_at": "2026-04-28T08:23:12Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 65,
+    "stars": 69,
     "language": "TypeScript",
-    "updated_at": "2026-04-28T05:25:58Z"
+    "updated_at": "2026-04-28T10:05:26Z"
+  },
+  {
+    "name": "axi-front-design-skill",
+    "full_name": "bbostaice/axi-front-design-skill",
+    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "stars": 53,
+    "language": null,
+    "updated_at": "2026-04-28T09:58:24Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -54,15 +63,6 @@
     "updated_at": "2026-04-23T20:51:34Z"
   },
   {
-    "name": "axi-front-design-skill",
-    "full_name": "bbostaice/axi-front-design-skill",
-    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
-    "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 43,
-    "language": null,
-    "updated_at": "2026-04-28T05:39:35Z"
-  },
-  {
     "name": "claude-comstyle",
     "full_name": "bsquang/claude-comstyle",
     "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
@@ -72,21 +72,21 @@
     "updated_at": "2026-04-28T05:29:09Z"
   },
   {
+    "name": "teenycode",
+    "full_name": "yangshun/teenycode",
+    "description": "A tiny coding agent in under 200 LOC",
+    "url": "https://github.com/yangshun/teenycode",
+    "stars": 24,
+    "language": "TypeScript",
+    "updated_at": "2026-04-28T10:04:51Z"
+  },
+  {
     "name": "claude-history-manager",
     "full_name": "josephyaduvanshi/claude-history-manager",
     "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
     "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 23,
+    "stars": 24,
     "language": "Swift",
-    "updated_at": "2026-04-27T13:42:33Z"
-  },
-  {
-    "name": "smart-rename",
-    "full_name": "Jane-xiaoer/smart-rename",
-    "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
-    "url": "https://github.com/Jane-xiaoer/smart-rename",
-    "stars": 22,
-    "language": "Shell",
-    "updated_at": "2026-04-28T04:25:27Z"
+    "updated_at": "2026-04-28T09:09:31Z"
   }
 ]
