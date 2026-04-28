@@ -4,81 +4,45 @@
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 937,
+    "stars": 958,
     "language": "JavaScript",
-    "updated_at": "2026-04-27T20:55:22Z"
+    "updated_at": "2026-04-28T02:27:41Z"
   },
   {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 631,
+    "stars": 646,
     "language": "Python",
-    "updated_at": "2026-04-27T20:52:28Z"
+    "updated_at": "2026-04-28T02:33:01Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 406,
+    "stars": 428,
     "language": "Go",
-    "updated_at": "2026-04-27T20:56:19Z"
+    "updated_at": "2026-04-28T02:26:32Z"
   },
   {
     "name": "LoongForge",
     "full_name": "baidu-baige/LoongForge",
     "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 139,
+    "stars": 142,
     "language": "Python",
-    "updated_at": "2026-04-27T16:27:02Z"
-  },
-  {
-    "name": "intro-agentic-ai",
-    "full_name": "riverscn/intro-agentic-ai",
-    "description": "认识 Agentic AI：从神经网络到智能体",
-    "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 107,
-    "language": "Vue",
-    "updated_at": "2026-04-27T09:52:49Z"
-  },
-  {
-    "name": "ai-auto-work",
-    "full_name": "chaohong-ai/ai-auto-work",
-    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects.",
-    "url": "https://github.com/chaohong-ai/ai-auto-work",
-    "stars": 104,
-    "language": "Shell",
-    "updated_at": "2026-04-27T06:24:06Z"
-  },
-  {
-    "name": "VizPilot_AI",
-    "full_name": "Zafer-Liu/VizPilot_AI",
-    "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
-    "url": "https://github.com/Zafer-Liu/VizPilot_AI",
-    "stars": 90,
-    "language": "HTML",
-    "updated_at": "2026-04-27T18:56:42Z"
+    "updated_at": "2026-04-28T02:54:49Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 57,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-04-27T20:29:14Z"
-  },
-  {
-    "name": "kimiflare",
-    "full_name": "sinameraji/kimiflare",
-    "description": "Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.",
-    "url": "https://github.com/sinameraji/kimiflare",
-    "stars": 47,
-    "language": "TypeScript",
-    "updated_at": "2026-04-27T18:53:55Z"
+    "updated_at": "2026-04-28T02:27:56Z"
   },
   {
     "name": "Neural-Vision-Cleanup-Suite",
@@ -88,5 +52,41 @@
     "stars": 44,
     "language": "Python",
     "updated_at": "2026-04-23T20:51:34Z"
+  },
+  {
+    "name": "axi-front-design-skill",
+    "full_name": "bbostaice/axi-front-design-skill",
+    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "stars": 40,
+    "language": null,
+    "updated_at": "2026-04-28T02:00:56Z"
+  },
+  {
+    "name": "claude-comstyle",
+    "full_name": "bsquang/claude-comstyle",
+    "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
+    "url": "https://github.com/bsquang/claude-comstyle",
+    "stars": 25,
+    "language": null,
+    "updated_at": "2026-04-27T11:20:01Z"
+  },
+  {
+    "name": "claude-history-manager",
+    "full_name": "josephyaduvanshi/claude-history-manager",
+    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
+    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
+    "stars": 23,
+    "language": "Swift",
+    "updated_at": "2026-04-27T13:42:33Z"
+  },
+  {
+    "name": "awesome-website-prompts-and-skills",
+    "full_name": "TencentEdgeOne/awesome-website-prompts-and-skills",
+    "description": "Tencent EdgeOne 维护的网站资源合集。在 AI 编程工具中，给它一个 Prompt 或 Skill，就能生成精美酷炫的网页，或者带有登录、支付、AI 能力的完整网站。WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛官方作品池。",
+    "url": "https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-04-27T12:12:25Z"
   }
 ]
