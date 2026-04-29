@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-04-29 02:54:57",
+  "generated_at": "2026-04-29 06:23:23",
   "news": [
     {
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "source": "Hacker News",
       "time": "2026-04-28 23:54",
-      "score": 176,
-      "comments": 118
+      "score": 250,
+      "comments": 155
+    },
+    {
+      "title": "Withnail's Coat and I",
+      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+      "source": "Hacker News",
+      "time": "2026-04-27 19:27",
+      "score": 12,
+      "comments": 0
     },
     {
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
       "source": "Hacker News",
       "time": "2026-04-28 19:24",
-      "score": 192,
-      "comments": 73
-    },
-    {
-      "title": "We decreased our LLM costs with Opus",
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "source": "Hacker News",
-      "time": "2026-04-29 00:57",
-      "score": 36,
-      "comments": 8
-    },
-    {
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "source": "Hacker News",
-      "time": "2026-04-27 13:54",
-      "score": 65,
-      "comments": 0
+      "score": 225,
+      "comments": 78
     }
   ]
 }

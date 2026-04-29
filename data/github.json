@@ -4,18 +4,18 @@
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 710,
+    "stars": 713,
     "language": "Python",
-    "updated_at": "2026-04-29T02:42:22Z"
+    "updated_at": "2026-04-29T05:25:23Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 519,
+    "stars": 527,
     "language": "Go",
-    "updated_at": "2026-04-29T02:45:25Z"
+    "updated_at": "2026-04-29T06:23:00Z"
   },
   {
     "name": "LoongForge",
@@ -31,27 +31,27 @@
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 81,
+    "stars": 82,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T02:54:22Z"
+    "updated_at": "2026-04-29T04:59:20Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 73,
+    "stars": 76,
     "language": null,
-    "updated_at": "2026-04-29T02:39:26Z"
+    "updated_at": "2026-04-29T04:35:27Z"
   },
   {
     "name": "teenycode",
     "full_name": "yangshun/teenycode",
     "description": "A tiny coding agent in under 200 LOC",
     "url": "https://github.com/yangshun/teenycode",
-    "stars": 57,
+    "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T02:35:36Z"
+    "updated_at": "2026-04-29T04:08:12Z"
   },
   {
     "name": "claude-comstyle",
