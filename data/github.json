@@ -1,21 +1,30 @@
 [
   {
+    "name": "clawsweeper",
+    "full_name": "openclaw/clawsweeper",
+    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "stars": 1337,
+    "language": "JavaScript",
+    "updated_at": "2026-04-29T21:05:21Z"
+  },
+  {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 739,
+    "stars": 743,
     "language": "Python",
-    "updated_at": "2026-04-29T17:09:03Z"
+    "updated_at": "2026-04-29T21:03:28Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 549,
+    "stars": 555,
     "language": "Go",
-    "updated_at": "2026-04-29T17:36:11Z"
+    "updated_at": "2026-04-29T20:44:27Z"
   },
   {
     "name": "LoongForge",
@@ -33,7 +42,7 @@
     "url": "https://github.com/maria-rcks/clawd.rip",
     "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T17:18:46Z"
+    "updated_at": "2026-04-29T20:44:47Z"
   },
   {
     "name": "axi-front-design-skill",
@@ -49,9 +58,18 @@
     "full_name": "yangshun/teenycode",
     "description": "A tiny coding agent in under 200 LOC",
     "url": "https://github.com/yangshun/teenycode",
-    "stars": 66,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T17:39:06Z"
+    "updated_at": "2026-04-29T19:44:19Z"
+  },
+  {
+    "name": "AI-Image-Generator-2026",
+    "full_name": "pezufibuxoso654111/AI-Image-Generator-2026",
+    "description": "A foundational toolkit for exploring and implementing AI-powered image generation.",
+    "url": "https://github.com/pezufibuxoso654111/AI-Image-Generator-2026",
+    "stars": 36,
+    "language": "C#",
+    "updated_at": "2026-04-29T20:12:18Z"
   },
   {
     "name": "smart-rename",
@@ -70,23 +88,5 @@
     "stars": 27,
     "language": "Swift",
     "updated_at": "2026-04-29T10:06:56Z"
-  },
-  {
-    "name": "claude-comstyle",
-    "full_name": "bsquang/claude-comstyle",
-    "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
-    "url": "https://github.com/bsquang/claude-comstyle",
-    "stars": 26,
-    "language": null,
-    "updated_at": "2026-04-28T05:29:09Z"
-  },
-  {
-    "name": "awesome-website-prompts-and-skills",
-    "full_name": "TencentEdgeOne/awesome-website-prompts-and-skills",
-    "description": "Tencent EdgeOne 维护的网站资源合集。在 AI 编程工具中，给它一个 Prompt 或 Skill，就能生成精美酷炫的网页，或者带有登录、支付、AI 能力的完整网站。WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛官方作品池。",
-    "url": "https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills",
-    "stars": 23,
-    "language": null,
-    "updated_at": "2026-04-29T10:01:15Z"
   }
 ]

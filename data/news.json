@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-29 17:39:35",
+  "generated_at": "2026-04-29 21:05:45",
   "news": [
     {
-      "title": "Why AI companies want you to be afraid of them",
-      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
       "source": "Hacker News",
-      "time": "2026-04-29 15:26",
-      "score": 214,
-      "comments": 158
+      "time": "2026-04-29 18:54",
+      "score": 655,
+      "comments": 250
     },
     {
-      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "url": "https://deepmind.google/research/publications/231971/",
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
       "source": "Hacker News",
-      "time": "2026-04-29 17:30",
-      "score": 13,
-      "comments": 1
+      "time": "2026-04-29 18:13",
+      "score": 264,
+      "comments": 141
     },
     {
-      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-      "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "title": "California high-speed rail price tag jumps to $231B, nearly 7x 2008 estimate",
+      "url": "https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate",
       "source": "Hacker News",
-      "time": "2026-04-29 15:13",
-      "score": 71,
-      "comments": 24
+      "time": "2026-04-29 20:02",
+      "score": 20,
+      "comments": 14
     }
   ]
 }
