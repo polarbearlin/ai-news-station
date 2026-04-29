@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-04-29 06:23:23",
+  "generated_at": "2026-04-29 10:06:14",
   "news": [
     {
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "source": "Hacker News",
       "time": "2026-04-28 23:54",
-      "score": 250,
-      "comments": 155
-    },
-    {
-      "title": "Withnail's Coat and I",
-      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-      "source": "Hacker News",
-      "time": "2026-04-27 19:27",
-      "score": 12,
-      "comments": 0
-    },
-    {
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "source": "Hacker News",
-      "time": "2026-04-28 19:24",
-      "score": 225,
-      "comments": 78
+      "score": 343,
+      "comments": 234
     }
   ]
 }
