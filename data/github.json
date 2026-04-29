@@ -4,54 +4,54 @@
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 720,
+    "stars": 732,
     "language": "Python",
-    "updated_at": "2026-04-29T08:58:36Z"
+    "updated_at": "2026-04-29T13:51:29Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 532,
+    "stars": 537,
     "language": "Go",
-    "updated_at": "2026-04-29T09:52:22Z"
+    "updated_at": "2026-04-29T13:06:49Z"
   },
   {
     "name": "LoongForge",
     "full_name": "baidu-baige/LoongForge",
     "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 151,
+    "stars": 152,
     "language": "Python",
-    "updated_at": "2026-04-29T08:57:50Z"
+    "updated_at": "2026-04-29T12:25:58Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 83,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T07:57:45Z"
+    "updated_at": "2026-04-29T13:28:24Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 77,
+    "stars": 79,
     "language": null,
-    "updated_at": "2026-04-29T07:46:59Z"
+    "updated_at": "2026-04-29T12:47:11Z"
   },
   {
     "name": "teenycode",
     "full_name": "yangshun/teenycode",
     "description": "A tiny coding agent in under 200 LOC",
     "url": "https://github.com/yangshun/teenycode",
-    "stars": 61,
+    "stars": 62,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T09:45:14Z"
+    "updated_at": "2026-04-29T12:55:45Z"
   },
   {
     "name": "smart-rename",
@@ -63,6 +63,15 @@
     "updated_at": "2026-04-29T06:54:24Z"
   },
   {
+    "name": "claude-history-manager",
+    "full_name": "josephyaduvanshi/claude-history-manager",
+    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
+    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
+    "stars": 27,
+    "language": "Swift",
+    "updated_at": "2026-04-29T10:06:56Z"
+  },
+  {
     "name": "claude-comstyle",
     "full_name": "bsquang/claude-comstyle",
     "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
@@ -70,15 +79,6 @@
     "stars": 26,
     "language": null,
     "updated_at": "2026-04-28T05:29:09Z"
-  },
-  {
-    "name": "claude-history-manager",
-    "full_name": "josephyaduvanshi/claude-history-manager",
-    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
-    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 26,
-    "language": "Swift",
-    "updated_at": "2026-04-28T20:10:14Z"
   },
   {
     "name": "awesome-website-prompts-and-skills",

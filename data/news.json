@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-04-29 10:06:14",
+  "generated_at": "2026-04-29 13:58:10",
   "news": [
+    {
+      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "source": "Hacker News",
+      "time": "2026-04-29 12:43",
+      "score": 15,
+      "comments": 1
+    },
+    {
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "source": "Hacker News",
+      "time": "2026-04-29 12:38",
+      "score": 141,
+      "comments": 167
+    },
     {
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "source": "Hacker News",
       "time": "2026-04-28 23:54",
-      "score": 343,
-      "comments": 234
+      "score": 407,
+      "comments": 274
     }
   ]
 }
