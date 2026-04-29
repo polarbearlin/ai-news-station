@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-29 13:58:10",
+  "generated_at": "2026-04-29 17:39:35",
   "news": [
     {
-      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "title": "Why AI companies want you to be afraid of them",
+      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
       "source": "Hacker News",
-      "time": "2026-04-29 12:43",
-      "score": 15,
+      "time": "2026-04-29 15:26",
+      "score": 214,
+      "comments": 158
+    },
+    {
+      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+      "url": "https://deepmind.google/research/publications/231971/",
+      "source": "Hacker News",
+      "time": "2026-04-29 17:30",
+      "score": 13,
       "comments": 1
     },
     {
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
       "source": "Hacker News",
-      "time": "2026-04-29 12:38",
-      "score": 141,
-      "comments": 167
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "source": "Hacker News",
-      "time": "2026-04-28 23:54",
-      "score": 407,
-      "comments": 274
+      "time": "2026-04-29 15:13",
+      "score": 71,
+      "comments": 24
     }
   ]
 }
