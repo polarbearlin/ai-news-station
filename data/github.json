@@ -1,75 +1,57 @@
 [
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1074,
-    "language": "JavaScript",
-    "updated_at": "2026-04-28T20:54:16Z"
-  },
-  {
     "name": "future-agi",
     "full_name": "future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "url": "https://github.com/future-agi/future-agi",
-    "stars": 699,
+    "stars": 710,
     "language": "Python",
-    "updated_at": "2026-04-28T19:06:38Z"
+    "updated_at": "2026-04-29T02:42:22Z"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 498,
+    "stars": 519,
     "language": "Go",
-    "updated_at": "2026-04-28T20:25:51Z"
+    "updated_at": "2026-04-29T02:45:25Z"
   },
   {
     "name": "LoongForge",
     "full_name": "baidu-baige/LoongForge",
     "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 149,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-04-28T14:14:23Z"
+    "updated_at": "2026-04-29T02:10:08Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 80,
+    "stars": 81,
     "language": "TypeScript",
-    "updated_at": "2026-04-28T20:10:20Z"
+    "updated_at": "2026-04-29T02:54:22Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 65,
+    "stars": 73,
     "language": null,
-    "updated_at": "2026-04-28T18:12:34Z"
+    "updated_at": "2026-04-29T02:39:26Z"
   },
   {
     "name": "teenycode",
     "full_name": "yangshun/teenycode",
     "description": "A tiny coding agent in under 200 LOC",
     "url": "https://github.com/yangshun/teenycode",
-    "stars": 49,
+    "stars": 57,
     "language": "TypeScript",
-    "updated_at": "2026-04-28T20:28:45Z"
-  },
-  {
-    "name": "Neural-Vision-Cleanup-Suite",
-    "full_name": "rulecobeket742828/Neural-Vision-Cleanup-Suite",
-    "description": "Advanced computer vision framework for generative media restoration and artifact removal. Optimized for high-fidelity image cleanup, inpainting, and visual noise reduction using deep learning architectures.",
-    "url": "https://github.com/rulecobeket742828/Neural-Vision-Cleanup-Suite",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-04-28T10:16:12Z"
+    "updated_at": "2026-04-29T02:35:36Z"
   },
   {
     "name": "claude-comstyle",
@@ -88,5 +70,23 @@
     "stars": 26,
     "language": "Swift",
     "updated_at": "2026-04-28T20:10:14Z"
+  },
+  {
+    "name": "smart-rename",
+    "full_name": "Jane-xiaoer/smart-rename",
+    "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
+    "url": "https://github.com/Jane-xiaoer/smart-rename",
+    "stars": 25,
+    "language": "Shell",
+    "updated_at": "2026-04-29T02:41:14Z"
+  },
+  {
+    "name": "awesome-website-prompts-and-skills",
+    "full_name": "TencentEdgeOne/awesome-website-prompts-and-skills",
+    "description": "Tencent EdgeOne 维护的网站资源合集。在 AI 编程工具中，给它一个 Prompt 或 Skill，就能生成精美酷炫的网页，或者带有登录、支付、AI 能力的完整网站。WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛官方作品池。",
+    "url": "https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills",
+    "stars": 22,
+    "language": null,
+    "updated_at": "2026-04-28T09:38:26Z"
   }
 ]
