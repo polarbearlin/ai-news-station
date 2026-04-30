@@ -4,9 +4,9 @@
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 562,
+    "stars": 568,
     "language": "Go",
-    "updated_at": "2026-04-30T02:42:05Z"
+    "updated_at": "2026-04-30T06:25:25Z"
   },
   {
     "name": "clawd.rip",
@@ -22,9 +22,9 @@
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 81,
+    "stars": 82,
     "language": null,
-    "updated_at": "2026-04-29T17:06:26Z"
+    "updated_at": "2026-04-30T05:46:28Z"
   },
   {
     "name": "AI-Image-Generator-2026",
@@ -36,6 +36,15 @@
     "updated_at": "2026-04-29T20:12:18Z"
   },
   {
+    "name": "claude-history-manager",
+    "full_name": "josephyaduvanshi/claude-history-manager",
+    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
+    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
+    "stars": 28,
+    "language": "Swift",
+    "updated_at": "2026-04-30T06:09:06Z"
+  },
+  {
     "name": "smart-rename",
     "full_name": "Jane-xiaoer/smart-rename",
     "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
@@ -45,22 +54,13 @@
     "updated_at": "2026-04-29T06:54:24Z"
   },
   {
-    "name": "claude-history-manager",
-    "full_name": "josephyaduvanshi/claude-history-manager",
-    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
-    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 27,
-    "language": "Swift",
-    "updated_at": "2026-04-29T10:06:56Z"
-  },
-  {
     "name": "claude-comstyle",
     "full_name": "bsquang/claude-comstyle",
     "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
     "url": "https://github.com/bsquang/claude-comstyle",
-    "stars": 26,
+    "stars": 27,
     "language": null,
-    "updated_at": "2026-04-28T05:29:09Z"
+    "updated_at": "2026-04-30T03:14:07Z"
   },
   {
     "name": "AgentForge",
