@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-04-30 10:06:14",
+  "generated_at": "2026-04-30 13:56:55",
   "news": [
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
       "source": "Hacker News",
       "time": "2026-04-30 02:15",
-      "score": 283,
-      "comments": 122
-    },
-    {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "source": "Hacker News",
-      "time": "2026-04-30 01:44",
-      "score": 233,
-      "comments": 41
-    },
-    {
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "source": "Hacker News",
-      "time": "2026-04-29 18:13",
-      "score": 977,
-      "comments": 360
+      "score": 435,
+      "comments": 221
     }
   ]
 }
