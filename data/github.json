@@ -1,48 +1,21 @@
 [
   {
-    "name": "clawsweeper",
-    "full_name": "openclaw/clawsweeper",
-    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-    "url": "https://github.com/openclaw/clawsweeper",
-    "stars": 1337,
-    "language": "JavaScript",
-    "updated_at": "2026-04-29T21:05:21Z"
-  },
-  {
-    "name": "future-agi",
-    "full_name": "future-agi/future-agi",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-    "url": "https://github.com/future-agi/future-agi",
-    "stars": 743,
-    "language": "Python",
-    "updated_at": "2026-04-29T21:03:28Z"
-  },
-  {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 555,
+    "stars": 562,
     "language": "Go",
-    "updated_at": "2026-04-29T20:44:27Z"
-  },
-  {
-    "name": "LoongForge",
-    "full_name": "baidu-baige/LoongForge",
-    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
-    "url": "https://github.com/baidu-baige/LoongForge",
-    "stars": 152,
-    "language": "Python",
-    "updated_at": "2026-04-29T12:25:58Z"
+    "updated_at": "2026-04-30T02:42:05Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 86,
+    "stars": 90,
     "language": "TypeScript",
-    "updated_at": "2026-04-29T20:44:47Z"
+    "updated_at": "2026-04-30T01:37:25Z"
   },
   {
     "name": "axi-front-design-skill",
@@ -52,15 +25,6 @@
     "stars": 81,
     "language": null,
     "updated_at": "2026-04-29T17:06:26Z"
-  },
-  {
-    "name": "teenycode",
-    "full_name": "yangshun/teenycode",
-    "description": "A tiny coding agent in under 200 LOC",
-    "url": "https://github.com/yangshun/teenycode",
-    "stars": 67,
-    "language": "TypeScript",
-    "updated_at": "2026-04-29T19:44:19Z"
   },
   {
     "name": "AI-Image-Generator-2026",
@@ -88,5 +52,41 @@
     "stars": 27,
     "language": "Swift",
     "updated_at": "2026-04-29T10:06:56Z"
+  },
+  {
+    "name": "claude-comstyle",
+    "full_name": "bsquang/claude-comstyle",
+    "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
+    "url": "https://github.com/bsquang/claude-comstyle",
+    "stars": 26,
+    "language": null,
+    "updated_at": "2026-04-28T05:29:09Z"
+  },
+  {
+    "name": "AgentForge",
+    "full_name": "Saichandra2520/AgentForge",
+    "description": "Scaffold production-ready AI agent projects in Python (ReAct, RAG, and Multi-Agent Supervisor) with one CLI command",
+    "url": "https://github.com/Saichandra2520/AgentForge",
+    "stars": 19,
+    "language": "Python",
+    "updated_at": "2026-04-29T09:36:16Z"
+  },
+  {
+    "name": "rig",
+    "full_name": "SrihariLegend/rig",
+    "description": "AI coding agent in C. Single binary, zero runtime deps, every major LLM provider. Early stage — contributions welcome.",
+    "url": "https://github.com/SrihariLegend/rig",
+    "stars": 19,
+    "language": "C",
+    "updated_at": "2026-04-29T19:53:45Z"
+  },
+  {
+    "name": "golab",
+    "full_name": "hoangnecon/golab",
+    "description": "A blazing-fast, native Golang Model Context Protocol (MCP) Server for controlling and scraping Google Colab locally.",
+    "url": "https://github.com/hoangnecon/golab",
+    "stars": 11,
+    "language": "Go",
+    "updated_at": "2026-04-29T13:54:24Z"
   }
 ]
