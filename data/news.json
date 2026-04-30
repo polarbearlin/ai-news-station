@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-30 17:21:49",
+  "generated_at": "2026-04-30 21:01:15",
   "news": [
-    {
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "source": "Hacker News",
-      "time": "2026-04-30 15:31",
-      "score": 152,
-      "comments": 35
-    },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "source": "Hacker News",
       "time": "2026-04-30 16:09",
-      "score": 35,
-      "comments": 0
+      "score": 249,
+      "comments": 79
+    },
+    {
+      "title": "CopyFail was not disclosed to Gentoo developer",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "source": "Hacker News",
+      "time": "2026-04-30 16:43",
+      "score": 253,
+      "comments": 169
     }
   ]
 }

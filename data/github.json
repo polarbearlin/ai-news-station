@@ -4,9 +4,9 @@
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 587,
+    "stars": 593,
     "language": "Go",
-    "updated_at": "2026-04-30T17:01:09Z"
+    "updated_at": "2026-04-30T20:52:12Z"
   },
   {
     "name": "clawd.rip",
@@ -27,6 +27,15 @@
     "updated_at": "2026-04-30T16:31:40Z"
   },
   {
+    "name": "opencode-chrome-annotation",
+    "full_name": "JodusNodus/opencode-chrome-annotation",
+    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
+    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
+    "stars": 40,
+    "language": "TypeScript",
+    "updated_at": "2026-04-30T19:57:24Z"
+  },
+  {
     "name": "AI-Image-Generator-2026",
     "full_name": "pezufibuxoso654111/AI-Image-Generator-2026",
     "description": "A foundational toolkit for exploring and implementing AI-powered image generation.",
@@ -34,15 +43,6 @@
     "stars": 36,
     "language": "C#",
     "updated_at": "2026-04-29T20:12:18Z"
-  },
-  {
-    "name": "opencode-chrome-annotation",
-    "full_name": "JodusNodus/opencode-chrome-annotation",
-    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
-    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 36,
-    "language": "TypeScript",
-    "updated_at": "2026-04-30T17:13:36Z"
   },
   {
     "name": "claude-history-manager",
@@ -72,21 +72,21 @@
     "updated_at": "2026-04-30T03:14:07Z"
   },
   {
+    "name": "AI-for-engineering-leaders",
+    "full_name": "shiphrahx/AI-for-engineering-leaders",
+    "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
+    "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-04-30T20:34:29Z"
+  },
+  {
     "name": "rig",
     "full_name": "SrihariLegend/rig",
     "description": "AI coding agent in C. Single binary, zero runtime deps, every major LLM provider. Early stage — contributions welcome.",
     "url": "https://github.com/SrihariLegend/rig",
-    "stars": 20,
+    "stars": 21,
     "language": "C",
-    "updated_at": "2026-04-30T15:52:42Z"
-  },
-  {
-    "name": "AgentForge",
-    "full_name": "Saichandra2520/AgentForge",
-    "description": "Scaffold production-ready AI agent projects in Python (ReAct, RAG, and Multi-Agent Supervisor) with one CLI command",
-    "url": "https://github.com/Saichandra2520/AgentForge",
-    "stars": 19,
-    "language": "Python",
-    "updated_at": "2026-04-29T09:36:16Z"
+    "updated_at": "2026-04-30T18:16:26Z"
   }
 ]
