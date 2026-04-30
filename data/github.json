@@ -4,27 +4,27 @@
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 580,
+    "stars": 587,
     "language": "Go",
-    "updated_at": "2026-04-30T12:13:13Z"
+    "updated_at": "2026-04-30T17:01:09Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 93,
+    "stars": 94,
     "language": "TypeScript",
-    "updated_at": "2026-04-30T12:32:19Z"
+    "updated_at": "2026-04-30T17:03:09Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 83,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-04-30T13:12:04Z"
+    "updated_at": "2026-04-30T16:31:40Z"
   },
   {
     "name": "AI-Image-Generator-2026",
@@ -34,6 +34,15 @@
     "stars": 36,
     "language": "C#",
     "updated_at": "2026-04-29T20:12:18Z"
+  },
+  {
+    "name": "opencode-chrome-annotation",
+    "full_name": "JodusNodus/opencode-chrome-annotation",
+    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
+    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
+    "stars": 36,
+    "language": "TypeScript",
+    "updated_at": "2026-04-30T17:13:36Z"
   },
   {
     "name": "claude-history-manager",
@@ -63,13 +72,13 @@
     "updated_at": "2026-04-30T03:14:07Z"
   },
   {
-    "name": "opencode-chrome-annotation",
-    "full_name": "JodusNodus/opencode-chrome-annotation",
-    "description": "Request changes in Chrome and send it to your OpenCode session",
-    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 26,
-    "language": "TypeScript",
-    "updated_at": "2026-04-30T13:49:39Z"
+    "name": "rig",
+    "full_name": "SrihariLegend/rig",
+    "description": "AI coding agent in C. Single binary, zero runtime deps, every major LLM provider. Early stage — contributions welcome.",
+    "url": "https://github.com/SrihariLegend/rig",
+    "stars": 20,
+    "language": "C",
+    "updated_at": "2026-04-30T15:52:42Z"
   },
   {
     "name": "AgentForge",
@@ -79,14 +88,5 @@
     "stars": 19,
     "language": "Python",
     "updated_at": "2026-04-29T09:36:16Z"
-  },
-  {
-    "name": "rig",
-    "full_name": "SrihariLegend/rig",
-    "description": "AI coding agent in C. Single binary, zero runtime deps, every major LLM provider. Early stage — contributions welcome.",
-    "url": "https://github.com/SrihariLegend/rig",
-    "stars": 19,
-    "language": "C",
-    "updated_at": "2026-04-29T19:53:45Z"
   }
 ]

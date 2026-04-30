@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-04-30 13:56:55",
+  "generated_at": "2026-04-30 17:21:49",
   "news": [
     {
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
       "source": "Hacker News",
-      "time": "2026-04-30 02:15",
-      "score": 435,
-      "comments": 221
+      "time": "2026-04-30 15:31",
+      "score": 152,
+      "comments": 35
+    },
+    {
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "source": "Hacker News",
+      "time": "2026-04-30 16:09",
+      "score": 35,
+      "comments": 0
     }
   ]
 }
