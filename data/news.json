@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-04-30 06:27:02",
+  "generated_at": "2026-04-30 10:06:14",
   "news": [
+    {
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "source": "Hacker News",
+      "time": "2026-04-30 02:15",
+      "score": 283,
+      "comments": 122
+    },
     {
       "title": "Craig Venter has died",
       "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
       "source": "Hacker News",
       "time": "2026-04-30 01:44",
-      "score": 188,
-      "comments": 33
-    },
-    {
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "source": "Hacker News",
-      "time": "2026-04-30 03:11",
-      "score": 83,
-      "comments": 47
-    },
-    {
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "source": "Hacker News",
-      "time": "2026-04-30 02:15",
-      "score": 122,
-      "comments": 42
+      "score": 233,
+      "comments": 41
     },
     {
       "title": "Copy Fail",
       "url": "https://copy.fail/",
       "source": "Hacker News",
       "time": "2026-04-29 18:13",
-      "score": 818,
-      "comments": 315
+      "score": 977,
+      "comments": 360
     }
   ]
 }

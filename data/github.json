@@ -4,9 +4,9 @@
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 568,
+    "stars": 574,
     "language": "Go",
-    "updated_at": "2026-04-30T06:25:25Z"
+    "updated_at": "2026-04-30T09:45:31Z"
   },
   {
     "name": "clawd.rip",
@@ -36,15 +36,6 @@
     "updated_at": "2026-04-29T20:12:18Z"
   },
   {
-    "name": "claude-history-manager",
-    "full_name": "josephyaduvanshi/claude-history-manager",
-    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
-    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 28,
-    "language": "Swift",
-    "updated_at": "2026-04-30T06:09:06Z"
-  },
-  {
     "name": "smart-rename",
     "full_name": "Jane-xiaoer/smart-rename",
     "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
@@ -52,6 +43,15 @@
     "stars": 28,
     "language": "Shell",
     "updated_at": "2026-04-29T06:54:24Z"
+  },
+  {
+    "name": "claude-history-manager",
+    "full_name": "josephyaduvanshi/claude-history-manager",
+    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
+    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
+    "stars": 28,
+    "language": "Swift",
+    "updated_at": "2026-04-30T06:09:06Z"
   },
   {
     "name": "claude-comstyle",
@@ -87,6 +87,6 @@
     "url": "https://github.com/hoangnecon/golab",
     "stars": 11,
     "language": "Go",
-    "updated_at": "2026-04-29T13:54:24Z"
+    "updated_at": "2026-04-30T10:03:47Z"
   }
 ]
