@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-01 06:36:39",
+  "generated_at": "2026-05-01 09:46:09",
   "news": [
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "source": "Hacker News",
       "time": "2026-04-30 16:09",
-      "score": 374,
-      "comments": 127
+      "score": 396,
+      "comments": 135
     }
   ]
 }
