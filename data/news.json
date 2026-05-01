@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-04-30 21:01:15",
+  "generated_at": "2026-05-01 03:27:50",
   "news": [
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "source": "Hacker News",
       "time": "2026-04-30 16:09",
-      "score": 249,
-      "comments": 79
-    },
-    {
-      "title": "CopyFail was not disclosed to Gentoo developer",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "source": "Hacker News",
-      "time": "2026-04-30 16:43",
-      "score": 253,
-      "comments": 169
+      "score": 340,
+      "comments": 116
     }
   ]
 }

@@ -1,21 +1,12 @@
 [
   {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 593,
-    "language": "Go",
-    "updated_at": "2026-04-30T20:52:12Z"
-  },
-  {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 94,
+    "stars": 96,
     "language": "TypeScript",
-    "updated_at": "2026-04-30T17:03:09Z"
+    "updated_at": "2026-04-30T23:04:33Z"
   },
   {
     "name": "axi-front-design-skill",
@@ -31,9 +22,9 @@
     "full_name": "JodusNodus/opencode-chrome-annotation",
     "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
     "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 40,
+    "stars": 45,
     "language": "TypeScript",
-    "updated_at": "2026-04-30T19:57:24Z"
+    "updated_at": "2026-05-01T00:26:53Z"
   },
   {
     "name": "AI-Image-Generator-2026",
@@ -45,6 +36,24 @@
     "updated_at": "2026-04-29T20:12:18Z"
   },
   {
+    "name": "diagnostic",
+    "full_name": "ifixai-ai/diagnostic",
+    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
+    "url": "https://github.com/ifixai-ai/diagnostic",
+    "stars": 35,
+    "language": "Python",
+    "updated_at": "2026-05-01T01:27:46Z"
+  },
+  {
+    "name": "smart-rename",
+    "full_name": "Jane-xiaoer/smart-rename",
+    "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
+    "url": "https://github.com/Jane-xiaoer/smart-rename",
+    "stars": 29,
+    "language": "Shell",
+    "updated_at": "2026-05-01T01:39:38Z"
+  },
+  {
     "name": "claude-history-manager",
     "full_name": "josephyaduvanshi/claude-history-manager",
     "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
@@ -54,31 +63,13 @@
     "updated_at": "2026-04-30T10:29:08Z"
   },
   {
-    "name": "smart-rename",
-    "full_name": "Jane-xiaoer/smart-rename",
-    "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
-    "url": "https://github.com/Jane-xiaoer/smart-rename",
-    "stars": 28,
-    "language": "Shell",
-    "updated_at": "2026-04-29T06:54:24Z"
-  },
-  {
-    "name": "claude-comstyle",
-    "full_name": "bsquang/claude-comstyle",
-    "description": "13 prompts to control how Claude communicates — choose your style, cut the noise.",
-    "url": "https://github.com/bsquang/claude-comstyle",
-    "stars": 27,
-    "language": null,
-    "updated_at": "2026-04-30T03:14:07Z"
-  },
-  {
     "name": "AI-for-engineering-leaders",
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 21,
+    "stars": 28,
     "language": null,
-    "updated_at": "2026-04-30T20:34:29Z"
+    "updated_at": "2026-05-01T03:18:06Z"
   },
   {
     "name": "rig",
@@ -87,6 +78,15 @@
     "url": "https://github.com/SrihariLegend/rig",
     "stars": 21,
     "language": "C",
-    "updated_at": "2026-04-30T18:16:26Z"
+    "updated_at": "2026-04-30T22:58:17Z"
+  },
+  {
+    "name": "AgentForge",
+    "full_name": "Saichandra2520/AgentForge",
+    "description": "Scaffold production-ready AI agent projects in Python (ReAct, RAG, and Multi-Agent Supervisor) with one CLI command",
+    "url": "https://github.com/Saichandra2520/AgentForge",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-04-30T22:56:52Z"
   }
 ]
