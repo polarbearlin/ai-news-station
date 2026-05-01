@@ -4,9 +4,9 @@
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 97,
+    "stars": 98,
     "language": "TypeScript",
-    "updated_at": "2026-05-01T07:34:48Z"
+    "updated_at": "2026-05-01T12:29:57Z"
   },
   {
     "name": "axi-front-design-skill",
@@ -18,13 +18,22 @@
     "updated_at": "2026-05-01T07:03:22Z"
   },
   {
+    "name": "Aether",
+    "full_name": "Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "url": "https://github.com/Zhou-Shilin/Aether",
+    "stars": 68,
+    "language": "Kotlin",
+    "updated_at": "2026-05-01T09:59:01Z"
+  },
+  {
     "name": "opencode-chrome-annotation",
     "full_name": "JodusNodus/opencode-chrome-annotation",
     "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
     "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 46,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-05-01T06:07:56Z"
+    "updated_at": "2026-05-01T10:28:14Z"
   },
   {
     "name": "AI-Image-Generator-2026",
@@ -42,7 +51,7 @@
     "url": "https://github.com/ifixai-ai/diagnostic",
     "stars": 35,
     "language": "Python",
-    "updated_at": "2026-05-01T01:27:46Z"
+    "updated_at": "2026-05-01T12:27:43Z"
   },
   {
     "name": "AI-for-engineering-leaders",
@@ -51,7 +60,16 @@
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
     "stars": 31,
     "language": null,
-    "updated_at": "2026-05-01T08:17:07Z"
+    "updated_at": "2026-05-01T11:16:17Z"
+  },
+  {
+    "name": "claude-history-manager",
+    "full_name": "josephyaduvanshi/claude-history-manager",
+    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
+    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
+    "stars": 30,
+    "language": "Swift",
+    "updated_at": "2026-05-01T09:59:35Z"
   },
   {
     "name": "smart-rename",
@@ -63,15 +81,6 @@
     "updated_at": "2026-05-01T01:39:38Z"
   },
   {
-    "name": "claude-history-manager",
-    "full_name": "josephyaduvanshi/claude-history-manager",
-    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
-    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 29,
-    "language": "Swift",
-    "updated_at": "2026-04-30T10:29:08Z"
-  },
-  {
     "name": "product-idea-excavator",
     "full_name": "derrickgong87/product-idea-excavator",
     "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
@@ -79,14 +88,5 @@
     "stars": 29,
     "language": null,
     "updated_at": "2026-05-01T06:40:57Z"
-  },
-  {
-    "name": "rig",
-    "full_name": "SrihariLegend/rig",
-    "description": "AI coding agent in C. Single binary, zero runtime deps, every major LLM provider. Early stage — contributions welcome.",
-    "url": "https://github.com/SrihariLegend/rig",
-    "stars": 21,
-    "language": "C",
-    "updated_at": "2026-04-30T22:58:17Z"
   }
 ]
