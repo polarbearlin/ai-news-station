@@ -4,45 +4,54 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 127,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-05-02T06:00:00Z"
+    "updated_at": "2026-05-02T08:20:58Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 100,
+    "stars": 101,
     "language": "TypeScript",
-    "updated_at": "2026-05-01T23:05:53Z"
+    "updated_at": "2026-05-02T06:20:06Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 93,
+    "stars": 94,
     "language": null,
-    "updated_at": "2026-05-02T05:01:33Z"
+    "updated_at": "2026-05-02T08:32:22Z"
   },
   {
     "name": "opencode-chrome-annotation",
     "full_name": "JodusNodus/opencode-chrome-annotation",
     "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
     "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 50,
+    "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-05-01T19:45:03Z"
+    "updated_at": "2026-05-02T06:36:40Z"
   },
   {
     "name": "diagnostic",
     "full_name": "ifixai-ai/diagnostic",
     "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
     "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 38,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-05-02T05:08:31Z"
+    "updated_at": "2026-05-02T09:00:19Z"
+  },
+  {
+    "name": "AI-for-engineering-leaders",
+    "full_name": "shiphrahx/AI-for-engineering-leaders",
+    "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
+    "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
+    "stars": 36,
+    "language": null,
+    "updated_at": "2026-05-02T06:52:31Z"
   },
   {
     "name": "AI-Image-Generator-2026",
@@ -61,15 +70,6 @@
     "stars": 35,
     "language": null,
     "updated_at": "2026-05-02T05:17:20Z"
-  },
-  {
-    "name": "AI-for-engineering-leaders",
-    "full_name": "shiphrahx/AI-for-engineering-leaders",
-    "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
-    "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 35,
-    "language": null,
-    "updated_at": "2026-05-02T03:29:01Z"
   },
   {
     "name": "smart-rename",
