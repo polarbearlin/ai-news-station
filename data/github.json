@@ -4,36 +4,36 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 135,
+    "stars": 138,
     "language": "TypeScript",
-    "updated_at": "2026-05-02T12:29:29Z"
+    "updated_at": "2026-05-02T15:52:19Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 101,
+    "stars": 102,
     "language": "TypeScript",
-    "updated_at": "2026-05-02T06:20:06Z"
+    "updated_at": "2026-05-02T13:42:53Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 94,
+    "stars": 96,
     "language": null,
-    "updated_at": "2026-05-02T08:32:22Z"
+    "updated_at": "2026-05-02T15:39:04Z"
   },
   {
     "name": "diagnostic",
     "full_name": "ifixai-ai/diagnostic",
     "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
     "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 60,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-05-02T13:06:24Z"
+    "updated_at": "2026-05-02T16:28:49Z"
   },
   {
     "name": "opencode-chrome-annotation",
@@ -49,18 +49,18 @@
     "full_name": "elisaterumi-ai/agent-skills-in-practice",
     "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
     "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 39,
+    "stars": 43,
     "language": null,
-    "updated_at": "2026-05-02T12:20:30Z"
+    "updated_at": "2026-05-02T15:59:11Z"
   },
   {
     "name": "AI-for-engineering-leaders",
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 36,
+    "stars": 37,
     "language": null,
-    "updated_at": "2026-05-02T06:52:31Z"
+    "updated_at": "2026-05-02T13:43:11Z"
   },
   {
     "name": "AI-Image-Generator-2026",

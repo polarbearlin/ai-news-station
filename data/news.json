@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-05-02 13:12:47",
-  "news": []
+  "generated_at": "2026-05-02 16:49:45",
+  "news": [
+    {
+      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "source": "Hacker News",
+      "time": "2026-05-02 15:28",
+      "score": 165,
+      "comments": 75
+    },
+    {
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+      "source": "Hacker News",
+      "time": "2026-05-02 12:08",
+      "score": 37,
+      "comments": 7
+    }
+  ]
 }
