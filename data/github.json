@@ -4,9 +4,9 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 125,
+    "stars": 127,
     "language": "TypeScript",
-    "updated_at": "2026-05-02T02:35:05Z"
+    "updated_at": "2026-05-02T06:00:00Z"
   },
   {
     "name": "clawd.rip",
@@ -22,9 +22,9 @@
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 92,
+    "stars": 93,
     "language": null,
-    "updated_at": "2026-05-02T02:01:40Z"
+    "updated_at": "2026-05-02T05:01:33Z"
   },
   {
     "name": "opencode-chrome-annotation",
@@ -36,6 +36,15 @@
     "updated_at": "2026-05-01T19:45:03Z"
   },
   {
+    "name": "diagnostic",
+    "full_name": "ifixai-ai/diagnostic",
+    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
+    "url": "https://github.com/ifixai-ai/diagnostic",
+    "stars": 38,
+    "language": "Python",
+    "updated_at": "2026-05-02T05:08:31Z"
+  },
+  {
     "name": "AI-Image-Generator-2026",
     "full_name": "pezufibuxoso654111/AI-Image-Generator-2026",
     "description": "A foundational toolkit for exploring and implementing AI-powered image generation.",
@@ -45,31 +54,22 @@
     "updated_at": "2026-04-29T20:12:18Z"
   },
   {
-    "name": "diagnostic",
-    "full_name": "ifixai-ai/diagnostic",
-    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
-    "url": "https://github.com/ifixai-ai/diagnostic",
+    "name": "agent-skills-in-practice",
+    "full_name": "elisaterumi-ai/agent-skills-in-practice",
+    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
+    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
     "stars": 35,
-    "language": "Python",
-    "updated_at": "2026-05-01T13:34:06Z"
+    "language": null,
+    "updated_at": "2026-05-02T05:17:20Z"
   },
   {
     "name": "AI-for-engineering-leaders",
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 34,
+    "stars": 35,
     "language": null,
-    "updated_at": "2026-05-01T18:36:47Z"
-  },
-  {
-    "name": "agent-skills-in-practice",
-    "full_name": "elisaterumi-ai/agent-skills-in-practice",
-    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
-    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 33,
-    "language": null,
-    "updated_at": "2026-05-02T02:17:10Z"
+    "updated_at": "2026-05-02T03:29:01Z"
   },
   {
     "name": "smart-rename",
