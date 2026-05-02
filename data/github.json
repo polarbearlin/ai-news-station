@@ -4,9 +4,9 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 130,
+    "stars": 135,
     "language": "TypeScript",
-    "updated_at": "2026-05-02T08:20:58Z"
+    "updated_at": "2026-05-02T12:29:29Z"
   },
   {
     "name": "clawd.rip",
@@ -27,6 +27,15 @@
     "updated_at": "2026-05-02T08:32:22Z"
   },
   {
+    "name": "diagnostic",
+    "full_name": "ifixai-ai/diagnostic",
+    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
+    "url": "https://github.com/ifixai-ai/diagnostic",
+    "stars": 60,
+    "language": "Python",
+    "updated_at": "2026-05-02T13:06:24Z"
+  },
+  {
     "name": "opencode-chrome-annotation",
     "full_name": "JodusNodus/opencode-chrome-annotation",
     "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
@@ -36,13 +45,13 @@
     "updated_at": "2026-05-02T06:36:40Z"
   },
   {
-    "name": "diagnostic",
-    "full_name": "ifixai-ai/diagnostic",
-    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
-    "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-05-02T09:00:19Z"
+    "name": "agent-skills-in-practice",
+    "full_name": "elisaterumi-ai/agent-skills-in-practice",
+    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
+    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
+    "stars": 39,
+    "language": null,
+    "updated_at": "2026-05-02T12:20:30Z"
   },
   {
     "name": "AI-for-engineering-leaders",
@@ -61,15 +70,6 @@
     "stars": 36,
     "language": "C#",
     "updated_at": "2026-04-29T20:12:18Z"
-  },
-  {
-    "name": "agent-skills-in-practice",
-    "full_name": "elisaterumi-ai/agent-skills-in-practice",
-    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
-    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 35,
-    "language": null,
-    "updated_at": "2026-05-02T05:17:20Z"
   },
   {
     "name": "smart-rename",
