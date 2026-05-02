@@ -4,36 +4,27 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 123,
+    "stars": 125,
     "language": "TypeScript",
-    "updated_at": "2026-05-01T20:36:08Z"
+    "updated_at": "2026-05-02T02:35:05Z"
   },
   {
     "name": "clawd.rip",
     "full_name": "maria-rcks/clawd.rip",
     "description": "Everything that *went* wrong with Claude.",
     "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 99,
+    "stars": 100,
     "language": "TypeScript",
-    "updated_at": "2026-05-01T16:38:57Z"
+    "updated_at": "2026-05-01T23:05:53Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 91,
+    "stars": 92,
     "language": null,
-    "updated_at": "2026-05-01T17:15:48Z"
-  },
-  {
-    "name": "Aether",
-    "full_name": "Zhou-Shilin/Aether",
-    "description": "A stunning, localized, general-purpose AI Agent for Android.",
-    "url": "https://github.com/Zhou-Shilin/Aether",
-    "stars": 72,
-    "language": "Kotlin",
-    "updated_at": "2026-05-01T19:31:00Z"
+    "updated_at": "2026-05-02T02:01:40Z"
   },
   {
     "name": "opencode-chrome-annotation",
@@ -72,21 +63,30 @@
     "updated_at": "2026-05-01T18:36:47Z"
   },
   {
-    "name": "claude-history-manager",
-    "full_name": "josephyaduvanshi/claude-history-manager",
-    "description": "A native macOS browser for your Claude Code session history. Search, pin, tag, resume sessions in any terminal. Transcripts stay on your Mac.",
-    "url": "https://github.com/josephyaduvanshi/claude-history-manager",
-    "stars": 30,
-    "language": "Swift",
-    "updated_at": "2026-05-01T09:59:35Z"
+    "name": "agent-skills-in-practice",
+    "full_name": "elisaterumi-ai/agent-skills-in-practice",
+    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
+    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
+    "stars": 33,
+    "language": null,
+    "updated_at": "2026-05-02T02:17:10Z"
   },
   {
     "name": "smart-rename",
     "full_name": "Jane-xiaoer/smart-rename",
     "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
     "url": "https://github.com/Jane-xiaoer/smart-rename",
-    "stars": 29,
+    "stars": 30,
     "language": "Shell",
-    "updated_at": "2026-05-01T01:39:38Z"
+    "updated_at": "2026-05-01T21:54:25Z"
+  },
+  {
+    "name": "product-idea-excavator",
+    "full_name": "derrickgong87/product-idea-excavator",
+    "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
+    "url": "https://github.com/derrickgong87/product-idea-excavator",
+    "stars": 29,
+    "language": null,
+    "updated_at": "2026-05-01T06:40:57Z"
   }
 ]
