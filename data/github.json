@@ -4,18 +4,18 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 139,
+    "stars": 148,
     "language": "TypeScript",
-    "updated_at": "2026-05-02T19:01:40Z"
+    "updated_at": "2026-05-03T02:55:37Z"
   },
   {
     "name": "diagnostic",
     "full_name": "ifixai-ai/diagnostic",
     "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
     "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 111,
+    "stars": 130,
     "language": "Python",
-    "updated_at": "2026-05-02T20:36:54Z"
+    "updated_at": "2026-05-03T02:17:01Z"
   },
   {
     "name": "clawd.rip",
@@ -31,9 +31,9 @@
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 97,
+    "stars": 99,
     "language": null,
-    "updated_at": "2026-05-02T17:05:15Z"
+    "updated_at": "2026-05-03T02:43:45Z"
   },
   {
     "name": "product-idea-excavator",
@@ -58,9 +58,9 @@
     "full_name": "elisaterumi-ai/agent-skills-in-practice",
     "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
     "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 48,
+    "stars": 50,
     "language": null,
-    "updated_at": "2026-05-02T20:00:11Z"
+    "updated_at": "2026-05-03T00:08:30Z"
   },
   {
     "name": "AI-for-engineering-leaders",
@@ -81,12 +81,12 @@
     "updated_at": "2026-04-29T20:12:18Z"
   },
   {
-    "name": "smart-rename",
-    "full_name": "Jane-xiaoer/smart-rename",
-    "description": "Right-click any file in Finder → AI gives it a meaningful name. Images, videos, PDFs, Word, Markdown, folders. macOS native, BYOK Gemini, MIT.",
-    "url": "https://github.com/Jane-xiaoer/smart-rename",
-    "stars": 30,
-    "language": "Shell",
-    "updated_at": "2026-05-01T21:54:25Z"
+    "name": "IDACLI",
+    "full_name": "ze-mu-zhou/IDACLI",
+    "description": "AI-native IDA Pro kernel — unrestricted IDAPython over JSONL, persistent sessions, zero dependencies. Let your agent drive IDA, not call tools.",
+    "url": "https://github.com/ze-mu-zhou/IDACLI",
+    "stars": 27,
+    "language": "Python",
+    "updated_at": "2026-05-03T00:47:40Z"
   }
 ]
