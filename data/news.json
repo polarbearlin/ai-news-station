@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-03 06:25:43",
+  "generated_at": "2026-05-03 09:21:43",
   "news": [
     {
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
       "source": "Hacker News",
-      "time": "2026-05-03 04:05",
-      "score": 160,
-      "comments": 73
+      "time": "2026-05-03 06:33",
+      "score": 100,
+      "comments": 80
     }
   ]
 }
