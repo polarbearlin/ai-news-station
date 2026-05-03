@@ -4,27 +4,27 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 182,
+    "stars": 184,
     "language": "TypeScript",
-    "updated_at": "2026-05-03T16:05:53Z"
+    "updated_at": "2026-05-03T17:28:55Z"
   },
   {
     "name": "diagnostic",
     "full_name": "ifixai-ai/diagnostic",
     "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Built by iMe.",
     "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 151,
+    "stars": 155,
     "language": "Python",
-    "updated_at": "2026-05-03T16:34:08Z"
+    "updated_at": "2026-05-03T20:04:53Z"
   },
   {
     "name": "axi-front-design-skill",
     "full_name": "bbostaice/axi-front-design-skill",
     "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
     "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 104,
+    "stars": 105,
     "language": null,
-    "updated_at": "2026-05-03T15:40:54Z"
+    "updated_at": "2026-05-03T20:05:46Z"
   },
   {
     "name": "clawd.rip",
@@ -85,8 +85,8 @@
     "full_name": "Automations-Project/VSCode-Perplexity-MCP",
     "description": "Perplexity AI search, reasoning, research, and compute - MCP server, dashboard, and multi-IDE auto-config for VS Code.",
     "url": "https://github.com/Automations-Project/VSCode-Perplexity-MCP",
-    "stars": 32,
+    "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-05-03T15:53:38Z"
+    "updated_at": "2026-05-03T19:13:26Z"
   }
 ]

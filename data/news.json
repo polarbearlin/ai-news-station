@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-03 16:52:02",
+  "generated_at": "2026-05-03 20:42:06",
   "news": [
     {
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
       "source": "Hacker News",
-      "time": "2026-04-30 22:35",
-      "score": 83,
-      "comments": 22
+      "time": "2026-05-03 00:30",
+      "score": 130,
+      "comments": 62
     }
   ]
 }
