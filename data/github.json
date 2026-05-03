@@ -4,18 +4,27 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 175,
+    "stars": 182,
     "language": "TypeScript",
-    "updated_at": "2026-05-03T12:39:49Z"
+    "updated_at": "2026-05-03T16:05:53Z"
   },
   {
     "name": "diagnostic",
     "full_name": "ifixai-ai/diagnostic",
-    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Powered by iMe.",
+    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Built by iMe.",
     "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 149,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-05-03T11:53:08Z"
+    "updated_at": "2026-05-03T16:34:08Z"
+  },
+  {
+    "name": "axi-front-design-skill",
+    "full_name": "bbostaice/axi-front-design-skill",
+    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "stars": 104,
+    "language": null,
+    "updated_at": "2026-05-03T15:40:54Z"
   },
   {
     "name": "clawd.rip",
@@ -27,22 +36,22 @@
     "updated_at": "2026-05-02T13:42:53Z"
   },
   {
-    "name": "axi-front-design-skill",
-    "full_name": "bbostaice/axi-front-design-skill",
-    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
-    "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 101,
-    "language": null,
-    "updated_at": "2026-05-03T08:19:03Z"
-  },
-  {
     "name": "agent-skills-in-practice",
     "full_name": "elisaterumi-ai/agent-skills-in-practice",
     "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
     "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 52,
+    "stars": 54,
     "language": null,
-    "updated_at": "2026-05-03T11:56:21Z"
+    "updated_at": "2026-05-03T14:59:44Z"
+  },
+  {
+    "name": "opencode-chrome-annotation",
+    "full_name": "JodusNodus/opencode-chrome-annotation",
+    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
+    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
+    "stars": 54,
+    "language": "TypeScript",
+    "updated_at": "2026-05-03T16:05:45Z"
   },
   {
     "name": "product-idea-excavator",
@@ -52,15 +61,6 @@
     "stars": 52,
     "language": null,
     "updated_at": "2026-05-03T04:12:58Z"
-  },
-  {
-    "name": "opencode-chrome-annotation",
-    "full_name": "JodusNodus/opencode-chrome-annotation",
-    "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
-    "url": "https://github.com/JodusNodus/opencode-chrome-annotation",
-    "stars": 52,
-    "language": "TypeScript",
-    "updated_at": "2026-05-03T09:54:06Z"
   },
   {
     "name": "AI-for-engineering-leaders",
@@ -85,8 +85,8 @@
     "full_name": "Automations-Project/VSCode-Perplexity-MCP",
     "description": "Perplexity AI search, reasoning, research, and compute - MCP server, dashboard, and multi-IDE auto-config for VS Code.",
     "url": "https://github.com/Automations-Project/VSCode-Perplexity-MCP",
-    "stars": 31,
+    "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-05-03T12:52:18Z"
+    "updated_at": "2026-05-03T15:53:38Z"
   }
 ]
