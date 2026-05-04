@@ -4,18 +4,36 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 192,
+    "stars": 200,
     "language": "TypeScript",
-    "updated_at": "2026-05-04T10:07:58Z"
+    "updated_at": "2026-05-04T12:56:12Z"
+  },
+  {
+    "name": "product-idea-excavator",
+    "full_name": "derrickgong87/product-idea-excavator",
+    "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
+    "url": "https://github.com/derrickgong87/product-idea-excavator",
+    "stars": 64,
+    "language": null,
+    "updated_at": "2026-05-04T14:00:04Z"
   },
   {
     "name": "openagentd",
     "full_name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 61,
+    "stars": 64,
     "language": "Python",
-    "updated_at": "2026-05-04T07:28:32Z"
+    "updated_at": "2026-05-04T12:07:25Z"
+  },
+  {
+    "name": "ai-agent-skills",
+    "full_name": "DevelopersGlobal/ai-agent-skills",
+    "description": "AI agent skills for production grade applications",
+    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
+    "stars": 57,
+    "language": "Python",
+    "updated_at": "2026-05-04T13:47:05Z"
   },
   {
     "name": "opencode-chrome-annotation",
@@ -27,49 +45,31 @@
     "updated_at": "2026-05-03T16:05:45Z"
   },
   {
-    "name": "product-idea-excavator",
-    "full_name": "derrickgong87/product-idea-excavator",
-    "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
-    "url": "https://github.com/derrickgong87/product-idea-excavator",
-    "stars": 52,
-    "language": null,
-    "updated_at": "2026-05-03T04:12:58Z"
-  },
-  {
-    "name": "ai-agent-skills",
-    "full_name": "DevelopersGlobal/ai-agent-skills",
-    "description": "AI agent skills for production grade applications",
-    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 51,
-    "language": "Python",
-    "updated_at": "2026-05-04T10:09:43Z"
-  },
-  {
     "name": "AI-for-engineering-leaders",
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 40,
+    "stars": 42,
     "language": null,
-    "updated_at": "2026-05-04T09:19:39Z"
+    "updated_at": "2026-05-04T10:54:51Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
     "full_name": "multigroupco/MultiGroup-Build-With-AI-Course",
     "description": "MultiGroup Build With AI Course w/Google",
     "url": "https://github.com/multigroupco/MultiGroup-Build-With-AI-Course",
-    "stars": 32,
+    "stars": 35,
     "language": null,
-    "updated_at": "2026-05-04T10:08:21Z"
+    "updated_at": "2026-05-04T13:13:43Z"
   },
   {
     "name": "skill-file-security",
     "full_name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 32,
+    "stars": 34,
     "language": "JavaScript",
-    "updated_at": "2026-05-04T09:57:36Z"
+    "updated_at": "2026-05-04T14:01:54Z"
   },
   {
     "name": "IDACLI",
@@ -85,8 +85,8 @@
     "full_name": "nduckmink/arkon",
     "description": "Arkon is a platform that gives organizations centralized control over how employees use Claude. Admins manage knowledge, skills, and access policies from a single portal. Employees connect once and get the right context automatically - no manual configuration, no context switching.",
     "url": "https://github.com/nduckmink/arkon",
-    "stars": 16,
+    "stars": 17,
     "language": "Python",
-    "updated_at": "2026-05-04T05:52:34Z"
+    "updated_at": "2026-05-04T13:01:08Z"
   }
 ]
