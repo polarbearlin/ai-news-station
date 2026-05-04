@@ -4,9 +4,9 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 204,
+    "stars": 207,
     "language": "TypeScript",
-    "updated_at": "2026-05-04T16:51:45Z"
+    "updated_at": "2026-05-04T19:59:51Z"
   },
   {
     "name": "product-idea-excavator",
@@ -22,9 +22,9 @@
     "full_name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 73,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-05-04T17:33:15Z"
+    "updated_at": "2026-05-04T20:34:28Z"
   },
   {
     "name": "ai-agent-skills",
@@ -49,9 +49,9 @@
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 44,
+    "stars": 45,
     "language": null,
-    "updated_at": "2026-05-04T16:36:10Z"
+    "updated_at": "2026-05-04T20:37:48Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
@@ -85,8 +85,8 @@
     "full_name": "nduckmink/arkon",
     "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
     "url": "https://github.com/nduckmink/arkon",
-    "stars": 22,
+    "stars": 24,
     "language": "Python",
-    "updated_at": "2026-05-04T17:40:59Z"
+    "updated_at": "2026-05-04T18:52:46Z"
   }
 ]
