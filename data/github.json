@@ -9,42 +9,6 @@
     "updated_at": "2026-05-03T17:28:55Z"
   },
   {
-    "name": "diagnostic",
-    "full_name": "ifixai-ai/diagnostic",
-    "description": "iFixAi. The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Built by iMe.",
-    "url": "https://github.com/ifixai-ai/diagnostic",
-    "stars": 155,
-    "language": "Python",
-    "updated_at": "2026-05-03T20:04:53Z"
-  },
-  {
-    "name": "axi-front-design-skill",
-    "full_name": "bbostaice/axi-front-design-skill",
-    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
-    "url": "https://github.com/bbostaice/axi-front-design-skill",
-    "stars": 105,
-    "language": null,
-    "updated_at": "2026-05-03T20:05:46Z"
-  },
-  {
-    "name": "clawd.rip",
-    "full_name": "maria-rcks/clawd.rip",
-    "description": "Everything that *went* wrong with Claude.",
-    "url": "https://github.com/maria-rcks/clawd.rip",
-    "stars": 102,
-    "language": "TypeScript",
-    "updated_at": "2026-05-02T13:42:53Z"
-  },
-  {
-    "name": "agent-skills-in-practice",
-    "full_name": "elisaterumi-ai/agent-skills-in-practice",
-    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
-    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 54,
-    "language": null,
-    "updated_at": "2026-05-03T14:59:44Z"
-  },
-  {
     "name": "opencode-chrome-annotation",
     "full_name": "JodusNodus/opencode-chrome-annotation",
     "description": "Annotate any page in Chrome and send the screenshot, selected element metadata, and your instruction directly into OpenCode.",
@@ -63,30 +27,66 @@
     "updated_at": "2026-05-03T04:12:58Z"
   },
   {
+    "name": "openagentd",
+    "full_name": "lthoangg/openagentd",
+    "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
+    "url": "https://github.com/lthoangg/openagentd",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-05-04T02:13:22Z"
+  },
+  {
     "name": "AI-for-engineering-leaders",
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 37,
+    "stars": 38,
     "language": null,
-    "updated_at": "2026-05-02T13:43:11Z"
+    "updated_at": "2026-05-04T01:27:22Z"
   },
   {
-    "name": "AI-Image-Generator-2026",
-    "full_name": "pezufibuxoso654111/AI-Image-Generator-2026",
-    "description": "A foundational toolkit for exploring and implementing AI-powered image generation.",
-    "url": "https://github.com/pezufibuxoso654111/AI-Image-Generator-2026",
-    "stars": 36,
-    "language": "C#",
-    "updated_at": "2026-04-29T20:12:18Z"
+    "name": "ai-agent-skills",
+    "full_name": "DevelopersGlobal/ai-agent-skills",
+    "description": "AI agent skills for production grade applications",
+    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-05-04T02:40:12Z"
   },
   {
-    "name": "VSCode-Perplexity-MCP",
-    "full_name": "Automations-Project/VSCode-Perplexity-MCP",
-    "description": "Perplexity AI search, reasoning, research, and compute - MCP server, dashboard, and multi-IDE auto-config for VS Code.",
-    "url": "https://github.com/Automations-Project/VSCode-Perplexity-MCP",
-    "stars": 34,
-    "language": "TypeScript",
-    "updated_at": "2026-05-03T19:13:26Z"
+    "name": "MultiGroup-Build-With-AI-Course",
+    "full_name": "multigroupco/MultiGroup-Build-With-AI-Course",
+    "description": "MultiGroup Build With AI Course w/Google",
+    "url": "https://github.com/multigroupco/MultiGroup-Build-With-AI-Course",
+    "stars": 29,
+    "language": null,
+    "updated_at": "2026-05-03T18:41:28Z"
+  },
+  {
+    "name": "skill-file-security",
+    "full_name": "Netxeo/skill-file-security",
+    "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
+    "url": "https://github.com/Netxeo/skill-file-security",
+    "stars": 28,
+    "language": "JavaScript",
+    "updated_at": "2026-05-04T02:28:14Z"
+  },
+  {
+    "name": "IDACLI",
+    "full_name": "ze-mu-zhou/IDACLI",
+    "description": "AI-native IDA Pro kernel — unrestricted IDAPython over JSONL, persistent sessions, zero dependencies. Let your agent drive IDA, not call tools.",
+    "url": "https://github.com/ze-mu-zhou/IDACLI",
+    "stars": 27,
+    "language": "Python",
+    "updated_at": "2026-05-03T00:47:40Z"
+  },
+  {
+    "name": "PROMPTS.md",
+    "full_name": "kyegomez/PROMPTS.md",
+    "description": "Understanding CLAUDE.md, MEMORY.md, SKILLS.md, SOUL.md, and Related Prompting Mechanisms",
+    "url": "https://github.com/kyegomez/PROMPTS.md",
+    "stars": 15,
+    "language": null,
+    "updated_at": "2026-05-03T01:16:55Z"
   }
 ]

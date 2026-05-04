@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-03 20:42:06",
+  "generated_at": "2026-05-04 02:54:17",
   "news": [
     {
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
       "source": "Hacker News",
-      "time": "2026-05-03 00:30",
-      "score": 130,
-      "comments": 62
+      "time": "2026-05-03 23:36",
+      "score": 168,
+      "comments": 122
+    },
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "source": "Hacker News",
+      "time": "2026-05-03 22:13",
+      "score": 178,
+      "comments": 83
     }
   ]
 }
