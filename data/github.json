@@ -6,7 +6,16 @@
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
     "stars": 184,
     "language": "TypeScript",
-    "updated_at": "2026-05-03T17:28:55Z"
+    "updated_at": "2026-05-04T06:22:59Z"
+  },
+  {
+    "name": "openagentd",
+    "full_name": "lthoangg/openagentd",
+    "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
+    "url": "https://github.com/lthoangg/openagentd",
+    "stars": 59,
+    "language": "Python",
+    "updated_at": "2026-05-04T06:05:42Z"
   },
   {
     "name": "opencode-chrome-annotation",
@@ -27,13 +36,13 @@
     "updated_at": "2026-05-03T04:12:58Z"
   },
   {
-    "name": "openagentd",
-    "full_name": "lthoangg/openagentd",
-    "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
-    "url": "https://github.com/lthoangg/openagentd",
-    "stars": 48,
+    "name": "ai-agent-skills",
+    "full_name": "DevelopersGlobal/ai-agent-skills",
+    "description": "AI agent skills for production grade applications",
+    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
+    "stars": 44,
     "language": "Python",
-    "updated_at": "2026-05-04T02:13:22Z"
+    "updated_at": "2026-05-04T05:14:34Z"
   },
   {
     "name": "AI-for-engineering-leaders",
@@ -45,13 +54,13 @@
     "updated_at": "2026-05-04T01:27:22Z"
   },
   {
-    "name": "ai-agent-skills",
-    "full_name": "DevelopersGlobal/ai-agent-skills",
-    "description": "AI agent skills for production grade applications",
-    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 39,
-    "language": "Python",
-    "updated_at": "2026-05-04T02:40:12Z"
+    "name": "skill-file-security",
+    "full_name": "Netxeo/skill-file-security",
+    "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
+    "url": "https://github.com/Netxeo/skill-file-security",
+    "stars": 29,
+    "language": "JavaScript",
+    "updated_at": "2026-05-04T05:55:12Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
@@ -63,15 +72,6 @@
     "updated_at": "2026-05-03T18:41:28Z"
   },
   {
-    "name": "skill-file-security",
-    "full_name": "Netxeo/skill-file-security",
-    "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
-    "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 28,
-    "language": "JavaScript",
-    "updated_at": "2026-05-04T02:28:14Z"
-  },
-  {
     "name": "IDACLI",
     "full_name": "ze-mu-zhou/IDACLI",
     "description": "AI-native IDA Pro kernel — unrestricted IDAPython over JSONL, persistent sessions, zero dependencies. Let your agent drive IDA, not call tools.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-03T00:47:40Z"
   },
   {
-    "name": "PROMPTS.md",
-    "full_name": "kyegomez/PROMPTS.md",
-    "description": "Understanding CLAUDE.md, MEMORY.md, SKILLS.md, SOUL.md, and Related Prompting Mechanisms",
-    "url": "https://github.com/kyegomez/PROMPTS.md",
-    "stars": 15,
-    "language": null,
-    "updated_at": "2026-05-03T01:16:55Z"
+    "name": "arkon",
+    "full_name": "nduckmink/arkon",
+    "description": "Arkon is a platform that gives organizations centralized control over how employees use Claude. Admins manage knowledge, skills, and access policies from a single portal. Employees connect once and get the right context automatically - no manual configuration, no context switching.",
+    "url": "https://github.com/nduckmink/arkon",
+    "stars": 16,
+    "language": "Python",
+    "updated_at": "2026-05-04T05:52:34Z"
   }
 ]
