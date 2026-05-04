@@ -4,18 +4,18 @@
     "full_name": "mrslimslim/gpt-image-canvas",
     "description": "Local professional AI canvas built with tldraw.",
     "url": "https://github.com/mrslimslim/gpt-image-canvas",
-    "stars": 184,
+    "stars": 192,
     "language": "TypeScript",
-    "updated_at": "2026-05-04T06:22:59Z"
+    "updated_at": "2026-05-04T10:07:58Z"
   },
   {
     "name": "openagentd",
     "full_name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 59,
+    "stars": 61,
     "language": "Python",
-    "updated_at": "2026-05-04T06:05:42Z"
+    "updated_at": "2026-05-04T07:28:32Z"
   },
   {
     "name": "opencode-chrome-annotation",
@@ -40,36 +40,36 @@
     "full_name": "DevelopersGlobal/ai-agent-skills",
     "description": "AI agent skills for production grade applications",
     "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 44,
+    "stars": 51,
     "language": "Python",
-    "updated_at": "2026-05-04T05:14:34Z"
+    "updated_at": "2026-05-04T10:09:43Z"
   },
   {
     "name": "AI-for-engineering-leaders",
     "full_name": "shiphrahx/AI-for-engineering-leaders",
     "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real workflows, prompts, and systems.",
     "url": "https://github.com/shiphrahx/AI-for-engineering-leaders",
-    "stars": 38,
+    "stars": 40,
     "language": null,
-    "updated_at": "2026-05-04T01:27:22Z"
-  },
-  {
-    "name": "skill-file-security",
-    "full_name": "Netxeo/skill-file-security",
-    "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
-    "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 29,
-    "language": "JavaScript",
-    "updated_at": "2026-05-04T05:55:12Z"
+    "updated_at": "2026-05-04T09:19:39Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
     "full_name": "multigroupco/MultiGroup-Build-With-AI-Course",
     "description": "MultiGroup Build With AI Course w/Google",
     "url": "https://github.com/multigroupco/MultiGroup-Build-With-AI-Course",
-    "stars": 29,
+    "stars": 32,
     "language": null,
-    "updated_at": "2026-05-03T18:41:28Z"
+    "updated_at": "2026-05-04T10:08:21Z"
+  },
+  {
+    "name": "skill-file-security",
+    "full_name": "Netxeo/skill-file-security",
+    "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
+    "url": "https://github.com/Netxeo/skill-file-security",
+    "stars": 32,
+    "language": "JavaScript",
+    "updated_at": "2026-05-04T09:57:36Z"
   },
   {
     "name": "IDACLI",
