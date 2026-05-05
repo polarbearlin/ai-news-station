@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-05 17:27:33",
+  "generated_at": "2026-05-05 21:03:02",
   "news": [
     {
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
       "source": "Hacker News",
       "time": "2026-05-05 15:27",
-      "score": 155,
-      "comments": 81
+      "score": 286,
+      "comments": 193
     },
     {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "source": "Hacker News",
-      "time": "2026-04-30 13:21",
-      "score": 246,
-      "comments": 191
+      "time": "2026-05-05 07:34",
+      "score": 1033,
+      "comments": 705
     },
     {
-      "title": "AI Product Graveyard",
-      "url": "https://tooldirectory.ai/ai-graveyard",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
       "source": "Hacker News",
-      "time": "2026-05-05 13:00",
-      "score": 203,
-      "comments": 78
+      "time": "2026-05-05 18:13",
+      "score": 47,
+      "comments": 18
     }
   ]
 }
