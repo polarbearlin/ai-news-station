@@ -1,45 +1,29 @@
 {
-  "generated_at": "2026-05-05 10:03:03",
+  "generated_at": "2026-05-05 17:27:33",
   "news": [
+    {
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "source": "Hacker News",
+      "time": "2026-05-05 15:27",
+      "score": 155,
+      "comments": 81
+    },
     {
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
       "source": "Hacker News",
       "time": "2026-04-30 13:21",
-      "score": 8,
-      "comments": 3
+      "score": 246,
+      "comments": 191
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "title": "AI Product Graveyard",
+      "url": "https://tooldirectory.ai/ai-graveyard",
       "source": "Hacker News",
-      "time": "2026-05-04 19:42",
-      "score": 408,
-      "comments": 126
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "source": "Hacker News",
-      "time": "2026-05-05 03:43",
-      "score": 104,
-      "comments": 39
-    },
-    {
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "source": "Hacker News",
-      "time": "2026-05-05 04:09",
-      "score": 243,
-      "comments": 29
-    },
-    {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "source": "Hacker News",
-      "time": "2026-05-05 07:34",
-      "score": 207,
-      "comments": 215
+      "time": "2026-05-05 13:00",
+      "score": 203,
+      "comments": 78
     }
   ]
 }
