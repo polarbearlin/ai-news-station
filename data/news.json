@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-05-04 21:09:12",
+  "generated_at": "2026-05-05 02:46:24",
   "news": [
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "source": "Hacker News",
       "time": "2026-05-04 19:42",
-      "score": 75,
-      "comments": 30
-    },
-    {
-      "title": "Let's talk about LLMs",
-      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-      "source": "Hacker News",
-      "time": "2026-05-04 17:29",
-      "score": 61,
-      "comments": 34
+      "score": 301,
+      "comments": 106
     }
   ]
 }
