@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-05-05 02:46:24",
+  "generated_at": "2026-05-05 06:16:16",
   "news": [
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "source": "Hacker News",
+      "time": "2026-05-05 04:09",
+      "score": 63,
+      "comments": 8
+    },
+    {
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "source": "Hacker News",
+      "time": "2026-05-05 03:43",
+      "score": 64,
+      "comments": 18
+    },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "source": "Hacker News",
       "time": "2026-05-04 19:42",
-      "score": 301,
-      "comments": 106
+      "score": 366,
+      "comments": 118
     }
   ]
 }

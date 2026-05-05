@@ -40,9 +40,9 @@
     "full_name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 38,
+    "stars": 39,
     "language": "JavaScript",
-    "updated_at": "2026-05-05T01:01:32Z"
+    "updated_at": "2026-05-05T03:19:13Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
@@ -58,9 +58,9 @@
     "full_name": "nduckmink/arkon",
     "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
     "url": "https://github.com/nduckmink/arkon",
-    "stars": 30,
+    "stars": 35,
     "language": "Python",
-    "updated_at": "2026-05-05T02:19:46Z"
+    "updated_at": "2026-05-05T04:54:48Z"
   },
   {
     "name": "IDACLI",
@@ -78,15 +78,15 @@
     "url": "https://github.com/wang-h/autosh",
     "stars": 18,
     "language": "Python",
-    "updated_at": "2026-05-05T01:40:02Z"
+    "updated_at": "2026-05-05T05:09:29Z"
   },
   {
     "name": "alumnet",
     "full_name": "jungang/alumnet",
     "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
     "url": "https://github.com/jungang/alumnet",
-    "stars": 16,
+    "stars": 18,
     "language": "TypeScript",
-    "updated_at": "2026-05-04T16:44:50Z"
+    "updated_at": "2026-05-05T05:31:45Z"
   }
 ]
