@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-06 14:12:34",
+  "generated_at": "2026-05-06 17:41:02",
   "news": [
     {
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "source": "Hacker News",
       "time": "2026-05-06 03:10",
-      "score": 461,
-      "comments": 248
+      "score": 560,
+      "comments": 317
     },
     {
-      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
-      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
       "source": "Hacker News",
-      "time": "2026-05-06 12:00",
-      "score": 1,
-      "comments": 0
+      "time": "2026-05-06 16:20",
+      "score": 17,
+      "comments": 2
     }
   ]
 }

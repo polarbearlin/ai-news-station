@@ -1,21 +1,30 @@
 [
   {
+    "name": "yao-open-prompts",
+    "full_name": "yaojingang/yao-open-prompts",
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "url": "https://github.com/yaojingang/yao-open-prompts",
+    "stars": 214,
+    "language": "Python",
+    "updated_at": "2026-05-06T17:37:20Z"
+  },
+  {
     "name": "openagentd",
     "full_name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 109,
+    "stars": 113,
     "language": "Python",
-    "updated_at": "2026-05-06T13:38:47Z"
+    "updated_at": "2026-05-06T15:45:07Z"
   },
   {
     "name": "arkon",
     "full_name": "nduckmink/arkon",
     "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
     "url": "https://github.com/nduckmink/arkon",
-    "stars": 86,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T13:58:54Z"
+    "updated_at": "2026-05-06T17:23:57Z"
   },
   {
     "name": "ai-agent-skills",
@@ -31,9 +40,9 @@
     "full_name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 48,
+    "stars": 49,
     "language": "JavaScript",
-    "updated_at": "2026-05-06T11:15:14Z"
+    "updated_at": "2026-05-06T15:17:27Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
@@ -49,9 +58,9 @@
     "full_name": "orcasecurity/orca-skills",
     "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
     "url": "https://github.com/orcasecurity/orca-skills",
-    "stars": 34,
+    "stars": 35,
     "language": null,
-    "updated_at": "2026-05-06T11:35:15Z"
+    "updated_at": "2026-05-06T16:26:10Z"
   },
   {
     "name": "IDACLI",
@@ -69,16 +78,7 @@
     "url": "https://github.com/jungang/alumnet",
     "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T12:06:58Z"
-  },
-  {
-    "name": "yao-open-prompts",
-    "full_name": "yaojingang/yao-open-prompts",
-    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-    "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 20,
-    "language": "Python",
-    "updated_at": "2026-05-06T14:12:30Z"
+    "updated_at": "2026-05-06T15:50:07Z"
   },
   {
     "name": "trading-ops",
