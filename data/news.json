@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-05-06 17:41:02",
+  "generated_at": "2026-05-06 21:11:08",
   "news": [
     {
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "title": "Learning the Integral of a Diffusion Model",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
       "source": "Hacker News",
-      "time": "2026-05-06 03:10",
-      "score": 560,
-      "comments": 317
-    },
-    {
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "url": "https://play.templatical.com",
-      "source": "Hacker News",
-      "time": "2026-05-06 16:20",
-      "score": 17,
-      "comments": 2
+      "time": "2026-05-06 18:46",
+      "score": 32,
+      "comments": 6
     }
   ]
 }
