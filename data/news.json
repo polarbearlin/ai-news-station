@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-06 06:29:02",
+  "generated_at": "2026-05-06 10:19:09",
   "news": [
     {
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "source": "Hacker News",
       "time": "2026-05-06 03:10",
-      "score": 180,
-      "comments": 86
+      "score": 334,
+      "comments": 185
     },
     {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
       "source": "Hacker News",
-      "time": "2026-05-06 01:38",
-      "score": 108,
-      "comments": 67
+      "time": "2026-05-05 20:16",
+      "score": 674,
+      "comments": 337
     }
   ]
 }
