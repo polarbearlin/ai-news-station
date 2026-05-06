@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-05-06 02:52:46",
+  "generated_at": "2026-05-06 06:29:02",
   "news": [
     {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "source": "Hacker News",
-      "time": "2026-05-05 15:27",
-      "score": 374,
-      "comments": 253
+      "time": "2026-05-06 03:10",
+      "score": 180,
+      "comments": 86
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
       "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
       "source": "Hacker News",
       "time": "2026-05-06 01:38",
-      "score": 15,
-      "comments": 4
-    },
-    {
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "source": "Hacker News",
-      "time": "2026-05-03 15:28",
-      "score": 18,
-      "comments": 1
+      "score": 108,
+      "comments": 67
     }
   ]
 }

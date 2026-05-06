@@ -4,18 +4,18 @@
     "full_name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 93,
+    "stars": 103,
     "language": "Python",
-    "updated_at": "2026-05-05T16:50:23Z"
+    "updated_at": "2026-05-06T06:28:46Z"
   },
   {
     "name": "arkon",
     "full_name": "nduckmink/arkon",
     "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
     "url": "https://github.com/nduckmink/arkon",
-    "stars": 68,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T02:52:34Z"
+    "updated_at": "2026-05-06T06:25:29Z"
   },
   {
     "name": "ai-agent-skills",
@@ -31,9 +31,9 @@
     "full_name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 42,
+    "stars": 43,
     "language": "JavaScript",
-    "updated_at": "2026-05-05T19:11:45Z"
+    "updated_at": "2026-05-06T03:17:30Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
@@ -58,9 +58,9 @@
     "full_name": "jungang/alumnet",
     "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
     "url": "https://github.com/jungang/alumnet",
-    "stars": 25,
+    "stars": 27,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T00:52:05Z"
+    "updated_at": "2026-05-06T04:27:00Z"
   },
   {
     "name": "ai-megalist",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-05T20:36:55Z"
   },
   {
-    "name": "trading-ops",
-    "full_name": "l3lackcurtains/trading-ops",
-    "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
-    "url": "https://github.com/l3lackcurtains/trading-ops",
-    "stars": 15,
+    "name": "agentic-browser-ops-platform",
+    "full_name": "TryKosm/agentic-browser-ops-platform",
+    "description": "SomaOS Governance Gateway: API-key gated policy checks, approval routing, and replayable audit trails for AI workflow execution.",
+    "url": "https://github.com/TryKosm/agentic-browser-ops-platform",
+    "stars": 16,
     "language": "Python",
-    "updated_at": "2026-05-06T02:46:08Z"
+    "updated_at": "2026-05-06T06:17:26Z"
   }
 ]
