@@ -4,18 +4,18 @@
     "full_name": "lthoangg/openagentd",
     "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
     "url": "https://github.com/lthoangg/openagentd",
-    "stars": 107,
+    "stars": 109,
     "language": "Python",
-    "updated_at": "2026-05-06T09:41:37Z"
+    "updated_at": "2026-05-06T13:38:47Z"
   },
   {
     "name": "arkon",
     "full_name": "nduckmink/arkon",
     "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
     "url": "https://github.com/nduckmink/arkon",
-    "stars": 83,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T09:34:03Z"
+    "updated_at": "2026-05-06T13:58:54Z"
   },
   {
     "name": "ai-agent-skills",
@@ -31,9 +31,9 @@
     "full_name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 46,
+    "stars": 48,
     "language": "JavaScript",
-    "updated_at": "2026-05-06T09:19:42Z"
+    "updated_at": "2026-05-06T11:15:14Z"
   },
   {
     "name": "MultiGroup-Build-With-AI-Course",
@@ -45,6 +45,15 @@
     "updated_at": "2026-05-05T13:34:27Z"
   },
   {
+    "name": "orca-skills",
+    "full_name": "orcasecurity/orca-skills",
+    "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
+    "url": "https://github.com/orcasecurity/orca-skills",
+    "stars": 34,
+    "language": null,
+    "updated_at": "2026-05-06T11:35:15Z"
+  },
+  {
     "name": "IDACLI",
     "full_name": "ze-mu-zhou/IDACLI",
     "description": "AI-native IDA Pro kernel — unrestricted IDAPython over JSONL, persistent sessions, zero dependencies. Let your agent drive IDA, not call tools.",
@@ -54,39 +63,30 @@
     "updated_at": "2026-05-06T02:03:24Z"
   },
   {
-    "name": "orca-skills",
-    "full_name": "orcasecurity/orca-skills",
-    "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
-    "url": "https://github.com/orcasecurity/orca-skills",
-    "stars": 29,
-    "language": null,
-    "updated_at": "2026-05-06T09:19:27Z"
-  },
-  {
     "name": "alumnet",
     "full_name": "jungang/alumnet",
     "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
     "url": "https://github.com/jungang/alumnet",
-    "stars": 29,
+    "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T09:47:00Z"
+    "updated_at": "2026-05-06T12:06:58Z"
   },
   {
-    "name": "ai-megalist",
-    "full_name": "IrtezaAsadRizvi/ai-megalist",
-    "description": "Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job.",
-    "url": "https://github.com/IrtezaAsadRizvi/ai-megalist",
-    "stars": 18,
-    "language": null,
-    "updated_at": "2026-05-06T10:08:27Z"
-  },
-  {
-    "name": "agentic-browser-ops-platform",
-    "full_name": "TryKosm/agentic-browser-ops-platform",
-    "description": "SomaOS Governance Gateway: API-key gated policy checks, approval routing, and replayable audit trails for AI workflow execution.",
-    "url": "https://github.com/TryKosm/agentic-browser-ops-platform",
-    "stars": 17,
+    "name": "yao-open-prompts",
+    "full_name": "yaojingang/yao-open-prompts",
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "url": "https://github.com/yaojingang/yao-open-prompts",
+    "stars": 20,
     "language": "Python",
-    "updated_at": "2026-05-06T10:02:49Z"
+    "updated_at": "2026-05-06T14:12:30Z"
+  },
+  {
+    "name": "trading-ops",
+    "full_name": "l3lackcurtains/trading-ops",
+    "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
+    "url": "https://github.com/l3lackcurtains/trading-ops",
+    "stars": 18,
+    "language": "Python",
+    "updated_at": "2026-05-06T12:20:28Z"
   }
 ]
