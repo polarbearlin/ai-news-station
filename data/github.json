@@ -4,9 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 643,
+    "stars": 780,
     "language": "Python",
-    "updated_at": "2026-05-07T06:34:55Z"
+    "updated_at": "2026-05-07T10:16:37Z"
   },
   {
     "name": "ai-agent-skills",
@@ -15,25 +15,25 @@
     "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
     "stars": 60,
     "language": "Python",
-    "updated_at": "2026-05-05T17:03:30Z"
+    "updated_at": "2026-05-07T10:01:38Z"
   },
   {
     "name": "skill-file-security",
     "full_name": "Netxeo/skill-file-security",
     "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
     "url": "https://github.com/Netxeo/skill-file-security",
-    "stars": 49,
+    "stars": 50,
     "language": "JavaScript",
-    "updated_at": "2026-05-06T15:17:27Z"
+    "updated_at": "2026-05-07T08:08:03Z"
   },
   {
     "name": "alumnet",
     "full_name": "jungang/alumnet",
     "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
     "url": "https://github.com/jungang/alumnet",
-    "stars": 38,
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-05-07T06:26:07Z"
+    "updated_at": "2026-05-07T09:52:12Z"
   },
   {
     "name": "orca-skills",
