@@ -4,9 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 780,
+    "stars": 917,
     "language": "Python",
-    "updated_at": "2026-05-07T10:16:37Z"
+    "updated_at": "2026-05-07T14:09:30Z"
   },
   {
     "name": "ai-agent-skills",
@@ -40,27 +40,27 @@
     "full_name": "orcasecurity/orca-skills",
     "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
     "url": "https://github.com/orcasecurity/orca-skills",
-    "stars": 35,
+    "stars": 37,
     "language": null,
-    "updated_at": "2026-05-06T16:26:10Z"
+    "updated_at": "2026-05-07T11:56:22Z"
   },
   {
     "name": "trading-ops",
     "full_name": "l3lackcurtains/trading-ops",
     "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
     "url": "https://github.com/l3lackcurtains/trading-ops",
-    "stars": 20,
+    "stars": 21,
     "language": "Python",
-    "updated_at": "2026-05-07T01:23:06Z"
+    "updated_at": "2026-05-07T12:18:34Z"
   },
   {
     "name": "carto",
     "full_name": "theanshsonkar/carto",
     "description": "The context layer for AI to understand code.",
     "url": "https://github.com/theanshsonkar/carto",
-    "stars": 15,
+    "stars": 16,
     "language": "JavaScript",
-    "updated_at": "2026-05-06T01:02:42Z"
+    "updated_at": "2026-05-07T11:58:58Z"
   },
   {
     "name": "AcademiClaw",

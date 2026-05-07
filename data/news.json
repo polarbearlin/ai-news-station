@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-05-07 10:24:11",
-  "news": []
+  "generated_at": "2026-05-07 14:09:36",
+  "news": [
+    {
+      "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "source": "Hacker News",
+      "time": "2026-05-07 13:25",
+      "score": 7,
+      "comments": 3
+    },
+    {
+      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+      "source": "Hacker News",
+      "time": "2026-05-07 12:01",
+      "score": 1,
+      "comments": 0
+    }
+  ]
 }
