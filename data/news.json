@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-07 17:48:29",
+  "generated_at": "2026-05-07 21:04:45",
   "news": [
     {
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
       "source": "Hacker News",
       "time": "2026-05-07 15:40",
-      "score": 50,
-      "comments": 10
+      "score": 192,
+      "comments": 61
     },
     {
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "source": "Hacker News",
-      "time": "2026-05-07 15:56",
-      "score": 114,
-      "comments": 22
+      "time": "2026-05-07 18:46",
+      "score": 183,
+      "comments": 175
     }
   ]
 }
