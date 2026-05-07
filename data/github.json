@@ -4,27 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 244,
+    "stars": 480,
     "language": "Python",
-    "updated_at": "2026-05-06T21:05:32Z"
-  },
-  {
-    "name": "openagentd",
-    "full_name": "lthoangg/openagentd",
-    "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
-    "url": "https://github.com/lthoangg/openagentd",
-    "stars": 115,
-    "language": "Python",
-    "updated_at": "2026-05-06T20:20:54Z"
-  },
-  {
-    "name": "arkon",
-    "full_name": "nduckmink/arkon",
-    "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
-    "url": "https://github.com/nduckmink/arkon",
-    "stars": 93,
-    "language": "TypeScript",
-    "updated_at": "2026-05-06T19:10:51Z"
+    "updated_at": "2026-05-07T02:52:59Z"
   },
   {
     "name": "ai-agent-skills",
@@ -45,15 +27,6 @@
     "updated_at": "2026-05-06T15:17:27Z"
   },
   {
-    "name": "MultiGroup-Build-With-AI-Course",
-    "full_name": "multigroupco/MultiGroup-Build-With-AI-Course",
-    "description": "MultiGroup Build With AI Course w/Google",
-    "url": "https://github.com/multigroupco/MultiGroup-Build-With-AI-Course",
-    "stars": 37,
-    "language": null,
-    "updated_at": "2026-05-06T17:49:29Z"
-  },
-  {
     "name": "orca-skills",
     "full_name": "orcasecurity/orca-skills",
     "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
@@ -63,30 +36,57 @@
     "updated_at": "2026-05-06T16:26:10Z"
   },
   {
-    "name": "IDACLI",
-    "full_name": "ze-mu-zhou/IDACLI",
-    "description": "AI-native IDA Pro kernel — unrestricted IDAPython over JSONL, persistent sessions, zero dependencies. Let your agent drive IDA, not call tools.",
-    "url": "https://github.com/ze-mu-zhou/IDACLI",
-    "stars": 32,
-    "language": "Python",
-    "updated_at": "2026-05-06T02:03:24Z"
-  },
-  {
     "name": "alumnet",
     "full_name": "jungang/alumnet",
     "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
     "url": "https://github.com/jungang/alumnet",
-    "stars": 32,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-05-06T21:03:27Z"
+    "updated_at": "2026-05-07T02:20:23Z"
   },
   {
     "name": "trading-ops",
     "full_name": "l3lackcurtains/trading-ops",
     "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
     "url": "https://github.com/l3lackcurtains/trading-ops",
-    "stars": 18,
+    "stars": 20,
     "language": "Python",
-    "updated_at": "2026-05-06T12:20:28Z"
+    "updated_at": "2026-05-07T01:23:06Z"
+  },
+  {
+    "name": "carto",
+    "full_name": "theanshsonkar/carto",
+    "description": "The context layer for AI to understand code.",
+    "url": "https://github.com/theanshsonkar/carto",
+    "stars": 15,
+    "language": "JavaScript",
+    "updated_at": "2026-05-06T01:02:42Z"
+  },
+  {
+    "name": "AcademiClaw",
+    "full_name": "GAIR-NLP/AcademiClaw",
+    "description": "AcademiClaw: When Students Set Challenges for AI Agents — a bilingual benchmark of 80 university student-sourced academic tasks.",
+    "url": "https://github.com/GAIR-NLP/AcademiClaw",
+    "stars": 13,
+    "language": "C",
+    "updated_at": "2026-05-06T04:33:41Z"
+  },
+  {
+    "name": "elephant-goldfish",
+    "full_name": "vshvedov/elephant-goldfish",
+    "description": "A reusable workflow for agentic software work, built around the Elephant/Goldfish pattern.",
+    "url": "https://github.com/vshvedov/elephant-goldfish",
+    "stars": 13,
+    "language": null,
+    "updated_at": "2026-05-06T17:57:29Z"
+  },
+  {
+    "name": "ferrogate",
+    "full_name": "lianluo-esign/ferrogate",
+    "description": "FerroGate is an open-source AI gateway and reverse proxy written in Rust. It is designed to route, secure, monitor, and control traffic to LLM providers such as OpenAI, Anthropic, Google Gemini, Azure OpenAI, and OpenAI-compatible APIs.",
+    "url": "https://github.com/lianluo-esign/ferrogate",
+    "stars": 11,
+    "language": "Rust",
+    "updated_at": "2026-05-06T05:12:13Z"
   }
 ]
