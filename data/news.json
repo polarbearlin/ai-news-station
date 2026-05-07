@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-07 14:09:36",
+  "generated_at": "2026-05-07 17:48:29",
   "news": [
     {
-      "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
       "source": "Hacker News",
-      "time": "2026-05-07 13:25",
-      "score": 7,
-      "comments": 3
+      "time": "2026-05-07 15:40",
+      "score": 50,
+      "comments": 10
     },
     {
-      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
       "source": "Hacker News",
-      "time": "2026-05-07 12:01",
-      "score": 1,
-      "comments": 0
+      "time": "2026-05-07 15:56",
+      "score": 114,
+      "comments": 22
     }
   ]
 }

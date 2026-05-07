@@ -4,9 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 917,
+    "stars": 1058,
     "language": "Python",
-    "updated_at": "2026-05-07T14:09:30Z"
+    "updated_at": "2026-05-07T17:43:17Z"
   },
   {
     "name": "ai-agent-skills",
@@ -40,18 +40,18 @@
     "full_name": "orcasecurity/orca-skills",
     "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
     "url": "https://github.com/orcasecurity/orca-skills",
-    "stars": 37,
+    "stars": 38,
     "language": null,
-    "updated_at": "2026-05-07T11:56:22Z"
+    "updated_at": "2026-05-07T14:45:20Z"
   },
   {
     "name": "trading-ops",
     "full_name": "l3lackcurtains/trading-ops",
     "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
     "url": "https://github.com/l3lackcurtains/trading-ops",
-    "stars": 21,
+    "stars": 24,
     "language": "Python",
-    "updated_at": "2026-05-07T12:18:34Z"
+    "updated_at": "2026-05-07T17:43:17Z"
   },
   {
     "name": "carto",
@@ -78,15 +78,15 @@
     "url": "https://github.com/vshvedov/elephant-goldfish",
     "stars": 13,
     "language": null,
-    "updated_at": "2026-05-06T17:57:29Z"
+    "updated_at": "2026-05-07T16:51:32Z"
   },
   {
-    "name": "ferrogate",
-    "full_name": "lianluo-esign/ferrogate",
-    "description": "FerroGate is an open-source AI gateway and reverse proxy written in Rust. It is designed to route, secure, monitor, and control traffic to LLM providers such as OpenAI, Anthropic, Google Gemini, Azure OpenAI, and OpenAI-compatible APIs.",
-    "url": "https://github.com/lianluo-esign/ferrogate",
+    "name": "CodeAuto",
+    "full_name": "Yulin-Bi/CodeAuto",
+    "description": "CodeAuto is an intelligent programming assistant developed using Java, drawing inspiration from Claude Code and Minicode.",
+    "url": "https://github.com/Yulin-Bi/CodeAuto",
     "stars": 11,
-    "language": "Rust",
-    "updated_at": "2026-05-06T05:12:13Z"
+    "language": "Java",
+    "updated_at": "2026-05-07T17:28:46Z"
   }
 ]
