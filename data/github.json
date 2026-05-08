@@ -4,18 +4,18 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1292,
+    "stars": 1327,
     "language": "Python",
-    "updated_at": "2026-05-08T09:14:43Z"
+    "updated_at": "2026-05-08T13:45:33Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 96,
+    "stars": 141,
     "language": "JavaScript",
-    "updated_at": "2026-05-08T09:21:17Z"
+    "updated_at": "2026-05-08T13:46:47Z"
   },
   {
     "name": "skill-file-security",
@@ -40,36 +40,36 @@
     "full_name": "jungang/alumnet",
     "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
     "url": "https://github.com/jungang/alumnet",
-    "stars": 46,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-05-08T05:09:54Z"
+    "updated_at": "2026-05-08T12:14:39Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 39,
+    "stars": 44,
     "language": "Shell",
-    "updated_at": "2026-05-08T09:12:25Z"
+    "updated_at": "2026-05-08T13:29:23Z"
   },
   {
     "name": "orca-skills",
     "full_name": "orcasecurity/orca-skills",
     "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
     "url": "https://github.com/orcasecurity/orca-skills",
-    "stars": 38,
+    "stars": 39,
     "language": null,
-    "updated_at": "2026-05-07T14:45:20Z"
+    "updated_at": "2026-05-08T13:33:48Z"
   },
   {
     "name": "trading-ops",
     "full_name": "l3lackcurtains/trading-ops",
     "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
     "url": "https://github.com/l3lackcurtains/trading-ops",
-    "stars": 25,
+    "stars": 26,
     "language": "Python",
-    "updated_at": "2026-05-08T02:07:01Z"
+    "updated_at": "2026-05-08T12:09:56Z"
   },
   {
     "name": "AcademiClaw",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-07T19:01:05Z"
   },
   {
-    "name": "elephant-goldfish",
-    "full_name": "vshvedov/elephant-goldfish",
-    "description": "A reusable workflow for agentic software work, built around the Elephant/Goldfish pattern.",
-    "url": "https://github.com/vshvedov/elephant-goldfish",
-    "stars": 13,
-    "language": null,
-    "updated_at": "2026-05-07T16:51:32Z"
+    "name": "godot-devtool",
+    "full_name": "wangdiandao/godot-devtool",
+    "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
+    "url": "https://github.com/wangdiandao/godot-devtool",
+    "stars": 14,
+    "language": "TypeScript",
+    "updated_at": "2026-05-08T13:21:18Z"
   }
 ]
