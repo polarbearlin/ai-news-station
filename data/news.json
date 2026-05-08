@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-05-08 17:17:54",
+  "generated_at": "2026-05-08 21:01:01",
   "news": [
     {
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "source": "Hacker News",
-      "time": "2026-05-08 13:22",
-      "score": 60,
-      "comments": 8
-    },
-    {
-      "title": "Show HN: Git for AI Agents",
-      "url": "https://github.com/regent-vcs/re_gent",
-      "source": "Hacker News",
-      "time": "2026-05-08 14:15",
-      "score": 43,
-      "comments": 26
+      "time": "2026-05-08 17:55",
+      "score": 104,
+      "comments": 48
     }
   ]
 }

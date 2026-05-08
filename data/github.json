@@ -4,18 +4,18 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1357,
+    "stars": 1363,
     "language": "Python",
-    "updated_at": "2026-05-08T17:01:24Z"
+    "updated_at": "2026-05-08T19:36:26Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 163,
+    "stars": 171,
     "language": "JavaScript",
-    "updated_at": "2026-05-08T17:17:25Z"
+    "updated_at": "2026-05-08T20:14:39Z"
   },
   {
     "name": "skill-file-security",
@@ -51,7 +51,7 @@
     "url": "https://github.com/kubetail-org/kstack",
     "stars": 45,
     "language": "Shell",
-    "updated_at": "2026-05-08T15:28:32Z"
+    "updated_at": "2026-05-08T20:40:24Z"
   },
   {
     "name": "orca-skills",
@@ -67,26 +67,26 @@
     "full_name": "l3lackcurtains/trading-ops",
     "description": "📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & commodities with structured verdicts and audit trails 🤖",
     "url": "https://github.com/l3lackcurtains/trading-ops",
-    "stars": 27,
+    "stars": 28,
     "language": "Python",
-    "updated_at": "2026-05-08T15:47:33Z"
+    "updated_at": "2026-05-08T19:58:21Z"
   },
   {
     "name": "godot-devtool",
     "full_name": "wangdiandao/godot-devtool",
     "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
     "url": "https://github.com/wangdiandao/godot-devtool",
-    "stars": 15,
+    "stars": 16,
     "language": "TypeScript",
-    "updated_at": "2026-05-08T15:30:44Z"
+    "updated_at": "2026-05-08T18:51:41Z"
   },
   {
-    "name": "AcademiClaw",
-    "full_name": "GAIR-NLP/AcademiClaw",
-    "description": "AcademiClaw: When Students Set Challenges for AI Agents — a bilingual benchmark of 80 university student-sourced academic tasks.",
-    "url": "https://github.com/GAIR-NLP/AcademiClaw",
-    "stars": 14,
-    "language": "C",
-    "updated_at": "2026-05-07T19:01:05Z"
+    "name": "comfyui-ReferenceLatentPlus",
+    "full_name": "shootthesound/comfyui-ReferenceLatentPlus",
+    "description": "Improved ReferenceLatent for ComfyUI — per-image strength, timestep gating, MediaPipe auto-masks, 1-4 image inputs. Works with Flux, Klein, Lumina, Wan, Hunyuan, Qwen-Image.",
+    "url": "https://github.com/shootthesound/comfyui-ReferenceLatentPlus",
+    "stars": 15,
+    "language": "Python",
+    "updated_at": "2026-05-08T20:54:45Z"
   }
 ]
