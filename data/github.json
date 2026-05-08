@@ -4,9 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1165,
+    "stars": 1237,
     "language": "Python",
-    "updated_at": "2026-05-08T02:54:12Z"
+    "updated_at": "2026-05-08T05:56:32Z"
   },
   {
     "name": "skill-file-security",
@@ -18,22 +18,22 @@
     "updated_at": "2026-05-07T08:08:03Z"
   },
   {
-    "name": "alumnet",
-    "full_name": "jungang/alumnet",
-    "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
-    "url": "https://github.com/jungang/alumnet",
-    "stars": 45,
-    "language": "TypeScript",
-    "updated_at": "2026-05-08T02:03:08Z"
-  },
-  {
     "name": "mnemo",
     "full_name": "omermaksutii/mnemo",
     "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
     "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 39,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-05-08T02:47:45Z"
+    "updated_at": "2026-05-08T03:57:54Z"
+  },
+  {
+    "name": "alumnet",
+    "full_name": "jungang/alumnet",
+    "description": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图",
+    "url": "https://github.com/jungang/alumnet",
+    "stars": 46,
+    "language": "TypeScript",
+    "updated_at": "2026-05-08T05:09:54Z"
   },
   {
     "name": "orca-skills",
@@ -49,9 +49,9 @@
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 33,
+    "stars": 36,
     "language": "Shell",
-    "updated_at": "2026-05-08T02:48:02Z"
+    "updated_at": "2026-05-08T05:04:25Z"
   },
   {
     "name": "trading-ops",
