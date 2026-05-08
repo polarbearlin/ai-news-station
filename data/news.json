@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-08 13:49:12",
+  "generated_at": "2026-05-08 17:17:54",
   "news": [
     {
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
       "source": "Hacker News",
-      "time": "2026-05-08 07:04",
-      "score": 146,
-      "comments": 40
+      "time": "2026-05-08 13:22",
+      "score": 60,
+      "comments": 8
+    },
+    {
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "source": "Hacker News",
+      "time": "2026-05-08 14:15",
+      "score": 43,
+      "comments": 26
     }
   ]
 }
