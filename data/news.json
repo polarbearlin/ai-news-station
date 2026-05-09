@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-08 21:01:01",
+  "generated_at": "2026-05-09 02:51:13",
   "news": [
+    {
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "source": "Hacker News",
+      "time": "2026-05-07 17:11",
+      "score": 144,
+      "comments": 33
+    },
     {
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "source": "Hacker News",
       "time": "2026-05-08 17:55",
-      "score": 104,
-      "comments": 48
+      "score": 261,
+      "comments": 113
     }
   ]
 }
