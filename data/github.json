@@ -4,36 +4,36 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1448,
+    "stars": 1474,
     "language": "Python",
-    "updated_at": "2026-05-09T13:16:27Z"
+    "updated_at": "2026-05-09T16:43:37Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 200,
+    "stars": 204,
     "language": "JavaScript",
-    "updated_at": "2026-05-09T12:49:38Z"
+    "updated_at": "2026-05-09T15:47:50Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 131,
+    "stars": 141,
     "language": "Python",
-    "updated_at": "2026-05-09T13:07:56Z"
+    "updated_at": "2026-05-09T16:38:51Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 48,
+    "stars": 51,
     "language": "Shell",
-    "updated_at": "2026-05-09T12:10:36Z"
+    "updated_at": "2026-05-09T15:23:22Z"
   },
   {
     "name": "mnemo",
@@ -45,6 +45,15 @@
     "updated_at": "2026-05-09T08:01:48Z"
   },
   {
+    "name": "mercury-agent-skills",
+    "full_name": "cosmicstack-labs/mercury-agent-skills",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+    "stars": 41,
+    "language": null,
+    "updated_at": "2026-05-09T16:16:55Z"
+  },
+  {
     "name": "orca-skills",
     "full_name": "orcasecurity/orca-skills",
     "description": "Skills and plugins to accelerate security workflows with the Orca Cloud Platform",
@@ -54,22 +63,13 @@
     "updated_at": "2026-05-08T13:33:48Z"
   },
   {
-    "name": "mercury-agent-skills",
-    "full_name": "cosmicstack-labs/mercury-agent-skills",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 22,
-    "language": null,
-    "updated_at": "2026-05-09T13:17:06Z"
-  },
-  {
     "name": "godot-devtool",
     "full_name": "wangdiandao/godot-devtool",
     "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
     "url": "https://github.com/wangdiandao/godot-devtool",
-    "stars": 22,
+    "stars": 23,
     "language": "TypeScript",
-    "updated_at": "2026-05-09T12:26:01Z"
+    "updated_at": "2026-05-09T14:39:08Z"
   },
   {
     "name": "comfyui-CleanFreak",
