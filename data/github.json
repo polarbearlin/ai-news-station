@@ -4,45 +4,45 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1406,
+    "stars": 1423,
     "language": "Python",
-    "updated_at": "2026-05-09T06:10:25Z"
+    "updated_at": "2026-05-09T09:18:42Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 188,
+    "stars": 194,
     "language": "JavaScript",
-    "updated_at": "2026-05-09T05:40:04Z"
+    "updated_at": "2026-05-09T09:17:31Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 112,
+    "stars": 121,
     "language": "Python",
-    "updated_at": "2026-05-09T06:08:50Z"
-  },
-  {
-    "name": "mnemo",
-    "full_name": "omermaksutii/mnemo",
-    "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
-    "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 48,
-    "language": "TypeScript",
-    "updated_at": "2026-05-08T03:57:54Z"
+    "updated_at": "2026-05-09T08:39:44Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 46,
+    "stars": 47,
     "language": "Shell",
-    "updated_at": "2026-05-09T05:39:59Z"
+    "updated_at": "2026-05-09T07:07:28Z"
+  },
+  {
+    "name": "mnemo",
+    "full_name": "omermaksutii/mnemo",
+    "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
+    "url": "https://github.com/omermaksutii/mnemo",
+    "stars": 47,
+    "language": "TypeScript",
+    "updated_at": "2026-05-09T08:01:48Z"
   },
   {
     "name": "orca-skills",
@@ -58,18 +58,18 @@
     "full_name": "wangdiandao/godot-devtool",
     "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
     "url": "https://github.com/wangdiandao/godot-devtool",
-    "stars": 19,
+    "stars": 21,
     "language": "TypeScript",
-    "updated_at": "2026-05-09T06:06:45Z"
+    "updated_at": "2026-05-09T08:46:29Z"
   },
   {
     "name": "comfyui-CleanFreak",
     "full_name": "shootthesound/comfyui-CleanFreak",
     "description": "One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get their own column or row, with optional colour-coded groups. Width-aware. Connections preserved.",
     "url": "https://github.com/shootthesound/comfyui-CleanFreak",
-    "stars": 16,
+    "stars": 17,
     "language": "JavaScript",
-    "updated_at": "2026-05-09T05:59:38Z"
+    "updated_at": "2026-05-09T09:17:24Z"
   },
   {
     "name": "comfyui-ReferenceLatentPlus",

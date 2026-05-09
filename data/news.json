@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-05-09 06:15:41",
+  "generated_at": "2026-05-09 09:19:40",
   "news": [
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "source": "Hacker News",
       "time": "2026-05-09 02:41",
-      "score": 124,
-      "comments": 36
+      "score": 277,
+      "comments": 139
     },
     {
-      "title": "OpenAI's WebRTC problem",
+      "title": "OpenAI’s WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "source": "Hacker News",
       "time": "2026-05-07 17:11",
-      "score": 236,
-      "comments": 61
+      "score": 302,
+      "comments": 76
     },
     {
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "source": "Hacker News",
       "time": "2026-05-08 17:55",
-      "score": 304,
-      "comments": 127
+      "score": 327,
+      "comments": 132
+    },
+    {
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "source": "Hacker News",
+      "time": "2026-05-09 07:23",
+      "score": 75,
+      "comments": 27
     }
   ]
 }
