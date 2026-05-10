@@ -4,45 +4,54 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1522,
+    "stars": 1533,
     "language": "Python",
-    "updated_at": "2026-05-10T09:19:17Z"
+    "updated_at": "2026-05-10T11:24:12Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 216,
+    "stars": 220,
     "language": "JavaScript",
-    "updated_at": "2026-05-10T09:25:45Z"
+    "updated_at": "2026-05-10T13:17:32Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 173,
+    "stars": 176,
     "language": "Python",
-    "updated_at": "2026-05-10T06:57:08Z"
+    "updated_at": "2026-05-10T11:05:19Z"
+  },
+  {
+    "name": "Dulus",
+    "full_name": "KevRojo/Dulus",
+    "description": "Dulus is an IA agent inspired by Open-Claw but better",
+    "url": "https://github.com/KevRojo/Dulus",
+    "stars": 91,
+    "language": "Python",
+    "updated_at": "2026-05-10T11:32:27Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 66,
+    "stars": 72,
     "language": "Shell",
-    "updated_at": "2026-05-10T09:13:00Z"
+    "updated_at": "2026-05-10T13:05:46Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 54,
+    "stars": 55,
     "language": "Shell",
-    "updated_at": "2026-05-10T06:45:39Z"
+    "updated_at": "2026-05-10T11:27:36Z"
   },
   {
     "name": "mnemo",
@@ -52,15 +61,6 @@
     "stars": 47,
     "language": "TypeScript",
     "updated_at": "2026-05-09T08:01:48Z"
-  },
-  {
-    "name": "Dulus",
-    "full_name": "KevRojo/Dulus",
-    "description": "Dulus is an IA agent inspired by Open-Claw but better",
-    "url": "https://github.com/KevRojo/Dulus",
-    "stars": 40,
-    "language": "Python",
-    "updated_at": "2026-05-10T05:28:24Z"
   },
   {
     "name": "godot-devtool",
