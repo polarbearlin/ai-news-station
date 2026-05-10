@@ -4,36 +4,36 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1496,
+    "stars": 1511,
     "language": "Python",
-    "updated_at": "2026-05-10T02:42:24Z"
+    "updated_at": "2026-05-10T06:30:37Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 209,
+    "stars": 212,
     "language": "JavaScript",
-    "updated_at": "2026-05-10T02:08:53Z"
+    "updated_at": "2026-05-10T05:25:50Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 164,
+    "stars": 170,
     "language": "Python",
-    "updated_at": "2026-05-10T02:55:11Z"
+    "updated_at": "2026-05-10T05:31:55Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 57,
+    "stars": 63,
     "language": null,
-    "updated_at": "2026-05-10T02:50:11Z"
+    "updated_at": "2026-05-10T06:29:40Z"
   },
   {
     "name": "kstack",
@@ -54,22 +54,31 @@
     "updated_at": "2026-05-09T08:01:48Z"
   },
   {
+    "name": "Dulus",
+    "full_name": "KevRojo/Dulus",
+    "description": "Dulus is an IA agent inspired by Open-Claw but better",
+    "url": "https://github.com/KevRojo/Dulus",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-05-10T05:28:24Z"
+  },
+  {
     "name": "godot-devtool",
     "full_name": "wangdiandao/godot-devtool",
     "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
     "url": "https://github.com/wangdiandao/godot-devtool",
     "stars": 24,
     "language": "TypeScript",
-    "updated_at": "2026-05-09T22:05:54Z"
+    "updated_at": "2026-05-10T06:29:19Z"
   },
   {
     "name": "comfyui-CleanFreak",
     "full_name": "shootthesound/comfyui-CleanFreak",
     "description": "One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get their own column or row, with optional colour-coded groups. Width-aware. Connections preserved.",
     "url": "https://github.com/shootthesound/comfyui-CleanFreak",
-    "stars": 17,
+    "stars": 18,
     "language": "JavaScript",
-    "updated_at": "2026-05-09T09:17:24Z"
+    "updated_at": "2026-05-10T04:28:02Z"
   },
   {
     "name": "comfyui-ReferenceLatentPlus",
@@ -79,14 +88,5 @@
     "stars": 16,
     "language": "Python",
     "updated_at": "2026-05-09T23:35:22Z"
-  },
-  {
-    "name": "pi-for-word",
-    "full_name": "damianofalcioni/pi-for-word",
-    "description": "Pi Agent as add-in for M365 Office Word",
-    "url": "https://github.com/damianofalcioni/pi-for-word",
-    "stars": 13,
-    "language": "JavaScript",
-    "updated_at": "2026-05-08T09:34:27Z"
   }
 ]
