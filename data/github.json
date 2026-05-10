@@ -4,27 +4,27 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1533,
+    "stars": 1542,
     "language": "Python",
-    "updated_at": "2026-05-10T11:24:12Z"
+    "updated_at": "2026-05-10T16:42:26Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 220,
+    "stars": 225,
     "language": "JavaScript",
-    "updated_at": "2026-05-10T13:17:32Z"
+    "updated_at": "2026-05-10T16:33:03Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 176,
+    "stars": 178,
     "language": "Python",
-    "updated_at": "2026-05-10T11:05:19Z"
+    "updated_at": "2026-05-10T16:17:18Z"
   },
   {
     "name": "Dulus",
@@ -40,18 +40,18 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 72,
+    "stars": 76,
     "language": "Shell",
-    "updated_at": "2026-05-10T13:05:46Z"
+    "updated_at": "2026-05-10T14:54:43Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 55,
+    "stars": 56,
     "language": "Shell",
-    "updated_at": "2026-05-10T11:27:36Z"
+    "updated_at": "2026-05-10T13:39:36Z"
   },
   {
     "name": "mnemo",
@@ -67,9 +67,9 @@
     "full_name": "wangdiandao/godot-devtool",
     "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
     "url": "https://github.com/wangdiandao/godot-devtool",
-    "stars": 24,
+    "stars": 26,
     "language": "TypeScript",
-    "updated_at": "2026-05-10T07:14:19Z"
+    "updated_at": "2026-05-10T16:14:52Z"
   },
   {
     "name": "comfyui-CleanFreak",
