@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-05-10 16:56:37",
-  "news": []
+  "generated_at": "2026-05-10 20:49:36",
+  "news": [
+    {
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "source": "Hacker News",
+      "time": "2026-05-10 17:19",
+      "score": 113,
+      "comments": 59
+    }
+  ]
 }

@@ -4,9 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1542,
+    "stars": 1543,
     "language": "Python",
-    "updated_at": "2026-05-10T16:42:26Z"
+    "updated_at": "2026-05-10T20:31:37Z"
   },
   {
     "name": "pordee",
@@ -22,36 +22,36 @@
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 178,
+    "stars": 181,
     "language": "Python",
-    "updated_at": "2026-05-10T16:17:18Z"
+    "updated_at": "2026-05-10T19:36:14Z"
   },
   {
     "name": "Dulus",
     "full_name": "KevRojo/Dulus",
     "description": "Dulus is an IA agent inspired by Open-Claw but better",
     "url": "https://github.com/KevRojo/Dulus",
-    "stars": 91,
+    "stars": 90,
     "language": "Python",
-    "updated_at": "2026-05-10T11:32:27Z"
+    "updated_at": "2026-05-10T20:08:39Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 76,
+    "stars": 79,
     "language": "Shell",
-    "updated_at": "2026-05-10T14:54:43Z"
+    "updated_at": "2026-05-10T20:41:52Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 56,
+    "stars": 58,
     "language": "Shell",
-    "updated_at": "2026-05-10T13:39:36Z"
+    "updated_at": "2026-05-10T19:31:03Z"
   },
   {
     "name": "mnemo",
