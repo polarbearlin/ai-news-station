@@ -4,9 +4,9 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1618,
+    "stars": 1622,
     "language": "Python",
-    "updated_at": "2026-05-11T14:52:08Z"
+    "updated_at": "2026-05-11T17:13:22Z"
   },
   {
     "name": "pordee",
@@ -18,31 +18,31 @@
     "updated_at": "2026-05-11T12:36:53Z"
   },
   {
-    "name": "opensquilla",
-    "full_name": "opensquilla/opensquilla",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-    "url": "https://github.com/opensquilla/opensquilla",
-    "stars": 210,
-    "language": "Python",
-    "updated_at": "2026-05-11T13:40:44Z"
-  },
-  {
     "name": "GoblinOS",
     "full_name": "ChristianJR19/GoblinOS",
     "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
     "url": "https://github.com/ChristianJR19/GoblinOS",
-    "stars": 204,
+    "stars": 219,
     "language": "Python",
-    "updated_at": "2026-05-11T14:42:31Z"
+    "updated_at": "2026-05-11T17:45:16Z"
+  },
+  {
+    "name": "opensquilla",
+    "full_name": "opensquilla/opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+    "url": "https://github.com/opensquilla/opensquilla",
+    "stars": 213,
+    "language": "Python",
+    "updated_at": "2026-05-11T17:27:22Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 97,
+    "stars": 98,
     "language": "Shell",
-    "updated_at": "2026-05-11T14:21:07Z"
+    "updated_at": "2026-05-11T16:49:55Z"
   },
   {
     "name": "Dulus",
@@ -67,9 +67,9 @@
     "full_name": "omermaksutii/mnemo",
     "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
     "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 54,
+    "stars": 55,
     "language": "TypeScript",
-    "updated_at": "2026-05-11T13:29:06Z"
+    "updated_at": "2026-05-11T16:21:20Z"
   },
   {
     "name": "godot-devtool",
