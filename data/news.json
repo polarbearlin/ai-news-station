@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-11 03:34:19",
+  "generated_at": "2026-05-11 07:41:09",
   "news": [
     {
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "source": "Hacker News",
       "time": "2026-05-10 17:19",
-      "score": 694,
-      "comments": 332
+      "score": 989,
+      "comments": 429
     },
     {
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "source": "Hacker News",
       "time": "2026-05-11 02:43",
-      "score": 21,
-      "comments": 3
+      "score": 125,
+      "comments": 43
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "source": "Hacker News",
       "time": "2026-05-10 23:39",
-      "score": 65,
-      "comments": 10
+      "score": 133,
+      "comments": 34
     }
   ]
 }

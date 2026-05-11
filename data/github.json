@@ -4,63 +4,63 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1579,
+    "stars": 1600,
     "language": "Python",
-    "updated_at": "2026-05-11T03:29:51Z"
+    "updated_at": "2026-05-11T07:38:49Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 229,
+    "stars": 234,
     "language": "JavaScript",
-    "updated_at": "2026-05-11T03:23:00Z"
+    "updated_at": "2026-05-11T06:06:26Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 194,
+    "stars": 205,
     "language": "Python",
-    "updated_at": "2026-05-11T01:33:45Z"
-  },
-  {
-    "name": "Dulus",
-    "full_name": "KevRojo/Dulus",
-    "description": "Dulus is an IA agent inspired by Open-Claw but better",
-    "url": "https://github.com/KevRojo/Dulus",
-    "stars": 90,
-    "language": "Python",
-    "updated_at": "2026-05-10T21:32:47Z"
+    "updated_at": "2026-05-11T07:22:41Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 87,
+    "stars": 93,
     "language": "Shell",
-    "updated_at": "2026-05-11T03:06:08Z"
+    "updated_at": "2026-05-11T07:24:05Z"
+  },
+  {
+    "name": "Dulus",
+    "full_name": "KevRojo/Dulus",
+    "description": "Dulus is an IA agent inspired by Open-Claw but better",
+    "url": "https://github.com/KevRojo/Dulus",
+    "stars": 89,
+    "language": "Python",
+    "updated_at": "2026-05-11T04:00:05Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 60,
+    "stars": 66,
     "language": "Shell",
-    "updated_at": "2026-05-11T00:20:29Z"
+    "updated_at": "2026-05-11T06:17:59Z"
   },
   {
     "name": "mnemo",
     "full_name": "omermaksutii/mnemo",
     "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
     "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 49,
+    "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-05-11T00:48:51Z"
+    "updated_at": "2026-05-11T07:37:42Z"
   },
   {
     "name": "godot-devtool",
@@ -69,7 +69,7 @@
     "url": "https://github.com/wangdiandao/godot-devtool",
     "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-05-11T03:00:43Z"
+    "updated_at": "2026-05-11T04:44:16Z"
   },
   {
     "name": "comfyui-CleanFreak",
