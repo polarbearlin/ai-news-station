@@ -4,27 +4,27 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1543,
+    "stars": 1579,
     "language": "Python",
-    "updated_at": "2026-05-10T20:31:37Z"
+    "updated_at": "2026-05-11T03:29:51Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 225,
+    "stars": 229,
     "language": "JavaScript",
-    "updated_at": "2026-05-10T16:33:03Z"
+    "updated_at": "2026-05-11T03:23:00Z"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 181,
+    "stars": 194,
     "language": "Python",
-    "updated_at": "2026-05-10T19:36:14Z"
+    "updated_at": "2026-05-11T01:33:45Z"
   },
   {
     "name": "Dulus",
@@ -33,43 +33,43 @@
     "url": "https://github.com/KevRojo/Dulus",
     "stars": 90,
     "language": "Python",
-    "updated_at": "2026-05-10T20:08:39Z"
+    "updated_at": "2026-05-10T21:32:47Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 79,
+    "stars": 87,
     "language": "Shell",
-    "updated_at": "2026-05-10T20:41:52Z"
+    "updated_at": "2026-05-11T03:06:08Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 58,
+    "stars": 60,
     "language": "Shell",
-    "updated_at": "2026-05-10T19:31:03Z"
+    "updated_at": "2026-05-11T00:20:29Z"
   },
   {
     "name": "mnemo",
     "full_name": "omermaksutii/mnemo",
     "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
     "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 47,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-05-09T08:01:48Z"
+    "updated_at": "2026-05-11T00:48:51Z"
   },
   {
     "name": "godot-devtool",
     "full_name": "wangdiandao/godot-devtool",
     "description": "Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation.",
     "url": "https://github.com/wangdiandao/godot-devtool",
-    "stars": 26,
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-05-10T16:14:52Z"
+    "updated_at": "2026-05-11T03:00:43Z"
   },
   {
     "name": "comfyui-CleanFreak",
