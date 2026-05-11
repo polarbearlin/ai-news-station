@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-11 11:20:57",
+  "generated_at": "2026-05-11 14:52:53",
   "news": [
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "source": "Hacker News",
+      "time": "2026-05-10 17:05",
+      "score": 23,
+      "comments": 1
+    },
     {
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "source": "Hacker News",
       "time": "2026-05-10 17:19",
-      "score": 1233,
-      "comments": 516
+      "score": 1486,
+      "comments": 579
     },
     {
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
       "source": "Hacker News",
-      "time": "2026-05-11 02:43",
-      "score": 196,
-      "comments": 85
-    },
-    {
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "source": "Hacker News",
-      "time": "2026-05-10 23:39",
-      "score": 182,
-      "comments": 43
+      "time": "2026-05-11 07:26",
+      "score": 153,
+      "comments": 73
     }
   ]
 }

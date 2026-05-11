@@ -4,36 +4,45 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1608,
+    "stars": 1618,
     "language": "Python",
-    "updated_at": "2026-05-11T09:51:31Z"
+    "updated_at": "2026-05-11T14:52:08Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 237,
+    "stars": 238,
     "language": "JavaScript",
-    "updated_at": "2026-05-11T10:05:44Z"
+    "updated_at": "2026-05-11T12:36:53Z"
   },
   {
     "name": "opensquilla",
-    "full_name": "OpenSquilla/opensquilla",
+    "full_name": "opensquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-    "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 208,
+    "url": "https://github.com/opensquilla/opensquilla",
+    "stars": 210,
     "language": "Python",
-    "updated_at": "2026-05-11T10:34:01Z"
+    "updated_at": "2026-05-11T13:40:44Z"
+  },
+  {
+    "name": "GoblinOS",
+    "full_name": "ChristianJR19/GoblinOS",
+    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
+    "url": "https://github.com/ChristianJR19/GoblinOS",
+    "stars": 204,
+    "language": "Python",
+    "updated_at": "2026-05-11T14:42:31Z"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 96,
+    "stars": 97,
     "language": "Shell",
-    "updated_at": "2026-05-11T11:00:56Z"
+    "updated_at": "2026-05-11T14:21:07Z"
   },
   {
     "name": "Dulus",
@@ -42,25 +51,25 @@
     "url": "https://github.com/KevRojo/Dulus",
     "stars": 89,
     "language": "Python",
-    "updated_at": "2026-05-11T10:14:12Z"
+    "updated_at": "2026-05-11T14:22:06Z"
   },
   {
     "name": "kstack",
     "full_name": "kubetail-org/kstack",
     "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
     "url": "https://github.com/kubetail-org/kstack",
-    "stars": 67,
+    "stars": 68,
     "language": "Shell",
-    "updated_at": "2026-05-11T08:42:00Z"
+    "updated_at": "2026-05-11T13:06:29Z"
   },
   {
     "name": "mnemo",
     "full_name": "omermaksutii/mnemo",
     "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
     "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 50,
+    "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-05-11T07:37:42Z"
+    "updated_at": "2026-05-11T13:29:06Z"
   },
   {
     "name": "godot-devtool",
@@ -69,24 +78,15 @@
     "url": "https://github.com/wangdiandao/godot-devtool",
     "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-05-11T08:19:01Z"
+    "updated_at": "2026-05-11T14:39:30Z"
   },
   {
     "name": "comfyui-CleanFreak",
     "full_name": "shootthesound/comfyui-CleanFreak",
     "description": "One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get their own column or row, with optional colour-coded groups. Width-aware. Connections preserved.",
     "url": "https://github.com/shootthesound/comfyui-CleanFreak",
-    "stars": 19,
+    "stars": 20,
     "language": "JavaScript",
-    "updated_at": "2026-05-10T07:58:14Z"
-  },
-  {
-    "name": "comfyui-ReferenceLatentPlus",
-    "full_name": "shootthesound/comfyui-ReferenceLatentPlus",
-    "description": "Improved ReferenceLatent for ComfyUI — per-image strength, timestep gating, MediaPipe auto-masks, 1-4 image inputs. Works with Flux, Klein, Lumina, Wan, Hunyuan, Qwen-Image.",
-    "url": "https://github.com/shootthesound/comfyui-ReferenceLatentPlus",
-    "stars": 17,
-    "language": "Python",
-    "updated_at": "2026-05-10T07:50:25Z"
+    "updated_at": "2026-05-11T13:44:29Z"
   }
 ]
