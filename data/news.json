@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-05-12 10:31:34",
+  "generated_at": "2026-05-12 14:26:06",
   "news": [
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "source": "Hacker News",
       "time": "2026-05-11 21:08",
-      "score": 865,
-      "comments": 347
+      "score": 938,
+      "comments": 396
     },
     {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "source": "Hacker News",
       "time": "2026-05-11 20:45",
-      "score": 520,
-      "comments": 562
-    },
-    {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "source": "Hacker News",
-      "time": "2026-05-11 17:53",
-      "score": 348,
-      "comments": 69
+      "score": 669,
+      "comments": 695
     }
   ]
 }
