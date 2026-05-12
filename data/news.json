@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-12 17:59:12",
+  "generated_at": "2026-05-12 21:19:54",
   "news": [
     {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "source": "Hacker News",
       "time": "2026-05-12 15:08",
-      "score": 54,
-      "comments": 21
+      "score": 239,
+      "comments": 123
     },
     {
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "url": "https://voker.ai",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
       "source": "Hacker News",
-      "time": "2026-05-12 15:45",
-      "score": 24,
-      "comments": 11
+      "time": "2026-05-12 17:40",
+      "score": 73,
+      "comments": 60
     }
   ]
 }
