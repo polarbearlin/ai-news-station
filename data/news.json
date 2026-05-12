@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-05-12 03:21:45",
+  "generated_at": "2026-05-12 06:37:25",
   "news": [
     {
-      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "source": "Hacker News",
       "time": "2026-05-11 21:08",
-      "score": 589,
-      "comments": 220
+      "score": 731,
+      "comments": 270
     },
     {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "source": "Hacker News",
       "time": "2026-05-11 20:45",
-      "score": 225,
-      "comments": 242
+      "score": 376,
+      "comments": 383
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "source": "Hacker News",
       "time": "2026-05-11 17:53",
-      "score": 259,
-      "comments": 51
+      "score": 300,
+      "comments": 61
+    },
+    {
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "source": "Hacker News",
+      "time": "2026-05-11 13:20",
+      "score": 159,
+      "comments": 120
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
       "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
       "source": "Hacker News",
       "time": "2026-05-11 21:04",
-      "score": 88,
-      "comments": 101
+      "score": 139,
+      "comments": 145
     }
   ]
 }
