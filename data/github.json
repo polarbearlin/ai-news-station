@@ -4,36 +4,36 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1723,
+    "stars": 1782,
     "language": "Python",
-    "updated_at": "2026-05-12T06:36:50Z"
+    "updated_at": "2026-05-12T10:27:02Z"
   },
   {
     "name": "GoblinOS",
     "full_name": "ChristianJR19/GoblinOS",
     "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
     "url": "https://github.com/ChristianJR19/GoblinOS",
-    "stars": 266,
+    "stars": 293,
     "language": "Python",
-    "updated_at": "2026-05-12T06:35:34Z"
+    "updated_at": "2026-05-12T10:03:06Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 242,
+    "stars": 246,
     "language": "JavaScript",
-    "updated_at": "2026-05-12T04:31:32Z"
+    "updated_at": "2026-05-12T08:29:44Z"
   },
   {
     "name": "opensquilla",
     "full_name": "opensquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/opensquilla/opensquilla",
-    "stars": 229,
+    "stars": 232,
     "language": "Python",
-    "updated_at": "2026-05-12T06:34:24Z"
+    "updated_at": "2026-05-12T09:44:22Z"
   },
   {
     "name": "mercury-agent-skills",
@@ -42,7 +42,7 @@
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
     "stars": 102,
     "language": "Shell",
-    "updated_at": "2026-05-12T02:21:50Z"
+    "updated_at": "2026-05-12T09:10:59Z"
   },
   {
     "name": "kstack",
@@ -58,35 +58,35 @@
     "full_name": "omermaksutii/mnemo",
     "description": "Persistent memory for Claude Code. Your AI never starts from scratch again.",
     "url": "https://github.com/omermaksutii/mnemo",
-    "stars": 60,
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-05-12T00:36:41Z"
+    "updated_at": "2026-05-12T09:17:28Z"
+  },
+  {
+    "name": "codex-redteam-optin-mode",
+    "full_name": "chAng-L19/codex-redteam-optin-mode",
+    "description": "针对于红队攻击思维做出的red team模式(让你的codex像红队一样思考！)，可在单对话使用（可自行适配其他AI）",
+    "url": "https://github.com/chAng-L19/codex-redteam-optin-mode",
+    "stars": 50,
+    "language": "Python",
+    "updated_at": "2026-05-12T10:30:38Z"
+  },
+  {
+    "name": "MemPrivacy",
+    "full_name": "MemTensor/MemPrivacy",
+    "description": "MemPrivacy is a privacy-preserving personalized memory management framework for edge-cloud agents. ",
+    "url": "https://github.com/MemTensor/MemPrivacy",
+    "stars": 28,
+    "language": "Python",
+    "updated_at": "2026-05-12T10:06:30Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 23,
+    "stars": 27,
     "language": "TypeScript",
-    "updated_at": "2026-05-12T06:15:41Z"
-  },
-  {
-    "name": "comfyui-CleanFreak",
-    "full_name": "shootthesound/comfyui-CleanFreak",
-    "description": "One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get their own column or row, with optional colour-coded groups. Width-aware. Connections preserved.",
-    "url": "https://github.com/shootthesound/comfyui-CleanFreak",
-    "stars": 21,
-    "language": "JavaScript",
-    "updated_at": "2026-05-12T03:25:34Z"
-  },
-  {
-    "name": "comfyui-ReferenceLatentPlus",
-    "full_name": "shootthesound/comfyui-ReferenceLatentPlus",
-    "description": "Improved ReferenceLatent for ComfyUI — per-image strength, timestep gating, MediaPipe auto-masks, 1-4 image inputs. Works with Flux, Klein, Lumina, Wan, Hunyuan, Qwen-Image.",
-    "url": "https://github.com/shootthesound/comfyui-ReferenceLatentPlus",
-    "stars": 18,
-    "language": "Python",
-    "updated_at": "2026-05-11T15:50:02Z"
+    "updated_at": "2026-05-12T08:34:22Z"
   }
 ]
