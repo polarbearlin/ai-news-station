@@ -4,36 +4,36 @@
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "url": "https://github.com/yaojingang/yao-open-prompts",
-    "stars": 1808,
+    "stars": 1820,
     "language": "Python",
-    "updated_at": "2026-05-12T14:01:12Z"
+    "updated_at": "2026-05-12T17:52:20Z"
   },
   {
     "name": "GoblinOS",
     "full_name": "ChristianJR19/GoblinOS",
     "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
     "url": "https://github.com/ChristianJR19/GoblinOS",
-    "stars": 315,
+    "stars": 324,
     "language": "Python",
-    "updated_at": "2026-05-12T14:18:11Z"
+    "updated_at": "2026-05-12T17:49:41Z"
   },
   {
     "name": "pordee",
     "full_name": "kerlos/pordee",
     "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
     "url": "https://github.com/kerlos/pordee",
-    "stars": 247,
+    "stars": 250,
     "language": "JavaScript",
-    "updated_at": "2026-05-12T14:10:55Z"
+    "updated_at": "2026-05-12T17:32:37Z"
   },
   {
     "name": "opensquilla",
     "full_name": "opensquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/opensquilla/opensquilla",
-    "stars": 239,
+    "stars": 250,
     "language": "Python",
-    "updated_at": "2026-05-12T13:58:19Z"
+    "updated_at": "2026-05-12T17:25:43Z"
   },
   {
     "name": "mercury-agent-skills",
@@ -49,9 +49,9 @@
     "full_name": "ndcorder/outputguard",
     "description": "Validate, repair, and retry LLM structured outputs. 13 repair strategies for common JSON malformations, JSON Schema validation, and retry-with-feedback prompts.",
     "url": "https://github.com/ndcorder/outputguard",
-    "stars": 74,
+    "stars": 75,
     "language": "Python",
-    "updated_at": "2026-05-12T14:09:05Z"
+    "updated_at": "2026-05-12T17:54:12Z"
   },
   {
     "name": "kstack",
@@ -76,17 +76,17 @@
     "full_name": "chAng-L19/codex-redteam-optin-mode",
     "description": "针对于红队攻击思维做出的red team模式(让你的codex像红队一样思考！)，可在单对话使用（可自行适配其他AI）",
     "url": "https://github.com/chAng-L19/codex-redteam-optin-mode",
-    "stars": 52,
+    "stars": 53,
     "language": "Python",
-    "updated_at": "2026-05-12T11:57:24Z"
+    "updated_at": "2026-05-12T14:32:02Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 36,
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-05-12T14:16:50Z"
+    "updated_at": "2026-05-12T16:17:11Z"
   }
 ]
