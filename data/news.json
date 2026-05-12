@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-11 21:17:29",
+  "generated_at": "2026-05-12 03:21:45",
   "news": [
+    {
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "source": "Hacker News",
+      "time": "2026-05-11 21:08",
+      "score": 589,
+      "comments": 220
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "source": "Hacker News",
+      "time": "2026-05-11 20:45",
+      "score": 225,
+      "comments": 242
+    },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "source": "Hacker News",
       "time": "2026-05-11 17:53",
-      "score": 59,
-      "comments": 16
+      "score": 259,
+      "comments": 51
     },
     {
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
       "source": "Hacker News",
-      "time": "2026-05-11 07:26",
-      "score": 484,
-      "comments": 337
-    },
-    {
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "source": "Hacker News",
-      "time": "2026-05-11 18:12",
-      "score": 144,
-      "comments": 66
-    },
-    {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "source": "Hacker News",
-      "time": "2026-05-10 17:05",
-      "score": 189,
-      "comments": 9
+      "time": "2026-05-11 21:04",
+      "score": 88,
+      "comments": 101
     }
   ]
 }
