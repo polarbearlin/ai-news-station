@@ -13,9 +13,9 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 102,
+    "stars": 103,
     "language": "Shell",
-    "updated_at": "2026-05-12T09:10:59Z"
+    "updated_at": "2026-05-13T06:31:24Z"
   },
   {
     "name": "outputguard",
@@ -31,18 +31,18 @@
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 47,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-05-13T02:56:57Z"
+    "updated_at": "2026-05-13T06:09:14Z"
   },
   {
     "name": "MemPrivacy",
     "full_name": "MemTensor/MemPrivacy",
     "description": "MemPrivacy is a privacy-preserving personalized memory management framework for edge-cloud agents. ",
     "url": "https://github.com/MemTensor/MemPrivacy",
-    "stars": 31,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-05-13T02:43:12Z"
+    "updated_at": "2026-05-13T03:32:23Z"
   },
   {
     "name": "comfyui-CleanFreak",
@@ -58,9 +58,9 @@
     "full_name": "jerrywang33/jup-sh",
     "description": "Risk and settlement for Solana agent payments.",
     "url": "https://github.com/jerrywang33/jup-sh",
-    "stars": 17,
+    "stars": 18,
     "language": "JavaScript",
-    "updated_at": "2026-05-13T01:40:02Z"
+    "updated_at": "2026-05-13T06:02:48Z"
   },
   {
     "name": "LiraVtuber",
@@ -78,7 +78,7 @@
     "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
     "stars": 15,
     "language": "Rust",
-    "updated_at": "2026-05-13T01:38:34Z"
+    "updated_at": "2026-05-13T05:59:27Z"
   },
   {
     "name": "PHANTOM",
