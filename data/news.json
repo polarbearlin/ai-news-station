@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-13 06:47:54",
+  "generated_at": "2026-05-13 10:27:57",
   "news": [
+    {
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "source": "Hacker News",
+      "time": "2026-05-11 01:05",
+      "score": 53,
+      "comments": 22
+    },
     {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "source": "Hacker News",
       "time": "2026-05-12 15:08",
-      "score": 509,
-      "comments": 216
+      "score": 590,
+      "comments": 257
     }
   ]
 }
