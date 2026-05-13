@@ -14,35 +14,35 @@
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
     "stars": 103,
-    "language": "Shell",
-    "updated_at": "2026-05-13T06:31:24Z"
+    "language": "JavaScript",
+    "updated_at": "2026-05-13T12:06:09Z"
   },
   {
     "name": "outputguard",
     "full_name": "ndcorder/outputguard",
     "description": "Validate, repair, and retry LLM structured outputs. 13 repair strategies for common JSON malformations, JSON Schema validation, and retry-with-feedback prompts.",
     "url": "https://github.com/ndcorder/outputguard",
-    "stars": 78,
+    "stars": 79,
     "language": "Python",
-    "updated_at": "2026-05-13T07:06:50Z"
+    "updated_at": "2026-05-13T12:02:51Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 55,
+    "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-05-13T09:06:34Z"
+    "updated_at": "2026-05-13T14:27:10Z"
   },
   {
     "name": "MemPrivacy",
     "full_name": "MemTensor/MemPrivacy",
     "description": "MemPrivacy is a privacy-preserving personalized memory management framework for edge-cloud agents. ",
     "url": "https://github.com/MemTensor/MemPrivacy",
-    "stars": 36,
+    "stars": 39,
     "language": "Python",
-    "updated_at": "2026-05-13T08:18:29Z"
+    "updated_at": "2026-05-13T14:34:23Z"
   },
   {
     "name": "comfyui-CleanFreak",
@@ -58,18 +58,18 @@
     "full_name": "jerrywang33/jup-sh",
     "description": "Risk and settlement for Solana agent payments.",
     "url": "https://github.com/jerrywang33/jup-sh",
-    "stars": 18,
+    "stars": 20,
     "language": "JavaScript",
-    "updated_at": "2026-05-13T06:02:48Z"
+    "updated_at": "2026-05-13T13:45:47Z"
   },
   {
     "name": "AIephant-AI-Gateway",
     "full_name": "AlephantAI/AIephant-AI-Gateway",
     "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
     "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 17,
+    "stars": 20,
     "language": "Rust",
-    "updated_at": "2026-05-13T10:23:37Z"
+    "updated_at": "2026-05-13T10:50:59Z"
   },
   {
     "name": "LiraVtuber",
