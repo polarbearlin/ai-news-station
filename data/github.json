@@ -13,9 +13,9 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 103,
+    "stars": 104,
     "language": "JavaScript",
-    "updated_at": "2026-05-13T12:06:09Z"
+    "updated_at": "2026-05-13T15:03:22Z"
   },
   {
     "name": "outputguard",
@@ -31,9 +31,9 @@
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 58,
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-05-13T14:27:10Z"
+    "updated_at": "2026-05-13T17:14:58Z"
   },
   {
     "name": "MemPrivacy",
@@ -54,6 +54,15 @@
     "updated_at": "2026-05-12T10:09:20Z"
   },
   {
+    "name": "AIephant-AI-Gateway",
+    "full_name": "AlephantAI/AIephant-AI-Gateway",
+    "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
+    "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
+    "stars": 22,
+    "language": "Rust",
+    "updated_at": "2026-05-13T16:49:44Z"
+  },
+  {
     "name": "jup-sh",
     "full_name": "jerrywang33/jup-sh",
     "description": "Risk and settlement for Solana agent payments.",
@@ -61,15 +70,6 @@
     "stars": 20,
     "language": "JavaScript",
     "updated_at": "2026-05-13T13:45:47Z"
-  },
-  {
-    "name": "AIephant-AI-Gateway",
-    "full_name": "AlephantAI/AIephant-AI-Gateway",
-    "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
-    "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 20,
-    "language": "Rust",
-    "updated_at": "2026-05-13T10:50:59Z"
   },
   {
     "name": "LiraVtuber",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-12T03:26:52Z"
   },
   {
-    "name": "PHANTOM",
-    "full_name": "OmYarewar/PHANTOM",
-    "description": "👻 AI-Powered Pentesting Command Center — Autonomous security testing with real-time streaming, self-improving AI, unlimited tool iterations, and beautiful dark UI",
-    "url": "https://github.com/OmYarewar/PHANTOM",
+    "name": "aria-termux",
+    "full_name": "Alex72-py/aria-termux",
+    "description": "Terminal-native AI assistant built specifically for Termux and Android development.",
+    "url": "https://github.com/Alex72-py/aria-termux",
     "stars": 13,
-    "language": "JavaScript",
-    "updated_at": "2026-05-12T07:12:36Z"
+    "language": "Python",
+    "updated_at": "2026-05-13T15:41:14Z"
   }
 ]
