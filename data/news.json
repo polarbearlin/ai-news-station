@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-14 17:50:26",
+  "generated_at": "2026-05-14 21:10:26",
   "news": [
     {
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "source": "Hacker News",
       "time": "2026-05-14 15:47",
-      "score": 199,
-      "comments": 57
+      "score": 391,
+      "comments": 102
     },
     {
-      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "title": "The AI Zombification of Universities",
+      "url": "https://www.thenewcritic.com/p/the-great-zombification",
       "source": "Hacker News",
-      "time": "2026-05-14 14:49",
-      "score": 234,
-      "comments": 106
+      "time": "2026-05-14 18:37",
+      "score": 121,
+      "comments": 82
     },
     {
-      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
-      "url": "https://www.workatastartup.com/companies/terranox-ai",
+      "title": "You Don't Align an AI, You Align with It",
+      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
       "source": "Hacker News",
-      "time": "2026-05-14 17:01",
-      "score": 1,
-      "comments": 0
+      "time": "2026-05-14 18:19",
+      "score": 54,
+      "comments": 30
     }
   ]
 }

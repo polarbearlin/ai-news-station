@@ -13,9 +13,9 @@
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 85,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-05-14T17:48:03Z"
+    "updated_at": "2026-05-14T21:06:02Z"
   },
   {
     "name": "outputguard",
@@ -24,16 +24,16 @@
     "url": "https://github.com/ndcorder/outputguard",
     "stars": 79,
     "language": "Python",
-    "updated_at": "2026-05-14T16:43:06Z"
+    "updated_at": "2026-05-14T21:00:52Z"
   },
   {
     "name": "aipointer",
     "full_name": "talentsache/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/talentsache/aipointer",
-    "stars": 64,
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-05-14T16:09:30Z"
+    "updated_at": "2026-05-14T18:12:24Z"
   },
   {
     "name": "MemPrivacy",
@@ -49,18 +49,18 @@
     "full_name": "secureagentics/Adrian",
     "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
     "url": "https://github.com/secureagentics/Adrian",
-    "stars": 39,
+    "stars": 40,
     "language": "Python",
-    "updated_at": "2026-05-14T16:08:23Z"
+    "updated_at": "2026-05-14T20:05:54Z"
   },
   {
     "name": "aithy",
     "full_name": "dosco/aithy",
     "description": "A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.",
     "url": "https://github.com/dosco/aithy",
-    "stars": 33,
+    "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-05-14T13:59:20Z"
+    "updated_at": "2026-05-14T19:19:55Z"
   },
   {
     "name": "AIephant-AI-Gateway",
