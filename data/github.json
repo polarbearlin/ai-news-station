@@ -4,9 +4,9 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 105,
+    "stars": 106,
     "language": "JavaScript",
-    "updated_at": "2026-05-14T01:34:25Z"
+    "updated_at": "2026-05-14T04:57:43Z"
   },
   {
     "name": "outputguard",
@@ -22,27 +22,36 @@
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 66,
+    "stars": 70,
     "language": "TypeScript",
-    "updated_at": "2026-05-14T02:03:37Z"
+    "updated_at": "2026-05-14T06:37:44Z"
   },
   {
     "name": "MemPrivacy",
     "full_name": "MemTensor/MemPrivacy",
     "description": "MemPrivacy is a privacy-preserving personalized memory management framework for edge-cloud agents. ",
     "url": "https://github.com/MemTensor/MemPrivacy",
-    "stars": 42,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-05-14T01:54:45Z"
+    "updated_at": "2026-05-14T06:19:46Z"
   },
   {
     "name": "AIephant-AI-Gateway",
     "full_name": "AlephantAI/AIephant-AI-Gateway",
     "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
     "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 27,
+    "stars": 28,
     "language": "Rust",
-    "updated_at": "2026-05-14T02:33:15Z"
+    "updated_at": "2026-05-14T04:27:20Z"
+  },
+  {
+    "name": "aithy",
+    "full_name": "dosco/aithy",
+    "description": "A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.",
+    "url": "https://github.com/dosco/aithy",
+    "stars": 24,
+    "language": "TypeScript",
+    "updated_at": "2026-05-14T06:41:03Z"
   },
   {
     "name": "jup-sh",
@@ -52,15 +61,6 @@
     "stars": 22,
     "language": "JavaScript",
     "updated_at": "2026-05-13T22:17:19Z"
-  },
-  {
-    "name": "aithy",
-    "full_name": "dosco/aithy",
-    "description": "A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.",
-    "url": "https://github.com/dosco/aithy",
-    "stars": 21,
-    "language": "TypeScript",
-    "updated_at": "2026-05-13T22:19:32Z"
   },
   {
     "name": "aria-termux",
@@ -76,17 +76,17 @@
     "full_name": "OmYarewar/PHANTOM",
     "description": "👻 AI-Powered Pentesting Command Center — Autonomous security testing with real-time streaming, self-improving AI, unlimited tool iterations, and beautiful dark UI",
     "url": "https://github.com/OmYarewar/PHANTOM",
-    "stars": 13,
+    "stars": 14,
     "language": "JavaScript",
-    "updated_at": "2026-05-12T07:12:36Z"
+    "updated_at": "2026-05-14T05:39:44Z"
   },
   {
-    "name": "myLocalKb",
-    "full_name": "apg6390/myLocalKb",
-    "description": "Offline local-first personal knowledge base with document upload, vector search, and Ollama-powered RAG chat.",
-    "url": "https://github.com/apg6390/myLocalKb",
-    "stars": 11,
-    "language": "Python",
-    "updated_at": "2026-05-12T18:26:33Z"
+    "name": "LumiMuse",
+    "full_name": "in30mn1a/LumiMuse",
+    "description": "A quiet AI companion. Create characters, build memories, feel something real.",
+    "url": "https://github.com/in30mn1a/LumiMuse",
+    "stars": 13,
+    "language": "TypeScript",
+    "updated_at": "2026-05-14T06:08:29Z"
   }
 ]

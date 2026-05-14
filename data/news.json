@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-14 03:29:31",
+  "generated_at": "2026-05-14 06:46:19",
   "news": [
+    {
+      "title": "Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "source": "Hacker News",
+      "time": "2026-05-14 03:19",
+      "score": 32,
+      "comments": 11
+    },
     {
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "source": "Hacker News",
       "time": "2026-05-13 14:45",
-      "score": 517,
-      "comments": 164
+      "score": 544,
+      "comments": 171
     }
   ]
 }
