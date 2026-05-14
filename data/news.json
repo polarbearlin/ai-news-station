@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-05-14 14:12:29",
+  "generated_at": "2026-05-14 17:50:26",
   "news": [
     {
-      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "source": "Hacker News",
-      "time": "2026-05-14 13:17",
-      "score": 84,
-      "comments": 54
+      "time": "2026-05-14 15:47",
+      "score": 199,
+      "comments": 57
+    },
+    {
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "source": "Hacker News",
+      "time": "2026-05-14 14:49",
+      "score": 234,
+      "comments": 106
+    },
+    {
+      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+      "url": "https://www.workatastartup.com/companies/terranox-ai",
+      "source": "Hacker News",
+      "time": "2026-05-14 17:01",
+      "score": 1,
+      "comments": 0
     }
   ]
 }

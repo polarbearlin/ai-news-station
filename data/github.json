@@ -4,18 +4,18 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 109,
+    "stars": 111,
     "language": "JavaScript",
-    "updated_at": "2026-05-14T14:01:18Z"
+    "updated_at": "2026-05-14T17:06:08Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 79,
+    "stars": 85,
     "language": "TypeScript",
-    "updated_at": "2026-05-14T13:37:36Z"
+    "updated_at": "2026-05-14T17:48:03Z"
   },
   {
     "name": "outputguard",
@@ -24,16 +24,34 @@
     "url": "https://github.com/ndcorder/outputguard",
     "stars": 79,
     "language": "Python",
-    "updated_at": "2026-05-14T11:56:58Z"
+    "updated_at": "2026-05-14T16:43:06Z"
+  },
+  {
+    "name": "aipointer",
+    "full_name": "talentsache/aipointer",
+    "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
+    "url": "https://github.com/talentsache/aipointer",
+    "stars": 64,
+    "language": "TypeScript",
+    "updated_at": "2026-05-14T16:09:30Z"
   },
   {
     "name": "MemPrivacy",
     "full_name": "MemTensor/MemPrivacy",
     "description": "MemPrivacy is a privacy-preserving personalized memory management framework for edge-cloud agents. ",
     "url": "https://github.com/MemTensor/MemPrivacy",
-    "stars": 44,
+    "stars": 48,
     "language": "Python",
-    "updated_at": "2026-05-14T10:24:59Z"
+    "updated_at": "2026-05-14T16:00:10Z"
+  },
+  {
+    "name": "Adrian",
+    "full_name": "secureagentics/Adrian",
+    "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
+    "url": "https://github.com/secureagentics/Adrian",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-05-14T16:08:23Z"
   },
   {
     "name": "aithy",
@@ -49,44 +67,26 @@
     "full_name": "AlephantAI/AIephant-AI-Gateway",
     "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
     "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 28,
+    "stars": 29,
     "language": "Rust",
-    "updated_at": "2026-05-14T04:27:20Z"
+    "updated_at": "2026-05-14T16:15:27Z"
   },
   {
     "name": "jup-sh",
     "full_name": "jerrywang33/jup-sh",
     "description": "Risk and settlement for Solana agent payments.",
     "url": "https://github.com/jerrywang33/jup-sh",
-    "stars": 22,
+    "stars": 25,
     "language": "JavaScript",
-    "updated_at": "2026-05-13T22:17:19Z"
+    "updated_at": "2026-05-14T17:33:39Z"
   },
   {
     "name": "studiomi300",
     "full_name": "bladedevoff/studiomi300",
     "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
     "url": "https://github.com/bladedevoff/studiomi300",
-    "stars": 16,
+    "stars": 19,
     "language": "Python",
-    "updated_at": "2026-05-14T14:08:15Z"
-  },
-  {
-    "name": "aria-termux",
-    "full_name": "Alex72-py/aria-termux",
-    "description": "Terminal-native AI assistant built specifically for Termux and Android development.",
-    "url": "https://github.com/Alex72-py/aria-termux",
-    "stars": 15,
-    "language": "Python",
-    "updated_at": "2026-05-14T07:18:35Z"
-  },
-  {
-    "name": "PHANTOM",
-    "full_name": "OmYarewar/PHANTOM",
-    "description": "👻 AI-Powered Pentesting Command Center — Autonomous security testing with real-time streaming, self-improving AI, unlimited tool iterations, and beautiful dark UI",
-    "url": "https://github.com/OmYarewar/PHANTOM",
-    "stars": 14,
-    "language": "JavaScript",
-    "updated_at": "2026-05-14T05:39:44Z"
+    "updated_at": "2026-05-14T15:13:35Z"
   }
 ]
