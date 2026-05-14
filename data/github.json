@@ -4,36 +4,45 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 106,
+    "stars": 109,
     "language": "JavaScript",
-    "updated_at": "2026-05-14T04:57:43Z"
-  },
-  {
-    "name": "outputguard",
-    "full_name": "ndcorder/outputguard",
-    "description": "Validate, repair, and retry LLM structured outputs. 13 repair strategies for common JSON malformations, JSON Schema validation, and retry-with-feedback prompts.",
-    "url": "https://github.com/ndcorder/outputguard",
-    "stars": 80,
-    "language": "Python",
-    "updated_at": "2026-05-14T08:12:15Z"
+    "updated_at": "2026-05-14T14:01:18Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 73,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-05-14T08:46:26Z"
+    "updated_at": "2026-05-14T13:37:36Z"
+  },
+  {
+    "name": "outputguard",
+    "full_name": "ndcorder/outputguard",
+    "description": "Validate, repair, and retry LLM structured outputs. 13 repair strategies for common JSON malformations, JSON Schema validation, and retry-with-feedback prompts.",
+    "url": "https://github.com/ndcorder/outputguard",
+    "stars": 79,
+    "language": "Python",
+    "updated_at": "2026-05-14T11:56:58Z"
   },
   {
     "name": "MemPrivacy",
     "full_name": "MemTensor/MemPrivacy",
     "description": "MemPrivacy is a privacy-preserving personalized memory management framework for edge-cloud agents. ",
     "url": "https://github.com/MemTensor/MemPrivacy",
-    "stars": 43,
+    "stars": 44,
     "language": "Python",
-    "updated_at": "2026-05-14T06:19:46Z"
+    "updated_at": "2026-05-14T10:24:59Z"
+  },
+  {
+    "name": "aithy",
+    "full_name": "dosco/aithy",
+    "description": "A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.",
+    "url": "https://github.com/dosco/aithy",
+    "stars": 33,
+    "language": "TypeScript",
+    "updated_at": "2026-05-14T13:59:20Z"
   },
   {
     "name": "AIephant-AI-Gateway",
@@ -45,15 +54,6 @@
     "updated_at": "2026-05-14T04:27:20Z"
   },
   {
-    "name": "aithy",
-    "full_name": "dosco/aithy",
-    "description": "A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.",
-    "url": "https://github.com/dosco/aithy",
-    "stars": 27,
-    "language": "TypeScript",
-    "updated_at": "2026-05-14T09:14:18Z"
-  },
-  {
     "name": "jup-sh",
     "full_name": "jerrywang33/jup-sh",
     "description": "Risk and settlement for Solana agent payments.",
@@ -61,6 +61,15 @@
     "stars": 22,
     "language": "JavaScript",
     "updated_at": "2026-05-13T22:17:19Z"
+  },
+  {
+    "name": "studiomi300",
+    "full_name": "bladedevoff/studiomi300",
+    "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
+    "url": "https://github.com/bladedevoff/studiomi300",
+    "stars": 16,
+    "language": "Python",
+    "updated_at": "2026-05-14T14:08:15Z"
   },
   {
     "name": "aria-termux",
@@ -79,14 +88,5 @@
     "stars": 14,
     "language": "JavaScript",
     "updated_at": "2026-05-14T05:39:44Z"
-  },
-  {
-    "name": "LumiMuse",
-    "full_name": "in30mn1a/LumiMuse",
-    "description": "A quiet AI companion. Create characters, build memories, feel something real.",
-    "url": "https://github.com/in30mn1a/LumiMuse",
-    "stars": 14,
-    "language": "TypeScript",
-    "updated_at": "2026-05-14T10:15:01Z"
   }
 ]
