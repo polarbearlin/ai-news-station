@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-05-14 21:10:26",
+  "generated_at": "2026-05-15 03:32:45",
   "news": [
     {
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "source": "Hacker News",
       "time": "2026-05-14 15:47",
-      "score": 391,
-      "comments": 102
+      "score": 505,
+      "comments": 139
     },
     {
-      "title": "The AI Zombification of Universities",
-      "url": "https://www.thenewcritic.com/p/the-great-zombification",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
       "source": "Hacker News",
-      "time": "2026-05-14 18:37",
-      "score": 121,
-      "comments": 82
-    },
-    {
-      "title": "You Don't Align an AI, You Align with It",
-      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "source": "Hacker News",
-      "time": "2026-05-14 18:19",
-      "score": 54,
-      "comments": 30
+      "time": "2026-05-14 20:06",
+      "score": 217,
+      "comments": 106
     }
   ]
 }
