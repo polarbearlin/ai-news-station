@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-15 17:27:28",
+  "generated_at": "2026-05-15 21:01:13",
   "news": [
     {
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "source": "Hacker News",
       "time": "2026-05-15 13:39",
-      "score": 190,
-      "comments": 78
+      "score": 273,
+      "comments": 115
+    },
+    {
+      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "Hacker News",
+      "time": "2026-05-15 20:26",
+      "score": 38,
+      "comments": 3
     }
   ]
 }
