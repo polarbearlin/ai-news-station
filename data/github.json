@@ -4,18 +4,18 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 114,
+    "stars": 115,
     "language": "JavaScript",
-    "updated_at": "2026-05-15T09:37:21Z"
+    "updated_at": "2026-05-15T12:05:40Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 108,
+    "stars": 109,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T10:16:55Z"
+    "updated_at": "2026-05-15T12:31:44Z"
   },
   {
     "name": "outputguard",
@@ -40,9 +40,9 @@
     "full_name": "secureagentics/Adrian",
     "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
     "url": "https://github.com/secureagentics/Adrian",
-    "stars": 41,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-05-15T10:11:28Z"
+    "updated_at": "2026-05-15T13:57:58Z"
   },
   {
     "name": "aithy",
@@ -67,26 +67,26 @@
     "full_name": "bladedevoff/studiomi300",
     "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
     "url": "https://github.com/bladedevoff/studiomi300",
-    "stars": 21,
+    "stars": 23,
     "language": "Python",
-    "updated_at": "2026-05-15T09:28:48Z"
+    "updated_at": "2026-05-15T11:52:44Z"
   },
   {
-    "name": "LumiMuse",
-    "full_name": "in30mn1a/LumiMuse",
-    "description": "A quiet AI companion. Create characters, build memories, feel something real.",
-    "url": "https://github.com/in30mn1a/LumiMuse",
-    "stars": 19,
+    "name": "neuralinverse",
+    "full_name": "NeuralInverse/neuralinverse",
+    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
+    "url": "https://github.com/NeuralInverse/neuralinverse",
+    "stars": 23,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T09:50:06Z"
+    "updated_at": "2026-05-15T13:42:56Z"
   },
   {
-    "name": "aria-termux",
-    "full_name": "Alex72-py/aria-termux",
-    "description": "Terminal-native AI assistant built specifically for Termux and Android development.",
-    "url": "https://github.com/Alex72-py/aria-termux",
-    "stars": 18,
-    "language": "Python",
-    "updated_at": "2026-05-15T04:01:48Z"
+    "name": "jupyter-studio",
+    "full_name": "deepelementlab/jupyter-studio",
+    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
+    "url": "https://github.com/deepelementlab/jupyter-studio",
+    "stars": 23,
+    "language": "TypeScript",
+    "updated_at": "2026-05-15T11:10:53Z"
   }
 ]
