@@ -6,16 +6,16 @@
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
     "stars": 114,
     "language": "JavaScript",
-    "updated_at": "2026-05-15T06:45:13Z"
+    "updated_at": "2026-05-15T09:37:21Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 104,
+    "stars": 108,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T06:52:49Z"
+    "updated_at": "2026-05-15T10:16:55Z"
   },
   {
     "name": "outputguard",
@@ -31,9 +31,9 @@
     "full_name": "talentsache/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/talentsache/aipointer",
-    "stars": 65,
+    "stars": 66,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T01:00:09Z"
+    "updated_at": "2026-05-15T08:14:55Z"
   },
   {
     "name": "Adrian",
@@ -42,7 +42,7 @@
     "url": "https://github.com/secureagentics/Adrian",
     "stars": 41,
     "language": "Python",
-    "updated_at": "2026-05-15T06:09:08Z"
+    "updated_at": "2026-05-15T10:11:28Z"
   },
   {
     "name": "aithy",
@@ -51,25 +51,34 @@
     "url": "https://github.com/dosco/aithy",
     "stars": 37,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T01:52:23Z"
+    "updated_at": "2026-05-15T08:01:02Z"
   },
   {
     "name": "AIephant-AI-Gateway",
     "full_name": "AlephantAI/AIephant-AI-Gateway",
     "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
     "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 31,
+    "stars": 32,
     "language": "Rust",
-    "updated_at": "2026-05-15T02:56:31Z"
+    "updated_at": "2026-05-15T09:52:36Z"
   },
   {
     "name": "studiomi300",
     "full_name": "bladedevoff/studiomi300",
     "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
     "url": "https://github.com/bladedevoff/studiomi300",
-    "stars": 20,
+    "stars": 21,
     "language": "Python",
-    "updated_at": "2026-05-14T22:01:21Z"
+    "updated_at": "2026-05-15T09:28:48Z"
+  },
+  {
+    "name": "LumiMuse",
+    "full_name": "in30mn1a/LumiMuse",
+    "description": "A quiet AI companion. Create characters, build memories, feel something real.",
+    "url": "https://github.com/in30mn1a/LumiMuse",
+    "stars": 19,
+    "language": "TypeScript",
+    "updated_at": "2026-05-15T09:50:06Z"
   },
   {
     "name": "aria-termux",
@@ -79,14 +88,5 @@
     "stars": 18,
     "language": "Python",
     "updated_at": "2026-05-15T04:01:48Z"
-  },
-  {
-    "name": "block-clankers",
-    "full_name": "CyrisXD/block-clankers",
-    "description": "Auto-block known spam bot accounts from your personal GitHub account and/or every org you admin. Pulls a community-maintained list and syncs your block lists on a schedule.",
-    "url": "https://github.com/CyrisXD/block-clankers",
-    "stars": 15,
-    "language": "Shell",
-    "updated_at": "2026-05-15T05:29:55Z"
   }
 ]

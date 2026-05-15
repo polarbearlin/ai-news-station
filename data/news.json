@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-05-15 06:55:49",
+  "generated_at": "2026-05-15 10:23:35",
   "news": [
     {
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "url": "https://writing.antonleicht.me/p/cut-off",
+      "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+      "url": "https://relax.ai/docs",
       "source": "Hacker News",
-      "time": "2026-05-15 01:08",
-      "score": 90,
-      "comments": 49
+      "time": "2026-05-15 09:27",
+      "score": 31,
+      "comments": 12
+    },
+    {
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "source": "Hacker News",
+      "time": "2026-05-15 04:48",
+      "score": 28,
+      "comments": 9
     },
     {
       "title": "Details of the Daring Airdrop at Tristan Da Cunha",
       "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
       "source": "Hacker News",
       "time": "2026-05-15 03:56",
-      "score": 50,
-      "comments": 5
+      "score": 147,
+      "comments": 40
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "source": "Hacker News",
+      "time": "2026-05-14 15:47",
+      "score": 599,
+      "comments": 145
     }
   ]
 }
