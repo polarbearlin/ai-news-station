@@ -4,18 +4,18 @@
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 115,
+    "stars": 116,
     "language": "JavaScript",
-    "updated_at": "2026-05-15T12:05:40Z"
+    "updated_at": "2026-05-15T14:46:52Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 109,
+    "stars": 111,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T12:31:44Z"
+    "updated_at": "2026-05-15T17:01:45Z"
   },
   {
     "name": "outputguard",
@@ -25,6 +25,15 @@
     "stars": 81,
     "language": "Python",
     "updated_at": "2026-05-15T01:11:37Z"
+  },
+  {
+    "name": "neuralinverse",
+    "full_name": "NeuralInverse/neuralinverse",
+    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
+    "url": "https://github.com/NeuralInverse/neuralinverse",
+    "stars": 72,
+    "language": "TypeScript",
+    "updated_at": "2026-05-15T16:55:23Z"
   },
   {
     "name": "aipointer",
@@ -42,7 +51,7 @@
     "url": "https://github.com/secureagentics/Adrian",
     "stars": 43,
     "language": "Python",
-    "updated_at": "2026-05-15T13:57:58Z"
+    "updated_at": "2026-05-15T14:44:23Z"
   },
   {
     "name": "aithy",
@@ -58,9 +67,18 @@
     "full_name": "AlephantAI/AIephant-AI-Gateway",
     "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
     "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 32,
+    "stars": 33,
     "language": "Rust",
-    "updated_at": "2026-05-15T09:52:36Z"
+    "updated_at": "2026-05-15T16:18:35Z"
+  },
+  {
+    "name": "HermesPet",
+    "full_name": "basionwang-bot/HermesPet",
+    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
+    "url": "https://github.com/basionwang-bot/HermesPet",
+    "stars": 26,
+    "language": "Swift",
+    "updated_at": "2026-05-15T16:32:58Z"
   },
   {
     "name": "studiomi300",
@@ -70,23 +88,5 @@
     "stars": 23,
     "language": "Python",
     "updated_at": "2026-05-15T11:52:44Z"
-  },
-  {
-    "name": "neuralinverse",
-    "full_name": "NeuralInverse/neuralinverse",
-    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
-    "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 23,
-    "language": "TypeScript",
-    "updated_at": "2026-05-15T13:42:56Z"
-  },
-  {
-    "name": "jupyter-studio",
-    "full_name": "deepelementlab/jupyter-studio",
-    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
-    "url": "https://github.com/deepelementlab/jupyter-studio",
-    "stars": 23,
-    "language": "TypeScript",
-    "updated_at": "2026-05-15T11:10:53Z"
   }
 ]
