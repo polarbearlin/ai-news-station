@@ -4,27 +4,27 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 177,
+    "stars": 183,
     "language": "Rust",
-    "updated_at": "2026-05-16T13:22:00Z"
+    "updated_at": "2026-05-16T16:41:25Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 116,
+    "stars": 117,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T12:33:56Z"
+    "updated_at": "2026-05-16T16:39:29Z"
   },
   {
     "name": "aipointer",
     "full_name": "talentsache/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/talentsache/aipointer",
-    "stars": 75,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T13:16:10Z"
+    "updated_at": "2026-05-16T16:47:19Z"
   },
   {
     "name": "neuralinverse",
@@ -42,7 +42,7 @@
     "url": "https://github.com/basionwang-bot/HermesPet",
     "stars": 45,
     "language": "Swift",
-    "updated_at": "2026-05-16T12:29:26Z"
+    "updated_at": "2026-05-16T16:10:59Z"
   },
   {
     "name": "Adrian",
@@ -58,18 +58,18 @@
     "full_name": "deepelementlab/jupyter-studio",
     "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
     "url": "https://github.com/deepelementlab/jupyter-studio",
-    "stars": 38,
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T08:03:39Z"
+    "updated_at": "2026-05-16T14:35:03Z"
   },
   {
     "name": "studiomi300",
     "full_name": "bladedevoff/studiomi300",
     "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
     "url": "https://github.com/bladedevoff/studiomi300",
-    "stars": 26,
+    "stars": 27,
     "language": "Python",
-    "updated_at": "2026-05-16T12:38:38Z"
+    "updated_at": "2026-05-16T14:07:27Z"
   },
   {
     "name": "aria-termux",

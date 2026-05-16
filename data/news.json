@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-05-16 13:22:56",
+  "generated_at": "2026-05-16 16:58:37",
   "news": [
     {
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
       "source": "Hacker News",
-      "time": "2026-05-16 07:01",
-      "score": 205,
-      "comments": 172
+      "time": "2026-05-16 09:14",
+      "score": 202,
+      "comments": 114
+    },
+    {
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "source": "Hacker News",
+      "time": "2026-05-16 12:49",
+      "score": 48,
+      "comments": 22
+    },
+    {
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "source": "Hacker News",
+      "time": "2026-05-16 14:58",
+      "score": 71,
+      "comments": 22
     }
   ]
 }
