@@ -4,54 +4,54 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 164,
+    "stars": 177,
     "language": "Rust",
-    "updated_at": "2026-05-16T08:57:05Z"
+    "updated_at": "2026-05-16T13:22:00Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 115,
+    "stars": 116,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T08:48:53Z"
-  },
-  {
-    "name": "neuralinverse",
-    "full_name": "NeuralInverse/neuralinverse",
-    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
-    "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 74,
-    "language": "TypeScript",
-    "updated_at": "2026-05-16T09:21:27Z"
+    "updated_at": "2026-05-16T12:33:56Z"
   },
   {
     "name": "aipointer",
     "full_name": "talentsache/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/talentsache/aipointer",
-    "stars": 70,
+    "stars": 75,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T09:24:54Z"
+    "updated_at": "2026-05-16T13:16:10Z"
+  },
+  {
+    "name": "neuralinverse",
+    "full_name": "NeuralInverse/neuralinverse",
+    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
+    "url": "https://github.com/NeuralInverse/neuralinverse",
+    "stars": 75,
+    "language": "TypeScript",
+    "updated_at": "2026-05-16T11:23:12Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 44,
+    "stars": 45,
     "language": "Swift",
-    "updated_at": "2026-05-16T09:06:22Z"
+    "updated_at": "2026-05-16T12:29:26Z"
   },
   {
     "name": "Adrian",
     "full_name": "secureagentics/Adrian",
     "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
     "url": "https://github.com/secureagentics/Adrian",
-    "stars": 44,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-05-16T09:18:37Z"
+    "updated_at": "2026-05-16T11:10:58Z"
   },
   {
     "name": "jupyter-studio",
@@ -67,9 +67,9 @@
     "full_name": "bladedevoff/studiomi300",
     "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
     "url": "https://github.com/bladedevoff/studiomi300",
-    "stars": 24,
+    "stars": 26,
     "language": "Python",
-    "updated_at": "2026-05-15T19:23:32Z"
+    "updated_at": "2026-05-16T12:38:38Z"
   },
   {
     "name": "aria-termux",
