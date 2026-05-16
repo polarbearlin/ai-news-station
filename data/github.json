@@ -4,9 +4,9 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 144,
+    "stars": 154,
     "language": "Rust",
-    "updated_at": "2026-05-16T02:37:36Z"
+    "updated_at": "2026-05-16T06:13:13Z"
   },
   {
     "name": "SkillPrompts",
@@ -22,9 +22,9 @@
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 74,
+    "stars": 73,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T00:52:37Z"
+    "updated_at": "2026-05-16T04:24:24Z"
   },
   {
     "name": "aipointer",
@@ -49,9 +49,9 @@
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 33,
+    "stars": 41,
     "language": "Swift",
-    "updated_at": "2026-05-16T02:02:28Z"
+    "updated_at": "2026-05-16T06:12:47Z"
   },
   {
     "name": "studiomi300",
