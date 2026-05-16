@@ -4,45 +4,27 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 129,
+    "stars": 144,
     "language": "Rust",
-    "updated_at": "2026-05-15T20:48:13Z"
-  },
-  {
-    "name": "mercury-agent-skills",
-    "full_name": "cosmicstack-labs/mercury-agent-skills",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 117,
-    "language": "JavaScript",
-    "updated_at": "2026-05-15T18:45:11Z"
+    "updated_at": "2026-05-16T02:37:36Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 112,
+    "stars": 113,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T18:22:16Z"
-  },
-  {
-    "name": "outputguard",
-    "full_name": "ndcorder/outputguard",
-    "description": "Validate, repair, and retry LLM structured outputs. 13 repair strategies for common JSON malformations, JSON Schema validation, and retry-with-feedback prompts.",
-    "url": "https://github.com/ndcorder/outputguard",
-    "stars": 81,
-    "language": "Python",
-    "updated_at": "2026-05-15T01:11:37Z"
+    "updated_at": "2026-05-15T21:04:24Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 73,
+    "stars": 74,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T20:54:04Z"
+    "updated_at": "2026-05-16T00:52:37Z"
   },
   {
     "name": "aipointer",
@@ -63,30 +45,48 @@
     "updated_at": "2026-05-15T14:44:23Z"
   },
   {
-    "name": "aithy",
-    "full_name": "dosco/aithy",
-    "description": "A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.",
-    "url": "https://github.com/dosco/aithy",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-05-15T08:01:02Z"
-  },
-  {
-    "name": "AIephant-AI-Gateway",
-    "full_name": "AlephantAI/AIephant-AI-Gateway",
-    "description": "Alephant AI Gateway is an open source, OpenAI-compatible AI Gateway for 50+ providers, 320+ models, and custom model backends.",
-    "url": "https://github.com/AlephantAI/AIephant-AI-Gateway",
-    "stars": 33,
-    "language": "Rust",
-    "updated_at": "2026-05-15T16:18:35Z"
-  },
-  {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 29,
+    "stars": 33,
     "language": "Swift",
-    "updated_at": "2026-05-15T19:28:41Z"
+    "updated_at": "2026-05-16T02:02:28Z"
+  },
+  {
+    "name": "studiomi300",
+    "full_name": "bladedevoff/studiomi300",
+    "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
+    "url": "https://github.com/bladedevoff/studiomi300",
+    "stars": 24,
+    "language": "Python",
+    "updated_at": "2026-05-15T19:23:32Z"
+  },
+  {
+    "name": "jupyter-studio",
+    "full_name": "deepelementlab/jupyter-studio",
+    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
+    "url": "https://github.com/deepelementlab/jupyter-studio",
+    "stars": 23,
+    "language": "TypeScript",
+    "updated_at": "2026-05-15T11:10:53Z"
+  },
+  {
+    "name": "aria-termux",
+    "full_name": "Alex72-py/aria-termux",
+    "description": "Terminal-native AI assistant built specifically for Termux and Android development.",
+    "url": "https://github.com/Alex72-py/aria-termux",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-05-15T20:49:50Z"
+  },
+  {
+    "name": "LumiMuse",
+    "full_name": "in30mn1a/LumiMuse",
+    "description": "A quiet AI companion. Create characters, build memories, feel something real.",
+    "url": "https://github.com/in30mn1a/LumiMuse",
+    "stars": 19,
+    "language": "TypeScript",
+    "updated_at": "2026-05-15T18:19:37Z"
   }
 ]
