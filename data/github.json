@@ -4,54 +4,63 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 154,
+    "stars": 164,
     "language": "Rust",
-    "updated_at": "2026-05-16T06:13:13Z"
+    "updated_at": "2026-05-16T08:57:05Z"
   },
   {
     "name": "SkillPrompts",
     "full_name": "Ademking/SkillPrompts",
     "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
     "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 113,
+    "stars": 115,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T21:04:24Z"
+    "updated_at": "2026-05-16T08:48:53Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 73,
+    "stars": 74,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T04:24:24Z"
+    "updated_at": "2026-05-16T09:21:27Z"
   },
   {
     "name": "aipointer",
     "full_name": "talentsache/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/talentsache/aipointer",
-    "stars": 66,
+    "stars": 70,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T08:14:55Z"
-  },
-  {
-    "name": "Adrian",
-    "full_name": "secureagentics/Adrian",
-    "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
-    "url": "https://github.com/secureagentics/Adrian",
-    "stars": 43,
-    "language": "Python",
-    "updated_at": "2026-05-15T14:44:23Z"
+    "updated_at": "2026-05-16T09:24:54Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 41,
+    "stars": 44,
     "language": "Swift",
-    "updated_at": "2026-05-16T06:12:47Z"
+    "updated_at": "2026-05-16T09:06:22Z"
+  },
+  {
+    "name": "Adrian",
+    "full_name": "secureagentics/Adrian",
+    "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
+    "url": "https://github.com/secureagentics/Adrian",
+    "stars": 44,
+    "language": "Python",
+    "updated_at": "2026-05-16T09:18:37Z"
+  },
+  {
+    "name": "jupyter-studio",
+    "full_name": "deepelementlab/jupyter-studio",
+    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
+    "url": "https://github.com/deepelementlab/jupyter-studio",
+    "stars": 38,
+    "language": "TypeScript",
+    "updated_at": "2026-05-16T08:03:39Z"
   },
   {
     "name": "studiomi300",
@@ -61,15 +70,6 @@
     "stars": 24,
     "language": "Python",
     "updated_at": "2026-05-15T19:23:32Z"
-  },
-  {
-    "name": "jupyter-studio",
-    "full_name": "deepelementlab/jupyter-studio",
-    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
-    "url": "https://github.com/deepelementlab/jupyter-studio",
-    "stars": 23,
-    "language": "TypeScript",
-    "updated_at": "2026-05-15T11:10:53Z"
   },
   {
     "name": "aria-termux",
