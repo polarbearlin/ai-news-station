@@ -4,9 +4,9 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 197,
+    "stars": 199,
     "language": "Rust",
-    "updated_at": "2026-05-17T02:48:02Z"
+    "updated_at": "2026-05-17T05:57:07Z"
   },
   {
     "name": "neuralinverse",
@@ -31,9 +31,18 @@
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 53,
+    "stars": 60,
     "language": "Swift",
-    "updated_at": "2026-05-17T03:03:59Z"
+    "updated_at": "2026-05-17T06:28:23Z"
+  },
+  {
+    "name": "jupyter-studio",
+    "full_name": "deepelementlab/jupyter-studio",
+    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
+    "url": "https://github.com/deepelementlab/jupyter-studio",
+    "stars": 49,
+    "language": "TypeScript",
+    "updated_at": "2026-05-17T05:35:01Z"
   },
   {
     "name": "Adrian",
@@ -43,15 +52,6 @@
     "stars": 45,
     "language": "Python",
     "updated_at": "2026-05-16T11:10:58Z"
-  },
-  {
-    "name": "jupyter-studio",
-    "full_name": "deepelementlab/jupyter-studio",
-    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
-    "url": "https://github.com/deepelementlab/jupyter-studio",
-    "stars": 39,
-    "language": "TypeScript",
-    "updated_at": "2026-05-16T14:35:03Z"
   },
   {
     "name": "aria-termux",
