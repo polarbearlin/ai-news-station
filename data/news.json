@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-05-17 09:47:12",
+  "generated_at": "2026-05-17 13:21:08",
   "news": [
     {
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "source": "Hacker News",
-      "time": "2026-05-16 20:14",
-      "score": 188,
-      "comments": 211
+      "time": "2026-05-17 12:13",
+      "score": 49,
+      "comments": 31
     },
     {
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
       "source": "Hacker News",
-      "time": "2026-05-16 09:14",
-      "score": 540,
-      "comments": 316
+      "time": "2026-05-17 11:49",
+      "score": 38,
+      "comments": 26
+    },
+    {
+      "title": "Prolog Basics Explained with Pokémon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "source": "Hacker News",
+      "time": "2026-05-15 11:02",
+      "score": 56,
+      "comments": 7
     }
   ]
 }
