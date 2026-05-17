@@ -4,27 +4,18 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 191,
+    "stars": 197,
     "language": "Rust",
-    "updated_at": "2026-05-16T20:39:05Z"
-  },
-  {
-    "name": "SkillPrompts",
-    "full_name": "Ademking/SkillPrompts",
-    "description": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
-    "url": "https://github.com/Ademking/SkillPrompts",
-    "stars": 117,
-    "language": "TypeScript",
-    "updated_at": "2026-05-16T16:39:29Z"
+    "updated_at": "2026-05-17T02:48:02Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 78,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T19:37:18Z"
+    "updated_at": "2026-05-16T21:44:32Z"
   },
   {
     "name": "aipointer",
@@ -40,9 +31,9 @@
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 46,
+    "stars": 53,
     "language": "Swift",
-    "updated_at": "2026-05-16T17:08:27Z"
+    "updated_at": "2026-05-17T03:03:59Z"
   },
   {
     "name": "Adrian",
@@ -63,15 +54,6 @@
     "updated_at": "2026-05-16T14:35:03Z"
   },
   {
-    "name": "studiomi300",
-    "full_name": "bladedevoff/studiomi300",
-    "description": "Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.",
-    "url": "https://github.com/bladedevoff/studiomi300",
-    "stars": 28,
-    "language": "Python",
-    "updated_at": "2026-05-16T18:19:37Z"
-  },
-  {
     "name": "aria-termux",
     "full_name": "Alex72-py/aria-termux",
     "description": "Terminal-native AI assistant built specifically for Termux and Android development.",
@@ -88,5 +70,23 @@
     "stars": 19,
     "language": null,
     "updated_at": "2026-05-16T19:59:48Z"
+  },
+  {
+    "name": "LumiMuse",
+    "full_name": "in30mn1a/LumiMuse",
+    "description": "A quiet AI companion. Create characters, build memories, feel something real.",
+    "url": "https://github.com/in30mn1a/LumiMuse",
+    "stars": 19,
+    "language": "TypeScript",
+    "updated_at": "2026-05-15T18:19:37Z"
+  },
+  {
+    "name": "block-clankers",
+    "full_name": "CyrisXD/block-clankers",
+    "description": "Auto-block known spam bot accounts from your personal GitHub account and/or every org you admin. Pulls a community-maintained list and syncs your block lists on a schedule.",
+    "url": "https://github.com/CyrisXD/block-clankers",
+    "stars": 17,
+    "language": "Shell",
+    "updated_at": "2026-05-16T06:46:37Z"
   }
 ]
