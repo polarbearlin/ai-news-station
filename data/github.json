@@ -4,9 +4,9 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 208,
+    "stars": 210,
     "language": "Rust",
-    "updated_at": "2026-05-17T13:08:54Z"
+    "updated_at": "2026-05-17T15:27:44Z"
   },
   {
     "name": "aipointer",
@@ -22,18 +22,18 @@
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 83,
+    "stars": 92,
     "language": "Swift",
-    "updated_at": "2026-05-17T13:10:08Z"
+    "updated_at": "2026-05-17T16:33:12Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 81,
+    "stars": 83,
     "language": "TypeScript",
-    "updated_at": "2026-05-17T12:42:06Z"
+    "updated_at": "2026-05-17T16:36:06Z"
   },
   {
     "name": "cronalytics",
@@ -67,9 +67,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 29,
+    "stars": 40,
     "language": "Python",
-    "updated_at": "2026-05-17T13:18:23Z"
+    "updated_at": "2026-05-17T16:51:39Z"
+  },
+  {
+    "name": "ai-image-prompt-cookbook",
+    "full_name": "AITOOLS101/ai-image-prompt-cookbook",
+    "description": "中文 AI 图片提示词库，覆盖女装、童装、电商主图、产品摄影、小红书封面和广告海报。",
+    "url": "https://github.com/AITOOLS101/ai-image-prompt-cookbook",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-05-17T16:50:17Z"
   },
   {
     "name": "aria-termux",
@@ -79,14 +88,5 @@
     "stars": 20,
     "language": "Python",
     "updated_at": "2026-05-17T08:03:19Z"
-  },
-  {
-    "name": "ai-image-prompt-cookbook",
-    "full_name": "AITOOLS101/ai-image-prompt-cookbook",
-    "description": "中文 AI 图片提示词库，覆盖女装、童装、电商主图、产品摄影、小红书封面和广告海报。",
-    "url": "https://github.com/AITOOLS101/ai-image-prompt-cookbook",
-    "stars": 20,
-    "language": null,
-    "updated_at": "2026-05-17T12:37:44Z"
   }
 ]
