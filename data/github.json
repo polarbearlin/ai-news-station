@@ -4,36 +4,36 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 199,
+    "stars": 201,
     "language": "Rust",
-    "updated_at": "2026-05-17T05:57:07Z"
+    "updated_at": "2026-05-17T08:18:34Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 79,
+    "stars": 80,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T21:44:32Z"
+    "updated_at": "2026-05-17T07:35:34Z"
   },
   {
     "name": "aipointer",
-    "full_name": "talentsache/aipointer",
+    "full_name": "gonemedia/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
-    "url": "https://github.com/talentsache/aipointer",
+    "url": "https://github.com/gonemedia/aipointer",
     "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-05-16T16:47:19Z"
+    "updated_at": "2026-05-17T09:37:51Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 60,
+    "stars": 70,
     "language": "Swift",
-    "updated_at": "2026-05-17T06:28:23Z"
+    "updated_at": "2026-05-17T09:45:11Z"
   },
   {
     "name": "jupyter-studio",
@@ -49,9 +49,9 @@
     "full_name": "secureagentics/Adrian",
     "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
     "url": "https://github.com/secureagentics/Adrian",
-    "stars": 45,
+    "stars": 46,
     "language": "Python",
-    "updated_at": "2026-05-16T11:10:58Z"
+    "updated_at": "2026-05-17T07:50:52Z"
   },
   {
     "name": "aria-termux",
@@ -60,7 +60,7 @@
     "url": "https://github.com/Alex72-py/aria-termux",
     "stars": 20,
     "language": "Python",
-    "updated_at": "2026-05-15T20:49:50Z"
+    "updated_at": "2026-05-17T08:03:19Z"
   },
   {
     "name": "ai-image-prompt-cookbook",
@@ -78,7 +78,7 @@
     "url": "https://github.com/in30mn1a/LumiMuse",
     "stars": 19,
     "language": "TypeScript",
-    "updated_at": "2026-05-15T18:19:37Z"
+    "updated_at": "2026-05-17T09:24:05Z"
   },
   {
     "name": "block-clankers",

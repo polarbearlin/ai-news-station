@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-17 06:44:12",
+  "generated_at": "2026-05-17 09:47:12",
   "news": [
     {
       "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
       "source": "Hacker News",
       "time": "2026-05-16 20:14",
-      "score": 143,
-      "comments": 138
+      "score": 188,
+      "comments": 211
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "source": "Hacker News",
+      "time": "2026-05-16 09:14",
+      "score": 540,
+      "comments": 316
     }
   ]
 }
