@@ -4,45 +4,54 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 222,
+    "stars": 225,
     "language": "Rust",
-    "updated_at": "2026-05-18T02:52:59Z"
-  },
-  {
-    "name": "aipointer",
-    "full_name": "gonemedia/aipointer",
-    "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
-    "url": "https://github.com/gonemedia/aipointer",
-    "stars": 109,
-    "language": "TypeScript",
-    "updated_at": "2026-05-18T03:19:48Z"
-  },
-  {
-    "name": "HermesPet",
-    "full_name": "basionwang-bot/HermesPet",
-    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
-    "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 101,
-    "language": "Swift",
-    "updated_at": "2026-05-18T02:43:05Z"
-  },
-  {
-    "name": "neuralinverse",
-    "full_name": "NeuralInverse/neuralinverse",
-    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
-    "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 85,
-    "language": "TypeScript",
-    "updated_at": "2026-05-18T03:25:49Z"
+    "updated_at": "2026-05-18T07:03:06Z"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 84,
+    "stars": 114,
     "language": "Python",
-    "updated_at": "2026-05-18T03:39:58Z"
+    "updated_at": "2026-05-18T07:50:29Z"
+  },
+  {
+    "name": "aipointer",
+    "full_name": "gonemedia/aipointer",
+    "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
+    "url": "https://github.com/gonemedia/aipointer",
+    "stars": 110,
+    "language": "TypeScript",
+    "updated_at": "2026-05-18T03:56:52Z"
+  },
+  {
+    "name": "HermesPet",
+    "full_name": "basionwang-bot/HermesPet",
+    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
+    "url": "https://github.com/basionwang-bot/HermesPet",
+    "stars": 109,
+    "language": "Swift",
+    "updated_at": "2026-05-18T06:29:23Z"
+  },
+  {
+    "name": "slopless",
+    "full_name": "agent-quality-controls/slopless",
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
+    "url": "https://github.com/agent-quality-controls/slopless",
+    "stars": 101,
+    "language": "HTML",
+    "updated_at": "2026-05-18T07:40:49Z"
+  },
+  {
+    "name": "neuralinverse",
+    "full_name": "NeuralInverse/neuralinverse",
+    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
+    "url": "https://github.com/NeuralInverse/neuralinverse",
+    "stars": 87,
+    "language": "TypeScript",
+    "updated_at": "2026-05-18T08:01:36Z"
   },
   {
     "name": "cronalytics",
@@ -54,22 +63,13 @@
     "updated_at": "2026-05-17T13:13:39Z"
   },
   {
-    "name": "slopless",
-    "full_name": "agent-quality-controls/slopless",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
-    "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 53,
-    "language": "HTML",
-    "updated_at": "2026-05-18T03:40:07Z"
-  },
-  {
     "name": "jupyter-studio",
     "full_name": "deepelementlab/jupyter-studio",
     "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
     "url": "https://github.com/deepelementlab/jupyter-studio",
     "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-05-17T05:35:01Z"
+    "updated_at": "2026-05-18T03:47:09Z"
   },
   {
     "name": "forge",
@@ -85,8 +85,8 @@
     "full_name": "AITOOLS101/ai-image-prompt-cookbook",
     "description": "中文 AI 图片提示词库，覆盖女装、童装、电商主图、产品摄影、小红书封面和广告海报。",
     "url": "https://github.com/AITOOLS101/ai-image-prompt-cookbook",
-    "stars": 22,
+    "stars": 23,
     "language": null,
-    "updated_at": "2026-05-18T01:14:11Z"
+    "updated_at": "2026-05-18T07:35:23Z"
   }
 ]
