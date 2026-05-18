@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-05-18 08:04:07",
-  "news": []
+  "generated_at": "2026-05-18 15:33:00",
+  "news": [
+    {
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "source": "Hacker News",
+      "time": "2026-05-18 13:01",
+      "score": 93,
+      "comments": 28
+    },
+    {
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "source": "Hacker News",
+      "time": "2026-05-18 12:20",
+      "score": 115,
+      "comments": 48
+    },
+    {
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "source": "Hacker News",
+      "time": "2026-05-18 12:49",
+      "score": 93,
+      "comments": 44
+    }
+  ]
 }
