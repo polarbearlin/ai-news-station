@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-05-18 15:33:00",
+  "generated_at": "2026-05-18 18:00:33",
   "news": [
     {
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "title": "Anthropic Acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "source": "Hacker News",
-      "time": "2026-05-18 13:01",
-      "score": 93,
-      "comments": 28
+      "time": "2026-05-18 17:01",
+      "score": 88,
+      "comments": 49
     },
     {
-      "title": "Linux security mailing list 'almost unmanageable'",
-      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
       "source": "Hacker News",
-      "time": "2026-05-18 12:20",
-      "score": 115,
-      "comments": 48
+      "time": "2026-05-18 15:24",
+      "score": 228,
+      "comments": 98
     },
     {
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "source": "Hacker News",
-      "time": "2026-05-18 12:49",
-      "score": 93,
-      "comments": 44
+      "time": "2026-05-18 17:38",
+      "score": 80,
+      "comments": 18
+    },
+    {
+      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "source": "Hacker News",
+      "time": "2026-05-18 17:25",
+      "score": 40,
+      "comments": 30
     }
   ]
 }

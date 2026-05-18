@@ -13,18 +13,27 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 160,
+    "stars": 162,
     "language": "Python",
-    "updated_at": "2026-05-18T15:31:33Z"
+    "updated_at": "2026-05-18T17:19:13Z"
+  },
+  {
+    "name": "slopless",
+    "full_name": "agent-quality-controls/slopless",
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
+    "url": "https://github.com/agent-quality-controls/slopless",
+    "stars": 122,
+    "language": "TypeScript",
+    "updated_at": "2026-05-18T17:30:27Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 118,
+    "stars": 120,
     "language": "Swift",
-    "updated_at": "2026-05-18T15:17:37Z"
+    "updated_at": "2026-05-18T17:13:56Z"
   },
   {
     "name": "aipointer",
@@ -36,22 +45,13 @@
     "updated_at": "2026-05-18T15:21:58Z"
   },
   {
-    "name": "slopless",
-    "full_name": "agent-quality-controls/slopless",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
-    "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 116,
-    "language": "TypeScript",
-    "updated_at": "2026-05-18T15:14:09Z"
-  },
-  {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 88,
+    "stars": 89,
     "language": "TypeScript",
-    "updated_at": "2026-05-18T15:13:29Z"
+    "updated_at": "2026-05-18T15:53:08Z"
   },
   {
     "name": "cronalytics",
@@ -76,17 +76,17 @@
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 29,
+    "stars": 30,
     "language": "Lua",
-    "updated_at": "2026-05-18T15:06:49Z"
+    "updated_at": "2026-05-18T16:03:45Z"
   },
   {
     "name": "forge",
     "full_name": "ForgeAILab/forge",
     "description": "AI coding agent workflow engine for structured task lifecycles.",
     "url": "https://github.com/ForgeAILab/forge",
-    "stars": 26,
+    "stars": 27,
     "language": "Rust",
-    "updated_at": "2026-05-18T03:35:00Z"
+    "updated_at": "2026-05-18T16:01:44Z"
   }
 ]
