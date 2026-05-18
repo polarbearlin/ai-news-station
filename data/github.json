@@ -4,36 +4,45 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 213,
+    "stars": 222,
     "language": "Rust",
-    "updated_at": "2026-05-17T19:58:44Z"
+    "updated_at": "2026-05-18T02:52:59Z"
   },
   {
     "name": "aipointer",
     "full_name": "gonemedia/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/gonemedia/aipointer",
-    "stars": 100,
+    "stars": 109,
     "language": "TypeScript",
-    "updated_at": "2026-05-17T18:47:49Z"
+    "updated_at": "2026-05-18T03:19:48Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 92,
+    "stars": 101,
     "language": "Swift",
-    "updated_at": "2026-05-17T17:18:25Z"
+    "updated_at": "2026-05-18T02:43:05Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 83,
+    "stars": 85,
     "language": "TypeScript",
-    "updated_at": "2026-05-17T16:36:06Z"
+    "updated_at": "2026-05-18T03:25:49Z"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 84,
+    "language": "Python",
+    "updated_at": "2026-05-18T03:39:58Z"
   },
   {
     "name": "cronalytics",
@@ -45,6 +54,15 @@
     "updated_at": "2026-05-17T13:13:39Z"
   },
   {
+    "name": "slopless",
+    "full_name": "agent-quality-controls/slopless",
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
+    "url": "https://github.com/agent-quality-controls/slopless",
+    "stars": 53,
+    "language": "HTML",
+    "updated_at": "2026-05-18T03:40:07Z"
+  },
+  {
     "name": "jupyter-studio",
     "full_name": "deepelementlab/jupyter-studio",
     "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
@@ -54,39 +72,21 @@
     "updated_at": "2026-05-17T05:35:01Z"
   },
   {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 47,
-    "language": "Python",
-    "updated_at": "2026-05-17T20:02:49Z"
-  },
-  {
-    "name": "Adrian",
-    "full_name": "secureagentics/Adrian",
-    "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
-    "url": "https://github.com/secureagentics/Adrian",
-    "stars": 46,
-    "language": "Python",
-    "updated_at": "2026-05-17T07:50:52Z"
-  },
-  {
-    "name": "aria-termux",
-    "full_name": "Alex72-py/aria-termux",
-    "description": "Terminal-native AI assistant built specifically for Termux and Android development.",
-    "url": "https://github.com/Alex72-py/aria-termux",
-    "stars": 21,
-    "language": "Python",
-    "updated_at": "2026-05-17T18:37:56Z"
+    "name": "forge",
+    "full_name": "ForgeAILab/forge",
+    "description": "AI coding agent workflow engine for structured task lifecycles.",
+    "url": "https://github.com/ForgeAILab/forge",
+    "stars": 26,
+    "language": "Rust",
+    "updated_at": "2026-05-18T03:35:00Z"
   },
   {
     "name": "ai-image-prompt-cookbook",
     "full_name": "AITOOLS101/ai-image-prompt-cookbook",
     "description": "中文 AI 图片提示词库，覆盖女装、童装、电商主图、产品摄影、小红书封面和广告海报。",
     "url": "https://github.com/AITOOLS101/ai-image-prompt-cookbook",
-    "stars": 21,
+    "stars": 22,
     "language": null,
-    "updated_at": "2026-05-17T16:50:17Z"
+    "updated_at": "2026-05-18T01:14:11Z"
   }
 ]
