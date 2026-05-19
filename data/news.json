@@ -1,45 +1,37 @@
 {
-  "generated_at": "2026-05-18 21:12:20",
+  "generated_at": "2026-05-19 03:35:58",
   "news": [
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "source": "Hacker News",
+      "time": "2026-05-19 01:30",
+      "score": 40,
+      "comments": 7
+    },
     {
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "source": "Hacker News",
       "time": "2026-05-18 17:01",
-      "score": 249,
-      "comments": 181
-    },
-    {
-      "title": "No More JetBrains Products for Me",
-      "url": "https://matthewkosarek.xyz/posts/jetbrains/",
-      "source": "Hacker News",
-      "time": "2026-05-18 20:30",
-      "score": 39,
-      "comments": 20
+      "score": 383,
+      "comments": 261
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
       "source": "Hacker News",
       "time": "2026-05-18 15:24",
-      "score": 334,
-      "comments": 165
+      "score": 433,
+      "comments": 195
     },
     {
       "title": "We let AIs run radio stations",
       "url": "https://andonlabs.com/blog/andon-fm",
       "source": "Hacker News",
       "time": "2026-05-18 18:12",
-      "score": 64,
-      "comments": 58
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "source": "Hacker News",
-      "time": "2026-05-18 17:38",
-      "score": 560,
-      "comments": 272
+      "score": 192,
+      "comments": 175
     }
   ]
 }

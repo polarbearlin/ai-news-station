@@ -4,72 +4,63 @@
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 227,
+    "stars": 230,
     "language": "Rust",
-    "updated_at": "2026-05-18T09:36:53Z"
+    "updated_at": "2026-05-19T02:19:03Z"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 162,
+    "stars": 176,
     "language": "Python",
-    "updated_at": "2026-05-18T17:19:13Z"
+    "updated_at": "2026-05-19T03:31:36Z"
   },
   {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 126,
+    "stars": 152,
     "language": "TypeScript",
-    "updated_at": "2026-05-18T19:47:26Z"
+    "updated_at": "2026-05-19T02:49:46Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 121,
+    "stars": 126,
     "language": "Swift",
-    "updated_at": "2026-05-18T18:19:30Z"
+    "updated_at": "2026-05-19T03:24:56Z"
   },
   {
     "name": "aipointer",
     "full_name": "gonemedia/aipointer",
     "description": "The AI cursor companion. Hold a key, ask a question, get an answer about whatever your cursor is pointing at. Vision LLM overlay for macOS, Windows, Linux. Multi-provider (OpenRouter, Anthropic, OpenAI, Gemini). Voice in/out. MIT licensed. No telemetry.",
     "url": "https://github.com/gonemedia/aipointer",
-    "stars": 120,
+    "stars": 122,
     "language": "TypeScript",
-    "updated_at": "2026-05-18T20:00:25Z"
+    "updated_at": "2026-05-19T03:30:40Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 90,
+    "stars": 91,
     "language": "TypeScript",
-    "updated_at": "2026-05-18T18:08:19Z"
-  },
-  {
-    "name": "cronalytics",
-    "full_name": "8bit64k/cronalytics",
-    "description": "Hermes Agent plugin for cron observability. Turn hidden automation into visible spend.",
-    "url": "https://github.com/8bit64k/cronalytics",
-    "stars": 69,
-    "language": "Python",
-    "updated_at": "2026-05-17T13:13:39Z"
+    "updated_at": "2026-05-19T01:31:17Z"
   },
   {
     "name": "claude-soul",
     "full_name": "DomDemetz/claude-soul",
     "description": "Self-improving learning engine for Claude Code. Not memory. Growth.",
     "url": "https://github.com/DomDemetz/claude-soul",
-    "stars": 53,
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-05-18T20:58:57Z"
+    "updated_at": "2026-05-19T02:38:58Z"
   },
   {
     "name": "jupyter-studio",
@@ -85,8 +76,17 @@
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 31,
+    "stars": 38,
     "language": "Lua",
-    "updated_at": "2026-05-18T18:14:22Z"
+    "updated_at": "2026-05-19T03:13:12Z"
+  },
+  {
+    "name": "forge",
+    "full_name": "ForgeAILab/forge",
+    "description": "AI coding agent workflow engine for structured task lifecycles.",
+    "url": "https://github.com/ForgeAILab/forge",
+    "stars": 27,
+    "language": "Rust",
+    "updated_at": "2026-05-18T16:01:44Z"
   }
 ]
