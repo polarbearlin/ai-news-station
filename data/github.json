@@ -1,5 +1,14 @@
 [
   {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 237,
+    "language": "Python",
+    "updated_at": "2026-05-19T17:01:52Z"
+  },
+  {
     "name": "pgGraph",
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
@@ -9,22 +18,13 @@
     "updated_at": "2026-05-19T13:24:41Z"
   },
   {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 233,
-    "language": "Python",
-    "updated_at": "2026-05-19T14:56:27Z"
-  },
-  {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 197,
+    "stars": 198,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T15:19:30Z"
+    "updated_at": "2026-05-19T15:25:28Z"
   },
   {
     "name": "HermesPet",
@@ -33,7 +33,7 @@
     "url": "https://github.com/basionwang-bot/HermesPet",
     "stars": 148,
     "language": "Swift",
-    "updated_at": "2026-05-19T14:51:13Z"
+    "updated_at": "2026-05-19T17:59:31Z"
   },
   {
     "name": "aipointer",
@@ -51,7 +51,7 @@
     "url": "https://github.com/NeuralInverse/neuralinverse",
     "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T15:06:32Z"
+    "updated_at": "2026-05-19T16:40:56Z"
   },
   {
     "name": "claude-soul",
@@ -76,9 +76,9 @@
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 44,
+    "stars": 45,
     "language": "Lua",
-    "updated_at": "2026-05-19T14:00:03Z"
+    "updated_at": "2026-05-19T17:58:06Z"
   },
   {
     "name": "forge",

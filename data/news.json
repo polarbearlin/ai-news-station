@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-05-19 15:22:29",
+  "generated_at": "2026-05-19 18:05:50",
   "news": [
     {
-      "title": "Andrej Karpathy joins Anthropic",
+      "title": "I’ve joined Anthropic",
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "source": "Hacker News",
       "time": "2026-05-19 15:07",
-      "score": 91,
-      "comments": 13
+      "score": 697,
+      "comments": 268
     },
     {
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "source": "Hacker News",
-      "time": "2026-05-19 05:04",
-      "score": 243,
-      "comments": 152
+      "time": "2026-05-19 15:27",
+      "score": 53,
+      "comments": 11
+    },
+    {
+      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "source": "Hacker News",
+      "time": "2026-05-17 15:52",
+      "score": 59,
+      "comments": 15
     }
   ]
 }
