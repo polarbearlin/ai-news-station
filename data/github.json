@@ -4,18 +4,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 237,
+    "stars": 239,
     "language": "Python",
-    "updated_at": "2026-05-19T17:01:52Z"
+    "updated_at": "2026-05-19T19:59:04Z"
   },
   {
     "name": "pgGraph",
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 236,
+    "stars": 239,
     "language": "Rust",
-    "updated_at": "2026-05-19T13:24:41Z"
+    "updated_at": "2026-05-19T20:55:49Z"
   },
   {
     "name": "slopless",
@@ -31,18 +31,18 @@
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 148,
+    "stars": 150,
     "language": "Swift",
-    "updated_at": "2026-05-19T17:59:31Z"
+    "updated_at": "2026-05-19T21:16:15Z"
   },
   {
     "name": "aipointer",
     "full_name": "gonemedia/aipointer",
     "description": "AI cursor assistant for macOS, Windows, Linux. Hold a hotkey, ask a question about what's on your screen, get an instant answer. Vision-capable AI overlay with OpenRouter, Anthropic, OpenAI, Gemini. Local-first, BYO key, no telemetry.",
     "url": "https://github.com/gonemedia/aipointer",
-    "stars": 123,
+    "stars": 125,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T14:04:29Z"
+    "updated_at": "2026-05-19T20:32:51Z"
   },
   {
     "name": "neuralinverse",
@@ -51,16 +51,25 @@
     "url": "https://github.com/NeuralInverse/neuralinverse",
     "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T16:40:56Z"
+    "updated_at": "2026-05-19T18:36:11Z"
   },
   {
     "name": "claude-soul",
     "full_name": "DomDemetz/claude-soul",
-    "description": "Self-improving learning engine for Claude Code. Not memory. Growth.",
+    "description": "Self-correcting learning engine for Claude Code — persistent identity, behavioral pattern tracking, and cross-session memory",
     "url": "https://github.com/DomDemetz/claude-soul",
-    "stars": 74,
+    "stars": 75,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T14:22:00Z"
+    "updated_at": "2026-05-19T20:56:44Z"
+  },
+  {
+    "name": "filemention.nvim",
+    "full_name": "not-manu/filemention.nvim",
+    "description": "@ file mentions in neovim. for prompts, notes, commits.",
+    "url": "https://github.com/not-manu/filemention.nvim",
+    "stars": 49,
+    "language": "Lua",
+    "updated_at": "2026-05-19T20:24:46Z"
   },
   {
     "name": "jupyter-studio",
@@ -70,15 +79,6 @@
     "stars": 49,
     "language": "TypeScript",
     "updated_at": "2026-05-18T03:47:09Z"
-  },
-  {
-    "name": "filemention.nvim",
-    "full_name": "not-manu/filemention.nvim",
-    "description": "@ file mentions in neovim. for prompts, notes, commits.",
-    "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 45,
-    "language": "Lua",
-    "updated_at": "2026-05-19T17:58:06Z"
   },
   {
     "name": "forge",
