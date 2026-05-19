@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-19 07:45:15",
+  "generated_at": "2026-05-19 11:17:45",
   "news": [
     {
       "title": "The last six months in LLMs in five minutes",
       "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
       "source": "Hacker News",
       "time": "2026-05-19 01:30",
-      "score": 309,
-      "comments": 191
+      "score": 481,
+      "comments": 352
     },
     {
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "source": "Hacker News",
       "time": "2026-05-18 17:01",
-      "score": 432,
-      "comments": 290
+      "score": 458,
+      "comments": 325
     }
   ]
 }
