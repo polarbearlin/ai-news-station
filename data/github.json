@@ -4,27 +4,27 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 246,
+    "stars": 255,
     "language": "Python",
-    "updated_at": "2026-05-20T03:01:52Z"
+    "updated_at": "2026-05-20T07:04:59Z"
   },
   {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 204,
+    "stars": 206,
     "language": "TypeScript",
-    "updated_at": "2026-05-20T02:54:02Z"
+    "updated_at": "2026-05-20T07:29:53Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 155,
+    "stars": 159,
     "language": "Swift",
-    "updated_at": "2026-05-20T02:53:10Z"
+    "updated_at": "2026-05-20T05:25:19Z"
   },
   {
     "name": "neuralinverse",
@@ -51,7 +51,7 @@
     "url": "https://github.com/not-manu/filemention.nvim",
     "stars": 51,
     "language": "Lua",
-    "updated_at": "2026-05-19T23:59:41Z"
+    "updated_at": "2026-05-20T06:13:51Z"
   },
   {
     "name": "forge",
@@ -76,17 +76,17 @@
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 30,
+    "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-05-20T02:18:34Z"
+    "updated_at": "2026-05-20T03:46:24Z"
   },
   {
     "name": "awesome-ai-web-scraping",
     "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
     "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
     "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
-    "stars": 27,
+    "stars": 29,
     "language": null,
-    "updated_at": "2026-05-20T00:40:22Z"
+    "updated_at": "2026-05-20T07:17:03Z"
   }
 ]
