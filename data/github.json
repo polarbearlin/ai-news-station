@@ -4,36 +4,36 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 268,
+    "stars": 272,
     "language": "Python",
-    "updated_at": "2026-05-20T14:05:47Z"
+    "updated_at": "2026-05-20T17:37:28Z"
   },
   {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 239,
+    "stars": 247,
     "language": "TypeScript",
-    "updated_at": "2026-05-20T15:18:05Z"
+    "updated_at": "2026-05-20T18:15:11Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 163,
+    "stars": 166,
     "language": "Swift",
-    "updated_at": "2026-05-20T15:02:08Z"
+    "updated_at": "2026-05-20T18:11:49Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 95,
+    "stars": 96,
     "language": "TypeScript",
-    "updated_at": "2026-05-20T10:36:37Z"
+    "updated_at": "2026-05-20T17:13:02Z"
   },
   {
     "name": "claude-soul",
@@ -49,9 +49,9 @@
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 53,
+    "stars": 55,
     "language": "Lua",
-    "updated_at": "2026-05-20T14:57:38Z"
+    "updated_at": "2026-05-20T16:44:28Z"
   },
   {
     "name": "forge",
