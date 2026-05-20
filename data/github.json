@@ -4,54 +4,36 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 239,
+    "stars": 246,
     "language": "Python",
-    "updated_at": "2026-05-19T19:59:04Z"
-  },
-  {
-    "name": "pgGraph",
-    "full_name": "Evokoa/pgGraph",
-    "description": "Open-source graph database superpowers for your existing Postgres data.",
-    "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 239,
-    "language": "Rust",
-    "updated_at": "2026-05-19T20:55:49Z"
+    "updated_at": "2026-05-20T03:01:52Z"
   },
   {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 198,
+    "stars": 204,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T15:25:28Z"
+    "updated_at": "2026-05-20T02:54:02Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 150,
+    "stars": 155,
     "language": "Swift",
-    "updated_at": "2026-05-19T21:16:15Z"
-  },
-  {
-    "name": "aipointer",
-    "full_name": "gonemedia/aipointer",
-    "description": "AI cursor assistant for macOS, Windows, Linux. Hold a hotkey, ask a question about what's on your screen, get an instant answer. Vision-capable AI overlay with OpenRouter, Anthropic, OpenAI, Gemini. Local-first, BYO key, no telemetry.",
-    "url": "https://github.com/gonemedia/aipointer",
-    "stars": 125,
-    "language": "TypeScript",
-    "updated_at": "2026-05-19T20:32:51Z"
+    "updated_at": "2026-05-20T02:53:10Z"
   },
   {
     "name": "neuralinverse",
     "full_name": "NeuralInverse/neuralinverse",
     "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
     "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 92,
+    "stars": 94,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T18:36:11Z"
+    "updated_at": "2026-05-20T03:27:31Z"
   },
   {
     "name": "claude-soul",
@@ -67,18 +49,9 @@
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 49,
+    "stars": 51,
     "language": "Lua",
-    "updated_at": "2026-05-19T20:24:46Z"
-  },
-  {
-    "name": "jupyter-studio",
-    "full_name": "deepelementlab/jupyter-studio",
-    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
-    "url": "https://github.com/deepelementlab/jupyter-studio",
-    "stars": 49,
-    "language": "TypeScript",
-    "updated_at": "2026-05-18T03:47:09Z"
+    "updated_at": "2026-05-19T23:59:41Z"
   },
   {
     "name": "forge",
@@ -88,5 +61,32 @@
     "stars": 39,
     "language": "Rust",
     "updated_at": "2026-05-19T15:21:39Z"
+  },
+  {
+    "name": "bragi",
+    "full_name": "wailers9/bragi",
+    "description": "一个面向架空世界故事创作者的 AI 架空世界与长篇故事引擎。它能从一句设定出发，自动生成层 层嵌套的历史、地理、角色关系与事件网络，并持续写出贴合世界观的剧情。支持 CLI 与可视化界面，可按时间和空间路径扩展世界，让故事像真实宇宙一样不断生长。项目用数字路径管理嵌套的时间、空间、   角色和事件节点，按需生成并补全世界资料，支持本地 Demo、OpenAI/DeepSeek JSON   Agent、CLI 和黑白 Web 可视化界面，用于创建可持续展开的故事世界与剧情会话。",
+    "url": "https://github.com/wailers9/bragi",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-05-19T08:32:21Z"
+  },
+  {
+    "name": "taoketong",
+    "full_name": "haoaaa-111/taoketong",
+    "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
+    "url": "https://github.com/haoaaa-111/taoketong",
+    "stars": 30,
+    "language": "TypeScript",
+    "updated_at": "2026-05-20T02:18:34Z"
+  },
+  {
+    "name": "awesome-ai-web-scraping",
+    "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
+    "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
+    "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
+    "stars": 27,
+    "language": null,
+    "updated_at": "2026-05-20T00:40:22Z"
   }
 ]
