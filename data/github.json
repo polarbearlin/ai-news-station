@@ -4,45 +4,45 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 276,
+    "stars": 285,
     "language": "Python",
-    "updated_at": "2026-05-20T21:17:16Z"
+    "updated_at": "2026-05-21T03:35:07Z"
   },
   {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 249,
+    "stars": 250,
     "language": "TypeScript",
-    "updated_at": "2026-05-20T20:54:38Z"
+    "updated_at": "2026-05-21T02:20:14Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 166,
+    "stars": 168,
     "language": "Swift",
-    "updated_at": "2026-05-20T18:11:49Z"
-  },
-  {
-    "name": "neuralinverse",
-    "full_name": "NeuralInverse/neuralinverse",
-    "description": "Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development",
-    "url": "https://github.com/NeuralInverse/neuralinverse",
-    "stars": 96,
-    "language": "TypeScript",
-    "updated_at": "2026-05-20T17:13:02Z"
+    "updated_at": "2026-05-21T02:28:22Z"
   },
   {
     "name": "claude-soul",
     "full_name": "DomDemetz/claude-soul",
     "description": "Self-correcting learning engine for Claude Code — persistent identity, behavioral pattern tracking, and cross-session memory",
     "url": "https://github.com/DomDemetz/claude-soul",
-    "stars": 75,
+    "stars": 76,
     "language": "TypeScript",
-    "updated_at": "2026-05-19T20:56:44Z"
+    "updated_at": "2026-05-21T00:19:18Z"
+  },
+  {
+    "name": "rmux",
+    "full_name": "Helvesec/rmux",
+    "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+    "url": "https://github.com/Helvesec/rmux",
+    "stars": 73,
+    "language": "Rust",
+    "updated_at": "2026-05-21T03:41:34Z"
   },
   {
     "name": "filemention.nvim",
@@ -51,16 +51,7 @@
     "url": "https://github.com/not-manu/filemention.nvim",
     "stars": 56,
     "language": "Lua",
-    "updated_at": "2026-05-20T18:54:19Z"
-  },
-  {
-    "name": "rmux",
-    "full_name": "Helvesec/rmux",
-    "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
-    "url": "https://github.com/Helvesec/rmux",
-    "stars": 42,
-    "language": "Rust",
-    "updated_at": "2026-05-20T21:29:26Z"
+    "updated_at": "2026-05-21T03:39:53Z"
   },
   {
     "name": "forge",
@@ -76,9 +67,9 @@
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 35,
+    "stars": 37,
     "language": "TypeScript",
-    "updated_at": "2026-05-20T21:30:20Z"
+    "updated_at": "2026-05-21T01:53:52Z"
   },
   {
     "name": "awesome-ai-web-scraping",
@@ -88,5 +79,14 @@
     "stars": 32,
     "language": null,
     "updated_at": "2026-05-20T20:12:00Z"
+  },
+  {
+    "name": "bragi",
+    "full_name": "wailers9/bragi",
+    "description": "一个面向架空世界故事创作者的 AI 架空世界与长篇故事引擎。它能从一句设定出发，自动生成层 层嵌套的历史、地理、角色关系与事件网络，并持续写出贴合世界观的剧情。支持 CLI 与可视化界面，可按时间和空间路径扩展世界，让故事像真实宇宙一样不断生长。项目用数字路径管理嵌套的时间、空间、   角色和事件节点，按需生成并补全世界资料，支持本地 Demo、OpenAI/DeepSeek JSON   Agent、CLI 和黑白 Web 可视化界面，用于创建可持续展开的故事世界与剧情会话。",
+    "url": "https://github.com/wailers9/bragi",
+    "stars": 32,
+    "language": "Python",
+    "updated_at": "2026-05-21T02:03:05Z"
   }
 ]

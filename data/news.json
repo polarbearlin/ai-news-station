@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-05-20 21:54:06",
+  "generated_at": "2026-05-21 03:43:15",
   "news": [
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "source": "Hacker News",
       "time": "2026-05-20 19:05",
-      "score": 448,
-      "comments": 292
-    },
-    {
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "source": "Hacker News",
-      "time": "2026-05-20 19:38",
-      "score": 65,
-      "comments": 42
-    },
-    {
-      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-      "source": "Hacker News",
-      "time": "2026-05-20 21:11",
-      "score": 17,
-      "comments": 1
-    },
-    {
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-      "source": "Hacker News",
-      "time": "2026-05-20 17:48",
-      "score": 61,
-      "comments": 39
+      "score": 824,
+      "comments": 618
     }
   ]
 }
