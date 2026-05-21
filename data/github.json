@@ -4,18 +4,18 @@
     "full_name": "Helvesec/rmux",
     "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
     "url": "https://github.com/Helvesec/rmux",
-    "stars": 417,
+    "stars": 478,
     "language": "Rust",
-    "updated_at": "2026-05-21T17:55:21Z"
+    "updated_at": "2026-05-21T21:26:04Z"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 378,
+    "stars": 389,
     "language": "Python",
-    "updated_at": "2026-05-21T17:51:16Z"
+    "updated_at": "2026-05-21T20:24:46Z"
   },
   {
     "name": "slopless",
@@ -42,7 +42,16 @@
     "url": "https://github.com/DomDemetz/claude-soul",
     "stars": 76,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T00:19:18Z"
+    "updated_at": "2026-05-21T18:20:39Z"
+  },
+  {
+    "name": "ai-fomo-skills",
+    "full_name": "vincelele/ai-fomo-skills",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
+    "url": "https://github.com/vincelele/ai-fomo-skills",
+    "stars": 74,
+    "language": "Python",
+    "updated_at": "2026-05-21T21:27:16Z"
   },
   {
     "name": "tartarusai-cli",
@@ -52,15 +61,6 @@
     "stars": 67,
     "language": null,
     "updated_at": "2026-05-21T14:47:11Z"
-  },
-  {
-    "name": "ai-fomo-skills",
-    "full_name": "vincelele/ai-fomo-skills",
-    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
-    "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 59,
-    "language": "Python",
-    "updated_at": "2026-05-21T17:50:26Z"
   },
   {
     "name": "filemention.nvim",
@@ -76,9 +76,9 @@
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 45,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T17:08:27Z"
+    "updated_at": "2026-05-21T21:26:28Z"
   },
   {
     "name": "forge",
