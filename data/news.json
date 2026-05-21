@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-05-21 15:27:20",
+  "generated_at": "2026-05-21 17:58:43",
   "news": [
     {
-      "title": "Google's Antigravity Bait and Switch",
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
       "source": "Hacker News",
-      "time": "2026-05-21 13:50",
-      "score": 154,
-      "comments": 84
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "source": "Hacker News",
-      "time": "2026-05-20 19:05",
-      "score": 1304,
-      "comments": 950
-    },
-    {
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "source": "Hacker News",
-      "time": "2026-05-21 13:38",
-      "score": 422,
-      "comments": 289
+      "time": "2026-05-21 16:23",
+      "score": 93,
+      "comments": 24
     }
   ]
 }

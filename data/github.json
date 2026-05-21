@@ -1,21 +1,21 @@
 [
   {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 355,
-    "language": "Python",
-    "updated_at": "2026-05-21T15:17:30Z"
-  },
-  {
     "name": "rmux",
     "full_name": "Helvesec/rmux",
     "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
     "url": "https://github.com/Helvesec/rmux",
-    "stars": 348,
+    "stars": 417,
     "language": "Rust",
-    "updated_at": "2026-05-21T15:26:43Z"
+    "updated_at": "2026-05-21T17:55:21Z"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 378,
+    "language": "Python",
+    "updated_at": "2026-05-21T17:51:16Z"
   },
   {
     "name": "slopless",
@@ -54,6 +54,15 @@
     "updated_at": "2026-05-21T14:47:11Z"
   },
   {
+    "name": "ai-fomo-skills",
+    "full_name": "vincelele/ai-fomo-skills",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
+    "url": "https://github.com/vincelele/ai-fomo-skills",
+    "stars": 59,
+    "language": "Python",
+    "updated_at": "2026-05-21T17:50:26Z"
+  },
+  {
     "name": "filemention.nvim",
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
@@ -63,22 +72,13 @@
     "updated_at": "2026-05-21T12:16:40Z"
   },
   {
-    "name": "ai-fomo-skills",
-    "full_name": "vincelele/ai-fomo-skills",
-    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
-    "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 47,
-    "language": "Python",
-    "updated_at": "2026-05-21T15:12:32Z"
-  },
-  {
     "name": "taoketong",
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 43,
+    "stars": 45,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T13:54:41Z"
+    "updated_at": "2026-05-21T17:08:27Z"
   },
   {
     "name": "forge",
@@ -87,6 +87,6 @@
     "url": "https://github.com/ForgeAILab/forge",
     "stars": 39,
     "language": "Rust",
-    "updated_at": "2026-05-19T15:21:39Z"
+    "updated_at": "2026-05-21T17:48:10Z"
   }
 ]
