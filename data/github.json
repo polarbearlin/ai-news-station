@@ -4,9 +4,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 324,
+    "stars": 355,
     "language": "Python",
-    "updated_at": "2026-05-21T11:19:26Z"
+    "updated_at": "2026-05-21T15:17:30Z"
+  },
+  {
+    "name": "rmux",
+    "full_name": "Helvesec/rmux",
+    "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+    "url": "https://github.com/Helvesec/rmux",
+    "stars": 348,
+    "language": "Rust",
+    "updated_at": "2026-05-21T15:26:43Z"
   },
   {
     "name": "slopless",
@@ -15,25 +24,16 @@
     "url": "https://github.com/seochecks-ai/slopless",
     "stars": 255,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T10:57:52Z"
-  },
-  {
-    "name": "rmux",
-    "full_name": "Helvesec/rmux",
-    "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
-    "url": "https://github.com/Helvesec/rmux",
-    "stars": 179,
-    "language": "Rust",
-    "updated_at": "2026-05-21T11:24:58Z"
+    "updated_at": "2026-05-21T13:18:13Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 175,
+    "stars": 180,
     "language": "Swift",
-    "updated_at": "2026-05-21T10:40:51Z"
+    "updated_at": "2026-05-21T14:48:40Z"
   },
   {
     "name": "claude-soul",
@@ -49,27 +49,36 @@
     "full_name": "Tartarus-AI/tartarusai-cli",
     "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
     "url": "https://github.com/Tartarus-AI/tartarusai-cli",
-    "stars": 68,
+    "stars": 67,
     "language": null,
-    "updated_at": "2026-05-21T10:21:14Z"
+    "updated_at": "2026-05-21T14:47:11Z"
   },
   {
     "name": "filemention.nvim",
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 57,
+    "stars": 58,
     "language": "Lua",
-    "updated_at": "2026-05-21T05:17:01Z"
+    "updated_at": "2026-05-21T12:16:40Z"
+  },
+  {
+    "name": "ai-fomo-skills",
+    "full_name": "vincelele/ai-fomo-skills",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
+    "url": "https://github.com/vincelele/ai-fomo-skills",
+    "stars": 47,
+    "language": "Python",
+    "updated_at": "2026-05-21T15:12:32Z"
   },
   {
     "name": "taoketong",
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 40,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T11:06:44Z"
+    "updated_at": "2026-05-21T13:54:41Z"
   },
   {
     "name": "forge",
@@ -79,14 +88,5 @@
     "stars": 39,
     "language": "Rust",
     "updated_at": "2026-05-19T15:21:39Z"
-  },
-  {
-    "name": "awesome-ai-web-scraping",
-    "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
-    "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
-    "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
-    "stars": 34,
-    "language": null,
-    "updated_at": "2026-05-21T09:41:13Z"
   }
 ]
