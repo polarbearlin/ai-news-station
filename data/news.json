@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-21 03:43:15",
+  "generated_at": "2026-05-21 07:53:45",
   "news": [
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "source": "Hacker News",
       "time": "2026-05-20 19:05",
-      "score": 824,
-      "comments": 618
+      "score": 1061,
+      "comments": 770
+    },
+    {
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "source": "Hacker News",
+      "time": "2026-05-20 20:55",
+      "score": 167,
+      "comments": 147
     }
   ]
 }

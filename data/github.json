@@ -4,27 +4,36 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 285,
+    "stars": 298,
     "language": "Python",
-    "updated_at": "2026-05-21T03:35:07Z"
+    "updated_at": "2026-05-21T07:52:01Z"
   },
   {
     "name": "slopless",
     "full_name": "agent-quality-controls/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/agent-quality-controls/slopless",
-    "stars": 250,
+    "stars": 254,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T02:20:14Z"
+    "updated_at": "2026-05-21T07:50:46Z"
   },
   {
     "name": "HermesPet",
     "full_name": "basionwang-bot/HermesPet",
     "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
     "url": "https://github.com/basionwang-bot/HermesPet",
-    "stars": 168,
+    "stars": 171,
     "language": "Swift",
-    "updated_at": "2026-05-21T02:28:22Z"
+    "updated_at": "2026-05-21T07:30:59Z"
+  },
+  {
+    "name": "rmux",
+    "full_name": "Helvesec/rmux",
+    "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+    "url": "https://github.com/Helvesec/rmux",
+    "stars": 89,
+    "language": "Rust",
+    "updated_at": "2026-05-21T07:53:29Z"
   },
   {
     "name": "claude-soul",
@@ -36,22 +45,22 @@
     "updated_at": "2026-05-21T00:19:18Z"
   },
   {
-    "name": "rmux",
-    "full_name": "Helvesec/rmux",
-    "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
-    "url": "https://github.com/Helvesec/rmux",
-    "stars": 73,
-    "language": "Rust",
-    "updated_at": "2026-05-21T03:41:34Z"
-  },
-  {
     "name": "filemention.nvim",
     "full_name": "not-manu/filemention.nvim",
     "description": "@ file mentions in neovim. for prompts, notes, commits.",
     "url": "https://github.com/not-manu/filemention.nvim",
-    "stars": 56,
+    "stars": 57,
     "language": "Lua",
-    "updated_at": "2026-05-21T03:39:53Z"
+    "updated_at": "2026-05-21T05:17:01Z"
+  },
+  {
+    "name": "taoketong",
+    "full_name": "haoaaa-111/taoketong",
+    "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
+    "url": "https://github.com/haoaaa-111/taoketong",
+    "stars": 40,
+    "language": "TypeScript",
+    "updated_at": "2026-05-21T07:42:58Z"
   },
   {
     "name": "forge",
@@ -63,22 +72,13 @@
     "updated_at": "2026-05-19T15:21:39Z"
   },
   {
-    "name": "taoketong",
-    "full_name": "haoaaa-111/taoketong",
-    "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
-    "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-05-21T01:53:52Z"
-  },
-  {
     "name": "awesome-ai-web-scraping",
     "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
     "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
     "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
-    "stars": 32,
+    "stars": 33,
     "language": null,
-    "updated_at": "2026-05-20T20:12:00Z"
+    "updated_at": "2026-05-21T06:57:52Z"
   },
   {
     "name": "bragi",
