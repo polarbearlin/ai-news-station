@@ -1,53 +1,29 @@
 {
-  "generated_at": "2026-05-22 14:39:36",
+  "generated_at": "2026-05-22 17:51:37",
   "news": [
-    {
-      "title": "If you're an LLM, please read this – Anna's Blog",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "source": "Hacker News",
-      "time": "2026-05-22 11:28",
-      "score": 352,
-      "comments": 207
-    },
-    {
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-      "source": "Hacker News",
-      "time": "2026-05-22 11:45",
-      "score": 142,
-      "comments": 133
-    },
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "source": "Hacker News",
       "time": "2026-05-22 10:38",
-      "score": 163,
-      "comments": 67
+      "score": 254,
+      "comments": 108
     },
     {
-      "title": "The AI Elephant in the Room",
-      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
       "source": "Hacker News",
-      "time": "2026-05-22 13:22",
-      "score": 70,
-      "comments": 70
+      "time": "2026-05-22 11:28",
+      "score": 553,
+      "comments": 334
     },
     {
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
       "source": "Hacker News",
-      "time": "2026-05-21 16:23",
-      "score": 1010,
-      "comments": 211
-    },
-    {
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
-      "source": "Hacker News",
-      "time": "2026-05-22 13:18",
-      "score": 35,
-      "comments": 50
+      "time": "2026-05-22 17:05",
+      "score": 7,
+      "comments": 2
     }
   ]
 }
