@@ -4,9 +4,9 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 401,
+    "stars": 416,
     "language": "Python",
-    "updated_at": "2026-05-22T03:30:45Z"
+    "updated_at": "2026-05-22T07:32:41Z"
   },
   {
     "name": "slopless",
@@ -22,9 +22,9 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 104,
+    "stars": 114,
     "language": "Python",
-    "updated_at": "2026-05-22T03:37:05Z"
+    "updated_at": "2026-05-22T07:26:48Z"
   },
   {
     "name": "claude-soul",
@@ -49,9 +49,9 @@
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 48,
+    "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-05-22T01:11:50Z"
+    "updated_at": "2026-05-22T07:24:51Z"
   },
   {
     "name": "forge",
@@ -72,6 +72,15 @@
     "updated_at": "2026-05-22T02:18:11Z"
   },
   {
+    "name": "ai-flow-architect",
+    "full_name": "wdnmd1265/ai-flow-architect",
+    "description": "Multi-model AI workflow engine with built-in quality arbitration. Plan → Approve → Execute → Audit pipeline. Dual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold. Zero-config token saving. ",
+    "url": "https://github.com/wdnmd1265/ai-flow-architect",
+    "stars": 35,
+    "language": "Python",
+    "updated_at": "2026-05-22T06:33:45Z"
+  },
+  {
     "name": "bragi",
     "full_name": "wailers9/bragi",
     "description": "一个面向架空世界故事创作者的 AI 架空世界与长篇故事引擎。它能从一句设定出发，自动生成层 层嵌套的历史、地理、角色关系与事件网络，并持续写出贴合世界观的剧情。支持 CLI 与可视化界面，可按时间和空间路径扩展世界，让故事像真实宇宙一样不断生长。项目用数字路径管理嵌套的时间、空间、   角色和事件节点，按需生成并补全世界资料，支持本地 Demo、OpenAI/DeepSeek JSON   Agent、CLI 和黑白 Web 可视化界面，用于创建可持续展开的故事世界与剧情会话。",
@@ -79,14 +88,5 @@
     "stars": 32,
     "language": "Python",
     "updated_at": "2026-05-21T02:03:05Z"
-  },
-  {
-    "name": "needle-rs",
-    "full_name": "Geekgineer/needle-rs",
-    "description": "258 KB WASM runtime for Needle a 26M-parameter tool-calling transformer. Runs in browser, Cloudflare Workers, and Node.js. No backend required.",
-    "url": "https://github.com/Geekgineer/needle-rs",
-    "stars": 28,
-    "language": "Rust",
-    "updated_at": "2026-05-21T17:11:51Z"
   }
 ]
