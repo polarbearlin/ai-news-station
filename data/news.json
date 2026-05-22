@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-05-21 21:27:21",
+  "generated_at": "2026-05-22 03:41:26",
   "news": [
     {
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
       "source": "Hacker News",
       "time": "2026-05-21 16:23",
-      "score": 317,
-      "comments": 87
+      "score": 645,
+      "comments": 150
+    },
+    {
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "source": "Hacker News",
+      "time": "2026-05-22 01:30",
+      "score": 73,
+      "comments": 19
     }
   ]
 }
