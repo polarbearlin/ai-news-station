@@ -1,29 +1,53 @@
 {
-  "generated_at": "2026-05-22 10:50:55",
+  "generated_at": "2026-05-22 14:39:36",
   "news": [
+    {
+      "title": "If you're an LLM, please read this – Anna's Blog",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "source": "Hacker News",
+      "time": "2026-05-22 11:28",
+      "score": 352,
+      "comments": 207
+    },
+    {
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "source": "Hacker News",
+      "time": "2026-05-22 11:45",
+      "score": 142,
+      "comments": 133
+    },
+    {
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "source": "Hacker News",
+      "time": "2026-05-22 10:38",
+      "score": 163,
+      "comments": 67
+    },
+    {
+      "title": "The AI Elephant in the Room",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "source": "Hacker News",
+      "time": "2026-05-22 13:22",
+      "score": 70,
+      "comments": 70
+    },
     {
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
       "source": "Hacker News",
       "time": "2026-05-21 16:23",
-      "score": 949,
-      "comments": 201
+      "score": 1010,
+      "comments": 211
     },
     {
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "url": "https://arxiv.org/abs/2605.19269",
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
       "source": "Hacker News",
-      "time": "2026-05-22 04:54",
-      "score": 74,
-      "comments": 7
-    },
-    {
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "source": "Hacker News",
-      "time": "2026-05-22 09:04",
-      "score": 33,
-      "comments": 7
+      "time": "2026-05-22 13:18",
+      "score": 35,
+      "comments": 50
     }
   ]
 }

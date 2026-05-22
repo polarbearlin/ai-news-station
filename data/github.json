@@ -4,18 +4,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 421,
+    "stars": 430,
     "language": "Python",
-    "updated_at": "2026-05-22T09:47:31Z"
+    "updated_at": "2026-05-22T13:41:08Z"
   },
   {
     "name": "slopless",
     "full_name": "seochecks-ai/slopless",
     "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
     "url": "https://github.com/seochecks-ai/slopless",
-    "stars": 349,
+    "stars": 348,
     "language": "TypeScript",
-    "updated_at": "2026-05-22T10:44:33Z"
+    "updated_at": "2026-05-22T11:48:40Z"
   },
   {
     "name": "ai-fomo-skills",
@@ -31,27 +31,36 @@
     "full_name": "DomDemetz/claude-soul",
     "description": "Self-correcting learning engine for Claude Code — persistent identity, behavioral pattern tracking, and cross-session memory",
     "url": "https://github.com/DomDemetz/claude-soul",
-    "stars": 76,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-05-21T18:20:39Z"
+    "updated_at": "2026-05-22T14:03:45Z"
   },
   {
     "name": "tartarusai-cli",
     "full_name": "Tartarus-AI/tartarusai-cli",
     "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
     "url": "https://github.com/Tartarus-AI/tartarusai-cli",
-    "stars": 65,
+    "stars": 64,
     "language": null,
-    "updated_at": "2026-05-22T09:05:01Z"
+    "updated_at": "2026-05-22T11:48:45Z"
   },
   {
     "name": "taoketong",
     "full_name": "haoaaa-111/taoketong",
     "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
     "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 53,
+    "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-05-22T10:45:34Z"
+    "updated_at": "2026-05-22T13:06:09Z"
+  },
+  {
+    "name": "awesome-ai-web-scraping",
+    "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
+    "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
+    "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
+    "stars": 39,
+    "language": null,
+    "updated_at": "2026-05-22T13:13:12Z"
   },
   {
     "name": "forge",
@@ -61,15 +70,6 @@
     "stars": 39,
     "language": "Rust",
     "updated_at": "2026-05-21T22:35:53Z"
-  },
-  {
-    "name": "awesome-ai-web-scraping",
-    "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
-    "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
-    "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
-    "stars": 37,
-    "language": null,
-    "updated_at": "2026-05-22T02:18:11Z"
   },
   {
     "name": "ai-flow-architect",
