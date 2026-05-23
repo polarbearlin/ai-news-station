@@ -4,18 +4,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 454,
+    "stars": 458,
     "language": "Python",
-    "updated_at": "2026-05-23T09:29:19Z"
+    "updated_at": "2026-05-23T12:41:18Z"
   },
   {
     "name": "ai-fomo-skills",
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 123,
+    "stars": 125,
     "language": "Python",
-    "updated_at": "2026-05-23T08:37:04Z"
+    "updated_at": "2026-05-23T13:21:38Z"
   },
   {
     "name": "tartarusai-cli",
@@ -63,6 +63,15 @@
     "updated_at": "2026-05-22T18:15:24Z"
   },
   {
+    "name": "DailyBrief",
+    "full_name": "leiting-eric/DailyBrief",
+    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
+    "url": "https://github.com/leiting-eric/DailyBrief",
+    "stars": 25,
+    "language": "TypeScript",
+    "updated_at": "2026-05-23T11:45:16Z"
+  },
+  {
     "name": "portfolio-dumper",
     "full_name": "abduznik/portfolio-dumper",
     "description": "Convert GitHub profiles and repositories into clean, LLM-friendly Markdown. Features profile README ingestion, repository lists, and PAT support. Completely static and secure.",
@@ -79,14 +88,5 @@
     "stars": 22,
     "language": "Markdown",
     "updated_at": "2026-05-22T23:08:26Z"
-  },
-  {
-    "name": "agent-workflow-kit",
-    "full_name": "crisxuan/agent-workflow-kit",
-    "description": "Agent Workflow Kit — Evaluation-first rules, templates, and Skill packages for AI-assisted software projects. Score risk, choose the smallest safe workflow, and generate practical AGENTS.md guidance for any coding agent.",
-    "url": "https://github.com/crisxuan/agent-workflow-kit",
-    "stars": 21,
-    "language": "Ruby",
-    "updated_at": "2026-05-23T04:01:04Z"
   }
 ]
