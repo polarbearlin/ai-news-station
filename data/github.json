@@ -4,18 +4,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 446,
+    "stars": 454,
     "language": "Python",
-    "updated_at": "2026-05-23T05:13:01Z"
+    "updated_at": "2026-05-23T09:29:19Z"
   },
   {
     "name": "ai-fomo-skills",
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 122,
+    "stars": 123,
     "language": "Python",
-    "updated_at": "2026-05-22T15:13:41Z"
+    "updated_at": "2026-05-23T08:37:04Z"
   },
   {
     "name": "tartarusai-cli",
@@ -49,9 +49,9 @@
     "full_name": "FredAntB/Spec-Driven-Development",
     "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
     "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "stars": 32,
+    "stars": 33,
     "language": "Python",
-    "updated_at": "2026-05-23T02:56:42Z"
+    "updated_at": "2026-05-23T09:40:48Z"
   },
   {
     "name": "needle-rs",
