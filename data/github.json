@@ -4,18 +4,9 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 436,
+    "stars": 439,
     "language": "Python",
-    "updated_at": "2026-05-22T20:24:25Z"
-  },
-  {
-    "name": "slopless",
-    "full_name": "seochecks-ai/slopless",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown",
-    "url": "https://github.com/seochecks-ai/slopless",
-    "stars": 350,
-    "language": "TypeScript",
-    "updated_at": "2026-05-22T20:46:11Z"
+    "updated_at": "2026-05-23T02:50:42Z"
   },
   {
     "name": "ai-fomo-skills",
@@ -27,15 +18,6 @@
     "updated_at": "2026-05-22T15:13:41Z"
   },
   {
-    "name": "claude-soul",
-    "full_name": "DomDemetz/claude-soul",
-    "description": "Self-correcting learning engine for Claude Code — persistent identity, behavioral pattern tracking, and cross-session memory",
-    "url": "https://github.com/DomDemetz/claude-soul",
-    "stars": 77,
-    "language": "TypeScript",
-    "updated_at": "2026-05-22T14:03:45Z"
-  },
-  {
     "name": "tartarusai-cli",
     "full_name": "Tartarus-AI/tartarusai-cli",
     "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
@@ -43,15 +25,6 @@
     "stars": 64,
     "language": null,
     "updated_at": "2026-05-22T11:48:45Z"
-  },
-  {
-    "name": "taoketong",
-    "full_name": "haoaaa-111/taoketong",
-    "description": "🎓 课表解析 · 点名预测 · 逃课方案 · 反馈学习",
-    "url": "https://github.com/haoaaa-111/taoketong",
-    "stars": 57,
-    "language": "TypeScript",
-    "updated_at": "2026-05-22T19:52:24Z"
   },
   {
     "name": "awesome-ai-web-scraping",
@@ -63,15 +36,6 @@
     "updated_at": "2026-05-22T13:13:12Z"
   },
   {
-    "name": "forge",
-    "full_name": "ForgeAILab/forge",
-    "description": "AI coding agent workflow engine for structured task lifecycles.",
-    "url": "https://github.com/ForgeAILab/forge",
-    "stars": 39,
-    "language": "Rust",
-    "updated_at": "2026-05-21T22:35:53Z"
-  },
-  {
     "name": "ai-flow-architect",
     "full_name": "wdnmd1265/ai-flow-architect",
     "description": "Multi-model AI workflow engine with built-in quality arbitration. Plan → Approve → Execute → Audit pipeline. Dual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold. Zero-config token saving. ",
@@ -81,12 +45,48 @@
     "updated_at": "2026-05-22T18:15:29Z"
   },
   {
-    "name": "bragi",
-    "full_name": "wailers9/bragi",
-    "description": "一个面向架空世界故事创作者的 AI 架空世界与长篇故事引擎。它能从一句设定出发，自动生成层 层嵌套的历史、地理、角色关系与事件网络，并持续写出贴合世界观的剧情。支持 CLI 与可视化界面，可按时间和空间路径扩展世界，让故事像真实宇宙一样不断生长。项目用数字路径管理嵌套的时间、空间、   角色和事件节点，按需生成并补全世界资料，支持本地 Demo、OpenAI/DeepSeek JSON   Agent、CLI 和黑白 Web 可视化界面，用于创建可持续展开的故事世界与剧情会话。",
-    "url": "https://github.com/wailers9/bragi",
+    "name": "Spec-Driven-Development",
+    "full_name": "FredAntB/Spec-Driven-Development",
+    "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
+    "url": "https://github.com/FredAntB/Spec-Driven-Development",
     "stars": 32,
     "language": "Python",
-    "updated_at": "2026-05-21T02:03:05Z"
+    "updated_at": "2026-05-23T02:56:42Z"
+  },
+  {
+    "name": "needle-rs",
+    "full_name": "Geekgineer/needle-rs",
+    "description": "258 KB WASM runtime for Needle a 26M-parameter tool-calling transformer. Runs in browser, Cloudflare Workers, and Node.js. No backend required.",
+    "url": "https://github.com/Geekgineer/needle-rs",
+    "stars": 29,
+    "language": "Rust",
+    "updated_at": "2026-05-22T18:15:24Z"
+  },
+  {
+    "name": "portfolio-dumper",
+    "full_name": "abduznik/portfolio-dumper",
+    "description": "Convert GitHub profiles and repositories into clean, LLM-friendly Markdown. Features profile README ingestion, repository lists, and PAT support. Completely static and secure.",
+    "url": "https://github.com/abduznik/portfolio-dumper",
+    "stars": 23,
+    "language": "HTML",
+    "updated_at": "2026-05-23T00:04:29Z"
+  },
+  {
+    "name": "compose-kotlin-agent-skills",
+    "full_name": "haidrrrry/compose-kotlin-agent-skills",
+    "description": "Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.",
+    "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
+    "stars": 22,
+    "language": "Markdown",
+    "updated_at": "2026-05-22T23:08:26Z"
+  },
+  {
+    "name": "modern-llm-notebook",
+    "full_name": "walkinglabs/modern-llm-notebook",
+    "description": "A hands-on guide with 23 Jupyter Notebooks to master modern Large Language Models from the ground up, using PyTorch to implement core components like BPE Tokenizers, Multi-Head Attention, MoE, RLHF, and on-policy distillation—no pre-built libraries required.",
+    "url": "https://github.com/walkinglabs/modern-llm-notebook",
+    "stars": 11,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-05-22T16:12:53Z"
   }
 ]

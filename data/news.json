@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-05-22 21:09:48",
+  "generated_at": "2026-05-23 02:57:36",
   "news": [
     {
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "url": "https://github.com/anomalyco/models.dev",
+      "title": "Is AI Profitable Yet?",
+      "url": "https://isaiprofitable.com/",
       "source": "Hacker News",
-      "time": "2026-05-22 20:26",
-      "score": 17,
-      "comments": 4
+      "time": "2026-05-23 02:10",
+      "score": 47,
+      "comments": 10
     },
     {
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
       "source": "Hacker News",
-      "time": "2026-05-22 17:05",
-      "score": 50,
-      "comments": 11
-    },
-    {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "source": "Hacker News",
-      "time": "2026-05-22 10:38",
-      "score": 312,
-      "comments": 121
+      "time": "2026-05-20 12:42",
+      "score": 8,
+      "comments": 0
     }
   ]
 }
