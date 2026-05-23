@@ -4,9 +4,9 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 439,
+    "stars": 446,
     "language": "Python",
-    "updated_at": "2026-05-23T02:50:42Z"
+    "updated_at": "2026-05-23T05:13:01Z"
   },
   {
     "name": "ai-fomo-skills",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-22T23:08:26Z"
   },
   {
-    "name": "modern-llm-notebook",
-    "full_name": "walkinglabs/modern-llm-notebook",
-    "description": "A hands-on guide with 23 Jupyter Notebooks to master modern Large Language Models from the ground up, using PyTorch to implement core components like BPE Tokenizers, Multi-Head Attention, MoE, RLHF, and on-policy distillation—no pre-built libraries required.",
-    "url": "https://github.com/walkinglabs/modern-llm-notebook",
-    "stars": 11,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-05-22T16:12:53Z"
+    "name": "agent-workflow-kit",
+    "full_name": "crisxuan/agent-workflow-kit",
+    "description": "Agent Workflow Kit — Evaluation-first rules, templates, and Skill packages for AI-assisted software projects. Score risk, choose the smallest safe workflow, and generate practical AGENTS.md guidance for any coding agent.",
+    "url": "https://github.com/crisxuan/agent-workflow-kit",
+    "stars": 21,
+    "language": "Ruby",
+    "updated_at": "2026-05-23T04:01:04Z"
   }
 ]
