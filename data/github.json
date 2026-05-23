@@ -4,18 +4,18 @@
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 458,
+    "stars": 462,
     "language": "Python",
-    "updated_at": "2026-05-23T12:41:18Z"
+    "updated_at": "2026-05-23T16:24:38Z"
   },
   {
     "name": "ai-fomo-skills",
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 125,
+    "stars": 126,
     "language": "Python",
-    "updated_at": "2026-05-23T13:21:38Z"
+    "updated_at": "2026-05-23T14:40:38Z"
   },
   {
     "name": "tartarusai-cli",
@@ -49,9 +49,18 @@
     "full_name": "FredAntB/Spec-Driven-Development",
     "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
     "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "stars": 33,
+    "stars": 34,
     "language": "Python",
-    "updated_at": "2026-05-23T09:40:48Z"
+    "updated_at": "2026-05-23T15:21:36Z"
+  },
+  {
+    "name": "DailyBrief",
+    "full_name": "leiting-eric/DailyBrief",
+    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
+    "url": "https://github.com/leiting-eric/DailyBrief",
+    "stars": 34,
+    "language": "TypeScript",
+    "updated_at": "2026-05-23T16:29:23Z"
   },
   {
     "name": "needle-rs",
@@ -63,30 +72,21 @@
     "updated_at": "2026-05-22T18:15:24Z"
   },
   {
-    "name": "DailyBrief",
-    "full_name": "leiting-eric/DailyBrief",
-    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
-    "url": "https://github.com/leiting-eric/DailyBrief",
-    "stars": 25,
-    "language": "TypeScript",
-    "updated_at": "2026-05-23T11:45:16Z"
-  },
-  {
     "name": "portfolio-dumper",
     "full_name": "abduznik/portfolio-dumper",
     "description": "Convert GitHub profiles and repositories into clean, LLM-friendly Markdown. Features profile README ingestion, repository lists, and PAT support. Completely static and secure.",
     "url": "https://github.com/abduznik/portfolio-dumper",
-    "stars": 23,
+    "stars": 25,
     "language": "HTML",
-    "updated_at": "2026-05-23T00:04:29Z"
+    "updated_at": "2026-05-23T14:30:53Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
     "full_name": "haidrrrry/compose-kotlin-agent-skills",
     "description": "Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.",
     "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
-    "stars": 22,
+    "stars": 23,
     "language": "Markdown",
-    "updated_at": "2026-05-22T23:08:26Z"
+    "updated_at": "2026-05-23T15:28:44Z"
   }
 ]
