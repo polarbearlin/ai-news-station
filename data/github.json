@@ -4,9 +4,9 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 129,
+    "stars": 130,
     "language": "Python",
-    "updated_at": "2026-05-23T23:58:48Z"
+    "updated_at": "2026-05-24T05:35:15Z"
   },
   {
     "name": "tartarusai-cli",
@@ -22,9 +22,9 @@
     "full_name": "leiting-eric/DailyBrief",
     "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
     "url": "https://github.com/leiting-eric/DailyBrief",
-    "stars": 50,
+    "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-05-24T03:36:39Z"
+    "updated_at": "2026-05-24T05:55:26Z"
   },
   {
     "name": "awesome-ai-web-scraping",
@@ -58,9 +58,9 @@
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 28,
+    "stars": 29,
     "language": "JavaScript",
-    "updated_at": "2026-05-24T01:55:33Z"
+    "updated_at": "2026-05-24T06:28:28Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
@@ -85,8 +85,8 @@
     "full_name": "khaosdoctor/dontquotetheai",
     "description": "Don't paste the ai response at me, please",
     "url": "https://github.com/khaosdoctor/dontquotetheai",
-    "stars": 11,
+    "stars": 12,
     "language": "HTML",
-    "updated_at": "2026-05-23T21:53:44Z"
+    "updated_at": "2026-05-24T06:17:16Z"
   }
 ]
