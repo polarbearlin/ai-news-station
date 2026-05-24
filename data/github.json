@@ -4,9 +4,18 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 130,
+    "stars": 131,
     "language": "Python",
-    "updated_at": "2026-05-24T05:35:15Z"
+    "updated_at": "2026-05-24T13:05:42Z"
+  },
+  {
+    "name": "DailyBrief",
+    "full_name": "leiting-eric/DailyBrief",
+    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
+    "url": "https://github.com/leiting-eric/DailyBrief",
+    "stars": 67,
+    "language": "TypeScript",
+    "updated_at": "2026-05-24T12:21:08Z"
   },
   {
     "name": "tartarusai-cli",
@@ -16,15 +25,6 @@
     "stars": 64,
     "language": null,
     "updated_at": "2026-05-22T11:48:45Z"
-  },
-  {
-    "name": "DailyBrief",
-    "full_name": "leiting-eric/DailyBrief",
-    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
-    "url": "https://github.com/leiting-eric/DailyBrief",
-    "stars": 60,
-    "language": "TypeScript",
-    "updated_at": "2026-05-24T09:18:41Z"
   },
   {
     "name": "awesome-ai-web-scraping",
@@ -40,9 +40,18 @@
     "full_name": "FredAntB/Spec-Driven-Development",
     "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
     "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "stars": 36,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-05-24T00:34:17Z"
+    "updated_at": "2026-05-24T13:26:27Z"
+  },
+  {
+    "name": "Spiderbrain-V3",
+    "full_name": "SaroirCommunity/Spiderbrain-V3",
+    "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
+    "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
+    "stars": 37,
+    "language": "JavaScript",
+    "updated_at": "2026-05-24T13:24:15Z"
   },
   {
     "name": "ai-flow-architect",
@@ -52,15 +61,6 @@
     "stars": 35,
     "language": "Python",
     "updated_at": "2026-05-22T18:15:29Z"
-  },
-  {
-    "name": "Spiderbrain-V3",
-    "full_name": "SaroirCommunity/Spiderbrain-V3",
-    "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
-    "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 33,
-    "language": "JavaScript",
-    "updated_at": "2026-05-24T09:17:01Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
@@ -85,8 +85,8 @@
     "full_name": "ayushh0110/ScreenMind",
     "description": "🧠 AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
     "url": "https://github.com/ayushh0110/ScreenMind",
-    "stars": 14,
+    "stars": 17,
     "language": "Python",
-    "updated_at": "2026-05-24T08:04:38Z"
+    "updated_at": "2026-05-24T13:18:26Z"
   }
 ]
