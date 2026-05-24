@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-05-24 13:26:54",
+  "generated_at": "2026-05-24 17:01:22",
   "news": [
     {
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "source": "Hacker News",
-      "time": "2026-05-24 08:29",
-      "score": 90,
-      "comments": 54
+      "time": "2026-05-24 13:02",
+      "score": 150,
+      "comments": 86
+    },
+    {
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "source": "Hacker News",
+      "time": "2026-05-24 12:55",
+      "score": 53,
+      "comments": 33
+    },
+    {
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "source": "Hacker News",
+      "time": "2026-05-24 17:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
