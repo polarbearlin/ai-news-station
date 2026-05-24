@@ -22,9 +22,9 @@
     "full_name": "leiting-eric/DailyBrief",
     "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
     "url": "https://github.com/leiting-eric/DailyBrief",
-    "stars": 58,
+    "stars": 60,
     "language": "TypeScript",
-    "updated_at": "2026-05-24T05:55:26Z"
+    "updated_at": "2026-05-24T09:18:41Z"
   },
   {
     "name": "awesome-ai-web-scraping",
@@ -58,9 +58,9 @@
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 29,
+    "stars": 33,
     "language": "JavaScript",
-    "updated_at": "2026-05-24T06:28:28Z"
+    "updated_at": "2026-05-24T09:17:01Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-23T12:42:05Z"
   },
   {
-    "name": "dontquotetheai",
-    "full_name": "khaosdoctor/dontquotetheai",
-    "description": "Don't paste the ai response at me, please",
-    "url": "https://github.com/khaosdoctor/dontquotetheai",
-    "stars": 12,
-    "language": "HTML",
-    "updated_at": "2026-05-24T06:17:16Z"
+    "name": "ScreenMind",
+    "full_name": "ayushh0110/ScreenMind",
+    "description": "🧠 AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
+    "url": "https://github.com/ayushh0110/ScreenMind",
+    "stars": 14,
+    "language": "Python",
+    "updated_at": "2026-05-24T08:04:38Z"
   }
 ]
