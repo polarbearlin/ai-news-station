@@ -1,21 +1,12 @@
 [
   {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 462,
-    "language": "Python",
-    "updated_at": "2026-05-23T16:24:38Z"
-  },
-  {
     "name": "ai-fomo-skills",
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 127,
+    "stars": 129,
     "language": "Python",
-    "updated_at": "2026-05-23T18:20:53Z"
+    "updated_at": "2026-05-23T23:58:48Z"
   },
   {
     "name": "tartarusai-cli",
@@ -27,6 +18,15 @@
     "updated_at": "2026-05-22T11:48:45Z"
   },
   {
+    "name": "DailyBrief",
+    "full_name": "leiting-eric/DailyBrief",
+    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
+    "url": "https://github.com/leiting-eric/DailyBrief",
+    "stars": 50,
+    "language": "TypeScript",
+    "updated_at": "2026-05-24T03:36:39Z"
+  },
+  {
     "name": "awesome-ai-web-scraping",
     "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
     "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
@@ -36,13 +36,13 @@
     "updated_at": "2026-05-23T20:27:34Z"
   },
   {
-    "name": "DailyBrief",
-    "full_name": "leiting-eric/DailyBrief",
-    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
-    "url": "https://github.com/leiting-eric/DailyBrief",
+    "name": "Spec-Driven-Development",
+    "full_name": "FredAntB/Spec-Driven-Development",
+    "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
+    "url": "https://github.com/FredAntB/Spec-Driven-Development",
     "stars": 36,
-    "language": "TypeScript",
-    "updated_at": "2026-05-23T20:17:30Z"
+    "language": "Python",
+    "updated_at": "2026-05-24T00:34:17Z"
   },
   {
     "name": "ai-flow-architect",
@@ -54,39 +54,39 @@
     "updated_at": "2026-05-22T18:15:29Z"
   },
   {
-    "name": "Spec-Driven-Development",
-    "full_name": "FredAntB/Spec-Driven-Development",
-    "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
-    "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "stars": 35,
-    "language": "Python",
-    "updated_at": "2026-05-23T17:26:34Z"
-  },
-  {
-    "name": "needle-rs",
-    "full_name": "Geekgineer/needle-rs",
-    "description": "258 KB WASM runtime for Needle a 26M-parameter tool-calling transformer. Runs in browser, Cloudflare Workers, and Node.js. No backend required.",
-    "url": "https://github.com/Geekgineer/needle-rs",
-    "stars": 29,
-    "language": "Rust",
-    "updated_at": "2026-05-22T18:15:24Z"
-  },
-  {
-    "name": "portfolio-dumper",
-    "full_name": "abduznik/portfolio-dumper",
-    "description": "Convert GitHub profiles and repositories into clean, LLM-friendly Markdown. Features profile README ingestion, repository lists, and PAT support. Completely static and secure.",
-    "url": "https://github.com/abduznik/portfolio-dumper",
-    "stars": 26,
-    "language": "HTML",
-    "updated_at": "2026-05-23T20:01:22Z"
-  },
-  {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 23,
+    "stars": 28,
     "language": "JavaScript",
-    "updated_at": "2026-05-23T20:42:57Z"
+    "updated_at": "2026-05-24T01:55:33Z"
+  },
+  {
+    "name": "compose-kotlin-agent-skills",
+    "full_name": "haidrrrry/compose-kotlin-agent-skills",
+    "description": "Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.",
+    "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
+    "stars": 23,
+    "language": "Markdown",
+    "updated_at": "2026-05-23T15:28:44Z"
+  },
+  {
+    "name": "agent-workflow-kit",
+    "full_name": "crisxuan/agent-workflow-kit",
+    "description": "Agent Workflow Kit — Evaluation-first rules, templates, and Skill packages for AI-assisted software projects. Score risk, choose the smallest safe workflow, and generate practical AGENTS.md guidance for any coding agent.",
+    "url": "https://github.com/crisxuan/agent-workflow-kit",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-05-23T12:42:05Z"
+  },
+  {
+    "name": "dontquotetheai",
+    "full_name": "khaosdoctor/dontquotetheai",
+    "description": "Don't paste the ai response at me, please",
+    "url": "https://github.com/khaosdoctor/dontquotetheai",
+    "stars": 11,
+    "language": "HTML",
+    "updated_at": "2026-05-23T21:53:44Z"
   }
 ]
