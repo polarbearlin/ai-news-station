@@ -4,18 +4,18 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 132,
+    "stars": 133,
     "language": "Python",
-    "updated_at": "2026-05-24T14:03:08Z"
+    "updated_at": "2026-05-24T18:34:14Z"
   },
   {
     "name": "DailyBrief",
     "full_name": "leiting-eric/DailyBrief",
     "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
     "url": "https://github.com/leiting-eric/DailyBrief",
-    "stars": 79,
+    "stars": 81,
     "language": "TypeScript",
-    "updated_at": "2026-05-24T16:47:57Z"
+    "updated_at": "2026-05-24T19:25:13Z"
   },
   {
     "name": "tartarusai-cli",
@@ -36,6 +36,15 @@
     "updated_at": "2026-05-24T16:48:56Z"
   },
   {
+    "name": "Spiderbrain-V3",
+    "full_name": "SaroirCommunity/Spiderbrain-V3",
+    "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
+    "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
+    "stars": 43,
+    "language": "JavaScript",
+    "updated_at": "2026-05-24T20:07:42Z"
+  },
+  {
     "name": "awesome-ai-web-scraping",
     "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
     "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
@@ -43,15 +52,6 @@
     "stars": 41,
     "language": null,
     "updated_at": "2026-05-23T20:27:34Z"
-  },
-  {
-    "name": "Spiderbrain-V3",
-    "full_name": "SaroirCommunity/Spiderbrain-V3",
-    "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
-    "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 40,
-    "language": "JavaScript",
-    "updated_at": "2026-05-24T15:33:20Z"
   },
   {
     "name": "ai-flow-architect",
@@ -87,6 +87,6 @@
     "url": "https://github.com/ayushh0110/ScreenMind",
     "stars": 18,
     "language": "Python",
-    "updated_at": "2026-05-24T16:37:03Z"
+    "updated_at": "2026-05-24T18:51:56Z"
   }
 ]
