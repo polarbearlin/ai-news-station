@@ -4,9 +4,9 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 137,
+    "stars": 142,
     "language": "Python",
-    "updated_at": "2026-05-25T03:46:37Z"
+    "updated_at": "2026-05-25T07:24:04Z"
   },
   {
     "name": "tartarusai-cli",
@@ -29,11 +29,11 @@
   {
     "name": "ai-relay",
     "full_name": "MoyuFamily/ai-relay",
-    "description": "无服务器 AI API 中转网关，一键部署到 Vercel；Serverless AI API relay gateway with OpenAI-compatible multi-provider routing, key rotation, and failover.",
+    "description": "🚀 Serverless AI API Gateway · Multi-provider routing, key rotation, failover · One-click Vercel deploy · v2.1",
     "url": "https://github.com/MoyuFamily/ai-relay",
-    "stars": 25,
+    "stars": 36,
     "language": "TypeScript",
-    "updated_at": "2026-05-25T03:37:38Z"
+    "updated_at": "2026-05-25T08:18:18Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
