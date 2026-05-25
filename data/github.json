@@ -4,18 +4,9 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 133,
+    "stars": 137,
     "language": "Python",
-    "updated_at": "2026-05-24T18:34:14Z"
-  },
-  {
-    "name": "DailyBrief",
-    "full_name": "leiting-eric/DailyBrief",
-    "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
-    "url": "https://github.com/leiting-eric/DailyBrief",
-    "stars": 81,
-    "language": "TypeScript",
-    "updated_at": "2026-05-24T19:25:13Z"
+    "updated_at": "2026-05-25T03:46:37Z"
   },
   {
     "name": "tartarusai-cli",
@@ -27,40 +18,22 @@
     "updated_at": "2026-05-22T11:48:45Z"
   },
   {
-    "name": "Spec-Driven-Development",
-    "full_name": "FredAntB/Spec-Driven-Development",
-    "description": "A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for Claude Code, Cursor, Copilot, Windsurf, and Aider.",
-    "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "stars": 43,
-    "language": "Python",
-    "updated_at": "2026-05-24T16:48:56Z"
-  },
-  {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 43,
+    "stars": 45,
     "language": "JavaScript",
-    "updated_at": "2026-05-24T20:07:42Z"
+    "updated_at": "2026-05-25T01:18:15Z"
   },
   {
-    "name": "awesome-ai-web-scraping",
-    "full_name": "h4ckf0r0day/awesome-ai-web-scraping",
-    "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
-    "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
-    "stars": 41,
-    "language": null,
-    "updated_at": "2026-05-23T20:27:34Z"
-  },
-  {
-    "name": "ai-flow-architect",
-    "full_name": "wdnmd1265/ai-flow-architect",
-    "description": "Multi-model AI workflow engine with built-in quality arbitration. Plan → Approve → Execute → Audit pipeline. Dual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold. Zero-config token saving. ",
-    "url": "https://github.com/wdnmd1265/ai-flow-architect",
-    "stars": 35,
-    "language": "Python",
-    "updated_at": "2026-05-22T18:15:29Z"
+    "name": "ai-relay",
+    "full_name": "MoyuFamily/ai-relay",
+    "description": "无服务器 AI API 中转网关，一键部署到 Vercel；Serverless AI API relay gateway with OpenAI-compatible multi-provider routing, key rotation, and failover.",
+    "url": "https://github.com/MoyuFamily/ai-relay",
+    "stars": 25,
+    "language": "TypeScript",
+    "updated_at": "2026-05-25T03:37:38Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
@@ -76,9 +49,9 @@
     "full_name": "crisxuan/agent-workflow-kit",
     "description": "Agent Workflow Kit — Evaluation-first rules, templates, and Skill packages for AI-assisted software projects. Score risk, choose the smallest safe workflow, and generate practical AGENTS.md guidance for any coding agent.",
     "url": "https://github.com/crisxuan/agent-workflow-kit",
-    "stars": 21,
+    "stars": 22,
     "language": null,
-    "updated_at": "2026-05-23T12:42:05Z"
+    "updated_at": "2026-05-25T03:19:23Z"
   },
   {
     "name": "ScreenMind",
@@ -88,5 +61,32 @@
     "stars": 18,
     "language": "Python",
     "updated_at": "2026-05-24T18:51:56Z"
+  },
+  {
+    "name": "coding-glossary",
+    "full_name": "chunxue-ai/coding-glossary",
+    "description": "面向人类的大模型编程术语表，为了更好地 Vibe Coding。",
+    "url": "https://github.com/chunxue-ai/coding-glossary",
+    "stars": 16,
+    "language": null,
+    "updated_at": "2026-05-25T02:34:06Z"
+  },
+  {
+    "name": "dontquotetheai",
+    "full_name": "khaosdoctor/dontquotetheai",
+    "description": "Don't paste the ai response at me, please",
+    "url": "https://github.com/khaosdoctor/dontquotetheai",
+    "stars": 15,
+    "language": "HTML",
+    "updated_at": "2026-05-24T23:45:58Z"
+  },
+  {
+    "name": "rag-interview-questions",
+    "full_name": "ather-techie/rag-interview-questions",
+    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
+    "url": "https://github.com/ather-techie/rag-interview-questions",
+    "stars": 14,
+    "language": null,
+    "updated_at": "2026-05-25T01:39:01Z"
   }
 ]
