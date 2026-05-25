@@ -4,36 +4,36 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 142,
+    "stars": 144,
     "language": "Python",
-    "updated_at": "2026-05-25T07:24:04Z"
+    "updated_at": "2026-05-25T14:45:07Z"
   },
   {
     "name": "tartarusai-cli",
     "full_name": "Tartarus-AI/tartarusai-cli",
     "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
     "url": "https://github.com/Tartarus-AI/tartarusai-cli",
-    "stars": 64,
+    "stars": 63,
     "language": null,
-    "updated_at": "2026-05-22T11:48:45Z"
+    "updated_at": "2026-05-25T13:51:17Z"
+  },
+  {
+    "name": "ai-relay",
+    "full_name": "MoyuFamily/ai-relay",
+    "description": "🚀 Serverless AI API Gateway / 无服务器 AI API 网关 · Multi-provider routing 多 Provider 路由 · Key rotation · Failover · Vercel 一键部署 · OpenAI compatible",
+    "url": "https://github.com/MoyuFamily/ai-relay",
+    "stars": 51,
+    "language": "TypeScript",
+    "updated_at": "2026-05-25T14:51:07Z"
   },
   {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 45,
+    "stars": 47,
     "language": "JavaScript",
-    "updated_at": "2026-05-25T01:18:15Z"
-  },
-  {
-    "name": "ai-relay",
-    "full_name": "MoyuFamily/ai-relay",
-    "description": "🚀 Serverless AI API Gateway · Multi-provider routing, key rotation, failover · One-click Vercel deploy · v2.1",
-    "url": "https://github.com/MoyuFamily/ai-relay",
-    "stars": 36,
-    "language": "TypeScript",
-    "updated_at": "2026-05-25T08:18:18Z"
+    "updated_at": "2026-05-25T13:49:18Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
@@ -58,9 +58,27 @@
     "full_name": "ayushh0110/ScreenMind",
     "description": "🧠 AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
     "url": "https://github.com/ayushh0110/ScreenMind",
+    "stars": 19,
+    "language": "Python",
+    "updated_at": "2026-05-25T13:54:08Z"
+  },
+  {
+    "name": "dontquotetheai",
+    "full_name": "khaosdoctor/dontquotetheai",
+    "description": "Don't paste the ai response at me, please",
+    "url": "https://github.com/khaosdoctor/dontquotetheai",
+    "stars": 18,
+    "language": "HTML",
+    "updated_at": "2026-05-25T10:56:57Z"
+  },
+  {
+    "name": "Open-Mythos-2",
+    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
+    "description": "This is an attempt to make original open mythos better with chat ui.",
+    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
     "stars": 18,
     "language": "Python",
-    "updated_at": "2026-05-24T18:51:56Z"
+    "updated_at": "2026-05-25T14:44:24Z"
   },
   {
     "name": "coding-glossary",
@@ -70,23 +88,5 @@
     "stars": 16,
     "language": null,
     "updated_at": "2026-05-25T02:34:06Z"
-  },
-  {
-    "name": "dontquotetheai",
-    "full_name": "khaosdoctor/dontquotetheai",
-    "description": "Don't paste the ai response at me, please",
-    "url": "https://github.com/khaosdoctor/dontquotetheai",
-    "stars": 15,
-    "language": "HTML",
-    "updated_at": "2026-05-24T23:45:58Z"
-  },
-  {
-    "name": "rag-interview-questions",
-    "full_name": "ather-techie/rag-interview-questions",
-    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
-    "url": "https://github.com/ather-techie/rag-interview-questions",
-    "stars": 14,
-    "language": null,
-    "updated_at": "2026-05-25T01:39:01Z"
   }
 ]
