@@ -4,9 +4,9 @@
     "full_name": "vincelele/ai-fomo-skills",
     "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
     "url": "https://github.com/vincelele/ai-fomo-skills",
-    "stars": 144,
+    "stars": 146,
     "language": "Python",
-    "updated_at": "2026-05-25T14:45:07Z"
+    "updated_at": "2026-05-25T17:19:55Z"
   },
   {
     "name": "tartarusai-cli",
@@ -22,18 +22,18 @@
     "full_name": "MoyuFamily/ai-relay",
     "description": "🚀 Serverless AI API Gateway / 无服务器 AI API 网关 · Multi-provider routing 多 Provider 路由 · Key rotation · Failover · Vercel 一键部署 · OpenAI compatible",
     "url": "https://github.com/MoyuFamily/ai-relay",
-    "stars": 51,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-05-25T14:51:07Z"
+    "updated_at": "2026-05-25T15:35:31Z"
   },
   {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 47,
+    "stars": 49,
     "language": "JavaScript",
-    "updated_at": "2026-05-25T13:49:18Z"
+    "updated_at": "2026-05-25T16:37:35Z"
   },
   {
     "name": "compose-kotlin-agent-skills",
@@ -54,6 +54,15 @@
     "updated_at": "2026-05-25T03:19:23Z"
   },
   {
+    "name": "Open-Mythos-2",
+    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
+    "description": "This is an attempt to make original open mythos better with chat ui.",
+    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
+    "stars": 21,
+    "language": "Python",
+    "updated_at": "2026-05-25T17:08:28Z"
+  },
+  {
     "name": "ScreenMind",
     "full_name": "ayushh0110/ScreenMind",
     "description": "🧠 AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
@@ -69,24 +78,15 @@
     "url": "https://github.com/khaosdoctor/dontquotetheai",
     "stars": 18,
     "language": "HTML",
-    "updated_at": "2026-05-25T10:56:57Z"
+    "updated_at": "2026-05-25T15:48:08Z"
   },
   {
-    "name": "Open-Mythos-2",
-    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
-    "description": "This is an attempt to make original open mythos better with chat ui.",
-    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 18,
-    "language": "Python",
-    "updated_at": "2026-05-25T14:44:24Z"
-  },
-  {
-    "name": "coding-glossary",
-    "full_name": "chunxue-ai/coding-glossary",
-    "description": "面向人类的大模型编程术语表，为了更好地 Vibe Coding。",
-    "url": "https://github.com/chunxue-ai/coding-glossary",
+    "name": "rag-interview-questions",
+    "full_name": "ather-techie/rag-interview-questions",
+    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
+    "url": "https://github.com/ather-techie/rag-interview-questions",
     "stars": 16,
     "language": null,
-    "updated_at": "2026-05-25T02:34:06Z"
+    "updated_at": "2026-05-25T17:28:34Z"
   }
 ]
