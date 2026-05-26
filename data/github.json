@@ -1,5 +1,14 @@
 [
   {
+    "name": "adhd",
+    "full_name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "stars": 116,
+    "language": "TypeScript",
+    "updated_at": "2026-05-26T15:18:49Z"
+  },
+  {
     "name": "tartarusai-cli",
     "full_name": "Tartarus-AI/tartarusai-cli",
     "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
@@ -13,63 +22,63 @@
     "full_name": "MoyuFamily/ai-relay",
     "description": "🚀 Serverless AI API Gateway / 无服务器 AI API 网关 · Multi-provider routing 多 Provider 路由 · Key rotation · Failover · Vercel 一键部署 · OpenAI compatible",
     "url": "https://github.com/MoyuFamily/ai-relay",
-    "stars": 59,
+    "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T07:06:54Z"
+    "updated_at": "2026-05-26T14:42:48Z"
   },
   {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 55,
+    "stars": 59,
     "language": "JavaScript",
-    "updated_at": "2026-05-26T03:46:50Z"
+    "updated_at": "2026-05-26T11:15:46Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 40,
+    "stars": 53,
     "language": "C",
-    "updated_at": "2026-05-26T07:34:46Z"
-  },
-  {
-    "name": "singulary",
-    "full_name": "sammwyy/singulary",
-    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
-    "url": "https://github.com/sammwyy/singulary",
-    "stars": 28,
-    "language": "TypeScript",
-    "updated_at": "2026-05-26T07:25:36Z"
+    "updated_at": "2026-05-26T14:58:00Z"
   },
   {
     "name": "Open-Mythos-2",
     "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
     "description": "This is an attempt to make original open mythos better with chat ui.",
     "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 27,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-05-26T06:09:41Z"
+    "updated_at": "2026-05-26T15:03:11Z"
+  },
+  {
+    "name": "singulary",
+    "full_name": "sammwyy/singulary",
+    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
+    "url": "https://github.com/sammwyy/singulary",
+    "stars": 30,
+    "language": "TypeScript",
+    "updated_at": "2026-05-26T11:58:28Z"
+  },
+  {
+    "name": "plumb-mcp",
+    "full_name": "tathagat22/plumb-mcp",
+    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
+    "url": "https://github.com/tathagat22/plumb-mcp",
+    "stars": 27,
+    "language": "TypeScript",
+    "updated_at": "2026-05-26T15:03:01Z"
   },
   {
     "name": "anti-sycophant-ai-agent-skills",
     "full_name": "machinesoul11/anti-sycophant-ai-agent-skills",
     "description": "Skills that get AI assistants to stop agreeing with bad product ideas by default — pressure-test premises, separate hobbies from businesses, and refuse validation theater.",
     "url": "https://github.com/machinesoul11/anti-sycophant-ai-agent-skills",
-    "stars": 24,
+    "stars": 25,
     "language": null,
-    "updated_at": "2026-05-26T07:14:22Z"
-  },
-  {
-    "name": "compose-kotlin-agent-skills",
-    "full_name": "haidrrrry/compose-kotlin-agent-skills",
-    "description": "Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.",
-    "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
-    "stars": 23,
-    "language": "Markdown",
-    "updated_at": "2026-05-24T13:39:04Z"
+    "updated_at": "2026-05-26T07:52:23Z"
   },
   {
     "name": "agent-workflow-kit",
@@ -79,14 +88,5 @@
     "stars": 23,
     "language": null,
     "updated_at": "2026-05-26T03:45:06Z"
-  },
-  {
-    "name": "dontquotetheai",
-    "full_name": "khaosdoctor/dontquotetheai",
-    "description": "Don't paste the ai response at me, please",
-    "url": "https://github.com/khaosdoctor/dontquotetheai",
-    "stars": 22,
-    "language": "HTML",
-    "updated_at": "2026-05-26T01:25:07Z"
   }
 ]
