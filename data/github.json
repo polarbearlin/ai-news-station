@@ -4,18 +4,9 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 141,
+    "stars": 162,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T18:09:05Z"
-  },
-  {
-    "name": "tartarusai-cli",
-    "full_name": "Tartarus-AI/tartarusai-cli",
-    "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
-    "url": "https://github.com/Tartarus-AI/tartarusai-cli",
-    "stars": 63,
-    "language": null,
-    "updated_at": "2026-05-26T07:19:24Z"
+    "updated_at": "2026-05-26T21:32:23Z"
   },
   {
     "name": "ai-relay",
@@ -27,66 +18,75 @@
     "updated_at": "2026-05-26T16:27:07Z"
   },
   {
+    "name": "tartarusai-cli",
+    "full_name": "Tartarus-AI/tartarusai-cli",
+    "description": "Uncensored AI coding agent in your terminal. Does the work, skips the sermon. 256K context, crypto-only billing, no card on file.",
+    "url": "https://github.com/Tartarus-AI/tartarusai-cli",
+    "stars": 63,
+    "language": null,
+    "updated_at": "2026-05-26T07:19:24Z"
+  },
+  {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
     "stars": 59,
     "language": "JavaScript",
-    "updated_at": "2026-05-26T11:15:46Z"
+    "updated_at": "2026-05-26T19:19:05Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 57,
+    "stars": 58,
     "language": "C",
-    "updated_at": "2026-05-26T18:03:58Z"
+    "updated_at": "2026-05-26T20:54:24Z"
   },
   {
     "name": "Open-Mythos-2",
     "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
     "description": "This is an attempt to make original open mythos better with chat ui.",
     "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 35,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-05-26T18:19:21Z"
+    "updated_at": "2026-05-26T21:07:18Z"
   },
   {
     "name": "plumb-mcp",
     "full_name": "tathagat22/plumb-mcp",
     "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
     "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 31,
+    "stars": 33,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T17:42:51Z"
+    "updated_at": "2026-05-26T21:33:28Z"
   },
   {
     "name": "singulary",
     "full_name": "sammwyy/singulary",
     "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
     "url": "https://github.com/sammwyy/singulary",
-    "stars": 30,
+    "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T11:58:28Z"
+    "updated_at": "2026-05-26T19:30:03Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 26,
+    "stars": 31,
     "language": "Python",
-    "updated_at": "2026-05-26T18:25:34Z"
+    "updated_at": "2026-05-26T21:21:56Z"
   },
   {
     "name": "anti-sycophant-ai-agent-skills",
     "full_name": "machinesoul11/anti-sycophant-ai-agent-skills",
     "description": "Skills that get AI assistants to stop agreeing with bad product ideas by default — pressure-test premises, separate hobbies from businesses, and refuse validation theater.",
     "url": "https://github.com/machinesoul11/anti-sycophant-ai-agent-skills",
-    "stars": 25,
+    "stars": 26,
     "language": null,
-    "updated_at": "2026-05-26T07:52:23Z"
+    "updated_at": "2026-05-26T21:05:27Z"
   }
 ]
