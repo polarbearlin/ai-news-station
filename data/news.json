@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-05-26 15:29:25",
+  "generated_at": "2026-05-26 18:26:11",
   "news": [
     {
-      "title": "GitHub Actions down again today",
-      "url": "https://www.githubstatus.com/?today",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "source": "Hacker News",
-      "time": "2026-05-26 11:42",
-      "score": 505,
-      "comments": 252
-    },
-    {
-      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "source": "Hacker News",
-      "time": "2026-05-26 12:08",
-      "score": 85,
-      "comments": 86
+      "time": "2026-05-26 13:08",
+      "score": 395,
+      "comments": 192
     },
     {
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "source": "Hacker News",
       "time": "2026-05-25 23:16",
-      "score": 926,
-      "comments": 343
-    },
-    {
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "source": "Hacker News",
-      "time": "2026-05-26 13:08",
-      "score": 106,
-      "comments": 49
+      "score": 1045,
+      "comments": 392
     }
   ]
 }

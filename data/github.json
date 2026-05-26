@@ -4,9 +4,9 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 116,
+    "stars": 141,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T15:18:49Z"
+    "updated_at": "2026-05-26T18:09:05Z"
   },
   {
     "name": "tartarusai-cli",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MoyuFamily/ai-relay",
     "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T14:42:48Z"
+    "updated_at": "2026-05-26T16:27:07Z"
   },
   {
     "name": "Spiderbrain-V3",
@@ -40,18 +40,27 @@
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 53,
+    "stars": 57,
     "language": "C",
-    "updated_at": "2026-05-26T14:58:00Z"
+    "updated_at": "2026-05-26T18:03:58Z"
   },
   {
     "name": "Open-Mythos-2",
     "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
     "description": "This is an attempt to make original open mythos better with chat ui.",
     "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 32,
+    "stars": 35,
     "language": "Python",
-    "updated_at": "2026-05-26T15:03:11Z"
+    "updated_at": "2026-05-26T18:19:21Z"
+  },
+  {
+    "name": "plumb-mcp",
+    "full_name": "tathagat22/plumb-mcp",
+    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
+    "url": "https://github.com/tathagat22/plumb-mcp",
+    "stars": 31,
+    "language": "TypeScript",
+    "updated_at": "2026-05-26T17:42:51Z"
   },
   {
     "name": "singulary",
@@ -63,13 +72,13 @@
     "updated_at": "2026-05-26T11:58:28Z"
   },
   {
-    "name": "plumb-mcp",
-    "full_name": "tathagat22/plumb-mcp",
-    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
-    "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 27,
-    "language": "TypeScript",
-    "updated_at": "2026-05-26T15:03:01Z"
+    "name": "filetree-skill",
+    "full_name": "nekocode/filetree-skill",
+    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
+    "url": "https://github.com/nekocode/filetree-skill",
+    "stars": 26,
+    "language": "Python",
+    "updated_at": "2026-05-26T18:25:34Z"
   },
   {
     "name": "anti-sycophant-ai-agent-skills",
@@ -79,14 +88,5 @@
     "stars": 25,
     "language": null,
     "updated_at": "2026-05-26T07:52:23Z"
-  },
-  {
-    "name": "agent-workflow-kit",
-    "full_name": "crisxuan/agent-workflow-kit",
-    "description": "Agent Workflow Kit — Evaluation-first rules, templates, and Skill packages for AI-assisted software projects. Score risk, choose the smallest safe workflow, and generate practical AGENTS.md guidance for any coding agent.",
-    "url": "https://github.com/crisxuan/agent-workflow-kit",
-    "stars": 23,
-    "language": null,
-    "updated_at": "2026-05-26T03:45:06Z"
   }
 ]
