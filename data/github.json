@@ -4,18 +4,27 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 195,
+    "stars": 220,
     "language": "TypeScript",
-    "updated_at": "2026-05-27T03:52:07Z"
+    "updated_at": "2026-05-27T07:37:24Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 64,
+    "stars": 65,
     "language": "C",
-    "updated_at": "2026-05-27T03:01:39Z"
+    "updated_at": "2026-05-27T06:39:16Z"
+  },
+  {
+    "name": "filetree-skill",
+    "full_name": "nekocode/filetree-skill",
+    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
+    "url": "https://github.com/nekocode/filetree-skill",
+    "stars": 62,
+    "language": "Python",
+    "updated_at": "2026-05-27T07:47:36Z"
   },
   {
     "name": "Spiderbrain-V3",
@@ -25,15 +34,6 @@
     "stars": 59,
     "language": "JavaScript",
     "updated_at": "2026-05-26T19:19:05Z"
-  },
-  {
-    "name": "filetree-skill",
-    "full_name": "nekocode/filetree-skill",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
-    "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 41,
-    "language": "Python",
-    "updated_at": "2026-05-27T03:47:13Z"
   },
   {
     "name": "Open-Mythos-2",
@@ -49,18 +49,27 @@
     "full_name": "tathagat22/plumb-mcp",
     "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
     "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 34,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-05-27T00:53:01Z"
+    "updated_at": "2026-05-27T05:25:08Z"
   },
   {
     "name": "singulary",
     "full_name": "sammwyy/singulary",
     "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
     "url": "https://github.com/sammwyy/singulary",
-    "stars": 33,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T21:50:33Z"
+    "updated_at": "2026-05-27T07:02:29Z"
+  },
+  {
+    "name": "risolju-1.0",
+    "full_name": "jaehwan02/risolju-1.0",
+    "description": "리설주 1.0 - 북한 AI",
+    "url": "https://github.com/jaehwan02/risolju-1.0",
+    "stars": 34,
+    "language": "TypeScript",
+    "updated_at": "2026-05-27T06:38:47Z"
   },
   {
     "name": "anti-sycophant-ai-agent-skills",
@@ -79,14 +88,5 @@
     "stars": 26,
     "language": "TypeScript",
     "updated_at": "2026-05-26T22:08:56Z"
-  },
-  {
-    "name": "CandyCraft",
-    "full_name": "Saito-Sakuya/CandyCraft",
-    "description": "Candy Craft：一个可视化 AI 生图提示词优化工具，支持画板编排、相机布光和双模式 API（后台托管/用户自定义），可直接部署到 Cloudflare Pages。",
-    "url": "https://github.com/Saito-Sakuya/CandyCraft",
-    "stars": 23,
-    "language": "JavaScript",
-    "updated_at": "2026-05-27T00:57:49Z"
   }
 ]
