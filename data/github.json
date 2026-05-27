@@ -4,36 +4,45 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 220,
+    "stars": 280,
     "language": "TypeScript",
-    "updated_at": "2026-05-27T07:37:24Z"
-  },
-  {
-    "name": "Project-Onyx",
-    "full_name": "X-3306/Project-Onyx",
-    "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
-    "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 65,
-    "language": "C",
-    "updated_at": "2026-05-27T06:39:16Z"
+    "updated_at": "2026-05-27T15:41:38Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 62,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-05-27T07:47:36Z"
+    "updated_at": "2026-05-27T15:40:06Z"
+  },
+  {
+    "name": "Project-Onyx",
+    "full_name": "X-3306/Project-Onyx",
+    "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
+    "url": "https://github.com/X-3306/Project-Onyx",
+    "stars": 76,
+    "language": "C",
+    "updated_at": "2026-05-27T15:13:55Z"
   },
   {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 59,
+    "stars": 60,
     "language": "JavaScript",
-    "updated_at": "2026-05-26T19:19:05Z"
+    "updated_at": "2026-05-27T12:40:06Z"
+  },
+  {
+    "name": "singulary",
+    "full_name": "sammwyy/singulary",
+    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
+    "url": "https://github.com/sammwyy/singulary",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-05-27T15:17:11Z"
   },
   {
     "name": "Open-Mythos-2",
@@ -54,39 +63,30 @@
     "updated_at": "2026-05-27T05:25:08Z"
   },
   {
-    "name": "singulary",
-    "full_name": "sammwyy/singulary",
-    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
-    "url": "https://github.com/sammwyy/singulary",
+    "name": "AutoRun",
+    "full_name": "Gao-Ruilin/AutoRun",
+    "description": "An AI agent for coding and others",
+    "url": "https://github.com/Gao-Ruilin/AutoRun",
     "stars": 35,
-    "language": "TypeScript",
-    "updated_at": "2026-05-27T07:02:29Z"
+    "language": "Python",
+    "updated_at": "2026-05-27T14:28:03Z"
   },
   {
     "name": "risolju-1.0",
     "full_name": "jaehwan02/risolju-1.0",
     "description": "리설주 1.0 - 북한 AI",
     "url": "https://github.com/jaehwan02/risolju-1.0",
-    "stars": 34,
+    "stars": 33,
     "language": "TypeScript",
-    "updated_at": "2026-05-27T06:38:47Z"
-  },
-  {
-    "name": "anti-sycophant-ai-agent-skills",
-    "full_name": "machinesoul11/anti-sycophant-ai-agent-skills",
-    "description": "Skills that get AI assistants to stop agreeing with bad product ideas by default — pressure-test premises, separate hobbies from businesses, and refuse validation theater.",
-    "url": "https://github.com/machinesoul11/anti-sycophant-ai-agent-skills",
-    "stars": 26,
-    "language": null,
-    "updated_at": "2026-05-26T21:05:27Z"
+    "updated_at": "2026-05-27T09:46:36Z"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 26,
+    "stars": 27,
     "language": "TypeScript",
-    "updated_at": "2026-05-26T22:08:56Z"
+    "updated_at": "2026-05-27T09:52:02Z"
   }
 ]
