@@ -4,27 +4,27 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 407,
+    "stars": 429,
     "language": "TypeScript",
-    "updated_at": "2026-05-28T11:40:30Z"
+    "updated_at": "2026-05-28T15:48:40Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 103,
+    "stars": 105,
     "language": "Python",
-    "updated_at": "2026-05-28T10:51:09Z"
+    "updated_at": "2026-05-28T14:48:51Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 85,
+    "stars": 86,
     "language": "C",
-    "updated_at": "2026-05-28T08:56:08Z"
+    "updated_at": "2026-05-28T15:53:43Z"
   },
   {
     "name": "Spiderbrain-V3",
@@ -42,25 +42,25 @@
     "url": "https://github.com/Gao-Ruilin/AutoRun",
     "stars": 50,
     "language": "Python",
-    "updated_at": "2026-05-28T11:06:25Z"
+    "updated_at": "2026-05-28T14:36:14Z"
   },
   {
     "name": "Open-Mythos-2",
     "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
     "description": "This is an attempt to make original open mythos better with chat ui.",
     "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 42,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-05-28T07:47:08Z"
+    "updated_at": "2026-05-28T12:26:21Z"
   },
   {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 42,
+    "stars": 43,
     "language": "PHP",
-    "updated_at": "2026-05-28T11:06:01Z"
+    "updated_at": "2026-05-28T15:03:51Z"
   },
   {
     "name": "plumb-mcp",
