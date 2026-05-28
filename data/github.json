@@ -4,27 +4,27 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 390,
+    "stars": 407,
     "language": "TypeScript",
-    "updated_at": "2026-05-28T07:39:35Z"
+    "updated_at": "2026-05-28T11:40:30Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 99,
+    "stars": 103,
     "language": "Python",
-    "updated_at": "2026-05-28T07:33:34Z"
+    "updated_at": "2026-05-28T10:51:09Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 84,
+    "stars": 85,
     "language": "C",
-    "updated_at": "2026-05-28T05:31:12Z"
+    "updated_at": "2026-05-28T08:56:08Z"
   },
   {
     "name": "Spiderbrain-V3",
@@ -42,7 +42,7 @@
     "url": "https://github.com/Gao-Ruilin/AutoRun",
     "stars": 50,
     "language": "Python",
-    "updated_at": "2026-05-28T07:24:40Z"
+    "updated_at": "2026-05-28T11:06:25Z"
   },
   {
     "name": "Open-Mythos-2",
@@ -54,13 +54,22 @@
     "updated_at": "2026-05-28T07:47:08Z"
   },
   {
+    "name": "bricks-mcp-open",
+    "full_name": "developer2013/bricks-mcp-open",
+    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
+    "url": "https://github.com/developer2013/bricks-mcp-open",
+    "stars": 42,
+    "language": "PHP",
+    "updated_at": "2026-05-28T11:06:01Z"
+  },
+  {
     "name": "plumb-mcp",
     "full_name": "tathagat22/plumb-mcp",
     "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
     "url": "https://github.com/tathagat22/plumb-mcp",
     "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-05-28T07:44:19Z"
+    "updated_at": "2026-05-28T10:05:39Z"
   },
   {
     "name": "singulary",
@@ -70,15 +79,6 @@
     "stars": 38,
     "language": "TypeScript",
     "updated_at": "2026-05-27T22:48:06Z"
-  },
-  {
-    "name": "bricks-mcp-open",
-    "full_name": "developer2013/bricks-mcp-open",
-    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
-    "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 36,
-    "language": "PHP",
-    "updated_at": "2026-05-28T07:26:23Z"
   },
   {
     "name": "risolju-1.0",

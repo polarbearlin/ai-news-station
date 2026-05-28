@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-05-28 07:58:38",
+  "generated_at": "2026-05-28 11:46:21",
   "news": [
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "source": "Hacker News",
       "time": "2026-05-27 20:00",
-      "score": 822,
-      "comments": 475
+      "score": 951,
+      "comments": 574
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
       "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
       "source": "Hacker News",
       "time": "2026-05-28 06:40",
-      "score": 22,
-      "comments": 0
+      "score": 86,
+      "comments": 28
+    },
+    {
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "source": "Hacker News",
+      "time": "2026-05-28 10:56",
+      "score": 48,
+      "comments": 12
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "source": "Hacker News",
       "time": "2026-05-27 16:39",
-      "score": 829,
-      "comments": 958
+      "score": 909,
+      "comments": 1023
     },
     {
-      "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
-      "url": "https://almartis.xyz/gpu-free-datacenter.html",
+      "title": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
       "source": "Hacker News",
-      "time": "2026-05-25 17:28",
-      "score": 12,
-      "comments": 1
+      "time": "2026-05-28 10:39",
+      "score": 30,
+      "comments": 2
     }
   ]
 }
