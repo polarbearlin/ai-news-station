@@ -4,27 +4,27 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 369,
+    "stars": 390,
     "language": "TypeScript",
-    "updated_at": "2026-05-28T03:34:27Z"
+    "updated_at": "2026-05-28T07:39:35Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 94,
+    "stars": 99,
     "language": "Python",
-    "updated_at": "2026-05-28T02:50:58Z"
+    "updated_at": "2026-05-28T07:33:34Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 83,
+    "stars": 84,
     "language": "C",
-    "updated_at": "2026-05-28T03:15:55Z"
+    "updated_at": "2026-05-28T05:31:12Z"
   },
   {
     "name": "Spiderbrain-V3",
@@ -42,16 +42,25 @@
     "url": "https://github.com/Gao-Ruilin/AutoRun",
     "stars": 50,
     "language": "Python",
-    "updated_at": "2026-05-28T02:25:01Z"
+    "updated_at": "2026-05-28T07:24:40Z"
   },
   {
     "name": "Open-Mythos-2",
     "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
     "description": "This is an attempt to make original open mythos better with chat ui.",
     "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 40,
+    "stars": 42,
     "language": "Python",
-    "updated_at": "2026-05-28T01:18:11Z"
+    "updated_at": "2026-05-28T07:47:08Z"
+  },
+  {
+    "name": "plumb-mcp",
+    "full_name": "tathagat22/plumb-mcp",
+    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
+    "url": "https://github.com/tathagat22/plumb-mcp",
+    "stars": 41,
+    "language": "TypeScript",
+    "updated_at": "2026-05-28T07:44:19Z"
   },
   {
     "name": "singulary",
@@ -63,30 +72,21 @@
     "updated_at": "2026-05-27T22:48:06Z"
   },
   {
-    "name": "plumb-mcp",
-    "full_name": "tathagat22/plumb-mcp",
-    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
-    "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-05-27T23:31:35Z"
+    "name": "bricks-mcp-open",
+    "full_name": "developer2013/bricks-mcp-open",
+    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
+    "url": "https://github.com/developer2013/bricks-mcp-open",
+    "stars": 36,
+    "language": "PHP",
+    "updated_at": "2026-05-28T07:26:23Z"
   },
   {
     "name": "risolju-1.0",
     "full_name": "jaehwan02/risolju-1.0",
     "description": "리설주 1.0 - 북한 AI",
     "url": "https://github.com/jaehwan02/risolju-1.0",
-    "stars": 33,
+    "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-05-27T09:46:36Z"
-  },
-  {
-    "name": "bricks-mcp-open",
-    "full_name": "developer2013/bricks-mcp-open",
-    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
-    "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 32,
-    "language": "PHP",
-    "updated_at": "2026-05-28T00:30:38Z"
+    "updated_at": "2026-05-28T07:39:56Z"
   }
 ]
