@@ -1,45 +1,21 @@
 {
-  "generated_at": "2026-05-28 15:55:38",
+  "generated_at": "2026-05-28 18:37:22",
   "news": [
     {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "url": "https://lenz.io/research/llm-disagreement",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
       "source": "Hacker News",
-      "time": "2026-05-28 12:20",
-      "score": 402,
-      "comments": 268
+      "time": "2026-05-28 13:02",
+      "score": 117,
+      "comments": 64
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "source": "Hacker News",
       "time": "2026-05-27 20:00",
-      "score": 1139,
-      "comments": 675
-    },
-    {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "source": "Hacker News",
-      "time": "2026-05-28 10:56",
-      "score": 279,
-      "comments": 121
-    },
-    {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "source": "Hacker News",
-      "time": "2026-05-27 16:39",
-      "score": 1019,
-      "comments": 1128
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "source": "Hacker News",
-      "time": "2026-05-28 13:02",
-      "score": 13,
-      "comments": 14
+      "score": 1223,
+      "comments": 726
     }
   ]
 }

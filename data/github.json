@@ -4,18 +4,18 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 429,
+    "stars": 448,
     "language": "TypeScript",
-    "updated_at": "2026-05-28T15:48:40Z"
+    "updated_at": "2026-05-28T18:18:14Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 105,
+    "stars": 106,
     "language": "Python",
-    "updated_at": "2026-05-28T14:48:51Z"
+    "updated_at": "2026-05-28T18:26:25Z"
   },
   {
     "name": "Project-Onyx",
@@ -42,25 +42,25 @@
     "url": "https://github.com/Gao-Ruilin/AutoRun",
     "stars": 50,
     "language": "Python",
-    "updated_at": "2026-05-28T14:36:14Z"
-  },
-  {
-    "name": "Open-Mythos-2",
-    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
-    "description": "This is an attempt to make original open mythos better with chat ui.",
-    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 43,
-    "language": "Python",
-    "updated_at": "2026-05-28T12:26:21Z"
+    "updated_at": "2026-05-28T16:32:21Z"
   },
   {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 43,
+    "stars": 45,
     "language": "PHP",
-    "updated_at": "2026-05-28T15:03:51Z"
+    "updated_at": "2026-05-28T18:26:45Z"
+  },
+  {
+    "name": "Open-Mythos-2",
+    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
+    "description": "This is an attempt to make original open mythos better with chat ui.",
+    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
+    "stars": 44,
+    "language": "Python",
+    "updated_at": "2026-05-28T17:11:53Z"
   },
   {
     "name": "plumb-mcp",
