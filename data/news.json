@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-28 18:37:22",
+  "generated_at": "2026-05-28 21:54:28",
   "news": [
+    {
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "source": "Hacker News",
+      "time": "2026-05-28 19:02",
+      "score": 82,
+      "comments": 44
+    },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
       "source": "Hacker News",
       "time": "2026-05-28 13:02",
-      "score": 117,
-      "comments": 64
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "source": "Hacker News",
-      "time": "2026-05-27 20:00",
-      "score": 1223,
-      "comments": 726
+      "score": 191,
+      "comments": 93
     }
   ]
 }
