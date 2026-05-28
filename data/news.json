@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-05-27 21:55:02",
+  "generated_at": "2026-05-28 03:38:47",
   "news": [
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "source": "Hacker News",
       "time": "2026-05-27 20:00",
-      "score": 261,
-      "comments": 143
+      "score": 583,
+      "comments": 352
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "source": "Hacker News",
       "time": "2026-05-27 16:39",
-      "score": 493,
-      "comments": 595
+      "score": 694,
+      "comments": 861
     },
     {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
       "source": "Hacker News",
-      "time": "2026-05-27 19:51",
-      "score": 43,
-      "comments": 6
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "source": "Hacker News",
-      "time": "2026-05-27 16:28",
-      "score": 539,
-      "comments": 272
+      "time": "2026-05-28 02:21",
+      "score": 1,
+      "comments": 0
     }
   ]
 }

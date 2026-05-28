@@ -4,72 +4,72 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 326,
+    "stars": 369,
     "language": "TypeScript",
-    "updated_at": "2026-05-27T21:46:53Z"
+    "updated_at": "2026-05-28T03:34:27Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 82,
+    "stars": 94,
     "language": "Python",
-    "updated_at": "2026-05-27T18:40:05Z"
+    "updated_at": "2026-05-28T02:50:58Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 80,
+    "stars": 83,
     "language": "C",
-    "updated_at": "2026-05-27T21:47:11Z"
+    "updated_at": "2026-05-28T03:15:55Z"
   },
   {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 60,
+    "stars": 61,
     "language": "JavaScript",
-    "updated_at": "2026-05-27T12:40:06Z"
-  },
-  {
-    "name": "Open-Mythos-2",
-    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
-    "description": "This is an attempt to make original open mythos better with chat ui.",
-    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 37,
-    "language": "Python",
-    "updated_at": "2026-05-27T19:16:19Z"
-  },
-  {
-    "name": "singulary",
-    "full_name": "sammwyy/singulary",
-    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
-    "url": "https://github.com/sammwyy/singulary",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-05-27T15:17:11Z"
-  },
-  {
-    "name": "plumb-mcp",
-    "full_name": "tathagat22/plumb-mcp",
-    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
-    "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 36,
-    "language": "TypeScript",
-    "updated_at": "2026-05-27T20:42:47Z"
+    "updated_at": "2026-05-27T23:29:45Z"
   },
   {
     "name": "AutoRun",
     "full_name": "Gao-Ruilin/AutoRun",
     "description": "An AI agent for coding and others",
     "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 35,
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-05-27T14:28:03Z"
+    "updated_at": "2026-05-28T02:25:01Z"
+  },
+  {
+    "name": "Open-Mythos-2",
+    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
+    "description": "This is an attempt to make original open mythos better with chat ui.",
+    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-05-28T01:18:11Z"
+  },
+  {
+    "name": "singulary",
+    "full_name": "sammwyy/singulary",
+    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
+    "url": "https://github.com/sammwyy/singulary",
+    "stars": 38,
+    "language": "TypeScript",
+    "updated_at": "2026-05-27T22:48:06Z"
+  },
+  {
+    "name": "plumb-mcp",
+    "full_name": "tathagat22/plumb-mcp",
+    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
+    "url": "https://github.com/tathagat22/plumb-mcp",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-05-27T23:31:35Z"
   },
   {
     "name": "risolju-1.0",
@@ -81,12 +81,12 @@
     "updated_at": "2026-05-27T09:46:36Z"
   },
   {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 27,
-    "language": "TypeScript",
-    "updated_at": "2026-05-27T09:52:02Z"
+    "name": "bricks-mcp-open",
+    "full_name": "developer2013/bricks-mcp-open",
+    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
+    "url": "https://github.com/developer2013/bricks-mcp-open",
+    "stars": 32,
+    "language": "PHP",
+    "updated_at": "2026-05-28T00:30:38Z"
   }
 ]
