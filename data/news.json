@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-05-29 11:32:25",
+  "generated_at": "2026-05-29 15:32:42",
   "news": [
     {
-      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
-      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
       "source": "Hacker News",
-      "time": "2026-05-29 09:34",
-      "score": 25,
-      "comments": 18
+      "time": "2026-05-29 13:50",
+      "score": 539,
+      "comments": 213
     },
     {
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "title": "Expertise in the Age of AI",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
       "source": "Hacker News",
-      "time": "2026-05-29 09:47",
-      "score": 28,
-      "comments": 24
-    },
-    {
-      "title": "Is This Sustainable?",
-      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-      "source": "Hacker News",
-      "time": "2026-05-29 10:14",
-      "score": 6,
-      "comments": 7
-    },
-    {
-      "title": "Orchestrating AI code review at scale",
-      "url": "https://blog.cloudflare.com/ai-code-review/",
-      "source": "Hacker News",
-      "time": "2026-05-26 07:06",
-      "score": 21,
-      "comments": 10
+      "time": "2026-05-29 13:35",
+      "score": 31,
+      "comments": 12
     }
   ]
 }
