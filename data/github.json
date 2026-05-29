@@ -4,27 +4,36 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 490,
+    "stars": 502,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T07:29:11Z"
+    "updated_at": "2026-05-29T11:16:50Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 112,
+    "stars": 114,
     "language": "Python",
-    "updated_at": "2026-05-29T04:47:39Z"
+    "updated_at": "2026-05-29T09:59:06Z"
   },
   {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
     "url": "https://github.com/X-3306/Project-Onyx",
-    "stars": 87,
+    "stars": 88,
     "language": "C",
-    "updated_at": "2026-05-29T02:05:53Z"
+    "updated_at": "2026-05-29T10:05:54Z"
+  },
+  {
+    "name": "AutoRun",
+    "full_name": "Gao-Ruilin/AutoRun",
+    "description": "An AI agent for coding and others",
+    "url": "https://github.com/Gao-Ruilin/AutoRun",
+    "stars": 69,
+    "language": "Python",
+    "updated_at": "2026-05-29T08:38:12Z"
   },
   {
     "name": "Spiderbrain-V3",
@@ -34,15 +43,6 @@
     "stars": 61,
     "language": "JavaScript",
     "updated_at": "2026-05-27T23:29:45Z"
-  },
-  {
-    "name": "AutoRun",
-    "full_name": "Gao-Ruilin/AutoRun",
-    "description": "An AI agent for coding and others",
-    "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 51,
-    "language": "Python",
-    "updated_at": "2026-05-29T07:50:35Z"
   },
   {
     "name": "bricks-mcp-open",
@@ -72,6 +72,15 @@
     "updated_at": "2026-05-29T04:00:00Z"
   },
   {
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 41,
+    "language": "TypeScript",
+    "updated_at": "2026-05-29T10:16:36Z"
+  },
+  {
     "name": "singulary",
     "full_name": "sammwyy/singulary",
     "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
@@ -79,14 +88,5 @@
     "stars": 38,
     "language": "TypeScript",
     "updated_at": "2026-05-27T22:48:06Z"
-  },
-  {
-    "name": "risolju-1.0",
-    "full_name": "jaehwan02/risolju-1.0",
-    "description": "리설주 1.0 - 북한 AI",
-    "url": "https://github.com/jaehwan02/risolju-1.0",
-    "stars": 35,
-    "language": "TypeScript",
-    "updated_at": "2026-05-29T04:01:09Z"
   }
 ]
