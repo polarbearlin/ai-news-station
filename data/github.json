@@ -4,18 +4,18 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 477,
+    "stars": 490,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T03:24:40Z"
+    "updated_at": "2026-05-29T07:29:11Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 110,
+    "stars": 112,
     "language": "Python",
-    "updated_at": "2026-05-29T02:45:48Z"
+    "updated_at": "2026-05-29T04:47:39Z"
   },
   {
     "name": "Project-Onyx",
@@ -40,18 +40,18 @@
     "full_name": "Gao-Ruilin/AutoRun",
     "description": "An AI agent for coding and others",
     "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 50,
+    "stars": 51,
     "language": "Python",
-    "updated_at": "2026-05-28T16:32:21Z"
+    "updated_at": "2026-05-29T07:50:35Z"
   },
   {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 46,
+    "stars": 47,
     "language": "PHP",
-    "updated_at": "2026-05-28T19:57:43Z"
+    "updated_at": "2026-05-29T06:37:40Z"
   },
   {
     "name": "Open-Mythos-2",
@@ -67,9 +67,9 @@
     "full_name": "tathagat22/plumb-mcp",
     "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
     "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T02:18:06Z"
+    "updated_at": "2026-05-29T04:00:00Z"
   },
   {
     "name": "singulary",
@@ -85,8 +85,8 @@
     "full_name": "jaehwan02/risolju-1.0",
     "description": "리설주 1.0 - 북한 AI",
     "url": "https://github.com/jaehwan02/risolju-1.0",
-    "stars": 34,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-05-28T07:39:56Z"
+    "updated_at": "2026-05-29T04:01:09Z"
   }
 ]
