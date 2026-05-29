@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-05-29 18:33:17",
+  "generated_at": "2026-05-29 21:51:49",
   "news": [
     {
       "title": "Notes from the Mistral AI Now Summit in Paris",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "source": "Hacker News",
       "time": "2026-05-29 16:22",
-      "score": 152,
-      "comments": 26
+      "score": 271,
+      "comments": 80
     },
     {
-      "title": "CAPTCHAs can still detect AI agents",
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "source": "Hacker News",
-      "time": "2026-05-29 15:57",
-      "score": 35,
-      "comments": 20
+      "time": "2026-05-29 19:16",
+      "score": 33,
+      "comments": 53
+    },
+    {
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "source": "Hacker News",
+      "time": "2026-05-29 19:38",
+      "score": 36,
+      "comments": 3
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "source": "Hacker News",
+      "time": "2026-05-29 16:19",
+      "score": 108,
+      "comments": 32
     }
   ]
 }
