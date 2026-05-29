@@ -4,18 +4,18 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 505,
+    "stars": 509,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T14:24:25Z"
+    "updated_at": "2026-05-29T18:26:08Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 115,
+    "stars": 116,
     "language": "Python",
-    "updated_at": "2026-05-29T14:36:33Z"
+    "updated_at": "2026-05-29T15:55:49Z"
   },
   {
     "name": "Project-Onyx",
@@ -63,6 +63,15 @@
     "updated_at": "2026-05-29T06:37:40Z"
   },
   {
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-05-29T16:31:13Z"
+  },
+  {
     "name": "plumb-mcp",
     "full_name": "tathagat22/plumb-mcp",
     "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-05-29T12:26:31Z"
   },
   {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 43,
+    "name": "WorkShadow",
+    "full_name": "FutureUniant/WorkShadow",
+    "description": "如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours.",
+    "url": "https://github.com/FutureUniant/WorkShadow",
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T14:08:08Z"
-  },
-  {
-    "name": "singulary",
-    "full_name": "sammwyy/singulary",
-    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
-    "url": "https://github.com/sammwyy/singulary",
-    "stars": 39,
-    "language": "TypeScript",
-    "updated_at": "2026-05-29T13:58:30Z"
+    "updated_at": "2026-05-29T16:00:05Z"
   }
 ]

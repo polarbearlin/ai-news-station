@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-29 15:32:42",
+  "generated_at": "2026-05-29 18:33:17",
   "news": [
     {
-      "title": "Please Use AI",
-      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "source": "Hacker News",
-      "time": "2026-05-29 13:50",
-      "score": 539,
-      "comments": 213
+      "time": "2026-05-29 16:22",
+      "score": 152,
+      "comments": 26
     },
     {
-      "title": "Expertise in the Age of AI",
-      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "title": "CAPTCHAs can still detect AI agents",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
       "source": "Hacker News",
-      "time": "2026-05-29 13:35",
-      "score": 31,
-      "comments": 12
+      "time": "2026-05-29 15:57",
+      "score": 35,
+      "comments": 20
     }
   ]
 }
