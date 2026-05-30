@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-05-30 06:45:14",
+  "generated_at": "2026-05-30 10:00:36",
   "news": [
+    {
+      "title": "Algebraic Effects for the Rest of Us",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "source": "Hacker News",
+      "time": "2026-05-26 17:38",
+      "score": 55,
+      "comments": 31
+    },
+    {
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+      "source": "Hacker News",
+      "time": "2026-05-30 09:18",
+      "score": 6,
+      "comments": 1
+    },
     {
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "source": "Hacker News",
       "time": "2026-05-29 16:22",
-      "score": 336,
-      "comments": 127
-    },
-    {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "source": "Hacker News",
-      "time": "2026-05-29 19:16",
-      "score": 117,
-      "comments": 175
+      "score": 377,
+      "comments": 155
     }
   ]
 }

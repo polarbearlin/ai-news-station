@@ -2,11 +2,11 @@
   {
     "name": "adhd",
     "full_name": "UditAkhourii/adhd",
-    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 522,
+    "stars": 539,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T06:20:43Z"
+    "updated_at": "2026-05-30T09:57:52Z"
   },
   {
     "name": "filetree-skill",
@@ -36,22 +36,22 @@
     "updated_at": "2026-05-29T12:32:13Z"
   },
   {
-    "name": "bricks-mcp-open",
-    "full_name": "developer2013/bricks-mcp-open",
-    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
-    "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 49,
-    "language": "PHP",
-    "updated_at": "2026-05-30T03:06:55Z"
-  },
-  {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 48,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T04:44:24Z"
+    "updated_at": "2026-05-30T09:48:07Z"
+  },
+  {
+    "name": "bricks-mcp-open",
+    "full_name": "developer2013/bricks-mcp-open",
+    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
+    "url": "https://github.com/developer2013/bricks-mcp-open",
+    "stars": 50,
+    "language": "PHP",
+    "updated_at": "2026-05-30T07:08:49Z"
   },
   {
     "name": "WorkShadow",
@@ -76,17 +76,17 @@
     "full_name": "sammwyy/singulary",
     "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
     "url": "https://github.com/sammwyy/singulary",
-    "stars": 39,
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T13:58:30Z"
+    "updated_at": "2026-05-30T07:42:01Z"
   },
   {
     "name": "PixelRAG",
     "full_name": "StarTrail-org/PixelRAG",
     "description": "The end of web parsing. The beginning of scalable pixel-native search.",
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "stars": 29,
+    "stars": 30,
     "language": "JSON",
-    "updated_at": "2026-05-30T06:32:38Z"
+    "updated_at": "2026-05-30T08:29:15Z"
   }
 ]
