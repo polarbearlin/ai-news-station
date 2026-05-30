@@ -4,9 +4,9 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 519,
+    "stars": 522,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T03:18:25Z"
+    "updated_at": "2026-05-30T06:20:43Z"
   },
   {
     "name": "filetree-skill",
@@ -49,9 +49,9 @@
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 47,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T02:14:31Z"
+    "updated_at": "2026-05-30T04:44:24Z"
   },
   {
     "name": "WorkShadow",
@@ -63,6 +63,15 @@
     "updated_at": "2026-05-29T16:00:05Z"
   },
   {
+    "name": "polymarket-arbitrage-bot",
+    "full_name": "dexoryn-china/polymarket-arbitrage-bot",
+    "description": "Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent trading bot Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent ",
+    "url": "https://github.com/dexoryn-china/polymarket-arbitrage-bot",
+    "stars": 42,
+    "language": "Python",
+    "updated_at": "2026-05-30T05:39:15Z"
+  },
+  {
     "name": "singulary",
     "full_name": "sammwyy/singulary",
     "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-05-29T13:58:30Z"
   },
   {
-    "name": "CopBot-AI-",
-    "full_name": "Mohana05245/CopBot-AI-",
-    "description": "AI-powered multilingual FIR drafting assistant using Flask, NLP, and Machine Learning.",
-    "url": "https://github.com/Mohana05245/CopBot-AI-",
+    "name": "PixelRAG",
+    "full_name": "StarTrail-org/PixelRAG",
+    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
+    "url": "https://github.com/StarTrail-org/PixelRAG",
     "stars": 29,
-    "language": "Python",
-    "updated_at": "2026-05-28T17:04:09Z"
-  },
-  {
-    "name": "o3-code",
-    "full_name": "o3dotdev/o3-code",
-    "description": "O3 Code brings the Codex desktop experience to a local browser with bridge-powered access to your Mac, workspace, tools, and running agent sessions.",
-    "url": "https://github.com/o3dotdev/o3-code",
-    "stars": 28,
-    "language": "JavaScript",
-    "updated_at": "2026-05-29T11:26:40Z"
+    "language": "JSON",
+    "updated_at": "2026-05-30T06:32:38Z"
   }
 ]
