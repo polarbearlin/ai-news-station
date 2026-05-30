@@ -4,18 +4,27 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 513,
+    "stars": 519,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T20:07:47Z"
+    "updated_at": "2026-05-30T03:18:25Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 116,
+    "stars": 117,
     "language": "Python",
-    "updated_at": "2026-05-29T15:55:49Z"
+    "updated_at": "2026-05-30T00:31:54Z"
+  },
+  {
+    "name": "AutoRun",
+    "full_name": "Gao-Ruilin/AutoRun",
+    "description": "An AI agent for coding and others",
+    "url": "https://github.com/Gao-Ruilin/AutoRun",
+    "stars": 101,
+    "language": "Python",
+    "updated_at": "2026-05-30T01:37:28Z"
   },
   {
     "name": "Project-Onyx",
@@ -27,58 +36,22 @@
     "updated_at": "2026-05-29T12:32:13Z"
   },
   {
-    "name": "AutoRun",
-    "full_name": "Gao-Ruilin/AutoRun",
-    "description": "An AI agent for coding and others",
-    "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 80,
-    "language": "Python",
-    "updated_at": "2026-05-29T12:55:40Z"
-  },
-  {
-    "name": "Spiderbrain-V3",
-    "full_name": "SaroirCommunity/Spiderbrain-V3",
-    "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
-    "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 61,
-    "language": "JavaScript",
-    "updated_at": "2026-05-27T23:29:45Z"
-  },
-  {
-    "name": "Open-Mythos-2",
-    "full_name": "creatorofsomethingthatisgood/Open-Mythos-2",
-    "description": "This is an attempt to make original open mythos better with chat ui.",
-    "url": "https://github.com/creatorofsomethingthatisgood/Open-Mythos-2",
-    "stars": 47,
-    "language": "Python",
-    "updated_at": "2026-05-29T13:43:09Z"
-  },
-  {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 47,
+    "stars": 49,
     "language": "PHP",
-    "updated_at": "2026-05-29T06:37:40Z"
+    "updated_at": "2026-05-30T03:06:55Z"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 45,
+    "stars": 47,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T20:01:41Z"
-  },
-  {
-    "name": "plumb-mcp",
-    "full_name": "tathagat22/plumb-mcp",
-    "description": "Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.",
-    "url": "https://github.com/tathagat22/plumb-mcp",
-    "stars": 44,
-    "language": "TypeScript",
-    "updated_at": "2026-05-29T12:26:31Z"
+    "updated_at": "2026-05-30T02:14:31Z"
   },
   {
     "name": "WorkShadow",
@@ -88,5 +61,32 @@
     "stars": 42,
     "language": "TypeScript",
     "updated_at": "2026-05-29T16:00:05Z"
+  },
+  {
+    "name": "singulary",
+    "full_name": "sammwyy/singulary",
+    "description": "Self-host your own AI app builder: FOSS v0/Lovable like.",
+    "url": "https://github.com/sammwyy/singulary",
+    "stars": 39,
+    "language": "TypeScript",
+    "updated_at": "2026-05-29T13:58:30Z"
+  },
+  {
+    "name": "CopBot-AI-",
+    "full_name": "Mohana05245/CopBot-AI-",
+    "description": "AI-powered multilingual FIR drafting assistant using Flask, NLP, and Machine Learning.",
+    "url": "https://github.com/Mohana05245/CopBot-AI-",
+    "stars": 29,
+    "language": "Python",
+    "updated_at": "2026-05-28T17:04:09Z"
+  },
+  {
+    "name": "o3-code",
+    "full_name": "o3dotdev/o3-code",
+    "description": "O3 Code brings the Codex desktop experience to a local browser with bridge-powered access to your Mac, workspace, tools, and running agent sessions.",
+    "url": "https://github.com/o3dotdev/o3-code",
+    "stars": 28,
+    "language": "JavaScript",
+    "updated_at": "2026-05-29T11:26:40Z"
   }
 ]
