@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-05-30 13:38:53",
+  "generated_at": "2026-05-30 17:05:00",
   "news": [
+    {
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "source": "Hacker News",
+      "time": "2026-05-30 13:56",
+      "score": 340,
+      "comments": 351
+    },
+    {
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "source": "Hacker News",
+      "time": "2026-05-26 22:15",
+      "score": 83,
+      "comments": 19
+    },
     {
       "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
       "url": "https://helios.southlondonscientific.com/",
       "source": "Hacker News",
       "time": "2026-05-30 11:08",
-      "score": 29,
-      "comments": 6
+      "score": 77,
+      "comments": 20
     }
   ]
 }
