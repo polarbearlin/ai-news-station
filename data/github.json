@@ -4,18 +4,18 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 567,
+    "stars": 584,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T16:53:02Z"
+    "updated_at": "2026-05-30T20:53:32Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 118,
+    "stars": 120,
     "language": "Python",
-    "updated_at": "2026-05-30T13:22:36Z"
+    "updated_at": "2026-05-30T18:34:49Z"
   },
   {
     "name": "AutoRun",
@@ -27,6 +27,15 @@
     "updated_at": "2026-05-30T01:37:28Z"
   },
   {
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 93,
+    "language": "TypeScript",
+    "updated_at": "2026-05-30T20:06:34Z"
+  },
+  {
     "name": "Project-Onyx",
     "full_name": "X-3306/Project-Onyx",
     "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
@@ -36,22 +45,22 @@
     "updated_at": "2026-05-29T12:32:13Z"
   },
   {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 82,
-    "language": "TypeScript",
-    "updated_at": "2026-05-30T16:25:20Z"
-  },
-  {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 51,
+    "stars": 52,
     "language": "PHP",
-    "updated_at": "2026-05-30T10:11:53Z"
+    "updated_at": "2026-05-30T18:25:23Z"
+  },
+  {
+    "name": "image-extender",
+    "full_name": "boona13/image-extender",
+    "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
+    "url": "https://github.com/boona13/image-extender",
+    "stars": 47,
+    "language": "TypeScript",
+    "updated_at": "2026-05-30T20:43:50Z"
   },
   {
     "name": "WorkShadow",
@@ -79,14 +88,5 @@
     "stars": 40,
     "language": "TypeScript",
     "updated_at": "2026-05-30T07:42:01Z"
-  },
-  {
-    "name": "image-extender",
-    "full_name": "boona13/image-extender",
-    "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-    "url": "https://github.com/boona13/image-extender",
-    "stars": 34,
-    "language": "TypeScript",
-    "updated_at": "2026-05-30T16:57:40Z"
   }
 ]

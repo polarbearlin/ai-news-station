@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-05-30 17:05:00",
+  "generated_at": "2026-05-30 20:57:49",
   "news": [
     {
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
       "source": "Hacker News",
-      "time": "2026-05-30 13:56",
-      "score": 340,
-      "comments": 351
+      "time": "2026-05-30 17:27",
+      "score": 243,
+      "comments": 110
     },
     {
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
       "source": "Hacker News",
-      "time": "2026-05-26 22:15",
-      "score": 83,
-      "comments": 19
-    },
-    {
-      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "url": "https://helios.southlondonscientific.com/",
-      "source": "Hacker News",
-      "time": "2026-05-30 11:08",
-      "score": 77,
-      "comments": 20
+      "time": "2026-05-30 18:19",
+      "score": 102,
+      "comments": 56
     }
   ]
 }
