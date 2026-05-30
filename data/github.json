@@ -4,18 +4,18 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 539,
+    "stars": 548,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T09:57:52Z"
+    "updated_at": "2026-05-30T13:08:20Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 117,
+    "stars": 118,
     "language": "Python",
-    "updated_at": "2026-05-30T00:31:54Z"
+    "updated_at": "2026-05-30T13:22:36Z"
   },
   {
     "name": "AutoRun",
@@ -40,27 +40,27 @@
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 52,
+    "stars": 60,
     "language": "TypeScript",
-    "updated_at": "2026-05-30T09:48:07Z"
+    "updated_at": "2026-05-30T13:37:27Z"
   },
   {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 50,
+    "stars": 51,
     "language": "PHP",
-    "updated_at": "2026-05-30T07:08:49Z"
+    "updated_at": "2026-05-30T10:11:53Z"
   },
   {
     "name": "WorkShadow",
     "full_name": "FutureUniant/WorkShadow",
     "description": "如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours.",
     "url": "https://github.com/FutureUniant/WorkShadow",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-05-29T16:00:05Z"
+    "updated_at": "2026-05-30T10:07:41Z"
   },
   {
     "name": "polymarket-arbitrage-bot",
@@ -85,8 +85,8 @@
     "full_name": "StarTrail-org/PixelRAG",
     "description": "The end of web parsing. The beginning of scalable pixel-native search.",
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "stars": 30,
+    "stars": 31,
     "language": "JSON",
-    "updated_at": "2026-05-30T08:29:15Z"
+    "updated_at": "2026-05-30T12:16:32Z"
   }
 ]

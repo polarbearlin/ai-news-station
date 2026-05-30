@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-05-30 10:00:36",
+  "generated_at": "2026-05-30 13:38:53",
   "news": [
     {
-      "title": "Algebraic Effects for the Rest of Us",
-      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "url": "https://helios.southlondonscientific.com/",
       "source": "Hacker News",
-      "time": "2026-05-26 17:38",
-      "score": 55,
-      "comments": 31
-    },
-    {
-      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
-      "source": "Hacker News",
-      "time": "2026-05-30 09:18",
-      "score": 6,
-      "comments": 1
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "source": "Hacker News",
-      "time": "2026-05-29 16:22",
-      "score": 377,
-      "comments": 155
+      "time": "2026-05-30 11:08",
+      "score": 29,
+      "comments": 6
     }
   ]
 }
