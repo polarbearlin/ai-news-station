@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-05-31 13:45:29",
+  "generated_at": "2026-05-31 17:05:50",
   "news": [
     {
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
       "source": "Hacker News",
-      "time": "2026-05-30 20:40",
-      "score": 700,
-      "comments": 407
+      "time": "2026-05-31 14:23",
+      "score": 243,
+      "comments": 148
+    },
+    {
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "source": "Hacker News",
+      "time": "2026-05-31 15:04",
+      "score": 83,
+      "comments": 19
+    },
+    {
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "source": "Hacker News",
+      "time": "2026-05-31 16:37",
+      "score": 10,
+      "comments": 0
+    },
+    {
+      "title": "Odysseus – self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "source": "Hacker News",
+      "time": "2026-05-31 15:50",
+      "score": 25,
+      "comments": 15
     }
   ]
 }
