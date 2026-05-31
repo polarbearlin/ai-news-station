@@ -4,9 +4,9 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 623,
+    "stars": 629,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T07:43:55Z"
+    "updated_at": "2026-05-31T09:43:41Z"
   },
   {
     "name": "polymarket-arbitrage-trading-bot",
@@ -22,9 +22,9 @@
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 129,
+    "stars": 139,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T07:35:17Z"
+    "updated_at": "2026-05-31T10:13:19Z"
   },
   {
     "name": "filetree-skill",
@@ -49,9 +49,9 @@
     "full_name": "boona13/image-extender",
     "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
     "url": "https://github.com/boona13/image-extender",
-    "stars": 61,
+    "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T07:32:56Z"
+    "updated_at": "2026-05-31T09:51:41Z"
   },
   {
     "name": "bricks-mcp-open",
