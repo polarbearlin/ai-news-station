@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-05-31 03:54:27",
+  "generated_at": "2026-05-31 07:46:06",
   "news": [
     {
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "source": "Hacker News",
       "time": "2026-05-30 20:40",
-      "score": 344,
-      "comments": 215
-    },
-    {
-      "title": "Racket v9.2 is now available",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "source": "Hacker News",
-      "time": "2026-05-28 09:42",
-      "score": 54,
-      "comments": 4
+      "score": 521,
+      "comments": 310
     }
   ]
 }
