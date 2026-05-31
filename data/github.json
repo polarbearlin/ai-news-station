@@ -4,9 +4,9 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 629,
+    "stars": 637,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T09:43:41Z"
+    "updated_at": "2026-05-31T13:35:02Z"
   },
   {
     "name": "polymarket-arbitrage-trading-bot",
@@ -22,27 +22,27 @@
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 139,
+    "stars": 147,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T10:13:19Z"
+    "updated_at": "2026-05-31T13:31:02Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 125,
+    "stars": 126,
     "language": "Python",
-    "updated_at": "2026-05-31T02:26:32Z"
+    "updated_at": "2026-05-31T12:07:19Z"
   },
   {
     "name": "AutoRun",
     "full_name": "Gao-Ruilin/AutoRun",
     "description": "An AI agent for coding and others",
     "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 101,
+    "stars": 102,
     "language": "Python",
-    "updated_at": "2026-05-30T01:37:28Z"
+    "updated_at": "2026-05-31T13:33:38Z"
   },
   {
     "name": "image-extender",
@@ -58,9 +58,9 @@
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 52,
+    "stars": 53,
     "language": "PHP",
-    "updated_at": "2026-05-30T18:25:23Z"
+    "updated_at": "2026-05-31T12:04:50Z"
   },
   {
     "name": "WorkShadow",
@@ -85,8 +85,8 @@
     "full_name": "StarTrail-org/PixelRAG",
     "description": "The end of web parsing. The beginning of scalable pixel-native search.",
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "stars": 33,
+    "stars": 34,
     "language": "JSON",
-    "updated_at": "2026-05-31T06:32:56Z"
+    "updated_at": "2026-05-31T12:41:04Z"
   }
 ]
