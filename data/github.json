@@ -4,27 +4,27 @@
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 643,
+    "stars": 652,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T17:05:23Z"
+    "updated_at": "2026-05-31T20:54:17Z"
   },
   {
     "name": "polymarket-arbitrage-trading-bot",
     "full_name": "polymaxi2/polymarket-arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
     "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 203,
+    "stars": 255,
     "language": null,
-    "updated_at": "2026-05-31T03:29:24Z"
+    "updated_at": "2026-05-31T20:07:34Z"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 160,
+    "stars": 170,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T16:48:30Z"
+    "updated_at": "2026-05-31T19:50:56Z"
   },
   {
     "name": "filetree-skill",
@@ -49,9 +49,9 @@
     "full_name": "boona13/image-extender",
     "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
     "url": "https://github.com/boona13/image-extender",
-    "stars": 63,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T09:51:41Z"
+    "updated_at": "2026-05-31T19:39:56Z"
   },
   {
     "name": "bricks-mcp-open",
@@ -63,6 +63,24 @@
     "updated_at": "2026-05-31T14:07:49Z"
   },
   {
+    "name": "Raycast-Pro-cracked",
+    "full_name": "HeartWoodpeckerRepel/Raycast-Pro-cracked",
+    "description": "Raycast Pro - macOS launcher with extensions, AI, and developer tools. Official page with installation notes, activation guidance, and configuration tips.",
+    "url": "https://github.com/HeartWoodpeckerRepel/Raycast-Pro-cracked",
+    "stars": 50,
+    "language": null,
+    "updated_at": "2026-05-31T17:39:25Z"
+  },
+  {
+    "name": "KeyType",
+    "full_name": "johnbean393/KeyType",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+    "url": "https://github.com/johnbean393/KeyType",
+    "stars": 49,
+    "language": "Swift",
+    "updated_at": "2026-05-31T20:54:29Z"
+  },
+  {
     "name": "WorkShadow",
     "full_name": "FutureUniant/WorkShadow",
     "description": "如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours.",
@@ -70,23 +88,5 @@
     "stars": 42,
     "language": "TypeScript",
     "updated_at": "2026-05-31T02:16:00Z"
-  },
-  {
-    "name": "polymarket-arbitrage-bot",
-    "full_name": "dexoryn-china/polymarket-arbitrage-bot",
-    "description": "Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent trading bot Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent ",
-    "url": "https://github.com/dexoryn-china/polymarket-arbitrage-bot",
-    "stars": 42,
-    "language": "Python",
-    "updated_at": "2026-05-30T05:39:15Z"
-  },
-  {
-    "name": "PixelRAG",
-    "full_name": "StarTrail-org/PixelRAG",
-    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-    "url": "https://github.com/StarTrail-org/PixelRAG",
-    "stars": 34,
-    "language": "JSON",
-    "updated_at": "2026-05-31T12:41:04Z"
   }
 ]

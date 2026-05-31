@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-31 17:05:50",
+  "generated_at": "2026-05-31 21:00:00",
   "news": [
-    {
-      "title": "The solution might be cancelling my AI subscription",
-      "url": "https://thoughts.hmmz.org/2026-05-31.html",
-      "source": "Hacker News",
-      "time": "2026-05-31 14:23",
-      "score": 243,
-      "comments": 148
-    },
     {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
       "source": "Hacker News",
       "time": "2026-05-31 15:04",
-      "score": 83,
-      "comments": 19
+      "score": 196,
+      "comments": 71
+    },
+    {
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "source": "Hacker News",
+      "time": "2026-05-31 16:19",
+      "score": 346,
+      "comments": 244
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
       "source": "Hacker News",
       "time": "2026-05-31 16:37",
-      "score": 10,
-      "comments": 0
+      "score": 72,
+      "comments": 45
     },
     {
-      "title": "Odysseus – self-hosted AI workspace",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "source": "Hacker News",
-      "time": "2026-05-31 15:50",
-      "score": 25,
-      "comments": 15
+      "time": "2026-05-31 12:41",
+      "score": 175,
+      "comments": 270
     }
   ]
 }
