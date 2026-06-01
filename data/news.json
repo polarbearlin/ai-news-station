@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-05-31 21:00:00",
+  "generated_at": "2026-06-01 04:07:15",
   "news": [
     {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
       "source": "Hacker News",
       "time": "2026-05-31 15:04",
-      "score": 196,
-      "comments": 71
-    },
-    {
-      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "source": "Hacker News",
-      "time": "2026-05-31 16:19",
-      "score": 346,
-      "comments": 244
-    },
-    {
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "source": "Hacker News",
-      "time": "2026-05-31 16:37",
-      "score": 72,
-      "comments": 45
+      "score": 317,
+      "comments": 111
     },
     {
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "source": "Hacker News",
       "time": "2026-05-31 12:41",
-      "score": 175,
-      "comments": 270
+      "score": 300,
+      "comments": 472
+    },
+    {
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "source": "Hacker News",
+      "time": "2026-05-31 20:35",
+      "score": 110,
+      "comments": 40
     }
   ]
 }

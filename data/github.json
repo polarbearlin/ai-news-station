@@ -1,39 +1,21 @@
 [
   {
-    "name": "adhd",
-    "full_name": "UditAkhourii/adhd",
-    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-    "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 652,
-    "language": "TypeScript",
-    "updated_at": "2026-05-31T20:54:17Z"
-  },
-  {
     "name": "polymarket-arbitrage-trading-bot",
     "full_name": "polymaxi2/polymarket-arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
     "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 255,
+    "stars": 259,
     "language": null,
-    "updated_at": "2026-05-31T20:07:34Z"
-  },
-  {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 170,
-    "language": "TypeScript",
-    "updated_at": "2026-05-31T19:50:56Z"
+    "updated_at": "2026-06-01T00:21:57Z"
   },
   {
     "name": "filetree-skill",
     "full_name": "nekocode/filetree-skill",
     "description": "A Claude Code plugin that maintains `FILETREE.md`.",
     "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 126,
+    "stars": 128,
     "language": "Python",
-    "updated_at": "2026-05-31T12:07:19Z"
+    "updated_at": "2026-06-01T03:04:45Z"
   },
   {
     "name": "AutoRun",
@@ -49,9 +31,18 @@
     "full_name": "boona13/image-extender",
     "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
     "url": "https://github.com/boona13/image-extender",
-    "stars": 64,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-05-31T19:39:56Z"
+    "updated_at": "2026-06-01T04:01:04Z"
+  },
+  {
+    "name": "KeyType",
+    "full_name": "johnbean393/KeyType",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+    "url": "https://github.com/johnbean393/KeyType",
+    "stars": 71,
+    "language": "Swift",
+    "updated_at": "2026-06-01T03:49:36Z"
   },
   {
     "name": "bricks-mcp-open",
@@ -72,21 +63,30 @@
     "updated_at": "2026-05-31T17:39:25Z"
   },
   {
-    "name": "KeyType",
-    "full_name": "johnbean393/KeyType",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-    "url": "https://github.com/johnbean393/KeyType",
-    "stars": 49,
-    "language": "Swift",
-    "updated_at": "2026-05-31T20:54:29Z"
+    "name": "polymarket-arbitrage-bot",
+    "full_name": "dexoryn-china/polymarket-arbitrage-bot",
+    "description": "Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent trading bot Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent ",
+    "url": "https://github.com/dexoryn-china/polymarket-arbitrage-bot",
+    "stars": 42,
+    "language": "Python",
+    "updated_at": "2026-05-30T05:39:15Z"
   },
   {
-    "name": "WorkShadow",
-    "full_name": "FutureUniant/WorkShadow",
-    "description": "如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours.",
-    "url": "https://github.com/FutureUniant/WorkShadow",
-    "stars": 42,
-    "language": "TypeScript",
-    "updated_at": "2026-05-31T02:16:00Z"
+    "name": "PixelRAG",
+    "full_name": "StarTrail-org/PixelRAG",
+    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
+    "url": "https://github.com/StarTrail-org/PixelRAG",
+    "stars": 37,
+    "language": "JSON",
+    "updated_at": "2026-06-01T02:05:19Z"
+  },
+  {
+    "name": "context-graph-compressor",
+    "full_name": "Adityapal67/context-graph-compressor",
+    "description": "Convert long AI conversations into portable conversation state graphs for LLM handoffs.",
+    "url": "https://github.com/Adityapal67/context-graph-compressor",
+    "stars": 22,
+    "language": null,
+    "updated_at": "2026-05-31T22:53:07Z"
   }
 ]
