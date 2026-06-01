@@ -1,5 +1,14 @@
 [
   {
+    "name": "how-pi-agent-works",
+    "full_name": "cellinlab/how-pi-agent-works",
+    "description": "Pi Agent 原理与实现",
+    "url": "https://github.com/cellinlab/how-pi-agent-works",
+    "stars": 299,
+    "language": null,
+    "updated_at": "2026-06-01T12:11:31Z"
+  },
+  {
     "name": "polymarket-arbitrage-trading-bot",
     "full_name": "polymaxi2/polymarket-arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
@@ -9,49 +18,40 @@
     "updated_at": "2026-06-01T00:21:57Z"
   },
   {
-    "name": "filetree-skill",
-    "full_name": "nekocode/filetree-skill",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
-    "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 128,
-    "language": "Python",
-    "updated_at": "2026-06-01T03:04:45Z"
-  },
-  {
-    "name": "AutoRun",
-    "full_name": "Gao-Ruilin/AutoRun",
-    "description": "An AI agent for coding and others",
-    "url": "https://github.com/Gao-Ruilin/AutoRun",
-    "stars": 102,
-    "language": "Python",
-    "updated_at": "2026-05-31T13:33:38Z"
-  },
-  {
     "name": "image-extender",
     "full_name": "boona13/image-extender",
     "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
     "url": "https://github.com/boona13/image-extender",
-    "stars": 86,
+    "stars": 184,
     "language": "TypeScript",
-    "updated_at": "2026-06-01T04:01:04Z"
+    "updated_at": "2026-06-01T13:35:33Z"
+  },
+  {
+    "name": "filetree-skill",
+    "full_name": "nekocode/filetree-skill",
+    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
+    "url": "https://github.com/nekocode/filetree-skill",
+    "stars": 129,
+    "language": "Python",
+    "updated_at": "2026-06-01T07:41:06Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 71,
+    "stars": 111,
     "language": "Swift",
-    "updated_at": "2026-06-01T03:49:36Z"
+    "updated_at": "2026-06-01T13:31:00Z"
   },
   {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
     "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 54,
+    "stars": 55,
     "language": "PHP",
-    "updated_at": "2026-05-31T14:07:49Z"
+    "updated_at": "2026-06-01T09:07:00Z"
   },
   {
     "name": "Raycast-Pro-cracked",
@@ -77,16 +77,16 @@
     "description": "The end of web parsing. The beginning of scalable pixel-native search.",
     "url": "https://github.com/StarTrail-org/PixelRAG",
     "stars": 37,
-    "language": "JSON",
-    "updated_at": "2026-06-01T02:05:19Z"
+    "language": "Python",
+    "updated_at": "2026-06-01T10:55:04Z"
   },
   {
-    "name": "context-graph-compressor",
-    "full_name": "Adityapal67/context-graph-compressor",
-    "description": "Convert long AI conversations into portable conversation state graphs for LLM handoffs.",
-    "url": "https://github.com/Adityapal67/context-graph-compressor",
-    "stars": 22,
-    "language": null,
-    "updated_at": "2026-05-31T22:53:07Z"
+    "name": "loushang",
+    "full_name": "zhnt/loushang",
+    "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
+    "url": "https://github.com/zhnt/loushang",
+    "stars": 29,
+    "language": "Python",
+    "updated_at": "2026-06-01T13:22:29Z"
   }
 ]

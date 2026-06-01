@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-06-01 04:07:15",
+  "generated_at": "2026-06-01 13:36:07",
   "news": [
     {
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
+      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
       "source": "Hacker News",
-      "time": "2026-05-31 15:04",
-      "score": 317,
-      "comments": 111
-    },
-    {
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "source": "Hacker News",
-      "time": "2026-05-31 12:41",
-      "score": 300,
-      "comments": 472
-    },
-    {
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "source": "Hacker News",
-      "time": "2026-05-31 20:35",
-      "score": 110,
-      "comments": 40
+      "time": "2026-06-01 12:08",
+      "score": 67,
+      "comments": 45
     }
   ]
 }
