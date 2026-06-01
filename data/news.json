@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-06-01 13:36:07",
+  "generated_at": "2026-06-01 20:16:50",
   "news": [
     {
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "source": "Hacker News",
-      "time": "2026-06-01 12:08",
-      "score": 67,
-      "comments": 45
+      "time": "2026-06-01 16:41",
+      "score": 175,
+      "comments": 85
+    },
+    {
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "source": "Hacker News",
+      "time": "2026-06-01 16:02",
+      "score": 17,
+      "comments": 6
+    },
+    {
+      "title": "GitHub and the crime against software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "source": "Hacker News",
+      "time": "2026-06-01 18:54",
+      "score": 92,
+      "comments": 26
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "source": "Hacker News",
+      "time": "2026-06-01 16:00",
+      "score": 320,
+      "comments": 235
     }
   ]
 }
