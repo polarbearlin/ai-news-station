@@ -4,18 +4,27 @@
     "full_name": "polymaxi2/polymarket-arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
     "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 261,
+    "stars": 223,
     "language": null,
-    "updated_at": "2026-06-02T02:21:24Z"
+    "updated_at": "2026-06-02T11:25:29Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 179,
+    "stars": 200,
     "language": "Swift",
-    "updated_at": "2026-06-02T03:44:49Z"
+    "updated_at": "2026-06-02T11:02:15Z"
+  },
+  {
+    "name": "cc-fleet",
+    "full_name": "ethanhq/cc-fleet",
+    "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
+    "url": "https://github.com/ethanhq/cc-fleet",
+    "stars": 67,
+    "language": "Go",
+    "updated_at": "2026-06-02T05:49:54Z"
   },
   {
     "name": "ai-rules-sync",
@@ -27,15 +36,6 @@
     "updated_at": "2026-06-02T03:06:57Z"
   },
   {
-    "name": "cc-fleet",
-    "full_name": "ethanhq/cc-fleet",
-    "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
-    "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 57,
-    "language": "Go",
-    "updated_at": "2026-06-02T02:35:24Z"
-  },
-  {
     "name": "bricks-mcp-open",
     "full_name": "developer2013/bricks-mcp-open",
     "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
@@ -45,48 +45,48 @@
     "updated_at": "2026-06-02T03:39:29Z"
   },
   {
-    "name": "polymarket-arbitrage-bot",
-    "full_name": "dexoryn-china/polymarket-arbitrage-bot",
-    "description": "Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent trading bot Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent ",
-    "url": "https://github.com/dexoryn-china/polymarket-arbitrage-bot",
-    "stars": 42,
-    "language": "Python",
-    "updated_at": "2026-05-30T05:39:15Z"
-  },
-  {
     "name": "PixelRAG",
     "full_name": "StarTrail-org/PixelRAG",
     "description": "The end of web parsing. The beginning of scalable pixel-native search.",
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "stars": 41,
+    "stars": 42,
     "language": "Python",
-    "updated_at": "2026-06-02T03:09:46Z"
+    "updated_at": "2026-06-02T09:57:50Z"
   },
   {
     "name": "loushang",
     "full_name": "zhnt/loushang",
     "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
     "url": "https://github.com/zhnt/loushang",
-    "stars": 33,
+    "stars": 35,
     "language": "Python",
-    "updated_at": "2026-06-02T03:42:18Z"
-  },
-  {
-    "name": "context-graph-compressor",
-    "full_name": "Adityapal67/context-graph-compressor",
-    "description": "Convert long AI conversations into portable conversation state graphs for LLM handoffs.",
-    "url": "https://github.com/Adityapal67/context-graph-compressor",
-    "stars": 27,
-    "language": null,
-    "updated_at": "2026-06-01T12:22:40Z"
+    "updated_at": "2026-06-02T06:24:43Z"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 26,
+    "stars": 32,
     "language": null,
-    "updated_at": "2026-06-02T02:04:20Z"
+    "updated_at": "2026-06-02T11:52:27Z"
+  },
+  {
+    "name": "context-graph-compressor",
+    "full_name": "Adityapal67/context-graph-compressor",
+    "description": "Convert long AI conversations into portable conversation state graphs for LLM handoffs.",
+    "url": "https://github.com/Adityapal67/context-graph-compressor",
+    "stars": 28,
+    "language": null,
+    "updated_at": "2026-06-02T07:25:58Z"
+  },
+  {
+    "name": "chatgpt-gpt-5",
+    "full_name": "greennavigatorcanal/chatgpt-gpt-5",
+    "description": "ChatGPT — gpt 5. for Windows",
+    "url": "https://github.com/greennavigatorcanal/chatgpt-gpt-5",
+    "stars": 24,
+    "language": null,
+    "updated_at": "2026-06-02T00:45:20Z"
   }
 ]
