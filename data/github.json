@@ -1,75 +1,48 @@
 [
   {
-    "name": "image-extender",
-    "full_name": "boona13/image-extender",
-    "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-    "url": "https://github.com/boona13/image-extender",
-    "stars": 323,
-    "language": "TypeScript",
-    "updated_at": "2026-06-01T20:13:10Z"
-  },
-  {
-    "name": "how-pi-agent-works",
-    "full_name": "cellinlab/how-pi-agent-works",
-    "description": "Pi Agent 原理与实现",
-    "url": "https://github.com/cellinlab/how-pi-agent-works",
-    "stars": 302,
-    "language": null,
-    "updated_at": "2026-06-01T15:39:01Z"
-  },
-  {
     "name": "polymarket-arbitrage-trading-bot",
     "full_name": "polymaxi2/polymarket-arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
     "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 260,
+    "stars": 261,
     "language": null,
-    "updated_at": "2026-06-01T17:14:41Z"
+    "updated_at": "2026-06-02T02:21:24Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 146,
+    "stars": 179,
     "language": "Swift",
-    "updated_at": "2026-06-01T20:10:33Z"
+    "updated_at": "2026-06-02T03:44:49Z"
   },
   {
-    "name": "filetree-skill",
-    "full_name": "nekocode/filetree-skill",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`.",
-    "url": "https://github.com/nekocode/filetree-skill",
-    "stars": 130,
-    "language": "Python",
-    "updated_at": "2026-06-01T14:38:13Z"
-  },
-  {
-    "name": "bricks-mcp-open",
-    "full_name": "developer2013/bricks-mcp-open",
-    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
-    "url": "https://github.com/developer2013/bricks-mcp-open",
-    "stars": 56,
-    "language": "PHP",
-    "updated_at": "2026-06-01T13:47:28Z"
+    "name": "ai-rules-sync",
+    "full_name": "PanisHandsome/ai-rules-sync",
+    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+    "url": "https://github.com/PanisHandsome/ai-rules-sync",
+    "stars": 61,
+    "language": "JavaScript",
+    "updated_at": "2026-06-02T03:06:57Z"
   },
   {
     "name": "cc-fleet",
     "full_name": "ethanhq/cc-fleet",
     "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 47,
+    "stars": 57,
     "language": "Go",
-    "updated_at": "2026-06-01T16:00:48Z"
+    "updated_at": "2026-06-02T02:35:24Z"
   },
   {
-    "name": "Raycast-Pro-cracked",
-    "full_name": "HeartWoodpeckerRepel/Raycast-Pro-cracked",
-    "description": "Raycast Pro - macOS launcher with extensions, AI, and developer tools. Official page with installation notes, activation guidance, and configuration tips.",
-    "url": "https://github.com/HeartWoodpeckerRepel/Raycast-Pro-cracked",
-    "stars": 46,
-    "language": null,
-    "updated_at": "2026-06-01T19:26:39Z"
+    "name": "bricks-mcp-open",
+    "full_name": "developer2013/bricks-mcp-open",
+    "description": "The most comprehensive open-source MCP server for Bricks Builder — 105 tools for pages, templates, styles, SEO, content, and more.",
+    "url": "https://github.com/developer2013/bricks-mcp-open",
+    "stars": 57,
+    "language": "PHP",
+    "updated_at": "2026-06-02T03:39:29Z"
   },
   {
     "name": "polymarket-arbitrage-bot",
@@ -85,8 +58,35 @@
     "full_name": "StarTrail-org/PixelRAG",
     "description": "The end of web parsing. The beginning of scalable pixel-native search.",
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "stars": 38,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-06-01T19:51:34Z"
+    "updated_at": "2026-06-02T03:09:46Z"
+  },
+  {
+    "name": "loushang",
+    "full_name": "zhnt/loushang",
+    "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
+    "url": "https://github.com/zhnt/loushang",
+    "stars": 33,
+    "language": "Python",
+    "updated_at": "2026-06-02T03:42:18Z"
+  },
+  {
+    "name": "context-graph-compressor",
+    "full_name": "Adityapal67/context-graph-compressor",
+    "description": "Convert long AI conversations into portable conversation state graphs for LLM handoffs.",
+    "url": "https://github.com/Adityapal67/context-graph-compressor",
+    "stars": 27,
+    "language": null,
+    "updated_at": "2026-06-01T12:22:40Z"
+  },
+  {
+    "name": "dox",
+    "full_name": "agent0ai/dox",
+    "description": "Self-documenting AGENTS.md",
+    "url": "https://github.com/agent0ai/dox",
+    "stars": 26,
+    "language": null,
+    "updated_at": "2026-06-02T02:04:20Z"
   }
 ]

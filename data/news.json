@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-01 20:16:50",
+  "generated_at": "2026-06-02 04:01:02",
   "news": [
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
       "source": "Hacker News",
-      "time": "2026-06-01 16:41",
+      "time": "2026-06-01 23:45",
+      "score": 144,
+      "comments": 315
+    },
+    {
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "source": "Hacker News",
+      "time": "2026-06-02 01:05",
+      "score": 47,
+      "comments": 18
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "source": "Hacker News",
+      "time": "2026-06-01 21:50",
       "score": 175,
-      "comments": 85
+      "comments": 61
     },
     {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "title": "Chipotlai Max",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
       "source": "Hacker News",
-      "time": "2026-06-01 16:02",
-      "score": 17,
-      "comments": 6
-    },
-    {
-      "title": "GitHub and the crime against software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "source": "Hacker News",
-      "time": "2026-06-01 18:54",
-      "score": 92,
-      "comments": 26
-    },
-    {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "source": "Hacker News",
-      "time": "2026-06-01 16:00",
-      "score": 320,
-      "comments": 235
+      "time": "2026-06-01 23:06",
+      "score": 96,
+      "comments": 17
     }
   ]
 }
