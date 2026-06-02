@@ -1,21 +1,12 @@
 [
   {
-    "name": "polymarket-arbitrage-trading-bot",
-    "full_name": "polymaxi2/polymarket-arbitrage-trading-bot",
-    "description": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot polymarket trading bot",
-    "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-    "stars": 223,
-    "language": null,
-    "updated_at": "2026-06-02T11:25:29Z"
-  },
-  {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 200,
+    "stars": 212,
     "language": "Swift",
-    "updated_at": "2026-06-02T11:02:15Z"
+    "updated_at": "2026-06-02T18:56:40Z"
   },
   {
     "name": "cc-fleet",
@@ -24,7 +15,7 @@
     "url": "https://github.com/ethanhq/cc-fleet",
     "stars": 67,
     "language": "Go",
-    "updated_at": "2026-06-02T05:49:54Z"
+    "updated_at": "2026-06-02T14:35:50Z"
   },
   {
     "name": "ai-rules-sync",
@@ -42,7 +33,16 @@
     "url": "https://github.com/developer2013/bricks-mcp-open",
     "stars": 57,
     "language": "PHP",
-    "updated_at": "2026-06-02T03:39:29Z"
+    "updated_at": "2026-06-02T19:38:48Z"
+  },
+  {
+    "name": "komi-learn",
+    "full_name": "kurikomi-labs/komi-learn",
+    "description": "Continuous memory + self-improvement for AI agents. Learns how you work, recalls it automatically, no commands. Claude Code & Codex.",
+    "url": "https://github.com/kurikomi-labs/komi-learn",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-06-02T15:49:20Z"
   },
   {
     "name": "PixelRAG",
@@ -51,7 +51,7 @@
     "url": "https://github.com/StarTrail-org/PixelRAG",
     "stars": 42,
     "language": "Python",
-    "updated_at": "2026-06-02T09:57:50Z"
+    "updated_at": "2026-06-02T18:43:25Z"
   },
   {
     "name": "loushang",
@@ -60,16 +60,16 @@
     "url": "https://github.com/zhnt/loushang",
     "stars": 35,
     "language": "Python",
-    "updated_at": "2026-06-02T06:24:43Z"
+    "updated_at": "2026-06-02T15:22:47Z"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 32,
+    "stars": 34,
     "language": null,
-    "updated_at": "2026-06-02T11:52:27Z"
+    "updated_at": "2026-06-02T17:44:11Z"
   },
   {
     "name": "context-graph-compressor",
