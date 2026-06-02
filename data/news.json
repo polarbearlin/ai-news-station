@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-06-02 19:40:50",
+  "generated_at": "2026-06-02 22:22:37",
   "news": [
     {
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "source": "Hacker News",
       "time": "2026-06-02 18:47",
-      "score": 109,
-      "comments": 34
+      "score": 289,
+      "comments": 139
     },
     {
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "source": "Hacker News",
+      "time": "2026-06-02 19:27",
+      "score": 428,
+      "comments": 254
+    },
+    {
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "source": "Hacker News",
+      "time": "2026-06-02 19:37",
+      "score": 63,
+      "comments": 1
+    },
+    {
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
       "source": "Hacker News",
       "time": "2026-06-02 10:00",
-      "score": 507,
-      "comments": 221
-    },
-    {
-      "title": "Three Ways to Get Paid (2018)",
-      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-      "source": "Hacker News",
-      "time": "2026-06-02 17:09",
-      "score": 163,
-      "comments": 102
+      "score": 572,
+      "comments": 236
     }
   ]
 }

@@ -4,9 +4,9 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 212,
+    "stars": 216,
     "language": "Swift",
-    "updated_at": "2026-06-02T18:56:40Z"
+    "updated_at": "2026-06-02T21:48:48Z"
   },
   {
     "name": "cc-fleet",
@@ -54,6 +54,15 @@
     "updated_at": "2026-06-02T18:43:25Z"
   },
   {
+    "name": "dox",
+    "full_name": "agent0ai/dox",
+    "description": "Self-documenting AGENTS.md",
+    "url": "https://github.com/agent0ai/dox",
+    "stars": 36,
+    "language": null,
+    "updated_at": "2026-06-02T21:58:36Z"
+  },
+  {
     "name": "loushang",
     "full_name": "zhnt/loushang",
     "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
@@ -61,15 +70,6 @@
     "stars": 35,
     "language": "Python",
     "updated_at": "2026-06-02T15:22:47Z"
-  },
-  {
-    "name": "dox",
-    "full_name": "agent0ai/dox",
-    "description": "Self-documenting AGENTS.md",
-    "url": "https://github.com/agent0ai/dox",
-    "stars": 34,
-    "language": null,
-    "updated_at": "2026-06-02T17:44:11Z"
   },
   {
     "name": "context-graph-compressor",
