@@ -4,18 +4,18 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 221,
+    "stars": 230,
     "language": "Swift",
-    "updated_at": "2026-06-03T11:04:25Z"
+    "updated_at": "2026-06-03T18:20:40Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 191,
+    "stars": 196,
     "language": "TypeScript",
-    "updated_at": "2026-06-03T12:31:07Z"
+    "updated_at": "2026-06-03T19:16:54Z"
   },
   {
     "name": "ai-rules-sync",
@@ -31,9 +31,9 @@
     "full_name": "ethanhq/cc-fleet",
     "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 72,
+    "stars": 77,
     "language": "Go",
-    "updated_at": "2026-06-03T12:33:04Z"
+    "updated_at": "2026-06-03T14:58:52Z"
   },
   {
     "name": "komi-learn",
@@ -51,7 +51,7 @@
     "url": "https://github.com/StarTrail-org/PixelRAG",
     "stars": 42,
     "language": "Python",
-    "updated_at": "2026-06-02T18:43:25Z"
+    "updated_at": "2026-06-03T14:10:46Z"
   },
   {
     "name": "loushang",
@@ -60,7 +60,7 @@
     "url": "https://github.com/zhnt/loushang",
     "stars": 37,
     "language": "Python",
-    "updated_at": "2026-06-03T10:48:25Z"
+    "updated_at": "2026-06-03T16:22:28Z"
   },
   {
     "name": "dox",
@@ -76,9 +76,9 @@
     "full_name": "Adityapal67/context-graph-compressor",
     "description": "Convert long AI conversations into portable conversation state graphs for LLM handoffs.",
     "url": "https://github.com/Adityapal67/context-graph-compressor",
-    "stars": 28,
+    "stars": 29,
     "language": null,
-    "updated_at": "2026-06-02T07:25:58Z"
+    "updated_at": "2026-06-03T14:18:56Z"
   },
   {
     "name": "chatgpt-gpt-5",
