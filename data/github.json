@@ -4,18 +4,18 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 230,
+    "stars": 231,
     "language": "Swift",
-    "updated_at": "2026-06-03T18:20:40Z"
+    "updated_at": "2026-06-03T21:28:26Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 196,
+    "stars": 206,
     "language": "TypeScript",
-    "updated_at": "2026-06-03T19:16:54Z"
+    "updated_at": "2026-06-03T21:36:47Z"
   },
   {
     "name": "ai-rules-sync",
@@ -58,9 +58,9 @@
     "full_name": "zhnt/loushang",
     "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
     "url": "https://github.com/zhnt/loushang",
-    "stars": 37,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-06-03T16:22:28Z"
+    "updated_at": "2026-06-03T21:05:30Z"
   },
   {
     "name": "dox",
