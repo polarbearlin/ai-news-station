@@ -4,9 +4,27 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 217,
+    "stars": 221,
     "language": "Swift",
-    "updated_at": "2026-06-03T00:49:49Z"
+    "updated_at": "2026-06-03T11:04:25Z"
+  },
+  {
+    "name": "agent",
+    "full_name": "PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "url": "https://github.com/PentesterFlow/agent",
+    "stars": 191,
+    "language": "TypeScript",
+    "updated_at": "2026-06-03T12:31:07Z"
+  },
+  {
+    "name": "ai-rules-sync",
+    "full_name": "PanisHandsome/ai-rules-sync",
+    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+    "url": "https://github.com/PanisHandsome/ai-rules-sync",
+    "stars": 84,
+    "language": "JavaScript",
+    "updated_at": "2026-06-03T06:32:33Z"
   },
   {
     "name": "cc-fleet",
@@ -15,25 +33,16 @@
     "url": "https://github.com/ethanhq/cc-fleet",
     "stars": 72,
     "language": "Go",
-    "updated_at": "2026-06-02T23:04:57Z"
-  },
-  {
-    "name": "ai-rules-sync",
-    "full_name": "PanisHandsome/ai-rules-sync",
-    "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
-    "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 68,
-    "language": "JavaScript",
-    "updated_at": "2026-06-03T04:09:08Z"
+    "updated_at": "2026-06-03T12:33:04Z"
   },
   {
     "name": "komi-learn",
     "full_name": "kurikomi-labs/komi-learn",
     "description": "Continuous memory + self-improvement for AI agents. Learns how you work, recalls it automatically, no commands. Claude Code & Codex.",
     "url": "https://github.com/kurikomi-labs/komi-learn",
-    "stars": 56,
+    "stars": 57,
     "language": "Python",
-    "updated_at": "2026-06-02T15:49:20Z"
+    "updated_at": "2026-06-03T07:48:51Z"
   },
   {
     "name": "PixelRAG",
@@ -45,6 +54,15 @@
     "updated_at": "2026-06-02T18:43:25Z"
   },
   {
+    "name": "loushang",
+    "full_name": "zhnt/loushang",
+    "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
+    "url": "https://github.com/zhnt/loushang",
+    "stars": 37,
+    "language": "Python",
+    "updated_at": "2026-06-03T10:48:25Z"
+  },
+  {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
@@ -52,15 +70,6 @@
     "stars": 36,
     "language": null,
     "updated_at": "2026-06-02T21:58:36Z"
-  },
-  {
-    "name": "loushang",
-    "full_name": "zhnt/loushang",
-    "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
-    "url": "https://github.com/zhnt/loushang",
-    "stars": 36,
-    "language": "Python",
-    "updated_at": "2026-06-03T02:47:58Z"
   },
   {
     "name": "context-graph-compressor",
@@ -79,14 +88,5 @@
     "stars": 24,
     "language": null,
     "updated_at": "2026-06-02T00:45:20Z"
-  },
-  {
-    "name": "ai-dispatch",
-    "full_name": "Yifannnnnnnnw/ai-dispatch",
-    "description": "Your daily AI intelligence dispatch to Email 📧· Robotics, Agents & LLMs analyzed by Claude Opus · 每日多源聚合 + 深度分析，GitHub Actions 一键部署，无需服务器",
-    "url": "https://github.com/Yifannnnnnnnw/ai-dispatch",
-    "stars": 18,
-    "language": "Python",
-    "updated_at": "2026-06-02T21:09:56Z"
   }
 ]
