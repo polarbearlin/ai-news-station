@@ -4,36 +4,45 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 236,
+    "stars": 242,
     "language": "Swift",
-    "updated_at": "2026-06-04T03:45:50Z"
+    "updated_at": "2026-06-04T10:51:41Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 213,
+    "stars": 237,
     "language": "TypeScript",
-    "updated_at": "2026-06-04T02:27:07Z"
+    "updated_at": "2026-06-04T11:12:49Z"
   },
   {
     "name": "ai-rules-sync",
     "full_name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 84,
+    "stars": 105,
     "language": "JavaScript",
-    "updated_at": "2026-06-03T06:32:33Z"
+    "updated_at": "2026-06-04T04:47:33Z"
   },
   {
     "name": "cc-fleet",
     "full_name": "ethanhq/cc-fleet",
     "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 83,
+    "stars": 84,
     "language": "Go",
-    "updated_at": "2026-06-04T02:21:25Z"
+    "updated_at": "2026-06-04T07:20:22Z"
+  },
+  {
+    "name": "align-dev",
+    "full_name": "razr001/align-dev",
+    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Cursor, Copilot, and other agents write consistently.",
+    "url": "https://github.com/razr001/align-dev",
+    "stars": 58,
+    "language": "TypeScript",
+    "updated_at": "2026-06-04T05:11:23Z"
   },
   {
     "name": "komi-learn",
@@ -51,16 +60,16 @@
     "url": "https://github.com/StarTrail-org/PixelRAG",
     "stars": 42,
     "language": "Python",
-    "updated_at": "2026-06-03T14:10:46Z"
+    "updated_at": "2026-06-04T04:13:44Z"
   },
   {
     "name": "loushang",
     "full_name": "zhnt/loushang",
     "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
     "url": "https://github.com/zhnt/loushang",
-    "stars": 38,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-06-04T00:34:14Z"
+    "updated_at": "2026-06-04T08:07:07Z"
   },
   {
     "name": "dox",
@@ -79,14 +88,5 @@
     "stars": 29,
     "language": null,
     "updated_at": "2026-06-04T00:57:51Z"
-  },
-  {
-    "name": "chatgpt-gpt-5",
-    "full_name": "greennavigatorcanal/chatgpt-gpt-5",
-    "description": "ChatGPT — gpt 5. for Windows",
-    "url": "https://github.com/greennavigatorcanal/chatgpt-gpt-5",
-    "stars": 24,
-    "language": null,
-    "updated_at": "2026-06-02T00:45:20Z"
   }
 ]
