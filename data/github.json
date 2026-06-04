@@ -4,18 +4,18 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 231,
+    "stars": 236,
     "language": "Swift",
-    "updated_at": "2026-06-03T21:28:26Z"
+    "updated_at": "2026-06-04T03:45:50Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 206,
+    "stars": 213,
     "language": "TypeScript",
-    "updated_at": "2026-06-03T21:36:47Z"
+    "updated_at": "2026-06-04T02:27:07Z"
   },
   {
     "name": "ai-rules-sync",
@@ -31,9 +31,9 @@
     "full_name": "ethanhq/cc-fleet",
     "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 77,
+    "stars": 83,
     "language": "Go",
-    "updated_at": "2026-06-03T14:58:52Z"
+    "updated_at": "2026-06-04T02:21:25Z"
   },
   {
     "name": "komi-learn",
@@ -60,16 +60,16 @@
     "url": "https://github.com/zhnt/loushang",
     "stars": 38,
     "language": "Python",
-    "updated_at": "2026-06-03T21:05:30Z"
+    "updated_at": "2026-06-04T00:34:14Z"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 36,
+    "stars": 37,
     "language": null,
-    "updated_at": "2026-06-02T21:58:36Z"
+    "updated_at": "2026-06-03T22:49:40Z"
   },
   {
     "name": "context-graph-compressor",
@@ -78,7 +78,7 @@
     "url": "https://github.com/Adityapal67/context-graph-compressor",
     "stars": 29,
     "language": null,
-    "updated_at": "2026-06-03T14:18:56Z"
+    "updated_at": "2026-06-04T00:57:51Z"
   },
   {
     "name": "chatgpt-gpt-5",
