@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-04 15:15:51",
+  "generated_at": "2026-06-04 18:15:44",
   "news": [
     {
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
       "source": "Hacker News",
-      "time": "2026-06-04 08:45",
-      "score": 314,
-      "comments": 188
+      "time": "2026-06-04 15:18",
+      "score": 66,
+      "comments": 7
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "source": "Hacker News",
+      "time": "2026-06-04 00:18",
+      "score": 601,
+      "comments": 574
     }
   ]
 }
