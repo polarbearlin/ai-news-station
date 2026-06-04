@@ -1,21 +1,30 @@
 [
   {
+    "name": "sandboxes",
+    "full_name": "tastyeffectco/sandboxes",
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "stars": 367,
+    "language": "Go",
+    "updated_at": "2026-06-04T21:39:59Z"
+  },
+  {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 253,
+    "stars": 268,
     "language": "TypeScript",
-    "updated_at": "2026-06-04T16:56:19Z"
+    "updated_at": "2026-06-04T21:30:42Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 251,
+    "stars": 250,
     "language": "Swift",
-    "updated_at": "2026-06-04T17:28:05Z"
+    "updated_at": "2026-06-04T21:36:26Z"
   },
   {
     "name": "ai-rules-sync",
@@ -31,54 +40,9 @@
     "full_name": "ethanhq/cc-fleet",
     "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
     "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 91,
+    "stars": 92,
     "language": "Go",
-    "updated_at": "2026-06-04T12:39:07Z"
-  },
-  {
-    "name": "speaker-332",
-    "full_name": "GhostVolunteer/speaker-332",
-    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
-    "url": "https://github.com/GhostVolunteer/speaker-332",
-    "stars": 70,
-    "language": "Python",
-    "updated_at": "2026-06-04T18:05:01Z"
-  },
-  {
-    "name": "KeyType-134",
-    "full_name": "VergeWarlord/KeyType-134",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-    "url": "https://github.com/VergeWarlord/KeyType-134",
-    "stars": 70,
-    "language": "Swift",
-    "updated_at": "2026-06-04T18:05:02Z"
-  },
-  {
-    "name": "PixelRAG-116",
-    "full_name": "WayGrenadierPruner/PixelRAG-116",
-    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-    "url": "https://github.com/WayGrenadierPruner/PixelRAG-116",
-    "stars": 70,
-    "language": "Markdown",
-    "updated_at": "2026-06-04T18:05:07Z"
-  },
-  {
-    "name": "PixelRAG-710",
-    "full_name": "Retrodraseparator/PixelRAG-710",
-    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-    "url": "https://github.com/Retrodraseparator/PixelRAG-710",
-    "stars": 70,
-    "language": "Markdown",
-    "updated_at": "2026-06-04T18:05:06Z"
-  },
-  {
-    "name": "PixelRAG-896",
-    "full_name": "UpperCobraContract/PixelRAG-896",
-    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-    "url": "https://github.com/UpperCobraContract/PixelRAG-896",
-    "stars": 70,
-    "language": "Markdown",
-    "updated_at": "2026-06-04T18:04:59Z"
+    "updated_at": "2026-06-04T20:26:17Z"
   },
   {
     "name": "align-dev",
@@ -88,5 +52,41 @@
     "stars": 59,
     "language": "TypeScript",
     "updated_at": "2026-06-04T13:03:40Z"
+  },
+  {
+    "name": "komi-learn",
+    "full_name": "kurikomi-labs/komi-learn",
+    "description": "Continuous memory + self-improvement for AI agents. Learns how you work, recalls it automatically, no commands. Claude Code & Codex.",
+    "url": "https://github.com/kurikomi-labs/komi-learn",
+    "stars": 57,
+    "language": "Python",
+    "updated_at": "2026-06-03T07:48:51Z"
+  },
+  {
+    "name": "loushang",
+    "full_name": "zhnt/loushang",
+    "description": "AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. ",
+    "url": "https://github.com/zhnt/loushang",
+    "stars": 46,
+    "language": "Python",
+    "updated_at": "2026-06-04T19:38:39Z"
+  },
+  {
+    "name": "PixelRAG",
+    "full_name": "StarTrail-org/PixelRAG",
+    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
+    "url": "https://github.com/StarTrail-org/PixelRAG",
+    "stars": 42,
+    "language": "Python",
+    "updated_at": "2026-06-04T16:33:34Z"
+  },
+  {
+    "name": "speaker",
+    "full_name": "AI272/speaker",
+    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
+    "url": "https://github.com/AI272/speaker",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-06-04T18:41:32Z"
   }
 ]
