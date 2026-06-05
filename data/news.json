@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-06-05 08:06:58",
+  "generated_at": "2026-06-05 14:51:57",
   "news": [
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
       "source": "Hacker News",
       "time": "2026-06-05 05:46",
-      "score": 35,
-      "comments": 9
-    },
-    {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "source": "Hacker News",
-      "time": "2026-06-04 20:11",
-      "score": 399,
-      "comments": 114
-    },
-    {
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "Hacker News",
-      "time": "2026-06-05 00:04",
-      "score": 164,
-      "comments": 38
-    },
-    {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "source": "Hacker News",
-      "time": "2026-06-04 23:11",
-      "score": 156,
-      "comments": 31
+      "score": 132,
+      "comments": 48
     }
   ]
 }

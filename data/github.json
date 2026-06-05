@@ -4,27 +4,27 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 404,
+    "stars": 425,
     "language": "Go",
-    "updated_at": "2026-06-05T07:54:49Z"
+    "updated_at": "2026-06-05T14:37:59Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 275,
+    "stars": 288,
     "language": "TypeScript",
-    "updated_at": "2026-06-05T07:21:49Z"
+    "updated_at": "2026-06-05T14:35:57Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 255,
+    "stars": 262,
     "language": "Swift",
-    "updated_at": "2026-06-05T06:04:08Z"
+    "updated_at": "2026-06-05T14:47:20Z"
   },
   {
     "name": "ai-rules-sync",
@@ -45,22 +45,31 @@
     "updated_at": "2026-06-04T23:25:15Z"
   },
   {
+    "name": "speaker",
+    "full_name": "AI272/speaker",
+    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
+    "url": "https://github.com/AI272/speaker",
+    "stars": 64,
+    "language": "Python",
+    "updated_at": "2026-06-05T14:24:46Z"
+  },
+  {
     "name": "align-dev",
     "full_name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
     "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-06-04T13:03:40Z"
+    "updated_at": "2026-06-05T08:10:37Z"
   },
   {
-    "name": "speaker",
-    "full_name": "AI272/speaker",
-    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
-    "url": "https://github.com/AI272/speaker",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-06-05T07:17:28Z"
+    "name": "dox",
+    "full_name": "agent0ai/dox",
+    "description": "Self-documenting AGENTS.md",
+    "url": "https://github.com/agent0ai/dox",
+    "stars": 38,
+    "language": null,
+    "updated_at": "2026-06-05T11:41:42Z"
   },
   {
     "name": "text_classification",
@@ -70,15 +79,6 @@
     "stars": 38,
     "language": "Python",
     "updated_at": "2026-06-05T02:21:40Z"
-  },
-  {
-    "name": "dox",
-    "full_name": "agent0ai/dox",
-    "description": "Self-documenting AGENTS.md",
-    "url": "https://github.com/agent0ai/dox",
-    "stars": 37,
-    "language": null,
-    "updated_at": "2026-06-03T22:49:40Z"
   },
   {
     "name": "context-graph-compressor",
