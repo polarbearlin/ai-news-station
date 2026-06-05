@@ -4,27 +4,27 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 429,
+    "stars": 436,
     "language": "Go",
-    "updated_at": "2026-06-05T17:50:50Z"
+    "updated_at": "2026-06-05T20:43:58Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 289,
+    "stars": 291,
     "language": "TypeScript",
-    "updated_at": "2026-06-05T15:22:19Z"
+    "updated_at": "2026-06-05T20:32:32Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 264,
+    "stars": 266,
     "language": "Swift",
-    "updated_at": "2026-06-05T17:41:01Z"
+    "updated_at": "2026-06-05T20:35:42Z"
   },
   {
     "name": "ai-rules-sync",
@@ -67,9 +67,9 @@
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 38,
+    "stars": 39,
     "language": null,
-    "updated_at": "2026-06-05T11:41:42Z"
+    "updated_at": "2026-06-05T17:58:18Z"
   },
   {
     "name": "text_classification",
@@ -85,8 +85,8 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 33,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-06-05T17:49:42Z"
+    "updated_at": "2026-06-05T19:16:26Z"
   }
 ]
