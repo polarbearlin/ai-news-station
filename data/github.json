@@ -4,27 +4,27 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 395,
+    "stars": 404,
     "language": "Go",
-    "updated_at": "2026-06-05T03:40:57Z"
+    "updated_at": "2026-06-05T07:54:49Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 274,
+    "stars": 275,
     "language": "TypeScript",
-    "updated_at": "2026-06-05T01:50:31Z"
+    "updated_at": "2026-06-05T07:21:49Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 253,
+    "stars": 255,
     "language": "Swift",
-    "updated_at": "2026-06-05T00:53:32Z"
+    "updated_at": "2026-06-05T06:04:08Z"
   },
   {
     "name": "ai-rules-sync",
@@ -58,9 +58,9 @@
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 45,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-06-05T02:54:19Z"
+    "updated_at": "2026-06-05T07:17:28Z"
   },
   {
     "name": "text_classification",
