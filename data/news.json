@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-06-06 03:32:12",
+  "generated_at": "2026-06-06 06:52:48",
   "news": [
+    {
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "source": "Hacker News",
+      "time": "2026-06-03 20:15",
+      "score": 177,
+      "comments": 42
+    },
     {
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "source": "Hacker News",
       "time": "2026-06-06 00:33",
-      "score": 86,
-      "comments": 19
+      "score": 139,
+      "comments": 45
     },
     {
-      "title": "How LLMs Work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
       "source": "Hacker News",
-      "time": "2026-06-03 20:15",
-      "score": 30,
-      "comments": 3
+      "time": "2026-06-06 03:23",
+      "score": 67,
+      "comments": 10
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "source": "Hacker News",
+      "time": "2026-06-06 04:38",
+      "score": 170,
+      "comments": 26
     },
     {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "source": "Hacker News",
       "time": "2026-06-05 15:00",
-      "score": 365,
-      "comments": 238
+      "score": 378,
+      "comments": 243
     }
   ]
 }

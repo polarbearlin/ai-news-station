@@ -4,18 +4,18 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 440,
+    "stars": 444,
     "language": "Go",
-    "updated_at": "2026-06-06T02:06:38Z"
+    "updated_at": "2026-06-06T06:44:02Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 295,
+    "stars": 298,
     "language": "TypeScript",
-    "updated_at": "2026-06-06T02:55:25Z"
+    "updated_at": "2026-06-06T06:39:48Z"
   },
   {
     "name": "KeyType",
@@ -49,9 +49,9 @@
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 69,
+    "stars": 72,
     "language": "Python",
-    "updated_at": "2026-06-06T02:22:43Z"
+    "updated_at": "2026-06-06T06:42:28Z"
   },
   {
     "name": "text_classification",
@@ -67,18 +67,18 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 40,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-06-06T01:12:36Z"
+    "updated_at": "2026-06-06T04:27:57Z"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 39,
+    "stars": 40,
     "language": null,
-    "updated_at": "2026-06-05T17:58:18Z"
+    "updated_at": "2026-06-06T04:38:09Z"
   },
   {
     "name": "lrnev-govern",
