@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-06-06 13:43:45",
+  "generated_at": "2026-06-06 17:14:54",
   "news": [
     {
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "source": "Hacker News",
       "time": "2026-06-03 20:15",
-      "score": 495,
-      "comments": 150
+      "score": 669,
+      "comments": 185
     },
     {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
       "source": "Hacker News",
-      "time": "2026-06-06 04:38",
-      "score": 775,
-      "comments": 255
-    },
-    {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "source": "Hacker News",
-      "time": "2026-06-06 00:33",
-      "score": 195,
-      "comments": 68
-    },
-    {
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-      "source": "Hacker News",
-      "time": "2026-06-06 12:00",
-      "score": 1,
-      "comments": 0
+      "time": "2026-06-06 15:35",
+      "score": 47,
+      "comments": 11
     }
   ]
 }
