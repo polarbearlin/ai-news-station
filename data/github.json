@@ -4,9 +4,9 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 465,
+    "stars": 467,
     "language": "Go",
-    "updated_at": "2026-06-06T17:09:01Z"
+    "updated_at": "2026-06-06T18:16:48Z"
   },
   {
     "name": "agent",
@@ -22,9 +22,9 @@
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 271,
+    "stars": 272,
     "language": "Swift",
-    "updated_at": "2026-06-06T17:10:38Z"
+    "updated_at": "2026-06-06T17:38:57Z"
   },
   {
     "name": "align-dev",
@@ -40,18 +40,18 @@
     "full_name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 109,
+    "stars": 110,
     "language": "JavaScript",
-    "updated_at": "2026-06-06T17:10:43Z"
+    "updated_at": "2026-06-06T17:47:22Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 82,
+    "stars": 83,
     "language": "Python",
-    "updated_at": "2026-06-06T17:04:44Z"
+    "updated_at": "2026-06-06T18:16:16Z"
   },
   {
     "name": "text_classification",
