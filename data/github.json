@@ -4,54 +4,54 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 448,
+    "stars": 459,
     "language": "Go",
-    "updated_at": "2026-06-06T09:14:10Z"
+    "updated_at": "2026-06-06T13:43:31Z"
   },
   {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 298,
+    "stars": 299,
     "language": "TypeScript",
-    "updated_at": "2026-06-06T06:39:48Z"
+    "updated_at": "2026-06-06T10:54:10Z"
   },
   {
     "name": "KeyType",
     "full_name": "johnbean393/KeyType",
     "description": "An open-source Cotypist with macOS system wide AI autocomplete",
     "url": "https://github.com/johnbean393/KeyType",
-    "stars": 266,
+    "stars": 270,
     "language": "Swift",
-    "updated_at": "2026-06-05T20:35:42Z"
+    "updated_at": "2026-06-06T12:30:49Z"
   },
   {
     "name": "align-dev",
     "full_name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
-    "stars": 139,
+    "stars": 177,
     "language": "TypeScript",
-    "updated_at": "2026-06-06T02:33:08Z"
+    "updated_at": "2026-06-06T13:12:58Z"
   },
   {
     "name": "ai-rules-sync",
     "full_name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 105,
+    "stars": 107,
     "language": "JavaScript",
-    "updated_at": "2026-06-04T04:47:33Z"
+    "updated_at": "2026-06-06T11:44:22Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 74,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-06-06T08:36:19Z"
+    "updated_at": "2026-06-06T13:42:13Z"
   },
   {
     "name": "text_classification",
@@ -67,9 +67,9 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 41,
+    "stars": 42,
     "language": "Python",
-    "updated_at": "2026-06-06T04:27:57Z"
+    "updated_at": "2026-06-06T10:21:42Z"
   },
   {
     "name": "dox",
@@ -81,12 +81,12 @@
     "updated_at": "2026-06-06T04:38:09Z"
   },
   {
-    "name": "cast",
-    "full_name": "yaodub/cast",
-    "description": "Your agent team, on your machine. Open-source harness for multi-user Claude agents.",
-    "url": "https://github.com/yaodub/cast",
-    "stars": 24,
+    "name": "lrnev-govern",
+    "full_name": "LuChangQiu/lrnev-govern",
+    "description": "AI 协作开发的项目治理引擎。MCP 服务 + CLI 双形态，文件即真相，零模型依赖。",
+    "url": "https://github.com/LuChangQiu/lrnev-govern",
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-06-06T08:05:34Z"
+    "updated_at": "2026-06-06T13:21:13Z"
   }
 ]

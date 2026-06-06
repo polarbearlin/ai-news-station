@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-06 10:03:52",
+  "generated_at": "2026-06-06 13:43:45",
   "news": [
     {
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "source": "Hacker News",
       "time": "2026-06-03 20:15",
-      "score": 358,
-      "comments": 103
-    },
-    {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "source": "Hacker News",
-      "time": "2026-06-06 00:33",
-      "score": 171,
-      "comments": 59
+      "score": 495,
+      "comments": 150
     },
     {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "source": "Hacker News",
       "time": "2026-06-06 04:38",
-      "score": 458,
-      "comments": 154
+      "score": 775,
+      "comments": 255
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "source": "Hacker News",
-      "time": "2026-06-05 15:00",
-      "score": 396,
-      "comments": 250
+      "time": "2026-06-06 00:33",
+      "score": 195,
+      "comments": 68
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "source": "Hacker News",
+      "time": "2026-06-06 12:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
