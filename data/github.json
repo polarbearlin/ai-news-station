@@ -4,9 +4,9 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 444,
+    "stars": 448,
     "language": "Go",
-    "updated_at": "2026-06-06T06:44:02Z"
+    "updated_at": "2026-06-06T09:14:10Z"
   },
   {
     "name": "agent",
@@ -49,9 +49,9 @@
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 72,
+    "stars": 74,
     "language": "Python",
-    "updated_at": "2026-06-06T06:42:28Z"
+    "updated_at": "2026-06-06T08:36:19Z"
   },
   {
     "name": "text_classification",
@@ -81,12 +81,12 @@
     "updated_at": "2026-06-06T04:38:09Z"
   },
   {
-    "name": "lrnev-govern",
-    "full_name": "LuChangQiu/lrnev-govern",
-    "description": "AI 协作开发的项目治理引擎。MCP 服务 + CLI 双形态，文件即真相，零模型依赖。",
-    "url": "https://github.com/LuChangQiu/lrnev-govern",
+    "name": "cast",
+    "full_name": "yaodub/cast",
+    "description": "Your agent team, on your machine. Open-source harness for multi-user Claude agents.",
+    "url": "https://github.com/yaodub/cast",
     "stars": 24,
     "language": "TypeScript",
-    "updated_at": "2026-06-05T23:30:46Z"
+    "updated_at": "2026-06-06T08:05:34Z"
   }
 ]
