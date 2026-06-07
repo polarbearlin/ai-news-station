@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-06 21:04:43",
+  "generated_at": "2026-06-07 03:58:39",
   "news": [
     {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
       "source": "Hacker News",
-      "time": "2026-06-06 18:35",
-      "score": 152,
-      "comments": 56
-    },
-    {
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "source": "Hacker News",
-      "time": "2026-06-03 20:15",
-      "score": 787,
-      "comments": 219
+      "time": "2026-06-07 00:22",
+      "score": 54,
+      "comments": 10
     }
   ]
 }

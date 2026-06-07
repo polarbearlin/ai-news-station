@@ -4,27 +4,9 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 467,
+    "stars": 472,
     "language": "Go",
-    "updated_at": "2026-06-06T18:16:48Z"
-  },
-  {
-    "name": "agent",
-    "full_name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 301,
-    "language": "TypeScript",
-    "updated_at": "2026-06-06T14:57:07Z"
-  },
-  {
-    "name": "KeyType",
-    "full_name": "johnbean393/KeyType",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-    "url": "https://github.com/johnbean393/KeyType",
-    "stars": 272,
-    "language": "Swift",
-    "updated_at": "2026-06-06T17:38:57Z"
+    "updated_at": "2026-06-07T03:37:37Z"
   },
   {
     "name": "align-dev",
@@ -40,36 +22,36 @@
     "full_name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 110,
+    "stars": 112,
     "language": "JavaScript",
-    "updated_at": "2026-06-06T17:47:22Z"
+    "updated_at": "2026-06-06T22:23:19Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 83,
+    "stars": 86,
     "language": "Python",
-    "updated_at": "2026-06-06T18:16:16Z"
+    "updated_at": "2026-06-07T03:21:09Z"
   },
   {
     "name": "text_classification",
     "full_name": "Happy-Chen-CH/text_classification",
     "description": "This is a text classification project based on the \"Category News\" feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them.",
     "url": "https://github.com/Happy-Chen-CH/text_classification",
-    "stars": 61,
+    "stars": 79,
     "language": "Python",
-    "updated_at": "2026-06-06T01:41:47Z"
+    "updated_at": "2026-06-07T03:38:06Z"
   },
   {
     "name": "ai-shortVideo-pipeline",
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 45,
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-06-06T17:09:31Z"
+    "updated_at": "2026-06-07T03:28:15Z"
   },
   {
     "name": "dox",
@@ -88,5 +70,23 @@
     "stars": 29,
     "language": "TypeScript",
     "updated_at": "2026-06-06T13:21:13Z"
+  },
+  {
+    "name": "chatgpt-gpt-5",
+    "full_name": "greennavigatorcanal/chatgpt-gpt-5",
+    "description": "ChatGPT — gpt 5. for Windows",
+    "url": "https://github.com/greennavigatorcanal/chatgpt-gpt-5",
+    "stars": 24,
+    "language": null,
+    "updated_at": "2026-06-02T00:45:20Z"
+  },
+  {
+    "name": "cast",
+    "full_name": "yaodub/cast",
+    "description": "Your agent team, on your machine. Open-source harness for multi-user Claude agents.",
+    "url": "https://github.com/yaodub/cast",
+    "stars": 24,
+    "language": "TypeScript",
+    "updated_at": "2026-06-06T08:05:34Z"
   }
 ]
