@@ -4,9 +4,9 @@
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 484,
+    "stars": 487,
     "language": "Go",
-    "updated_at": "2026-06-07T13:00:32Z"
+    "updated_at": "2026-06-07T16:48:46Z"
   },
   {
     "name": "align-dev",
@@ -18,22 +18,31 @@
     "updated_at": "2026-06-07T13:36:26Z"
   },
   {
+    "name": "guard-skills",
+    "full_name": "amElnagdy/guard-skills",
+    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "stars": 163,
+    "language": null,
+    "updated_at": "2026-06-07T17:15:32Z"
+  },
+  {
     "name": "ai-rules-sync",
     "full_name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 112,
+    "stars": 113,
     "language": "JavaScript",
-    "updated_at": "2026-06-06T22:23:19Z"
+    "updated_at": "2026-06-07T16:38:11Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 105,
+    "stars": 112,
     "language": "Python",
-    "updated_at": "2026-06-07T13:19:39Z"
+    "updated_at": "2026-06-07T16:33:00Z"
   },
   {
     "name": "text_classification",
@@ -49,9 +58,9 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 54,
+    "stars": 58,
     "language": "Python",
-    "updated_at": "2026-06-07T11:57:47Z"
+    "updated_at": "2026-06-07T16:10:02Z"
   },
   {
     "name": "dox",
@@ -76,17 +85,8 @@
     "full_name": "adrianhajdin/job_pilot",
     "description": "AI-powered job search assistance for matching roles, tailored resumes, and faster applications.",
     "url": "https://github.com/adrianhajdin/job_pilot",
-    "stars": 24,
+    "stars": 25,
     "language": "TypeScript",
-    "updated_at": "2026-06-07T12:01:26Z"
-  },
-  {
-    "name": "cast",
-    "full_name": "yaodub/cast",
-    "description": "Your agent team, on your machine. Open-source harness for multi-user Claude agents.",
-    "url": "https://github.com/yaodub/cast",
-    "stars": 24,
-    "language": "TypeScript",
-    "updated_at": "2026-06-07T04:26:14Z"
+    "updated_at": "2026-06-07T14:47:02Z"
   }
 ]
