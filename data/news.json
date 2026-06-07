@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-06-07 17:16:16",
+  "generated_at": "2026-06-07 21:12:55",
   "news": [
     {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
       "source": "Hacker News",
-      "time": "2026-06-07 12:49",
-      "score": 535,
-      "comments": 498
+      "time": "2026-06-07 17:22",
+      "score": 76,
+      "comments": 26
     },
     {
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "title": "What Are Tokens in LLMs?",
+      "url": "https://bearisland.dev/posts/tokens-and-tokenization/",
       "source": "Hacker News",
-      "time": "2026-06-07 13:06",
-      "score": 243,
-      "comments": 116
-    },
-    {
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "source": "Hacker News",
-      "time": "2026-06-07 11:16",
-      "score": 96,
-      "comments": 18
+      "time": "2026-06-07 20:34",
+      "score": 7,
+      "comments": 1
     }
   ]
 }

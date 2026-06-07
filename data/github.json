@@ -1,12 +1,21 @@
 [
   {
-    "name": "sandboxes",
-    "full_name": "tastyeffectco/sandboxes",
+    "name": "sandboxd",
+    "full_name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "url": "https://github.com/tastyeffectco/sandboxes",
-    "stars": 487,
+    "url": "https://github.com/tastyeffectco/sandboxd",
+    "stars": 493,
     "language": "Go",
-    "updated_at": "2026-06-07T16:48:46Z"
+    "updated_at": "2026-06-07T20:53:19Z"
+  },
+  {
+    "name": "guard-skills",
+    "full_name": "amElnagdy/guard-skills",
+    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "stars": 264,
+    "language": null,
+    "updated_at": "2026-06-07T21:10:51Z"
   },
   {
     "name": "align-dev",
@@ -18,31 +27,22 @@
     "updated_at": "2026-06-07T13:36:26Z"
   },
   {
-    "name": "guard-skills",
-    "full_name": "amElnagdy/guard-skills",
-    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 163,
-    "language": null,
-    "updated_at": "2026-06-07T17:15:32Z"
-  },
-  {
     "name": "ai-rules-sync",
     "full_name": "PanisHandsome/ai-rules-sync",
     "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
     "url": "https://github.com/PanisHandsome/ai-rules-sync",
-    "stars": 113,
+    "stars": 114,
     "language": "JavaScript",
-    "updated_at": "2026-06-07T16:38:11Z"
+    "updated_at": "2026-06-07T20:56:07Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 112,
+    "stars": 113,
     "language": "Python",
-    "updated_at": "2026-06-07T16:33:00Z"
+    "updated_at": "2026-06-07T17:18:43Z"
   },
   {
     "name": "text_classification",
@@ -58,9 +58,9 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 58,
+    "stars": 64,
     "language": "Python",
-    "updated_at": "2026-06-07T16:10:02Z"
+    "updated_at": "2026-06-07T18:58:51Z"
   },
   {
     "name": "dox",
@@ -81,12 +81,12 @@
     "updated_at": "2026-06-06T13:21:13Z"
   },
   {
-    "name": "job_pilot",
-    "full_name": "adrianhajdin/job_pilot",
-    "description": "AI-powered job search assistance for matching roles, tailored resumes, and faster applications.",
-    "url": "https://github.com/adrianhajdin/job_pilot",
-    "stars": 25,
-    "language": "TypeScript",
-    "updated_at": "2026-06-07T14:47:02Z"
+    "name": "Council",
+    "full_name": "albertofettucini/Council",
+    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
+    "url": "https://github.com/albertofettucini/Council",
+    "stars": 27,
+    "language": "Swift",
+    "updated_at": "2026-06-07T19:06:15Z"
   }
 ]
