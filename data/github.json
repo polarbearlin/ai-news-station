@@ -4,36 +4,36 @@
     "full_name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxd",
-    "stars": 498,
+    "stars": 508,
     "language": "Go",
-    "updated_at": "2026-06-08T03:28:22Z"
+    "updated_at": "2026-06-08T12:16:04Z"
   },
   {
     "name": "guard-skills",
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 340,
+    "stars": 410,
     "language": null,
-    "updated_at": "2026-06-08T04:02:38Z"
+    "updated_at": "2026-06-08T11:57:02Z"
   },
   {
     "name": "align-dev",
     "full_name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
-    "stars": 258,
+    "stars": 320,
     "language": "TypeScript",
-    "updated_at": "2026-06-07T13:36:26Z"
+    "updated_at": "2026-06-08T11:41:22Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 120,
+    "stars": 144,
     "language": "Python",
-    "updated_at": "2026-06-08T03:28:15Z"
+    "updated_at": "2026-06-08T12:19:46Z"
   },
   {
     "name": "text_classification",
@@ -49,9 +49,9 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 67,
+    "stars": 73,
     "language": "Python",
-    "updated_at": "2026-06-08T03:34:48Z"
+    "updated_at": "2026-06-08T09:00:36Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -67,26 +67,26 @@
     "full_name": "albertofettucini/Council",
     "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
     "url": "https://github.com/albertofettucini/Council",
-    "stars": 30,
+    "stars": 32,
     "language": "Swift",
-    "updated_at": "2026-06-08T02:20:33Z"
+    "updated_at": "2026-06-08T11:34:33Z"
   },
   {
-    "name": "lrnev-govern",
-    "full_name": "LuChangQiu/lrnev-govern",
-    "description": "AI 协作开发的项目治理引擎。MCP 服务 + CLI 双形态，文件即真相，零模型依赖。",
-    "url": "https://github.com/LuChangQiu/lrnev-govern",
-    "stars": 30,
-    "language": "TypeScript",
-    "updated_at": "2026-06-08T03:38:00Z"
+    "name": "axocoatl",
+    "full_name": "axocoatl/axocoatl",
+    "description": "Agentic runtime in Rust — persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
+    "url": "https://github.com/axocoatl/axocoatl",
+    "stars": 31,
+    "language": "Rust",
+    "updated_at": "2026-06-08T12:04:16Z"
   },
   {
     "name": "job_pilot",
     "full_name": "adrianhajdin/job_pilot",
     "description": "AI-powered job search assistance for matching roles, tailored resumes, and faster applications.",
     "url": "https://github.com/adrianhajdin/job_pilot",
-    "stars": 29,
+    "stars": 30,
     "language": "TypeScript",
-    "updated_at": "2026-06-08T02:55:43Z"
+    "updated_at": "2026-06-08T10:40:59Z"
   }
 ]
