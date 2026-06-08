@@ -4,18 +4,18 @@
     "full_name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxd",
-    "stars": 513,
+    "stars": 514,
     "language": "Go",
-    "updated_at": "2026-06-08T18:06:57Z"
+    "updated_at": "2026-06-08T18:35:36Z"
   },
   {
     "name": "guard-skills",
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 445,
+    "stars": 462,
     "language": null,
-    "updated_at": "2026-06-08T17:56:07Z"
+    "updated_at": "2026-06-08T21:42:49Z"
   },
   {
     "name": "align-dev",
@@ -25,6 +25,15 @@
     "stars": 320,
     "language": "TypeScript",
     "updated_at": "2026-06-08T11:41:22Z"
+  },
+  {
+    "name": "superlog",
+    "full_name": "superloglabs/superlog",
+    "description": "Open-source observability tool that fixes your bugs",
+    "url": "https://github.com/superloglabs/superlog",
+    "stars": 238,
+    "language": "TypeScript",
+    "updated_at": "2026-06-08T21:49:08Z"
   },
   {
     "name": "speaker",
@@ -49,9 +58,9 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 80,
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-06-08T18:08:16Z"
+    "updated_at": "2026-06-08T20:36:24Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -67,26 +76,17 @@
     "full_name": "axocoatl/axocoatl",
     "description": "Agentic runtime in Rust — persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
     "url": "https://github.com/axocoatl/axocoatl",
-    "stars": 36,
+    "stars": 40,
     "language": "Rust",
-    "updated_at": "2026-06-08T16:30:56Z"
+    "updated_at": "2026-06-08T21:17:31Z"
   },
   {
     "name": "job_pilot",
     "full_name": "adrianhajdin/job_pilot",
     "description": "AI-powered job search assistance for matching roles, tailored resumes, and faster applications.",
     "url": "https://github.com/adrianhajdin/job_pilot",
-    "stars": 35,
+    "stars": 36,
     "language": "TypeScript",
-    "updated_at": "2026-06-08T17:42:53Z"
-  },
-  {
-    "name": "Council",
-    "full_name": "albertofettucini/Council",
-    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
-    "url": "https://github.com/albertofettucini/Council",
-    "stars": 35,
-    "language": "Swift",
-    "updated_at": "2026-06-08T18:14:58Z"
+    "updated_at": "2026-06-08T18:36:54Z"
   }
 ]
