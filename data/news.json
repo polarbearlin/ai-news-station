@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-09 03:33:04",
+  "generated_at": "2026-06-09 07:49:40",
   "news": [
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "source": "Hacker News",
       "time": "2026-06-08 19:14",
-      "score": 399,
-      "comments": 343
+      "score": 542,
+      "comments": 422
     },
     {
       "title": "Siri AI",
       "url": "https://www.apple.com/apple-intelligence/",
       "source": "Hacker News",
       "time": "2026-06-08 18:17",
-      "score": 452,
-      "comments": 395
+      "score": 542,
+      "comments": 495
     },
     {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "source": "Hacker News",
       "time": "2026-06-08 15:13",
-      "score": 437,
-      "comments": 346
+      "score": 533,
+      "comments": 411
     },
     {
       "title": "Apple Core AI Framework",
       "url": "https://developer.apple.com/documentation/coreai/",
       "source": "Hacker News",
       "time": "2026-06-08 18:47",
-      "score": 215,
-      "comments": 46
+      "score": 271,
+      "comments": 69
     }
   ]
 }
