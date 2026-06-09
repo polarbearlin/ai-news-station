@@ -4,45 +4,36 @@
     "full_name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxd",
-    "stars": 514,
+    "stars": 516,
     "language": "Go",
-    "updated_at": "2026-06-08T18:35:36Z"
+    "updated_at": "2026-06-09T03:02:35Z"
   },
   {
     "name": "guard-skills",
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 462,
+    "stars": 474,
     "language": null,
-    "updated_at": "2026-06-08T21:42:49Z"
+    "updated_at": "2026-06-09T02:56:22Z"
   },
   {
     "name": "align-dev",
     "full_name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
-    "stars": 320,
+    "stars": 344,
     "language": "TypeScript",
-    "updated_at": "2026-06-08T11:41:22Z"
-  },
-  {
-    "name": "superlog",
-    "full_name": "superloglabs/superlog",
-    "description": "Open-source observability tool that fixes your bugs",
-    "url": "https://github.com/superloglabs/superlog",
-    "stars": 238,
-    "language": "TypeScript",
-    "updated_at": "2026-06-08T21:49:08Z"
+    "updated_at": "2026-06-09T02:47:43Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 155,
+    "stars": 160,
     "language": "Python",
-    "updated_at": "2026-06-08T17:49:45Z"
+    "updated_at": "2026-06-09T03:17:41Z"
   },
   {
     "name": "text_classification",
@@ -58,9 +49,9 @@
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 84,
+    "stars": 93,
     "language": "Python",
-    "updated_at": "2026-06-08T20:36:24Z"
+    "updated_at": "2026-06-09T03:04:23Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -76,9 +67,18 @@
     "full_name": "axocoatl/axocoatl",
     "description": "Agentic runtime in Rust — persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
     "url": "https://github.com/axocoatl/axocoatl",
-    "stars": 40,
+    "stars": 43,
     "language": "Rust",
-    "updated_at": "2026-06-08T21:17:31Z"
+    "updated_at": "2026-06-09T00:43:06Z"
+  },
+  {
+    "name": "Council",
+    "full_name": "albertofettucini/Council",
+    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
+    "url": "https://github.com/albertofettucini/Council",
+    "stars": 36,
+    "language": "Swift",
+    "updated_at": "2026-06-08T23:47:47Z"
   },
   {
     "name": "job_pilot",

@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-06-08 21:49:52",
+  "generated_at": "2026-06-09 03:33:04",
   "news": [
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "source": "Hacker News",
       "time": "2026-06-08 19:14",
-      "score": 254,
-      "comments": 209
+      "score": 399,
+      "comments": 343
     },
     {
       "title": "Siri AI",
       "url": "https://www.apple.com/apple-intelligence/",
       "source": "Hacker News",
       "time": "2026-06-08 18:17",
-      "score": 258,
-      "comments": 189
+      "score": 452,
+      "comments": 395
     },
     {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "source": "Hacker News",
       "time": "2026-06-08 15:13",
-      "score": 311,
-      "comments": 225
+      "score": 437,
+      "comments": 346
     },
     {
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
-      "url": "https://gitdot.io/",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
       "source": "Hacker News",
-      "time": "2026-06-08 16:52",
-      "score": 55,
+      "time": "2026-06-08 18:47",
+      "score": 215,
       "comments": 46
     }
   ]
