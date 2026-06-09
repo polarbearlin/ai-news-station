@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-06-09 11:15:11",
+  "generated_at": "2026-06-09 14:51:28",
   "news": [
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "source": "Hacker News",
       "time": "2026-06-09 07:33",
-      "score": 202,
-      "comments": 87
+      "score": 345,
+      "comments": 143
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
       "source": "Hacker News",
-      "time": "2026-06-08 19:14",
-      "score": 612,
-      "comments": 468
-    },
-    {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "source": "Hacker News",
-      "time": "2026-06-08 18:17",
-      "score": 595,
-      "comments": 550
-    },
-    {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "source": "Hacker News",
-      "time": "2026-06-08 15:13",
-      "score": 577,
-      "comments": 450
+      "time": "2026-06-09 09:10",
+      "score": 191,
+      "comments": 109
     }
   ]
 }

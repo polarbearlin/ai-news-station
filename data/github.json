@@ -4,36 +4,45 @@
     "full_name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "url": "https://github.com/tastyeffectco/sandboxd",
-    "stars": 521,
+    "stars": 528,
     "language": "Go",
-    "updated_at": "2026-06-09T11:03:48Z"
+    "updated_at": "2026-06-09T14:32:05Z"
   },
   {
     "name": "guard-skills",
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 489,
+    "stars": 495,
     "language": null,
-    "updated_at": "2026-06-09T11:10:21Z"
+    "updated_at": "2026-06-09T14:39:05Z"
   },
   {
     "name": "align-dev",
     "full_name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
     "url": "https://github.com/razr001/align-dev",
-    "stars": 347,
+    "stars": 351,
     "language": "TypeScript",
-    "updated_at": "2026-06-09T10:13:49Z"
+    "updated_at": "2026-06-09T14:33:10Z"
   },
   {
     "name": "speaker",
     "full_name": "AI272/speaker",
     "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
     "url": "https://github.com/AI272/speaker",
-    "stars": 175,
+    "stars": 182,
     "language": "Python",
-    "updated_at": "2026-06-09T10:19:33Z"
+    "updated_at": "2026-06-09T14:43:15Z"
+  },
+  {
+    "name": "ai-shortVideo-pipeline",
+    "full_name": "myccarl/ai-shortVideo-pipeline",
+    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+    "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+    "stars": 102,
+    "language": "Python",
+    "updated_at": "2026-06-09T13:38:39Z"
   },
   {
     "name": "text_classification",
@@ -43,15 +52,6 @@
     "stars": 101,
     "language": "Python",
     "updated_at": "2026-06-08T03:42:40Z"
-  },
-  {
-    "name": "ai-shortVideo-pipeline",
-    "full_name": "myccarl/ai-shortVideo-pipeline",
-    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
-    "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 100,
-    "language": "Python",
-    "updated_at": "2026-06-09T10:48:33Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -76,9 +76,9 @@
     "full_name": "adrianhajdin/job_pilot",
     "description": "AI-powered job search assistance for matching roles, tailored resumes, and faster applications.",
     "url": "https://github.com/adrianhajdin/job_pilot",
-    "stars": 38,
+    "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-06-09T06:39:30Z"
+    "updated_at": "2026-06-09T14:42:44Z"
   },
   {
     "name": "Council",
