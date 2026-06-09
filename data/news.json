@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-06-09 18:05:46",
+  "generated_at": "2026-06-09 21:47:26",
   "news": [
     {
-      "title": "Where is the AI jobs crisis?",
-      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
       "source": "Hacker News",
-      "time": "2026-06-09 17:29",
-      "score": 23,
-      "comments": 13
+      "time": "2026-06-09 19:21",
+      "score": 93,
+      "comments": 14
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "source": "Hacker News",
       "time": "2026-06-09 07:33",
-      "score": 451,
-      "comments": 161
+      "score": 512,
+      "comments": 173
+    },
+    {
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "source": "Hacker News",
+      "time": "2026-06-09 18:45",
+      "score": 188,
+      "comments": 81
     }
   ]
 }
