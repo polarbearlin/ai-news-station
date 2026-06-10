@@ -4,18 +4,27 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 544,
+    "stars": 546,
     "language": null,
-    "updated_at": "2026-06-10T15:33:48Z"
+    "updated_at": "2026-06-10T16:53:05Z"
   },
   {
     "name": "ai-shortVideo-pipeline",
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 121,
+    "stars": 123,
     "language": "Python",
-    "updated_at": "2026-06-10T15:24:31Z"
+    "updated_at": "2026-06-10T18:18:22Z"
+  },
+  {
+    "name": "AI-Website-Audit-CLI",
+    "full_name": "Tools2U/AI-Website-Audit-CLI",
+    "description": "Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis.",
+    "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
+    "stars": 57,
+    "language": "Python",
+    "updated_at": "2026-06-10T17:14:57Z"
   },
   {
     "name": "axocoatl",
@@ -24,16 +33,7 @@
     "url": "https://github.com/axocoatl/axocoatl",
     "stars": 57,
     "language": "Rust",
-    "updated_at": "2026-06-10T15:03:46Z"
-  },
-  {
-    "name": "AI-Website-Audit-CLI",
-    "full_name": "Tools2U/AI-Website-Audit-CLI",
-    "description": "Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis.",
-    "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
-    "stars": 55,
-    "language": "Python",
-    "updated_at": "2026-06-07T23:37:59Z"
+    "updated_at": "2026-06-10T17:34:51Z"
   },
   {
     "name": "Council",
@@ -49,9 +49,9 @@
     "full_name": "amarnath3003/MCPify",
     "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
     "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 34,
+    "stars": 37,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T12:49:00Z"
+    "updated_at": "2026-06-10T17:25:49Z"
   },
   {
     "name": "lrnev-govern",
@@ -67,9 +67,9 @@
     "full_name": "engineering-os/engineering-os",
     "description": "Your AI finally remembers your codebase",
     "url": "https://github.com/engineering-os/engineering-os",
-    "stars": 28,
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T09:04:07Z"
+    "updated_at": "2026-06-10T15:39:48Z"
   },
   {
     "name": "agentgraphed",
@@ -78,7 +78,7 @@
     "url": "https://github.com/sudomichael/agentgraphed",
     "stars": 26,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T15:11:54Z"
+    "updated_at": "2026-06-10T16:06:43Z"
   },
   {
     "name": "arxiv-reader-mcp",
