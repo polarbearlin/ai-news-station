@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-10 03:44:23",
+  "generated_at": "2026-06-10 08:07:54",
   "news": [
     {
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
       "source": "Hacker News",
       "time": "2026-06-10 00:29",
-      "score": 321,
-      "comments": 125
-    },
-    {
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "source": "Hacker News",
-      "time": "2026-06-10 02:25",
-      "score": 33,
-      "comments": 12
+      "score": 660,
+      "comments": 239
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "source": "Hacker News",
       "time": "2026-06-10 01:44",
-      "score": 126,
-      "comments": 51
+      "score": 440,
+      "comments": 244
+    },
+    {
+      "title": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "source": "Hacker News",
+      "time": "2026-06-10 02:25",
+      "score": 94,
+      "comments": 50
     },
     {
       "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "url": "https://aarushgupta.io/posts/kan-fpga/",
       "source": "Hacker News",
       "time": "2026-06-09 19:21",
-      "score": 172,
-      "comments": 24
+      "score": 217,
+      "comments": 30
     }
   ]
 }
