@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-06-10 08:07:54",
+  "generated_at": "2026-06-10 15:34:57",
   "news": [
+    {
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "source": "Hacker News",
+      "time": "2026-06-10 15:01",
+      "score": 12,
+      "comments": 1
+    },
+    {
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "source": "Hacker News",
+      "time": "2026-06-10 12:11",
+      "score": 85,
+      "comments": 30
+    },
     {
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
       "source": "Hacker News",
       "time": "2026-06-10 00:29",
-      "score": 660,
-      "comments": 239
+      "score": 1019,
+      "comments": 353
     },
     {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "title": "Buy a train, bridge or tracks from the Swiss Railway",
+      "url": "https://sbbresale.ch/",
       "source": "Hacker News",
-      "time": "2026-06-10 01:44",
-      "score": 440,
-      "comments": 244
+      "time": "2026-06-08 09:05",
+      "score": 92,
+      "comments": 49
     },
     {
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
       "source": "Hacker News",
-      "time": "2026-06-10 02:25",
-      "score": 94,
-      "comments": 50
-    },
-    {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "source": "Hacker News",
-      "time": "2026-06-09 19:21",
-      "score": 217,
-      "comments": 30
+      "time": "2026-06-10 13:39",
+      "score": 38,
+      "comments": 12
     }
   ]
 }

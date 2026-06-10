@@ -4,27 +4,27 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 527,
+    "stars": 544,
     "language": null,
-    "updated_at": "2026-06-10T07:46:14Z"
+    "updated_at": "2026-06-10T15:33:48Z"
   },
   {
     "name": "ai-shortVideo-pipeline",
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 117,
+    "stars": 121,
     "language": "Python",
-    "updated_at": "2026-06-10T06:43:33Z"
+    "updated_at": "2026-06-10T15:24:31Z"
   },
   {
     "name": "axocoatl",
     "full_name": "axocoatl/axocoatl",
     "description": "Agentic runtime in Rust — persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
     "url": "https://github.com/axocoatl/axocoatl",
-    "stars": 56,
+    "stars": 57,
     "language": "Rust",
-    "updated_at": "2026-06-10T07:42:32Z"
+    "updated_at": "2026-06-10T15:03:46Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -51,7 +51,7 @@
     "url": "https://github.com/amarnath3003/MCPify",
     "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T07:38:31Z"
+    "updated_at": "2026-06-10T12:49:00Z"
   },
   {
     "name": "lrnev-govern",
@@ -67,18 +67,18 @@
     "full_name": "engineering-os/engineering-os",
     "description": "Your AI finally remembers your codebase",
     "url": "https://github.com/engineering-os/engineering-os",
-    "stars": 27,
+    "stars": 28,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T07:16:44Z"
+    "updated_at": "2026-06-10T09:04:07Z"
   },
   {
     "name": "agentgraphed",
     "full_name": "sudomichael/agentgraphed",
     "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
     "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 24,
+    "stars": 26,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T06:13:45Z"
+    "updated_at": "2026-06-10T15:11:54Z"
   },
   {
     "name": "arxiv-reader-mcp",
