@@ -4,18 +4,18 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 546,
+    "stars": 548,
     "language": null,
-    "updated_at": "2026-06-10T16:53:05Z"
+    "updated_at": "2026-06-10T20:43:37Z"
   },
   {
     "name": "ai-shortVideo-pipeline",
     "full_name": "myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 123,
+    "stars": 125,
     "language": "Python",
-    "updated_at": "2026-06-10T18:18:22Z"
+    "updated_at": "2026-06-10T21:16:15Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -33,7 +33,7 @@
     "url": "https://github.com/axocoatl/axocoatl",
     "stars": 57,
     "language": "Rust",
-    "updated_at": "2026-06-10T17:34:51Z"
+    "updated_at": "2026-06-10T18:34:40Z"
   },
   {
     "name": "Council",
@@ -69,24 +69,24 @@
     "url": "https://github.com/engineering-os/engineering-os",
     "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T15:39:48Z"
+    "updated_at": "2026-06-10T20:08:02Z"
   },
   {
     "name": "agentgraphed",
     "full_name": "sudomichael/agentgraphed",
     "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
     "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 26,
+    "stars": 28,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T16:06:43Z"
+    "updated_at": "2026-06-10T20:04:14Z"
   },
   {
-    "name": "arxiv-reader-mcp",
-    "full_name": "YounesBensafia/arxiv-reader-mcp",
-    "description": "Want to search arXiv papers, fetch metadata, and extract full-text PDFs without leaving your editor? This MCP server connects any MCP-compatible client (Claude Code, etc.) directly to arXiv.",
-    "url": "https://github.com/YounesBensafia/arxiv-reader-mcp",
-    "stars": 21,
-    "language": "Python",
-    "updated_at": "2026-06-10T03:15:13Z"
+    "name": "lightnovel-studio",
+    "full_name": "mmlong818/lightnovel-studio",
+    "description": "AI 驱动的中日双语轻小说生成器：一句话生成世界观/角色/大纲/逐章正文，支持 Gemini/Claude/OpenAI 等多提供商，纯前端 localStorage 存储",
+    "url": "https://github.com/mmlong818/lightnovel-studio",
+    "stars": 22,
+    "language": "TypeScript",
+    "updated_at": "2026-06-10T19:17:22Z"
   }
 ]
