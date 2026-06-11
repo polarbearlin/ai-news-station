@@ -4,36 +4,18 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 548,
+    "stars": 556,
     "language": null,
-    "updated_at": "2026-06-10T20:43:37Z"
-  },
-  {
-    "name": "ai-shortVideo-pipeline",
-    "full_name": "myccarl/ai-shortVideo-pipeline",
-    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
-    "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-    "stars": 125,
-    "language": "Python",
-    "updated_at": "2026-06-10T21:16:15Z"
+    "updated_at": "2026-06-11T03:43:31Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
     "full_name": "Tools2U/AI-Website-Audit-CLI",
     "description": "Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis.",
     "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
-    "stars": 57,
+    "stars": 58,
     "language": "Python",
-    "updated_at": "2026-06-10T17:14:57Z"
-  },
-  {
-    "name": "axocoatl",
-    "full_name": "axocoatl/axocoatl",
-    "description": "Agentic runtime in Rust — persistent, supervised agents. Self-hosted, local-first, zero telemetry. Apache 2.0.",
-    "url": "https://github.com/axocoatl/axocoatl",
-    "stars": 57,
-    "language": "Rust",
-    "updated_at": "2026-06-10T18:34:40Z"
+    "updated_at": "2026-06-11T01:37:52Z"
   },
   {
     "name": "Council",
@@ -49,18 +31,18 @@
     "full_name": "amarnath3003/MCPify",
     "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
     "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 37,
+    "stars": 38,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T17:25:49Z"
+    "updated_at": "2026-06-11T01:55:10Z"
   },
   {
-    "name": "lrnev-govern",
-    "full_name": "LuChangQiu/lrnev-govern",
-    "description": "AI 协作开发的项目治理引擎。MCP 服务 + CLI 双形态，文件即真相，零模型依赖。",
-    "url": "https://github.com/LuChangQiu/lrnev-govern",
+    "name": "agentgraphed",
+    "full_name": "sudomichael/agentgraphed",
+    "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
+    "url": "https://github.com/sudomichael/agentgraphed",
     "stars": 30,
     "language": "TypeScript",
-    "updated_at": "2026-06-08T10:00:37Z"
+    "updated_at": "2026-06-11T03:34:02Z"
   },
   {
     "name": "engineering-os",
@@ -72,21 +54,39 @@
     "updated_at": "2026-06-10T20:08:02Z"
   },
   {
-    "name": "agentgraphed",
-    "full_name": "sudomichael/agentgraphed",
-    "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
-    "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 28,
-    "language": "TypeScript",
-    "updated_at": "2026-06-10T20:04:14Z"
-  },
-  {
     "name": "lightnovel-studio",
     "full_name": "mmlong818/lightnovel-studio",
     "description": "AI 驱动的中日双语轻小说生成器：一句话生成世界观/角色/大纲/逐章正文，支持 Gemini/Claude/OpenAI 等多提供商，纯前端 localStorage 存储",
     "url": "https://github.com/mmlong818/lightnovel-studio",
-    "stars": 22,
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-06-10T19:17:22Z"
+    "updated_at": "2026-06-11T03:46:54Z"
+  },
+  {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 23,
+    "language": "Swift",
+    "updated_at": "2026-06-11T02:39:13Z"
+  },
+  {
+    "name": "arxiv-reader-mcp",
+    "full_name": "YounesBensafia/arxiv-reader-mcp",
+    "description": "Want to search arXiv papers, fetch metadata, and extract full-text PDFs without leaving your editor? This MCP server connects any MCP-compatible client (Claude Code, etc.) directly to arXiv.",
+    "url": "https://github.com/YounesBensafia/arxiv-reader-mcp",
+    "stars": 21,
+    "language": "Python",
+    "updated_at": "2026-06-10T03:15:13Z"
+  },
+  {
+    "name": "rainman",
+    "full_name": "yan-yanko/rainman",
+    "description": "Context-aware project memory for AI coding tools. Zero LLM calls. Runs locally.",
+    "url": "https://github.com/yan-yanko/rainman",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-06-10T17:25:34Z"
   }
 ]
