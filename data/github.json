@@ -4,9 +4,9 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 568,
+    "stars": 570,
     "language": null,
-    "updated_at": "2026-06-11T18:45:51Z"
+    "updated_at": "2026-06-11T20:04:08Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -36,6 +36,15 @@
     "updated_at": "2026-06-11T07:12:27Z"
   },
   {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 38,
+    "language": "Swift",
+    "updated_at": "2026-06-11T21:19:27Z"
+  },
+  {
     "name": "clawbot",
     "full_name": "adysec/clawbot",
     "description": "iLink bot management tool with CLI and web dashboard.",
@@ -58,18 +67,9 @@
     "full_name": "sudomichael/agentgraphed",
     "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
     "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 34,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-06-11T17:39:55Z"
-  },
-  {
-    "name": "coreai-model-zoo",
-    "full_name": "john-rocky/coreai-model-zoo",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-    "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 34,
-    "language": "Swift",
-    "updated_at": "2026-06-11T16:58:54Z"
+    "updated_at": "2026-06-11T19:50:49Z"
   },
   {
     "name": "lightnovel-studio",
@@ -78,7 +78,7 @@
     "url": "https://github.com/mmlong818/lightnovel-studio",
     "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-06-11T06:49:23Z"
+    "updated_at": "2026-06-11T19:59:02Z"
   },
   {
     "name": "engineering-os",

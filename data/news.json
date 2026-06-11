@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-11 18:45:58",
+  "generated_at": "2026-06-11 22:02:06",
   "news": [
     {
-      "title": "Open Reproduction of DeepSeek-R1",
-      "url": "https://github.com/huggingface/open-r1",
+      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
       "source": "Hacker News",
-      "time": "2026-06-11 13:14",
-      "score": 140,
-      "comments": 14
+      "time": "2026-06-11 19:54",
+      "score": 81,
+      "comments": 66
+    },
+    {
+      "title": "Ear Training Practice Exercises",
+      "url": "https://tonedear.com/",
+      "source": "Hacker News",
+      "time": "2026-06-08 16:38",
+      "score": 90,
+      "comments": 59
     }
   ]
 }
