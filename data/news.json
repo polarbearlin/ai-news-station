@@ -1,45 +1,13 @@
 {
-  "generated_at": "2026-06-11 12:09:23",
+  "generated_at": "2026-06-11 18:45:58",
   "news": [
     {
-      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "title": "Open Reproduction of DeepSeek-R1",
+      "url": "https://github.com/huggingface/open-r1",
       "source": "Hacker News",
-      "time": "2026-06-11 06:42",
-      "score": 372,
-      "comments": 160
-    },
-    {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "source": "Hacker News",
-      "time": "2026-06-11 00:10",
-      "score": 443,
-      "comments": 192
-    },
-    {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "Hacker News",
-      "time": "2026-06-10 16:42",
-      "score": 481,
-      "comments": 421
-    },
-    {
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "source": "Hacker News",
-      "time": "2026-06-09 14:29",
-      "score": 40,
-      "comments": 8
-    },
-    {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "source": "Hacker News",
-      "time": "2026-06-09 17:23",
-      "score": 478,
-      "comments": 242
+      "time": "2026-06-11 13:14",
+      "score": 140,
+      "comments": 14
     }
   ]
 }

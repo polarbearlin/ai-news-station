@@ -4,9 +4,9 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 560,
+    "stars": 568,
     "language": null,
-    "updated_at": "2026-06-11T09:49:12Z"
+    "updated_at": "2026-06-11T18:45:51Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -22,9 +22,9 @@
     "full_name": "amarnath3003/MCPify",
     "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
     "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 40,
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-06-11T06:05:20Z"
+    "updated_at": "2026-06-11T16:29:32Z"
   },
   {
     "name": "Council",
@@ -45,13 +45,31 @@
     "updated_at": "2026-06-11T11:57:06Z"
   },
   {
+    "name": "zhuanglema",
+    "full_name": "liyupi/zhuanglema",
+    "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
+    "url": "https://github.com/liyupi/zhuanglema",
+    "stars": 36,
+    "language": "JavaScript",
+    "updated_at": "2026-06-11T18:15:24Z"
+  },
+  {
     "name": "agentgraphed",
     "full_name": "sudomichael/agentgraphed",
     "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
     "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 33,
+    "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-06-11T09:37:10Z"
+    "updated_at": "2026-06-11T17:39:55Z"
+  },
+  {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 34,
+    "language": "Swift",
+    "updated_at": "2026-06-11T16:58:54Z"
   },
   {
     "name": "lightnovel-studio",
@@ -70,23 +88,5 @@
     "stars": 30,
     "language": "TypeScript",
     "updated_at": "2026-06-11T07:15:50Z"
-  },
-  {
-    "name": "zhuanglema",
-    "full_name": "liyupi/zhuanglema",
-    "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
-    "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 25,
-    "language": "JavaScript",
-    "updated_at": "2026-06-11T12:01:46Z"
-  },
-  {
-    "name": "coreai-model-zoo",
-    "full_name": "john-rocky/coreai-model-zoo",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-    "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 25,
-    "language": "Swift",
-    "updated_at": "2026-06-11T10:03:14Z"
   }
 ]
