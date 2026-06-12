@@ -4,18 +4,18 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 591,
+    "stars": 597,
     "language": null,
-    "updated_at": "2026-06-12T17:13:23Z"
+    "updated_at": "2026-06-12T21:40:32Z"
   },
   {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 238,
+    "stars": 262,
     "language": "Zig",
-    "updated_at": "2026-06-12T17:52:27Z"
+    "updated_at": "2026-06-12T21:32:53Z"
   },
   {
     "name": "fanbox",
@@ -31,9 +31,18 @@
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 67,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-06-12T17:50:20Z"
+    "updated_at": "2026-06-12T21:25:36Z"
+  },
+  {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 60,
+    "language": "Swift",
+    "updated_at": "2026-06-12T21:28:15Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -45,15 +54,6 @@
     "updated_at": "2026-06-12T16:24:06Z"
   },
   {
-    "name": "coreai-model-zoo",
-    "full_name": "john-rocky/coreai-model-zoo",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-    "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 57,
-    "language": "Swift",
-    "updated_at": "2026-06-12T17:05:19Z"
-  },
-  {
     "name": "xquant-beginner",
     "full_name": "xingwudao/xquant-beginner",
     "description": "《XQuant：人人都是量化交易员》开源书稿",
@@ -63,6 +63,15 @@
     "updated_at": "2026-06-12T17:08:36Z"
   },
   {
+    "name": "Council",
+    "full_name": "albertofettucini/Council",
+    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
+    "url": "https://github.com/albertofettucini/Council",
+    "stars": 56,
+    "language": "Swift",
+    "updated_at": "2026-06-12T21:11:27Z"
+  },
+  {
     "name": "zhuanglema",
     "full_name": "liyupi/zhuanglema",
     "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
@@ -70,15 +79,6 @@
     "stars": 54,
     "language": "JavaScript",
     "updated_at": "2026-06-12T13:26:36Z"
-  },
-  {
-    "name": "Council",
-    "full_name": "albertofettucini/Council",
-    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
-    "url": "https://github.com/albertofettucini/Council",
-    "stars": 51,
-    "language": "Swift",
-    "updated_at": "2026-06-12T17:53:07Z"
   },
   {
     "name": "MCPify",
