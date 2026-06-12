@@ -4,18 +4,18 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 571,
+    "stars": 577,
     "language": null,
-    "updated_at": "2026-06-11T22:47:40Z"
+    "updated_at": "2026-06-12T11:21:57Z"
   },
   {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 104,
+    "stars": 188,
     "language": "Zig",
-    "updated_at": "2026-06-12T03:56:53Z"
+    "updated_at": "2026-06-12T11:36:04Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -27,40 +27,58 @@
     "updated_at": "2026-06-11T01:37:52Z"
   },
   {
-    "name": "coreai-model-zoo",
-    "full_name": "john-rocky/coreai-model-zoo",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-    "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 46,
-    "language": "Swift",
-    "updated_at": "2026-06-12T03:07:03Z"
-  },
-  {
     "name": "zhuanglema",
     "full_name": "liyupi/zhuanglema",
     "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
     "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 43,
+    "stars": 52,
     "language": "JavaScript",
-    "updated_at": "2026-06-12T03:55:56Z"
+    "updated_at": "2026-06-12T09:40:25Z"
+  },
+  {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 51,
+    "language": "Swift",
+    "updated_at": "2026-06-12T11:30:07Z"
+  },
+  {
+    "name": "xquant-beginner",
+    "full_name": "xingwudao/xquant-beginner",
+    "description": "《XQuant：人人都是量化交易员》开源书稿",
+    "url": "https://github.com/xingwudao/xquant-beginner",
+    "stars": 46,
+    "language": "TypeScript",
+    "updated_at": "2026-06-12T11:26:08Z"
+  },
+  {
+    "name": "testsprite-cli",
+    "full_name": "TestSprite/testsprite-cli",
+    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+    "url": "https://github.com/TestSprite/testsprite-cli",
+    "stars": 45,
+    "language": "TypeScript",
+    "updated_at": "2026-06-12T11:13:41Z"
   },
   {
     "name": "MCPify",
     "full_name": "amarnath3003/MCPify",
     "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
     "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-06-11T16:29:32Z"
+    "updated_at": "2026-06-12T11:32:51Z"
   },
   {
     "name": "Council",
     "full_name": "albertofettucini/Council",
     "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
     "url": "https://github.com/albertofettucini/Council",
-    "stars": 39,
+    "stars": 41,
     "language": "Swift",
-    "updated_at": "2026-06-11T07:12:27Z"
+    "updated_at": "2026-06-12T10:13:31Z"
   },
   {
     "name": "clawbot",
@@ -70,23 +88,5 @@
     "stars": 37,
     "language": "Rust",
     "updated_at": "2026-06-11T11:57:06Z"
-  },
-  {
-    "name": "agentgraphed",
-    "full_name": "sudomichael/agentgraphed",
-    "description": "Local-first analytics dashboard for AI coding sessions. See what you built with Claude Code & Codex CLI.",
-    "url": "https://github.com/sudomichael/agentgraphed",
-    "stars": 35,
-    "language": "TypeScript",
-    "updated_at": "2026-06-11T19:50:49Z"
-  },
-  {
-    "name": "lightnovel-studio",
-    "full_name": "mmlong818/lightnovel-studio",
-    "description": "AI 驱动的中日双语轻小说生成器：一句话生成世界观/角色/大纲/逐章正文，支持 Gemini/Claude/OpenAI 等多提供商，纯前端 localStorage 存储",
-    "url": "https://github.com/mmlong818/lightnovel-studio",
-    "stars": 32,
-    "language": "TypeScript",
-    "updated_at": "2026-06-11T19:59:02Z"
   }
 ]
