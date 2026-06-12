@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-06-12 11:42:55",
+  "generated_at": "2026-06-12 15:15:08",
   "news": [
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
       "source": "Hacker News",
       "time": "2026-06-12 04:42",
-      "score": 717,
-      "comments": 283
+      "score": 1107,
+      "comments": 416
     },
     {
       "title": "The Future of Email",
       "url": "https://www.fastmail.com/blog/the-future-of-email/",
       "source": "Hacker News",
       "time": "2026-06-12 10:38",
-      "score": 45,
-      "comments": 43
-    },
-    {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "source": "Hacker News",
-      "time": "2026-06-12 11:11",
-      "score": 6,
-      "comments": 0
+      "score": 136,
+      "comments": 161
     }
   ]
 }
