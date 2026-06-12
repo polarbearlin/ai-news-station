@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-12 15:15:08",
+  "generated_at": "2026-06-12 18:07:04",
   "news": [
     {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
       "source": "Hacker News",
-      "time": "2026-06-12 04:42",
-      "score": 1107,
-      "comments": 416
-    },
-    {
-      "title": "The Future of Email",
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "source": "Hacker News",
-      "time": "2026-06-12 10:38",
-      "score": 136,
-      "comments": 161
+      "time": "2026-06-12 14:48",
+      "score": 93,
+      "comments": 59
     }
   ]
 }

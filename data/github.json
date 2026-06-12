@@ -4,45 +4,63 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 585,
+    "stars": 591,
     "language": null,
-    "updated_at": "2026-06-12T14:43:56Z"
+    "updated_at": "2026-06-12T17:13:23Z"
   },
   {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 225,
+    "stars": 238,
     "language": "Zig",
-    "updated_at": "2026-06-12T15:13:13Z"
+    "updated_at": "2026-06-12T17:52:27Z"
+  },
+  {
+    "name": "fanbox",
+    "full_name": "alchaincyf/fanbox",
+    "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "stars": 203,
+    "language": "JavaScript",
+    "updated_at": "2026-06-12T16:28:25Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 59,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-06-12T14:34:00Z"
+    "updated_at": "2026-06-12T17:50:20Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
     "full_name": "Tools2U/AI-Website-Audit-CLI",
     "description": "Open-source AI-powered website audit CLI using the OpenAI API for SEO, UX, accessibility, performance, trust, and content analysis.",
     "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
-    "stars": 58,
+    "stars": 59,
     "language": "Python",
-    "updated_at": "2026-06-11T01:37:52Z"
+    "updated_at": "2026-06-12T16:24:06Z"
   },
   {
     "name": "coreai-model-zoo",
     "full_name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 55,
+    "stars": 57,
     "language": "Swift",
-    "updated_at": "2026-06-12T14:58:39Z"
+    "updated_at": "2026-06-12T17:05:19Z"
+  },
+  {
+    "name": "xquant-beginner",
+    "full_name": "xingwudao/xquant-beginner",
+    "description": "《XQuant：人人都是量化交易员》开源书稿",
+    "url": "https://github.com/xingwudao/xquant-beginner",
+    "stars": 57,
+    "language": "TypeScript",
+    "updated_at": "2026-06-12T17:08:36Z"
   },
   {
     "name": "zhuanglema",
@@ -54,13 +72,13 @@
     "updated_at": "2026-06-12T13:26:36Z"
   },
   {
-    "name": "xquant-beginner",
-    "full_name": "xingwudao/xquant-beginner",
-    "description": "《XQuant：人人都是量化交易员》开源书稿",
-    "url": "https://github.com/xingwudao/xquant-beginner",
-    "stars": 54,
-    "language": "TypeScript",
-    "updated_at": "2026-06-12T15:05:22Z"
+    "name": "Council",
+    "full_name": "albertofettucini/Council",
+    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
+    "url": "https://github.com/albertofettucini/Council",
+    "stars": 51,
+    "language": "Swift",
+    "updated_at": "2026-06-12T17:53:07Z"
   },
   {
     "name": "MCPify",
@@ -70,23 +88,5 @@
     "stars": 45,
     "language": "TypeScript",
     "updated_at": "2026-06-12T14:06:05Z"
-  },
-  {
-    "name": "Council",
-    "full_name": "albertofettucini/Council",
-    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
-    "url": "https://github.com/albertofettucini/Council",
-    "stars": 44,
-    "language": "Swift",
-    "updated_at": "2026-06-12T14:58:40Z"
-  },
-  {
-    "name": "clawbot",
-    "full_name": "adysec/clawbot",
-    "description": "iLink bot management tool with CLI and web dashboard.",
-    "url": "https://github.com/adysec/clawbot",
-    "stars": 37,
-    "language": "Rust",
-    "updated_at": "2026-06-11T11:57:06Z"
   }
 ]
