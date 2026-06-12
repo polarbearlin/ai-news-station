@@ -4,9 +4,18 @@
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 570,
+    "stars": 571,
     "language": null,
-    "updated_at": "2026-06-11T20:04:08Z"
+    "updated_at": "2026-06-11T22:47:40Z"
+  },
+  {
+    "name": "boo",
+    "full_name": "coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "url": "https://github.com/coder/boo",
+    "stars": 104,
+    "language": "Zig",
+    "updated_at": "2026-06-12T03:56:53Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -16,6 +25,24 @@
     "stars": 58,
     "language": "Python",
     "updated_at": "2026-06-11T01:37:52Z"
+  },
+  {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 46,
+    "language": "Swift",
+    "updated_at": "2026-06-12T03:07:03Z"
+  },
+  {
+    "name": "zhuanglema",
+    "full_name": "liyupi/zhuanglema",
+    "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
+    "url": "https://github.com/liyupi/zhuanglema",
+    "stars": 43,
+    "language": "JavaScript",
+    "updated_at": "2026-06-12T03:55:56Z"
   },
   {
     "name": "MCPify",
@@ -36,15 +63,6 @@
     "updated_at": "2026-06-11T07:12:27Z"
   },
   {
-    "name": "coreai-model-zoo",
-    "full_name": "john-rocky/coreai-model-zoo",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-    "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 38,
-    "language": "Swift",
-    "updated_at": "2026-06-11T21:19:27Z"
-  },
-  {
     "name": "clawbot",
     "full_name": "adysec/clawbot",
     "description": "iLink bot management tool with CLI and web dashboard.",
@@ -52,15 +70,6 @@
     "stars": 37,
     "language": "Rust",
     "updated_at": "2026-06-11T11:57:06Z"
-  },
-  {
-    "name": "zhuanglema",
-    "full_name": "liyupi/zhuanglema",
-    "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
-    "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 36,
-    "language": "JavaScript",
-    "updated_at": "2026-06-11T18:15:24Z"
   },
   {
     "name": "agentgraphed",
@@ -79,14 +88,5 @@
     "stars": 32,
     "language": "TypeScript",
     "updated_at": "2026-06-11T19:59:02Z"
-  },
-  {
-    "name": "engineering-os",
-    "full_name": "engineering-os/engineering-os",
-    "description": "Your AI finally remembers your codebase",
-    "url": "https://github.com/engineering-os/engineering-os",
-    "stars": 30,
-    "language": "TypeScript",
-    "updated_at": "2026-06-11T07:15:50Z"
   }
 ]

@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-06-11 22:02:06",
+  "generated_at": "2026-06-12 04:00:50",
   "news": [
     {
-      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "source": "Hacker News",
-      "time": "2026-06-11 19:54",
-      "score": 81,
-      "comments": 66
+      "time": "2026-06-11 12:05",
+      "score": 342,
+      "comments": 341
     },
     {
-      "title": "Ear Training Practice Exercises",
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "source": "Hacker News",
+      "time": "2026-06-11 22:59",
+      "score": 62,
+      "comments": 38
+    },
+    {
+      "title": "Ear Training Practice",
       "url": "https://tonedear.com/",
       "source": "Hacker News",
       "time": "2026-06-08 16:38",
-      "score": 90,
-      "comments": 59
+      "score": 179,
+      "comments": 90
     }
   ]
 }
