@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-13 14:00:24",
+  "generated_at": "2026-06-13 17:22:27",
   "news": [
+    {
+      "title": "AI Coding at Home Without Going Broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "source": "Hacker News",
+      "time": "2026-06-13 16:45",
+      "score": 29,
+      "comments": 17
+    },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
       "url": "https://github.com/tensorzero/tensorzero",
       "source": "Hacker News",
       "time": "2026-06-13 12:10",
-      "score": 54,
-      "comments": 24
+      "score": 180,
+      "comments": 122
     }
   ]
 }
