@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-13 17:22:27",
+  "generated_at": "2026-06-13 21:15:49",
   "news": [
     {
-      "title": "AI Coding at Home Without Going Broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "source": "Hacker News",
-      "time": "2026-06-13 16:45",
-      "score": 29,
-      "comments": 17
-    },
-    {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "source": "Hacker News",
-      "time": "2026-06-13 12:10",
-      "score": 180,
-      "comments": 122
+      "time": "2026-06-13 16:57",
+      "score": 322,
+      "comments": 253
     }
   ]
 }
