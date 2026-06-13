@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-06-13 03:47:45",
+  "generated_at": "2026-06-13 07:47:34",
   "news": [
     {
-      "title": "Open Source AI Must Win",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "source": "Hacker News",
+      "time": "2026-06-13 05:44",
+      "score": 38,
+      "comments": 28
+    },
+    {
+      "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
       "source": "Hacker News",
       "time": "2026-06-13 02:14",
-      "score": 304,
-      "comments": 68
+      "score": 774,
+      "comments": 239
     },
     {
       "title": "Show HN: Putt.day a daily mini golf game",
       "url": "https://putt.day/",
       "source": "Hacker News",
       "time": "2026-06-12 22:56",
-      "score": 94,
-      "comments": 57
+      "score": 149,
+      "comments": 70
     }
   ]
 }
