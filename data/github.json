@@ -1,39 +1,39 @@
 [
   {
-    "name": "guard-skills",
-    "full_name": "amElnagdy/guard-skills",
-    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "url": "https://github.com/amElnagdy/guard-skills",
-    "stars": 597,
-    "language": null,
-    "updated_at": "2026-06-12T21:40:32Z"
-  },
-  {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 262,
+    "stars": 278,
     "language": "Zig",
-    "updated_at": "2026-06-12T21:32:53Z"
+    "updated_at": "2026-06-13T03:41:37Z"
   },
   {
     "name": "fanbox",
     "full_name": "alchaincyf/fanbox",
     "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 203,
+    "stars": 217,
     "language": "JavaScript",
-    "updated_at": "2026-06-12T16:28:25Z"
+    "updated_at": "2026-06-13T03:07:30Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 78,
+    "stars": 98,
     "language": "TypeScript",
-    "updated_at": "2026-06-12T21:25:36Z"
+    "updated_at": "2026-06-13T03:46:19Z"
+  },
+  {
+    "name": "xquant-beginner",
+    "full_name": "xingwudao/xquant-beginner",
+    "description": "《XQuant：人人都是量化交易员》开源书稿",
+    "url": "https://github.com/xingwudao/xquant-beginner",
+    "stars": 63,
+    "language": "TypeScript",
+    "updated_at": "2026-06-13T03:45:35Z"
   },
   {
     "name": "coreai-model-zoo",
@@ -42,7 +42,7 @@
     "url": "https://github.com/john-rocky/coreai-model-zoo",
     "stars": 60,
     "language": "Swift",
-    "updated_at": "2026-06-12T21:28:15Z"
+    "updated_at": "2026-06-13T03:09:45Z"
   },
   {
     "name": "AI-Website-Audit-CLI",
@@ -54,39 +54,39 @@
     "updated_at": "2026-06-12T16:24:06Z"
   },
   {
-    "name": "xquant-beginner",
-    "full_name": "xingwudao/xquant-beginner",
-    "description": "《XQuant：人人都是量化交易员》开源书稿",
-    "url": "https://github.com/xingwudao/xquant-beginner",
-    "stars": 57,
-    "language": "TypeScript",
-    "updated_at": "2026-06-12T17:08:36Z"
-  },
-  {
-    "name": "Council",
-    "full_name": "albertofettucini/Council",
-    "description": "Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
-    "url": "https://github.com/albertofettucini/Council",
-    "stars": 56,
-    "language": "Swift",
-    "updated_at": "2026-06-12T21:11:27Z"
-  },
-  {
     "name": "zhuanglema",
     "full_name": "liyupi/zhuanglema",
     "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
     "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 54,
+    "stars": 56,
     "language": "JavaScript",
-    "updated_at": "2026-06-12T13:26:36Z"
+    "updated_at": "2026-06-13T03:13:46Z"
   },
   {
-    "name": "MCPify",
-    "full_name": "amarnath3003/MCPify",
-    "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
-    "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 45,
+    "name": "clawbot",
+    "full_name": "adysec/clawbot",
+    "description": "iLink bot management tool with CLI and web dashboard.",
+    "url": "https://github.com/adysec/clawbot",
+    "stars": 37,
+    "language": "Rust",
+    "updated_at": "2026-06-11T11:57:06Z"
+  },
+  {
+    "name": "lightnovel-studio",
+    "full_name": "mmlong818/lightnovel-studio",
+    "description": "AI 驱动的中日双语轻小说生成器：一句话生成世界观/角色/大纲/逐章正文，支持 Gemini/Claude/OpenAI 等多提供商，纯前端 localStorage 存储",
+    "url": "https://github.com/mmlong818/lightnovel-studio",
+    "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-06-12T14:06:05Z"
+    "updated_at": "2026-06-11T19:59:02Z"
+  },
+  {
+    "name": "llmtrim",
+    "full_name": "fkiene/llmtrim",
+    "description": "💸 Cut ~66% off your LLM bill. Drop-in proxy compresses input, output, and cache: any provider, answers unchanged, no extra model calls. Single Rust binary.",
+    "url": "https://github.com/fkiene/llmtrim",
+    "stars": 22,
+    "language": "Rust",
+    "updated_at": "2026-06-13T01:30:32Z"
   }
 ]
