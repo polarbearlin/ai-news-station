@@ -1,57 +1,66 @@
 [
   {
-    "name": "boo",
-    "full_name": "coder/boo",
-    "description": "A GNU screen style terminal multiplexer built on libghostty.",
-    "url": "https://github.com/coder/boo",
-    "stars": 309,
-    "language": "Zig",
-    "updated_at": "2026-06-13T10:13:18Z"
-  },
-  {
     "name": "fanbox",
     "full_name": "alchaincyf/fanbox",
     "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 288,
+    "stars": 361,
     "language": "JavaScript",
-    "updated_at": "2026-06-13T10:27:56Z"
+    "updated_at": "2026-06-13T14:00:19Z"
+  },
+  {
+    "name": "boo",
+    "full_name": "coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "url": "https://github.com/coder/boo",
+    "stars": 317,
+    "language": "Zig",
+    "updated_at": "2026-06-13T13:30:57Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 161,
+    "stars": 221,
     "language": "TypeScript",
-    "updated_at": "2026-06-13T10:26:59Z"
+    "updated_at": "2026-06-13T13:56:03Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 116,
+    "stars": 117,
     "language": "TypeScript",
-    "updated_at": "2026-06-13T09:44:44Z"
+    "updated_at": "2026-06-13T13:05:36Z"
   },
   {
     "name": "xquant-beginner",
     "full_name": "xingwudao/xquant-beginner",
     "description": "《XQuant：人人都是量化交易员》开源书稿",
     "url": "https://github.com/xingwudao/xquant-beginner",
-    "stars": 67,
+    "stars": 72,
     "language": "TypeScript",
-    "updated_at": "2026-06-13T07:58:47Z"
+    "updated_at": "2026-06-13T12:35:40Z"
+  },
+  {
+    "name": "aipath",
+    "full_name": "buynao/aipath",
+    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+    "url": "https://github.com/buynao/aipath",
+    "stars": 67,
+    "language": "JavaScript",
+    "updated_at": "2026-06-13T13:57:13Z"
   },
   {
     "name": "coreai-model-zoo",
     "full_name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 63,
+    "stars": 66,
     "language": "Swift",
-    "updated_at": "2026-06-13T09:41:06Z"
+    "updated_at": "2026-06-13T12:14:45Z"
   },
   {
     "name": "zhuanglema",
@@ -72,21 +81,12 @@
     "updated_at": "2026-06-12T16:24:06Z"
   },
   {
-    "name": "aipath",
-    "full_name": "buynao/aipath",
-    "description": "Interactive AI literacy course — 30   lessons, zero math",
-    "url": "https://github.com/buynao/aipath",
-    "stars": 50,
-    "language": "JavaScript",
-    "updated_at": "2026-06-13T10:23:43Z"
-  },
-  {
     "name": "comcom",
     "full_name": "eric248550/comcom",
     "description": "AI communication toolbar for Gmail and Slack — select text, pick a rewrite mode, done. Self-hostable Chrome Extension + SaaS built with Next.js, Cloudflare Workers, and OpenAI",
     "url": "https://github.com/eric248550/comcom",
-    "stars": 39,
+    "stars": 45,
     "language": "TypeScript",
-    "updated_at": "2026-06-13T10:27:31Z"
+    "updated_at": "2026-06-13T13:38:50Z"
   }
 ]

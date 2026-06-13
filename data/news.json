@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-06-13 10:28:56",
+  "generated_at": "2026-06-13 14:00:24",
   "news": [
     {
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "url": "https://github.com/Paca-AI/paca",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
       "source": "Hacker News",
-      "time": "2026-06-13 09:44",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "source": "Hacker News",
-      "time": "2026-06-13 02:14",
-      "score": 944,
-      "comments": 297
-    },
-    {
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "source": "Hacker News",
-      "time": "2026-06-13 05:44",
-      "score": 90,
-      "comments": 75
+      "time": "2026-06-13 12:10",
+      "score": 54,
+      "comments": 24
     }
   ]
 }
