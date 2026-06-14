@@ -4,18 +4,18 @@
     "full_name": "alchaincyf/fanbox",
     "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 516,
+    "stars": 522,
     "language": "JavaScript",
-    "updated_at": "2026-06-14T17:05:04Z"
+    "updated_at": "2026-06-14T20:49:02Z"
   },
   {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 413,
+    "stars": 431,
     "language": "Zig",
-    "updated_at": "2026-06-14T17:19:56Z"
+    "updated_at": "2026-06-14T21:03:28Z"
   },
   {
     "name": "Third-Eye",
@@ -31,27 +31,27 @@
     "full_name": "itsinseong/value-for-fable",
     "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
     "url": "https://github.com/itsinseong/value-for-fable",
-    "stars": 175,
+    "stars": 178,
     "language": "Python",
-    "updated_at": "2026-06-14T17:16:29Z"
+    "updated_at": "2026-06-14T20:49:55Z"
   },
   {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 171,
+    "stars": 175,
     "language": "JavaScript",
-    "updated_at": "2026-06-14T17:20:12Z"
+    "updated_at": "2026-06-14T19:12:58Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 154,
+    "stars": 160,
     "language": "TypeScript",
-    "updated_at": "2026-06-14T16:33:06Z"
+    "updated_at": "2026-06-14T20:47:20Z"
   },
   {
     "name": "ghostwork",
@@ -67,9 +67,9 @@
     "full_name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 121,
+    "stars": 122,
     "language": "Swift",
-    "updated_at": "2026-06-14T16:16:13Z"
+    "updated_at": "2026-06-14T19:39:16Z"
   },
   {
     "name": "xquant-beginner",
@@ -87,6 +87,6 @@
     "url": "https://github.com/PolyHelper/polyhelper",
     "stars": 66,
     "language": "JavaScript",
-    "updated_at": "2026-06-14T17:03:03Z"
+    "updated_at": "2026-06-14T19:28:31Z"
   }
 ]
