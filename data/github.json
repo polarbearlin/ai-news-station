@@ -4,54 +4,63 @@
     "full_name": "alchaincyf/fanbox",
     "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 522,
+    "stars": 528,
     "language": "JavaScript",
-    "updated_at": "2026-06-14T20:49:02Z"
+    "updated_at": "2026-06-15T03:56:31Z"
   },
   {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 431,
+    "stars": 483,
     "language": "Zig",
-    "updated_at": "2026-06-14T21:03:28Z"
+    "updated_at": "2026-06-15T04:19:05Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 286,
+    "stars": 287,
     "language": "TypeScript",
-    "updated_at": "2026-06-14T13:05:18Z"
-  },
-  {
-    "name": "value-for-fable",
-    "full_name": "itsinseong/value-for-fable",
-    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
-    "url": "https://github.com/itsinseong/value-for-fable",
-    "stars": 178,
-    "language": "Python",
-    "updated_at": "2026-06-14T20:49:55Z"
+    "updated_at": "2026-06-15T02:07:32Z"
   },
   {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 175,
+    "stars": 204,
     "language": "JavaScript",
-    "updated_at": "2026-06-14T19:12:58Z"
+    "updated_at": "2026-06-15T03:58:44Z"
+  },
+  {
+    "name": "value-for-fable",
+    "full_name": "itsinseong/value-for-fable",
+    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
+    "url": "https://github.com/itsinseong/value-for-fable",
+    "stars": 183,
+    "language": "Python",
+    "updated_at": "2026-06-15T03:42:09Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 160,
+    "stars": 175,
     "language": "TypeScript",
-    "updated_at": "2026-06-14T20:47:20Z"
+    "updated_at": "2026-06-15T03:29:01Z"
+  },
+  {
+    "name": "coreai-model-zoo",
+    "full_name": "john-rocky/coreai-model-zoo",
+    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+    "url": "https://github.com/john-rocky/coreai-model-zoo",
+    "stars": 124,
+    "language": "Swift",
+    "updated_at": "2026-06-15T02:17:48Z"
   },
   {
     "name": "ghostwork",
@@ -63,30 +72,21 @@
     "updated_at": "2026-06-14T09:31:44Z"
   },
   {
-    "name": "coreai-model-zoo",
-    "full_name": "john-rocky/coreai-model-zoo",
-    "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-    "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 122,
-    "language": "Swift",
-    "updated_at": "2026-06-14T19:39:16Z"
+    "name": "perfectpixel-studio",
+    "full_name": "gykim80/perfectpixel-studio",
+    "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+    "url": "https://github.com/gykim80/perfectpixel-studio",
+    "stars": 105,
+    "language": "Go",
+    "updated_at": "2026-06-15T04:15:44Z"
   },
   {
     "name": "xquant-beginner",
     "full_name": "xingwudao/xquant-beginner",
     "description": "《XQuant：人人都是量化交易员》开源书稿",
     "url": "https://github.com/xingwudao/xquant-beginner",
-    "stars": 88,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-06-14T16:23:30Z"
-  },
-  {
-    "name": "polyhelper",
-    "full_name": "PolyHelper/polyhelper",
-    "description": "Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automotive, medical, legal, accessibility. 9.3M LOC, 205K tests. Open-source multi-model orchestration platform.",
-    "url": "https://github.com/PolyHelper/polyhelper",
-    "stars": 66,
-    "language": "JavaScript",
-    "updated_at": "2026-06-14T19:28:31Z"
+    "updated_at": "2026-06-15T03:18:04Z"
   }
 ]

@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-14 21:12:53",
+  "generated_at": "2026-06-15 04:19:17",
   "news": [
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "source": "Hacker News",
       "time": "2026-06-14 15:37",
-      "score": 215,
-      "comments": 119
+      "score": 303,
+      "comments": 159
+    },
+    {
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "source": "Hacker News",
+      "time": "2026-06-11 00:25",
+      "score": 14,
+      "comments": 1
     }
   ]
 }
