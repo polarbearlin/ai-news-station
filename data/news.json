@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-15 04:19:17",
+  "generated_at": "2026-06-15 13:55:09",
   "news": [
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "url": "https://github.com/themartiano/luz",
       "source": "Hacker News",
-      "time": "2026-06-14 15:37",
-      "score": 303,
-      "comments": 159
+      "time": "2026-06-15 09:34",
+      "score": 61,
+      "comments": 16
     },
     {
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "title": "Anthropic's Safety Superpower",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
       "source": "Hacker News",
-      "time": "2026-06-11 00:25",
-      "score": 14,
-      "comments": 1
+      "time": "2026-06-15 10:06",
+      "score": 136,
+      "comments": 103
     }
   ]
 }
