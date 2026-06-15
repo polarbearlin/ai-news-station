@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-06-15 19:47:54",
+  "generated_at": "2026-06-15 22:19:19",
   "news": [
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
       "source": "Hacker News",
       "time": "2026-06-15 16:15",
-      "score": 331,
-      "comments": 70
+      "score": 503,
+      "comments": 104
     },
     {
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "source": "Hacker News",
       "time": "2026-06-15 15:09",
-      "score": 144,
-      "comments": 32
-    },
-    {
-      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "url": "https://fata.dev",
-      "source": "Hacker News",
-      "time": "2026-06-11 11:57",
-      "score": 38,
-      "comments": 17
+      "score": 192,
+      "comments": 39
     }
   ]
 }
