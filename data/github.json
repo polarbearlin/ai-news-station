@@ -1,48 +1,57 @@
 [
   {
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 2253,
+    "language": "Python",
+    "updated_at": "2026-06-16T12:52:52Z"
+  },
+  {
     "name": "boo",
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 607,
+    "stars": 622,
     "language": "Zig",
-    "updated_at": "2026-06-16T04:06:51Z"
+    "updated_at": "2026-06-16T12:50:35Z"
   },
   {
     "name": "fanbox",
     "full_name": "alchaincyf/fanbox",
     "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 579,
+    "stars": 601,
     "language": "JavaScript",
-    "updated_at": "2026-06-16T03:43:39Z"
+    "updated_at": "2026-06-16T11:40:21Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 292,
+    "stars": 291,
     "language": "TypeScript",
-    "updated_at": "2026-06-16T03:48:09Z"
+    "updated_at": "2026-06-16T06:22:11Z"
   },
   {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 266,
+    "stars": 275,
     "language": "JavaScript",
-    "updated_at": "2026-06-16T03:26:19Z"
+    "updated_at": "2026-06-16T12:04:58Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 253,
+    "stars": 275,
     "language": "TypeScript",
-    "updated_at": "2026-06-16T03:47:14Z"
+    "updated_at": "2026-06-16T12:17:09Z"
   },
   {
     "name": "value-for-fable",
@@ -51,42 +60,33 @@
     "url": "https://github.com/itsinseong/value-for-fable",
     "stars": 194,
     "language": "Python",
-    "updated_at": "2026-06-16T01:19:14Z"
+    "updated_at": "2026-06-16T12:35:12Z"
   },
   {
     "name": "perfectpixel-studio",
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 179,
+    "stars": 194,
     "language": "Go",
-    "updated_at": "2026-06-16T03:44:59Z"
+    "updated_at": "2026-06-16T12:50:26Z"
   },
   {
     "name": "coreai-model-zoo",
     "full_name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 137,
+    "stars": 141,
     "language": "Swift",
-    "updated_at": "2026-06-16T02:35:30Z"
+    "updated_at": "2026-06-16T12:40:04Z"
   },
   {
     "name": "zhuanglema",
     "full_name": "liyupi/zhuanglema",
     "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
     "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 73,
+    "stars": 79,
     "language": "JavaScript",
-    "updated_at": "2026-06-16T01:53:43Z"
-  },
-  {
-    "name": "awesome-ai-game",
-    "full_name": "bowen-aigame/awesome-ai-game",
-    "description": "A curated collection of the latest and most exciting AI-powered games — discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
-    "url": "https://github.com/bowen-aigame/awesome-ai-game",
-    "stars": 48,
-    "language": null,
-    "updated_at": "2026-06-16T03:40:21Z"
+    "updated_at": "2026-06-16T12:47:16Z"
   }
 ]
