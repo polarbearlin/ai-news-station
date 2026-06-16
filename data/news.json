@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-16 19:36:37",
+  "generated_at": "2026-06-16 22:11:29",
   "news": [
     {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
       "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
       "source": "Hacker News",
       "time": "2026-06-16 17:54",
-      "score": 43,
-      "comments": 20
+      "score": 101,
+      "comments": 84
+    },
+    {
+      "title": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "source": "Hacker News",
+      "time": "2026-06-16 18:37",
+      "score": 283,
+      "comments": 168
     }
   ]
 }
