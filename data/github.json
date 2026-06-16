@@ -4,89 +4,89 @@
     "full_name": "coder/boo",
     "description": "A GNU screen style terminal multiplexer built on libghostty.",
     "url": "https://github.com/coder/boo",
-    "stars": 588,
+    "stars": 607,
     "language": "Zig",
-    "updated_at": "2026-06-15T22:19:17Z"
+    "updated_at": "2026-06-16T04:06:51Z"
   },
   {
     "name": "fanbox",
     "full_name": "alchaincyf/fanbox",
     "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
     "url": "https://github.com/alchaincyf/fanbox",
-    "stars": 572,
+    "stars": 579,
     "language": "JavaScript",
-    "updated_at": "2026-06-15T20:20:33Z"
+    "updated_at": "2026-06-16T03:43:39Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 289,
+    "stars": 292,
     "language": "TypeScript",
-    "updated_at": "2026-06-15T14:26:57Z"
+    "updated_at": "2026-06-16T03:48:09Z"
   },
   {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 257,
+    "stars": 266,
     "language": "JavaScript",
-    "updated_at": "2026-06-15T18:08:59Z"
+    "updated_at": "2026-06-16T03:26:19Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 235,
+    "stars": 253,
     "language": "TypeScript",
-    "updated_at": "2026-06-15T22:15:50Z"
+    "updated_at": "2026-06-16T03:47:14Z"
   },
   {
     "name": "value-for-fable",
     "full_name": "itsinseong/value-for-fable",
     "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
     "url": "https://github.com/itsinseong/value-for-fable",
-    "stars": 192,
+    "stars": 194,
     "language": "Python",
-    "updated_at": "2026-06-15T19:59:06Z"
+    "updated_at": "2026-06-16T01:19:14Z"
   },
   {
     "name": "perfectpixel-studio",
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 172,
+    "stars": 179,
     "language": "Go",
-    "updated_at": "2026-06-15T21:41:56Z"
+    "updated_at": "2026-06-16T03:44:59Z"
   },
   {
     "name": "coreai-model-zoo",
     "full_name": "john-rocky/coreai-model-zoo",
     "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
     "url": "https://github.com/john-rocky/coreai-model-zoo",
-    "stars": 134,
+    "stars": 137,
     "language": "Swift",
-    "updated_at": "2026-06-15T20:03:12Z"
+    "updated_at": "2026-06-16T02:35:30Z"
   },
   {
-    "name": "ghostwork",
-    "full_name": "hvardhan878/ghostwork",
-    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently.",
-    "url": "https://github.com/hvardhan878/ghostwork",
-    "stars": 123,
-    "language": "TypeScript",
-    "updated_at": "2026-06-14T09:31:44Z"
+    "name": "zhuanglema",
+    "full_name": "liyupi/zhuanglema",
+    "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
+    "url": "https://github.com/liyupi/zhuanglema",
+    "stars": 73,
+    "language": "JavaScript",
+    "updated_at": "2026-06-16T01:53:43Z"
   },
   {
-    "name": "xquant-beginner",
-    "full_name": "xingwudao/xquant-beginner",
-    "description": "《XQuant：人人都是量化交易员》开源书稿",
-    "url": "https://github.com/xingwudao/xquant-beginner",
-    "stars": 119,
-    "language": "TypeScript",
-    "updated_at": "2026-06-15T20:34:41Z"
+    "name": "awesome-ai-game",
+    "full_name": "bowen-aigame/awesome-ai-game",
+    "description": "A curated collection of the latest and most exciting AI-powered games — discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
+    "url": "https://github.com/bowen-aigame/awesome-ai-game",
+    "stars": 48,
+    "language": null,
+    "updated_at": "2026-06-16T03:40:21Z"
   }
 ]
