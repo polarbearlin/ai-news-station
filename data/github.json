@@ -4,36 +4,36 @@
     "full_name": "omnigent-ai/omnigent",
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 3401,
+    "stars": 3464,
     "language": "Python",
-    "updated_at": "2026-06-17T18:09:58Z"
+    "updated_at": "2026-06-17T21:51:32Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 383,
+    "stars": 396,
     "language": "TypeScript",
-    "updated_at": "2026-06-17T18:15:02Z"
+    "updated_at": "2026-06-17T21:54:50Z"
   },
   {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 297,
+    "stars": 303,
     "language": "JavaScript",
-    "updated_at": "2026-06-17T17:45:57Z"
+    "updated_at": "2026-06-17T22:00:40Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 292,
+    "stars": 293,
     "language": "TypeScript",
-    "updated_at": "2026-06-16T13:41:34Z"
+    "updated_at": "2026-06-17T20:16:29Z"
   },
   {
     "name": "perfectpixel-studio",
@@ -49,9 +49,9 @@
     "full_name": "itsinseong/value-for-fable",
     "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
     "url": "https://github.com/itsinseong/value-for-fable",
-    "stars": 193,
+    "stars": 192,
     "language": "Python",
-    "updated_at": "2026-06-17T13:49:16Z"
+    "updated_at": "2026-06-17T21:48:19Z"
   },
   {
     "name": "zhuanglema",
@@ -67,9 +67,18 @@
     "full_name": "bowen-aigame/awesome-ai-game",
     "description": "A curated collection of the latest and most exciting AI-powered games — discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
     "url": "https://github.com/bowen-aigame/awesome-ai-game",
-    "stars": 72,
+    "stars": 76,
     "language": null,
-    "updated_at": "2026-06-17T15:17:07Z"
+    "updated_at": "2026-06-17T21:02:34Z"
+  },
+  {
+    "name": "Valorant-Aim-Architecture-Overlay",
+    "full_name": "Codesammit/Valorant-Aim-Architecture-Overlay",
+    "description": "Valorant 2026: AI-Powered Crosshair & Cloud DNS Overlay for Next-Gen Esports",
+    "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
+    "stars": 51,
+    "language": "HTML",
+    "updated_at": "2026-06-17T20:25:55Z"
   },
   {
     "name": "dupehound",
@@ -79,14 +88,5 @@
     "stars": 41,
     "language": "Rust",
     "updated_at": "2026-06-17T18:07:36Z"
-  },
-  {
-    "name": "clawbot",
-    "full_name": "adysec/clawbot",
-    "description": "iLink bot management tool with CLI and web dashboard.",
-    "url": "https://github.com/adysec/clawbot",
-    "stars": 37,
-    "language": "Rust",
-    "updated_at": "2026-06-11T11:57:06Z"
   }
 ]

@@ -1,45 +1,21 @@
 {
-  "generated_at": "2026-06-17 18:16:48",
+  "generated_at": "2026-06-17 22:00:40",
   "news": [
-    {
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "source": "Hacker News",
-      "time": "2026-06-17 17:07",
-      "score": 139,
-      "comments": 106
-    },
     {
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
       "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
       "source": "Hacker News",
       "time": "2026-06-17 03:55",
-      "score": 91,
-      "comments": 56
+      "score": 242,
+      "comments": 257
     },
     {
       "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
       "url": "https://github.com/Adam-CAD/CADAM",
       "source": "Hacker News",
       "time": "2026-06-17 16:14",
-      "score": 59,
-      "comments": 20
-    },
-    {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "source": "Hacker News",
-      "time": "2026-06-17 12:11",
-      "score": 813,
-      "comments": 433
-    },
-    {
-      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
-      "source": "Hacker News",
-      "time": "2026-06-17 17:00",
-      "score": 1,
-      "comments": 0
+      "score": 120,
+      "comments": 64
     }
   ]
 }
