@@ -4,18 +4,18 @@
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 2906,
+    "stars": 3251,
     "language": "Python",
-    "updated_at": "2026-06-17T04:09:11Z"
+    "updated_at": "2026-06-17T12:13:58Z"
   },
   {
     "name": "testsprite-cli",
     "full_name": "TestSprite/testsprite-cli",
     "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
     "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 319,
+    "stars": 357,
     "language": "TypeScript",
-    "updated_at": "2026-06-17T04:07:41Z"
+    "updated_at": "2026-06-17T12:14:15Z"
   },
   {
     "name": "Third-Eye",
@@ -31,18 +31,18 @@
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 284,
+    "stars": 289,
     "language": "JavaScript",
-    "updated_at": "2026-06-17T03:30:55Z"
+    "updated_at": "2026-06-17T12:15:02Z"
   },
   {
     "name": "perfectpixel-studio",
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 204,
+    "stars": 208,
     "language": "Go",
-    "updated_at": "2026-06-17T04:01:08Z"
+    "updated_at": "2026-06-17T09:11:18Z"
   },
   {
     "name": "value-for-fable",
@@ -58,18 +58,27 @@
     "full_name": "liyupi/zhuanglema",
     "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
     "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 79,
+    "stars": 81,
     "language": "JavaScript",
-    "updated_at": "2026-06-16T12:47:16Z"
+    "updated_at": "2026-06-17T08:41:52Z"
   },
   {
     "name": "awesome-ai-game",
     "full_name": "bowen-aigame/awesome-ai-game",
     "description": "A curated collection of the latest and most exciting AI-powered games — discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
     "url": "https://github.com/bowen-aigame/awesome-ai-game",
-    "stars": 64,
+    "stars": 68,
     "language": null,
-    "updated_at": "2026-06-17T02:46:28Z"
+    "updated_at": "2026-06-17T12:11:15Z"
+  },
+  {
+    "name": "Educational_RAG_System",
+    "full_name": "Happy-Chen-CH/Educational_RAG_System",
+    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中",
+    "url": "https://github.com/Happy-Chen-CH/Educational_RAG_System",
+    "stars": 64,
+    "language": "Python",
+    "updated_at": "2026-06-17T05:11:06Z"
   },
   {
     "name": "dupehound",
@@ -79,14 +88,5 @@
     "stars": 41,
     "language": "Rust",
     "updated_at": "2026-06-16T21:24:08Z"
-  },
-  {
-    "name": "clawbot",
-    "full_name": "adysec/clawbot",
-    "description": "iLink bot management tool with CLI and web dashboard.",
-    "url": "https://github.com/adysec/clawbot",
-    "stars": 37,
-    "language": "Rust",
-    "updated_at": "2026-06-11T11:57:06Z"
   }
 ]
