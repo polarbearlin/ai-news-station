@@ -1,75 +1,39 @@
 [
   {
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 3464,
-    "language": "Python",
-    "updated_at": "2026-06-17T21:51:32Z"
-  },
-  {
-    "name": "testsprite-cli",
-    "full_name": "TestSprite/testsprite-cli",
-    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-    "url": "https://github.com/TestSprite/testsprite-cli",
-    "stars": 396,
-    "language": "TypeScript",
-    "updated_at": "2026-06-17T21:54:50Z"
-  },
-  {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 303,
+    "stars": 307,
     "language": "JavaScript",
-    "updated_at": "2026-06-17T22:00:40Z"
+    "updated_at": "2026-06-18T03:37:27Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 293,
+    "stars": 295,
     "language": "TypeScript",
-    "updated_at": "2026-06-17T20:16:29Z"
+    "updated_at": "2026-06-18T03:34:59Z"
   },
   {
     "name": "perfectpixel-studio",
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 225,
+    "stars": 230,
     "language": "Go",
-    "updated_at": "2026-06-17T17:45:19Z"
-  },
-  {
-    "name": "value-for-fable",
-    "full_name": "itsinseong/value-for-fable",
-    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
-    "url": "https://github.com/itsinseong/value-for-fable",
-    "stars": 192,
-    "language": "Python",
-    "updated_at": "2026-06-17T21:48:19Z"
-  },
-  {
-    "name": "zhuanglema",
-    "full_name": "liyupi/zhuanglema",
-    "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
-    "url": "https://github.com/liyupi/zhuanglema",
-    "stars": 81,
-    "language": "JavaScript",
-    "updated_at": "2026-06-17T13:31:18Z"
+    "updated_at": "2026-06-18T01:54:11Z"
   },
   {
     "name": "awesome-ai-game",
     "full_name": "bowen-aigame/awesome-ai-game",
     "description": "A curated collection of the latest and most exciting AI-powered games — discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
     "url": "https://github.com/bowen-aigame/awesome-ai-game",
-    "stars": 76,
+    "stars": 81,
     "language": null,
-    "updated_at": "2026-06-17T21:02:34Z"
+    "updated_at": "2026-06-18T03:47:42Z"
   },
   {
     "name": "Valorant-Aim-Architecture-Overlay",
@@ -78,15 +42,51 @@
     "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
     "stars": 51,
     "language": "HTML",
-    "updated_at": "2026-06-17T20:25:55Z"
+    "updated_at": "2026-06-18T00:21:14Z"
   },
   {
-    "name": "dupehound",
-    "full_name": "Rafaelpta/dupehound",
-    "description": "Finds the code your AI wrote twice. Fast, offline duplicate-code detector: scan, history chart, CI gate. No AI required.",
-    "url": "https://github.com/Rafaelpta/dupehound",
-    "stars": 41,
+    "name": "batchwork",
+    "full_name": "haydenbleasel/batchwork",
+    "description": "Unified batch API for AI providers. Save up to 50% on LLM costs.",
+    "url": "https://github.com/haydenbleasel/batchwork",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-06-18T03:35:13Z"
+  },
+  {
+    "name": "comcom",
+    "full_name": "eric248550/comcom",
+    "description": "AI communication toolbar for Gmail and Slack — select text, pick a rewrite mode, done. Self-hostable Chrome Extension + SaaS built with Next.js, Cloudflare Workers, and OpenAI",
+    "url": "https://github.com/eric248550/comcom",
+    "stars": 36,
+    "language": "TypeScript",
+    "updated_at": "2026-06-17T20:16:15Z"
+  },
+  {
+    "name": "cardputer-ai",
+    "full_name": "therezor/cardputer-ai",
+    "description": "Fully offline tiny LLM chatbot on the ESP32-S3 Cardputer ADV - 3M params, Q4 weights baked into the firmware, ~7  tok/s.",
+    "url": "https://github.com/therezor/cardputer-ai",
+    "stars": 31,
+    "language": "C++",
+    "updated_at": "2026-06-17T10:53:07Z"
+  },
+  {
+    "name": "axon",
+    "full_name": "danieltamas/axon",
+    "description": "Axon reads the logs your AI coding-agent harnesses already write — Claude Code, Codex, OpenCode — and shows which harness, project, agent, and model is working, how fast, at what cost, and how much code it's producing.",
+    "url": "https://github.com/danieltamas/axon",
+    "stars": 31,
     "language": "Rust",
-    "updated_at": "2026-06-17T18:07:36Z"
+    "updated_at": "2026-06-17T19:43:17Z"
+  },
+  {
+    "name": "mcp-db-server",
+    "full_name": "PerfectXM/mcp-db-server",
+    "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
+    "url": "https://github.com/PerfectXM/mcp-db-server",
+    "stars": 27,
+    "language": "Java",
+    "updated_at": "2026-06-18T03:23:42Z"
   }
 ]
