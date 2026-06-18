@@ -4,36 +4,36 @@
     "full_name": "buynao/aipath",
     "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 316,
+    "stars": 318,
     "language": "JavaScript",
-    "updated_at": "2026-06-18T09:22:25Z"
+    "updated_at": "2026-06-18T14:13:32Z"
   },
   {
     "name": "Third-Eye",
     "full_name": "eli-labz/Third-Eye",
     "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
     "url": "https://github.com/eli-labz/Third-Eye",
-    "stars": 299,
+    "stars": 300,
     "language": "TypeScript",
-    "updated_at": "2026-06-18T07:48:13Z"
+    "updated_at": "2026-06-18T12:56:42Z"
   },
   {
     "name": "perfectpixel-studio",
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 237,
+    "stars": 239,
     "language": "Go",
-    "updated_at": "2026-06-18T11:25:45Z"
+    "updated_at": "2026-06-18T14:19:44Z"
   },
   {
     "name": "awesome-ai-game",
     "full_name": "bowen-aigame/awesome-ai-game",
     "description": "A curated collection of the latest and most exciting AI-powered games — discover, explore, and stay up to date with innovative titles built on artificial intelligence.",
     "url": "https://github.com/bowen-aigame/awesome-ai-game",
-    "stars": 88,
+    "stars": 91,
     "language": null,
-    "updated_at": "2026-06-18T09:32:08Z"
+    "updated_at": "2026-06-18T13:52:33Z"
   },
   {
     "name": "Educational_RAG_System",
@@ -58,9 +58,9 @@
     "full_name": "haydenbleasel/batchwork",
     "description": "Unified batch API for AI providers. Save up to 50% on LLM costs.",
     "url": "https://github.com/haydenbleasel/batchwork",
-    "stars": 38,
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-06-18T06:24:02Z"
+    "updated_at": "2026-06-18T12:49:25Z"
   },
   {
     "name": "comcom",
