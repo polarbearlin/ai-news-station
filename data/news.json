@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-18 15:24:21",
+  "generated_at": "2026-06-18 18:25:40",
   "news": [
     {
-      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "title": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+      "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
       "source": "Hacker News",
-      "time": "2026-06-18 12:10",
-      "score": 217,
-      "comments": 92
+      "time": "2026-06-16 09:36",
+      "score": 19,
+      "comments": 12
+    },
+    {
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "source": "Hacker News",
+      "time": "2026-06-18 16:55",
+      "score": 81,
+      "comments": 33
     }
   ]
 }
