@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-19 04:20:25",
+  "generated_at": "2026-06-19 12:05:42",
   "news": [
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "source": "Hacker News",
-      "time": "2026-06-17 14:03",
-      "score": 63,
-      "comments": 44
+      "time": "2026-06-19 06:35",
+      "score": 210,
+      "comments": 88
+    },
+    {
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "source": "Hacker News",
+      "time": "2026-06-16 00:45",
+      "score": 88,
+      "comments": 27
     }
   ]
 }
