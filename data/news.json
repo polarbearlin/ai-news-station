@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-06-19 17:57:53",
+  "generated_at": "2026-06-19 21:10:42",
   "news": [
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "source": "Hacker News",
+      "time": "2026-06-19 16:28",
+      "score": 452,
+      "comments": 228
+    },
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "source": "Hacker News",
       "time": "2026-06-19 06:35",
-      "score": 444,
-      "comments": 252
+      "score": 508,
+      "comments": 299
     },
     {
-      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "source": "Hacker News",
-      "time": "2026-06-19 16:28",
-      "score": 88,
-      "comments": 60
-    },
-    {
-      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
       "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
       "source": "Hacker News",
       "time": "2026-06-19 17:34",
-      "score": 16,
-      "comments": 4
+      "score": 161,
+      "comments": 87
+    },
+    {
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "source": "Hacker News",
+      "time": "2026-06-19 17:53",
+      "score": 41,
+      "comments": 30
     }
   ]
 }
