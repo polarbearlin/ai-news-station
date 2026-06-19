@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-18 22:08:28",
+  "generated_at": "2026-06-19 04:20:25",
   "news": [
     {
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
       "source": "Hacker News",
-      "time": "2026-06-18 00:26",
-      "score": 205,
-      "comments": 169
-    },
-    {
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "source": "Hacker News",
-      "time": "2026-06-18 12:44",
-      "score": 55,
-      "comments": 31
+      "time": "2026-06-17 14:03",
+      "score": 63,
+      "comments": 44
     }
   ]
 }
