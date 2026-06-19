@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-06-19 12:05:42",
+  "generated_at": "2026-06-19 17:57:53",
   "news": [
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "source": "Hacker News",
       "time": "2026-06-19 06:35",
-      "score": 210,
-      "comments": 88
+      "score": 444,
+      "comments": 252
     },
     {
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "source": "Hacker News",
-      "time": "2026-06-16 00:45",
+      "time": "2026-06-19 16:28",
       "score": 88,
-      "comments": 27
+      "comments": 60
+    },
+    {
+      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "source": "Hacker News",
+      "time": "2026-06-19 17:34",
+      "score": 16,
+      "comments": 4
     }
   ]
 }
