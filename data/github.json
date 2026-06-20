@@ -4,9 +4,9 @@
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 266,
+    "stars": 278,
     "language": "Go",
-    "updated_at": "2026-06-20T03:36:39Z"
+    "updated_at": "2026-06-20T07:44:58Z"
   },
   {
     "name": "Educational_RAG_System",
@@ -22,9 +22,9 @@
     "full_name": "PerfectXM/mcp-db-server",
     "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
     "url": "https://github.com/PerfectXM/mcp-db-server",
-    "stars": 66,
+    "stars": 70,
     "language": "Java",
-    "updated_at": "2026-06-20T03:28:11Z"
+    "updated_at": "2026-06-20T07:28:29Z"
   },
   {
     "name": "text-humanizer",
@@ -51,34 +51,34 @@
     "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
     "stars": 51,
     "language": "HTML",
-    "updated_at": "2026-06-19T23:05:41Z"
+    "updated_at": "2026-06-20T04:19:03Z"
   },
   {
     "name": "batchwork",
     "full_name": "haydenbleasel/batchwork",
     "description": "Unified batch API for AI providers. Save up to 50% on LLM costs.",
     "url": "https://github.com/haydenbleasel/batchwork",
-    "stars": 48,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-06-20T02:27:41Z"
+    "updated_at": "2026-06-20T06:42:23Z"
   },
   {
     "name": "foreman",
     "full_name": "VisionForge-OU/foreman",
     "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
     "url": "https://github.com/VisionForge-OU/foreman",
-    "stars": 47,
+    "stars": 49,
     "language": "Python",
-    "updated_at": "2026-06-20T03:02:16Z"
+    "updated_at": "2026-06-20T07:28:44Z"
   },
   {
     "name": "databuff",
     "full_name": "databufflabs/databuff",
     "description": "AI Native 的 OpenTelemetry APM",
     "url": "https://github.com/databufflabs/databuff",
-    "stars": 42,
+    "stars": 44,
     "language": "Vue",
-    "updated_at": "2026-06-19T23:48:21Z"
+    "updated_at": "2026-06-20T07:34:09Z"
   },
   {
     "name": "axon",

@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-06-20 03:41:37",
+  "generated_at": "2026-06-20 07:50:13",
   "news": [
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "source": "Hacker News",
-      "time": "2026-06-19 16:03",
-      "score": 496,
-      "comments": 342
-    },
-    {
-      "title": "Data Compression Explained",
+      "title": "Data Compression Explained (2012)",
       "url": "https://mattmahoney.net/dc/dce.html",
       "source": "Hacker News",
       "time": "2026-06-16 21:51",
-      "score": 9,
-      "comments": 0
+      "score": 95,
+      "comments": 8
     },
     {
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "source": "Hacker News",
       "time": "2026-06-19 16:28",
-      "score": 699,
-      "comments": 322
+      "score": 782,
+      "comments": 347
     },
     {
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "source": "Hacker News",
-      "time": "2026-06-16 22:23",
-      "score": 29,
-      "comments": 5
+      "time": "2026-06-19 16:03",
+      "score": 614,
+      "comments": 428
     }
   ]
 }
