@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-06-20 10:32:10",
+  "generated_at": "2026-06-20 14:04:15",
   "news": [
+    {
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "url": "https://bootimus.com",
+      "source": "Hacker News",
+      "time": "2026-06-20 10:55",
+      "score": 21,
+      "comments": 5
+    },
     {
       "title": "Data Compression Explained (2012)",
       "url": "https://mattmahoney.net/dc/dce.html",
       "source": "Hacker News",
       "time": "2026-06-16 21:51",
-      "score": 129,
-      "comments": 17
-    },
-    {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "source": "Hacker News",
-      "time": "2026-06-19 16:11",
-      "score": 173,
-      "comments": 49
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "source": "Hacker News",
-      "time": "2026-06-19 16:28",
-      "score": 833,
-      "comments": 363
+      "score": 158,
+      "comments": 24
     }
   ]
 }

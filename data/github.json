@@ -4,9 +4,9 @@
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 281,
+    "stars": 285,
     "language": "Go",
-    "updated_at": "2026-06-20T09:33:24Z"
+    "updated_at": "2026-06-20T13:45:53Z"
   },
   {
     "name": "Educational_RAG_System",
@@ -22,9 +22,9 @@
     "full_name": "PerfectXM/mcp-db-server",
     "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
     "url": "https://github.com/PerfectXM/mcp-db-server",
-    "stars": 73,
+    "stars": 76,
     "language": "Java",
-    "updated_at": "2026-06-20T10:28:43Z"
+    "updated_at": "2026-06-20T13:29:02Z"
   },
   {
     "name": "text-humanizer",
@@ -36,6 +36,15 @@
     "updated_at": "2026-06-19T15:00:25Z"
   },
   {
+    "name": "foreman",
+    "full_name": "VisionForge-OU/foreman",
+    "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
+    "url": "https://github.com/VisionForge-OU/foreman",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-06-20T11:30:35Z"
+  },
+  {
     "name": "blue-spec",
     "full_name": "wellwelwel/blue-spec",
     "description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
@@ -45,22 +54,13 @@
     "updated_at": "2026-06-19T22:29:19Z"
   },
   {
-    "name": "foreman",
-    "full_name": "VisionForge-OU/foreman",
-    "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
-    "url": "https://github.com/VisionForge-OU/foreman",
-    "stars": 52,
-    "language": "Python",
-    "updated_at": "2026-06-20T10:01:02Z"
-  },
-  {
     "name": "Valorant-Aim-Architecture-Overlay",
     "full_name": "Codesammit/Valorant-Aim-Architecture-Overlay",
     "description": "Valorant 2026: AI-Powered Crosshair & Cloud DNS Overlay for Next-Gen Esports",
     "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
     "stars": 51,
     "language": "HTML",
-    "updated_at": "2026-06-20T08:25:17Z"
+    "updated_at": "2026-06-20T11:22:58Z"
   },
   {
     "name": "batchwork",
@@ -76,9 +76,9 @@
     "full_name": "databufflabs/databuff",
     "description": "AI Native 的 OpenTelemetry APM",
     "url": "https://github.com/databufflabs/databuff",
-    "stars": 45,
+    "stars": 48,
     "language": "Vue",
-    "updated_at": "2026-06-20T09:56:40Z"
+    "updated_at": "2026-06-20T13:00:28Z"
   },
   {
     "name": "axon",
@@ -87,6 +87,6 @@
     "url": "https://github.com/danieltamas/axon",
     "stars": 34,
     "language": "Rust",
-    "updated_at": "2026-06-19T20:39:48Z"
+    "updated_at": "2026-06-20T11:13:40Z"
   }
 ]
