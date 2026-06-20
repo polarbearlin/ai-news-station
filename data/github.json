@@ -4,9 +4,9 @@
     "full_name": "gykim80/perfectpixel-studio",
     "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
     "url": "https://github.com/gykim80/perfectpixel-studio",
-    "stars": 285,
+    "stars": 292,
     "language": "Go",
-    "updated_at": "2026-06-20T13:45:53Z"
+    "updated_at": "2026-06-20T16:59:17Z"
   },
   {
     "name": "Educational_RAG_System",
@@ -22,9 +22,9 @@
     "full_name": "PerfectXM/mcp-db-server",
     "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
     "url": "https://github.com/PerfectXM/mcp-db-server",
-    "stars": 76,
+    "stars": 77,
     "language": "Java",
-    "updated_at": "2026-06-20T13:29:02Z"
+    "updated_at": "2026-06-20T14:29:08Z"
   },
   {
     "name": "text-humanizer",
@@ -60,7 +60,16 @@
     "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
     "stars": 51,
     "language": "HTML",
-    "updated_at": "2026-06-20T11:22:58Z"
+    "updated_at": "2026-06-20T16:25:20Z"
+  },
+  {
+    "name": "databuff",
+    "full_name": "databufflabs/databuff",
+    "description": "AI Native 的 OpenTelemetry APM",
+    "url": "https://github.com/databufflabs/databuff",
+    "stars": 50,
+    "language": "Vue",
+    "updated_at": "2026-06-20T15:09:42Z"
   },
   {
     "name": "batchwork",
@@ -70,15 +79,6 @@
     "stars": 49,
     "language": "TypeScript",
     "updated_at": "2026-06-20T06:42:23Z"
-  },
-  {
-    "name": "databuff",
-    "full_name": "databufflabs/databuff",
-    "description": "AI Native 的 OpenTelemetry APM",
-    "url": "https://github.com/databufflabs/databuff",
-    "stars": 48,
-    "language": "Vue",
-    "updated_at": "2026-06-20T13:00:28Z"
   },
   {
     "name": "axon",

@@ -1,20 +1,12 @@
 {
-  "generated_at": "2026-06-20 14:04:15",
+  "generated_at": "2026-06-20 17:26:19",
   "news": [
     {
       "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
       "url": "https://bootimus.com",
       "source": "Hacker News",
       "time": "2026-06-20 10:55",
-      "score": 21,
-      "comments": 5
-    },
-    {
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "source": "Hacker News",
-      "time": "2026-06-16 21:51",
-      "score": 158,
+      "score": 71,
       "comments": 24
     }
   ]
