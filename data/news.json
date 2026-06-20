@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-19 21:10:42",
+  "generated_at": "2026-06-20 03:41:37",
   "news": [
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "Hacker News",
+      "time": "2026-06-19 16:03",
+      "score": 496,
+      "comments": 342
+    },
+    {
+      "title": "Data Compression Explained",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "source": "Hacker News",
+      "time": "2026-06-16 21:51",
+      "score": 9,
+      "comments": 0
+    },
     {
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "source": "Hacker News",
       "time": "2026-06-19 16:28",
-      "score": 452,
-      "comments": 228
+      "score": 699,
+      "comments": 322
     },
     {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
       "source": "Hacker News",
-      "time": "2026-06-19 06:35",
-      "score": 508,
-      "comments": 299
-    },
-    {
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "source": "Hacker News",
-      "time": "2026-06-19 17:34",
-      "score": 161,
-      "comments": 87
-    },
-    {
-      "title": "John Jumper to join Anthropic",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "source": "Hacker News",
-      "time": "2026-06-19 17:53",
-      "score": 41,
-      "comments": 30
+      "time": "2026-06-16 22:23",
+      "score": 29,
+      "comments": 5
     }
   ]
 }
