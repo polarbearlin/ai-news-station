@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-06-21 04:15:14",
+  "generated_at": "2026-06-21 11:16:05",
   "news": [
     {
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
       "source": "Hacker News",
       "time": "2026-06-20 12:08",
-      "score": 120,
-      "comments": 30
+      "score": 318,
+      "comments": 120
     },
     {
       "title": "Slow breathing modulates brain function and risk behavior",
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
       "source": "Hacker News",
       "time": "2026-06-20 22:22",
-      "score": 89,
-      "comments": 17
-    },
-    {
-      "title": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "source": "Hacker News",
-      "time": "2026-06-21 00:58",
-      "score": 76,
-      "comments": 38
+      "score": 221,
+      "comments": 55
     }
   ]
 }
