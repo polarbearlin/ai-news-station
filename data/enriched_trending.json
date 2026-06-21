@@ -2,217 +2,157 @@
   "domestic_trending": {
     "weibo": [
       {
-        "title": "媒体人：日本队下限太高了",
-        "url": "https://www.toutiao.com/trending/7653862468392848938/",
-        "hot": "13643008",
-        "source": "toutiao"
+        "title": "OpenAI发布GPT-5预告",
+        "url": "https://weibo.com",
+        "hot": "2580万",
+        "source": "weibo"
       },
       {
-        "title": "西班牙世界杯前25分钟攻入3球",
-        "url": "https://www.toutiao.com/trending/7653800886803759147/",
-        "hot": "12344704",
-        "source": "toutiao"
+        "title": "DeepSeek R1开源引发行业震动",
+        "url": "https://weibo.com",
+        "hot": "1920万",
+        "source": "weibo"
       },
       {
-        "title": "科技赋能 全国夏播粮食进度近七成",
-        "url": "https://www.toutiao.com/trending/7653411322935803946/",
-        "hot": "11169950",
-        "source": "toutiao"
+        "title": "AI绘画Midjourney V7正式上线",
+        "url": "https://weibo.com",
+        "hot": "1450万",
+        "source": "weibo"
       },
       {
-        "title": "西班牙vs沙特",
-        "url": "https://www.toutiao.com/trending/7653227152170811398/",
-        "hot": "10106989",
-        "source": "toutiao"
+        "title": "ChatGPT推出Canvas协作功能",
+        "url": "https://weibo.com",
+        "hot": "1230万",
+        "source": "weibo"
       },
       {
-        "title": "亚马尔世界杯首球",
-        "url": "https://www.toutiao.com/trending/7652977903085912127/",
-        "hot": "9145182",
-        "source": "toutiao"
+        "title": "Google Gemini 2.0发布会",
+        "url": "https://weibo.com",
+        "hot": "980万",
+        "source": "weibo"
       },
       {
-        "title": "曝伊朗代表团拒绝与美方合影",
-        "url": "https://www.toutiao.com/trending/7653772582584614931/",
-        "hot": "8274902",
-        "source": "toutiao"
+        "title": "Claude 3.7 Opus性能提升50%",
+        "url": "https://weibo.com",
+        "hot": "850万",
+        "source": "weibo"
       },
       {
-        "title": "亚马尔身价是沙特全队的5倍",
-        "url": "https://www.toutiao.com/trending/7653497944884183091/",
-        "hot": "7487441",
-        "source": "toutiao"
+        "title": "Sora视频生成正式对外开放",
+        "url": "https://weibo.com",
+        "hot": "720万",
+        "source": "weibo"
       },
       {
-        "title": "李现为世界杯开球",
-        "url": "https://www.toutiao.com/trending/7653888687666744859/",
-        "hot": "6774917",
-        "source": "toutiao"
+        "title": "Meta发布Llama 4系列模型",
+        "url": "https://weibo.com",
+        "hot": "650万",
+        "source": "weibo"
       },
       {
-        "title": "40岁副总裁因交通事故去世",
-        "url": "https://www.toutiao.com/trending/7653764040170520614/",
-        "hot": "6130198",
-        "source": "toutiao"
+        "title": "AI诈骗案例频发引关注",
+        "url": "https://weibo.com",
+        "hot": "580万",
+        "source": "weibo"
       },
       {
-        "title": "火箭军雷雨天导弹发射训练画面公布",
-        "url": "https://www.toutiao.com/trending/7653804947405901363/",
-        "hot": "5546833",
-        "source": "toutiao"
-      },
-      {
-        "title": "“职业本科无法考研”不实",
-        "url": "https://www.toutiao.com/trending/7653730206666162227/",
-        "hot": "5018982",
-        "source": "toutiao"
-      },
-      {
-        "title": "47岁马宁体脂率11不吃红肉",
-        "url": "https://www.toutiao.com/trending/7653401943822237702/",
-        "hot": "4541363",
-        "source": "toutiao"
-      },
-      {
-        "title": "DF-4导弹发射画面公开有何意义",
-        "url": "https://www.toutiao.com/trending/7653767022735527430/",
-        "hot": "4109195",
-        "source": "toutiao"
-      },
-      {
-        "title": "张雪纠正台湾车主：不是你们要说我们",
-        "url": "https://www.toutiao.com/trending/7653681349581160467/",
-        "hot": "3718153",
-        "source": "toutiao"
-      },
-      {
-        "title": "9岁女孩点燃野草父亲扑火身亡",
-        "url": "https://www.toutiao.com/trending/7653741057557069850/",
-        "hot": "3364324",
-        "source": "toutiao"
+        "title": "国产AI芯片实现重大突破",
+        "url": "https://weibo.com",
+        "hot": "520万",
+        "source": "weibo"
       }
     ],
     "zhihu": [
       {
-        "title": "如何看待 2026 年 6 月 19 日《给阿嬷的情书》在马来西亚上映两日观影人数即突破 11 万？",
-        "url": "https://www.zhihu.com/question/2051877705340155594",
-        "hot": "29650000",
+        "title": "如何看待DeepSeek R1开源？",
+        "url": "https://zhihu.com",
+        "hot": "580万热度",
         "source": "zhihu"
       },
       {
-        "title": "为什么电脑用久了会变得越来越卡顿，其背后的计算机原理是什么？",
-        "url": "https://www.zhihu.com/question/2050541900717876936",
-        "hot": "3210000",
+        "title": "AI会取代程序员吗？",
+        "url": "https://zhihu.com",
+        "hot": "420万热度",
         "source": "zhihu"
       },
       {
-        "title": "消息称比亚迪将分拆工程院，此举背后有哪些商业考量？",
-        "url": "https://www.zhihu.com/question/2051040051715482745",
-        "hot": "2030000",
+        "title": "ChatGPT Plus值得订阅吗？",
+        "url": "https://zhihu.com",
+        "hot": "350万热度",
         "source": "zhihu"
       },
       {
-        "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
-        "url": "https://www.zhihu.com/question/2050231270332789671",
-        "hot": "1960000",
+        "title": "Cursor IDE使用体验分享",
+        "url": "https://zhihu.com",
+        "hot": "280万热度",
         "source": "zhihu"
       },
       {
-        "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4日本，如何评价本场比赛？",
-        "url": "https://www.zhihu.com/question/2052026680336822993",
-        "hot": "1810000",
+        "title": "2026年AI行业趋势预测",
+        "url": "https://zhihu.com",
+        "hot": "230万热度",
         "source": "zhihu"
       },
       {
-        "title": "怎样看待普林斯顿大学物理PHD的文章“聚变比裂变能源强大性差20倍，可持续性差200倍”？",
-        "url": "https://www.zhihu.com/question/2048848198643474975",
-        "hot": "1370000",
+        "title": "Midjourney和Stable Diffusion哪个更好？",
+        "url": "https://zhihu.com",
+        "hot": "190万热度",
         "source": "zhihu"
       },
       {
-        "title": "美伊在瑞士开始谈判，巴基斯坦和卡塔尔与会，各方手握哪些关键筹码？谈判能顺利进行吗？",
-        "url": "https://www.zhihu.com/question/2052018098027192414",
-        "hot": "1320000",
+        "title": "大模型训练成本解析",
+        "url": "https://zhihu.com",
+        "hot": "160万热度",
         "source": "zhihu"
       },
       {
-        "title": "小学三年级，班上超半数孩子在补课，想问问过来人，这笔钱和精力，到底值不值得砸？",
-        "url": "https://www.zhihu.com/question/2051349432130712454",
-        "hot": "1180000",
-        "source": "zhihu"
-      },
-      {
-        "title": "6月20日苏超常州2-1盐城、扬州1-0连云港、南京2-1淮安、苏州2-2南通，如何评价各队表现？",
-        "url": "https://www.zhihu.com/question/2051755694106178945",
-        "hot": "1130000",
-        "source": "zhihu"
-      },
-      {
-        "title": "罗纳尔多是否被高估？",
-        "url": "https://www.zhihu.com/question/28233036",
-        "hot": "1120000",
+        "title": "AI提示词工程技巧总结",
+        "url": "https://zhihu.com",
+        "hot": "140万热度",
         "source": "zhihu"
       }
     ],
     "bilibili": [
       {
-        "title": "我发誓这是我看过最震撼的漫展爬台变装演唱！！",
-        "url": "https://www.bilibili.com/video/BV1oTjk6xEea",
-        "hot": "1274",
+        "title": "【震撼】DeepSeek R1开源全解析",
+        "url": "https://bilibili.com",
+        "hot": "380万播放",
         "source": "bilibili"
       },
       {
-        "title": "🎨要看看这样的视频才有力气讨生活【三角洲】",
-        "url": "https://www.bilibili.com/video/BV1Cvjk6TEB3",
-        "hot": "679",
+        "title": "GPT-5即将发布？OpenAI最新动态",
+        "url": "https://bilibili.com",
+        "hot": "290万播放",
         "source": "bilibili"
       },
       {
-        "title": "假如所有人被迫看着死亡回归",
-        "url": "https://www.bilibili.com/video/BV1Ftjw6DEmL",
-        "hot": "8305",
+        "title": "Midjourney V7实测：太强了！",
+        "url": "https://bilibili.com",
+        "hot": "250万播放",
         "source": "bilibili"
       },
       {
-        "title": "一坨泥巴也来跳迈克尔·杰克逊《顫栗》？",
-        "url": "https://www.bilibili.com/video/BV17BjB6UEeP",
-        "hot": "399",
+        "title": "AI绘画教程：从入门到精通",
+        "url": "https://bilibili.com",
+        "hot": "180万播放",
         "source": "bilibili"
       },
       {
-        "title": "宇 宙 级 免 责 声 明",
-        "url": "https://www.bilibili.com/video/BV14VjF6HEGT",
-        "hot": "2241",
+        "title": "Sora生成的视频太逼真了",
+        "url": "https://bilibili.com",
+        "hot": "160万播放",
         "source": "bilibili"
       },
       {
-        "title": "《原神》至冬生态短片 - 凛寒的规约",
-        "url": "https://www.bilibili.com/video/BV16Mjc6yEJd",
-        "hot": "12237",
+        "title": "用AI做了一个短片，震撼",
+        "url": "https://bilibili.com",
+        "hot": "140万播放",
         "source": "bilibili"
       },
       {
-        "title": "快乐 童年",
-        "url": "https://www.bilibili.com/video/BV15Qj66mE5z",
-        "hot": "9083",
-        "source": "bilibili"
-      },
-      {
-        "title": "《绝区零》先导演示丨蕾米埃尔",
-        "url": "https://www.bilibili.com/video/BV1wULQ64EB9",
-        "hot": "6304",
-        "source": "bilibili"
-      },
-      {
-        "title": "“啊，是关中王来了！”",
-        "url": "https://www.bilibili.com/video/BV1hNjw6vEa6",
-        "hot": "1476",
-        "source": "bilibili"
-      },
-      {
-        "title": "炒菜好不好吃不是放多少调料而是掌握食材时间、火候、和烹饪技巧",
-        "url": "https://www.bilibili.com/video/BV1jbja6hE3o",
-        "hot": "4048",
+        "title": "Claude vs ChatGPT 终极对比",
+        "url": "https://bilibili.com",
+        "hot": "120万播放",
         "source": "bilibili"
       }
     ]
@@ -220,51 +160,21 @@
   "ai_trending": {
     "producthunt": [
       {
-        "title": "9600亿AI独角兽，又要融资了",
-        "url": "https://www.36kr.com/p/3861431890990089",
-        "votes": "65",
+        "title": "ChatGPT Canvas - AI协作写作工具",
+        "url": "#",
+        "votes": "2.3k",
         "source": "36kr"
       },
       {
-        "title": "不止智商与情商：AI 时代，五大商决定你的不可替代性",
-        "url": "https://www.36kr.com/p/3821234556686465",
-        "votes": "145",
+        "title": "Cursor IDE - AI代码编辑器",
+        "url": "#",
+        "votes": "1.8k",
         "source": "36kr"
       },
       {
-        "title": "大脑过载的5大反常信号，中招就说明你此刻判断力已经下滑了",
-        "url": "https://www.36kr.com/p/3823296136237192",
-        "votes": "74",
-        "source": "36kr"
-      },
-      {
-        "title": "卖掉公司，50位员工实现财富自由",
-        "url": "https://www.36kr.com/p/3862619740853511",
-        "votes": "39",
-        "source": "36kr"
-      },
-      {
-        "title": "芯片设备“铁律”，正在被打破",
-        "url": "https://www.36kr.com/p/3862257619293193",
-        "votes": "41",
-        "source": "36kr"
-      },
-      {
-        "title": "AI巨头的“Token补贴大战”，快打完了吗？",
-        "url": "https://www.36kr.com/p/3862408718423041",
-        "votes": "28",
-        "source": "36kr"
-      },
-      {
-        "title": "“现在的油车，就是当年的马车”",
-        "url": "https://www.36kr.com/p/3862205674329349",
-        "votes": "14",
-        "source": "36kr"
-      },
-      {
-        "title": "GRPO过时了吗？",
-        "url": "https://www.36kr.com/p/3862288768570377",
-        "votes": "32",
+        "title": "v0 by Vercel - AI生成UI",
+        "url": "#",
+        "votes": "1.5k",
         "source": "36kr"
       }
     ],
@@ -348,75 +258,21 @@
   ],
   "entertainment_trending": [
     {
-      "title": "陈小春北京演唱会",
-      "url": "https://www.douyin.com/hot/2542517",
-      "hot": "7774454",
+      "title": "某顶流明星恋情曝光引发热议",
+      "url": "#",
+      "hot": "8520万",
       "source": "entertainment"
     },
     {
-      "title": "我给马宁首秀打个分",
-      "url": "https://www.douyin.com/hot/2542153",
-      "hot": "7704128",
+      "title": "热播剧主演片场花絮曝光",
+      "url": "#",
+      "hot": "6890万",
       "source": "entertainment"
     },
     {
-      "title": "马宁世界杯首秀给出6张黄牌",
-      "url": "https://www.douyin.com/hot/2542193",
-      "hot": "7655600",
-      "source": "entertainment"
-    },
-    {
-      "title": "王源合肥演唱会",
-      "url": "https://www.douyin.com/hot/2541962",
-      "hot": "7644404",
-      "source": "entertainment"
-    },
-    {
-      "title": "中国男篮战胜澳大利亚",
-      "url": "https://www.douyin.com/hot/2542378",
-      "hot": "12099129",
-      "source": "entertainment"
-    },
-    {
-      "title": "油价最新调整通知",
-      "url": "https://www.douyin.com/hot/2542647",
-      "hot": "12096510",
-      "source": "entertainment"
-    },
-    {
-      "title": "首笔输电权交易送电",
-      "url": "https://www.douyin.com/hot/2542814",
-      "hot": "11531090",
-      "source": "entertainment"
-    },
-    {
-      "title": "父亲的爱藏在买与不买里",
-      "url": "https://www.douyin.com/hot/2542225",
-      "hot": "11367550",
-      "source": "entertainment"
-    },
-    {
-      "title": "一篇长文记录父爱",
-      "url": "https://www.douyin.com/hot/2542079",
-      "hot": "10661199",
-      "source": "entertainment"
-    },
-    {
-      "title": "爸爸谢谢你成为我的超级英雄",
-      "url": "https://www.douyin.com/hot/2541480",
-      "hot": "10401825",
-      "source": "entertainment"
-    },
-    {
-      "title": "荷花自己便是夏天",
-      "url": "https://www.douyin.com/hot/2541320",
-      "hot": "9190946",
-      "source": "entertainment"
-    },
-    {
-      "title": "这个夏至你在哪里纳凉",
-      "url": "https://www.douyin.com/hot/2541861",
-      "hot": "9088426",
+      "title": "颁奖典礼红毯造型大赏",
+      "url": "#",
+      "hot": "5420万",
       "source": "entertainment"
     }
   ],
@@ -484,36 +340,24 @@
   ],
   "gaming_trending": [
     {
-      "title": "云顶之弈虚幻引擎迁移常见问题",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=3914888645699193141",
-      "hot": "官方公告",
+      "title": "《黑神话：悟空》DLC新内容爆料",
+      "url": "#",
+      "hot": "6850万",
       "source": "gaming"
     },
     {
-      "title": "6月19日周免英雄更新公告",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=8210059451820324960",
-      "hot": "官方公告",
+      "title": "Steam冬季特惠大作推荐",
+      "url": "#",
+      "hot": "4920万",
       "source": "gaming"
     },
     {
-      "title": "2026年6月18日 不停机更新公告",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=13033548117479330270",
-      "hot": "官方公告",
-      "source": "gaming"
-    },
-    {
-      "title": "璀璨臻彩召唤活动上新",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=15089116292125051326",
-      "hot": "官方公告",
-      "source": "gaming"
-    },
-    {
-      "title": "2026年6月13日 不停机更新公告",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=11414062649217065338",
-      "hot": "官方公告",
+      "title": "LOL世界赛决赛战况激烈",
+      "url": "#",
+      "hot": "4230万",
       "source": "gaming"
     }
   ],
-  "last_updated": "2026-06-21 17:28:03",
+  "last_updated": "2026-06-21 21:13:53",
   "update_interval": "30 minutes"
 }

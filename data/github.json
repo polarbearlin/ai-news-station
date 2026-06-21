@@ -13,9 +13,9 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 100,
+    "stars": 118,
     "language": "Python",
-    "updated_at": "2026-06-21T17:14:28Z"
+    "updated_at": "2026-06-21T21:01:42Z"
   },
   {
     "name": "mcp-db-server",
@@ -40,9 +40,9 @@
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 63,
+    "stars": 65,
     "language": null,
-    "updated_at": "2026-06-21T16:47:10Z"
+    "updated_at": "2026-06-21T19:39:34Z"
   },
   {
     "name": "text-humanizer",
@@ -67,26 +67,26 @@
     "full_name": "gintasz/neuralyzer",
     "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
     "url": "https://github.com/gintasz/neuralyzer",
-    "stars": 57,
+    "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-06-21T14:53:50Z"
+    "updated_at": "2026-06-21T20:11:57Z"
   },
   {
     "name": "blue-spec",
     "full_name": "wellwelwel/blue-spec",
-    "description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
+    "description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
     "url": "https://github.com/wellwelwel/blue-spec",
     "stars": 56,
     "language": "TypeScript",
-    "updated_at": "2026-06-20T22:26:09Z"
+    "updated_at": "2026-06-21T20:31:40Z"
   },
   {
-    "name": "Valorant-Aim-Architecture-Overlay",
-    "full_name": "Codesammit/Valorant-Aim-Architecture-Overlay",
-    "description": "Valorant 2026: AI-Powered Crosshair & Cloud DNS Overlay for Next-Gen Esports",
-    "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
-    "stars": 51,
-    "language": "HTML",
-    "updated_at": "2026-06-21T15:59:58Z"
+    "name": "heartmorrow",
+    "full_name": "HMDSimDev/heartmorrow",
+    "description": "LLM-powered dating simulator",
+    "url": "https://github.com/HMDSimDev/heartmorrow",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-06-21T19:59:14Z"
   }
 ]
