@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-06-20 21:18:30",
+  "generated_at": "2026-06-21 04:15:14",
   "news": [
     {
-      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
-      "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
       "source": "Hacker News",
-      "time": "2026-06-20 20:41",
-      "score": 13,
-      "comments": 5
+      "time": "2026-06-20 12:08",
+      "score": 120,
+      "comments": 30
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "source": "Hacker News",
+      "time": "2026-06-20 22:22",
+      "score": 89,
+      "comments": 17
+    },
+    {
+      "title": "When I reject AI code even if it works",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "source": "Hacker News",
+      "time": "2026-06-21 00:58",
+      "score": 76,
+      "comments": 38
     }
   ]
 }
