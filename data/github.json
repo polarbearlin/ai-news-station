@@ -1,66 +1,75 @@
 [
   {
-    "name": "Windows-Copilot-API",
-    "full_name": "sums001/Windows-Copilot-API",
-    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 136,
-    "language": "Python",
-    "updated_at": "2026-06-22T04:10:33Z"
-  },
-  {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 129,
+    "stars": 249,
     "language": "Python",
-    "updated_at": "2026-06-22T04:15:08Z"
+    "updated_at": "2026-06-22T13:27:41Z"
+  },
+  {
+    "name": "Windows-Copilot-API",
+    "full_name": "sums001/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "url": "https://github.com/sums001/Windows-Copilot-API",
+    "stars": 195,
+    "language": "Python",
+    "updated_at": "2026-06-22T13:30:52Z"
+  },
+  {
+    "name": "ImportantCode",
+    "full_name": "sneakers-the-rat/ImportantCode",
+    "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
+    "url": "https://github.com/sneakers-the-rat/ImportantCode",
+    "stars": 156,
+    "language": "Python",
+    "updated_at": "2026-06-22T13:26:31Z"
   },
   {
     "name": "umadev",
     "full_name": "umacloud/umadev",
-    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。",
+    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
     "url": "https://github.com/umacloud/umadev",
-    "stars": 78,
+    "stars": 88,
     "language": "Rust",
-    "updated_at": "2026-06-22T04:16:43Z"
+    "updated_at": "2026-06-22T13:34:28Z"
   },
   {
     "name": "mcp-db-server",
     "full_name": "PerfectXM/mcp-db-server",
     "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
     "url": "https://github.com/PerfectXM/mcp-db-server",
-    "stars": 77,
+    "stars": 88,
     "language": "Java",
-    "updated_at": "2026-06-20T14:29:08Z"
+    "updated_at": "2026-06-22T13:16:39Z"
   },
   {
     "name": "foreman",
     "full_name": "VisionForge-OU/foreman",
     "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
     "url": "https://github.com/VisionForge-OU/foreman",
-    "stars": 75,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-06-22T03:11:22Z"
-  },
-  {
-    "name": "fullstack-ai-agent-roadmap",
-    "full_name": "Karovia/fullstack-ai-agent-roadmap",
-    "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-    "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 69,
-    "language": null,
-    "updated_at": "2026-06-22T03:47:59Z"
+    "updated_at": "2026-06-22T11:01:28Z"
   },
   {
     "name": "databuff",
     "full_name": "databufflabs/databuff",
     "description": "AI Native 的 OpenTelemetry APM",
     "url": "https://github.com/databufflabs/databuff",
-    "stars": 69,
+    "stars": 79,
     "language": "Vue",
-    "updated_at": "2026-06-22T03:42:41Z"
+    "updated_at": "2026-06-22T10:20:48Z"
+  },
+  {
+    "name": "fullstack-ai-agent-roadmap",
+    "full_name": "Karovia/fullstack-ai-agent-roadmap",
+    "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+    "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+    "stars": 71,
+    "language": null,
+    "updated_at": "2026-06-22T09:35:37Z"
   },
   {
     "name": "text-humanizer",
@@ -79,14 +88,5 @@
     "stars": 58,
     "language": "TypeScript",
     "updated_at": "2026-06-21T20:11:57Z"
-  },
-  {
-    "name": "blue-spec",
-    "full_name": "wellwelwel/blue-spec",
-    "description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
-    "url": "https://github.com/wellwelwel/blue-spec",
-    "stars": 57,
-    "language": "TypeScript",
-    "updated_at": "2026-06-22T03:53:13Z"
   }
 ]

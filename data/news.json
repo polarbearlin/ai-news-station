@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-22 04:16:48",
+  "generated_at": "2026-06-22 13:34:42",
   "news": [
+    {
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "source": "Hacker News",
+      "time": "2026-06-19 15:54",
+      "score": 133,
+      "comments": 54
+    },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
       "source": "Hacker News",
       "time": "2026-06-21 21:29",
-      "score": 264,
-      "comments": 89
+      "score": 455,
+      "comments": 153
     }
   ]
 }
