@@ -4,36 +4,36 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 326,
+    "stars": 331,
     "language": "Python",
-    "updated_at": "2026-06-22T19:21:24Z"
+    "updated_at": "2026-06-22T21:09:25Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 302,
+    "stars": 311,
     "language": "Python",
-    "updated_at": "2026-06-22T19:24:20Z"
+    "updated_at": "2026-06-22T22:01:41Z"
   },
   {
     "name": "ImportantCode",
     "full_name": "sneakers-the-rat/ImportantCode",
     "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
     "url": "https://github.com/sneakers-the-rat/ImportantCode",
-    "stars": 158,
+    "stars": 159,
     "language": "Python",
-    "updated_at": "2026-06-22T16:48:43Z"
+    "updated_at": "2026-06-22T21:59:32Z"
   },
   {
     "name": "mcp-db-server",
     "full_name": "PerfectXM/mcp-db-server",
     "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
     "url": "https://github.com/PerfectXM/mcp-db-server",
-    "stars": 102,
+    "stars": 103,
     "language": "Java",
-    "updated_at": "2026-06-22T19:09:35Z"
+    "updated_at": "2026-06-22T19:34:38Z"
   },
   {
     "name": "umadev",
@@ -81,12 +81,12 @@
     "updated_at": "2026-06-21T21:48:11Z"
   },
   {
-    "name": "neuralyzer",
-    "full_name": "gintasz/neuralyzer",
-    "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
-    "url": "https://github.com/gintasz/neuralyzer",
-    "stars": 58,
+    "name": "heartmorrow",
+    "full_name": "HMDSimDev/heartmorrow",
+    "description": "LLM-powered dating simulator",
+    "url": "https://github.com/HMDSimDev/heartmorrow",
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-06-21T20:11:57Z"
+    "updated_at": "2026-06-22T22:02:41Z"
   }
 ]
