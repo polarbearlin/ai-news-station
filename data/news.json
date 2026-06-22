@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-22 13:34:42",
+  "generated_at": "2026-06-22 19:27:41",
   "news": [
     {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
       "source": "Hacker News",
-      "time": "2026-06-19 15:54",
-      "score": 133,
-      "comments": 54
+      "time": "2026-06-22 13:53",
+      "score": 148,
+      "comments": 38
     },
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
+      "title": "Bain tests software takeover targets by vibecoding AI replicas",
+      "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
       "source": "Hacker News",
-      "time": "2026-06-21 21:29",
-      "score": 455,
-      "comments": 153
+      "time": "2026-06-22 15:16",
+      "score": 20,
+      "comments": 36
     }
   ]
 }
