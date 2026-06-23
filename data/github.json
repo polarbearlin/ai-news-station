@@ -4,63 +4,63 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 410,
+    "stars": 428,
     "language": "Python",
-    "updated_at": "2026-06-23T07:49:23Z"
+    "updated_at": "2026-06-23T10:58:53Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 346,
+    "stars": 354,
     "language": "Python",
-    "updated_at": "2026-06-23T07:42:17Z"
+    "updated_at": "2026-06-23T10:43:19Z"
   },
   {
     "name": "umadev",
     "full_name": "umacloud/umadev",
     "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
     "url": "https://github.com/umacloud/umadev",
-    "stars": 93,
+    "stars": 94,
     "language": "Rust",
-    "updated_at": "2026-06-23T07:41:16Z"
+    "updated_at": "2026-06-23T10:14:56Z"
   },
   {
     "name": "foreman",
     "full_name": "VisionForge-OU/foreman",
     "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
     "url": "https://github.com/VisionForge-OU/foreman",
-    "stars": 87,
+    "stars": 91,
     "language": "Python",
-    "updated_at": "2026-06-23T07:28:31Z"
-  },
-  {
-    "name": "databuff",
-    "full_name": "databufflabs/databuff",
-    "description": "AI Native 的 OpenTelemetry APM",
-    "url": "https://github.com/databufflabs/databuff",
-    "stars": 85,
-    "language": "Vue",
-    "updated_at": "2026-06-23T07:02:33Z"
+    "updated_at": "2026-06-23T11:01:09Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 82,
+    "stars": 88,
     "language": null,
-    "updated_at": "2026-06-23T06:57:02Z"
+    "updated_at": "2026-06-23T11:15:17Z"
+  },
+  {
+    "name": "databuff",
+    "full_name": "databufflabs/databuff",
+    "description": "AI Native 的 OpenTelemetry APM",
+    "url": "https://github.com/databufflabs/databuff",
+    "stars": 87,
+    "language": "Vue",
+    "updated_at": "2026-06-23T11:01:56Z"
   },
   {
     "name": "heartmorrow",
     "full_name": "HMDSimDev/heartmorrow",
     "description": "LLM-powered dating simulator",
     "url": "https://github.com/HMDSimDev/heartmorrow",
-    "stars": 69,
+    "stars": 71,
     "language": "TypeScript",
-    "updated_at": "2026-06-23T07:42:20Z"
+    "updated_at": "2026-06-23T11:01:02Z"
   },
   {
     "name": "ManvoTV",
