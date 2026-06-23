@@ -4,27 +4,36 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 469,
+    "stars": 502,
     "language": "Python",
-    "updated_at": "2026-06-23T14:41:42Z"
+    "updated_at": "2026-06-23T17:33:27Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 369,
+    "stars": 378,
     "language": "Python",
-    "updated_at": "2026-06-23T14:34:25Z"
+    "updated_at": "2026-06-23T16:58:16Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 108,
+    "stars": 124,
     "language": null,
-    "updated_at": "2026-06-23T14:48:02Z"
+    "updated_at": "2026-06-23T17:41:29Z"
+  },
+  {
+    "name": "foreman",
+    "full_name": "VisionForge-OU/foreman",
+    "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
+    "url": "https://github.com/VisionForge-OU/foreman",
+    "stars": 97,
+    "language": "Python",
+    "updated_at": "2026-06-23T15:00:29Z"
   },
   {
     "name": "umadev",
@@ -33,16 +42,7 @@
     "url": "https://github.com/umacloud/umadev",
     "stars": 96,
     "language": "Rust",
-    "updated_at": "2026-06-23T14:48:17Z"
-  },
-  {
-    "name": "foreman",
-    "full_name": "VisionForge-OU/foreman",
-    "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
-    "url": "https://github.com/VisionForge-OU/foreman",
-    "stars": 96,
-    "language": "Python",
-    "updated_at": "2026-06-23T14:28:44Z"
+    "updated_at": "2026-06-23T17:49:13Z"
   },
   {
     "name": "databuff",
@@ -58,18 +58,27 @@
     "full_name": "HMDSimDev/heartmorrow",
     "description": "LLM-powered dating simulator",
     "url": "https://github.com/HMDSimDev/heartmorrow",
-    "stars": 76,
+    "stars": 81,
     "language": "TypeScript",
-    "updated_at": "2026-06-23T14:47:34Z"
+    "updated_at": "2026-06-23T17:40:13Z"
+  },
+  {
+    "name": "AgentLens",
+    "full_name": "ObsidianOwl123/AgentLens",
+    "description": "Lightweight AI context compressor for LLM agents",
+    "url": "https://github.com/ObsidianOwl123/AgentLens",
+    "stars": 80,
+    "language": "Python",
+    "updated_at": "2026-06-23T17:49:14Z"
   },
   {
     "name": "ESEILANE",
     "full_name": "Simpl3x3/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
     "url": "https://github.com/Simpl3x3/ESEILANE",
-    "stars": 65,
+    "stars": 74,
     "language": "Ruby",
-    "updated_at": "2026-06-23T14:43:59Z"
+    "updated_at": "2026-06-23T17:36:00Z"
   },
   {
     "name": "ManvoTV",
@@ -79,14 +88,5 @@
     "stars": 63,
     "language": null,
     "updated_at": "2026-06-23T02:46:39Z"
-  },
-  {
-    "name": "neuralyzer",
-    "full_name": "gintasz/neuralyzer",
-    "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
-    "url": "https://github.com/gintasz/neuralyzer",
-    "stars": 58,
-    "language": "TypeScript",
-    "updated_at": "2026-06-21T20:11:57Z"
   }
 ]
