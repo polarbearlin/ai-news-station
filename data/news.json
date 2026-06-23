@@ -1,29 +1,4 @@
 {
-  "generated_at": "2026-06-23 11:16:37",
-  "news": [
-    {
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "source": "Hacker News",
-      "time": "2026-06-23 06:05",
-      "score": 142,
-      "comments": 82
-    },
-    {
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "source": "Hacker News",
-      "time": "2026-06-21 01:12",
-      "score": 344,
-      "comments": 253
-    },
-    {
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "source": "Hacker News",
-      "time": "2026-06-23 01:15",
-      "score": 174,
-      "comments": 64
-    }
-  ]
+  "generated_at": "2026-06-23 14:49:01",
+  "news": []
 }
