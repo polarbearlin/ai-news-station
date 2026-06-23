@@ -4,27 +4,27 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 502,
+    "stars": 515,
     "language": "Python",
-    "updated_at": "2026-06-23T17:33:27Z"
+    "updated_at": "2026-06-23T21:30:46Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 378,
+    "stars": 397,
     "language": "Python",
-    "updated_at": "2026-06-23T16:58:16Z"
+    "updated_at": "2026-06-23T21:25:27Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 124,
+    "stars": 135,
     "language": null,
-    "updated_at": "2026-06-23T17:41:29Z"
+    "updated_at": "2026-06-23T20:43:14Z"
   },
   {
     "name": "foreman",
@@ -42,16 +42,16 @@
     "url": "https://github.com/umacloud/umadev",
     "stars": 96,
     "language": "Rust",
-    "updated_at": "2026-06-23T17:49:13Z"
+    "updated_at": "2026-06-23T21:08:54Z"
   },
   {
     "name": "databuff",
     "full_name": "databufflabs/databuff",
     "description": "AI Native 的 OpenTelemetry APM",
     "url": "https://github.com/databufflabs/databuff",
-    "stars": 93,
+    "stars": 95,
     "language": "Vue",
-    "updated_at": "2026-06-23T14:45:26Z"
+    "updated_at": "2026-06-23T19:44:32Z"
   },
   {
     "name": "heartmorrow",
@@ -69,16 +69,16 @@
     "url": "https://github.com/ObsidianOwl123/AgentLens",
     "stars": 80,
     "language": "Python",
-    "updated_at": "2026-06-23T17:49:14Z"
+    "updated_at": "2026-06-23T17:58:42Z"
   },
   {
     "name": "ESEILANE",
     "full_name": "Simpl3x3/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
     "url": "https://github.com/Simpl3x3/ESEILANE",
-    "stars": 74,
+    "stars": 79,
     "language": "Ruby",
-    "updated_at": "2026-06-23T17:36:00Z"
+    "updated_at": "2026-06-23T20:14:43Z"
   },
   {
     "name": "ManvoTV",
