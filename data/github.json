@@ -4,18 +4,18 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 630,
+    "stars": 649,
     "language": "Python",
-    "updated_at": "2026-06-24T17:47:25Z"
+    "updated_at": "2026-06-24T21:21:32Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 452,
+    "stars": 464,
     "language": "Python",
-    "updated_at": "2026-06-24T17:32:00Z"
+    "updated_at": "2026-06-24T20:21:56Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
@@ -40,9 +40,9 @@
     "full_name": "databufflabs/databuff",
     "description": "AI Native 的 OpenTelemetry APM",
     "url": "https://github.com/databufflabs/databuff",
-    "stars": 113,
+    "stars": 116,
     "language": "Vue",
-    "updated_at": "2026-06-24T17:22:48Z"
+    "updated_at": "2026-06-24T18:34:10Z"
   },
   {
     "name": "ESEILANE",
@@ -54,39 +54,39 @@
     "updated_at": "2026-06-24T08:26:55Z"
   },
   {
+    "name": "heartmorrow",
+    "full_name": "HMDSimDev/heartmorrow",
+    "description": "LLM-powered dating simulator",
+    "url": "https://github.com/HMDSimDev/heartmorrow",
+    "stars": 103,
+    "language": "TypeScript",
+    "updated_at": "2026-06-24T20:55:40Z"
+  },
+  {
     "name": "umadev",
     "full_name": "umacloud/umadev",
     "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
     "url": "https://github.com/umacloud/umadev",
     "stars": 102,
     "language": "Rust",
-    "updated_at": "2026-06-24T17:45:16Z"
-  },
-  {
-    "name": "heartmorrow",
-    "full_name": "HMDSimDev/heartmorrow",
-    "description": "LLM-powered dating simulator",
-    "url": "https://github.com/HMDSimDev/heartmorrow",
-    "stars": 101,
-    "language": "TypeScript",
-    "updated_at": "2026-06-24T14:50:59Z"
+    "updated_at": "2026-06-24T19:47:42Z"
   },
   {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 71,
+    "stars": 72,
     "language": "Python",
-    "updated_at": "2026-06-24T17:32:32Z"
+    "updated_at": "2026-06-24T19:35:29Z"
   },
   {
-    "name": "us-stock-radar",
-    "full_name": "BDMisME/us-stock-radar",
-    "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
-    "url": "https://github.com/BDMisME/us-stock-radar",
-    "stars": 59,
-    "language": "Python",
-    "updated_at": "2026-06-24T13:19:55Z"
+    "name": "neuralyzer",
+    "full_name": "gintasz/neuralyzer",
+    "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
+    "url": "https://github.com/gintasz/neuralyzer",
+    "stars": 60,
+    "language": "TypeScript",
+    "updated_at": "2026-06-24T18:19:06Z"
   }
 ]
