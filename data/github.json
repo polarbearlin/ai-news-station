@@ -4,45 +4,45 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 612,
+    "stars": 630,
     "language": "Python",
-    "updated_at": "2026-06-24T14:04:55Z"
+    "updated_at": "2026-06-24T17:47:25Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 448,
+    "stars": 452,
     "language": "Python",
-    "updated_at": "2026-06-24T14:26:15Z"
+    "updated_at": "2026-06-24T17:32:00Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 167,
+    "stars": 170,
     "language": null,
-    "updated_at": "2026-06-24T12:30:12Z"
+    "updated_at": "2026-06-24T17:45:41Z"
   },
   {
     "name": "Hello-Agents",
     "full_name": "Reyzowter/Hello-Agents",
     "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
     "url": "https://github.com/Reyzowter/Hello-Agents",
-    "stars": 118,
+    "stars": 128,
     "language": "Python",
-    "updated_at": "2026-06-24T13:58:39Z"
+    "updated_at": "2026-06-24T17:49:49Z"
   },
   {
     "name": "databuff",
     "full_name": "databufflabs/databuff",
     "description": "AI Native 的 OpenTelemetry APM",
     "url": "https://github.com/databufflabs/databuff",
-    "stars": 111,
+    "stars": 113,
     "language": "Vue",
-    "updated_at": "2026-06-24T14:27:10Z"
+    "updated_at": "2026-06-24T17:22:48Z"
   },
   {
     "name": "ESEILANE",
@@ -58,35 +58,35 @@
     "full_name": "umacloud/umadev",
     "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
     "url": "https://github.com/umacloud/umadev",
-    "stars": 101,
+    "stars": 102,
     "language": "Rust",
-    "updated_at": "2026-06-24T13:59:34Z"
+    "updated_at": "2026-06-24T17:45:16Z"
   },
   {
     "name": "heartmorrow",
     "full_name": "HMDSimDev/heartmorrow",
     "description": "LLM-powered dating simulator",
     "url": "https://github.com/HMDSimDev/heartmorrow",
-    "stars": 100,
+    "stars": 101,
     "language": "TypeScript",
-    "updated_at": "2026-06-24T11:48:27Z"
-  },
-  {
-    "name": "TraceAI",
-    "full_name": "ObsidianOwl123/TraceAI",
-    "description": "Lightweight AI context compressor for LLM agents",
-    "url": "https://github.com/ObsidianOwl123/TraceAI",
-    "stars": 84,
-    "language": "Python",
-    "updated_at": "2026-06-24T13:20:41Z"
+    "updated_at": "2026-06-24T14:50:59Z"
   },
   {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 63,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-06-24T14:23:00Z"
+    "updated_at": "2026-06-24T17:32:32Z"
+  },
+  {
+    "name": "us-stock-radar",
+    "full_name": "BDMisME/us-stock-radar",
+    "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
+    "url": "https://github.com/BDMisME/us-stock-radar",
+    "stars": 59,
+    "language": "Python",
+    "updated_at": "2026-06-24T13:19:55Z"
   }
 ]

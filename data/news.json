@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-06-24 14:30:24",
+  "generated_at": "2026-06-24 17:54:07",
   "news": [
     {
-      "title": "Minimus container images are now free",
-      "url": "https://images.minimus.io/",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
       "source": "Hacker News",
-      "time": "2026-06-24 11:52",
-      "score": 69,
-      "comments": 34
+      "time": "2026-06-24 14:41",
+      "score": 209,
+      "comments": 25
     },
     {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
       "source": "Hacker News",
-      "time": "2026-06-24 11:21",
-      "score": 26,
-      "comments": 8
+      "time": "2026-06-24 14:50",
+      "score": 89,
+      "comments": 51
+    },
+    {
+      "title": "CAPTCHAs have failed for 20 years",
+      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+      "source": "Hacker News",
+      "time": "2026-06-24 16:02",
+      "score": 45,
+      "comments": 35
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "source": "Hacker News",
+      "time": "2026-06-24 13:14",
+      "score": 136,
+      "comments": 53
     }
   ]
 }
