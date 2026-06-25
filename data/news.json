@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-06-25 03:35:30",
+  "generated_at": "2026-06-25 07:42:15",
   "news": [
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "source": "Hacker News",
-      "time": "2026-06-24 17:47",
-      "score": 572,
-      "comments": 344
-    },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "source": "Hacker News",
       "time": "2026-06-24 19:48",
-      "score": 128,
-      "comments": 232
+      "score": 340,
+      "comments": 578
     },
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "Hacker News",
-      "time": "2026-06-24 14:41",
-      "score": 356,
-      "comments": 57
+      "time": "2026-06-24 17:47",
+      "score": 663,
+      "comments": 373
+    },
+    {
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "url": "https://markdy.com",
+      "source": "Hacker News",
+      "time": "2026-06-23 15:00",
+      "score": 36,
+      "comments": 2
+    },
+    {
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "source": "Hacker News",
+      "time": "2026-06-25 07:02",
+      "score": 7,
+      "comments": 2
     }
   ]
 }
