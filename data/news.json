@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-25 18:09:58",
+  "generated_at": "2026-06-25 21:42:26",
   "news": [
     {
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
       "source": "Hacker News",
-      "time": "2026-06-25 13:02",
-      "score": 316,
-      "comments": 515
-    },
-    {
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "source": "Hacker News",
-      "time": "2026-06-25 17:00",
-      "score": 1,
-      "comments": 0
+      "time": "2026-06-25 16:04",
+      "score": 115,
+      "comments": 57
     }
   ]
 }
