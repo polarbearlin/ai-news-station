@@ -4,27 +4,27 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 708,
+    "stars": 723,
     "language": "Python",
-    "updated_at": "2026-06-25T10:26:25Z"
+    "updated_at": "2026-06-25T14:16:31Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 509,
+    "stars": 518,
     "language": "Python",
-    "updated_at": "2026-06-25T10:25:57Z"
+    "updated_at": "2026-06-25T14:32:26Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 189,
+    "stars": 193,
     "language": null,
-    "updated_at": "2026-06-25T10:25:28Z"
+    "updated_at": "2026-06-25T13:10:48Z"
   },
   {
     "name": "Hello-Agents",
@@ -40,9 +40,18 @@
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 109,
+    "stars": 119,
     "language": "JavaScript",
-    "updated_at": "2026-06-25T10:25:20Z"
+    "updated_at": "2026-06-25T13:51:28Z"
+  },
+  {
+    "name": "ManvoTV",
+    "full_name": "Huxiaoyou97/ManvoTV",
+    "description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+    "url": "https://github.com/Huxiaoyou97/ManvoTV",
+    "stars": 107,
+    "language": null,
+    "updated_at": "2026-06-25T11:45:49Z"
   },
   {
     "name": "ESEILANE",
@@ -60,7 +69,7 @@
     "url": "https://github.com/umacloud/umadev",
     "stars": 105,
     "language": "Rust",
-    "updated_at": "2026-06-25T10:20:22Z"
+    "updated_at": "2026-06-25T14:21:01Z"
   },
   {
     "name": "heartmorrow",
@@ -76,17 +85,8 @@
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 84,
+    "stars": 88,
     "language": "Python",
-    "updated_at": "2026-06-25T10:27:18Z"
-  },
-  {
-    "name": "us-stock-radar",
-    "full_name": "BDMisME/us-stock-radar",
-    "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
-    "url": "https://github.com/BDMisME/us-stock-radar",
-    "stars": 66,
-    "language": "Python",
-    "updated_at": "2026-06-25T04:30:35Z"
+    "updated_at": "2026-06-25T14:22:11Z"
   }
 ]
