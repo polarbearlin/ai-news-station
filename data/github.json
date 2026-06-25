@@ -4,27 +4,27 @@
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Windows-Copilot-API",
-    "stars": 695,
+    "stars": 708,
     "language": "Python",
-    "updated_at": "2026-06-25T07:29:15Z"
+    "updated_at": "2026-06-25T10:26:25Z"
   },
   {
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
     "url": "https://github.com/raiyanyahya/recall",
-    "stars": 500,
+    "stars": 509,
     "language": "Python",
-    "updated_at": "2026-06-25T07:35:55Z"
+    "updated_at": "2026-06-25T10:25:57Z"
   },
   {
     "name": "fullstack-ai-agent-roadmap",
     "full_name": "Karovia/fullstack-ai-agent-roadmap",
     "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
     "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-    "stars": 183,
+    "stars": 189,
     "language": null,
-    "updated_at": "2026-06-25T07:33:04Z"
+    "updated_at": "2026-06-25T10:25:28Z"
   },
   {
     "name": "Hello-Agents",
@@ -36,6 +36,15 @@
     "updated_at": "2026-06-25T07:41:39Z"
   },
   {
+    "name": "ShipGenAI",
+    "full_name": "benlamiro/ShipGenAI",
+    "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+    "url": "https://github.com/benlamiro/ShipGenAI",
+    "stars": 109,
+    "language": "JavaScript",
+    "updated_at": "2026-06-25T10:25:20Z"
+  },
+  {
     "name": "ESEILANE",
     "full_name": "Simpl3x3/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
@@ -43,6 +52,15 @@
     "stars": 105,
     "language": "Ruby",
     "updated_at": "2026-06-24T08:26:55Z"
+  },
+  {
+    "name": "umadev",
+    "full_name": "umacloud/umadev",
+    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
+    "url": "https://github.com/umacloud/umadev",
+    "stars": 105,
+    "language": "Rust",
+    "updated_at": "2026-06-25T10:20:22Z"
   },
   {
     "name": "heartmorrow",
@@ -54,31 +72,13 @@
     "updated_at": "2026-06-25T03:13:15Z"
   },
   {
-    "name": "umadev",
-    "full_name": "umacloud/umadev",
-    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
-    "url": "https://github.com/umacloud/umadev",
-    "stars": 104,
-    "language": "Rust",
-    "updated_at": "2026-06-25T07:10:05Z"
-  },
-  {
-    "name": "ShipGenAI",
-    "full_name": "benlamiro/ShipGenAI",
-    "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-    "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 95,
-    "language": "JavaScript",
-    "updated_at": "2026-06-25T07:40:52Z"
-  },
-  {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 82,
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-06-25T07:33:47Z"
+    "updated_at": "2026-06-25T10:27:18Z"
   },
   {
     "name": "us-stock-radar",
