@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-06-25 14:33:06",
+  "generated_at": "2026-06-25 18:09:58",
   "news": [
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
       "source": "Hacker News",
-      "time": "2026-06-24 19:48",
-      "score": 599,
-      "comments": 964
+      "time": "2026-06-25 13:02",
+      "score": 316,
+      "comments": 515
     },
     {
-      "title": "Where every major LLM stands politically",
-      "url": "https://trakkr.ai/bias",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
       "source": "Hacker News",
-      "time": "2026-06-25 13:08",
-      "score": 18,
-      "comments": 24
-    },
-    {
-      "title": "UN hypocrisy in AI Environmental demands",
-      "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
-      "source": "Hacker News",
-      "time": "2026-06-25 13:46",
-      "score": 5,
-      "comments": 2
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "source": "Hacker News",
-      "time": "2026-06-24 17:47",
-      "score": 758,
-      "comments": 437
+      "time": "2026-06-25 17:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
