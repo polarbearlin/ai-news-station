@@ -6,7 +6,7 @@
     "url": "https://github.com/Reyzowter/Hello-Agents",
     "stars": 132,
     "language": "Python",
-    "updated_at": "2026-06-26T04:20:24Z"
+    "updated_at": "2026-06-26T09:16:51Z"
   },
   {
     "name": "ShipGenAI",
@@ -22,18 +22,18 @@
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 119,
+    "stars": 120,
     "language": "Python",
-    "updated_at": "2026-06-26T06:57:00Z"
+    "updated_at": "2026-06-26T09:22:37Z"
   },
   {
     "name": "GITVERSE",
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
     "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 115,
+    "stars": 120,
     "language": "TypeScript",
-    "updated_at": "2026-06-26T06:48:44Z"
+    "updated_at": "2026-06-26T10:27:32Z"
   },
   {
     "name": "ManvoTV",
@@ -76,9 +76,9 @@
     "full_name": "HKUSTDial/DataMagic",
     "description": "AI-powered data-to-video generation. Upload a table, get a narrated animated data story.",
     "url": "https://github.com/HKUSTDial/DataMagic",
-    "stars": 59,
+    "stars": 60,
     "language": null,
-    "updated_at": "2026-06-26T04:03:14Z"
+    "updated_at": "2026-06-26T08:21:23Z"
   },
   {
     "name": "visible-ai",
