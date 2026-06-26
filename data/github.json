@@ -9,6 +9,15 @@
     "updated_at": "2026-06-26T09:16:51Z"
   },
   {
+    "name": "lemma-platform",
+    "full_name": "lemma-work/lemma-platform",
+    "description": "The open-source workspace where humans and AI agents work as one team.",
+    "url": "https://github.com/lemma-work/lemma-platform",
+    "stars": 131,
+    "language": "Python",
+    "updated_at": "2026-06-26T21:11:55Z"
+  },
+  {
     "name": "GITVERSE",
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
@@ -16,15 +25,6 @@
     "stars": 131,
     "language": "TypeScript",
     "updated_at": "2026-06-26T17:20:36Z"
-  },
-  {
-    "name": "lemma-platform",
-    "full_name": "lemma-work/lemma-platform",
-    "description": "The open-source workspace where humans and AI agents work as one team.",
-    "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 128,
-    "language": "Python",
-    "updated_at": "2026-06-26T16:59:32Z"
   },
   {
     "name": "ShipGenAI",

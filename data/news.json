@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-26 17:48:01",
+  "generated_at": "2026-06-26 21:18:53",
   "news": [
-    {
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "source": "Hacker News",
-      "time": "2026-06-26 11:51",
-      "score": 126,
-      "comments": 37
-    },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
       "time": "2026-06-26 17:06",
-      "score": 163,
-      "comments": 159
+      "score": 623,
+      "comments": 359
     },
     {
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "source": "Hacker News",
-      "time": "2026-06-26 17:00",
-      "score": 1,
-      "comments": 0
+      "time": "2026-06-26 18:23",
+      "score": 502,
+      "comments": 651
+    },
+    {
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "source": "Hacker News",
+      "time": "2026-06-26 11:51",
+      "score": 195,
+      "comments": 65
     }
   ]
 }
