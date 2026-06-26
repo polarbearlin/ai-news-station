@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-26 03:42:40",
+  "generated_at": "2026-06-26 07:52:49",
   "news": [
     {
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "source": "Hacker News",
-      "time": "2026-06-25 17:38",
-      "score": 123,
-      "comments": 82
+      "time": "2026-06-26 02:29",
+      "score": 114,
+      "comments": 44
+    },
+    {
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "source": "Hacker News",
+      "time": "2026-06-26 06:24",
+      "score": 54,
+      "comments": 39
     }
   ]
 }
