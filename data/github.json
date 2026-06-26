@@ -9,31 +9,31 @@
     "updated_at": "2026-06-26T09:16:51Z"
   },
   {
+    "name": "GITVERSE",
+    "full_name": "GraeLefix/GITVERSE",
+    "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+    "url": "https://github.com/GraeLefix/GITVERSE",
+    "stars": 129,
+    "language": "TypeScript",
+    "updated_at": "2026-06-26T14:23:06Z"
+  },
+  {
     "name": "ShipGenAI",
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 126,
+    "stars": 127,
     "language": "JavaScript",
-    "updated_at": "2026-06-26T07:28:38Z"
+    "updated_at": "2026-06-26T11:04:18Z"
   },
   {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 120,
+    "stars": 121,
     "language": "Python",
-    "updated_at": "2026-06-26T09:22:37Z"
-  },
-  {
-    "name": "GITVERSE",
-    "full_name": "GraeLefix/GITVERSE",
-    "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
-    "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 120,
-    "language": "TypeScript",
-    "updated_at": "2026-06-26T10:27:32Z"
+    "updated_at": "2026-06-26T12:05:25Z"
   },
   {
     "name": "ManvoTV",
