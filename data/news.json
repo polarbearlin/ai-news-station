@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-06-26 14:24:59",
+  "generated_at": "2026-06-26 17:48:01",
   "news": [
     {
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
       "source": "Hacker News",
-      "time": "2026-06-26 02:29",
-      "score": 254,
-      "comments": 104
+      "time": "2026-06-26 11:51",
+      "score": 126,
+      "comments": 37
+    },
+    {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "source": "Hacker News",
+      "time": "2026-06-26 17:06",
+      "score": 163,
+      "comments": 159
+    },
+    {
+      "title": "Liva AI (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "source": "Hacker News",
+      "time": "2026-06-26 17:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
