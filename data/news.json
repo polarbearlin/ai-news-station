@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-27 13:43:17",
+  "generated_at": "2026-06-27 17:10:24",
   "news": [
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "source": "Hacker News",
       "time": "2026-06-27 09:18",
-      "score": 501,
-      "comments": 176
-    },
-    {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "source": "Hacker News",
-      "time": "2026-06-26 17:06",
-      "score": 1039,
-      "comments": 662
+      "score": 641,
+      "comments": 239
     }
   ]
 }
