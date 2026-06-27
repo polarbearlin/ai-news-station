@@ -1,12 +1,21 @@
 [
   {
+    "name": "Godcoder",
+    "full_name": "eli-labz/Godcoder",
+    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
+    "url": "https://github.com/eli-labz/Godcoder",
+    "stars": 218,
+    "language": "Rust",
+    "updated_at": "2026-06-27T20:51:21Z"
+  },
+  {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 142,
+    "stars": 143,
     "language": "Python",
-    "updated_at": "2026-06-27T16:52:18Z"
+    "updated_at": "2026-06-27T17:43:24Z"
   },
   {
     "name": "Hello-Agents",
@@ -22,9 +31,9 @@
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
     "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 132,
+    "stars": 131,
     "language": "TypeScript",
-    "updated_at": "2026-06-27T01:31:31Z"
+    "updated_at": "2026-06-27T21:02:11Z"
   },
   {
     "name": "ShipGenAI",
@@ -54,6 +63,15 @@
     "updated_at": "2026-06-24T08:26:55Z"
   },
   {
+    "name": "macos-chatgpt-overlay-bar",
+    "full_name": "ik190/macos-chatgpt-overlay-bar",
+    "description": "ChatGPT for Mac, living in your menubar.",
+    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+    "stars": 70,
+    "language": null,
+    "updated_at": "2026-06-27T17:36:42Z"
+  },
+  {
     "name": "us-stock-radar",
     "full_name": "BDMisME/us-stock-radar",
     "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
@@ -63,15 +81,6 @@
     "updated_at": "2026-06-27T09:44:36Z"
   },
   {
-    "name": "macos-chatgpt-overlay-bar",
-    "full_name": "ik190/macos-chatgpt-overlay-bar",
-    "description": "ChatGPT for Mac, living in your menubar.",
-    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 67,
-    "language": null,
-    "updated_at": "2026-06-27T17:01:40Z"
-  },
-  {
     "name": "HumanAI",
     "full_name": "MADEVAL/HumanAI",
     "description": "AI skill for rewriting machine-generated text to sound human-written across 9 languages - 5-stage pipeline: cleanup → specificity → tone → rhythm → proofread.",
@@ -79,14 +88,5 @@
     "stars": 52,
     "language": "PowerShell",
     "updated_at": "2026-06-27T16:56:26Z"
-  },
-  {
-    "name": "RankWise",
-    "full_name": "MADEVAL/RankWise",
-    "description": "SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: generate, rewrite, and audit content against 49 ranking factors with multilingual support.",
-    "url": "https://github.com/MADEVAL/RankWise",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-06-27T16:55:20Z"
   }
 ]
