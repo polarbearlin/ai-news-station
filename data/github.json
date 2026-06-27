@@ -4,9 +4,9 @@
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 133,
+    "stars": 135,
     "language": "Python",
-    "updated_at": "2026-06-27T03:20:45Z"
+    "updated_at": "2026-06-27T06:24:16Z"
   },
   {
     "name": "Hello-Agents",
@@ -72,6 +72,15 @@
     "updated_at": "2026-06-27T03:02:31Z"
   },
   {
+    "name": "ai-coding-deals",
+    "full_name": "codertesla/ai-coding-deals",
+    "description": "Money-saving guide to AI coding tools: free tiers, discounts, referral credits & open-source alternatives. 省钱指南。",
+    "url": "https://github.com/codertesla/ai-coding-deals",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-06-27T06:43:43Z"
+  },
+  {
     "name": "macos-chatgpt-overlay-bar",
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
@@ -79,14 +88,5 @@
     "stars": 31,
     "language": null,
     "updated_at": "2026-06-26T17:33:26Z"
-  },
-  {
-    "name": "auto-paper-collecter",
-    "full_name": "PenghaoJiang/auto-paper-collecter",
-    "description": "📚🔭 Your personal research radar — an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.",
-    "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
-    "stars": 31,
-    "language": "Python",
-    "updated_at": "2026-06-26T13:16:01Z"
   }
 ]
