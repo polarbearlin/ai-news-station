@@ -1,5 +1,14 @@
 [
   {
+    "name": "lemma-platform",
+    "full_name": "lemma-work/lemma-platform",
+    "description": "The open-source workspace where humans and AI agents work as one team.",
+    "url": "https://github.com/lemma-work/lemma-platform",
+    "stars": 133,
+    "language": "Python",
+    "updated_at": "2026-06-27T03:20:45Z"
+  },
+  {
     "name": "Hello-Agents",
     "full_name": "Reyzowter/Hello-Agents",
     "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
@@ -9,22 +18,13 @@
     "updated_at": "2026-06-26T09:16:51Z"
   },
   {
-    "name": "lemma-platform",
-    "full_name": "lemma-work/lemma-platform",
-    "description": "The open-source workspace where humans and AI agents work as one team.",
-    "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 131,
-    "language": "Python",
-    "updated_at": "2026-06-26T21:11:55Z"
-  },
-  {
     "name": "GITVERSE",
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
     "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 131,
+    "stars": 132,
     "language": "TypeScript",
-    "updated_at": "2026-06-26T17:20:36Z"
+    "updated_at": "2026-06-27T01:31:31Z"
   },
   {
     "name": "ShipGenAI",
@@ -45,15 +45,6 @@
     "updated_at": "2026-06-26T07:40:42Z"
   },
   {
-    "name": "heartmorrow",
-    "full_name": "HMDSimDev/heartmorrow",
-    "description": "LLM-powered dating simulator",
-    "url": "https://github.com/HMDSimDev/heartmorrow",
-    "stars": 106,
-    "language": "TypeScript",
-    "updated_at": "2026-06-26T02:45:43Z"
-  },
-  {
     "name": "ESEILANE",
     "full_name": "Simpl3x3/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
@@ -67,26 +58,35 @@
     "full_name": "BDMisME/us-stock-radar",
     "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
     "url": "https://github.com/BDMisME/us-stock-radar",
-    "stars": 67,
+    "stars": 68,
     "language": "Python",
-    "updated_at": "2026-06-25T10:54:33Z"
+    "updated_at": "2026-06-26T23:44:02Z"
   },
   {
-    "name": "DataMagic",
-    "full_name": "HKUSTDial/DataMagic",
-    "description": "AI-powered data-to-video generation. Upload a table, get a narrated animated data story.",
-    "url": "https://github.com/HKUSTDial/DataMagic",
-    "stars": 60,
+    "name": "potato",
+    "full_name": "onism1767-creator/potato",
+    "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
+    "url": "https://github.com/onism1767-creator/potato",
+    "stars": 35,
+    "language": "Python",
+    "updated_at": "2026-06-27T03:02:31Z"
+  },
+  {
+    "name": "macos-chatgpt-overlay-bar",
+    "full_name": "ik190/macos-chatgpt-overlay-bar",
+    "description": "ChatGPT for Mac, living in your menubar.",
+    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+    "stars": 31,
     "language": null,
-    "updated_at": "2026-06-26T08:21:23Z"
+    "updated_at": "2026-06-26T17:33:26Z"
   },
   {
-    "name": "visible-ai",
-    "full_name": "dvbs2000/visible-ai",
-    "description": "看得见的 AI · The Visible AI —— 一本全图解、零基础到亲手构建的 AI 通识书,永久免费。30 章 / 6 阶段,元元×小满带你从一个神经元走到亲手搭 AI 应用。",
-    "url": "https://github.com/dvbs2000/visible-ai",
-    "stars": 39,
-    "language": "HTML",
-    "updated_at": "2026-06-25T09:31:17Z"
+    "name": "auto-paper-collecter",
+    "full_name": "PenghaoJiang/auto-paper-collecter",
+    "description": "📚🔭 Your personal research radar — an LLM-powered tool that auto-aggregates the latest papers for your keywords across arXiv / Crossref / Semantic Scholar / GitHub / RSS.",
+    "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-06-26T13:16:01Z"
   }
 ]

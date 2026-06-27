@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-06-26 21:18:53",
+  "generated_at": "2026-06-27 03:29:21",
   "news": [
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "source": "Hacker News",
+      "time": "2026-06-26 22:48",
+      "score": 260,
+      "comments": 250
+    },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
       "time": "2026-06-26 17:06",
-      "score": 623,
-      "comments": 359
+      "score": 880,
+      "comments": 530
+    },
+    {
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "source": "Hacker News",
+      "time": "2026-06-27 00:43",
+      "score": 24,
+      "comments": 2
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "Hacker News",
+      "time": "2026-06-26 22:36",
+      "score": 67,
+      "comments": 29
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "source": "Hacker News",
       "time": "2026-06-26 18:23",
-      "score": 502,
-      "comments": 651
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "source": "Hacker News",
-      "time": "2026-06-26 11:51",
-      "score": 195,
-      "comments": 65
+      "score": 874,
+      "comments": 960
     }
   ]
 }
