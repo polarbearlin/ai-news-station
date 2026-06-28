@@ -4,9 +4,9 @@
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 218,
+    "stars": 240,
     "language": "Rust",
-    "updated_at": "2026-06-27T20:51:21Z"
+    "updated_at": "2026-06-28T03:04:42Z"
   },
   {
     "name": "lemma-platform",
@@ -40,18 +40,9 @@
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 128,
+    "stars": 130,
     "language": "JavaScript",
-    "updated_at": "2026-06-27T14:33:39Z"
-  },
-  {
-    "name": "ManvoTV",
-    "full_name": "Huxiaoyou97/ManvoTV",
-    "description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
-    "url": "https://github.com/Huxiaoyou97/ManvoTV",
-    "stars": 108,
-    "language": null,
-    "updated_at": "2026-06-26T07:40:42Z"
+    "updated_at": "2026-06-28T03:39:07Z"
   },
   {
     "name": "ESEILANE",
@@ -72,21 +63,30 @@
     "updated_at": "2026-06-27T17:36:42Z"
   },
   {
-    "name": "us-stock-radar",
-    "full_name": "BDMisME/us-stock-radar",
-    "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
-    "url": "https://github.com/BDMisME/us-stock-radar",
-    "stars": 68,
+    "name": "potato",
+    "full_name": "onism1767-creator/potato",
+    "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
+    "url": "https://github.com/onism1767-creator/potato",
+    "stars": 42,
     "language": "Python",
-    "updated_at": "2026-06-27T09:44:36Z"
+    "updated_at": "2026-06-27T22:07:56Z"
   },
   {
-    "name": "HumanAI",
-    "full_name": "MADEVAL/HumanAI",
-    "description": "AI skill for rewriting machine-generated text to sound human-written across 9 languages - 5-stage pipeline: cleanup → specificity → tone → rhythm → proofread.",
-    "url": "https://github.com/MADEVAL/HumanAI",
-    "stars": 52,
-    "language": "PowerShell",
-    "updated_at": "2026-06-27T16:56:26Z"
+    "name": "Deepseek-API",
+    "full_name": "sums001/Deepseek-API",
+    "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
+    "url": "https://github.com/sums001/Deepseek-API",
+    "stars": 41,
+    "language": "Python",
+    "updated_at": "2026-06-28T03:35:17Z"
+  },
+  {
+    "name": "ai-coding-deals",
+    "full_name": "codertesla/ai-coding-deals",
+    "description": "Money-saving guide to AI coding tools: free tiers, discounts, referral credits & open-source alternatives. 省钱指南。",
+    "url": "https://github.com/codertesla/ai-coding-deals",
+    "stars": 35,
+    "language": "Python",
+    "updated_at": "2026-06-27T14:33:09Z"
   }
 ]

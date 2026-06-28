@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-27 21:03:39",
+  "generated_at": "2026-06-28 03:52:36",
   "news": [
     {
       "title": "AI learns the “dark art” of RFIC design",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "source": "Hacker News",
       "time": "2026-06-24 14:02",
-      "score": 138,
-      "comments": 81
+      "score": 204,
+      "comments": 133
     },
     {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
       "source": "Hacker News",
-      "time": "2026-06-27 09:18",
-      "score": 692,
-      "comments": 287
+      "time": "2026-06-28 01:28",
+      "score": 89,
+      "comments": 50
     }
   ]
 }
