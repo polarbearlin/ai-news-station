@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-06-28 07:51:22",
+  "generated_at": "2026-06-28 10:27:39",
   "news": [
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
       "url": "https://github.com/itsthelore/wayfinder-router",
       "source": "Hacker News",
       "time": "2026-06-28 04:31",
-      "score": 44,
-      "comments": 8
-    },
-    {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "source": "Hacker News",
-      "time": "2026-06-28 03:09",
-      "score": 156,
-      "comments": 84
+      "score": 69,
+      "comments": 18
     }
   ]
 }

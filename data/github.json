@@ -4,36 +4,36 @@
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 242,
+    "stars": 245,
     "language": "Rust",
-    "updated_at": "2026-06-28T05:39:13Z"
+    "updated_at": "2026-06-28T10:23:21Z"
   },
   {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 144,
+    "stars": 148,
     "language": "Python",
-    "updated_at": "2026-06-28T04:23:33Z"
+    "updated_at": "2026-06-28T09:29:31Z"
   },
   {
     "name": "Hello-Agents",
     "full_name": "Reyzowter/Hello-Agents",
     "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
     "url": "https://github.com/Reyzowter/Hello-Agents",
-    "stars": 134,
+    "stars": 135,
     "language": "Python",
-    "updated_at": "2026-06-27T13:42:59Z"
+    "updated_at": "2026-06-28T09:09:10Z"
   },
   {
     "name": "ShipGenAI",
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 132,
+    "stars": 134,
     "language": "JavaScript",
-    "updated_at": "2026-06-28T07:12:43Z"
+    "updated_at": "2026-06-28T08:46:57Z"
   },
   {
     "name": "GITVERSE",
@@ -67,18 +67,18 @@
     "full_name": "sums001/Deepseek-API",
     "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Deepseek-API",
-    "stars": 55,
+    "stars": 59,
     "language": "Python",
-    "updated_at": "2026-06-28T07:39:26Z"
+    "updated_at": "2026-06-28T09:51:26Z"
   },
   {
     "name": "potato",
     "full_name": "onism1767-creator/potato",
     "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
     "url": "https://github.com/onism1767-creator/potato",
-    "stars": 45,
+    "stars": 46,
     "language": "Python",
-    "updated_at": "2026-06-28T06:24:08Z"
+    "updated_at": "2026-06-28T08:21:23Z"
   },
   {
     "name": "ai-coding-deals",
