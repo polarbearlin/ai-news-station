@@ -6,25 +6,25 @@
     "url": "https://github.com/eli-labz/Godcoder",
     "stars": 245,
     "language": "Rust",
-    "updated_at": "2026-06-28T10:23:21Z"
+    "updated_at": "2026-06-28T18:39:02Z"
   },
   {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 156,
+    "stars": 160,
     "language": "Python",
-    "updated_at": "2026-06-28T15:20:10Z"
+    "updated_at": "2026-06-28T19:21:43Z"
   },
   {
     "name": "ShipGenAI",
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 140,
+    "stars": 141,
     "language": "JavaScript",
-    "updated_at": "2026-06-28T17:00:32Z"
+    "updated_at": "2026-06-28T18:52:51Z"
   },
   {
     "name": "Hello-Agents",
@@ -58,27 +58,27 @@
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 79,
+    "stars": 100,
     "language": null,
-    "updated_at": "2026-06-28T17:06:44Z"
+    "updated_at": "2026-06-28T20:44:27Z"
   },
   {
     "name": "Deepseek-API",
     "full_name": "sums001/Deepseek-API",
     "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Deepseek-API",
-    "stars": 71,
+    "stars": 78,
     "language": "Python",
-    "updated_at": "2026-06-28T17:08:17Z"
+    "updated_at": "2026-06-28T20:46:09Z"
   },
   {
     "name": "potato",
     "full_name": "onism1767-creator/potato",
     "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
     "url": "https://github.com/onism1767-creator/potato",
-    "stars": 53,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-06-28T16:52:44Z"
+    "updated_at": "2026-06-28T20:44:43Z"
   },
   {
     "name": "FreeAI-Desktop",
