@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-06-29 09:02:24",
+  "generated_at": "2026-06-29 15:47:19",
   "news": [
+    {
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "source": "Hacker News",
+      "time": "2026-06-29 13:09",
+      "score": 173,
+      "comments": 200
+    },
     {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
       "source": "Hacker News",
       "time": "2026-06-29 01:44",
-      "score": 373,
-      "comments": 127
+      "score": 778,
+      "comments": 332
     }
   ]
 }

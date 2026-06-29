@@ -4,27 +4,36 @@
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 247,
+    "stars": 250,
     "language": "Rust",
-    "updated_at": "2026-06-29T07:44:22Z"
+    "updated_at": "2026-06-29T12:05:46Z"
   },
   {
     "name": "lemma-platform",
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 171,
+    "stars": 181,
     "language": "Python",
-    "updated_at": "2026-06-29T08:57:41Z"
+    "updated_at": "2026-06-29T15:41:20Z"
+  },
+  {
+    "name": "macos-chatgpt-overlay-bar",
+    "full_name": "ik190/macos-chatgpt-overlay-bar",
+    "description": "ChatGPT for Mac, living in your menubar.",
+    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+    "stars": 163,
+    "language": null,
+    "updated_at": "2026-06-29T15:44:26Z"
   },
   {
     "name": "ShipGenAI",
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 149,
+    "stars": 152,
     "language": "JavaScript",
-    "updated_at": "2026-06-29T07:27:54Z"
+    "updated_at": "2026-06-29T12:38:22Z"
   },
   {
     "name": "Hello-Agents",
@@ -40,27 +49,18 @@
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
     "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 131,
+    "stars": 132,
     "language": "TypeScript",
-    "updated_at": "2026-06-27T21:02:11Z"
-  },
-  {
-    "name": "macos-chatgpt-overlay-bar",
-    "full_name": "ik190/macos-chatgpt-overlay-bar",
-    "description": "ChatGPT for Mac, living in your menubar.",
-    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 121,
-    "language": null,
-    "updated_at": "2026-06-29T01:11:30Z"
+    "updated_at": "2026-06-29T14:08:08Z"
   },
   {
     "name": "ESEILANE",
     "full_name": "Aliu-AiRobot/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
     "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-    "stars": 118,
+    "stars": 131,
     "language": "HTML",
-    "updated_at": "2026-06-29T08:59:23Z"
+    "updated_at": "2026-06-29T14:45:23Z"
   },
   {
     "name": "ESEILANE",
@@ -76,17 +76,17 @@
     "full_name": "sums001/Deepseek-API",
     "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Deepseek-API",
-    "stars": 92,
+    "stars": 102,
     "language": "Python",
-    "updated_at": "2026-06-29T08:06:51Z"
+    "updated_at": "2026-06-29T15:21:16Z"
   },
   {
     "name": "qcue",
     "full_name": "SparkyWen/qcue",
     "description": "Your second brain - capture your mind",
     "url": "https://github.com/SparkyWen/qcue",
-    "stars": 73,
+    "stars": 89,
     "language": "Rust",
-    "updated_at": "2026-06-29T08:43:15Z"
+    "updated_at": "2026-06-29T15:38:50Z"
   }
 ]
