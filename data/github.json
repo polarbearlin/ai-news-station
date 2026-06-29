@@ -13,18 +13,18 @@
     "full_name": "lemma-work/lemma-platform",
     "description": "The open-source workspace where humans and AI agents work as one team.",
     "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 181,
+    "stars": 183,
     "language": "Python",
-    "updated_at": "2026-06-29T16:47:07Z"
+    "updated_at": "2026-06-29T18:12:57Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 175,
+    "stars": 183,
     "language": null,
-    "updated_at": "2026-06-29T17:38:38Z"
+    "updated_at": "2026-06-29T19:25:38Z"
   },
   {
     "name": "ShipGenAI",
@@ -49,18 +49,18 @@
     "full_name": "Aliu-AiRobot/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
     "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-    "stars": 135,
+    "stars": 136,
     "language": "HTML",
-    "updated_at": "2026-06-29T17:42:11Z"
+    "updated_at": "2026-06-29T18:22:09Z"
   },
   {
     "name": "GITVERSE",
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
     "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 132,
+    "stars": 133,
     "language": "TypeScript",
-    "updated_at": "2026-06-29T14:08:08Z"
+    "updated_at": "2026-06-29T20:47:51Z"
   },
   {
     "name": "ESEILANE",
@@ -78,15 +78,15 @@
     "url": "https://github.com/sums001/Deepseek-API",
     "stars": 103,
     "language": "Python",
-    "updated_at": "2026-06-29T15:49:28Z"
+    "updated_at": "2026-06-29T19:46:21Z"
   },
   {
     "name": "qcue",
     "full_name": "SparkyWen/qcue",
     "description": "Your second brain - capture your mind",
     "url": "https://github.com/SparkyWen/qcue",
-    "stars": 94,
+    "stars": 101,
     "language": "Rust",
-    "updated_at": "2026-06-29T17:59:30Z"
+    "updated_at": "2026-06-29T20:43:29Z"
   }
 ]
