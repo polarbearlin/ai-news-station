@@ -4,9 +4,9 @@
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 250,
+    "stars": 251,
     "language": "Rust",
-    "updated_at": "2026-06-29T12:05:46Z"
+    "updated_at": "2026-06-29T17:56:09Z"
   },
   {
     "name": "lemma-platform",
@@ -15,25 +15,25 @@
     "url": "https://github.com/lemma-work/lemma-platform",
     "stars": 181,
     "language": "Python",
-    "updated_at": "2026-06-29T15:41:20Z"
+    "updated_at": "2026-06-29T16:47:07Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 163,
+    "stars": 175,
     "language": null,
-    "updated_at": "2026-06-29T15:44:26Z"
+    "updated_at": "2026-06-29T17:38:38Z"
   },
   {
     "name": "ShipGenAI",
     "full_name": "benlamiro/ShipGenAI",
     "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
     "url": "https://github.com/benlamiro/ShipGenAI",
-    "stars": 152,
+    "stars": 155,
     "language": "JavaScript",
-    "updated_at": "2026-06-29T12:38:22Z"
+    "updated_at": "2026-06-29T17:24:14Z"
   },
   {
     "name": "Hello-Agents",
@@ -45,6 +45,15 @@
     "updated_at": "2026-06-28T13:46:01Z"
   },
   {
+    "name": "ESEILANE",
+    "full_name": "Aliu-AiRobot/ESEILANE",
+    "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
+    "url": "https://github.com/Aliu-AiRobot/ESEILANE",
+    "stars": 135,
+    "language": "HTML",
+    "updated_at": "2026-06-29T17:42:11Z"
+  },
+  {
     "name": "GITVERSE",
     "full_name": "GraeLefix/GITVERSE",
     "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
@@ -52,15 +61,6 @@
     "stars": 132,
     "language": "TypeScript",
     "updated_at": "2026-06-29T14:08:08Z"
-  },
-  {
-    "name": "ESEILANE",
-    "full_name": "Aliu-AiRobot/ESEILANE",
-    "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
-    "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-    "stars": 131,
-    "language": "HTML",
-    "updated_at": "2026-06-29T14:45:23Z"
   },
   {
     "name": "ESEILANE",
@@ -76,17 +76,17 @@
     "full_name": "sums001/Deepseek-API",
     "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Deepseek-API",
-    "stars": 102,
+    "stars": 103,
     "language": "Python",
-    "updated_at": "2026-06-29T15:21:16Z"
+    "updated_at": "2026-06-29T15:49:28Z"
   },
   {
     "name": "qcue",
     "full_name": "SparkyWen/qcue",
     "description": "Your second brain - capture your mind",
     "url": "https://github.com/SparkyWen/qcue",
-    "stars": 89,
+    "stars": 94,
     "language": "Rust",
-    "updated_at": "2026-06-29T15:38:50Z"
+    "updated_at": "2026-06-29T17:59:30Z"
   }
 ]
