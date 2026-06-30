@@ -1,5 +1,14 @@
 [
   {
+    "name": "Fundamental-Ava",
+    "full_name": "TianhangZhuzth/Fundamental-Ava",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "stars": 304,
+    "language": "Python",
+    "updated_at": "2026-06-30T10:54:42Z"
+  },
+  {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
@@ -13,9 +22,9 @@
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 183,
+    "stars": 186,
     "language": null,
-    "updated_at": "2026-06-29T19:25:38Z"
+    "updated_at": "2026-06-30T10:55:19Z"
   },
   {
     "name": "ShipGenAI",
@@ -45,15 +54,6 @@
     "updated_at": "2026-06-29T20:47:51Z"
   },
   {
-    "name": "Fundamental-Ava",
-    "full_name": "TianhangZhuzth/Fundamental-Ava",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
-    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 127,
-    "language": "Python",
-    "updated_at": "2026-06-30T07:53:22Z"
-  },
-  {
     "name": "qcue",
     "full_name": "SparkyWen/qcue",
     "description": "Your second brain - capture your mind",
@@ -67,26 +67,26 @@
     "full_name": "sums001/Deepseek-API",
     "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Deepseek-API",
-    "stars": 104,
+    "stars": 105,
     "language": "Python",
-    "updated_at": "2026-06-30T07:33:36Z"
+    "updated_at": "2026-06-30T09:35:43Z"
   },
   {
     "name": "github-roast",
     "full_name": "hikariming/github-roast",
     "description": "Savage GitHub Roast · Drop a handle, get a 0–100 value & trust score in 30s plus one brutally honest roast. Exposes PR farmers, AI bots & fork-hoarders. Deterministic scoring, self-hostable.",
     "url": "https://github.com/hikariming/github-roast",
-    "stars": 79,
+    "stars": 82,
     "language": "TypeScript",
-    "updated_at": "2026-06-30T07:33:02Z"
+    "updated_at": "2026-06-30T10:28:11Z"
   },
   {
     "name": "agent-explorer",
     "full_name": "unixzii/agent-explorer",
     "description": "A browser-based explorer for agent session logs.",
     "url": "https://github.com/unixzii/agent-explorer",
-    "stars": 49,
+    "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-06-30T03:22:13Z"
+    "updated_at": "2026-06-30T08:38:43Z"
   }
 ]
