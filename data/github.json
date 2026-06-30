@@ -4,27 +4,27 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 304,
+    "stars": 470,
     "language": "Python",
-    "updated_at": "2026-06-30T10:54:42Z"
+    "updated_at": "2026-06-30T14:18:05Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 252,
+    "stars": 253,
     "language": "Rust",
-    "updated_at": "2026-06-30T07:00:31Z"
+    "updated_at": "2026-06-30T12:51:35Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 186,
+    "stars": 211,
     "language": null,
-    "updated_at": "2026-06-30T10:55:19Z"
+    "updated_at": "2026-06-30T14:09:25Z"
   },
   {
     "name": "ShipGenAI",
@@ -58,9 +58,9 @@
     "full_name": "SparkyWen/qcue",
     "description": "Your second brain - capture your mind",
     "url": "https://github.com/SparkyWen/qcue",
-    "stars": 111,
+    "stars": 112,
     "language": "Rust",
-    "updated_at": "2026-06-30T07:45:57Z"
+    "updated_at": "2026-06-30T13:18:00Z"
   },
   {
     "name": "Deepseek-API",
@@ -78,15 +78,15 @@
     "url": "https://github.com/hikariming/github-roast",
     "stars": 82,
     "language": "TypeScript",
-    "updated_at": "2026-06-30T10:28:11Z"
+    "updated_at": "2026-06-30T11:42:53Z"
   },
   {
-    "name": "agent-explorer",
-    "full_name": "unixzii/agent-explorer",
-    "description": "A browser-based explorer for agent session logs.",
-    "url": "https://github.com/unixzii/agent-explorer",
-    "stars": 50,
-    "language": "TypeScript",
-    "updated_at": "2026-06-30T08:38:43Z"
+    "name": "cli-llm-mesh",
+    "full_name": "vishalGitthub/cli-llm-mesh",
+    "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
+    "url": "https://github.com/vishalGitthub/cli-llm-mesh",
+    "stars": 76,
+    "language": "HTML",
+    "updated_at": "2026-06-30T14:16:10Z"
   }
 ]
