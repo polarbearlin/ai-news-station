@@ -4,9 +4,9 @@
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 251,
+    "stars": 252,
     "language": "Rust",
-    "updated_at": "2026-06-30T02:50:29Z"
+    "updated_at": "2026-06-30T07:00:31Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -45,13 +45,22 @@
     "updated_at": "2026-06-29T20:47:51Z"
   },
   {
+    "name": "Fundamental-Ava",
+    "full_name": "TianhangZhuzth/Fundamental-Ava",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "stars": 127,
+    "language": "Python",
+    "updated_at": "2026-06-30T07:53:22Z"
+  },
+  {
     "name": "qcue",
     "full_name": "SparkyWen/qcue",
     "description": "Your second brain - capture your mind",
     "url": "https://github.com/SparkyWen/qcue",
     "stars": 111,
     "language": "Rust",
-    "updated_at": "2026-06-30T01:32:33Z"
+    "updated_at": "2026-06-30T07:45:57Z"
   },
   {
     "name": "Deepseek-API",
@@ -60,16 +69,16 @@
     "url": "https://github.com/sums001/Deepseek-API",
     "stars": 104,
     "language": "Python",
-    "updated_at": "2026-06-29T23:41:15Z"
+    "updated_at": "2026-06-30T07:33:36Z"
   },
   {
     "name": "github-roast",
     "full_name": "hikariming/github-roast",
     "description": "Savage GitHub Roast · Drop a handle, get a 0–100 value & trust score in 30s plus one brutally honest roast. Exposes PR farmers, AI bots & fork-hoarders. Deterministic scoring, self-hostable.",
     "url": "https://github.com/hikariming/github-roast",
-    "stars": 77,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-06-30T03:02:08Z"
+    "updated_at": "2026-06-30T07:33:02Z"
   },
   {
     "name": "agent-explorer",
@@ -79,14 +88,5 @@
     "stars": 49,
     "language": "TypeScript",
     "updated_at": "2026-06-30T03:22:13Z"
-  },
-  {
-    "name": "FreeAI-Desktop",
-    "full_name": "Hunteryawatch/FreeAI-Desktop",
-    "description": "Free offline AI chat for Windows. Llama 3.2 3B model. No API keys, no censorship, no internet required. 100% private.",
-    "url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
-    "stars": 40,
-    "language": "Python",
-    "updated_at": "2026-06-29T21:10:59Z"
   }
 ]
