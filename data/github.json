@@ -6,16 +6,7 @@
     "url": "https://github.com/eli-labz/Godcoder",
     "stars": 251,
     "language": "Rust",
-    "updated_at": "2026-06-29T17:56:09Z"
-  },
-  {
-    "name": "lemma-platform",
-    "full_name": "lemma-work/lemma-platform",
-    "description": "The open-source workspace where humans and AI agents work as one team.",
-    "url": "https://github.com/lemma-work/lemma-platform",
-    "stars": 183,
-    "language": "Python",
-    "updated_at": "2026-06-29T18:12:57Z"
+    "updated_at": "2026-06-30T02:50:29Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -36,22 +27,13 @@
     "updated_at": "2026-06-29T17:24:14Z"
   },
   {
-    "name": "Hello-Agents",
-    "full_name": "Reyzowter/Hello-Agents",
-    "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
-    "url": "https://github.com/Reyzowter/Hello-Agents",
-    "stars": 137,
-    "language": "Python",
-    "updated_at": "2026-06-28T13:46:01Z"
-  },
-  {
     "name": "ESEILANE",
     "full_name": "Aliu-AiRobot/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
     "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-    "stars": 136,
+    "stars": 135,
     "language": "HTML",
-    "updated_at": "2026-06-29T18:22:09Z"
+    "updated_at": "2026-06-30T03:32:28Z"
   },
   {
     "name": "GITVERSE",
@@ -63,30 +45,48 @@
     "updated_at": "2026-06-29T20:47:51Z"
   },
   {
-    "name": "ESEILANE",
-    "full_name": "Simpl3x3/ESEILANE",
-    "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
-    "url": "https://github.com/Simpl3x3/ESEILANE",
-    "stars": 105,
-    "language": "Ruby",
-    "updated_at": "2026-06-24T08:26:55Z"
+    "name": "qcue",
+    "full_name": "SparkyWen/qcue",
+    "description": "Your second brain - capture your mind",
+    "url": "https://github.com/SparkyWen/qcue",
+    "stars": 111,
+    "language": "Rust",
+    "updated_at": "2026-06-30T01:32:33Z"
   },
   {
     "name": "Deepseek-API",
     "full_name": "sums001/Deepseek-API",
     "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sums001/Deepseek-API",
-    "stars": 103,
+    "stars": 104,
     "language": "Python",
-    "updated_at": "2026-06-29T19:46:21Z"
+    "updated_at": "2026-06-29T23:41:15Z"
   },
   {
-    "name": "qcue",
-    "full_name": "SparkyWen/qcue",
-    "description": "Your second brain - capture your mind",
-    "url": "https://github.com/SparkyWen/qcue",
-    "stars": 101,
-    "language": "Rust",
-    "updated_at": "2026-06-29T20:43:29Z"
+    "name": "github-roast",
+    "full_name": "hikariming/github-roast",
+    "description": "Savage GitHub Roast · Drop a handle, get a 0–100 value & trust score in 30s plus one brutally honest roast. Exposes PR farmers, AI bots & fork-hoarders. Deterministic scoring, self-hostable.",
+    "url": "https://github.com/hikariming/github-roast",
+    "stars": 77,
+    "language": "TypeScript",
+    "updated_at": "2026-06-30T03:02:08Z"
+  },
+  {
+    "name": "agent-explorer",
+    "full_name": "unixzii/agent-explorer",
+    "description": "A browser-based explorer for agent session logs.",
+    "url": "https://github.com/unixzii/agent-explorer",
+    "stars": 49,
+    "language": "TypeScript",
+    "updated_at": "2026-06-30T03:22:13Z"
+  },
+  {
+    "name": "FreeAI-Desktop",
+    "full_name": "Hunteryawatch/FreeAI-Desktop",
+    "description": "Free offline AI chat for Windows. Llama 3.2 3B model. No API keys, no censorship, no internet required. 100% private.",
+    "url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-06-29T21:10:59Z"
   }
 ]
