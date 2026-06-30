@@ -4,9 +4,9 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 544,
+    "stars": 584,
     "language": "Python",
-    "updated_at": "2026-06-30T17:44:27Z"
+    "updated_at": "2026-06-30T21:19:51Z"
   },
   {
     "name": "Godcoder",
@@ -36,57 +36,57 @@
     "updated_at": "2026-06-29T17:24:14Z"
   },
   {
-    "name": "ESEILANE",
-    "full_name": "Aliu-AiRobot/ESEILANE",
-    "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
-    "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-    "stars": 135,
+    "name": "wyrd-ecs-core",
+    "full_name": "ivankadric02-alt/wyrd-ecs-core",
+    "description": "ECS World Model Architecture: Real-Time Data AI Framework 2026",
+    "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
+    "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-06-30T03:32:28Z"
+    "updated_at": "2026-06-30T21:01:17Z"
   },
   {
-    "name": "GITVERSE",
-    "full_name": "GraeLefix/GITVERSE",
-    "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
-    "url": "https://github.com/GraeLefix/GITVERSE",
-    "stars": 133,
-    "language": "TypeScript",
-    "updated_at": "2026-06-29T20:47:51Z"
+    "name": "ai-cortex-hub",
+    "full_name": "Fabiojvv/ai-cortex-hub",
+    "description": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+    "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-06-30T20:58:13Z"
   },
   {
-    "name": "local-ai-code-assistant",
-    "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026",
-    "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
-    "stars": 133,
+    "name": "cli-llm-mesh",
+    "full_name": "vishalGitthub/cli-llm-mesh",
+    "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
+    "url": "https://github.com/vishalGitthub/cli-llm-mesh",
+    "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-06-30T17:50:56Z"
-  },
-  {
-    "name": "ironclaw-ai-vision",
-    "full_name": "shadowlzt/ironclaw-ai-vision",
-    "description": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent",
-    "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-    "stars": 131,
-    "language": "HTML",
-    "updated_at": "2026-06-30T17:52:50Z"
-  },
-  {
-    "name": "Arena-of-Autonomous-Threads",
-    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
-    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
-    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
-    "stars": 131,
-    "language": "HTML",
-    "updated_at": "2026-06-30T17:53:30Z"
+    "updated_at": "2026-06-30T20:59:36Z"
   },
   {
     "name": "heoster-jarvis-ai-assistant",
     "full_name": "LTripleP/heoster-jarvis-ai-assistant",
     "description": "Heoster AI 2026: Intelligent Personal Assistant Powered by LangChain & Transformers",
     "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
-    "stars": 131,
+    "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-06-30T17:50:38Z"
+    "updated_at": "2026-06-30T20:54:24Z"
+  },
+  {
+    "name": "local-ai-code-assistant",
+    "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
+    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026",
+    "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-06-30T20:52:02Z"
+  },
+  {
+    "name": "Arena-of-Autonomous-Threads",
+    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
+    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
+    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-06-30T19:57:09Z"
   }
 ]
