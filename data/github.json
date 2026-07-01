@@ -4,18 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 616,
+    "stars": 654,
     "language": "Python",
-    "updated_at": "2026-07-01T03:41:29Z"
+    "updated_at": "2026-07-01T08:13:09Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 256,
+    "stars": 258,
     "language": "Rust",
-    "updated_at": "2026-07-01T02:21:59Z"
+    "updated_at": "2026-07-01T05:45:39Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -27,13 +27,22 @@
     "updated_at": "2026-07-01T03:15:46Z"
   },
   {
+    "name": "foxl-orchestrator",
+    "full_name": "ninouanis84-sudo/foxl-orchestrator",
+    "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+    "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+    "stars": 153,
+    "language": "HTML",
+    "updated_at": "2026-07-01T07:07:34Z"
+  },
+  {
     "name": "wyrd-ecs-core",
     "full_name": "ivankadric02-alt/wyrd-ecs-core",
     "description": "ECS World Model Architecture: Real-Time Data AI Framework 2026",
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-06-30T23:20:05Z"
+    "updated_at": "2026-07-01T04:46:09Z"
   },
   {
     "name": "ironclaw-ai-vision",
@@ -42,7 +51,7 @@
     "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T03:38:56Z"
+    "updated_at": "2026-07-01T08:10:59Z"
   },
   {
     "name": "ai-cortex-hub",
@@ -51,7 +60,16 @@
     "url": "https://github.com/Fabiojvv/ai-cortex-hub",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T00:11:00Z"
+    "updated_at": "2026-07-01T05:25:10Z"
+  },
+  {
+    "name": "Arena-of-Autonomous-Threads",
+    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
+    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
+    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T08:13:16Z"
   },
   {
     "name": "reality-engine",
@@ -69,24 +87,6 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T00:13:07Z"
-  },
-  {
-    "name": "local-ai-code-assistant",
-    "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026",
-    "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-06-30T23:59:56Z"
-  },
-  {
-    "name": "heoster-jarvis-ai-assistant",
-    "full_name": "LTripleP/heoster-jarvis-ai-assistant",
-    "description": "Heoster AI 2026: Intelligent Personal Assistant Powered by LangChain & Transformers",
-    "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T00:01:37Z"
+    "updated_at": "2026-07-01T05:26:43Z"
   }
 ]
