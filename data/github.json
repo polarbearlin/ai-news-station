@@ -4,18 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 706,
+    "stars": 717,
     "language": "Python",
-    "updated_at": "2026-07-01T17:52:22Z"
+    "updated_at": "2026-07-01T20:37:19Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 264,
+    "stars": 265,
     "language": "Rust",
-    "updated_at": "2026-07-01T16:39:35Z"
+    "updated_at": "2026-07-01T18:30:18Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -33,16 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-01T17:09:48Z"
-  },
-  {
-    "name": "cli-llm-mesh",
-    "full_name": "vishalGitthub/cli-llm-mesh",
-    "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
-    "url": "https://github.com/vishalGitthub/cli-llm-mesh",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T15:47:12Z"
+    "updated_at": "2026-07-01T21:22:49Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -51,25 +42,16 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T15:47:58Z"
+    "updated_at": "2026-07-01T20:50:48Z"
   },
   {
-    "name": "PhantomCrowd-Simulacra",
-    "full_name": "charan820/PhantomCrowd-Simulacra",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
-    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
+    "name": "cli-llm-mesh",
+    "full_name": "vishalGitthub/cli-llm-mesh",
+    "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
+    "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T17:06:20Z"
-  },
-  {
-    "name": "world-forge-ai",
-    "full_name": "gunawan1996/world-forge-ai",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-    "url": "https://github.com/gunawan1996/world-forge-ai",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T17:53:02Z"
+    "updated_at": "2026-07-01T20:49:51Z"
   },
   {
     "name": "Android-Mobile-Security-Sandbox-Testing",
@@ -78,7 +60,25 @@
     "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T17:55:37Z"
+    "updated_at": "2026-07-01T19:57:36Z"
+  },
+  {
+    "name": "PhantomCrowd-Simulacra",
+    "full_name": "charan820/PhantomCrowd-Simulacra",
+    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
+    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T21:17:35Z"
+  },
+  {
+    "name": "world-forge-ai",
+    "full_name": "gunawan1996/world-forge-ai",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+    "url": "https://github.com/gunawan1996/world-forge-ai",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T21:25:57Z"
   },
   {
     "name": "ironclaw-ai-vision",
@@ -87,6 +87,6 @@
     "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T17:53:24Z"
+    "updated_at": "2026-07-01T21:26:27Z"
   }
 ]
