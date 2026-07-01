@@ -4,18 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 654,
+    "stars": 692,
     "language": "Python",
-    "updated_at": "2026-07-01T08:13:09Z"
+    "updated_at": "2026-07-01T14:28:41Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 258,
+    "stars": 260,
     "language": "Rust",
-    "updated_at": "2026-07-01T05:45:39Z"
+    "updated_at": "2026-07-01T13:24:44Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -33,52 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-01T07:07:34Z"
-  },
-  {
-    "name": "wyrd-ecs-core",
-    "full_name": "ivankadric02-alt/wyrd-ecs-core",
-    "description": "ECS World Model Architecture: Real-Time Data AI Framework 2026",
-    "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T04:46:09Z"
-  },
-  {
-    "name": "ironclaw-ai-vision",
-    "full_name": "shadowlzt/ironclaw-ai-vision",
-    "description": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent",
-    "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T08:10:59Z"
-  },
-  {
-    "name": "ai-cortex-hub",
-    "full_name": "Fabiojvv/ai-cortex-hub",
-    "description": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-    "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T05:25:10Z"
-  },
-  {
-    "name": "Arena-of-Autonomous-Threads",
-    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
-    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
-    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T08:13:16Z"
-  },
-  {
-    "name": "reality-engine",
-    "full_name": "grandgaming9321-prog/reality-engine",
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-06-30T22:53:34Z"
+    "updated_at": "2026-07-01T14:23:20Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -87,6 +42,51 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T05:26:43Z"
+    "updated_at": "2026-07-01T12:43:28Z"
+  },
+  {
+    "name": "wyrd-ecs-core",
+    "full_name": "ivankadric02-alt/wyrd-ecs-core",
+    "description": "ECS World Model Architecture: Real-Time Data AI Framework 2026",
+    "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T12:14:05Z"
+  },
+  {
+    "name": "Android-Mobile-Security-Sandbox-Testing",
+    "full_name": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide",
+    "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T12:08:03Z"
+  },
+  {
+    "name": "world-forge-ai",
+    "full_name": "gunawan1996/world-forge-ai",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+    "url": "https://github.com/gunawan1996/world-forge-ai",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T12:01:31Z"
+  },
+  {
+    "name": "PhantomCrowd-Simulacra",
+    "full_name": "charan820/PhantomCrowd-Simulacra",
+    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
+    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T14:08:08Z"
+  },
+  {
+    "name": "ironclaw-ai-vision",
+    "full_name": "shadowlzt/ironclaw-ai-vision",
+    "description": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent",
+    "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-01T12:05:52Z"
   }
 ]
