@@ -4,9 +4,9 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 743,
+    "stars": 749,
     "language": "Python",
-    "updated_at": "2026-07-02T13:39:01Z"
+    "updated_at": "2026-07-02T17:00:12Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -33,7 +33,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-02T12:03:29Z"
+    "updated_at": "2026-07-02T17:28:40Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -42,7 +42,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-02T12:09:25Z"
+    "updated_at": "2026-07-02T17:41:04Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -51,7 +51,16 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T12:15:48Z"
+    "updated_at": "2026-07-02T15:23:28Z"
+  },
+  {
+    "name": "picsart-genai-composer-sdk",
+    "full_name": "AkshayPatil9370/picsart-genai-composer-sdk",
+    "description": "Best Picsart Python SDK for Creative APIs 2026: GenAI & Image Processing Tools",
+    "url": "https://github.com/AkshayPatil9370/picsart-genai-composer-sdk",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-02T17:43:41Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -60,7 +69,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T12:12:23Z"
+    "updated_at": "2026-07-02T15:22:08Z"
   },
   {
     "name": "PhantomCrowd-Simulacra",
@@ -69,16 +78,7 @@
     "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T12:02:20Z"
-  },
-  {
-    "name": "Android-Mobile-Security-Sandbox-Testing",
-    "full_name": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
-    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide",
-    "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-02T12:58:28Z"
+    "updated_at": "2026-07-02T17:26:31Z"
   },
   {
     "name": "world-forge-ai",
@@ -87,6 +87,6 @@
     "url": "https://github.com/gunawan1996/world-forge-ai",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T12:56:32Z"
+    "updated_at": "2026-07-02T17:44:31Z"
   }
 ]
