@@ -4,9 +4,9 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 749,
+    "stars": 750,
     "language": "Python",
-    "updated_at": "2026-07-02T17:00:12Z"
+    "updated_at": "2026-07-02T20:02:20Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -31,9 +31,9 @@
     "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
     "description": "Local AI Coding Hub: Run Claude Models Offline in 2026",
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
-    "stars": 152,
+    "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-02T17:28:40Z"
+    "updated_at": "2026-07-02T20:55:29Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -42,7 +42,25 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-02T17:41:04Z"
+    "updated_at": "2026-07-02T20:59:22Z"
+  },
+  {
+    "name": "cli-llm-mesh",
+    "full_name": "vishalGitthub/cli-llm-mesh",
+    "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
+    "url": "https://github.com/vishalGitthub/cli-llm-mesh",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-02T19:42:51Z"
+  },
+  {
+    "name": "Arena-of-Autonomous-Threads",
+    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
+    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
+    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-02T21:06:28Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -51,42 +69,24 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T15:23:28Z"
+    "updated_at": "2026-07-02T19:45:25Z"
   },
   {
-    "name": "picsart-genai-composer-sdk",
-    "full_name": "AkshayPatil9370/picsart-genai-composer-sdk",
-    "description": "Best Picsart Python SDK for Creative APIs 2026: GenAI & Image Processing Tools",
-    "url": "https://github.com/AkshayPatil9370/picsart-genai-composer-sdk",
+    "name": "ai-cortex-hub",
+    "full_name": "Fabiojvv/ai-cortex-hub",
+    "description": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+    "url": "https://github.com/Fabiojvv/ai-cortex-hub",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T17:43:41Z"
+    "updated_at": "2026-07-02T19:36:39Z"
   },
   {
-    "name": "cli-llm-mesh",
-    "full_name": "vishalGitthub/cli-llm-mesh",
-    "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
-    "url": "https://github.com/vishalGitthub/cli-llm-mesh",
+    "name": "heoster-jarvis-ai-assistant",
+    "full_name": "LTripleP/heoster-jarvis-ai-assistant",
+    "description": "Heoster AI 2026: Intelligent Personal Assistant Powered by LangChain & Transformers",
+    "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T15:22:08Z"
-  },
-  {
-    "name": "PhantomCrowd-Simulacra",
-    "full_name": "charan820/PhantomCrowd-Simulacra",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
-    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-02T17:26:31Z"
-  },
-  {
-    "name": "world-forge-ai",
-    "full_name": "gunawan1996/world-forge-ai",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-    "url": "https://github.com/gunawan1996/world-forge-ai",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-02T17:44:31Z"
+    "updated_at": "2026-07-02T20:58:38Z"
   }
 ]

@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-02 17:47:57",
+  "generated_at": "2026-07-02 21:07:24",
   "news": [
     {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "title": "Vulkan is now available on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
       "source": "Hacker News",
-      "time": "2026-07-02 13:43",
-      "score": 231,
-      "comments": 100
-    },
-    {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
-      "source": "Hacker News",
-      "time": "2026-07-02 12:10",
-      "score": 95,
-      "comments": 22
+      "time": "2026-07-02 18:36",
+      "score": 35,
+      "comments": 10
     }
   ]
 }
