@@ -4,18 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 717,
+    "stars": 721,
     "language": "Python",
-    "updated_at": "2026-07-01T20:37:19Z"
+    "updated_at": "2026-07-02T02:21:30Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 265,
+    "stars": 268,
     "language": "Rust",
-    "updated_at": "2026-07-01T18:30:18Z"
+    "updated_at": "2026-07-02T02:06:29Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
@@ -31,62 +31,62 @@
     "full_name": "ninouanis84-sudo/foxl-orchestrator",
     "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-    "stars": 153,
+    "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-01T21:22:49Z"
+    "updated_at": "2026-07-02T02:44:46Z"
   },
   {
     "name": "wyrd-ecs-core",
     "full_name": "ivankadric02-alt/wyrd-ecs-core",
     "description": "ECS World Model Architecture: Real-Time Data AI Framework 2026",
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-01T20:50:48Z"
+    "updated_at": "2026-07-02T00:16:44Z"
   },
   {
     "name": "cli-llm-mesh",
     "full_name": "vishalGitthub/cli-llm-mesh",
     "description": "Top 5 AI Models CLI Chat 2026 – Minimal & Fast",
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-01T20:49:51Z"
-  },
-  {
-    "name": "Android-Mobile-Security-Sandbox-Testing",
-    "full_name": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
-    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide",
-    "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T19:57:36Z"
-  },
-  {
-    "name": "PhantomCrowd-Simulacra",
-    "full_name": "charan820/PhantomCrowd-Simulacra",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
-    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T21:17:35Z"
-  },
-  {
-    "name": "world-forge-ai",
-    "full_name": "gunawan1996/world-forge-ai",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-    "url": "https://github.com/gunawan1996/world-forge-ai",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-01T21:25:57Z"
+    "updated_at": "2026-07-02T00:14:13Z"
   },
   {
     "name": "ironclaw-ai-vision",
     "full_name": "shadowlzt/ironclaw-ai-vision",
     "description": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent",
     "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-    "stars": 152,
+    "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-01T21:26:27Z"
+    "updated_at": "2026-07-02T03:24:36Z"
+  },
+  {
+    "name": "PhantomCrowd-Simulacra",
+    "full_name": "charan820/PhantomCrowd-Simulacra",
+    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
+    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-02T02:11:47Z"
+  },
+  {
+    "name": "world-forge-ai",
+    "full_name": "gunawan1996/world-forge-ai",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+    "url": "https://github.com/gunawan1996/world-forge-ai",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-02T03:21:13Z"
+  },
+  {
+    "name": "Android-Mobile-Security-Sandbox-Testing",
+    "full_name": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide",
+    "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-02T03:34:46Z"
   }
 ]
