@@ -4,27 +4,36 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 730,
+    "stars": 732,
     "language": "Python",
-    "updated_at": "2026-07-02T06:48:16Z"
+    "updated_at": "2026-07-02T10:15:26Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 269,
+    "stars": 270,
     "language": "Rust",
-    "updated_at": "2026-07-02T03:49:00Z"
+    "updated_at": "2026-07-02T10:01:50Z"
   },
   {
     "name": "macos-chatgpt-overlay-bar",
     "full_name": "ik190/macos-chatgpt-overlay-bar",
     "description": "ChatGPT for Mac, living in your menubar.",
     "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 233,
+    "stars": 263,
     "language": null,
-    "updated_at": "2026-07-01T03:15:46Z"
+    "updated_at": "2026-07-02T10:40:06Z"
+  },
+  {
+    "name": "local-ai-code-assistant",
+    "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
+    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026",
+    "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-02T10:37:12Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -33,7 +42,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-02T06:36:07Z"
+    "updated_at": "2026-07-02T09:57:21Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -42,7 +51,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T05:04:37Z"
+    "updated_at": "2026-07-02T09:27:45Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -51,7 +60,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T05:02:28Z"
+    "updated_at": "2026-07-02T09:22:35Z"
   },
   {
     "name": "PhantomCrowd-Simulacra",
@@ -60,7 +69,7 @@
     "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T06:30:19Z"
+    "updated_at": "2026-07-02T09:52:08Z"
   },
   {
     "name": "world-forge-ai",
@@ -69,7 +78,7 @@
     "url": "https://github.com/gunawan1996/world-forge-ai",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T07:29:13Z"
+    "updated_at": "2026-07-02T10:35:51Z"
   },
   {
     "name": "Android-Mobile-Security-Sandbox-Testing",
@@ -78,15 +87,6 @@
     "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T07:32:28Z"
-  },
-  {
-    "name": "ironclaw-ai-vision",
-    "full_name": "shadowlzt/ironclaw-ai-vision",
-    "description": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent",
-    "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-02T07:30:00Z"
+    "updated_at": "2026-07-02T10:39:56Z"
   }
 ]
