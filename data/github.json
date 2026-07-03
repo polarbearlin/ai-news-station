@@ -4,9 +4,9 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 757,
+    "stars": 758,
     "language": "Python",
-    "updated_at": "2026-07-03T05:54:43Z"
+    "updated_at": "2026-07-03T08:00:27Z"
   },
   {
     "name": "Godcoder",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-03T06:22:33Z"
+    "updated_at": "2026-07-03T09:50:15Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -33,16 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T04:37:41Z"
-  },
-  {
-    "name": "Arena-of-Autonomous-Threads",
-    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
-    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
-    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
-    "stars": 152,
-    "language": "HTML",
-    "updated_at": "2026-07-03T06:33:18Z"
+    "updated_at": "2026-07-03T07:58:01Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -51,7 +42,16 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T03:47:43Z"
+    "updated_at": "2026-07-03T07:28:15Z"
+  },
+  {
+    "name": "Arena-of-Autonomous-Threads",
+    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
+    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
+    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-03T09:58:23Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T03:59:31Z"
+    "updated_at": "2026-07-03T07:32:40Z"
   },
   {
     "name": "ai-cortex-hub",
@@ -69,7 +69,7 @@
     "url": "https://github.com/Fabiojvv/ai-cortex-hub",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T03:39:12Z"
+    "updated_at": "2026-07-03T07:25:48Z"
   },
   {
     "name": "reality-engine",
@@ -78,15 +78,15 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T21:54:12Z"
+    "updated_at": "2026-07-03T09:45:38Z"
   },
   {
-    "name": "ironclaw-ai-vision",
-    "full_name": "shadowlzt/ironclaw-ai-vision",
-    "description": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent",
-    "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
+    "name": "heoster-jarvis-ai-assistant",
+    "full_name": "LTripleP/heoster-jarvis-ai-assistant",
+    "description": "Heoster AI 2026: Intelligent Personal Assistant Powered by LangChain & Transformers",
+    "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T06:30:49Z"
+    "updated_at": "2026-07-03T09:55:49Z"
   }
 ]
