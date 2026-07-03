@@ -4,18 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 758,
+    "stars": 761,
     "language": "Python",
-    "updated_at": "2026-07-03T08:00:27Z"
+    "updated_at": "2026-07-03T13:36:34Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 272,
+    "stars": 274,
     "language": "Rust",
-    "updated_at": "2026-07-03T01:56:26Z"
+    "updated_at": "2026-07-03T13:07:45Z"
   },
   {
     "name": "local-ai-code-assistant",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-03T09:50:15Z"
+    "updated_at": "2026-07-03T12:01:27Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -33,7 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T07:58:01Z"
+    "updated_at": "2026-07-03T12:52:55Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -42,7 +42,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T07:28:15Z"
+    "updated_at": "2026-07-03T13:00:04Z"
   },
   {
     "name": "Arena-of-Autonomous-Threads",
@@ -51,7 +51,7 @@
     "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T09:58:23Z"
+    "updated_at": "2026-07-03T12:14:46Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T07:32:40Z"
+    "updated_at": "2026-07-03T13:01:58Z"
   },
   {
     "name": "ai-cortex-hub",
@@ -69,7 +69,7 @@
     "url": "https://github.com/Fabiojvv/ai-cortex-hub",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T07:25:48Z"
+    "updated_at": "2026-07-03T12:58:30Z"
   },
   {
     "name": "reality-engine",
@@ -87,6 +87,6 @@
     "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T09:55:49Z"
+    "updated_at": "2026-07-03T12:06:13Z"
   }
 ]
