@@ -4,27 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 750,
+    "stars": 755,
     "language": "Python",
-    "updated_at": "2026-07-02T20:02:20Z"
-  },
-  {
-    "name": "macos-chatgpt-overlay-bar",
-    "full_name": "ik190/macos-chatgpt-overlay-bar",
-    "description": "ChatGPT for Mac, living in your menubar.",
-    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-    "stars": 312,
-    "language": null,
-    "updated_at": "2026-07-02T13:54:06Z"
+    "updated_at": "2026-07-03T03:14:56Z"
   },
   {
     "name": "Godcoder",
     "full_name": "eli-labz/Godcoder",
     "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
     "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 270,
+    "stars": 272,
     "language": "Rust",
-    "updated_at": "2026-07-02T10:01:50Z"
+    "updated_at": "2026-07-03T01:56:26Z"
   },
   {
     "name": "local-ai-code-assistant",
@@ -33,7 +24,16 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-02T20:55:29Z"
+    "updated_at": "2026-07-03T02:30:31Z"
+  },
+  {
+    "name": "Arena-of-Autonomous-Threads",
+    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
+    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
+    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
+    "stars": 152,
+    "language": "HTML",
+    "updated_at": "2026-07-03T02:55:31Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -42,7 +42,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-02T20:59:22Z"
+    "updated_at": "2026-07-03T00:00:36Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -51,16 +51,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-02T19:42:51Z"
-  },
-  {
-    "name": "Arena-of-Autonomous-Threads",
-    "full_name": "rafaelmateo123/Arena-of-Autonomous-Threads",
-    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026",
-    "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-02T21:06:28Z"
+    "updated_at": "2026-07-02T23:13:48Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -69,7 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T19:45:25Z"
+    "updated_at": "2026-07-02T23:16:27Z"
   },
   {
     "name": "ai-cortex-hub",
@@ -78,7 +69,16 @@
     "url": "https://github.com/Fabiojvv/ai-cortex-hub",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T19:36:39Z"
+    "updated_at": "2026-07-02T23:11:54Z"
+  },
+  {
+    "name": "reality-engine",
+    "full_name": "grandgaming9321-prog/reality-engine",
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-02T21:54:12Z"
   },
   {
     "name": "heoster-jarvis-ai-assistant",
@@ -87,6 +87,6 @@
     "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-02T20:58:38Z"
+    "updated_at": "2026-07-02T23:59:27Z"
   }
 ]

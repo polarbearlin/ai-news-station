@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-02 21:07:24",
+  "generated_at": "2026-07-03 03:17:07",
   "news": [
     {
-      "title": "Vulkan is now available on NetBSD",
-      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "source": "Hacker News",
-      "time": "2026-07-02 18:36",
-      "score": 35,
-      "comments": 10
+      "time": "2026-06-27 23:36",
+      "score": 163,
+      "comments": 61
     }
   ]
 }
