@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-03 17:25:43",
+  "generated_at": "2026-07-03 21:06:32",
   "news": [
     {
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
       "source": "Hacker News",
       "time": "2026-07-03 15:03",
-      "score": 67,
-      "comments": 27
+      "score": 202,
+      "comments": 99
     }
   ]
 }

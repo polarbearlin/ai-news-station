@@ -4,9 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 518,
+    "stars": 519,
     "language": "Python",
-    "updated_at": "2026-07-03T15:19:00Z"
+    "updated_at": "2026-07-03T20:29:42Z"
+  },
+  {
+    "name": "Talos",
+    "full_name": "jmerelnyc/Talos",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "stars": 291,
+    "language": "Python",
+    "updated_at": "2026-07-03T20:55:54Z"
   },
   {
     "name": "Godcoder",
@@ -18,22 +27,13 @@
     "updated_at": "2026-07-03T16:12:27Z"
   },
   {
-    "name": "Talos",
-    "full_name": "jmerelnyc/Talos",
-    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-    "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 185,
-    "language": "Python",
-    "updated_at": "2026-07-03T17:25:18Z"
-  },
-  {
     "name": "local-ai-code-assistant",
     "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
     "description": "Local AI Coding Hub: Run Claude Models Offline in 2026",
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-03T17:14:23Z"
+    "updated_at": "2026-07-03T20:54:06Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -42,7 +42,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T17:19:05Z"
+    "updated_at": "2026-07-03T20:58:25Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -51,7 +51,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T15:21:06Z"
+    "updated_at": "2026-07-03T19:37:37Z"
   },
   {
     "name": "Arena-of-Autonomous-Threads",
@@ -60,7 +60,7 @@
     "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T17:25:10Z"
+    "updated_at": "2026-07-03T21:05:38Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -69,24 +69,24 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T15:56:01Z"
+    "updated_at": "2026-07-03T19:41:16Z"
   },
   {
-    "name": "ai-cortex-hub",
-    "full_name": "Fabiojvv/ai-cortex-hub",
-    "description": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-    "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+    "name": "PhantomCrowd-Simulacra",
+    "full_name": "charan820/PhantomCrowd-Simulacra",
+    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
+    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T15:18:51Z"
+    "updated_at": "2026-07-03T20:52:06Z"
   },
   {
-    "name": "reality-engine",
-    "full_name": "grandgaming9321-prog/reality-engine",
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine",
+    "name": "world-forge-ai",
+    "full_name": "gunawan1996/world-forge-ai",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+    "url": "https://github.com/gunawan1996/world-forge-ai",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T16:07:09Z"
+    "updated_at": "2026-07-03T21:02:46Z"
   }
 ]
