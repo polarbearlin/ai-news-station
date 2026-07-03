@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-03 14:04:11",
+  "generated_at": "2026-07-03 17:25:43",
   "news": [
     {
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
       "source": "Hacker News",
-      "time": "2026-07-03 12:51",
-      "score": 75,
-      "comments": 37
+      "time": "2026-07-03 15:03",
+      "score": 67,
+      "comments": 27
     }
   ]
 }
