@@ -4,27 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 519,
+    "stars": 520,
     "language": "Python",
-    "updated_at": "2026-07-03T20:29:42Z"
+    "updated_at": "2026-07-04T01:30:56Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 291,
+    "stars": 334,
     "language": "Python",
-    "updated_at": "2026-07-03T20:55:54Z"
-  },
-  {
-    "name": "Godcoder",
-    "full_name": "eli-labz/Godcoder",
-    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-    "url": "https://github.com/eli-labz/Godcoder",
-    "stars": 276,
-    "language": "Rust",
-    "updated_at": "2026-07-03T16:12:27Z"
+    "updated_at": "2026-07-04T02:55:56Z"
   },
   {
     "name": "local-ai-code-assistant",
@@ -33,7 +24,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-03T20:54:06Z"
+    "updated_at": "2026-07-04T02:01:49Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -42,7 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T20:58:25Z"
+    "updated_at": "2026-07-04T00:00:02Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -51,7 +42,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T19:37:37Z"
+    "updated_at": "2026-07-03T23:10:35Z"
   },
   {
     "name": "Arena-of-Autonomous-Threads",
@@ -60,7 +51,7 @@
     "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T21:05:38Z"
+    "updated_at": "2026-07-04T02:51:41Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -69,7 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T19:41:16Z"
+    "updated_at": "2026-07-03T23:12:57Z"
   },
   {
     "name": "PhantomCrowd-Simulacra",
@@ -78,7 +69,7 @@
     "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T20:52:06Z"
+    "updated_at": "2026-07-04T00:00:56Z"
   },
   {
     "name": "world-forge-ai",
@@ -87,6 +78,15 @@
     "url": "https://github.com/gunawan1996/world-forge-ai",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T21:02:46Z"
+    "updated_at": "2026-07-04T02:39:49Z"
+  },
+  {
+    "name": "Android-Mobile-Security-Sandbox-Testing",
+    "full_name": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide",
+    "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-04T02:53:41Z"
   }
 ]
