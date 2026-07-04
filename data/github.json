@@ -13,9 +13,9 @@
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 395,
+    "stars": 433,
     "language": "Python",
-    "updated_at": "2026-07-04T06:45:57Z"
+    "updated_at": "2026-07-04T09:59:05Z"
   },
   {
     "name": "local-ai-code-assistant",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-04T06:11:20Z"
+    "updated_at": "2026-07-04T09:14:30Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -33,7 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T06:43:07Z"
+    "updated_at": "2026-07-04T09:18:41Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -42,7 +42,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T03:39:25Z"
+    "updated_at": "2026-07-04T09:26:42Z"
   },
   {
     "name": "Arena-of-Autonomous-Threads",
@@ -51,7 +51,7 @@
     "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T06:20:00Z"
+    "updated_at": "2026-07-04T09:22:43Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -60,25 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T03:53:10Z"
-  },
-  {
-    "name": "PhantomCrowd-Simulacra",
-    "full_name": "charan820/PhantomCrowd-Simulacra",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
-    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-04T04:27:41Z"
-  },
-  {
-    "name": "world-forge-ai",
-    "full_name": "gunawan1996/world-forge-ai",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-    "url": "https://github.com/gunawan1996/world-forge-ai",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-04T06:17:08Z"
+    "updated_at": "2026-07-04T09:28:14Z"
   },
   {
     "name": "Android-Mobile-Security-Sandbox-Testing",
@@ -87,6 +69,24 @@
     "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T06:20:18Z"
+    "updated_at": "2026-07-04T09:22:58Z"
+  },
+  {
+    "name": "world-forge-ai",
+    "full_name": "gunawan1996/world-forge-ai",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+    "url": "https://github.com/gunawan1996/world-forge-ai",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-04T09:20:56Z"
+  },
+  {
+    "name": "PhantomCrowd-Simulacra",
+    "full_name": "charan820/PhantomCrowd-Simulacra",
+    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM",
+    "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-04T09:59:27Z"
   }
 ]
