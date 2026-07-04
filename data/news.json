@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-07-04 13:26:01",
+  "generated_at": "2026-07-04 17:05:54",
   "news": [
-    {
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "source": "Hacker News",
-      "time": "2026-07-01 13:22",
-      "score": 32,
-      "comments": 22
-    },
-    {
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "source": "Hacker News",
-      "time": "2026-07-04 06:32",
-      "score": 465,
-      "comments": 290
-    },
     {
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
       "source": "Hacker News",
       "time": "2026-07-01 12:48",
-      "score": 64,
-      "comments": 21
+      "score": 121,
+      "comments": 41
     }
   ]
 }
