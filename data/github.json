@@ -4,18 +4,18 @@
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 520,
+    "stars": 521,
     "language": "Python",
-    "updated_at": "2026-07-04T01:30:56Z"
+    "updated_at": "2026-07-04T05:49:02Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 334,
+    "stars": 395,
     "language": "Python",
-    "updated_at": "2026-07-04T02:55:56Z"
+    "updated_at": "2026-07-04T06:45:57Z"
   },
   {
     "name": "local-ai-code-assistant",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-04T02:01:49Z"
+    "updated_at": "2026-07-04T06:11:20Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -33,7 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T00:00:02Z"
+    "updated_at": "2026-07-04T06:43:07Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -42,7 +42,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-03T23:10:35Z"
+    "updated_at": "2026-07-04T03:39:25Z"
   },
   {
     "name": "Arena-of-Autonomous-Threads",
@@ -51,7 +51,7 @@
     "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T02:51:41Z"
+    "updated_at": "2026-07-04T06:20:00Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-03T23:12:57Z"
+    "updated_at": "2026-07-04T03:53:10Z"
   },
   {
     "name": "PhantomCrowd-Simulacra",
@@ -69,7 +69,7 @@
     "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T00:00:56Z"
+    "updated_at": "2026-07-04T04:27:41Z"
   },
   {
     "name": "world-forge-ai",
@@ -78,7 +78,7 @@
     "url": "https://github.com/gunawan1996/world-forge-ai",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T02:39:49Z"
+    "updated_at": "2026-07-04T06:17:08Z"
   },
   {
     "name": "Android-Mobile-Security-Sandbox-Testing",
@@ -87,6 +87,6 @@
     "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T02:53:41Z"
+    "updated_at": "2026-07-04T06:20:18Z"
   }
 ]

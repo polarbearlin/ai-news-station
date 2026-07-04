@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-07-04 02:55:58",
+  "generated_at": "2026-07-04 06:46:38",
   "news": [
     {
       "title": "MSI Center – How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
       "source": "Hacker News",
       "time": "2026-07-04 00:57",
-      "score": 32,
-      "comments": 7
-    },
-    {
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "source": "Hacker News",
-      "time": "2026-07-03 22:56",
-      "score": 48,
-      "comments": 7
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "source": "Hacker News",
-      "time": "2026-07-03 15:03",
-      "score": 291,
-      "comments": 127
+      "score": 68,
+      "comments": 14
     }
   ]
 }
