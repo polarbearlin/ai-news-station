@@ -4,18 +4,18 @@
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 542,
+    "stars": 570,
     "language": "Python",
-    "updated_at": "2026-07-04T17:04:30Z"
+    "updated_at": "2026-07-04T20:52:03Z"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 522,
+    "stars": 523,
     "language": "Python",
-    "updated_at": "2026-07-04T10:24:19Z"
+    "updated_at": "2026-07-04T19:42:13Z"
   },
   {
     "name": "local-ai-code-assistant",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
     "stars": 153,
     "language": "HTML",
-    "updated_at": "2026-07-04T16:01:56Z"
+    "updated_at": "2026-07-04T20:43:58Z"
   },
   {
     "name": "foxl-orchestrator",
@@ -33,7 +33,7 @@
     "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T16:58:49Z"
+    "updated_at": "2026-07-04T20:06:29Z"
   },
   {
     "name": "cli-llm-mesh",
@@ -42,7 +42,7 @@
     "url": "https://github.com/vishalGitthub/cli-llm-mesh",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T15:10:54Z"
+    "updated_at": "2026-07-04T19:22:29Z"
   },
   {
     "name": "Arena-of-Autonomous-Threads",
@@ -51,7 +51,7 @@
     "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
     "stars": 152,
     "language": "HTML",
-    "updated_at": "2026-07-04T17:05:06Z"
+    "updated_at": "2026-07-04T20:57:14Z"
   },
   {
     "name": "wyrd-ecs-core",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T15:13:48Z"
+    "updated_at": "2026-07-04T19:25:32Z"
   },
   {
     "name": "ironclaw-ai-vision",
@@ -69,7 +69,16 @@
     "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T17:02:39Z"
+    "updated_at": "2026-07-04T20:55:08Z"
+  },
+  {
+    "name": "Android-Mobile-Security-Sandbox-Testing",
+    "full_name": "hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "description": "Ultimate Android Security Toolkit JAMBOREE Burp Objection Magisk 2026 Guide",
+    "url": "https://github.com/hero-mike/Android-Mobile-Security-Sandbox-Testing",
+    "stars": 151,
+    "language": "HTML",
+    "updated_at": "2026-07-04T19:12:35Z"
   },
   {
     "name": "PhantomCrowd-Simulacra",
@@ -78,15 +87,6 @@
     "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
     "stars": 151,
     "language": "HTML",
-    "updated_at": "2026-07-04T16:52:39Z"
-  },
-  {
-    "name": "world-forge-ai",
-    "full_name": "gunawan1996/world-forge-ai",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-    "url": "https://github.com/gunawan1996/world-forge-ai",
-    "stars": 151,
-    "language": "HTML",
-    "updated_at": "2026-07-04T17:01:34Z"
+    "updated_at": "2026-07-04T20:07:59Z"
   }
 ]
