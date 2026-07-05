@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-07-04 20:57:33",
-  "news": []
+  "generated_at": "2026-07-05 03:25:58",
+  "news": [
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News",
+      "time": "2026-07-04 21:51",
+      "score": 173,
+      "comments": 55
+    },
+    {
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "source": "Hacker News",
+      "time": "2026-07-02 19:03",
+      "score": 15,
+      "comments": 0
+    }
+  ]
 }
