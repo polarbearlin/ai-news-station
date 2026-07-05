@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-05 07:25:31",
+  "generated_at": "2026-07-05 10:12:37",
   "news": [
-    {
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://hic-ai.com",
-      "source": "Hacker News",
-      "time": "2026-07-05 05:01",
-      "score": 20,
-      "comments": 22
-    },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
       "source": "Hacker News",
       "time": "2026-07-04 21:51",
-      "score": 239,
-      "comments": 84
+      "score": 275,
+      "comments": 105
     }
   ]
 }

@@ -1,12 +1,21 @@
 [
   {
+    "name": "T3MP3ST",
+    "full_name": "elder-plinius/T3MP3ST",
+    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+    "url": "https://github.com/elder-plinius/T3MP3ST",
+    "stars": 682,
+    "language": "TypeScript",
+    "updated_at": "2026-07-05T10:11:48Z"
+  },
+  {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 614,
+    "stars": 631,
     "language": "Python",
-    "updated_at": "2026-07-05T07:18:31Z"
+    "updated_at": "2026-07-05T10:07:35Z"
   },
   {
     "name": "Fundamental-Ava",
@@ -16,15 +25,6 @@
     "stars": 522,
     "language": "Python",
     "updated_at": "2026-07-05T06:41:34Z"
-  },
-  {
-    "name": "T3MP3ST",
-    "full_name": "elder-plinius/T3MP3ST",
-    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-    "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 502,
-    "language": "TypeScript",
-    "updated_at": "2026-07-05T07:25:18Z"
   },
   {
     "name": "Valorant-External-Assistant-2026",
@@ -76,17 +76,17 @@
     "full_name": "Brain0-ai/brain0",
     "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
     "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 23,
+    "stars": 24,
     "language": "Rust",
-    "updated_at": "2026-07-05T06:53:26Z"
+    "updated_at": "2026-07-05T08:07:52Z"
   },
   {
-    "name": "EKAM_",
-    "full_name": "neha23jk/EKAM_",
-    "description": "AI-powered platform for intelligent event orchestration, automated team formation, judge assignment, evaluation integrity, and multi-round competition management.",
-    "url": "https://github.com/neha23jk/EKAM_",
-    "stars": 17,
-    "language": null,
-    "updated_at": "2026-07-01T10:38:19Z"
+    "name": "anima-use-google",
+    "full_name": "animaios/anima-use-google",
+    "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
+    "url": "https://github.com/animaios/anima-use-google",
+    "stars": 18,
+    "language": "JavaScript",
+    "updated_at": "2026-07-05T08:57:05Z"
   }
 ]
