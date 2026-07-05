@@ -4,18 +4,18 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 966,
+    "stars": 1255,
     "language": "TypeScript",
-    "updated_at": "2026-07-05T13:39:10Z"
+    "updated_at": "2026-07-05T17:10:06Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 641,
+    "stars": 656,
     "language": "Python",
-    "updated_at": "2026-07-05T13:36:05Z"
+    "updated_at": "2026-07-05T16:14:43Z"
   },
   {
     "name": "Fundamental-Ava",
@@ -36,6 +36,15 @@
     "updated_at": "2026-07-03T01:54:46Z"
   },
   {
+    "name": "OmniPost-AI",
+    "full_name": "wanglinsaputra/OmniPost-AI",
+    "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
+    "url": "https://github.com/wanglinsaputra/OmniPost-AI",
+    "stars": 35,
+    "language": "TypeScript",
+    "updated_at": "2026-07-05T17:05:25Z"
+  },
+  {
     "name": "immersive-reading",
     "full_name": "ryannli/immersive-reading",
     "description": "Turn dense long-form ideas into immersive Reading Editions.",
@@ -49,9 +58,9 @@
     "full_name": "eyadhammouda/pookify",
     "description": "A Dynamic Island style notch status indicator for Claude Code on macOS.",
     "url": "https://github.com/eyadhammouda/pookify",
-    "stars": 29,
+    "stars": 30,
     "language": "Swift",
-    "updated_at": "2026-07-05T05:59:01Z"
+    "updated_at": "2026-07-05T15:10:58Z"
   },
   {
     "name": "cognitive-substrate-os",
@@ -63,13 +72,13 @@
     "updated_at": "2026-07-02T07:44:01Z"
   },
   {
-    "name": "OmniPost-AI",
-    "full_name": "wanglinsaputra/OmniPost-AI",
-    "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
-    "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-    "stars": 27,
-    "language": "TypeScript",
-    "updated_at": "2026-07-05T13:18:13Z"
+    "name": "brain0",
+    "full_name": "Brain0-ai/brain0",
+    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+    "url": "https://github.com/Brain0-ai/brain0",
+    "stars": 25,
+    "language": "Rust",
+    "updated_at": "2026-07-05T13:50:26Z"
   },
   {
     "name": "Napaxi",
@@ -79,14 +88,5 @@
     "stars": 25,
     "language": "Rust",
     "updated_at": "2026-07-04T19:28:17Z"
-  },
-  {
-    "name": "brain0",
-    "full_name": "Brain0-ai/brain0",
-    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
-    "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 24,
-    "language": "Rust",
-    "updated_at": "2026-07-05T08:07:52Z"
   }
 ]
