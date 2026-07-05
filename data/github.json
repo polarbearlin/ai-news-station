@@ -4,27 +4,27 @@
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 594,
+    "stars": 614,
     "language": "Python",
-    "updated_at": "2026-07-05T03:12:50Z"
+    "updated_at": "2026-07-05T07:18:31Z"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 523,
+    "stars": 522,
     "language": "Python",
-    "updated_at": "2026-07-04T19:42:13Z"
+    "updated_at": "2026-07-05T06:41:34Z"
   },
   {
     "name": "T3MP3ST",
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 267,
+    "stars": 502,
     "language": "TypeScript",
-    "updated_at": "2026-07-05T03:24:46Z"
+    "updated_at": "2026-07-05T07:25:18Z"
   },
   {
     "name": "Valorant-External-Assistant-2026",
@@ -45,6 +45,15 @@
     "updated_at": "2026-07-03T21:38:26Z"
   },
   {
+    "name": "pookify",
+    "full_name": "eyadhammouda/pookify",
+    "description": "A Dynamic Island style notch status indicator for Claude Code on macOS.",
+    "url": "https://github.com/eyadhammouda/pookify",
+    "stars": 29,
+    "language": "Swift",
+    "updated_at": "2026-07-05T05:59:01Z"
+  },
+  {
     "name": "cognitive-substrate-os",
     "full_name": "damiansire/cognitive-substrate-os",
     "description": "Foundation layer -> harder, better, faster, stronger",
@@ -52,15 +61,6 @@
     "stars": 28,
     "language": "TypeScript",
     "updated_at": "2026-07-02T07:44:01Z"
-  },
-  {
-    "name": "pookify",
-    "full_name": "eyadhammouda/pookify",
-    "description": "A Dynamic Island style notch status indicator for Claude Code on macOS.",
-    "url": "https://github.com/eyadhammouda/pookify",
-    "stars": 27,
-    "language": "Swift",
-    "updated_at": "2026-07-05T02:43:18Z"
   },
   {
     "name": "Napaxi",
@@ -76,9 +76,9 @@
     "full_name": "Brain0-ai/brain0",
     "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
     "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 22,
+    "stars": 23,
     "language": "Rust",
-    "updated_at": "2026-07-04T20:52:03Z"
+    "updated_at": "2026-07-05T06:53:26Z"
   },
   {
     "name": "EKAM_",
