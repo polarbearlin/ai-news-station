@@ -4,27 +4,27 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 682,
+    "stars": 966,
     "language": "TypeScript",
-    "updated_at": "2026-07-05T10:11:48Z"
+    "updated_at": "2026-07-05T13:39:10Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 631,
+    "stars": 641,
     "language": "Python",
-    "updated_at": "2026-07-05T10:07:35Z"
+    "updated_at": "2026-07-05T13:36:05Z"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 522,
+    "stars": 524,
     "language": "Python",
-    "updated_at": "2026-07-05T06:41:34Z"
+    "updated_at": "2026-07-05T12:57:57Z"
   },
   {
     "name": "Valorant-External-Assistant-2026",
@@ -63,6 +63,15 @@
     "updated_at": "2026-07-02T07:44:01Z"
   },
   {
+    "name": "OmniPost-AI",
+    "full_name": "wanglinsaputra/OmniPost-AI",
+    "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
+    "url": "https://github.com/wanglinsaputra/OmniPost-AI",
+    "stars": 27,
+    "language": "TypeScript",
+    "updated_at": "2026-07-05T13:18:13Z"
+  },
+  {
     "name": "Napaxi",
     "full_name": "antgroup/Napaxi",
     "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
@@ -79,14 +88,5 @@
     "stars": 24,
     "language": "Rust",
     "updated_at": "2026-07-05T08:07:52Z"
-  },
-  {
-    "name": "anima-use-google",
-    "full_name": "animaios/anima-use-google",
-    "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
-    "url": "https://github.com/animaios/anima-use-google",
-    "stars": 18,
-    "language": "JavaScript",
-    "updated_at": "2026-07-05T08:57:05Z"
   }
 ]
