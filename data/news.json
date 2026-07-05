@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-05 17:10:35",
+  "generated_at": "2026-07-05 21:00:11",
   "news": [
     {
-      "title": "Airplane Boneyards List and Map",
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
       "source": "Hacker News",
-      "time": "2026-07-04 15:53",
-      "score": 44,
-      "comments": 8
+      "time": "2026-07-05 18:47",
+      "score": 73,
+      "comments": 42
+    },
+    {
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "source": "Hacker News",
+      "time": "2026-07-03 03:13",
+      "score": 35,
+      "comments": 3
     }
   ]
 }
