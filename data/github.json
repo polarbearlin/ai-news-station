@@ -4,54 +4,54 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 1783,
+    "stars": 1984,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T03:31:00Z"
+    "updated_at": "2026-07-06T08:19:38Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 680,
+    "stars": 704,
     "language": "Python",
-    "updated_at": "2026-07-06T02:30:03Z"
+    "updated_at": "2026-07-06T08:18:56Z"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 525,
+    "stars": 527,
     "language": "Python",
-    "updated_at": "2026-07-06T01:45:07Z"
+    "updated_at": "2026-07-06T07:22:04Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 156,
+    "stars": 316,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T03:31:26Z"
+    "updated_at": "2026-07-06T08:19:09Z"
   },
   {
     "name": "OmniPost-AI",
     "full_name": "wanglinsaputra/OmniPost-AI",
     "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
     "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-    "stars": 41,
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T03:06:13Z"
+    "updated_at": "2026-07-06T05:11:20Z"
   },
   {
     "name": "deck-factory",
     "full_name": "kimsh-1/deck-factory",
     "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
     "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 34,
+    "stars": 38,
     "language": "CSS",
-    "updated_at": "2026-07-06T01:50:28Z"
+    "updated_at": "2026-07-06T07:59:16Z"
   },
   {
     "name": "immersive-reading",
@@ -67,9 +67,18 @@
     "full_name": "Brain0-ai/brain0",
     "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
     "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 26,
+    "stars": 28,
     "language": "Rust",
-    "updated_at": "2026-07-05T19:12:23Z"
+    "updated_at": "2026-07-06T07:41:20Z"
+  },
+  {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 26,
+    "language": "TypeScript",
+    "updated_at": "2026-07-06T08:19:48Z"
   },
   {
     "name": "Napaxi",
@@ -79,14 +88,5 @@
     "stars": 26,
     "language": "Rust",
     "updated_at": "2026-07-06T01:18:16Z"
-  },
-  {
-    "name": "anima-use-google",
-    "full_name": "animaios/anima-use-google",
-    "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
-    "url": "https://github.com/animaios/anima-use-google",
-    "stars": 18,
-    "language": "JavaScript",
-    "updated_at": "2026-07-06T01:02:02Z"
   }
 ]
