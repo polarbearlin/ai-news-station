@@ -4,36 +4,36 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2450,
+    "stars": 2564,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T18:08:23Z"
-  },
-  {
-    "name": "Talos",
-    "full_name": "jmerelnyc/Talos",
-    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-    "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 720,
-    "language": "Python",
-    "updated_at": "2026-07-06T11:53:05Z"
+    "updated_at": "2026-07-06T21:34:31Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 668,
+    "stars": 724,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T18:09:45Z"
+    "updated_at": "2026-07-06T21:33:55Z"
+  },
+  {
+    "name": "Talos",
+    "full_name": "jmerelnyc/Talos",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "stars": 722,
+    "language": "Python",
+    "updated_at": "2026-07-06T19:33:23Z"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 525,
+    "stars": 526,
     "language": "Python",
-    "updated_at": "2026-07-06T12:32:24Z"
+    "updated_at": "2026-07-06T18:55:39Z"
   },
   {
     "name": "OmniPost-AI",
@@ -69,7 +69,7 @@
     "url": "https://github.com/ryannli/immersive-reading",
     "stars": 32,
     "language": "JavaScript",
-    "updated_at": "2026-07-03T21:38:26Z"
+    "updated_at": "2026-07-06T20:33:55Z"
   },
   {
     "name": "brain0",
