@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-06 15:33:00",
+  "generated_at": "2026-07-06 18:10:45",
   "news": [
-    {
-      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-      "url": "https://spectrum.ieee.org/stochastic-parrot",
-      "source": "Hacker News",
-      "time": "2026-07-06 14:45",
-      "score": 42,
-      "comments": 19
-    },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "source": "Hacker News",
       "time": "2026-07-06 15:01",
-      "score": 18,
-      "comments": 20
+      "score": 140,
+      "comments": 113
     },
     {
       "title": "Real-time map of Great Britain's rail network",
       "url": "https://www.map.signalbox.io",
       "source": "Hacker News",
       "time": "2026-07-06 09:38",
-      "score": 286,
-      "comments": 110
+      "score": 329,
+      "comments": 124
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "Hacker News",
+      "time": "2026-07-06 16:47",
+      "score": 20,
+      "comments": 1
     }
   ]
 }

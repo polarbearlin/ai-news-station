@@ -4,9 +4,9 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2344,
+    "stars": 2450,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T15:31:58Z"
+    "updated_at": "2026-07-06T18:08:23Z"
   },
   {
     "name": "Talos",
@@ -22,9 +22,9 @@
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 599,
+    "stars": 668,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T15:31:49Z"
+    "updated_at": "2026-07-06T18:09:45Z"
   },
   {
     "name": "Fundamental-Ava",
@@ -54,6 +54,15 @@
     "updated_at": "2026-07-06T12:21:33Z"
   },
   {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 35,
+    "language": "TypeScript",
+    "updated_at": "2026-07-06T18:09:54Z"
+  },
+  {
     "name": "immersive-reading",
     "full_name": "ryannli/immersive-reading",
     "description": "Turn dense long-form ideas into immersive Reading Editions.",
@@ -61,15 +70,6 @@
     "stars": 32,
     "language": "JavaScript",
     "updated_at": "2026-07-03T21:38:26Z"
-  },
-  {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 29,
-    "language": "TypeScript",
-    "updated_at": "2026-07-06T15:11:59Z"
   },
   {
     "name": "brain0",
