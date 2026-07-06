@@ -4,36 +4,36 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 1984,
+    "stars": 2344,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T08:19:38Z"
+    "updated_at": "2026-07-06T15:31:58Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 704,
+    "stars": 720,
     "language": "Python",
-    "updated_at": "2026-07-06T08:18:56Z"
-  },
-  {
-    "name": "Fundamental-Ava",
-    "full_name": "TianhangZhuzth/Fundamental-Ava",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 527,
-    "language": "Python",
-    "updated_at": "2026-07-06T07:22:04Z"
+    "updated_at": "2026-07-06T11:53:05Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 316,
+    "stars": 599,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T08:19:09Z"
+    "updated_at": "2026-07-06T15:31:49Z"
+  },
+  {
+    "name": "Fundamental-Ava",
+    "full_name": "TianhangZhuzth/Fundamental-Ava",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "stars": 525,
+    "language": "Python",
+    "updated_at": "2026-07-06T12:32:24Z"
   },
   {
     "name": "OmniPost-AI",
@@ -49,9 +49,9 @@
     "full_name": "kimsh-1/deck-factory",
     "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
     "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 38,
+    "stars": 41,
     "language": "CSS",
-    "updated_at": "2026-07-06T07:59:16Z"
+    "updated_at": "2026-07-06T12:21:33Z"
   },
   {
     "name": "immersive-reading",
@@ -63,6 +63,15 @@
     "updated_at": "2026-07-03T21:38:26Z"
   },
   {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 29,
+    "language": "TypeScript",
+    "updated_at": "2026-07-06T15:11:59Z"
+  },
+  {
     "name": "brain0",
     "full_name": "Brain0-ai/brain0",
     "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
@@ -70,15 +79,6 @@
     "stars": 28,
     "language": "Rust",
     "updated_at": "2026-07-06T07:41:20Z"
-  },
-  {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 26,
-    "language": "TypeScript",
-    "updated_at": "2026-07-06T08:19:48Z"
   },
   {
     "name": "Napaxi",

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-06 08:20:16",
+  "generated_at": "2026-07-06 15:33:00",
   "news": [
     {
-      "title": "When AI Costs More Than the Engineer",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+      "url": "https://spectrum.ieee.org/stochastic-parrot",
       "source": "Hacker News",
-      "time": "2026-07-06 07:05",
-      "score": 36,
-      "comments": 21
+      "time": "2026-07-06 14:45",
+      "score": 42,
+      "comments": 19
     },
     {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "source": "Hacker News",
-      "time": "2026-07-06 01:04",
-      "score": 252,
-      "comments": 179
+      "time": "2026-07-06 15:01",
+      "score": 18,
+      "comments": 20
     },
     {
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "url": "https://arxiv.org/abs/2605.20049",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
       "source": "Hacker News",
-      "time": "2026-07-05 23:03",
-      "score": 109,
-      "comments": 55
+      "time": "2026-07-06 09:38",
+      "score": 286,
+      "comments": 110
     }
   ]
 }
