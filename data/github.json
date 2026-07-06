@@ -4,54 +4,54 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 1463,
+    "stars": 1783,
     "language": "TypeScript",
-    "updated_at": "2026-07-05T20:58:37Z"
+    "updated_at": "2026-07-06T03:31:00Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 673,
+    "stars": 680,
     "language": "Python",
-    "updated_at": "2026-07-05T20:47:47Z"
+    "updated_at": "2026-07-06T02:30:03Z"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 524,
+    "stars": 525,
     "language": "Python",
-    "updated_at": "2026-07-05T12:57:57Z"
-  },
-  {
-    "name": "Valorant-External-Assistant-2026",
-    "full_name": "IvoryTradesmanPort/Valorant-External-Assistant-2026",
-    "description": "Monitor Valorant gameplay through an external overlay to track player stats and match data in real time.",
-    "url": "https://github.com/IvoryTradesmanPort/Valorant-External-Assistant-2026",
-    "stars": 100,
-    "language": null,
-    "updated_at": "2026-07-03T01:54:46Z"
+    "updated_at": "2026-07-06T01:45:07Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 42,
+    "stars": 156,
     "language": "TypeScript",
-    "updated_at": "2026-07-05T20:45:51Z"
+    "updated_at": "2026-07-06T03:31:26Z"
   },
   {
     "name": "OmniPost-AI",
     "full_name": "wanglinsaputra/OmniPost-AI",
     "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
     "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-    "stars": 37,
+    "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-07-05T18:58:42Z"
+    "updated_at": "2026-07-06T03:06:13Z"
+  },
+  {
+    "name": "deck-factory",
+    "full_name": "kimsh-1/deck-factory",
+    "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
+    "url": "https://github.com/kimsh-1/deck-factory",
+    "stars": 34,
+    "language": "CSS",
+    "updated_at": "2026-07-06T01:50:28Z"
   },
   {
     "name": "immersive-reading",
@@ -63,24 +63,6 @@
     "updated_at": "2026-07-03T21:38:26Z"
   },
   {
-    "name": "pookify",
-    "full_name": "eyadhammouda/pookify",
-    "description": "A Dynamic Island style notch status indicator for Claude Code on macOS.",
-    "url": "https://github.com/eyadhammouda/pookify",
-    "stars": 30,
-    "language": "Swift",
-    "updated_at": "2026-07-05T15:10:58Z"
-  },
-  {
-    "name": "cognitive-substrate-os",
-    "full_name": "damiansire/cognitive-substrate-os",
-    "description": "Foundation layer -> harder, better, faster, stronger",
-    "url": "https://github.com/damiansire/cognitive-substrate-os",
-    "stars": 28,
-    "language": "TypeScript",
-    "updated_at": "2026-07-02T07:44:01Z"
-  },
-  {
     "name": "brain0",
     "full_name": "Brain0-ai/brain0",
     "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
@@ -88,5 +70,23 @@
     "stars": 26,
     "language": "Rust",
     "updated_at": "2026-07-05T19:12:23Z"
+  },
+  {
+    "name": "Napaxi",
+    "full_name": "antgroup/Napaxi",
+    "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
+    "url": "https://github.com/antgroup/Napaxi",
+    "stars": 26,
+    "language": "Rust",
+    "updated_at": "2026-07-06T01:18:16Z"
+  },
+  {
+    "name": "anima-use-google",
+    "full_name": "animaios/anima-use-google",
+    "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
+    "url": "https://github.com/animaios/anima-use-google",
+    "stars": 18,
+    "language": "JavaScript",
+    "updated_at": "2026-07-06T01:02:02Z"
   }
 ]
