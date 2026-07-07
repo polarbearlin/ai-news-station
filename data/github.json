@@ -4,27 +4,27 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2916,
+    "stars": 3045,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T10:53:11Z"
+    "updated_at": "2026-07-07T14:32:31Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1052,
+    "stars": 1149,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T10:54:56Z"
+    "updated_at": "2026-07-07T14:33:35Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 722,
+    "stars": 723,
     "language": "Python",
-    "updated_at": "2026-07-06T19:33:23Z"
+    "updated_at": "2026-07-07T12:31:34Z"
   },
   {
     "name": "deck-factory",
@@ -36,6 +36,15 @@
     "updated_at": "2026-07-07T09:13:38Z"
   },
   {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 42,
+    "language": "TypeScript",
+    "updated_at": "2026-07-07T14:27:09Z"
+  },
+  {
     "name": "OmniPost-AI",
     "full_name": "wanglinsaputra/OmniPost-AI",
     "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
@@ -45,48 +54,39 @@
     "updated_at": "2026-07-06T05:11:20Z"
   },
   {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 41,
+    "name": "GitHub-Stars-AI-Tools",
+    "full_name": "xingranya/GitHub-Stars-AI-Tools",
+    "description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
+    "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+    "stars": 33,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T10:07:08Z"
+    "updated_at": "2026-07-07T14:24:13Z"
   },
   {
-    "name": "brain0",
-    "full_name": "Brain0-ai/brain0",
-    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
-    "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 28,
-    "language": "Rust",
-    "updated_at": "2026-07-06T07:41:20Z"
+    "name": "9router-v2",
+    "full_name": "ahwanulm/9router-v2",
+    "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+    "url": "https://github.com/ahwanulm/9router-v2",
+    "stars": 32,
+    "language": "JavaScript",
+    "updated_at": "2026-07-07T14:31:25Z"
   },
   {
     "name": "opencode-failover",
     "full_name": "bulutmuf/opencode-failover",
     "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
     "url": "https://github.com/bulutmuf/opencode-failover",
-    "stars": 27,
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T10:44:34Z"
+    "updated_at": "2026-07-07T13:05:39Z"
   },
   {
-    "name": "Napaxi",
-    "full_name": "antgroup/Napaxi",
-    "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
-    "url": "https://github.com/antgroup/Napaxi",
-    "stars": 26,
+    "name": "brain0",
+    "full_name": "Brain0-ai/brain0",
+    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+    "url": "https://github.com/Brain0-ai/brain0",
+    "stars": 29,
     "language": "Rust",
-    "updated_at": "2026-07-06T01:18:16Z"
-  },
-  {
-    "name": "GitHub-Stars-AI-Tools",
-    "full_name": "xingranya/GitHub-Stars-AI-Tools",
-    "description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
-    "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 26,
-    "language": "TypeScript",
-    "updated_at": "2026-07-07T09:50:30Z"
+    "updated_at": "2026-07-07T11:05:24Z"
   }
 ]
