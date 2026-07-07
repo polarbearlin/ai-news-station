@@ -4,18 +4,18 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2700,
+    "stars": 2809,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T03:20:51Z"
+    "updated_at": "2026-07-07T07:34:37Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 819,
+    "stars": 956,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T03:24:06Z"
+    "updated_at": "2026-07-07T07:38:00Z"
   },
   {
     "name": "Talos",
@@ -31,9 +31,9 @@
     "full_name": "kimsh-1/deck-factory",
     "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
     "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 43,
+    "stars": 44,
     "language": "CSS",
-    "updated_at": "2026-07-07T01:02:46Z"
+    "updated_at": "2026-07-07T03:53:09Z"
   },
   {
     "name": "OmniPost-AI",
@@ -51,7 +51,7 @@
     "url": "https://github.com/Bike4Mind/bike4mind",
     "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T03:18:11Z"
+    "updated_at": "2026-07-07T06:33:25Z"
   },
   {
     "name": "brain0",
@@ -76,17 +76,17 @@
     "full_name": "bulutmuf/opencode-failover",
     "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
     "url": "https://github.com/bulutmuf/opencode-failover",
-    "stars": 25,
+    "stars": 26,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T22:36:56Z"
+    "updated_at": "2026-07-07T07:09:44Z"
   },
   {
-    "name": "anima-use-google",
-    "full_name": "animaios/anima-use-google",
-    "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
-    "url": "https://github.com/animaios/anima-use-google",
-    "stars": 20,
-    "language": "JavaScript",
-    "updated_at": "2026-07-07T01:30:43Z"
+    "name": "C-SSH",
+    "full_name": "suiyuebaobao/C-SSH",
+    "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
+    "url": "https://github.com/suiyuebaobao/C-SSH",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-07-07T07:27:52Z"
   }
 ]
