@@ -4,18 +4,18 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 3045,
+    "stars": 3146,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T14:32:31Z"
+    "updated_at": "2026-07-07T17:58:42Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1149,
+    "stars": 1234,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T14:33:35Z"
+    "updated_at": "2026-07-07T17:54:38Z"
   },
   {
     "name": "Talos",
@@ -40,9 +40,18 @@
     "full_name": "Bike4Mind/bike4mind",
     "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
     "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 42,
+    "stars": 46,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T14:27:09Z"
+    "updated_at": "2026-07-07T17:43:26Z"
+  },
+  {
+    "name": "9router-v2",
+    "full_name": "ahwanulm/9router-v2",
+    "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+    "url": "https://github.com/ahwanulm/9router-v2",
+    "stars": 43,
+    "language": "JavaScript",
+    "updated_at": "2026-07-07T17:38:29Z"
   },
   {
     "name": "OmniPost-AI",
@@ -58,18 +67,9 @@
     "full_name": "xingranya/GitHub-Stars-AI-Tools",
     "description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
     "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 33,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T14:24:13Z"
-  },
-  {
-    "name": "9router-v2",
-    "full_name": "ahwanulm/9router-v2",
-    "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
-    "url": "https://github.com/ahwanulm/9router-v2",
-    "stars": 32,
-    "language": "JavaScript",
-    "updated_at": "2026-07-07T14:31:25Z"
+    "updated_at": "2026-07-07T17:34:18Z"
   },
   {
     "name": "opencode-failover",
@@ -78,7 +78,7 @@
     "url": "https://github.com/bulutmuf/opencode-failover",
     "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T13:05:39Z"
+    "updated_at": "2026-07-07T16:43:02Z"
   },
   {
     "name": "brain0",
