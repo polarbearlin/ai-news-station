@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-07 07:38:23",
+  "generated_at": "2026-07-07 10:56:14",
   "news": [
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "source": "Hacker News",
       "time": "2026-07-06 20:14",
-      "score": 344,
-      "comments": 214
+      "score": 453,
+      "comments": 275
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "source": "Hacker News",
       "time": "2026-07-06 23:59",
-      "score": 112,
-      "comments": 25
+      "score": 158,
+      "comments": 54
     }
   ]
 }

@@ -4,18 +4,18 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2809,
+    "stars": 2916,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T07:34:37Z"
+    "updated_at": "2026-07-07T10:53:11Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 956,
+    "stars": 1052,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T07:38:00Z"
+    "updated_at": "2026-07-07T10:54:56Z"
   },
   {
     "name": "Talos",
@@ -31,9 +31,9 @@
     "full_name": "kimsh-1/deck-factory",
     "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
     "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 44,
+    "stars": 46,
     "language": "CSS",
-    "updated_at": "2026-07-07T03:53:09Z"
+    "updated_at": "2026-07-07T09:13:38Z"
   },
   {
     "name": "OmniPost-AI",
@@ -49,9 +49,9 @@
     "full_name": "Bike4Mind/bike4mind",
     "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
     "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 40,
+    "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T06:33:25Z"
+    "updated_at": "2026-07-07T10:07:08Z"
   },
   {
     "name": "brain0",
@@ -63,6 +63,15 @@
     "updated_at": "2026-07-06T07:41:20Z"
   },
   {
+    "name": "opencode-failover",
+    "full_name": "bulutmuf/opencode-failover",
+    "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
+    "url": "https://github.com/bulutmuf/opencode-failover",
+    "stars": 27,
+    "language": "TypeScript",
+    "updated_at": "2026-07-07T10:44:34Z"
+  },
+  {
     "name": "Napaxi",
     "full_name": "antgroup/Napaxi",
     "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-07-06T01:18:16Z"
   },
   {
-    "name": "opencode-failover",
-    "full_name": "bulutmuf/opencode-failover",
-    "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
-    "url": "https://github.com/bulutmuf/opencode-failover",
+    "name": "GitHub-Stars-AI-Tools",
+    "full_name": "xingranya/GitHub-Stars-AI-Tools",
+    "description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
+    "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
     "stars": 26,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T07:09:44Z"
-  },
-  {
-    "name": "C-SSH",
-    "full_name": "suiyuebaobao/C-SSH",
-    "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
-    "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 21,
-    "language": null,
-    "updated_at": "2026-07-07T07:27:52Z"
+    "updated_at": "2026-07-07T09:50:30Z"
   }
 ]
