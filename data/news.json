@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-06 21:36:51",
+  "generated_at": "2026-07-07 03:24:30",
   "news": [
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "source": "Hacker News",
-      "time": "2026-07-06 15:01",
-      "score": 239,
-      "comments": 170
+      "time": "2026-07-06 20:14",
+      "score": 216,
+      "comments": 137
+    },
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "source": "Hacker News",
+      "time": "2026-07-06 23:59",
+      "score": 35,
+      "comments": 7
     }
   ]
 }

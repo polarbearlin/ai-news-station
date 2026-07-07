@@ -4,18 +4,18 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 2564,
+    "stars": 2700,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T21:34:31Z"
+    "updated_at": "2026-07-07T03:20:51Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 724,
+    "stars": 819,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T21:33:55Z"
+    "updated_at": "2026-07-07T03:24:06Z"
   },
   {
     "name": "Talos",
@@ -27,13 +27,13 @@
     "updated_at": "2026-07-06T19:33:23Z"
   },
   {
-    "name": "Fundamental-Ava",
-    "full_name": "TianhangZhuzth/Fundamental-Ava",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 526,
-    "language": "Python",
-    "updated_at": "2026-07-06T18:55:39Z"
+    "name": "deck-factory",
+    "full_name": "kimsh-1/deck-factory",
+    "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
+    "url": "https://github.com/kimsh-1/deck-factory",
+    "stars": 43,
+    "language": "CSS",
+    "updated_at": "2026-07-07T01:02:46Z"
   },
   {
     "name": "OmniPost-AI",
@@ -45,31 +45,13 @@
     "updated_at": "2026-07-06T05:11:20Z"
   },
   {
-    "name": "deck-factory",
-    "full_name": "kimsh-1/deck-factory",
-    "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
-    "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 41,
-    "language": "CSS",
-    "updated_at": "2026-07-06T12:21:33Z"
-  },
-  {
     "name": "bike4mind",
     "full_name": "Bike4Mind/bike4mind",
     "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
     "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 35,
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-07-06T18:09:54Z"
-  },
-  {
-    "name": "immersive-reading",
-    "full_name": "ryannli/immersive-reading",
-    "description": "Turn dense long-form ideas into immersive Reading Editions.",
-    "url": "https://github.com/ryannli/immersive-reading",
-    "stars": 32,
-    "language": "JavaScript",
-    "updated_at": "2026-07-06T20:33:55Z"
+    "updated_at": "2026-07-07T03:18:11Z"
   },
   {
     "name": "brain0",
@@ -88,5 +70,23 @@
     "stars": 26,
     "language": "Rust",
     "updated_at": "2026-07-06T01:18:16Z"
+  },
+  {
+    "name": "opencode-failover",
+    "full_name": "bulutmuf/opencode-failover",
+    "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
+    "url": "https://github.com/bulutmuf/opencode-failover",
+    "stars": 25,
+    "language": "TypeScript",
+    "updated_at": "2026-07-06T22:36:56Z"
+  },
+  {
+    "name": "anima-use-google",
+    "full_name": "animaios/anima-use-google",
+    "description": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session",
+    "url": "https://github.com/animaios/anima-use-google",
+    "stars": 20,
+    "language": "JavaScript",
+    "updated_at": "2026-07-07T01:30:43Z"
   }
 ]
