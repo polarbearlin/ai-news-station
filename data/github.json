@@ -4,18 +4,18 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 3146,
+    "stars": 3225,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T17:58:42Z"
+    "updated_at": "2026-07-07T21:23:50Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1234,
+    "stars": 1294,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T17:54:38Z"
+    "updated_at": "2026-07-07T21:21:39Z"
   },
   {
     "name": "Talos",
@@ -27,6 +27,24 @@
     "updated_at": "2026-07-07T12:31:34Z"
   },
   {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-07-07T21:12:51Z"
+  },
+  {
+    "name": "9router-v2",
+    "full_name": "ahwanulm/9router-v2",
+    "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+    "url": "https://github.com/ahwanulm/9router-v2",
+    "stars": 47,
+    "language": "JavaScript",
+    "updated_at": "2026-07-07T21:06:58Z"
+  },
+  {
     "name": "deck-factory",
     "full_name": "kimsh-1/deck-factory",
     "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
@@ -34,24 +52,6 @@
     "stars": 46,
     "language": "CSS",
     "updated_at": "2026-07-07T09:13:38Z"
-  },
-  {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 46,
-    "language": "TypeScript",
-    "updated_at": "2026-07-07T17:43:26Z"
-  },
-  {
-    "name": "9router-v2",
-    "full_name": "ahwanulm/9router-v2",
-    "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
-    "url": "https://github.com/ahwanulm/9router-v2",
-    "stars": 43,
-    "language": "JavaScript",
-    "updated_at": "2026-07-07T17:38:29Z"
   },
   {
     "name": "OmniPost-AI",
@@ -76,9 +76,9 @@
     "full_name": "bulutmuf/opencode-failover",
     "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
     "url": "https://github.com/bulutmuf/opencode-failover",
-    "stars": 29,
+    "stars": 30,
     "language": "TypeScript",
-    "updated_at": "2026-07-07T16:43:02Z"
+    "updated_at": "2026-07-07T20:21:14Z"
   },
   {
     "name": "brain0",
