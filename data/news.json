@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-07-08 14:07:00",
+  "generated_at": "2026-07-08 17:36:09",
   "news": [
+    {
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "source": "Hacker News",
+      "time": "2026-07-08 17:03",
+      "score": 106,
+      "comments": 56
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "source": "Hacker News",
+      "time": "2026-07-08 16:19",
+      "score": 77,
+      "comments": 50
+    },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
       "source": "Hacker News",
       "time": "2026-07-08 05:25",
-      "score": 329,
-      "comments": 133
+      "score": 431,
+      "comments": 168
+    },
+    {
+      "title": "Show HN: Follow London Trains in 3D",
+      "url": "https://ride.nexttrain.london/",
+      "source": "Hacker News",
+      "time": "2026-07-04 16:11",
+      "score": 66,
+      "comments": 27
     },
     {
       "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
       "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
       "source": "Hacker News",
       "time": "2026-07-03 21:46",
-      "score": 153,
-      "comments": 44
-    },
-    {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "source": "Hacker News",
-      "time": "2026-07-08 00:08",
-      "score": 275,
-      "comments": 93
+      "score": 272,
+      "comments": 91
     }
   ]
 }
