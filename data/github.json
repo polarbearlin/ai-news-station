@@ -4,36 +4,36 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 3335,
+    "stars": 3443,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T02:39:52Z"
+    "updated_at": "2026-07-08T06:24:24Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1411,
+    "stars": 1485,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T02:40:01Z"
+    "updated_at": "2026-07-08T06:27:27Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 724,
+    "stars": 725,
     "language": "Python",
-    "updated_at": "2026-07-08T01:13:53Z"
+    "updated_at": "2026-07-08T04:50:53Z"
   },
   {
     "name": "9router-v2",
     "full_name": "ahwanulm/9router-v2",
     "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
     "url": "https://github.com/ahwanulm/9router-v2",
-    "stars": 56,
+    "stars": 62,
     "language": "JavaScript",
-    "updated_at": "2026-07-08T02:40:52Z"
+    "updated_at": "2026-07-08T06:26:23Z"
   },
   {
     "name": "bike4mind",
@@ -42,16 +42,16 @@
     "url": "https://github.com/Bike4Mind/bike4mind",
     "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T02:05:57Z"
+    "updated_at": "2026-07-08T04:29:41Z"
   },
   {
     "name": "deck-factory",
     "full_name": "kimsh-1/deck-factory",
     "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
     "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 46,
+    "stars": 47,
     "language": "CSS",
-    "updated_at": "2026-07-07T09:13:38Z"
+    "updated_at": "2026-07-08T04:11:27Z"
   },
   {
     "name": "OmniPost-AI",
@@ -67,18 +67,18 @@
     "full_name": "xingranya/GitHub-Stars-AI-Tools",
     "description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
     "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 37,
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T01:39:03Z"
+    "updated_at": "2026-07-08T06:06:00Z"
   },
   {
     "name": "C-SSH",
     "full_name": "suiyuebaobao/C-SSH",
     "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
     "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 35,
+    "stars": 39,
     "language": null,
-    "updated_at": "2026-07-08T02:38:37Z"
+    "updated_at": "2026-07-08T06:11:46Z"
   },
   {
     "name": "opencode-failover",

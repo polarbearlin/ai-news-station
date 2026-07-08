@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-08 02:41:56",
+  "generated_at": "2026-07-08 06:27:34",
   "news": [
     {
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "url": "https://kb.cert.org/vuls/id/213560",
       "source": "Hacker News",
       "time": "2026-07-08 00:08",
-      "score": 40,
-      "comments": 7
+      "score": 139,
+      "comments": 32
     },
     {
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
       "source": "Hacker News",
       "time": "2026-07-07 14:23",
-      "score": 461,
-      "comments": 149
+      "score": 552,
+      "comments": 182
     },
     {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
       "source": "Hacker News",
-      "time": "2026-07-07 18:44",
-      "score": 210,
-      "comments": 47
+      "time": "2026-07-08 04:12",
+      "score": 107,
+      "comments": 36
     }
   ]
 }
