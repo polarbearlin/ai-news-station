@@ -4,27 +4,27 @@
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "url": "https://github.com/elder-plinius/T3MP3ST",
-    "stars": 3769,
+    "stars": 3834,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T17:27:19Z"
+    "updated_at": "2026-07-08T21:06:52Z"
   },
   {
     "name": "openscience",
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1697,
+    "stars": 1724,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T17:20:25Z"
+    "updated_at": "2026-07-08T20:57:47Z"
   },
   {
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
     "url": "https://github.com/jmerelnyc/Talos",
-    "stars": 747,
+    "stars": 775,
     "language": "Python",
-    "updated_at": "2026-07-08T17:33:40Z"
+    "updated_at": "2026-07-08T21:04:02Z"
   },
   {
     "name": "brain0",
@@ -40,36 +40,45 @@
     "full_name": "ahwanulm/AMRouter",
     "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
     "url": "https://github.com/ahwanulm/AMRouter",
-    "stars": 92,
+    "stars": 98,
     "language": "JavaScript",
-    "updated_at": "2026-07-08T16:45:38Z"
-  },
-  {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 55,
-    "language": "TypeScript",
-    "updated_at": "2026-07-08T17:14:25Z"
+    "updated_at": "2026-07-08T19:19:05Z"
   },
   {
     "name": "instagui",
     "full_name": "Soutar97/instagui",
     "description": "Turn any CLI into a web GUI with one command",
     "url": "https://github.com/Soutar97/instagui",
-    "stars": 53,
+    "stars": 57,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T17:34:30Z"
+    "updated_at": "2026-07-08T19:57:32Z"
+  },
+  {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 56,
+    "language": "TypeScript",
+    "updated_at": "2026-07-08T20:08:30Z"
   },
   {
     "name": "GitHub-Stars-AI-Tools",
     "full_name": "xingranya/GitHub-Stars-AI-Tools",
     "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
     "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 50,
+    "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-07-08T15:47:00Z"
+    "updated_at": "2026-07-08T19:28:57Z"
+  },
+  {
+    "name": "atrophy",
+    "full_name": "ashutosh-rath02/atrophy",
+    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+    "url": "https://github.com/ashutosh-rath02/atrophy",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-07-08T20:43:50Z"
   },
   {
     "name": "deck-factory",
@@ -79,14 +88,5 @@
     "stars": 47,
     "language": "CSS",
     "updated_at": "2026-07-08T04:11:27Z"
-  },
-  {
-    "name": "C-SSH",
-    "full_name": "suiyuebaobao/C-SSH",
-    "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
-    "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 46,
-    "language": null,
-    "updated_at": "2026-07-08T16:38:50Z"
   }
 ]
