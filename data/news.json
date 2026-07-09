@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-09 15:09:41",
+  "generated_at": "2026-07-09 17:55:53",
   "news": [
     {
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
       "source": "Hacker News",
-      "time": "2026-07-09 13:23",
-      "score": 57,
-      "comments": 33
+      "time": "2026-07-09 17:04",
+      "score": 342,
+      "comments": 216
+    },
+    {
+      "title": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "source": "Hacker News",
+      "time": "2026-07-09 17:03",
+      "score": 94,
+      "comments": 27
     }
   ]
 }
