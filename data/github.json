@@ -4,9 +4,18 @@
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1854,
+    "stars": 1905,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T10:50:14Z"
+    "updated_at": "2026-07-09T15:02:21Z"
+  },
+  {
+    "name": "lapian-notes",
+    "full_name": "bkingfilm/lapian-notes",
+    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+    "url": "https://github.com/bkingfilm/lapian-notes",
+    "stars": 127,
+    "language": "TypeScript",
+    "updated_at": "2026-07-09T15:08:00Z"
   },
   {
     "name": "AMRouter",
@@ -15,16 +24,7 @@
     "url": "https://github.com/ahwanulm/AMRouter",
     "stars": 116,
     "language": "JavaScript",
-    "updated_at": "2026-07-09T09:47:48Z"
-  },
-  {
-    "name": "lapian-notes",
-    "full_name": "bkingfilm/lapian-notes",
-    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-    "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 96,
-    "language": "TypeScript",
-    "updated_at": "2026-07-09T10:37:11Z"
+    "updated_at": "2026-07-09T14:09:30Z"
   },
   {
     "name": "instagui",
@@ -40,18 +40,27 @@
     "full_name": "ashutosh-rath02/atrophy",
     "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
     "url": "https://github.com/ashutosh-rath02/atrophy",
-    "stars": 63,
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T10:47:03Z"
+    "updated_at": "2026-07-09T13:18:21Z"
+  },
+  {
+    "name": "ditto",
+    "full_name": "ohad6k/ditto",
+    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+    "url": "https://github.com/ohad6k/ditto",
+    "stars": 65,
+    "language": "Python",
+    "updated_at": "2026-07-09T15:03:08Z"
   },
   {
     "name": "GitHub-Stars-AI-Tools",
     "full_name": "xingranya/GitHub-Stars-AI-Tools",
     "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
     "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 59,
+    "stars": 60,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T10:17:52Z"
+    "updated_at": "2026-07-09T14:32:29Z"
   },
   {
     "name": "bike4mind",
@@ -60,7 +69,7 @@
     "url": "https://github.com/Bike4Mind/bike4mind",
     "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T09:26:21Z"
+    "updated_at": "2026-07-09T14:55:13Z"
   },
   {
     "name": "C-SSH",
@@ -69,24 +78,15 @@
     "url": "https://github.com/suiyuebaobao/C-SSH",
     "stars": 57,
     "language": null,
-    "updated_at": "2026-07-09T10:35:34Z"
+    "updated_at": "2026-07-09T14:10:47Z"
   },
   {
-    "name": "ditto",
-    "full_name": "ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "url": "https://github.com/ohad6k/ditto",
-    "stars": 49,
-    "language": "Python",
-    "updated_at": "2026-07-09T10:12:41Z"
-  },
-  {
-    "name": "deck-factory",
-    "full_name": "kimsh-1/deck-factory",
-    "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
-    "url": "https://github.com/kimsh-1/deck-factory",
-    "stars": 48,
-    "language": "CSS",
-    "updated_at": "2026-07-09T01:19:21Z"
+    "name": "fintech-advisor",
+    "full_name": "KORAYTEACHER/fintech-advisor",
+    "description": "ai fintech financial advisor for your portfolio",
+    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+    "stars": 51,
+    "language": "TypeScript",
+    "updated_at": "2026-07-09T12:43:37Z"
   }
 ]
