@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-07-09 03:23:27",
+  "generated_at": "2026-07-09 10:54:08",
   "news": [
     {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "source": "Hacker News",
       "time": "2026-07-08 23:37",
-      "score": 417,
-      "comments": 84
-    },
-    {
-      "title": "I Think I Have LLM Burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "source": "Hacker News",
-      "time": "2026-07-09 01:56",
-      "score": 118,
-      "comments": 73
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "source": "Hacker News",
-      "time": "2026-07-08 17:46",
-      "score": 220,
-      "comments": 80
+      "score": 879,
+      "comments": 169
     }
   ]
 }
