@@ -4,27 +4,27 @@
     "full_name": "synthetic-sciences/openscience",
     "description": "The open-source AI workbench for scientific research",
     "url": "https://github.com/synthetic-sciences/openscience",
-    "stars": 1922,
+    "stars": 1931,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T17:50:44Z"
+    "updated_at": "2026-07-09T21:15:31Z"
   },
   {
     "name": "lapian-notes",
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 141,
+    "stars": 146,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T17:25:38Z"
+    "updated_at": "2026-07-09T21:10:45Z"
   },
   {
     "name": "AMRouter",
     "full_name": "ahwanulm/AMRouter",
     "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
     "url": "https://github.com/ahwanulm/AMRouter",
-    "stars": 117,
+    "stars": 120,
     "language": "JavaScript",
-    "updated_at": "2026-07-09T16:34:30Z"
+    "updated_at": "2026-07-09T20:44:19Z"
   },
   {
     "name": "instagui",
@@ -33,25 +33,34 @@
     "url": "https://github.com/Soutar97/instagui",
     "stars": 73,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T17:48:25Z"
+    "updated_at": "2026-07-09T20:07:01Z"
+  },
+  {
+    "name": "photoshop-ai-smart-enhance",
+    "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
+    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "stars": 72,
+    "language": "HTML",
+    "updated_at": "2026-07-09T21:14:47Z"
   },
   {
     "name": "atrophy",
     "full_name": "ashutosh-rath02/atrophy",
     "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
     "url": "https://github.com/ashutosh-rath02/atrophy",
-    "stars": 69,
+    "stars": 71,
     "language": "TypeScript",
-    "updated_at": "2026-07-09T17:26:53Z"
+    "updated_at": "2026-07-09T19:16:16Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 69,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-07-09T17:40:06Z"
+    "updated_at": "2026-07-09T19:07:51Z"
   },
   {
     "name": "GitHub-Stars-AI-Tools",
@@ -79,14 +88,5 @@
     "stars": 57,
     "language": null,
     "updated_at": "2026-07-09T15:13:35Z"
-  },
-  {
-    "name": "fintech-advisor",
-    "full_name": "KORAYTEACHER/fintech-advisor",
-    "description": "ai fintech financial advisor for your portfolio",
-    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 51,
-    "language": "TypeScript",
-    "updated_at": "2026-07-09T12:43:37Z"
   }
 ]
