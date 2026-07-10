@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-10 03:20:07",
+  "generated_at": "2026-07-10 07:35:01",
   "news": [
-    {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "source": "Hacker News",
-      "time": "2026-07-09 17:04",
-      "score": 1102,
-      "comments": 800
-    },
     {
       "title": "Train sim created by just one person is being called the best ever made",
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "source": "Hacker News",
       "time": "2026-07-05 08:40",
-      "score": 330,
-      "comments": 125
+      "score": 492,
+      "comments": 169
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "source": "Hacker News",
+      "time": "2026-07-09 17:04",
+      "score": 1213,
+      "comments": 859
     }
   ]
 }
