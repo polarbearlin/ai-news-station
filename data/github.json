@@ -4,54 +4,63 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 205,
+    "stars": 225,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T10:39:45Z"
-  },
-  {
-    "name": "ai-market-pulse",
-    "full_name": "SilentFleetKK/ai-market-pulse",
-    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 91,
-    "language": "Python",
-    "updated_at": "2026-07-10T10:20:05Z"
-  },
-  {
-    "name": "ditto",
-    "full_name": "ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "url": "https://github.com/ohad6k/ditto",
-    "stars": 88,
-    "language": "Python",
-    "updated_at": "2026-07-10T10:50:01Z"
-  },
-  {
-    "name": "atrophy",
-    "full_name": "ashutosh-rath02/atrophy",
-    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
-    "url": "https://github.com/ashutosh-rath02/atrophy",
-    "stars": 86,
-    "language": "TypeScript",
-    "updated_at": "2026-07-10T10:25:41Z"
-  },
-  {
-    "name": "instagui",
-    "full_name": "Soutar97/instagui",
-    "description": "Turn any CLI into a web GUI with one command",
-    "url": "https://github.com/Soutar97/instagui",
-    "stars": 78,
-    "language": "TypeScript",
-    "updated_at": "2026-07-10T07:32:32Z"
+    "updated_at": "2026-07-10T14:16:29Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 74,
+    "stars": 110,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T10:44:12Z"
+    "updated_at": "2026-07-10T14:23:26Z"
+  },
+  {
+    "name": "photoshop-ai-smart-enhance",
+    "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
+    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "stars": 107,
+    "language": "HTML",
+    "updated_at": "2026-07-10T13:06:35Z"
+  },
+  {
+    "name": "ai-market-pulse",
+    "full_name": "SilentFleetKK/ai-market-pulse",
+    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+    "stars": 95,
+    "language": "Python",
+    "updated_at": "2026-07-10T14:04:34Z"
+  },
+  {
+    "name": "atrophy",
+    "full_name": "ashutosh-rath02/atrophy",
+    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+    "url": "https://github.com/ashutosh-rath02/atrophy",
+    "stars": 92,
+    "language": "TypeScript",
+    "updated_at": "2026-07-10T13:40:03Z"
+  },
+  {
+    "name": "ditto",
+    "full_name": "ohad6k/ditto",
+    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+    "url": "https://github.com/ohad6k/ditto",
+    "stars": 89,
+    "language": "Python",
+    "updated_at": "2026-07-10T14:07:23Z"
+  },
+  {
+    "name": "instagui",
+    "full_name": "Soutar97/instagui",
+    "description": "Turn any CLI into a web GUI with one command",
+    "url": "https://github.com/Soutar97/instagui",
+    "stars": 79,
+    "language": "TypeScript",
+    "updated_at": "2026-07-10T11:17:32Z"
   },
   {
     "name": "GitHub-Stars-AI-Tools",
@@ -60,7 +69,7 @@
     "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
     "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T09:58:20Z"
+    "updated_at": "2026-07-10T11:40:33Z"
   },
   {
     "name": "C-SSH",
@@ -78,15 +87,6 @@
     "url": "https://github.com/Bike4Mind/bike4mind",
     "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T09:16:38Z"
-  },
-  {
-    "name": "photoshop-ai-smart-enhance",
-    "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "stars": 57,
-    "language": "HTML",
-    "updated_at": "2026-07-10T10:17:37Z"
+    "updated_at": "2026-07-10T14:22:17Z"
   }
 ]
