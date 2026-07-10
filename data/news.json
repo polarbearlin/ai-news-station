@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-07-10 07:35:01",
+  "generated_at": "2026-07-10 10:53:24",
   "news": [
-    {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "source": "Hacker News",
-      "time": "2026-07-05 08:40",
-      "score": 492,
-      "comments": 169
-    },
     {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
       "source": "Hacker News",
       "time": "2026-07-09 17:04",
-      "score": 1213,
-      "comments": 859
+      "score": 1307,
+      "comments": 920
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "source": "Hacker News",
+      "time": "2026-07-05 08:40",
+      "score": 627,
+      "comments": 232
+    },
+    {
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "source": "Hacker News",
+      "time": "2026-07-06 14:59",
+      "score": 82,
+      "comments": 100
+    },
+    {
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "source": "Hacker News",
+      "time": "2026-07-10 07:39",
+      "score": 68,
+      "comments": 66
     }
   ]
 }
