@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-10 17:47:00",
+  "generated_at": "2026-07-10 21:05:12",
   "news": [
     {
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "source": "Hacker News",
       "time": "2026-07-10 16:37",
-      "score": 39,
-      "comments": 24
+      "score": 122,
+      "comments": 83
     },
     {
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "source": "Hacker News",
-      "time": "2026-07-09 19:49",
-      "score": 22,
-      "comments": 8
+      "time": "2026-07-10 18:29",
+      "score": 187,
+      "comments": 168
     },
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
       "source": "Hacker News",
-      "time": "2026-07-10 13:33",
-      "score": 236,
-      "comments": 201
+      "time": "2026-07-10 18:49",
+      "score": 70,
+      "comments": 55
     }
   ]
 }

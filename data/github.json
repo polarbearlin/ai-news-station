@@ -4,18 +4,18 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 243,
+    "stars": 246,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T17:17:38Z"
+    "updated_at": "2026-07-10T19:10:39Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 142,
+    "stars": 151,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T17:44:08Z"
+    "updated_at": "2026-07-10T18:45:06Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -24,7 +24,7 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-10T16:18:07Z"
+    "updated_at": "2026-07-10T20:16:06Z"
   },
   {
     "name": "ai-market-pulse",
@@ -58,9 +58,18 @@
     "full_name": "Soutar97/instagui",
     "description": "Turn any CLI into a web GUI with one command",
     "url": "https://github.com/Soutar97/instagui",
-    "stars": 81,
+    "stars": 83,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T16:34:31Z"
+    "updated_at": "2026-07-10T20:50:10Z"
+  },
+  {
+    "name": "exxperts",
+    "full_name": "EXXETA/exxperts",
+    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+    "url": "https://github.com/EXXETA/exxperts",
+    "stars": 74,
+    "language": "TypeScript",
+    "updated_at": "2026-07-10T20:43:24Z"
   },
   {
     "name": "GitHub-Stars-AI-Tools",
@@ -79,14 +88,5 @@
     "stars": 59,
     "language": "TypeScript",
     "updated_at": "2026-07-10T16:13:28Z"
-  },
-  {
-    "name": "C-SSH",
-    "full_name": "suiyuebaobao/C-SSH",
-    "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
-    "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 59,
-    "language": null,
-    "updated_at": "2026-07-10T03:31:23Z"
   }
 ]
