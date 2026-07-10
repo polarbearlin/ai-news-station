@@ -4,18 +4,18 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 225,
+    "stars": 243,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T14:16:29Z"
+    "updated_at": "2026-07-10T17:17:38Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 110,
+    "stars": 142,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T14:23:26Z"
+    "updated_at": "2026-07-10T17:44:08Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -24,52 +24,61 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-10T13:06:35Z"
+    "updated_at": "2026-07-10T16:18:07Z"
   },
   {
     "name": "ai-market-pulse",
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 95,
+    "stars": 106,
     "language": "Python",
-    "updated_at": "2026-07-10T14:04:34Z"
-  },
-  {
-    "name": "atrophy",
-    "full_name": "ashutosh-rath02/atrophy",
-    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
-    "url": "https://github.com/ashutosh-rath02/atrophy",
-    "stars": 92,
-    "language": "TypeScript",
-    "updated_at": "2026-07-10T13:40:03Z"
+    "updated_at": "2026-07-10T17:11:03Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 89,
+    "stars": 94,
     "language": "Python",
-    "updated_at": "2026-07-10T14:07:23Z"
+    "updated_at": "2026-07-10T17:30:07Z"
+  },
+  {
+    "name": "atrophy",
+    "full_name": "ashutosh-rath02/atrophy",
+    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+    "url": "https://github.com/ashutosh-rath02/atrophy",
+    "stars": 93,
+    "language": "TypeScript",
+    "updated_at": "2026-07-10T17:04:16Z"
   },
   {
     "name": "instagui",
     "full_name": "Soutar97/instagui",
     "description": "Turn any CLI into a web GUI with one command",
     "url": "https://github.com/Soutar97/instagui",
-    "stars": 79,
+    "stars": 81,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T11:17:32Z"
+    "updated_at": "2026-07-10T16:34:31Z"
   },
   {
     "name": "GitHub-Stars-AI-Tools",
     "full_name": "xingranya/GitHub-Stars-AI-Tools",
     "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
     "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 63,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T11:40:33Z"
+    "updated_at": "2026-07-10T15:57:51Z"
+  },
+  {
+    "name": "bike4mind",
+    "full_name": "Bike4Mind/bike4mind",
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 59,
+    "language": "TypeScript",
+    "updated_at": "2026-07-10T16:13:28Z"
   },
   {
     "name": "C-SSH",
@@ -79,14 +88,5 @@
     "stars": 59,
     "language": null,
     "updated_at": "2026-07-10T03:31:23Z"
-  },
-  {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 59,
-    "language": "TypeScript",
-    "updated_at": "2026-07-10T14:22:17Z"
   }
 ]

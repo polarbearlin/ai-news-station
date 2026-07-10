@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-10 14:26:20",
+  "generated_at": "2026-07-10 17:47:00",
   "news": [
+    {
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "source": "Hacker News",
+      "time": "2026-07-10 16:37",
+      "score": 39,
+      "comments": 24
+    },
+    {
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "source": "Hacker News",
+      "time": "2026-07-09 19:49",
+      "score": 22,
+      "comments": 8
+    },
     {
       "title": "Write code like a human will maintain it",
       "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
       "source": "Hacker News",
       "time": "2026-07-10 13:33",
-      "score": 67,
-      "comments": 44
-    },
-    {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "source": "Hacker News",
-      "time": "2026-07-09 17:04",
-      "score": 1414,
-      "comments": 993
+      "score": 236,
+      "comments": 201
     }
   ]
 }
