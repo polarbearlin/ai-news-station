@@ -4,9 +4,9 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 246,
+    "stars": 255,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T19:10:39Z"
+    "updated_at": "2026-07-11T01:57:54Z"
   },
   {
     "name": "fintech-advisor",
@@ -18,31 +18,31 @@
     "updated_at": "2026-07-10T18:45:06Z"
   },
   {
+    "name": "ai-market-pulse",
+    "full_name": "SilentFleetKK/ai-market-pulse",
+    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+    "stars": 108,
+    "language": "Python",
+    "updated_at": "2026-07-11T00:48:02Z"
+  },
+  {
     "name": "photoshop-ai-smart-enhance",
     "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
     "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-10T20:16:06Z"
-  },
-  {
-    "name": "ai-market-pulse",
-    "full_name": "SilentFleetKK/ai-market-pulse",
-    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 106,
-    "language": "Python",
-    "updated_at": "2026-07-10T17:11:03Z"
+    "updated_at": "2026-07-11T01:53:57Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 94,
+    "stars": 95,
     "language": "Python",
-    "updated_at": "2026-07-10T17:30:07Z"
+    "updated_at": "2026-07-10T22:35:22Z"
   },
   {
     "name": "atrophy",
@@ -54,31 +54,13 @@
     "updated_at": "2026-07-10T17:04:16Z"
   },
   {
-    "name": "instagui",
-    "full_name": "Soutar97/instagui",
-    "description": "Turn any CLI into a web GUI with one command",
-    "url": "https://github.com/Soutar97/instagui",
-    "stars": 83,
-    "language": "TypeScript",
-    "updated_at": "2026-07-10T20:50:10Z"
-  },
-  {
     "name": "exxperts",
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 74,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T20:43:24Z"
-  },
-  {
-    "name": "GitHub-Stars-AI-Tools",
-    "full_name": "xingranya/GitHub-Stars-AI-Tools",
-    "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
-    "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-    "stars": 64,
-    "language": "TypeScript",
-    "updated_at": "2026-07-10T15:57:51Z"
+    "updated_at": "2026-07-11T00:18:56Z"
   },
   {
     "name": "bike4mind",
@@ -87,6 +69,24 @@
     "url": "https://github.com/Bike4Mind/bike4mind",
     "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-07-10T16:13:28Z"
+    "updated_at": "2026-07-10T23:41:53Z"
+  },
+  {
+    "name": "C-SSH",
+    "full_name": "suiyuebaobao/C-SSH",
+    "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
+    "url": "https://github.com/suiyuebaobao/C-SSH",
+    "stars": 59,
+    "language": null,
+    "updated_at": "2026-07-10T03:31:23Z"
+  },
+  {
+    "name": "ai-openclaw-cli",
+    "full_name": "wikidjon/ai-openclaw-cli",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "stars": 51,
+    "language": "TypeScript",
+    "updated_at": "2026-07-11T01:27:53Z"
   }
 ]
