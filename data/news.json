@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-07-11 13:18:53",
+  "generated_at": "2026-07-11 16:58:09",
   "news": [
+    {
+      "title": "Modern Decor May Be Straining People's Brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "source": "Hacker News",
+      "time": "2026-07-11 16:28",
+      "score": 6,
+      "comments": 0
+    },
+    {
+      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+      "source": "Hacker News",
+      "time": "2026-07-11 13:33",
+      "score": 59,
+      "comments": 30
+    },
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "source": "Hacker News",
       "time": "2026-07-10 20:47",
-      "score": 1219,
-      "comments": 644
+      "score": 1405,
+      "comments": 759
     }
   ]
 }

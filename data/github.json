@@ -4,27 +4,27 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 263,
+    "stars": 265,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T12:20:10Z"
+    "updated_at": "2026-07-11T14:17:07Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 152,
+    "stars": 154,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T13:03:56Z"
+    "updated_at": "2026-07-11T14:53:27Z"
   },
   {
     "name": "ai-market-pulse",
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 123,
+    "stars": 137,
     "language": "Python",
-    "updated_at": "2026-07-11T13:00:02Z"
+    "updated_at": "2026-07-11T16:50:33Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -33,60 +33,60 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-11T12:59:59Z"
+    "updated_at": "2026-07-11T16:45:06Z"
   },
   {
     "name": "exxperts",
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 100,
+    "stars": 106,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T13:11:43Z"
+    "updated_at": "2026-07-11T16:55:56Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 97,
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-07-11T11:38:05Z"
+    "updated_at": "2026-07-11T15:02:58Z"
   },
   {
     "name": "atrophy",
     "full_name": "ashutosh-rath02/atrophy",
     "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
     "url": "https://github.com/ashutosh-rath02/atrophy",
-    "stars": 96,
+    "stars": 97,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T12:00:23Z"
+    "updated_at": "2026-07-11T13:44:26Z"
+  },
+  {
+    "name": "local-vuln-research-pipeline",
+    "full_name": "theteatoast/local-vuln-research-pipeline",
+    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+    "stars": 71,
+    "language": "Python",
+    "updated_at": "2026-07-11T16:22:03Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 69,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-07-11T13:13:14Z"
-  },
-  {
-    "name": "bike4mind",
-    "full_name": "Bike4Mind/bike4mind",
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 59,
-    "language": "TypeScript",
-    "updated_at": "2026-07-11T13:11:28Z"
+    "updated_at": "2026-07-11T14:58:14Z"
   },
   {
     "name": "C-SSH",
     "full_name": "suiyuebaobao/C-SSH",
     "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
     "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 59,
+    "stars": 60,
     "language": null,
-    "updated_at": "2026-07-11T06:20:29Z"
+    "updated_at": "2026-07-11T16:33:44Z"
   }
 ]
