@@ -4,9 +4,9 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 255,
+    "stars": 259,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T01:57:54Z"
+    "updated_at": "2026-07-11T09:35:34Z"
   },
   {
     "name": "fintech-advisor",
@@ -22,9 +22,9 @@
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 112,
+    "stars": 119,
     "language": "Python",
-    "updated_at": "2026-07-11T06:01:04Z"
+    "updated_at": "2026-07-11T09:13:52Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -33,7 +33,7 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-11T04:57:47Z"
+    "updated_at": "2026-07-11T09:19:39Z"
   },
   {
     "name": "ditto",
@@ -58,9 +58,9 @@
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 86,
+    "stars": 92,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T05:59:14Z"
+    "updated_at": "2026-07-11T09:04:28Z"
   },
   {
     "name": "bike4mind",
@@ -78,15 +78,15 @@
     "url": "https://github.com/suiyuebaobao/C-SSH",
     "stars": 59,
     "language": null,
-    "updated_at": "2026-07-10T03:31:23Z"
+    "updated_at": "2026-07-11T06:20:29Z"
   },
   {
-    "name": "ai-openclaw-cli",
-    "full_name": "wikidjon/ai-openclaw-cli",
-    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-    "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 51,
-    "language": "TypeScript",
-    "updated_at": "2026-07-11T01:27:53Z"
+    "name": "vox-director",
+    "full_name": "Alisa0808/vox-director",
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "url": "https://github.com/Alisa0808/vox-director",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-07-11T09:34:47Z"
   }
 ]
