@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-07-12 16:58:10",
+  "generated_at": "2026-07-12 20:48:18",
   "news": [
     {
-      "title": "A no-brainer for protecting your brain",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
       "source": "Hacker News",
-      "time": "2026-07-12 15:23",
-      "score": 36,
-      "comments": 19
+      "time": "2026-07-12 18:31",
+      "score": 167,
+      "comments": 87
     },
     {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
       "source": "Hacker News",
-      "time": "2026-07-12 13:26",
-      "score": 86,
-      "comments": 69
+      "time": "2026-07-12 18:22",
+      "score": 30,
+      "comments": 3
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "Hacker News",
+      "time": "2026-07-12 18:41",
+      "score": 19,
+      "comments": 3
+    },
+    {
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "source": "Hacker News",
+      "time": "2026-07-12 17:47",
+      "score": 52,
+      "comments": 11
     }
   ]
 }
