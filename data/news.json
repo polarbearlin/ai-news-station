@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-11 20:47:06",
+  "generated_at": "2026-07-12 02:46:36",
   "news": [
     {
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
       "source": "Hacker News",
-      "time": "2026-07-10 22:04",
-      "score": 38,
-      "comments": 19
+      "time": "2026-07-11 22:38",
+      "score": 112,
+      "comments": 28
     },
     {
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "source": "Hacker News",
-      "time": "2026-07-11 17:03",
-      "score": 142,
-      "comments": 48
+      "time": "2026-07-12 01:09",
+      "score": 15,
+      "comments": 1
     }
   ]
 }
