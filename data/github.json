@@ -6,7 +6,7 @@
     "url": "https://github.com/bkingfilm/lapian-notes",
     "stars": 272,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T05:25:55Z"
+    "updated_at": "2026-07-12T08:40:12Z"
   },
   {
     "name": "fintech-advisor",
@@ -22,18 +22,18 @@
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 149,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-07-12T06:08:00Z"
+    "updated_at": "2026-07-12T07:36:57Z"
   },
   {
     "name": "exxperts",
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 124,
+    "stars": 128,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T06:12:53Z"
+    "updated_at": "2026-07-12T09:45:26Z"
   },
   {
     "name": "ditto",
@@ -51,25 +51,25 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-12T05:25:28Z"
+    "updated_at": "2026-07-12T08:03:31Z"
   },
   {
     "name": "local-vuln-research-pipeline",
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 91,
+    "stars": 92,
     "language": "Python",
-    "updated_at": "2026-07-12T05:53:47Z"
+    "updated_at": "2026-07-12T08:51:15Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 75,
+    "stars": 76,
     "language": "Python",
-    "updated_at": "2026-07-12T04:17:47Z"
+    "updated_at": "2026-07-12T08:25:19Z"
   },
   {
     "name": "C-SSH",
@@ -78,7 +78,7 @@
     "url": "https://github.com/suiyuebaobao/C-SSH",
     "stars": 61,
     "language": null,
-    "updated_at": "2026-07-12T00:44:39Z"
+    "updated_at": "2026-07-12T08:40:28Z"
   },
   {
     "name": "ai-openclaw-cli",
