@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-12 13:19:05",
+  "generated_at": "2026-07-12 16:58:10",
   "news": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "title": "A no-brainer for protecting your brain",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
       "source": "Hacker News",
-      "time": "2026-07-11 22:38",
-      "score": 283,
-      "comments": 65
+      "time": "2026-07-12 15:23",
+      "score": 36,
+      "comments": 19
+    },
+    {
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "source": "Hacker News",
+      "time": "2026-07-12 13:26",
+      "score": 86,
+      "comments": 69
     }
   ]
 }

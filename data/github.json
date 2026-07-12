@@ -4,45 +4,45 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 274,
+    "stars": 276,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T11:50:29Z"
+    "updated_at": "2026-07-12T14:30:38Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 154,
+    "stars": 159,
     "language": "TypeScript",
-    "updated_at": "2026-07-11T14:53:27Z"
+    "updated_at": "2026-07-12T16:16:39Z"
   },
   {
     "name": "ai-market-pulse",
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 152,
+    "stars": 153,
     "language": "Python",
-    "updated_at": "2026-07-12T12:24:11Z"
+    "updated_at": "2026-07-12T14:35:21Z"
   },
   {
     "name": "exxperts",
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 130,
+    "stars": 137,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T11:31:07Z"
+    "updated_at": "2026-07-12T16:57:52Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 108,
+    "stars": 113,
     "language": "Python",
-    "updated_at": "2026-07-12T10:04:33Z"
+    "updated_at": "2026-07-12T16:17:56Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -51,34 +51,34 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-12T13:00:39Z"
+    "updated_at": "2026-07-12T16:49:49Z"
   },
   {
     "name": "local-vuln-research-pipeline",
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 97,
+    "stars": 105,
     "language": "Python",
-    "updated_at": "2026-07-12T12:41:11Z"
+    "updated_at": "2026-07-12T16:21:54Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 77,
+    "stars": 78,
     "language": "Python",
-    "updated_at": "2026-07-12T11:13:11Z"
+    "updated_at": "2026-07-12T16:28:45Z"
   },
   {
     "name": "C-SSH",
     "full_name": "suiyuebaobao/C-SSH",
     "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
     "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 61,
+    "stars": 62,
     "language": null,
-    "updated_at": "2026-07-12T08:40:28Z"
+    "updated_at": "2026-07-12T16:46:48Z"
   },
   {
     "name": "ai-openclaw-cli",
