@@ -4,18 +4,18 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 289,
+    "stars": 295,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T02:29:58Z"
+    "updated_at": "2026-07-13T06:27:28Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 166,
+    "stars": 168,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T00:47:49Z"
+    "updated_at": "2026-07-13T04:20:43Z"
   },
   {
     "name": "ai-market-pulse",
@@ -27,40 +27,40 @@
     "updated_at": "2026-07-12T19:42:22Z"
   },
   {
-    "name": "exxperts",
-    "full_name": "EXXETA/exxperts",
-    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-    "url": "https://github.com/EXXETA/exxperts",
-    "stars": 143,
+    "name": "ai-openclaw-cli",
+    "full_name": "wikidjon/ai-openclaw-cli",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "stars": 152,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T01:56:24Z"
+    "updated_at": "2026-07-13T05:16:08Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 139,
+    "stars": 147,
     "language": "Python",
-    "updated_at": "2026-07-13T01:34:13Z"
+    "updated_at": "2026-07-13T06:37:44Z"
   },
   {
-    "name": "ai-openclaw-cli",
-    "full_name": "wikidjon/ai-openclaw-cli",
-    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-    "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 129,
+    "name": "exxperts",
+    "full_name": "EXXETA/exxperts",
+    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+    "url": "https://github.com/EXXETA/exxperts",
+    "stars": 147,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T02:45:02Z"
+    "updated_at": "2026-07-13T06:50:59Z"
   },
   {
     "name": "local-vuln-research-pipeline",
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 118,
+    "stars": 123,
     "language": "Python",
-    "updated_at": "2026-07-13T02:41:11Z"
+    "updated_at": "2026-07-13T06:29:01Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -69,24 +69,24 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-13T01:59:03Z"
+    "updated_at": "2026-07-13T05:40:33Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 80,
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-07-13T02:30:01Z"
+    "updated_at": "2026-07-13T04:15:30Z"
   },
   {
-    "name": "Guido",
-    "full_name": "youxiandechilun/Guido",
-    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
-    "url": "https://github.com/youxiandechilun/Guido",
-    "stars": 61,
-    "language": "Java",
-    "updated_at": "2026-07-13T01:43:24Z"
+    "name": "Octop",
+    "full_name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "url": "https://github.com/TencentCloud/Octop",
+    "stars": 71,
+    "language": "Python",
+    "updated_at": "2026-07-13T06:49:21Z"
   }
 ]
