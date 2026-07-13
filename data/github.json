@@ -22,18 +22,18 @@
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 161,
+    "stars": 167,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T17:08:53Z"
+    "updated_at": "2026-07-13T20:49:08Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 160,
+    "stars": 161,
     "language": "Python",
-    "updated_at": "2026-07-13T17:34:48Z"
+    "updated_at": "2026-07-13T18:38:58Z"
   },
   {
     "name": "ai-market-pulse",
@@ -42,7 +42,7 @@
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
     "stars": 155,
     "language": "Python",
-    "updated_at": "2026-07-13T17:54:14Z"
+    "updated_at": "2026-07-13T20:43:15Z"
   },
   {
     "name": "ai-openclaw-cli",
@@ -58,9 +58,9 @@
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 133,
+    "stars": 136,
     "language": "Python",
-    "updated_at": "2026-07-13T16:20:51Z"
+    "updated_at": "2026-07-13T20:55:01Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -69,7 +69,7 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-13T17:08:39Z"
+    "updated_at": "2026-07-13T20:51:52Z"
   },
   {
     "name": "vox-director",
@@ -78,15 +78,15 @@
     "url": "https://github.com/Alisa0808/vox-director",
     "stars": 99,
     "language": "Python",
-    "updated_at": "2026-07-13T17:32:17Z"
+    "updated_at": "2026-07-13T20:29:54Z"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 86,
+    "stars": 88,
     "language": "Python",
-    "updated_at": "2026-07-13T17:49:11Z"
+    "updated_at": "2026-07-13T19:26:45Z"
   }
 ]
