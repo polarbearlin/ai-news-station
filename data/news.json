@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-13 11:10:41",
+  "generated_at": "2026-07-13 14:33:46",
   "news": [
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
       "source": "Hacker News",
       "time": "2026-07-13 08:39",
-      "score": 326,
-      "comments": 165
+      "score": 915,
+      "comments": 455
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "source": "Hacker News",
+      "time": "2026-07-13 13:39",
+      "score": 102,
+      "comments": 49
     },
     {
       "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
       "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
       "source": "Hacker News",
       "time": "2026-07-13 08:04",
-      "score": 77,
-      "comments": 52
+      "score": 150,
+      "comments": 91
     }
   ]
 }

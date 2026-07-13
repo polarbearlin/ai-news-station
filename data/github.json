@@ -4,18 +4,36 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 307,
+    "stars": 308,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T10:46:13Z"
+    "updated_at": "2026-07-13T12:14:34Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 171,
+    "stars": 173,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T08:34:03Z"
+    "updated_at": "2026-07-13T14:19:52Z"
+  },
+  {
+    "name": "ditto",
+    "full_name": "ohad6k/ditto",
+    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+    "url": "https://github.com/ohad6k/ditto",
+    "stars": 156,
+    "language": "Python",
+    "updated_at": "2026-07-13T13:57:40Z"
+  },
+  {
+    "name": "exxperts",
+    "full_name": "EXXETA/exxperts",
+    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+    "url": "https://github.com/EXXETA/exxperts",
+    "stars": 156,
+    "language": "TypeScript",
+    "updated_at": "2026-07-13T14:12:30Z"
   },
   {
     "name": "ai-market-pulse",
@@ -27,40 +45,22 @@
     "updated_at": "2026-07-13T10:09:13Z"
   },
   {
-    "name": "exxperts",
-    "full_name": "EXXETA/exxperts",
-    "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-    "url": "https://github.com/EXXETA/exxperts",
-    "stars": 153,
-    "language": "TypeScript",
-    "updated_at": "2026-07-13T10:23:47Z"
-  },
-  {
     "name": "ai-openclaw-cli",
     "full_name": "wikidjon/ai-openclaw-cli",
     "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
     "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 151,
+    "stars": 153,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T09:20:51Z"
-  },
-  {
-    "name": "ditto",
-    "full_name": "ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "url": "https://github.com/ohad6k/ditto",
-    "stars": 150,
-    "language": "Python",
-    "updated_at": "2026-07-13T11:09:41Z"
+    "updated_at": "2026-07-13T13:38:23Z"
   },
   {
     "name": "local-vuln-research-pipeline",
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 128,
+    "stars": 131,
     "language": "Python",
-    "updated_at": "2026-07-13T10:58:32Z"
+    "updated_at": "2026-07-13T14:25:52Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -69,24 +69,24 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-13T08:53:48Z"
+    "updated_at": "2026-07-13T14:14:29Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 89,
+    "stars": 94,
     "language": "Python",
-    "updated_at": "2026-07-13T10:08:44Z"
+    "updated_at": "2026-07-13T14:12:33Z"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 77,
+    "stars": 83,
     "language": "Python",
-    "updated_at": "2026-07-13T11:10:36Z"
+    "updated_at": "2026-07-13T14:05:40Z"
   }
 ]
