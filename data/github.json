@@ -4,18 +4,18 @@
     "full_name": "bkingfilm/lapian-notes",
     "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 280,
+    "stars": 289,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T19:23:26Z"
+    "updated_at": "2026-07-13T02:29:58Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 162,
+    "stars": 166,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T19:57:47Z"
+    "updated_at": "2026-07-13T00:47:49Z"
   },
   {
     "name": "ai-market-pulse",
@@ -31,18 +31,36 @@
     "full_name": "EXXETA/exxperts",
     "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
     "url": "https://github.com/EXXETA/exxperts",
-    "stars": 140,
+    "stars": 143,
     "language": "TypeScript",
-    "updated_at": "2026-07-12T19:32:30Z"
+    "updated_at": "2026-07-13T01:56:24Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 119,
+    "stars": 139,
     "language": "Python",
-    "updated_at": "2026-07-12T20:16:44Z"
+    "updated_at": "2026-07-13T01:34:13Z"
+  },
+  {
+    "name": "ai-openclaw-cli",
+    "full_name": "wikidjon/ai-openclaw-cli",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "stars": 129,
+    "language": "TypeScript",
+    "updated_at": "2026-07-13T02:45:02Z"
+  },
+  {
+    "name": "local-vuln-research-pipeline",
+    "full_name": "theteatoast/local-vuln-research-pipeline",
+    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+    "stars": 118,
+    "language": "Python",
+    "updated_at": "2026-07-13T02:41:11Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -51,42 +69,24 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-12T20:02:50Z"
-  },
-  {
-    "name": "local-vuln-research-pipeline",
-    "full_name": "theteatoast/local-vuln-research-pipeline",
-    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 107,
-    "language": "Python",
-    "updated_at": "2026-07-12T18:34:08Z"
+    "updated_at": "2026-07-13T01:59:03Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 78,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-07-12T16:28:45Z"
+    "updated_at": "2026-07-13T02:30:01Z"
   },
   {
-    "name": "ai-openclaw-cli",
-    "full_name": "wikidjon/ai-openclaw-cli",
-    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-    "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 72,
-    "language": "TypeScript",
-    "updated_at": "2026-07-12T20:43:18Z"
-  },
-  {
-    "name": "C-SSH",
-    "full_name": "suiyuebaobao/C-SSH",
-    "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
-    "url": "https://github.com/suiyuebaobao/C-SSH",
-    "stars": 62,
-    "language": null,
-    "updated_at": "2026-07-12T16:46:48Z"
+    "name": "Guido",
+    "full_name": "youxiandechilun/Guido",
+    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
+    "url": "https://github.com/youxiandechilun/Guido",
+    "stars": 61,
+    "language": "Java",
+    "updated_at": "2026-07-13T01:43:24Z"
   }
 ]
