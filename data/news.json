@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-07-13 06:52:38",
-  "news": []
+  "generated_at": "2026-07-13 11:10:41",
+  "news": [
+    {
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "source": "Hacker News",
+      "time": "2026-07-13 08:39",
+      "score": 326,
+      "comments": 165
+    },
+    {
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "source": "Hacker News",
+      "time": "2026-07-13 08:04",
+      "score": 77,
+      "comments": 52
+    }
+  ]
 }
