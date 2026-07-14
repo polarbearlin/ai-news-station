@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-07-14 17:14:16",
+  "generated_at": "2026-07-14 20:59:37",
   "news": [
+    {
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News",
+      "time": "2026-07-14 17:50",
+      "score": 198,
+      "comments": 60
+    },
+    {
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "source": "Hacker News",
+      "time": "2026-07-11 14:32",
+      "score": 79,
+      "comments": 20
+    },
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "source": "Hacker News",
+      "time": "2026-07-14 12:50",
+      "score": 16,
+      "comments": 0
+    },
     {
       "title": "Are we offloading too much of our thinking to AI?",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
       "source": "Hacker News",
       "time": "2026-07-14 15:18",
-      "score": 163,
-      "comments": 138
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "source": "Hacker News",
-      "time": "2026-07-14 16:06",
-      "score": 12,
-      "comments": 0
+      "score": 299,
+      "comments": 289
     }
   ]
 }
