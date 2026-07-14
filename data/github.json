@@ -2,11 +2,11 @@
   {
     "name": "lapian-notes",
     "full_name": "bkingfilm/lapian-notes",
-    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+    "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 310,
+    "stars": 317,
     "language": "TypeScript",
-    "updated_at": "2026-07-13T17:28:49Z"
+    "updated_at": "2026-07-14T05:59:28Z"
   },
   {
     "name": "fintech-advisor",
@@ -22,18 +22,18 @@
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 165,
+    "stars": 166,
     "language": "Python",
-    "updated_at": "2026-07-14T01:57:56Z"
+    "updated_at": "2026-07-14T03:11:46Z"
   },
   {
     "name": "ai-market-pulse",
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 156,
+    "stars": 158,
     "language": "Python",
-    "updated_at": "2026-07-13T21:52:15Z"
+    "updated_at": "2026-07-14T06:07:06Z"
   },
   {
     "name": "ai-openclaw-cli",
@@ -49,9 +49,18 @@
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 137,
+    "stars": 142,
     "language": "Python",
-    "updated_at": "2026-07-13T21:37:20Z"
+    "updated_at": "2026-07-14T05:49:10Z"
+  },
+  {
+    "name": "vox-director",
+    "full_name": "Alisa0808/vox-director",
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "url": "https://github.com/Alisa0808/vox-director",
+    "stars": 115,
+    "language": "Python",
+    "updated_at": "2026-07-14T05:27:50Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -60,25 +69,16 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-14T01:45:54Z"
-  },
-  {
-    "name": "vox-director",
-    "full_name": "Alisa0808/vox-director",
-    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-    "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 106,
-    "language": "Python",
-    "updated_at": "2026-07-14T02:25:32Z"
+    "updated_at": "2026-07-14T04:43:37Z"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 90,
+    "stars": 94,
     "language": "Python",
-    "updated_at": "2026-07-14T02:04:14Z"
+    "updated_at": "2026-07-14T05:18:23Z"
   },
   {
     "name": "Guido",
