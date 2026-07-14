@@ -4,27 +4,27 @@
     "full_name": "William-Lu-stack/LuxyAI",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/LuxyAI",
-    "stars": 605,
+    "stars": 613,
     "language": "Python",
-    "updated_at": "2026-07-14T09:46:28Z"
+    "updated_at": "2026-07-14T12:11:49Z"
   },
   {
     "name": "lapian-notes",
     "full_name": "bkingfilm/lapian-notes",
     "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 321,
+    "stars": 324,
     "language": "TypeScript",
-    "updated_at": "2026-07-14T09:01:29Z"
+    "updated_at": "2026-07-14T12:02:02Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 168,
+    "stars": 170,
     "language": "Python",
-    "updated_at": "2026-07-14T09:54:33Z"
+    "updated_at": "2026-07-14T13:36:14Z"
   },
   {
     "name": "fintech-advisor",
@@ -49,27 +49,36 @@
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 145,
+    "stars": 148,
     "language": "Python",
-    "updated_at": "2026-07-14T09:48:04Z"
+    "updated_at": "2026-07-14T12:39:24Z"
   },
   {
     "name": "ai-openclaw-cli",
     "full_name": "wikidjon/ai-openclaw-cli",
     "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
     "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 134,
+    "stars": 135,
     "language": "TypeScript",
-    "updated_at": "2026-07-14T08:11:42Z"
+    "updated_at": "2026-07-14T11:19:11Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 122,
+    "stars": 125,
     "language": "Python",
-    "updated_at": "2026-07-14T09:38:51Z"
+    "updated_at": "2026-07-14T13:34:02Z"
+  },
+  {
+    "name": "J-Wash",
+    "full_name": "Extraltodeus/J-Wash",
+    "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
+    "url": "https://github.com/Extraltodeus/J-Wash",
+    "stars": 113,
+    "language": "Python",
+    "updated_at": "2026-07-14T13:36:42Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -78,15 +87,6 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-14T09:48:45Z"
-  },
-  {
-    "name": "Octop",
-    "full_name": "TencentCloud/Octop",
-    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "url": "https://github.com/TencentCloud/Octop",
-    "stars": 97,
-    "language": "Python",
-    "updated_at": "2026-07-14T08:57:34Z"
+    "updated_at": "2026-07-14T13:14:49Z"
   }
 ]

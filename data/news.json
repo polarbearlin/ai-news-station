@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-14 09:57:51",
+  "generated_at": "2026-07-14 13:43:01",
   "news": [
     {
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
       "source": "Hacker News",
-      "time": "2026-07-14 04:31",
-      "score": 92,
-      "comments": 119
-    },
-    {
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "source": "Hacker News",
-      "time": "2026-07-14 06:43",
-      "score": 40,
-      "comments": 2
+      "time": "2026-07-14 12:41",
+      "score": 24,
+      "comments": 4
     }
   ]
 }
