@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-14 13:43:01",
+  "generated_at": "2026-07-14 17:14:16",
   "news": [
     {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
       "source": "Hacker News",
-      "time": "2026-07-14 12:41",
-      "score": 24,
-      "comments": 4
+      "time": "2026-07-14 15:18",
+      "score": 163,
+      "comments": 138
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "source": "Hacker News",
+      "time": "2026-07-14 16:06",
+      "score": 12,
+      "comments": 0
     }
   ]
 }

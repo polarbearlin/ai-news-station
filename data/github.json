@@ -1,21 +1,21 @@
 [
   {
-    "name": "LuxyAI",
-    "full_name": "William-Lu-stack/LuxyAI",
+    "name": "Flawless",
+    "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-    "url": "https://github.com/William-Lu-stack/LuxyAI",
-    "stars": 613,
+    "url": "https://github.com/William-Lu-stack/Flawless",
+    "stars": 612,
     "language": "Python",
-    "updated_at": "2026-07-14T12:11:49Z"
+    "updated_at": "2026-07-14T17:02:49Z"
   },
   {
     "name": "lapian-notes",
     "full_name": "bkingfilm/lapian-notes",
     "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 324,
+    "stars": 326,
     "language": "TypeScript",
-    "updated_at": "2026-07-14T12:02:02Z"
+    "updated_at": "2026-07-14T15:24:33Z"
   },
   {
     "name": "ditto",
@@ -24,7 +24,7 @@
     "url": "https://github.com/ohad6k/ditto",
     "stars": 170,
     "language": "Python",
-    "updated_at": "2026-07-14T13:36:14Z"
+    "updated_at": "2026-07-14T15:04:53Z"
   },
   {
     "name": "fintech-advisor",
@@ -42,7 +42,7 @@
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
     "stars": 160,
     "language": "Python",
-    "updated_at": "2026-07-14T07:51:41Z"
+    "updated_at": "2026-07-14T14:31:57Z"
   },
   {
     "name": "local-vuln-research-pipeline",
@@ -67,26 +67,26 @@
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 125,
+    "stars": 134,
     "language": "Python",
-    "updated_at": "2026-07-14T13:34:02Z"
+    "updated_at": "2026-07-14T16:20:37Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 113,
+    "stars": 124,
     "language": "Python",
-    "updated_at": "2026-07-14T13:36:42Z"
+    "updated_at": "2026-07-14T16:54:34Z"
   },
   {
-    "name": "photoshop-ai-smart-enhance",
-    "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "stars": 107,
-    "language": "HTML",
-    "updated_at": "2026-07-14T13:14:49Z"
+    "name": "agent-pulse",
+    "full_name": "barretlee/agent-pulse",
+    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+    "url": "https://github.com/barretlee/agent-pulse",
+    "stars": 124,
+    "language": "TypeScript",
+    "updated_at": "2026-07-14T17:04:40Z"
   }
 ]
