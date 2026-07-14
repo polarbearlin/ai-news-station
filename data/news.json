@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-14 06:10:14",
+  "generated_at": "2026-07-14 09:57:51",
   "news": [
     {
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
       "source": "Hacker News",
-      "time": "2026-07-13 16:06",
-      "score": 512,
-      "comments": 200
+      "time": "2026-07-14 04:31",
+      "score": 92,
+      "comments": 119
+    },
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "source": "Hacker News",
+      "time": "2026-07-14 06:43",
+      "score": 40,
+      "comments": 2
     }
   ]
 }

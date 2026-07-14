@@ -1,66 +1,75 @@
 [
   {
+    "name": "LuxyAI",
+    "full_name": "William-Lu-stack/LuxyAI",
+    "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+    "url": "https://github.com/William-Lu-stack/LuxyAI",
+    "stars": 605,
+    "language": "Python",
+    "updated_at": "2026-07-14T09:46:28Z"
+  },
+  {
     "name": "lapian-notes",
     "full_name": "bkingfilm/lapian-notes",
     "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "stars": 317,
+    "stars": 321,
     "language": "TypeScript",
-    "updated_at": "2026-07-14T05:59:28Z"
-  },
-  {
-    "name": "fintech-advisor",
-    "full_name": "KORAYTEACHER/fintech-advisor",
-    "description": "ai fintech financial advisor for your portfolio",
-    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 176,
-    "language": "TypeScript",
-    "updated_at": "2026-07-13T22:59:49Z"
+    "updated_at": "2026-07-14T09:01:29Z"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 166,
+    "stars": 168,
     "language": "Python",
-    "updated_at": "2026-07-14T03:11:46Z"
+    "updated_at": "2026-07-14T09:54:33Z"
+  },
+  {
+    "name": "fintech-advisor",
+    "full_name": "KORAYTEACHER/fintech-advisor",
+    "description": "ai fintech financial advisor for your portfolio",
+    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+    "stars": 160,
+    "language": "TypeScript",
+    "updated_at": "2026-07-14T09:22:48Z"
   },
   {
     "name": "ai-market-pulse",
     "full_name": "SilentFleetKK/ai-market-pulse",
     "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 158,
+    "stars": 160,
     "language": "Python",
-    "updated_at": "2026-07-14T06:07:06Z"
-  },
-  {
-    "name": "ai-openclaw-cli",
-    "full_name": "wikidjon/ai-openclaw-cli",
-    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-    "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 153,
-    "language": "TypeScript",
-    "updated_at": "2026-07-13T13:38:23Z"
+    "updated_at": "2026-07-14T07:51:41Z"
   },
   {
     "name": "local-vuln-research-pipeline",
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 142,
+    "stars": 145,
     "language": "Python",
-    "updated_at": "2026-07-14T05:49:10Z"
+    "updated_at": "2026-07-14T09:48:04Z"
+  },
+  {
+    "name": "ai-openclaw-cli",
+    "full_name": "wikidjon/ai-openclaw-cli",
+    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "stars": 134,
+    "language": "TypeScript",
+    "updated_at": "2026-07-14T08:11:42Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 115,
+    "stars": 122,
     "language": "Python",
-    "updated_at": "2026-07-14T05:27:50Z"
+    "updated_at": "2026-07-14T09:38:51Z"
   },
   {
     "name": "photoshop-ai-smart-enhance",
@@ -69,24 +78,15 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 107,
     "language": "HTML",
-    "updated_at": "2026-07-14T04:43:37Z"
+    "updated_at": "2026-07-14T09:48:45Z"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 94,
+    "stars": 97,
     "language": "Python",
-    "updated_at": "2026-07-14T05:18:23Z"
-  },
-  {
-    "name": "Guido",
-    "full_name": "youxiandechilun/Guido",
-    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
-    "url": "https://github.com/youxiandechilun/Guido",
-    "stars": 81,
-    "language": "Java",
-    "updated_at": "2026-07-14T00:02:02Z"
+    "updated_at": "2026-07-14T08:57:34Z"
   }
 ]
