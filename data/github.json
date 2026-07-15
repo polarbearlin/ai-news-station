@@ -6,25 +6,25 @@
     "url": "https://github.com/William-Lu-stack/Flawless",
     "stars": 621,
     "language": "Python",
-    "updated_at": "2026-07-15T13:41:11Z"
+    "updated_at": "2026-07-15T15:53:34Z"
   },
   {
     "name": "quantumbyte",
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 307,
+    "stars": 308,
     "language": "Python",
-    "updated_at": "2026-07-15T11:56:13Z"
+    "updated_at": "2026-07-15T15:12:39Z"
   },
   {
     "name": "agent-pulse",
     "full_name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 180,
+    "stars": 185,
     "language": "TypeScript",
-    "updated_at": "2026-07-15T13:38:47Z"
+    "updated_at": "2026-07-15T16:00:34Z"
   },
   {
     "name": "fintech-advisor",
@@ -56,20 +56,20 @@
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
-    "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results. The most precise LLM customization so far!",
+    "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results. Manually edit what a large language model has in mind!",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 150,
+    "stars": 152,
     "language": "Python",
-    "updated_at": "2026-07-15T13:10:39Z"
+    "updated_at": "2026-07-15T17:10:39Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 148,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-07-15T13:21:42Z"
+    "updated_at": "2026-07-15T16:05:32Z"
   },
   {
     "name": "ai-openclaw-cli",
@@ -87,6 +87,6 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 106,
     "language": "HTML",
-    "updated_at": "2026-07-15T13:19:27Z"
+    "updated_at": "2026-07-15T17:09:17Z"
   }
 ]
