@@ -4,9 +4,9 @@
     "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 621,
+    "stars": 624,
     "language": "Python",
-    "updated_at": "2026-07-15T15:53:34Z"
+    "updated_at": "2026-07-15T20:19:03Z"
   },
   {
     "name": "quantumbyte",
@@ -22,18 +22,18 @@
     "full_name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 185,
+    "stars": 186,
     "language": "TypeScript",
-    "updated_at": "2026-07-15T16:00:34Z"
+    "updated_at": "2026-07-15T18:17:35Z"
   },
   {
     "name": "fintech-advisor",
     "full_name": "KORAYTEACHER/fintech-advisor",
     "description": "ai fintech financial advisor for your portfolio",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 162,
+    "stars": 163,
     "language": "TypeScript",
-    "updated_at": "2026-07-15T10:43:50Z"
+    "updated_at": "2026-07-15T19:23:21Z"
   },
   {
     "name": "ai-market-pulse",
@@ -45,31 +45,31 @@
     "updated_at": "2026-07-15T09:29:02Z"
   },
   {
-    "name": "local-vuln-research-pipeline",
-    "full_name": "theteatoast/local-vuln-research-pipeline",
-    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 152,
-    "language": "Python",
-    "updated_at": "2026-07-15T13:18:36Z"
-  },
-  {
-    "name": "J-Wash",
-    "full_name": "Extraltodeus/J-Wash",
-    "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results. Manually edit what a large language model has in mind!",
-    "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 152,
-    "language": "Python",
-    "updated_at": "2026-07-15T17:10:39Z"
-  },
-  {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 151,
+    "stars": 156,
     "language": "Python",
-    "updated_at": "2026-07-15T16:05:32Z"
+    "updated_at": "2026-07-15T20:24:48Z"
+  },
+  {
+    "name": "J-Wash",
+    "full_name": "Extraltodeus/J-Wash",
+    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+    "url": "https://github.com/Extraltodeus/J-Wash",
+    "stars": 154,
+    "language": "Python",
+    "updated_at": "2026-07-15T20:57:30Z"
+  },
+  {
+    "name": "local-vuln-research-pipeline",
+    "full_name": "theteatoast/local-vuln-research-pipeline",
+    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+    "stars": 153,
+    "language": "Python",
+    "updated_at": "2026-07-15T19:28:44Z"
   },
   {
     "name": "ai-openclaw-cli",
@@ -87,6 +87,6 @@
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "stars": 106,
     "language": "HTML",
-    "updated_at": "2026-07-15T17:09:17Z"
+    "updated_at": "2026-07-15T20:09:02Z"
   }
 ]
