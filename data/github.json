@@ -4,18 +4,27 @@
     "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 617,
+    "stars": 619,
     "language": "Python",
-    "updated_at": "2026-07-15T02:08:49Z"
+    "updated_at": "2026-07-15T05:27:44Z"
   },
   {
     "name": "quantumbyte",
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 216,
+    "stars": 287,
     "language": "Python",
-    "updated_at": "2026-07-15T02:23:34Z"
+    "updated_at": "2026-07-15T06:00:06Z"
+  },
+  {
+    "name": "fintech-advisor",
+    "full_name": "KORAYTEACHER/fintech-advisor",
+    "description": "ai fintech financial advisor for your portfolio",
+    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+    "stars": 161,
+    "language": "TypeScript",
+    "updated_at": "2026-07-15T03:51:39Z"
   },
   {
     "name": "ai-market-pulse",
@@ -27,31 +36,22 @@
     "updated_at": "2026-07-15T02:26:32Z"
   },
   {
-    "name": "fintech-advisor",
-    "full_name": "KORAYTEACHER/fintech-advisor",
-    "description": "ai fintech financial advisor for your portfolio",
-    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 160,
+    "name": "agent-pulse",
+    "full_name": "barretlee/agent-pulse",
+    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+    "url": "https://github.com/barretlee/agent-pulse",
+    "stars": 161,
     "language": "TypeScript",
-    "updated_at": "2026-07-14T09:22:48Z"
+    "updated_at": "2026-07-15T06:03:16Z"
   },
   {
     "name": "local-vuln-research-pipeline",
     "full_name": "theteatoast/local-vuln-research-pipeline",
     "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 150,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-07-15T01:13:56Z"
-  },
-  {
-    "name": "agent-pulse",
-    "full_name": "barretlee/agent-pulse",
-    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-    "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 144,
-    "language": "TypeScript",
-    "updated_at": "2026-07-15T01:57:42Z"
+    "updated_at": "2026-07-15T05:29:46Z"
   },
   {
     "name": "J-Wash",
@@ -67,9 +67,9 @@
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 139,
+    "stars": 141,
     "language": "Python",
-    "updated_at": "2026-07-15T01:49:04Z"
+    "updated_at": "2026-07-15T06:01:36Z"
   },
   {
     "name": "ai-openclaw-cli",
@@ -81,12 +81,12 @@
     "updated_at": "2026-07-14T11:19:11Z"
   },
   {
-    "name": "photoshop-ai-smart-enhance",
-    "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "stars": 107,
+    "name": "photoshop-smart-layer-manager",
+    "full_name": "mudsoldiermove/photoshop-smart-layer-manager",
+    "description": "Advanced layer organization and automation plugin for Adobe Photoshop CC 2024+. Intelligent grouping, bulk renaming, hierarchy detection, and smart layer management powered by adaptive algorithms. Works with design systems, production pipelines, and complex document structures. Native UXP extension.",
+    "url": "https://github.com/mudsoldiermove/photoshop-smart-layer-manager",
+    "stars": 109,
     "language": "HTML",
-    "updated_at": "2026-07-15T01:42:24Z"
+    "updated_at": "2026-07-15T06:10:28Z"
   }
 ]
