@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-16 10:08:15",
+  "generated_at": "2026-07-16 13:49:49",
   "news": [
     {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
       "source": "Hacker News",
-      "time": "2026-07-15 21:16",
-      "score": 200,
-      "comments": 71
+      "time": "2026-07-16 12:02",
+      "score": 179,
+      "comments": 124
+    },
+    {
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
+      "source": "Hacker News",
+      "time": "2026-07-16 08:03",
+      "score": 148,
+      "comments": 62
     }
   ]
 }
