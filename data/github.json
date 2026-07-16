@@ -4,9 +4,9 @@
     "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 650,
+    "stars": 663,
     "language": "Python",
-    "updated_at": "2026-07-16T06:11:16Z"
+    "updated_at": "2026-07-16T09:51:06Z"
   },
   {
     "name": "quantumbyte",
@@ -24,7 +24,7 @@
     "url": "https://github.com/barretlee/agent-pulse",
     "stars": 193,
     "language": "TypeScript",
-    "updated_at": "2026-07-16T06:05:11Z"
+    "updated_at": "2026-07-16T09:04:17Z"
   },
   {
     "name": "J-Wash",
@@ -49,9 +49,18 @@
     "full_name": "youxiandechilun/Guido",
     "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
     "url": "https://github.com/youxiandechilun/Guido",
-    "stars": 103,
+    "stars": 104,
     "language": "Java",
-    "updated_at": "2026-07-16T03:02:25Z"
+    "updated_at": "2026-07-16T07:33:44Z"
+  },
+  {
+    "name": "yuwen-publish-precheck",
+    "full_name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 88,
+    "language": "Python",
+    "updated_at": "2026-07-16T09:08:56Z"
   },
   {
     "name": "claude-arbitrage-bot",
@@ -60,25 +69,16 @@
     "url": "https://github.com/alexafinode/claude-arbitrage-bot",
     "stars": 81,
     "language": "Solidity",
-    "updated_at": "2026-07-16T06:15:02Z"
-  },
-  {
-    "name": "yuwen-publish-precheck",
-    "full_name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 69,
-    "language": "Python",
-    "updated_at": "2026-07-16T05:43:22Z"
+    "updated_at": "2026-07-16T09:37:31Z"
   },
   {
     "name": "generative-media-skills",
     "full_name": "calesthio/generative-media-skills",
     "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
     "url": "https://github.com/calesthio/generative-media-skills",
-    "stars": 67,
+    "stars": 68,
     "language": "Python",
-    "updated_at": "2026-07-16T04:08:52Z"
+    "updated_at": "2026-07-16T07:18:35Z"
   },
   {
     "name": "100-days-of-ai",

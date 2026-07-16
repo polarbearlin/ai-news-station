@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-16 06:17:42",
+  "generated_at": "2026-07-16 10:08:15",
   "news": [
-    {
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-      "source": "Hacker News",
-      "time": "2026-07-16 04:31",
-      "score": 32,
-      "comments": 18
-    },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "source": "Hacker News",
       "time": "2026-07-15 21:16",
-      "score": 149,
-      "comments": 54
+      "score": 200,
+      "comments": 71
     }
   ]
 }
