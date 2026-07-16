@@ -4,9 +4,9 @@
     "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 673,
+    "stars": 683,
     "language": "Python",
-    "updated_at": "2026-07-16T13:29:48Z"
+    "updated_at": "2026-07-16T16:36:12Z"
   },
   {
     "name": "quantumbyte",
@@ -22,27 +22,36 @@
     "full_name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 194,
+    "stars": 195,
     "language": "TypeScript",
-    "updated_at": "2026-07-16T12:57:55Z"
+    "updated_at": "2026-07-16T16:14:29Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 163,
+    "stars": 165,
     "language": "Python",
-    "updated_at": "2026-07-16T12:06:14Z"
+    "updated_at": "2026-07-16T16:44:04Z"
   },
   {
     "name": "vox-director",
     "full_name": "Alisa0808/vox-director",
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 159,
+    "stars": 162,
     "language": "Python",
-    "updated_at": "2026-07-16T13:17:36Z"
+    "updated_at": "2026-07-16T16:09:29Z"
+  },
+  {
+    "name": "yuwen-publish-precheck",
+    "full_name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 105,
+    "language": "Python",
+    "updated_at": "2026-07-16T16:47:05Z"
   },
   {
     "name": "Guido",
@@ -54,39 +63,30 @@
     "updated_at": "2026-07-16T07:33:44Z"
   },
   {
-    "name": "yuwen-publish-precheck",
-    "full_name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 95,
-    "language": "Python",
-    "updated_at": "2026-07-16T13:44:42Z"
-  },
-  {
     "name": "claude-arbitrage-bot",
     "full_name": "alexafinode/claude-arbitrage-bot",
     "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
     "url": "https://github.com/alexafinode/claude-arbitrage-bot",
     "stars": 81,
     "language": "Solidity",
-    "updated_at": "2026-07-16T13:48:53Z"
+    "updated_at": "2026-07-16T17:12:24Z"
   },
   {
     "name": "generative-media-skills",
     "full_name": "calesthio/generative-media-skills",
     "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
     "url": "https://github.com/calesthio/generative-media-skills",
-    "stars": 70,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-07-16T13:08:46Z"
+    "updated_at": "2026-07-16T15:01:05Z"
   },
   {
     "name": "100-days-of-ai",
     "full_name": "amitshekhariitbhu/100-days-of-ai",
     "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
     "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 53,
+    "stars": 54,
     "language": null,
-    "updated_at": "2026-07-14T13:55:15Z"
+    "updated_at": "2026-07-16T17:06:49Z"
   }
 ]

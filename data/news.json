@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-16 13:49:49",
+  "generated_at": "2026-07-16 17:15:16",
   "news": [
     {
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "source": "Hacker News",
-      "time": "2026-07-16 12:02",
-      "score": 179,
-      "comments": 124
-    },
-    {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "url": "https://joinedanthropic.com",
-      "source": "Hacker News",
-      "time": "2026-07-16 08:03",
-      "score": 148,
-      "comments": 62
+      "time": "2026-07-16 16:41",
+      "score": 25,
+      "comments": 4
     }
   ]
 }
