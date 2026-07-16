@@ -4,89 +4,89 @@
     "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 624,
+    "stars": 642,
     "language": "Python",
-    "updated_at": "2026-07-15T20:19:03Z"
+    "updated_at": "2026-07-16T02:30:50Z"
   },
   {
     "name": "quantumbyte",
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 308,
+    "stars": 311,
     "language": "Python",
-    "updated_at": "2026-07-15T15:12:39Z"
+    "updated_at": "2026-07-16T00:06:58Z"
   },
   {
     "name": "agent-pulse",
     "full_name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 186,
+    "stars": 189,
     "language": "TypeScript",
-    "updated_at": "2026-07-15T18:17:35Z"
-  },
-  {
-    "name": "fintech-advisor",
-    "full_name": "KORAYTEACHER/fintech-advisor",
-    "description": "ai fintech financial advisor for your portfolio",
-    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-    "stars": 163,
-    "language": "TypeScript",
-    "updated_at": "2026-07-15T19:23:21Z"
-  },
-  {
-    "name": "ai-market-pulse",
-    "full_name": "SilentFleetKK/ai-market-pulse",
-    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "stars": 161,
-    "language": "Python",
-    "updated_at": "2026-07-15T09:29:02Z"
-  },
-  {
-    "name": "vox-director",
-    "full_name": "Alisa0808/vox-director",
-    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-    "url": "https://github.com/Alisa0808/vox-director",
-    "stars": 156,
-    "language": "Python",
-    "updated_at": "2026-07-15T20:24:48Z"
+    "updated_at": "2026-07-16T00:05:42Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 154,
+    "stars": 158,
     "language": "Python",
-    "updated_at": "2026-07-15T20:57:30Z"
+    "updated_at": "2026-07-16T01:46:31Z"
   },
   {
-    "name": "local-vuln-research-pipeline",
-    "full_name": "theteatoast/local-vuln-research-pipeline",
-    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "stars": 153,
+    "name": "vox-director",
+    "full_name": "Alisa0808/vox-director",
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "url": "https://github.com/Alisa0808/vox-director",
+    "stars": 157,
     "language": "Python",
-    "updated_at": "2026-07-15T19:28:44Z"
+    "updated_at": "2026-07-16T02:14:23Z"
   },
   {
-    "name": "ai-openclaw-cli",
-    "full_name": "wikidjon/ai-openclaw-cli",
-    "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-    "url": "https://github.com/wikidjon/ai-openclaw-cli",
-    "stars": 135,
-    "language": "TypeScript",
-    "updated_at": "2026-07-14T11:19:11Z"
+    "name": "Guido",
+    "full_name": "youxiandechilun/Guido",
+    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
+    "url": "https://github.com/youxiandechilun/Guido",
+    "stars": 102,
+    "language": "Java",
+    "updated_at": "2026-07-14T23:53:28Z"
   },
   {
-    "name": "photoshop-ai-smart-enhance",
-    "full_name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-    "stars": 106,
-    "language": "HTML",
-    "updated_at": "2026-07-15T20:09:02Z"
+    "name": "claude-arbitrage-bot",
+    "full_name": "alexafinode/claude-arbitrage-bot",
+    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+    "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+    "stars": 81,
+    "language": "Solidity",
+    "updated_at": "2026-07-16T02:32:13Z"
+  },
+  {
+    "name": "generative-media-skills",
+    "full_name": "calesthio/generative-media-skills",
+    "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+    "url": "https://github.com/calesthio/generative-media-skills",
+    "stars": 66,
+    "language": "Python",
+    "updated_at": "2026-07-15T18:43:59Z"
+  },
+  {
+    "name": "100-days-of-ai",
+    "full_name": "amitshekhariitbhu/100-days-of-ai",
+    "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+    "stars": 53,
+    "language": null,
+    "updated_at": "2026-07-14T13:55:15Z"
+  },
+  {
+    "name": "yuwen-publish-precheck",
+    "full_name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 50,
+    "language": "Python",
+    "updated_at": "2026-07-16T02:33:05Z"
   }
 ]
