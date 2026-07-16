@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-16 17:15:16",
+  "generated_at": "2026-07-16 20:58:02",
   "news": [
     {
-      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "source": "Hacker News",
       "time": "2026-07-16 16:41",
-      "score": 25,
-      "comments": 4
+      "score": 107,
+      "comments": 78
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "source": "Hacker News",
+      "time": "2026-07-16 20:18",
+      "score": 8,
+      "comments": 0
     }
   ]
 }

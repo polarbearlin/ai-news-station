@@ -4,18 +4,18 @@
     "full_name": "William-Lu-stack/Flawless",
     "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "url": "https://github.com/William-Lu-stack/Flawless",
-    "stars": 683,
+    "stars": 689,
     "language": "Python",
-    "updated_at": "2026-07-16T16:36:12Z"
+    "updated_at": "2026-07-16T19:15:46Z"
   },
   {
     "name": "quantumbyte",
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 314,
+    "stars": 315,
     "language": "Python",
-    "updated_at": "2026-07-16T13:41:37Z"
+    "updated_at": "2026-07-16T20:50:37Z"
   },
   {
     "name": "agent-pulse",
@@ -31,9 +31,18 @@
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 165,
+    "stars": 168,
     "language": "Python",
-    "updated_at": "2026-07-16T16:44:04Z"
+    "updated_at": "2026-07-16T20:08:39Z"
+  },
+  {
+    "name": "claude-arbitrage-bot",
+    "full_name": "alexafinode/claude-arbitrage-bot",
+    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+    "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+    "stars": 164,
+    "language": "Solidity",
+    "updated_at": "2026-07-16T20:57:49Z"
   },
   {
     "name": "vox-director",
@@ -49,9 +58,9 @@
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 105,
+    "stars": 112,
     "language": "Python",
-    "updated_at": "2026-07-16T16:47:05Z"
+    "updated_at": "2026-07-16T20:54:13Z"
   },
   {
     "name": "Guido",
@@ -61,15 +70,6 @@
     "stars": 104,
     "language": "Java",
     "updated_at": "2026-07-16T07:33:44Z"
-  },
-  {
-    "name": "claude-arbitrage-bot",
-    "full_name": "alexafinode/claude-arbitrage-bot",
-    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
-    "url": "https://github.com/alexafinode/claude-arbitrage-bot",
-    "stars": 81,
-    "language": "Solidity",
-    "updated_at": "2026-07-16T17:12:24Z"
   },
   {
     "name": "generative-media-skills",
@@ -85,8 +85,8 @@
     "full_name": "amitshekhariitbhu/100-days-of-ai",
     "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
     "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 54,
+    "stars": 56,
     "language": null,
-    "updated_at": "2026-07-16T17:06:49Z"
+    "updated_at": "2026-07-16T18:59:40Z"
   }
 ]
