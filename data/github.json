@@ -4,27 +4,27 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 316,
+    "stars": 317,
     "language": "Python",
-    "updated_at": "2026-07-16T21:59:32Z"
+    "updated_at": "2026-07-17T02:48:35Z"
   },
   {
     "name": "agent-pulse",
     "full_name": "barretlee/agent-pulse",
     "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
     "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 197,
+    "stars": 201,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T01:49:03Z"
+    "updated_at": "2026-07-17T05:53:47Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 170,
+    "stars": 171,
     "language": "Python",
-    "updated_at": "2026-07-17T01:22:01Z"
+    "updated_at": "2026-07-17T05:25:31Z"
   },
   {
     "name": "claude-arbitrage-bot",
@@ -33,34 +33,34 @@
     "url": "https://github.com/alexafinode/claude-arbitrage-bot",
     "stars": 164,
     "language": "Solidity",
-    "updated_at": "2026-07-17T02:37:26Z"
+    "updated_at": "2026-07-17T06:14:06Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 127,
+    "stars": 142,
     "language": "Python",
-    "updated_at": "2026-07-17T02:36:19Z"
+    "updated_at": "2026-07-17T06:13:57Z"
   },
   {
     "name": "Guido",
     "full_name": "youxiandechilun/Guido",
     "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
     "url": "https://github.com/youxiandechilun/Guido",
-    "stars": 104,
+    "stars": 105,
     "language": "Java",
-    "updated_at": "2026-07-16T07:33:44Z"
+    "updated_at": "2026-07-17T03:38:27Z"
   },
   {
     "name": "generative-media-skills",
     "full_name": "calesthio/generative-media-skills",
     "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
     "url": "https://github.com/calesthio/generative-media-skills",
-    "stars": 73,
+    "stars": 75,
     "language": "Python",
-    "updated_at": "2026-07-17T02:12:48Z"
+    "updated_at": "2026-07-17T04:07:38Z"
   },
   {
     "name": "mcptrustchecker",
@@ -76,17 +76,17 @@
     "full_name": "opencoredev/sandbox-sdk",
     "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
     "url": "https://github.com/opencoredev/sandbox-sdk",
-    "stars": 44,
+    "stars": 46,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T01:06:23Z"
+    "updated_at": "2026-07-17T03:01:38Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T02:30:15Z"
+    "updated_at": "2026-07-17T06:12:03Z"
   }
 ]

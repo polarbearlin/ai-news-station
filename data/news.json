@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-17 02:38:21",
+  "generated_at": "2026-07-17 06:15:45",
   "news": [
     {
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "source": "Hacker News",
       "time": "2026-07-16 20:18",
-      "score": 167,
-      "comments": 64
+      "score": 208,
+      "comments": 73
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
       "source": "Hacker News",
       "time": "2026-07-16 20:03",
-      "score": 146,
-      "comments": 150
+      "score": 211,
+      "comments": 242
     }
   ]
 }
