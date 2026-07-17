@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-17 09:56:32",
+  "generated_at": "2026-07-17 13:28:20",
   "news": [
+    {
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "source": "Hacker News",
+      "time": "2026-07-17 11:30",
+      "score": 263,
+      "comments": 139
+    },
     {
       "title": "EEG shows brain can simultaneous encode two speech streams",
       "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
       "source": "Hacker News",
       "time": "2026-07-17 05:51",
-      "score": 88,
-      "comments": 48
+      "score": 164,
+      "comments": 95
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "source": "Hacker News",
-      "time": "2026-07-16 20:18",
-      "score": 251,
-      "comments": 89
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "source": "Hacker News",
-      "time": "2026-07-16 20:03",
-      "score": 272,
-      "comments": 373
+      "time": "2026-07-17 12:02",
+      "score": 70,
+      "comments": 40
     }
   ]
 }

@@ -4,9 +4,9 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 316,
+    "stars": 318,
     "language": "Python",
-    "updated_at": "2026-07-17T07:42:10Z"
+    "updated_at": "2026-07-17T13:14:19Z"
   },
   {
     "name": "agent-pulse",
@@ -15,25 +15,25 @@
     "url": "https://github.com/barretlee/agent-pulse",
     "stars": 202,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T08:54:40Z"
+    "updated_at": "2026-07-17T12:49:57Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 171,
+    "stars": 172,
     "language": "Python",
-    "updated_at": "2026-07-17T05:25:31Z"
+    "updated_at": "2026-07-17T12:17:48Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 162,
+    "stars": 171,
     "language": "Python",
-    "updated_at": "2026-07-17T09:36:20Z"
+    "updated_at": "2026-07-17T13:19:48Z"
   },
   {
     "name": "Guido",
@@ -45,48 +45,48 @@
     "updated_at": "2026-07-17T03:38:27Z"
   },
   {
+    "name": "Trading-Bot",
+    "full_name": "MIgHTy-alIeN/Trading-Bot",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "stars": 89,
+    "language": "Solidity",
+    "updated_at": "2026-07-17T13:28:11Z"
+  },
+  {
     "name": "generative-media-skills",
     "full_name": "calesthio/generative-media-skills",
     "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
     "url": "https://github.com/calesthio/generative-media-skills",
-    "stars": 75,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-07-17T04:07:38Z"
-  },
-  {
-    "name": "mcptrustchecker",
-    "full_name": "illiahaidar/mcptrustchecker",
-    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-    "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 48,
-    "language": "TypeScript",
-    "updated_at": "2026-07-17T09:11:07Z"
-  },
-  {
-    "name": "sandbox-sdk",
-    "full_name": "opencoredev/sandbox-sdk",
-    "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
-    "url": "https://github.com/opencoredev/sandbox-sdk",
-    "stars": 47,
-    "language": "TypeScript",
-    "updated_at": "2026-07-17T09:17:38Z"
+    "updated_at": "2026-07-17T11:33:52Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 46,
+    "stars": 51,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T09:30:34Z"
+    "updated_at": "2026-07-17T13:08:08Z"
   },
   {
-    "name": "awesome-gemini-cli-subagents",
-    "full_name": "JosephHampton/awesome-gemini-cli-subagents",
-    "description": "A curated collection of 51 production-ready subagents for Gemini CLI. Drop them into .gemini/agents/ and let Gemini delegate the right specialist.",
-    "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
-    "stars": 41,
-    "language": "Shell",
-    "updated_at": "2026-07-16T15:16:17Z"
+    "name": "mcptrustchecker",
+    "full_name": "illiahaidar/mcptrustchecker",
+    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+    "url": "https://github.com/illiahaidar/mcptrustchecker",
+    "stars": 49,
+    "language": "TypeScript",
+    "updated_at": "2026-07-17T12:33:01Z"
+  },
+  {
+    "name": "sandbox-sdk",
+    "full_name": "opencoredev/sandbox-sdk",
+    "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
+    "url": "https://github.com/opencoredev/sandbox-sdk",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-07-17T11:44:01Z"
   }
 ]
