@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-07-17 13:28:20",
+  "generated_at": "2026-07-17 17:11:28",
   "news": [
     {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
       "source": "Hacker News",
-      "time": "2026-07-17 11:30",
-      "score": 263,
-      "comments": 139
+      "time": "2026-07-17 14:31",
+      "score": 176,
+      "comments": 117
     },
     {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
       "source": "Hacker News",
-      "time": "2026-07-17 05:51",
-      "score": 164,
-      "comments": 95
-    },
-    {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "Hacker News",
-      "time": "2026-07-17 12:02",
-      "score": 70,
-      "comments": 40
+      "time": "2026-07-17 14:21",
+      "score": 49,
+      "comments": 0
     }
   ]
 }
