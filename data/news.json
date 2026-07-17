@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-17 17:11:28",
+  "generated_at": "2026-07-17 20:55:10",
   "news": [
     {
-      "title": "Mozilla: The state of open source AI",
+      "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
       "source": "Hacker News",
       "time": "2026-07-17 14:31",
-      "score": 176,
-      "comments": 117
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "source": "Hacker News",
-      "time": "2026-07-17 14:21",
-      "score": 49,
-      "comments": 0
+      "score": 313,
+      "comments": 216
     }
   ]
 }

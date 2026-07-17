@@ -4,9 +4,9 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 321,
+    "stars": 323,
     "language": "Python",
-    "updated_at": "2026-07-17T16:48:46Z"
+    "updated_at": "2026-07-17T18:55:30Z"
   },
   {
     "name": "agent-pulse",
@@ -22,18 +22,27 @@
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 189,
+    "stars": 200,
     "language": "Python",
-    "updated_at": "2026-07-17T17:04:00Z"
+    "updated_at": "2026-07-17T20:49:32Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 172,
+    "stars": 173,
     "language": "Python",
-    "updated_at": "2026-07-17T12:17:48Z"
+    "updated_at": "2026-07-17T18:59:57Z"
+  },
+  {
+    "name": "penecho",
+    "full_name": "erickong/penecho",
+    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+    "url": "https://github.com/erickong/penecho",
+    "stars": 108,
+    "language": "JavaScript",
+    "updated_at": "2026-07-17T20:50:17Z"
   },
   {
     "name": "Guido",
@@ -49,9 +58,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 89,
+    "stars": 104,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T17:07:37Z"
+    "updated_at": "2026-07-17T19:18:25Z"
+  },
+  {
+    "name": "NexBench",
+    "full_name": "Nexis-AI/NexBench",
+    "description": "NEXBENCH measures what an autonomous agent can actually do on-chain — execute transactions, route swaps, bridge funds, manage DeFi positions, research tokens, catch drainers, reconstruct portfolios, and run treasury governance — across 214 tasks in 8 categories, each run 5 times against deterministic forked-mainnet environments.",
+    "url": "https://github.com/Nexis-AI/NexBench",
+    "stars": 93,
+    "language": "TypeScript",
+    "updated_at": "2026-07-17T20:51:03Z"
   },
   {
     "name": "Trading-Bot",
@@ -60,7 +78,7 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 89,
     "language": "Solidity",
-    "updated_at": "2026-07-17T17:09:58Z"
+    "updated_at": "2026-07-17T20:55:09Z"
   },
   {
     "name": "generative-media-skills",
@@ -70,23 +88,5 @@
     "stars": 78,
     "language": "Python",
     "updated_at": "2026-07-17T16:09:52Z"
-  },
-  {
-    "name": "penecho",
-    "full_name": "erickong/penecho",
-    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-    "url": "https://github.com/erickong/penecho",
-    "stars": 58,
-    "language": "JavaScript",
-    "updated_at": "2026-07-17T17:10:41Z"
-  },
-  {
-    "name": "OpenMicro",
-    "full_name": "stephenleo/OpenMicro",
-    "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
-    "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 54,
-    "language": "TypeScript",
-    "updated_at": "2026-07-17T17:10:01Z"
   }
 ]
