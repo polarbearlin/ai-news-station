@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-16 20:58:02",
+  "generated_at": "2026-07-17 02:38:21",
   "news": [
-    {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "source": "Hacker News",
-      "time": "2026-07-16 16:41",
-      "score": 107,
-      "comments": 78
-    },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "source": "Hacker News",
       "time": "2026-07-16 20:18",
-      "score": 8,
-      "comments": 0
+      "score": 167,
+      "comments": 64
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "source": "Hacker News",
+      "time": "2026-07-16 20:03",
+      "score": 146,
+      "comments": 150
     }
   ]
 }
