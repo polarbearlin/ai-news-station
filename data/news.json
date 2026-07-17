@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-17 06:15:45",
+  "generated_at": "2026-07-17 09:56:32",
   "news": [
+    {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "source": "Hacker News",
+      "time": "2026-07-17 05:51",
+      "score": 88,
+      "comments": 48
+    },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "source": "Hacker News",
       "time": "2026-07-16 20:18",
-      "score": 208,
-      "comments": 73
+      "score": 251,
+      "comments": 89
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
       "source": "Hacker News",
       "time": "2026-07-16 20:03",
-      "score": 211,
-      "comments": 242
+      "score": 272,
+      "comments": 373
     }
   ]
 }
