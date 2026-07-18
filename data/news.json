@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-18 16:57:33",
+  "generated_at": "2026-07-18 20:47:35",
   "news": [
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "source": "Hacker News",
       "time": "2026-07-18 13:00",
-      "score": 271,
-      "comments": 147
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "source": "Hacker News",
-      "time": "2026-07-18 11:00",
-      "score": 138,
-      "comments": 60
+      "score": 430,
+      "comments": 260
     }
   ]
 }

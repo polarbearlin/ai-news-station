@@ -15,7 +15,7 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 299,
     "language": "Solidity",
-    "updated_at": "2026-07-18T16:57:01Z"
+    "updated_at": "2026-07-18T20:47:31Z"
   },
   {
     "name": "yuwen-publish-precheck",
@@ -31,36 +31,36 @@
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 184,
+    "stars": 197,
     "language": "JavaScript",
-    "updated_at": "2026-07-18T16:45:36Z"
+    "updated_at": "2026-07-18T20:38:47Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 176,
+    "stars": 178,
     "language": "Python",
-    "updated_at": "2026-07-18T16:00:12Z"
+    "updated_at": "2026-07-18T17:41:30Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 135,
+    "stars": 136,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T15:48:14Z"
+    "updated_at": "2026-07-18T20:22:45Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 74,
+    "stars": 80,
     "language": null,
-    "updated_at": "2026-07-18T16:53:57Z"
+    "updated_at": "2026-07-18T20:44:49Z"
   },
   {
     "name": "OpenMicro",
