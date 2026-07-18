@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-17 20:55:10",
+  "generated_at": "2026-07-18 02:29:26",
   "news": [
     {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "source": "Hacker News",
-      "time": "2026-07-17 14:31",
-      "score": 313,
-      "comments": 216
+      "time": "2026-07-17 22:26",
+      "score": 304,
+      "comments": 188
+    },
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "source": "Hacker News",
+      "time": "2026-07-18 00:40",
+      "score": 34,
+      "comments": 20
     }
   ]
 }

@@ -4,27 +4,27 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 323,
+    "stars": 324,
     "language": "Python",
-    "updated_at": "2026-07-17T18:55:30Z"
-  },
-  {
-    "name": "agent-pulse",
-    "full_name": "barretlee/agent-pulse",
-    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-    "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 204,
-    "language": "TypeScript",
-    "updated_at": "2026-07-17T17:03:46Z"
+    "updated_at": "2026-07-17T23:17:00Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 200,
+    "stars": 217,
     "language": "Python",
-    "updated_at": "2026-07-17T20:49:32Z"
+    "updated_at": "2026-07-18T02:18:38Z"
+  },
+  {
+    "name": "Trading-Bot",
+    "full_name": "MIgHTy-alIeN/Trading-Bot",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "stars": 179,
+    "language": "Solidity",
+    "updated_at": "2026-07-18T02:28:20Z"
   },
   {
     "name": "J-Wash",
@@ -40,53 +40,53 @@
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 108,
+    "stars": 146,
     "language": "JavaScript",
-    "updated_at": "2026-07-17T20:50:17Z"
-  },
-  {
-    "name": "Guido",
-    "full_name": "youxiandechilun/Guido",
-    "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
-    "url": "https://github.com/youxiandechilun/Guido",
-    "stars": 105,
-    "language": "Java",
-    "updated_at": "2026-07-17T03:38:27Z"
+    "updated_at": "2026-07-18T02:22:19Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 104,
+    "stars": 105,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T19:18:25Z"
+    "updated_at": "2026-07-18T02:06:49Z"
   },
   {
-    "name": "NexBench",
-    "full_name": "Nexis-AI/NexBench",
-    "description": "NEXBENCH measures what an autonomous agent can actually do on-chain — execute transactions, route swaps, bridge funds, manage DeFi positions, research tokens, catch drainers, reconstruct portfolios, and run treasury governance — across 214 tasks in 8 categories, each run 5 times against deterministic forked-mainnet environments.",
-    "url": "https://github.com/Nexis-AI/NexBench",
-    "stars": 93,
+    "name": "OpenMicro",
+    "full_name": "stephenleo/OpenMicro",
+    "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
+    "url": "https://github.com/stephenleo/OpenMicro",
+    "stars": 58,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T20:51:03Z"
+    "updated_at": "2026-07-17T22:46:45Z"
   },
   {
-    "name": "Trading-Bot",
-    "full_name": "MIgHTy-alIeN/Trading-Bot",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 89,
-    "language": "Solidity",
-    "updated_at": "2026-07-17T20:55:09Z"
+    "name": "restaurant-digitalization-blueprint",
+    "full_name": "lofty14/restaurant-digitalization-blueprint",
+    "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
+    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
+    "stars": 56,
+    "language": null,
+    "updated_at": "2026-07-18T02:14:57Z"
   },
   {
-    "name": "generative-media-skills",
-    "full_name": "calesthio/generative-media-skills",
-    "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
-    "url": "https://github.com/calesthio/generative-media-skills",
-    "stars": 78,
-    "language": "Python",
-    "updated_at": "2026-07-17T16:09:52Z"
+    "name": "sandbox-sdk",
+    "full_name": "opencoredev/sandbox-sdk",
+    "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
+    "url": "https://github.com/opencoredev/sandbox-sdk",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-07-17T19:20:56Z"
+  },
+  {
+    "name": "mcptrustchecker",
+    "full_name": "illiahaidar/mcptrustchecker",
+    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+    "url": "https://github.com/illiahaidar/mcptrustchecker",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-07-18T01:02:02Z"
   }
 ]
