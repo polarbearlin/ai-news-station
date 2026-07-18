@@ -4,72 +4,72 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 324,
+    "stars": 325,
     "language": "Python",
-    "updated_at": "2026-07-17T23:17:00Z"
+    "updated_at": "2026-07-18T10:51:18Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 234,
+    "stars": 242,
     "language": "Python",
-    "updated_at": "2026-07-18T09:20:56Z"
+    "updated_at": "2026-07-18T12:35:50Z"
   },
   {
     "name": "Trading-Bot",
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 180,
+    "stars": 239,
     "language": "Solidity",
-    "updated_at": "2026-07-18T09:23:59Z"
-  },
-  {
-    "name": "J-Wash",
-    "full_name": "Extraltodeus/J-Wash",
-    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-    "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 173,
-    "language": "Python",
-    "updated_at": "2026-07-17T18:59:57Z"
+    "updated_at": "2026-07-18T13:13:52Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 168,
+    "stars": 175,
     "language": "JavaScript",
-    "updated_at": "2026-07-18T09:04:01Z"
+    "updated_at": "2026-07-18T12:15:03Z"
+  },
+  {
+    "name": "J-Wash",
+    "full_name": "Extraltodeus/J-Wash",
+    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+    "url": "https://github.com/Extraltodeus/J-Wash",
+    "stars": 174,
+    "language": "Python",
+    "updated_at": "2026-07-18T09:35:57Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 109,
+    "stars": 110,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T09:21:11Z"
+    "updated_at": "2026-07-18T09:47:42Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 65,
+    "stars": 70,
     "language": null,
-    "updated_at": "2026-07-18T09:19:14Z"
+    "updated_at": "2026-07-18T13:00:08Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 62,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T07:44:44Z"
+    "updated_at": "2026-07-18T12:24:02Z"
   },
   {
     "name": "codesteward",
