@@ -4,72 +4,72 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 325,
+    "stars": 326,
     "language": "Python",
-    "updated_at": "2026-07-18T10:51:18Z"
-  },
-  {
-    "name": "yuwen-publish-precheck",
-    "full_name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 242,
-    "language": "Python",
-    "updated_at": "2026-07-18T12:35:50Z"
+    "updated_at": "2026-07-18T14:41:17Z"
   },
   {
     "name": "Trading-Bot",
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 239,
+    "stars": 299,
     "language": "Solidity",
-    "updated_at": "2026-07-18T13:13:52Z"
+    "updated_at": "2026-07-18T16:57:01Z"
+  },
+  {
+    "name": "yuwen-publish-precheck",
+    "full_name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "stars": 243,
+    "language": "Python",
+    "updated_at": "2026-07-18T14:45:00Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 175,
+    "stars": 184,
     "language": "JavaScript",
-    "updated_at": "2026-07-18T12:15:03Z"
+    "updated_at": "2026-07-18T16:45:36Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 174,
+    "stars": 176,
     "language": "Python",
-    "updated_at": "2026-07-18T09:35:57Z"
+    "updated_at": "2026-07-18T16:00:12Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 110,
+    "stars": 135,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T09:47:42Z"
+    "updated_at": "2026-07-18T15:48:14Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 70,
+    "stars": 74,
     "language": null,
-    "updated_at": "2026-07-18T13:00:08Z"
+    "updated_at": "2026-07-18T16:53:57Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 64,
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T12:24:02Z"
+    "updated_at": "2026-07-18T16:08:46Z"
   },
   {
     "name": "codesteward",
@@ -85,8 +85,8 @@
     "full_name": "opencoredev/sandbox-sdk",
     "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
     "url": "https://github.com/opencoredev/sandbox-sdk",
-    "stars": 52,
+    "stars": 53,
     "language": "TypeScript",
-    "updated_at": "2026-07-17T19:20:56Z"
+    "updated_at": "2026-07-18T13:35:40Z"
   }
 ]
