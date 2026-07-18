@@ -13,9 +13,9 @@
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 228,
+    "stars": 234,
     "language": "Python",
-    "updated_at": "2026-07-18T05:56:10Z"
+    "updated_at": "2026-07-18T09:20:56Z"
   },
   {
     "name": "Trading-Bot",
@@ -24,7 +24,7 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 180,
     "language": "Solidity",
-    "updated_at": "2026-07-18T06:03:59Z"
+    "updated_at": "2026-07-18T09:23:59Z"
   },
   {
     "name": "J-Wash",
@@ -40,36 +40,45 @@
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 155,
+    "stars": 168,
     "language": "JavaScript",
-    "updated_at": "2026-07-18T05:50:06Z"
+    "updated_at": "2026-07-18T09:04:01Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 107,
+    "stars": 109,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T04:58:17Z"
+    "updated_at": "2026-07-18T09:21:11Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 61,
+    "stars": 65,
     "language": null,
-    "updated_at": "2026-07-18T05:55:15Z"
+    "updated_at": "2026-07-18T09:19:14Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
+    "stars": 62,
+    "language": "TypeScript",
+    "updated_at": "2026-07-18T07:44:44Z"
+  },
+  {
+    "name": "codesteward",
+    "full_name": "Codesteward/codesteward",
+    "description": "Agentic code review with structural graph intelligence — PR gate + branch stewardship. Self-hosted. Apache-2.0.",
+    "url": "https://github.com/Codesteward/codesteward",
     "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T05:44:51Z"
+    "updated_at": "2026-07-18T08:56:34Z"
   },
   {
     "name": "sandbox-sdk",
@@ -79,14 +88,5 @@
     "stars": 52,
     "language": "TypeScript",
     "updated_at": "2026-07-17T19:20:56Z"
-  },
-  {
-    "name": "mcptrustchecker",
-    "full_name": "illiahaidar/mcptrustchecker",
-    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-    "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 52,
-    "language": "TypeScript",
-    "updated_at": "2026-07-18T01:02:02Z"
   }
 ]
