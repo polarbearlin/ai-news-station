@@ -6,7 +6,7 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 351,
     "language": "Solidity",
-    "updated_at": "2026-07-19T13:17:11Z"
+    "updated_at": "2026-07-19T16:57:29Z"
   },
   {
     "name": "quantumbyte",
@@ -22,54 +22,63 @@
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 283,
+    "stars": 306,
     "language": "Python",
-    "updated_at": "2026-07-19T13:09:28Z"
+    "updated_at": "2026-07-19T16:46:28Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 254,
+    "stars": 298,
     "language": "JavaScript",
-    "updated_at": "2026-07-19T12:47:35Z"
+    "updated_at": "2026-07-19T16:50:07Z"
   },
   {
     "name": "J-Wash",
     "full_name": "Extraltodeus/J-Wash",
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 180,
+    "stars": 181,
     "language": "Python",
-    "updated_at": "2026-07-19T06:58:09Z"
+    "updated_at": "2026-07-19T15:04:08Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 142,
+    "stars": 147,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T13:16:00Z"
+    "updated_at": "2026-07-19T16:09:36Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 98,
+    "stars": 100,
     "language": null,
-    "updated_at": "2026-07-19T12:38:30Z"
+    "updated_at": "2026-07-19T16:10:37Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 72,
+    "stars": 74,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T10:13:12Z"
+    "updated_at": "2026-07-19T14:44:56Z"
+  },
+  {
+    "name": "mcptrustchecker",
+    "full_name": "illiahaidar/mcptrustchecker",
+    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+    "url": "https://github.com/illiahaidar/mcptrustchecker",
+    "stars": 69,
+    "language": "TypeScript",
+    "updated_at": "2026-07-19T16:19:13Z"
   },
   {
     "name": "OpenMicro",
@@ -78,15 +87,6 @@
     "url": "https://github.com/stephenleo/OpenMicro",
     "stars": 68,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T12:47:56Z"
-  },
-  {
-    "name": "mcptrustchecker",
-    "full_name": "illiahaidar/mcptrustchecker",
-    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-    "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 65,
-    "language": "TypeScript",
-    "updated_at": "2026-07-19T11:02:40Z"
+    "updated_at": "2026-07-19T13:37:32Z"
   }
 ]

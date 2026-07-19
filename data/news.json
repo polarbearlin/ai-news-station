@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-19 13:17:11",
+  "generated_at": "2026-07-19 16:57:34",
   "news": [
     {
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "url": "https://github.com/openai/codex/pull/33972/files",
       "source": "Hacker News",
       "time": "2026-07-19 07:54",
-      "score": 69,
-      "comments": 30
+      "score": 173,
+      "comments": 88
     }
   ]
 }
