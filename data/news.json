@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-19 09:51:23",
+  "generated_at": "2026-07-19 13:17:11",
   "news": [
     {
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
       "source": "Hacker News",
-      "time": "2026-07-19 08:00",
-      "score": 12,
-      "comments": 28
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "source": "Hacker News",
-      "time": "2026-07-18 13:00",
-      "score": 562,
-      "comments": 359
+      "time": "2026-07-19 07:54",
+      "score": 69,
+      "comments": 30
     }
   ]
 }

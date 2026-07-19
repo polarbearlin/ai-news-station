@@ -4,9 +4,9 @@
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 349,
+    "stars": 351,
     "language": "Solidity",
-    "updated_at": "2026-07-19T09:50:43Z"
+    "updated_at": "2026-07-19T13:17:11Z"
   },
   {
     "name": "quantumbyte",
@@ -22,18 +22,18 @@
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 270,
+    "stars": 283,
     "language": "Python",
-    "updated_at": "2026-07-19T09:30:21Z"
+    "updated_at": "2026-07-19T13:09:28Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 236,
+    "stars": 254,
     "language": "JavaScript",
-    "updated_at": "2026-07-19T09:43:51Z"
+    "updated_at": "2026-07-19T12:47:35Z"
   },
   {
     "name": "J-Wash",
@@ -49,18 +49,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 139,
+    "stars": 142,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T07:46:02Z"
+    "updated_at": "2026-07-19T13:16:00Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 96,
+    "stars": 98,
     "language": null,
-    "updated_at": "2026-07-19T09:15:54Z"
+    "updated_at": "2026-07-19T12:38:30Z"
   },
   {
     "name": "awesome-OpenPrice",
@@ -69,24 +69,24 @@
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
     "stars": 72,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T07:55:07Z"
+    "updated_at": "2026-07-19T10:13:12Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 67,
+    "stars": 68,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T08:38:23Z"
+    "updated_at": "2026-07-19T12:47:56Z"
   },
   {
-    "name": "codesteward",
-    "full_name": "Codesteward/codesteward",
-    "description": "Agentic code review with structural graph intelligence — PR gate + branch stewardship. Self-hosted. Apache-2.0.",
-    "url": "https://github.com/Codesteward/codesteward",
-    "stars": 61,
+    "name": "mcptrustchecker",
+    "full_name": "illiahaidar/mcptrustchecker",
+    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+    "url": "https://github.com/illiahaidar/mcptrustchecker",
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T08:56:34Z"
+    "updated_at": "2026-07-19T11:02:40Z"
   }
 ]
