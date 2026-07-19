@@ -4,9 +4,9 @@
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
     "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 327,
+    "stars": 328,
     "language": "Python",
-    "updated_at": "2026-07-18T23:52:45Z"
+    "updated_at": "2026-07-19T03:55:49Z"
   },
   {
     "name": "Trading-Bot",
@@ -15,25 +15,25 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 300,
     "language": "Solidity",
-    "updated_at": "2026-07-19T02:42:32Z"
+    "updated_at": "2026-07-19T06:28:34Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 248,
+    "stars": 253,
     "language": "Python",
-    "updated_at": "2026-07-19T02:36:42Z"
+    "updated_at": "2026-07-19T05:58:55Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 214,
+    "stars": 226,
     "language": "JavaScript",
-    "updated_at": "2026-07-19T02:31:45Z"
+    "updated_at": "2026-07-19T06:18:57Z"
   },
   {
     "name": "J-Wash",
@@ -58,18 +58,27 @@
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 88,
+    "stars": 92,
     "language": null,
-    "updated_at": "2026-07-19T02:32:44Z"
+    "updated_at": "2026-07-19T06:17:31Z"
+  },
+  {
+    "name": "awesome-OpenPrice",
+    "full_name": "bytedoger/awesome-OpenPrice",
+    "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
+    "url": "https://github.com/bytedoger/awesome-OpenPrice",
+    "stars": 71,
+    "language": "TypeScript",
+    "updated_at": "2026-07-19T06:24:38Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 65,
+    "stars": 66,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T01:26:15Z"
+    "updated_at": "2026-07-19T03:21:18Z"
   },
   {
     "name": "codesteward",
@@ -79,14 +88,5 @@
     "stars": 61,
     "language": "TypeScript",
     "updated_at": "2026-07-18T08:56:34Z"
-  },
-  {
-    "name": "sandbox-sdk",
-    "full_name": "opencoredev/sandbox-sdk",
-    "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
-    "url": "https://github.com/opencoredev/sandbox-sdk",
-    "stars": 53,
-    "language": "TypeScript",
-    "updated_at": "2026-07-18T13:35:40Z"
   }
 ]
