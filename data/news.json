@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-20 06:45:28",
+  "generated_at": "2026-07-20 10:51:40",
   "news": [
     {
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "source": "Hacker News",
-      "time": "2026-07-20 04:19",
-      "score": 67,
-      "comments": 19
+      "time": "2026-07-20 08:13",
+      "score": 113,
+      "comments": 57
+    },
+    {
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "source": "Hacker News",
+      "time": "2026-07-15 08:35",
+      "score": 48,
+      "comments": 34
     },
     {
       "title": "Self-Powered Trailers Promise Leaner Freight Runs",
       "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
       "source": "Hacker News",
       "time": "2026-07-10 15:44",
-      "score": 11,
-      "comments": 4
+      "score": 42,
+      "comments": 24
     }
   ]
 }
