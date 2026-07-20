@@ -6,87 +6,87 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 351,
     "language": "Solidity",
-    "updated_at": "2026-07-19T20:48:27Z"
-  },
-  {
-    "name": "quantumbyte",
-    "full_name": "QuantumByteOSS/quantumbyte",
-    "description": "Open-source app builder engine — intent to working app",
-    "url": "https://github.com/QuantumByteOSS/quantumbyte",
-    "stars": 330,
-    "language": "Python",
-    "updated_at": "2026-07-19T18:14:02Z"
+    "updated_at": "2026-07-20T03:25:46Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 320,
+    "stars": 338,
     "language": "JavaScript",
-    "updated_at": "2026-07-19T20:42:58Z"
+    "updated_at": "2026-07-20T03:20:51Z"
+  },
+  {
+    "name": "quantumbyte",
+    "full_name": "QuantumByteOSS/quantumbyte",
+    "description": "Open-source app builder engine — intent to working app",
+    "url": "https://github.com/QuantumByteOSS/quantumbyte",
+    "stars": 331,
+    "language": "Python",
+    "updated_at": "2026-07-19T21:14:23Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 307,
+    "stars": 327,
     "language": "Python",
-    "updated_at": "2026-07-19T17:14:38Z"
-  },
-  {
-    "name": "J-Wash",
-    "full_name": "Extraltodeus/J-Wash",
-    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-    "url": "https://github.com/Extraltodeus/J-Wash",
-    "stars": 182,
-    "language": "Python",
-    "updated_at": "2026-07-19T18:30:55Z"
+    "updated_at": "2026-07-20T03:21:43Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 147,
+    "stars": 148,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T20:39:27Z"
+    "updated_at": "2026-07-20T02:17:49Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 102,
+    "stars": 105,
     "language": null,
-    "updated_at": "2026-07-19T20:16:54Z"
+    "updated_at": "2026-07-20T02:34:26Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 74,
+    "stars": 75,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T14:44:56Z"
+    "updated_at": "2026-07-20T02:58:01Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 71,
+    "stars": 73,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T17:57:58Z"
+    "updated_at": "2026-07-20T02:56:35Z"
   },
   {
-    "name": "mcptrustchecker",
-    "full_name": "illiahaidar/mcptrustchecker",
-    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-    "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 69,
+    "name": "codesteward",
+    "full_name": "Codesteward/codesteward",
+    "description": "Agentic code review with structural graph intelligence — PR gate + branch stewardship. Self-hosted. Apache-2.0.",
+    "url": "https://github.com/Codesteward/codesteward",
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-07-19T16:19:13Z"
+    "updated_at": "2026-07-18T08:56:34Z"
+  },
+  {
+    "name": "sandbox-sdk",
+    "full_name": "opencoredev/sandbox-sdk",
+    "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
+    "url": "https://github.com/opencoredev/sandbox-sdk",
+    "stars": 56,
+    "language": "TypeScript",
+    "updated_at": "2026-07-20T00:59:37Z"
   }
 ]
