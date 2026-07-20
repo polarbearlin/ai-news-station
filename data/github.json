@@ -4,18 +4,18 @@
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 420,
+    "stars": 467,
     "language": "Solidity",
-    "updated_at": "2026-07-20T18:01:33Z"
+    "updated_at": "2026-07-20T21:10:13Z"
   },
   {
     "name": "penecho",
     "full_name": "erickong/penecho",
     "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
     "url": "https://github.com/erickong/penecho",
-    "stars": 384,
+    "stars": 386,
     "language": "JavaScript",
-    "updated_at": "2026-07-20T17:35:03Z"
+    "updated_at": "2026-07-20T19:07:32Z"
   },
   {
     "name": "yuwen-publish-precheck",
@@ -40,18 +40,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 152,
+    "stars": 170,
     "language": "TypeScript",
-    "updated_at": "2026-07-20T17:36:39Z"
+    "updated_at": "2026-07-20T21:01:37Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 112,
+    "stars": 113,
     "language": null,
-    "updated_at": "2026-07-20T17:08:15Z"
+    "updated_at": "2026-07-20T20:27:24Z"
   },
   {
     "name": "awesome-OpenPrice",
@@ -67,9 +67,9 @@
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 77,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-07-20T15:48:58Z"
+    "updated_at": "2026-07-20T18:16:43Z"
   },
   {
     "name": "codesteward",

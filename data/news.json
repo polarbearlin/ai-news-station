@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-20 18:02:32",
+  "generated_at": "2026-07-20 21:11:41",
   "news": [
     {
       "title": "China's open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "source": "Hacker News",
       "time": "2026-07-20 14:21",
-      "score": 343,
-      "comments": 295
+      "score": 722,
+      "comments": 613
     },
     {
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
       "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
       "source": "Hacker News",
       "time": "2026-07-20 16:36",
-      "score": 79,
-      "comments": 54
+      "score": 171,
+      "comments": 127
     },
     {
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
       "source": "Hacker News",
       "time": "2026-07-20 10:30",
-      "score": 449,
-      "comments": 101
+      "score": 579,
+      "comments": 118
     }
   ]
 }
