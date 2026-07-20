@@ -1,30 +1,30 @@
 [
   {
-    "name": "penecho",
-    "full_name": "erickong/penecho",
-    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-    "url": "https://github.com/erickong/penecho",
-    "stars": 373,
-    "language": "JavaScript",
-    "updated_at": "2026-07-20T13:45:09Z"
-  },
-  {
     "name": "Trading-Bot",
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 351,
+    "stars": 420,
     "language": "Solidity",
-    "updated_at": "2026-07-20T14:02:26Z"
+    "updated_at": "2026-07-20T18:01:33Z"
+  },
+  {
+    "name": "penecho",
+    "full_name": "erickong/penecho",
+    "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+    "url": "https://github.com/erickong/penecho",
+    "stars": 384,
+    "language": "JavaScript",
+    "updated_at": "2026-07-20T17:35:03Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 347,
+    "stars": 349,
     "language": "Python",
-    "updated_at": "2026-07-20T13:29:27Z"
+    "updated_at": "2026-07-20T15:49:15Z"
   },
   {
     "name": "quantumbyte",
@@ -40,18 +40,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 149,
+    "stars": 152,
     "language": "TypeScript",
-    "updated_at": "2026-07-20T13:12:12Z"
+    "updated_at": "2026-07-20T17:36:39Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 110,
+    "stars": 112,
     "language": null,
-    "updated_at": "2026-07-20T12:57:19Z"
+    "updated_at": "2026-07-20T17:08:15Z"
   },
   {
     "name": "awesome-OpenPrice",
@@ -67,9 +67,9 @@
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 76,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-07-20T06:38:40Z"
+    "updated_at": "2026-07-20T15:48:58Z"
   },
   {
     "name": "codesteward",
@@ -78,7 +78,7 @@
     "url": "https://github.com/Codesteward/codesteward",
     "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-07-18T08:56:34Z"
+    "updated_at": "2026-07-20T17:53:14Z"
   },
   {
     "name": "memmy-agent",
