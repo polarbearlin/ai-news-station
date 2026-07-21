@@ -6,16 +6,16 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 467,
     "language": "Solidity",
-    "updated_at": "2026-07-21T02:40:08Z"
+    "updated_at": "2026-07-21T06:27:10Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 353,
+    "stars": 359,
     "language": "Python",
-    "updated_at": "2026-07-21T01:52:04Z"
+    "updated_at": "2026-07-21T05:14:53Z"
   },
   {
     "name": "klaatcode",
@@ -31,45 +31,45 @@
     "full_name": "lofty14/restaurant-digitalization-blueprint",
     "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
     "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 116,
+    "stars": 118,
     "language": null,
-    "updated_at": "2026-07-21T01:51:04Z"
-  },
-  {
-    "name": "awesome-OpenPrice",
-    "full_name": "bytedoger/awesome-OpenPrice",
-    "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
-    "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 80,
-    "language": "TypeScript",
-    "updated_at": "2026-07-21T01:55:54Z"
-  },
-  {
-    "name": "OpenMicro",
-    "full_name": "stephenleo/OpenMicro",
-    "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
-    "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 79,
-    "language": "TypeScript",
-    "updated_at": "2026-07-21T01:11:06Z"
-  },
-  {
-    "name": "memmy-agent",
-    "full_name": "MemTensor/memmy-agent",
-    "description": "One Agent. One memory. Shared by every AI. 🍙",
-    "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 59,
-    "language": "TypeScript",
-    "updated_at": "2026-07-20T10:37:16Z"
+    "updated_at": "2026-07-21T06:03:37Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 58,
+    "stars": 87,
     "language": "JavaScript",
-    "updated_at": "2026-07-21T02:27:55Z"
+    "updated_at": "2026-07-21T06:13:17Z"
+  },
+  {
+    "name": "awesome-OpenPrice",
+    "full_name": "bytedoger/awesome-OpenPrice",
+    "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
+    "url": "https://github.com/bytedoger/awesome-OpenPrice",
+    "stars": 82,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T06:07:02Z"
+  },
+  {
+    "name": "OpenMicro",
+    "full_name": "stephenleo/OpenMicro",
+    "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
+    "url": "https://github.com/stephenleo/OpenMicro",
+    "stars": 82,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T06:15:58Z"
+  },
+  {
+    "name": "memmy-agent",
+    "full_name": "MemTensor/memmy-agent",
+    "description": "One Agent. One memory. Shared by every AI. 🍙",
+    "url": "https://github.com/MemTensor/memmy-agent",
+    "stars": 61,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T03:31:46Z"
   },
   {
     "name": "sandbox-sdk",
@@ -87,6 +87,6 @@
     "url": "https://github.com/bbarit/bbarit-agent-oss",
     "stars": 39,
     "language": "Rust",
-    "updated_at": "2026-07-20T13:30:40Z"
+    "updated_at": "2026-07-21T03:21:23Z"
   }
 ]

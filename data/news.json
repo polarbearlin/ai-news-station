@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-21 02:41:11",
+  "generated_at": "2026-07-21 06:27:31",
   "news": [
     {
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "source": "Hacker News",
       "time": "2026-07-20 11:05",
-      "score": 319,
-      "comments": 203
+      "score": 505,
+      "comments": 343
     },
     {
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
       "source": "Hacker News",
-      "time": "2026-07-20 10:30",
-      "score": 728,
-      "comments": 142
+      "time": "2026-07-21 03:52",
+      "score": 22,
+      "comments": 13
+    },
+    {
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "source": "Hacker News",
+      "time": "2026-07-21 03:56",
+      "score": 157,
+      "comments": 43
     }
   ]
 }
