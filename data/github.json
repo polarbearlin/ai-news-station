@@ -6,70 +6,79 @@
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
     "stars": 467,
     "language": "Solidity",
-    "updated_at": "2026-07-21T06:27:10Z"
+    "updated_at": "2026-07-21T10:24:19Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 359,
+    "stars": 363,
     "language": "Python",
-    "updated_at": "2026-07-21T05:14:53Z"
+    "updated_at": "2026-07-21T09:46:51Z"
+  },
+  {
+    "name": "livetennisapi-mcp",
+    "full_name": "livetennisapi/livetennisapi-mcp",
+    "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+    "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+    "stars": 224,
+    "language": "JavaScript",
+    "updated_at": "2026-07-21T10:23:45Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 174,
+    "stars": 178,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T00:29:10Z"
-  },
-  {
-    "name": "restaurant-digitalization-blueprint",
-    "full_name": "lofty14/restaurant-digitalization-blueprint",
-    "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
-    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 118,
-    "language": null,
-    "updated_at": "2026-07-21T06:03:37Z"
-  },
-  {
-    "name": "open-kritt",
-    "full_name": "Kritt-ai/open-kritt",
-    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-    "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 87,
-    "language": "JavaScript",
-    "updated_at": "2026-07-21T06:13:17Z"
+    "updated_at": "2026-07-21T10:18:54Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 82,
+    "stars": 141,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T06:07:02Z"
+    "updated_at": "2026-07-21T09:48:38Z"
+  },
+  {
+    "name": "open-kritt",
+    "full_name": "Kritt-ai/open-kritt",
+    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "stars": 120,
+    "language": "JavaScript",
+    "updated_at": "2026-07-21T10:20:10Z"
+  },
+  {
+    "name": "restaurant-digitalization-blueprint",
+    "full_name": "lofty14/restaurant-digitalization-blueprint",
+    "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
+    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
+    "stars": 119,
+    "language": null,
+    "updated_at": "2026-07-21T08:05:05Z"
   },
   {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 82,
+    "stars": 83,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T06:15:58Z"
+    "updated_at": "2026-07-21T09:35:29Z"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 61,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T03:31:46Z"
+    "updated_at": "2026-07-21T09:18:54Z"
   },
   {
     "name": "sandbox-sdk",
@@ -79,14 +88,5 @@
     "stars": 56,
     "language": "TypeScript",
     "updated_at": "2026-07-20T00:59:37Z"
-  },
-  {
-    "name": "bbarit-agent-oss",
-    "full_name": "bbarit/bbarit-agent-oss",
-    "description": "Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI alternative (MIT).",
-    "url": "https://github.com/bbarit/bbarit-agent-oss",
-    "stars": 39,
-    "language": "Rust",
-    "updated_at": "2026-07-21T03:21:23Z"
   }
 ]
