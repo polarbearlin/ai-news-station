@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-21 13:49:32",
+  "generated_at": "2026-07-21 17:19:27",
   "news": [
     {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "source": "Hacker News",
       "time": "2026-07-21 08:44",
-      "score": 287,
-      "comments": 129
+      "score": 459,
+      "comments": 186
     },
     {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
       "source": "Hacker News",
-      "time": "2026-07-20 11:05",
-      "score": 778,
-      "comments": 590
+      "time": "2026-07-21 17:03",
+      "score": 4,
+      "comments": 0
     }
   ]
 }

@@ -1,21 +1,21 @@
 [
   {
-    "name": "Trading-Bot",
-    "full_name": "MIgHTy-alIeN/Trading-Bot",
+    "name": "MEV-Arbitrage-Bot",
+    "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 574,
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "stars": 634,
     "language": "Solidity",
-    "updated_at": "2026-07-21T13:49:20Z"
+    "updated_at": "2026-07-21T17:18:42Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 364,
+    "stars": 366,
     "language": "Python",
-    "updated_at": "2026-07-21T12:31:46Z"
+    "updated_at": "2026-07-21T15:16:54Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -27,31 +27,31 @@
     "updated_at": "2026-07-21T12:36:04Z"
   },
   {
-    "name": "klaatcode",
-    "full_name": "KlaatAI/klaatcode",
-    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-    "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 182,
-    "language": "TypeScript",
-    "updated_at": "2026-07-21T13:48:54Z"
-  },
-  {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 146,
+    "stars": 204,
     "language": "JavaScript",
-    "updated_at": "2026-07-21T13:45:38Z"
+    "updated_at": "2026-07-21T17:12:23Z"
+  },
+  {
+    "name": "klaatcode",
+    "full_name": "KlaatAI/klaatcode",
+    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+    "url": "https://github.com/KlaatAI/klaatcode",
+    "stars": 185,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T17:03:57Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 145,
+    "stars": 152,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T13:18:22Z"
+    "updated_at": "2026-07-21T16:39:50Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
@@ -63,6 +63,15 @@
     "updated_at": "2026-07-21T08:05:05Z"
   },
   {
+    "name": "penguin-harness",
+    "full_name": "Prism-Shadow/penguin-harness",
+    "description": "Efficient Self-Improving Harness for 1000+ Models",
+    "url": "https://github.com/Prism-Shadow/penguin-harness",
+    "stars": 91,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T17:05:54Z"
+  },
+  {
     "name": "OpenMicro",
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
@@ -72,21 +81,12 @@
     "updated_at": "2026-07-21T13:26:53Z"
   },
   {
-    "name": "penguin-harness",
-    "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Efficient Self-Improving Harness for 1000+ Models",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 78,
-    "language": "TypeScript",
-    "updated_at": "2026-07-21T13:48:30Z"
-  },
-  {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
     "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T09:18:54Z"
+    "updated_at": "2026-07-21T17:08:22Z"
   }
 ]
