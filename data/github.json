@@ -4,54 +4,54 @@
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "stars": 467,
+    "stars": 574,
     "language": "Solidity",
-    "updated_at": "2026-07-21T10:24:19Z"
+    "updated_at": "2026-07-21T13:49:20Z"
   },
   {
     "name": "yuwen-publish-precheck",
     "full_name": "yuwen-cool/yuwen-publish-precheck",
     "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
     "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-    "stars": 363,
+    "stars": 364,
     "language": "Python",
-    "updated_at": "2026-07-21T09:46:51Z"
+    "updated_at": "2026-07-21T12:31:46Z"
   },
   {
     "name": "livetennisapi-mcp",
     "full_name": "livetennisapi/livetennisapi-mcp",
     "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-    "stars": 224,
+    "stars": 249,
     "language": "JavaScript",
-    "updated_at": "2026-07-21T10:23:45Z"
+    "updated_at": "2026-07-21T12:36:04Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 178,
+    "stars": 182,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T10:18:54Z"
-  },
-  {
-    "name": "awesome-OpenPrice",
-    "full_name": "bytedoger/awesome-OpenPrice",
-    "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
-    "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 141,
-    "language": "TypeScript",
-    "updated_at": "2026-07-21T09:48:38Z"
+    "updated_at": "2026-07-21T13:48:54Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 120,
+    "stars": 146,
     "language": "JavaScript",
-    "updated_at": "2026-07-21T10:20:10Z"
+    "updated_at": "2026-07-21T13:45:38Z"
+  },
+  {
+    "name": "awesome-OpenPrice",
+    "full_name": "bytedoger/awesome-OpenPrice",
+    "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
+    "url": "https://github.com/bytedoger/awesome-OpenPrice",
+    "stars": 145,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T13:18:22Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
@@ -67,9 +67,18 @@
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 83,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T09:35:29Z"
+    "updated_at": "2026-07-21T13:26:53Z"
+  },
+  {
+    "name": "penguin-harness",
+    "full_name": "Prism-Shadow/penguin-harness",
+    "description": "Efficient Self-Improving Harness for 1000+ Models",
+    "url": "https://github.com/Prism-Shadow/penguin-harness",
+    "stars": 78,
+    "language": "TypeScript",
+    "updated_at": "2026-07-21T13:48:30Z"
   },
   {
     "name": "memmy-agent",
@@ -79,14 +88,5 @@
     "stars": 64,
     "language": "TypeScript",
     "updated_at": "2026-07-21T09:18:54Z"
-  },
-  {
-    "name": "sandbox-sdk",
-    "full_name": "opencoredev/sandbox-sdk",
-    "description": "A simple oss SDK for spinning sandboxes with one clean syntax.",
-    "url": "https://github.com/opencoredev/sandbox-sdk",
-    "stars": 56,
-    "language": "TypeScript",
-    "updated_at": "2026-07-20T00:59:37Z"
   }
 ]
