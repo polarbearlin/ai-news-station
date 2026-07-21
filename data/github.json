@@ -4,9 +4,9 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 634,
+    "stars": 741,
     "language": "Solidity",
-    "updated_at": "2026-07-21T17:18:42Z"
+    "updated_at": "2026-07-21T21:08:30Z"
   },
   {
     "name": "yuwen-publish-precheck",
@@ -31,18 +31,18 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 204,
+    "stars": 243,
     "language": "JavaScript",
-    "updated_at": "2026-07-21T17:12:23Z"
+    "updated_at": "2026-07-21T20:58:51Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 185,
+    "stars": 198,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T17:03:57Z"
+    "updated_at": "2026-07-21T20:35:11Z"
   },
   {
     "name": "awesome-OpenPrice",
@@ -87,6 +87,6 @@
     "url": "https://github.com/MemTensor/memmy-agent",
     "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T17:08:22Z"
+    "updated_at": "2026-07-21T17:46:46Z"
   }
 ]
