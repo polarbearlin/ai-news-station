@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-07-22 13:53:18",
+  "generated_at": "2026-07-22 17:18:50",
   "news": [
     {
-      "title": "OverpAId – Fire your CEO. Hire the future",
-      "url": "https://overpaid.lol",
+      "title": "Airbus Full Scale Foldable Wing Extensions",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
       "source": "Hacker News",
-      "time": "2026-07-22 10:49",
-      "score": 393,
-      "comments": 177
+      "time": "2026-07-22 14:57",
+      "score": 37,
+      "comments": 20
     },
     {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "url": "https://cruciblebench.ai/",
       "source": "Hacker News",
-      "time": "2026-07-22 12:49",
-      "score": 51,
-      "comments": 22
+      "time": "2026-07-22 15:39",
+      "score": 24,
+      "comments": 2
     },
     {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "url": "https://unlayer.com",
       "source": "Hacker News",
-      "time": "2026-07-21 20:09",
-      "score": 1372,
-      "comments": 923
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "source": "Hacker News",
-      "time": "2026-07-21 18:58",
-      "score": 928,
-      "comments": 718
+      "time": "2026-07-22 16:02",
+      "score": 11,
+      "comments": 7
     }
   ]
 }

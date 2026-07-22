@@ -4,18 +4,18 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 801,
+    "stars": 803,
     "language": "Solidity",
-    "updated_at": "2026-07-22T13:50:44Z"
+    "updated_at": "2026-07-22T17:18:18Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 297,
+    "stars": 306,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T13:36:11Z"
+    "updated_at": "2026-07-22T17:13:33Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -24,16 +24,16 @@
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
     "stars": 271,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T13:31:16Z"
+    "updated_at": "2026-07-22T16:12:36Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 227,
+    "stars": 237,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T13:51:51Z"
+    "updated_at": "2026-07-22T17:15:34Z"
   },
   {
     "name": "awesome-OpenPrice",
@@ -47,11 +47,11 @@
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Finetune AI Products for Just a Few Dollars",
+    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 126,
+    "stars": 127,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T13:47:54Z"
+    "updated_at": "2026-07-22T17:11:14Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
@@ -76,9 +76,9 @@
     "full_name": "stephenleo/OpenMicro",
     "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
     "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 87,
+    "stars": 90,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T13:07:14Z"
+    "updated_at": "2026-07-22T16:02:26Z"
   },
   {
     "name": "memmy-agent",
@@ -87,6 +87,6 @@
     "url": "https://github.com/MemTensor/memmy-agent",
     "stars": 68,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T07:48:34Z"
+    "updated_at": "2026-07-22T16:12:23Z"
   }
 ]
