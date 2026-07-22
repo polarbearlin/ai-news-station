@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-07-22 10:24:35",
+  "generated_at": "2026-07-22 13:53:18",
   "news": [
+    {
+      "title": "OverpAId – Fire your CEO. Hire the future",
+      "url": "https://overpaid.lol",
+      "source": "Hacker News",
+      "time": "2026-07-22 10:49",
+      "score": 393,
+      "comments": 177
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "source": "Hacker News",
+      "time": "2026-07-22 12:49",
+      "score": 51,
+      "comments": 22
+    },
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "source": "Hacker News",
       "time": "2026-07-21 20:09",
-      "score": 1178,
-      "comments": 818
+      "score": 1372,
+      "comments": 923
     },
     {
       "title": "Advertise in ChatGPT",
       "url": "https://ads.openai.com/",
       "source": "Hacker News",
       "time": "2026-07-21 18:58",
-      "score": 782,
-      "comments": 574
-    },
-    {
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "source": "Hacker News",
-      "time": "2026-07-21 19:04",
-      "score": 376,
-      "comments": 316
+      "score": 928,
+      "comments": 718
     }
   ]
 }
