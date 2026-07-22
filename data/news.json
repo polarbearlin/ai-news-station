@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-22 17:18:50",
+  "generated_at": "2026-07-22 21:07:11",
   "news": [
     {
-      "title": "Airbus Full Scale Foldable Wing Extensions",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "source": "Hacker News",
-      "time": "2026-07-22 14:57",
-      "score": 37,
-      "comments": 20
+      "time": "2026-07-22 17:30",
+      "score": 400,
+      "comments": 206
     },
     {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "Hacker News",
-      "time": "2026-07-22 15:39",
-      "score": 24,
-      "comments": 2
+      "time": "2026-07-22 17:17",
+      "score": 230,
+      "comments": 97
     },
     {
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "url": "https://unlayer.com",
+      "title": "Nvidia DGX Spark as a daily driver",
+      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
       "source": "Hacker News",
-      "time": "2026-07-22 16:02",
-      "score": 11,
-      "comments": 7
+      "time": "2026-07-19 19:44",
+      "score": 42,
+      "comments": 17
     }
   ]
 }

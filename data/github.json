@@ -4,18 +4,18 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 803,
+    "stars": 818,
     "language": "Solidity",
-    "updated_at": "2026-07-22T17:18:18Z"
+    "updated_at": "2026-07-22T21:07:11Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 306,
+    "stars": 317,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T17:13:33Z"
+    "updated_at": "2026-07-22T21:05:42Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -31,18 +31,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 237,
+    "stars": 244,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T17:15:34Z"
+    "updated_at": "2026-07-22T20:39:55Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 173,
+    "stars": 174,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T13:46:47Z"
+    "updated_at": "2026-07-22T18:48:36Z"
   },
   {
     "name": "penguin-harness",
@@ -51,7 +51,7 @@
     "url": "https://github.com/Prism-Shadow/penguin-harness",
     "stars": 127,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T17:11:14Z"
+    "updated_at": "2026-07-22T21:05:35Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
