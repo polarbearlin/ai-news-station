@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-07-21 21:09:05",
+  "generated_at": "2026-07-22 02:38:53",
   "news": [
     {
-      "title": "OpenAI and Hugging Face partner to address security incident",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "source": "Hacker News",
       "time": "2026-07-21 20:09",
-      "score": 200,
-      "comments": 99
+      "score": 750,
+      "comments": 520
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "source": "Hacker News",
+      "time": "2026-07-21 18:58",
+      "score": 328,
+      "comments": 331
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "Hacker News",
+      "time": "2026-07-21 21:13",
+      "score": 123,
+      "comments": 44
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "source": "Hacker News",
       "time": "2026-07-21 17:14",
-      "score": 145,
-      "comments": 137
-    },
-    {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "Hacker News",
-      "time": "2026-07-21 08:44",
-      "score": 510,
-      "comments": 206
+      "score": 253,
+      "comments": 221
     }
   ]
 }
