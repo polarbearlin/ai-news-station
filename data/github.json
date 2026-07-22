@@ -6,16 +6,16 @@
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "stars": 739,
     "language": "Solidity",
-    "updated_at": "2026-07-22T02:38:16Z"
+    "updated_at": "2026-07-22T06:27:02Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 258,
+    "stars": 268,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T01:44:09Z"
+    "updated_at": "2026-07-22T06:24:01Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -24,25 +24,25 @@
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
     "stars": 249,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T02:03:54Z"
+    "updated_at": "2026-07-22T06:26:21Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 209,
+    "stars": 212,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T02:24:47Z"
+    "updated_at": "2026-07-22T03:07:46Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 160,
+    "stars": 168,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T02:23:58Z"
+    "updated_at": "2026-07-22T06:22:10Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
@@ -58,18 +58,18 @@
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Efficient Self-Improving Harness for 1000+ Models",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 100,
+    "stars": 112,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T02:26:45Z"
+    "updated_at": "2026-07-22T06:18:12Z"
   },
   {
     "name": "tokentab",
     "full_name": "sequilade/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/sequilade/tokentab",
-    "stars": 99,
+    "stars": 111,
     "language": "Python",
-    "updated_at": "2026-07-22T02:37:26Z"
+    "updated_at": "2026-07-22T04:37:10Z"
   },
   {
     "name": "OpenMicro",
@@ -85,8 +85,8 @@
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 64,
+    "stars": 66,
     "language": "TypeScript",
-    "updated_at": "2026-07-21T17:46:46Z"
+    "updated_at": "2026-07-22T06:11:55Z"
   }
 ]
