@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-22 06:27:04",
+  "generated_at": "2026-07-22 10:24:35",
   "news": [
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "source": "Hacker News",
       "time": "2026-07-21 20:09",
-      "score": 961,
-      "comments": 658
+      "score": 1178,
+      "comments": 818
     },
     {
       "title": "Advertise in ChatGPT",
       "url": "https://ads.openai.com/",
       "source": "Hacker News",
       "time": "2026-07-21 18:58",
-      "score": 605,
-      "comments": 437
+      "score": 782,
+      "comments": 574
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "source": "Hacker News",
+      "time": "2026-07-21 19:04",
+      "score": 376,
+      "comments": 316
     }
   ]
 }

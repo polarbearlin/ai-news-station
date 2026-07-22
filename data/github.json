@@ -6,43 +6,52 @@
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "stars": 739,
     "language": "Solidity",
-    "updated_at": "2026-07-22T06:27:02Z"
+    "updated_at": "2026-07-22T10:24:16Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 268,
+    "stars": 284,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T06:24:01Z"
+    "updated_at": "2026-07-22T10:18:17Z"
   },
   {
     "name": "livetennisapi-mcp",
     "full_name": "livetennisapi/livetennisapi-mcp",
     "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-    "stars": 249,
+    "stars": 267,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T06:26:21Z"
+    "updated_at": "2026-07-22T10:06:53Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 212,
+    "stars": 215,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T03:07:46Z"
+    "updated_at": "2026-07-22T10:16:12Z"
   },
   {
     "name": "awesome-OpenPrice",
     "full_name": "bytedoger/awesome-OpenPrice",
     "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
     "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 168,
+    "stars": 171,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T06:22:10Z"
+    "updated_at": "2026-07-22T09:35:27Z"
+  },
+  {
+    "name": "penguin-harness",
+    "full_name": "Prism-Shadow/penguin-harness",
+    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Finetune AI Products for Just a Few Dollars",
+    "url": "https://github.com/Prism-Shadow/penguin-harness",
+    "stars": 124,
+    "language": "TypeScript",
+    "updated_at": "2026-07-22T10:03:52Z"
   },
   {
     "name": "restaurant-digitalization-blueprint",
@@ -52,15 +61,6 @@
     "stars": 119,
     "language": null,
     "updated_at": "2026-07-21T08:05:05Z"
-  },
-  {
-    "name": "penguin-harness",
-    "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Efficient Self-Improving Harness for 1000+ Models",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 112,
-    "language": "TypeScript",
-    "updated_at": "2026-07-22T06:18:12Z"
   },
   {
     "name": "tokentab",
@@ -85,8 +85,8 @@
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 66,
+    "stars": 68,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T06:11:55Z"
+    "updated_at": "2026-07-22T07:48:34Z"
   }
 ]
