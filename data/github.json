@@ -6,16 +6,16 @@
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "stars": 920,
     "language": "Solidity",
-    "updated_at": "2026-07-23T02:43:42Z"
+    "updated_at": "2026-07-23T06:08:29Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 323,
+    "stars": 330,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T02:24:50Z"
+    "updated_at": "2026-07-23T06:24:43Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -31,18 +31,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 250,
+    "stars": 251,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T02:34:44Z"
+    "updated_at": "2026-07-23T03:05:21Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 130,
+    "stars": 131,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T02:15:16Z"
+    "updated_at": "2026-07-23T05:23:12Z"
   },
   {
     "name": "tokentab",
@@ -58,35 +58,35 @@
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 61,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T00:05:40Z"
+    "updated_at": "2026-07-23T06:22:20Z"
   },
   {
     "name": "awesome-ai-tokenomics",
     "full_name": "QuesmaOrg/awesome-ai-tokenomics",
     "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 40,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-07-22T18:57:46Z"
-  },
-  {
-    "name": "copybrainapp",
-    "full_name": "copybrainapp/copybrainapp",
-    "description": "Your second brain for everything you copy.",
-    "url": "https://github.com/copybrainapp/copybrainapp",
-    "stars": 31,
-    "language": "TypeScript",
-    "updated_at": "2026-07-22T16:04:55Z"
+    "updated_at": "2026-07-23T06:14:06Z"
   },
   {
     "name": "moonlit-myriad",
     "full_name": "xinwithyu/moonlit-myriad",
     "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
     "url": "https://github.com/xinwithyu/moonlit-myriad",
-    "stars": 29,
+    "stars": 33,
     "language": "Python",
-    "updated_at": "2026-07-23T01:35:37Z"
+    "updated_at": "2026-07-23T05:53:29Z"
+  },
+  {
+    "name": "copybrainapp",
+    "full_name": "copybrainapp/copybrainapp",
+    "description": "Your second brain for everything you copy.",
+    "url": "https://github.com/copybrainapp/copybrainapp",
+    "stars": 32,
+    "language": "TypeScript",
+    "updated_at": "2026-07-23T06:20:21Z"
   }
 ]
