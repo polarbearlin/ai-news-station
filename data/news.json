@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-23 10:22:21",
+  "generated_at": "2026-07-23 13:58:59",
   "news": [
+    {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "source": "Hacker News",
+      "time": "2026-07-23 13:00",
+      "score": 101,
+      "comments": 69
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "source": "Hacker News",
+      "time": "2026-07-23 13:10",
+      "score": 103,
+      "comments": 86
+    },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "source": "Hacker News",
       "time": "2026-07-22 17:30",
-      "score": 893,
-      "comments": 517
+      "score": 998,
+      "comments": 567
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "source": "Hacker News",
       "time": "2026-07-22 14:18",
-      "score": 367,
-      "comments": 125
-    },
-    {
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "source": "Hacker News",
-      "time": "2026-07-21 07:01",
-      "score": 18,
-      "comments": 6
-    },
-    {
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "source": "Hacker News",
-      "time": "2026-07-22 17:17",
-      "score": 547,
-      "comments": 211
+      "score": 430,
+      "comments": 208
     }
   ]
 }

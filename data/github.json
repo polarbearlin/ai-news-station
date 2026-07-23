@@ -4,27 +4,27 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 991,
+    "stars": 993,
     "language": "Solidity",
-    "updated_at": "2026-07-23T09:49:40Z"
+    "updated_at": "2026-07-23T13:30:48Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 344,
+    "stars": 349,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T09:50:08Z"
+    "updated_at": "2026-07-23T13:12:04Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 251,
+    "stars": 252,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T03:05:21Z"
+    "updated_at": "2026-07-23T12:24:58Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -38,11 +38,11 @@
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+    "description": "🐧 Auto Agent Builder",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 138,
+    "stars": 141,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T09:23:12Z"
+    "updated_at": "2026-07-23T13:33:48Z"
   },
   {
     "name": "tokentab",
@@ -58,9 +58,9 @@
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 66,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T09:30:16Z"
+    "updated_at": "2026-07-23T12:40:08Z"
   },
   {
     "name": "awesome-ai-tokenomics",
@@ -72,21 +72,21 @@
     "updated_at": "2026-07-23T08:47:14Z"
   },
   {
+    "name": "awesome-cyber-ai-arsenal",
+    "full_name": "pazo01/awesome-cyber-ai-arsenal",
+    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
+    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
+    "stars": 39,
+    "language": null,
+    "updated_at": "2026-07-23T13:54:19Z"
+  },
+  {
     "name": "moonlit-myriad",
     "full_name": "xinwithyu/moonlit-myriad",
     "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
     "url": "https://github.com/xinwithyu/moonlit-myriad",
-    "stars": 35,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-07-23T09:59:52Z"
-  },
-  {
-    "name": "flatkey-cli",
-    "full_name": "flatkey-ai/flatkey-cli",
-    "description": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
-    "url": "https://github.com/flatkey-ai/flatkey-cli",
-    "stars": 34,
-    "language": "JavaScript",
-    "updated_at": "2026-07-23T10:00:40Z"
+    "updated_at": "2026-07-23T12:07:09Z"
   }
 ]
