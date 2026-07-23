@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-07-23 06:29:33",
+  "generated_at": "2026-07-23 10:22:21",
   "news": [
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "source": "Hacker News",
       "time": "2026-07-22 17:30",
-      "score": 767,
-      "comments": 455
+      "score": 893,
+      "comments": 517
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "source": "Hacker News",
       "time": "2026-07-22 14:18",
-      "score": 282,
-      "comments": 99
+      "score": 367,
+      "comments": 125
+    },
+    {
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "source": "Hacker News",
+      "time": "2026-07-21 07:01",
+      "score": 18,
+      "comments": 6
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "Hacker News",
       "time": "2026-07-22 17:17",
-      "score": 468,
-      "comments": 182
+      "score": 547,
+      "comments": 211
     }
   ]
 }
