@@ -4,27 +4,27 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 994,
+    "stars": 1065,
     "language": "Solidity",
-    "updated_at": "2026-07-23T17:22:08Z"
+    "updated_at": "2026-07-23T21:00:40Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 353,
+    "stars": 356,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T16:33:55Z"
+    "updated_at": "2026-07-23T20:05:46Z"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 252,
+    "stars": 268,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T12:24:58Z"
+    "updated_at": "2026-07-23T20:54:32Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -58,18 +58,18 @@
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 68,
+    "stars": 74,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T14:07:27Z"
+    "updated_at": "2026-07-23T19:36:28Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 47,
+    "stars": 54,
     "language": null,
-    "updated_at": "2026-07-23T15:43:49Z"
+    "updated_at": "2026-07-23T20:26:00Z"
   },
   {
     "name": "awesome-ai-tokenomics",
@@ -85,8 +85,8 @@
     "full_name": "flatkey-ai/flatkey-cli",
     "description": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
     "url": "https://github.com/flatkey-ai/flatkey-cli",
-    "stars": 38,
+    "stars": 42,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T16:43:28Z"
+    "updated_at": "2026-07-23T21:00:54Z"
   }
 ]

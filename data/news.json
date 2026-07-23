@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-07-23 17:22:40",
+  "generated_at": "2026-07-23 21:03:54",
   "news": [
     {
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "source": "Hacker News",
       "time": "2026-07-23 14:24",
-      "score": 371,
-      "comments": 162
+      "score": 749,
+      "comments": 375
     },
     {
-      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "source": "Hacker News",
       "time": "2026-07-23 15:18",
-      "score": 291,
-      "comments": 293
-    },
-    {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "source": "Hacker News",
-      "time": "2026-07-23 15:18",
-      "score": 11,
-      "comments": 0
-    },
-    {
-      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-      "source": "Hacker News",
-      "time": "2026-07-23 14:07",
-      "score": 45,
-      "comments": 19
+      "score": 576,
+      "comments": 543
     }
   ]
 }
