@@ -4,18 +4,18 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 818,
+    "stars": 920,
     "language": "Solidity",
-    "updated_at": "2026-07-22T21:07:11Z"
+    "updated_at": "2026-07-23T02:43:42Z"
   },
   {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 317,
+    "stars": 323,
     "language": "JavaScript",
-    "updated_at": "2026-07-22T21:05:42Z"
+    "updated_at": "2026-07-23T02:24:50Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -31,36 +31,18 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 244,
+    "stars": 250,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T20:39:55Z"
-  },
-  {
-    "name": "awesome-OpenPrice",
-    "full_name": "bytedoger/awesome-OpenPrice",
-    "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
-    "url": "https://github.com/bytedoger/awesome-OpenPrice",
-    "stars": 174,
-    "language": "TypeScript",
-    "updated_at": "2026-07-22T18:48:36Z"
+    "updated_at": "2026-07-23T02:34:44Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 127,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T21:05:35Z"
-  },
-  {
-    "name": "restaurant-digitalization-blueprint",
-    "full_name": "lofty14/restaurant-digitalization-blueprint",
-    "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
-    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 119,
-    "language": null,
-    "updated_at": "2026-07-21T08:05:05Z"
+    "updated_at": "2026-07-23T02:15:16Z"
   },
   {
     "name": "tokentab",
@@ -72,21 +54,39 @@
     "updated_at": "2026-07-22T04:37:10Z"
   },
   {
-    "name": "OpenMicro",
-    "full_name": "stephenleo/OpenMicro",
-    "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
-    "url": "https://github.com/stephenleo/OpenMicro",
-    "stars": 90,
+    "name": "collective-intelligence",
+    "full_name": "ailinone/collective-intelligence",
+    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T16:02:26Z"
+    "updated_at": "2026-07-23T00:05:40Z"
   },
   {
-    "name": "memmy-agent",
-    "full_name": "MemTensor/memmy-agent",
-    "description": "One Agent. One memory. Shared by every AI. 🍙",
-    "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 68,
+    "name": "awesome-ai-tokenomics",
+    "full_name": "QuesmaOrg/awesome-ai-tokenomics",
+    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-07-22T18:57:46Z"
+  },
+  {
+    "name": "copybrainapp",
+    "full_name": "copybrainapp/copybrainapp",
+    "description": "Your second brain for everything you copy.",
+    "url": "https://github.com/copybrainapp/copybrainapp",
+    "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-07-22T16:12:23Z"
+    "updated_at": "2026-07-22T16:04:55Z"
+  },
+  {
+    "name": "moonlit-myriad",
+    "full_name": "xinwithyu/moonlit-myriad",
+    "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
+    "url": "https://github.com/xinwithyu/moonlit-myriad",
+    "stars": 29,
+    "language": "Python",
+    "updated_at": "2026-07-23T01:35:37Z"
   }
 ]

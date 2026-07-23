@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-22 21:07:11",
+  "generated_at": "2026-07-23 02:44:25",
   "news": [
     {
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "source": "Hacker News",
       "time": "2026-07-22 17:30",
-      "score": 400,
-      "comments": 206
+      "score": 640,
+      "comments": 393
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "source": "Hacker News",
+      "time": "2026-07-22 14:18",
+      "score": 179,
+      "comments": 79
     },
     {
       "title": "Are AI Labs Pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "Hacker News",
       "time": "2026-07-22 17:17",
-      "score": 230,
-      "comments": 97
-    },
-    {
-      "title": "Nvidia DGX Spark as a daily driver",
-      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
-      "source": "Hacker News",
-      "time": "2026-07-19 19:44",
-      "score": 42,
-      "comments": 17
+      "score": 409,
+      "comments": 158
     }
   ]
 }
