@@ -4,9 +4,9 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 363,
+    "stars": 366,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T05:27:56Z"
+    "updated_at": "2026-07-24T08:00:01Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -15,34 +15,34 @@
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
     "stars": 205,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T07:54:07Z"
+    "updated_at": "2026-07-24T09:10:22Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
-    "description": "🐧 Your Automated Agent Builder Lives on Your Desktop",
+    "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 142,
+    "stars": 144,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T22:10:55Z"
-  },
-  {
-    "name": "collective-intelligence",
-    "full_name": "ailinone/collective-intelligence",
-    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-    "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 80,
-    "language": "TypeScript",
-    "updated_at": "2026-07-24T03:48:10Z"
+    "updated_at": "2026-07-24T09:55:43Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 71,
+    "stars": 79,
     "language": null,
-    "updated_at": "2026-07-24T05:54:55Z"
+    "updated_at": "2026-07-24T10:11:02Z"
+  },
+  {
+    "name": "collective-intelligence",
+    "full_name": "ailinone/collective-intelligence",
+    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "stars": 79,
+    "language": "TypeScript",
+    "updated_at": "2026-07-24T07:11:09Z"
   },
   {
     "name": "moonlit-myriad",
@@ -67,18 +67,18 @@
     "full_name": "Institut-du-Numerique-Responsable/green-claude",
     "description": "🌱 Skill éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA",
     "url": "https://github.com/Institut-du-Numerique-Responsable/green-claude",
-    "stars": 28,
+    "stars": 29,
     "language": "Shell",
-    "updated_at": "2026-07-23T19:57:39Z"
+    "updated_at": "2026-07-24T07:21:33Z"
   },
   {
     "name": "handoff-skill",
     "full_name": "ToolMonsters/handoff-skill",
     "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
     "url": "https://github.com/ToolMonsters/handoff-skill",
-    "stars": 28,
+    "stars": 29,
     "language": null,
-    "updated_at": "2026-07-24T04:23:24Z"
+    "updated_at": "2026-07-24T07:29:18Z"
   },
   {
     "name": "sigbound",
