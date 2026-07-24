@@ -1,30 +1,12 @@
 [
   {
-    "name": "MEV-Arbitrage-Bot",
-    "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "stars": 1065,
-    "language": "Solidity",
-    "updated_at": "2026-07-23T21:00:40Z"
-  },
-  {
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 356,
+    "stars": 359,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T20:05:46Z"
-  },
-  {
-    "name": "klaatcode",
-    "full_name": "KlaatAI/klaatcode",
-    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-    "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 268,
-    "language": "TypeScript",
-    "updated_at": "2026-07-23T20:54:32Z"
+    "updated_at": "2026-07-23T23:04:18Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -40,53 +22,71 @@
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 141,
+    "stars": 142,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T16:57:33Z"
-  },
-  {
-    "name": "tokentab",
-    "full_name": "sequilade/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/sequilade/tokentab",
-    "stars": 111,
-    "language": "Python",
-    "updated_at": "2026-07-22T04:37:10Z"
+    "updated_at": "2026-07-23T22:10:55Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 74,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-07-23T19:36:28Z"
+    "updated_at": "2026-07-24T02:25:35Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 54,
+    "stars": 65,
     "language": null,
-    "updated_at": "2026-07-23T20:26:00Z"
+    "updated_at": "2026-07-24T02:33:39Z"
   },
   {
-    "name": "awesome-ai-tokenomics",
-    "full_name": "QuesmaOrg/awesome-ai-tokenomics",
-    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
-    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 43,
+    "name": "moonlit-myriad",
+    "full_name": "xinwithyu/moonlit-myriad",
+    "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
+    "url": "https://github.com/xinwithyu/moonlit-myriad",
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-07-23T08:47:14Z"
+    "updated_at": "2026-07-23T17:03:01Z"
   },
   {
-    "name": "flatkey-cli",
-    "full_name": "flatkey-ai/flatkey-cli",
-    "description": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
-    "url": "https://github.com/flatkey-ai/flatkey-cli",
-    "stars": 42,
-    "language": "JavaScript",
-    "updated_at": "2026-07-23T21:00:54Z"
+    "name": "copybrainapp",
+    "full_name": "copybrainapp/copybrainapp",
+    "description": "Your second brain for everything you copy.",
+    "url": "https://github.com/copybrainapp/copybrainapp",
+    "stars": 33,
+    "language": "TypeScript",
+    "updated_at": "2026-07-23T07:51:11Z"
+  },
+  {
+    "name": "green-claude",
+    "full_name": "Institut-du-Numerique-Responsable/green-claude",
+    "description": "🌱 Skill éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA",
+    "url": "https://github.com/Institut-du-Numerique-Responsable/green-claude",
+    "stars": 28,
+    "language": "Shell",
+    "updated_at": "2026-07-23T19:57:39Z"
+  },
+  {
+    "name": "handoff-skill",
+    "full_name": "ToolMonsters/handoff-skill",
+    "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
+    "url": "https://github.com/ToolMonsters/handoff-skill",
+    "stars": 27,
+    "language": null,
+    "updated_at": "2026-07-23T14:51:12Z"
+  },
+  {
+    "name": "sigbound",
+    "full_name": "surya-koritala/sigbound",
+    "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+    "url": "https://github.com/surya-koritala/sigbound",
+    "stars": 27,
+    "language": "Go",
+    "updated_at": "2026-07-24T01:08:46Z"
   }
 ]
