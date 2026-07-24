@@ -4,9 +4,9 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 359,
+    "stars": 363,
     "language": "JavaScript",
-    "updated_at": "2026-07-23T23:04:18Z"
+    "updated_at": "2026-07-24T05:27:56Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -31,27 +31,27 @@
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 79,
+    "stars": 80,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T02:25:35Z"
+    "updated_at": "2026-07-24T03:48:10Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 65,
+    "stars": 71,
     "language": null,
-    "updated_at": "2026-07-24T02:33:39Z"
+    "updated_at": "2026-07-24T05:54:55Z"
   },
   {
     "name": "moonlit-myriad",
     "full_name": "xinwithyu/moonlit-myriad",
     "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
     "url": "https://github.com/xinwithyu/moonlit-myriad",
-    "stars": 38,
+    "stars": 40,
     "language": "Python",
-    "updated_at": "2026-07-23T17:03:01Z"
+    "updated_at": "2026-07-24T04:45:11Z"
   },
   {
     "name": "copybrainapp",
@@ -76,9 +76,9 @@
     "full_name": "ToolMonsters/handoff-skill",
     "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
     "url": "https://github.com/ToolMonsters/handoff-skill",
-    "stars": 27,
+    "stars": 28,
     "language": null,
-    "updated_at": "2026-07-23T14:51:12Z"
+    "updated_at": "2026-07-24T04:23:24Z"
   },
   {
     "name": "sigbound",
@@ -87,6 +87,6 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 27,
     "language": "Go",
-    "updated_at": "2026-07-24T01:08:46Z"
+    "updated_at": "2026-07-24T03:45:30Z"
   }
 ]
