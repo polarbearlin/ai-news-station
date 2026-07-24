@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-24 13:44:45",
+  "generated_at": "2026-07-24 17:37:19",
   "news": [
     {
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "url": "https://openjdk.org/jeps/541",
       "source": "Hacker News",
-      "time": "2026-07-24 12:00",
-      "score": 38,
-      "comments": 29
+      "time": "2026-07-24 16:52",
+      "score": 52,
+      "comments": 31
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "source": "Hacker News",
+      "time": "2026-07-24 12:53",
+      "score": 145,
+      "comments": 16
     }
   ]
 }

@@ -15,34 +15,34 @@
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
     "stars": 205,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T13:19:36Z"
+    "updated_at": "2026-07-24T14:32:29Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 146,
+    "stars": 148,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T13:30:36Z"
-  },
-  {
-    "name": "awesome-cyber-ai-arsenal",
-    "full_name": "pazo01/awesome-cyber-ai-arsenal",
-    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
-    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 86,
-    "language": null,
-    "updated_at": "2026-07-24T13:42:55Z"
+    "updated_at": "2026-07-24T15:29:37Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 83,
+    "stars": 107,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T13:43:38Z"
+    "updated_at": "2026-07-24T17:29:23Z"
+  },
+  {
+    "name": "awesome-cyber-ai-arsenal",
+    "full_name": "pazo01/awesome-cyber-ai-arsenal",
+    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
+    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
+    "stars": 92,
+    "language": null,
+    "updated_at": "2026-07-24T17:13:17Z"
   },
   {
     "name": "moonlit-myriad",
@@ -87,6 +87,6 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 28,
     "language": "Go",
-    "updated_at": "2026-07-24T13:29:51Z"
+    "updated_at": "2026-07-24T15:43:41Z"
   }
 ]
