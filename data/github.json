@@ -4,9 +4,9 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 366,
+    "stars": 371,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T08:00:01Z"
+    "updated_at": "2026-07-24T12:16:05Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -15,34 +15,34 @@
     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
     "stars": 205,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T09:10:22Z"
+    "updated_at": "2026-07-24T13:19:36Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 144,
+    "stars": 146,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T09:55:43Z"
+    "updated_at": "2026-07-24T13:30:36Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 79,
+    "stars": 86,
     "language": null,
-    "updated_at": "2026-07-24T10:11:02Z"
+    "updated_at": "2026-07-24T13:42:55Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 79,
+    "stars": 83,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T07:11:09Z"
+    "updated_at": "2026-07-24T13:43:38Z"
   },
   {
     "name": "moonlit-myriad",
@@ -51,7 +51,7 @@
     "url": "https://github.com/xinwithyu/moonlit-myriad",
     "stars": 40,
     "language": "Python",
-    "updated_at": "2026-07-24T04:45:11Z"
+    "updated_at": "2026-07-24T11:28:29Z"
   },
   {
     "name": "copybrainapp",
@@ -67,9 +67,9 @@
     "full_name": "Institut-du-Numerique-Responsable/green-claude",
     "description": "🌱 Skill éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA",
     "url": "https://github.com/Institut-du-Numerique-Responsable/green-claude",
-    "stars": 29,
+    "stars": 30,
     "language": "Shell",
-    "updated_at": "2026-07-24T07:21:33Z"
+    "updated_at": "2026-07-24T11:54:33Z"
   },
   {
     "name": "handoff-skill",
@@ -85,8 +85,8 @@
     "full_name": "surya-koritala/sigbound",
     "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
     "url": "https://github.com/surya-koritala/sigbound",
-    "stars": 27,
+    "stars": 28,
     "language": "Go",
-    "updated_at": "2026-07-24T03:45:30Z"
+    "updated_at": "2026-07-24T13:29:51Z"
   }
 ]
