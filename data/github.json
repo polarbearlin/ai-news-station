@@ -4,9 +4,9 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 371,
+    "stars": 373,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T12:16:05Z"
+    "updated_at": "2026-07-24T20:01:15Z"
   },
   {
     "name": "livetennisapi-mcp",
@@ -22,27 +22,27 @@
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 148,
+    "stars": 150,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T15:29:37Z"
+    "updated_at": "2026-07-24T19:39:44Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 107,
+    "stars": 110,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T17:29:23Z"
+    "updated_at": "2026-07-24T20:03:33Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 92,
+    "stars": 95,
     "language": null,
-    "updated_at": "2026-07-24T17:13:17Z"
+    "updated_at": "2026-07-24T19:39:34Z"
   },
   {
     "name": "moonlit-myriad",
@@ -87,6 +87,6 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 28,
     "language": "Go",
-    "updated_at": "2026-07-24T15:43:41Z"
+    "updated_at": "2026-07-24T20:07:11Z"
   }
 ]
