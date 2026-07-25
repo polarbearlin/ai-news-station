@@ -4,27 +4,27 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 374,
+    "stars": 375,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T23:40:24Z"
+    "updated_at": "2026-07-25T04:10:44Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 152,
+    "stars": 153,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T22:27:22Z"
+    "updated_at": "2026-07-25T04:50:29Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 114,
+    "stars": 115,
     "language": "TypeScript",
-    "updated_at": "2026-07-25T01:13:21Z"
+    "updated_at": "2026-07-25T02:44:44Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
@@ -60,7 +60,7 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 28,
     "language": "Go",
-    "updated_at": "2026-07-24T23:22:06Z"
+    "updated_at": "2026-07-25T06:03:52Z"
   },
   {
     "name": "devops-vn-blog",
