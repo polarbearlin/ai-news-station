@@ -4,36 +4,36 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 387,
+    "stars": 390,
     "language": "JavaScript",
-    "updated_at": "2026-07-25T16:42:24Z"
+    "updated_at": "2026-07-25T20:38:55Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 158,
+    "stars": 164,
     "language": "TypeScript",
-    "updated_at": "2026-07-25T15:07:33Z"
+    "updated_at": "2026-07-25T19:35:50Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 118,
+    "stars": 119,
     "language": "TypeScript",
-    "updated_at": "2026-07-25T11:55:02Z"
+    "updated_at": "2026-07-25T18:54:01Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 107,
+    "stars": 108,
     "language": null,
-    "updated_at": "2026-07-25T14:29:51Z"
+    "updated_at": "2026-07-25T17:06:50Z"
   },
   {
     "name": "sigbound",
@@ -42,7 +42,7 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 51,
     "language": "Go",
-    "updated_at": "2026-07-25T16:24:01Z"
+    "updated_at": "2026-07-25T19:59:01Z"
   },
   {
     "name": "moonlit-myriad",

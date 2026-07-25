@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-25 16:57:10",
+  "generated_at": "2026-07-25 20:52:25",
   "news": [
     {
-      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "title": "Open-weight AI is having its Kubernetes moment",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "source": "Hacker News",
       "time": "2026-07-25 14:49",
-      "score": 38,
-      "comments": 8
+      "score": 231,
+      "comments": 166
+    },
+    {
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "source": "Hacker News",
+      "time": "2026-07-25 17:34",
+      "score": 46,
+      "comments": 10
     }
   ]
 }
