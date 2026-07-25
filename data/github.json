@@ -4,9 +4,9 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 375,
+    "stars": 379,
     "language": "JavaScript",
-    "updated_at": "2026-07-25T04:10:44Z"
+    "updated_at": "2026-07-25T07:53:33Z"
   },
   {
     "name": "penguin-harness",
@@ -31,9 +31,18 @@
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 101,
+    "stars": 105,
     "language": null,
-    "updated_at": "2026-07-25T01:17:32Z"
+    "updated_at": "2026-07-25T07:38:34Z"
+  },
+  {
+    "name": "sigbound",
+    "full_name": "surya-koritala/sigbound",
+    "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+    "url": "https://github.com/surya-koritala/sigbound",
+    "stars": 51,
+    "language": "Go",
+    "updated_at": "2026-07-25T08:06:15Z"
   },
   {
     "name": "moonlit-myriad",
@@ -49,27 +58,18 @@
     "full_name": "ToolMonsters/handoff-skill",
     "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
     "url": "https://github.com/ToolMonsters/handoff-skill",
-    "stars": 29,
+    "stars": 30,
     "language": null,
-    "updated_at": "2026-07-24T07:29:18Z"
-  },
-  {
-    "name": "sigbound",
-    "full_name": "surya-koritala/sigbound",
-    "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
-    "url": "https://github.com/surya-koritala/sigbound",
-    "stars": 28,
-    "language": "Go",
-    "updated_at": "2026-07-25T06:03:52Z"
+    "updated_at": "2026-07-25T08:26:45Z"
   },
   {
     "name": "devops-vn-blog",
     "full_name": "VersusControl/devops-vn-blog",
     "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
     "url": "https://github.com/VersusControl/devops-vn-blog",
-    "stars": 27,
+    "stars": 28,
     "language": "HCL",
-    "updated_at": "2026-07-24T17:18:23Z"
+    "updated_at": "2026-07-25T09:00:47Z"
   },
   {
     "name": "nova",
@@ -87,6 +87,6 @@
     "url": "https://github.com/felixrieseberg/language-model-builder",
     "stars": 14,
     "language": null,
-    "updated_at": "2026-07-24T20:58:24Z"
+    "updated_at": "2026-07-25T08:26:33Z"
   }
 ]
