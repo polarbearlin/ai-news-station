@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-07-24 21:03:10",
+  "generated_at": "2026-07-25 02:38:15",
   "news": [
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
       "source": "Hacker News",
-      "time": "2026-07-24 13:32",
-      "score": 323,
-      "comments": 174
-    },
-    {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "source": "Hacker News",
-      "time": "2026-07-24 12:53",
-      "score": 222,
-      "comments": 39
+      "time": "2026-07-23 12:31",
+      "score": 107,
+      "comments": 52
     }
   ]
 }

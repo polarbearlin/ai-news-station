@@ -4,45 +4,36 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 373,
+    "stars": 374,
     "language": "JavaScript",
-    "updated_at": "2026-07-24T20:01:15Z"
-  },
-  {
-    "name": "livetennisapi-mcp",
-    "full_name": "livetennisapi/livetennisapi-mcp",
-    "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-    "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-    "stars": 205,
-    "language": "JavaScript",
-    "updated_at": "2026-07-24T14:32:29Z"
+    "updated_at": "2026-07-24T23:40:24Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 150,
+    "stars": 152,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T19:39:44Z"
+    "updated_at": "2026-07-24T22:27:22Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 110,
+    "stars": 114,
     "language": "TypeScript",
-    "updated_at": "2026-07-24T20:03:33Z"
+    "updated_at": "2026-07-25T01:13:21Z"
   },
   {
     "name": "awesome-cyber-ai-arsenal",
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 95,
+    "stars": 101,
     "language": null,
-    "updated_at": "2026-07-24T19:39:34Z"
+    "updated_at": "2026-07-25T01:17:32Z"
   },
   {
     "name": "moonlit-myriad",
@@ -52,24 +43,6 @@
     "stars": 40,
     "language": "Python",
     "updated_at": "2026-07-24T11:28:29Z"
-  },
-  {
-    "name": "copybrainapp",
-    "full_name": "copybrainapp/copybrainapp",
-    "description": "Your second brain for everything you copy.",
-    "url": "https://github.com/copybrainapp/copybrainapp",
-    "stars": 33,
-    "language": "TypeScript",
-    "updated_at": "2026-07-23T07:51:11Z"
-  },
-  {
-    "name": "green-claude",
-    "full_name": "Institut-du-Numerique-Responsable/green-claude",
-    "description": "🌱 Skill éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA",
-    "url": "https://github.com/Institut-du-Numerique-Responsable/green-claude",
-    "stars": 30,
-    "language": "Shell",
-    "updated_at": "2026-07-24T11:54:33Z"
   },
   {
     "name": "handoff-skill",
@@ -87,6 +60,33 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 28,
     "language": "Go",
-    "updated_at": "2026-07-24T20:07:11Z"
+    "updated_at": "2026-07-24T23:22:06Z"
+  },
+  {
+    "name": "devops-vn-blog",
+    "full_name": "VersusControl/devops-vn-blog",
+    "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
+    "url": "https://github.com/VersusControl/devops-vn-blog",
+    "stars": 27,
+    "language": "HCL",
+    "updated_at": "2026-07-24T17:18:23Z"
+  },
+  {
+    "name": "nova",
+    "full_name": "weed33834/nova",
+    "description": "AI-powered multi-agent classroom that turns any topic into an interactive learning experience",
+    "url": "https://github.com/weed33834/nova",
+    "stars": 22,
+    "language": "TypeScript",
+    "updated_at": "2026-07-24T13:36:37Z"
+  },
+  {
+    "name": "language-model-builder",
+    "full_name": "felixrieseberg/language-model-builder",
+    "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+    "url": "https://github.com/felixrieseberg/language-model-builder",
+    "stars": 14,
+    "language": null,
+    "updated_at": "2026-07-24T20:58:24Z"
   }
 ]
