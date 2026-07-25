@@ -4,18 +4,18 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 382,
+    "stars": 387,
     "language": "JavaScript",
-    "updated_at": "2026-07-25T13:10:53Z"
+    "updated_at": "2026-07-25T16:42:24Z"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 155,
+    "stars": 158,
     "language": "TypeScript",
-    "updated_at": "2026-07-25T13:03:41Z"
+    "updated_at": "2026-07-25T15:07:33Z"
   },
   {
     "name": "collective-intelligence",
@@ -31,9 +31,9 @@
     "full_name": "pazo01/awesome-cyber-ai-arsenal",
     "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 105,
+    "stars": 107,
     "language": null,
-    "updated_at": "2026-07-25T07:38:34Z"
+    "updated_at": "2026-07-25T14:29:51Z"
   },
   {
     "name": "sigbound",
@@ -42,7 +42,7 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 51,
     "language": "Go",
-    "updated_at": "2026-07-25T08:06:15Z"
+    "updated_at": "2026-07-25T16:24:01Z"
   },
   {
     "name": "moonlit-myriad",
@@ -54,22 +54,22 @@
     "updated_at": "2026-07-24T11:28:29Z"
   },
   {
-    "name": "handoff-skill",
-    "full_name": "ToolMonsters/handoff-skill",
-    "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
-    "url": "https://github.com/ToolMonsters/handoff-skill",
-    "stars": 30,
-    "language": null,
-    "updated_at": "2026-07-25T08:26:45Z"
-  },
-  {
     "name": "devops-vn-blog",
     "full_name": "VersusControl/devops-vn-blog",
     "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
     "url": "https://github.com/VersusControl/devops-vn-blog",
-    "stars": 29,
+    "stars": 31,
     "language": "HCL",
-    "updated_at": "2026-07-25T11:47:39Z"
+    "updated_at": "2026-07-25T16:51:19Z"
+  },
+  {
+    "name": "handoff-skill",
+    "full_name": "ToolMonsters/handoff-skill",
+    "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
+    "url": "https://github.com/ToolMonsters/handoff-skill",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-07-25T14:40:07Z"
   },
   {
     "name": "nova",
@@ -81,12 +81,12 @@
     "updated_at": "2026-07-24T13:36:37Z"
   },
   {
-    "name": "language-model-builder",
-    "full_name": "felixrieseberg/language-model-builder",
-    "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
-    "url": "https://github.com/felixrieseberg/language-model-builder",
-    "stars": 14,
-    "language": null,
-    "updated_at": "2026-07-25T08:26:33Z"
+    "name": "facial-recognition-pipeline",
+    "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "description": "python notebook facial recognitition ",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "stars": 17,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-07-25T15:49:13Z"
   }
 ]

@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-07-25 13:25:43",
-  "news": []
+  "generated_at": "2026-07-25 16:57:10",
+  "news": [
+    {
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "source": "Hacker News",
+      "time": "2026-07-25 14:49",
+      "score": 38,
+      "comments": 8
+    }
+  ]
 }
