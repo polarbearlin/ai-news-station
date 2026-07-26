@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-07-26 13:21:39",
+  "generated_at": "2026-07-26 17:00:53",
   "news": [
     {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "title": "Park by Robot at London Gatwick Airport",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
       "source": "Hacker News",
-      "time": "2026-07-26 05:57",
-      "score": 176,
-      "comments": 86
+      "time": "2026-07-26 14:40",
+      "score": 124,
+      "comments": 66
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "Hacker News",
+      "time": "2026-07-26 13:13",
+      "score": 40,
+      "comments": 9
     }
   ]
 }
