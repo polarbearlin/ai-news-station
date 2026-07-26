@@ -4,9 +4,9 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 395,
+    "stars": 396,
     "language": "JavaScript",
-    "updated_at": "2026-07-26T06:28:29Z"
+    "updated_at": "2026-07-26T08:46:24Z"
   },
   {
     "name": "collective-intelligence",
@@ -24,7 +24,7 @@
     "url": "https://github.com/cocofhu/approving",
     "stars": 71,
     "language": "Go",
-    "updated_at": "2026-07-26T03:22:14Z"
+    "updated_at": "2026-07-26T07:51:57Z"
   },
   {
     "name": "sigbound",
@@ -33,7 +33,7 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 50,
     "language": "Go",
-    "updated_at": "2026-07-26T05:56:49Z"
+    "updated_at": "2026-07-26T07:23:55Z"
   },
   {
     "name": "moonlit-myriad",
@@ -45,6 +45,15 @@
     "updated_at": "2026-07-26T04:45:43Z"
   },
   {
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 35,
+    "language": "TypeScript",
+    "updated_at": "2026-07-26T09:57:32Z"
+  },
+  {
     "name": "handoff-skill",
     "full_name": "ToolMonsters/handoff-skill",
     "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
@@ -52,6 +61,15 @@
     "stars": 32,
     "language": null,
     "updated_at": "2026-07-26T05:37:01Z"
+  },
+  {
+    "name": "ai-stock-pool",
+    "full_name": "yaoleifly/ai-stock-pool",
+    "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
+    "url": "https://github.com/yaoleifly/ai-stock-pool",
+    "stars": 23,
+    "language": "JavaScript",
+    "updated_at": "2026-07-26T09:47:10Z"
   },
   {
     "name": "nova",
@@ -67,26 +85,8 @@
     "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
     "description": "python notebook facial recognitition ",
     "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
-    "stars": 16,
+    "stars": 17,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-07-26T02:59:00Z"
-  },
-  {
-    "name": "Drift",
-    "full_name": "kylepelham/Drift",
-    "description": "Desktop coding agent using the OpenCode agent engine",
-    "url": "https://github.com/kylepelham/Drift",
-    "stars": 15,
-    "language": "TypeScript",
-    "updated_at": "2026-07-25T23:56:05Z"
-  },
-  {
-    "name": "Re-Identification-fr",
-    "full_name": "Morteza-Asadi-Shalmaiy/Re-Identification-fr",
-    "description": "python notebook ReId project",
-    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr",
-    "stars": 15,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-07-26T02:58:58Z"
+    "updated_at": "2026-07-26T09:56:14Z"
   }
 ]
