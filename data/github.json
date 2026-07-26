@@ -4,36 +4,18 @@
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
     "url": "https://github.com/Kritt-ai/open-kritt",
-    "stars": 390,
+    "stars": 391,
     "language": "JavaScript",
-    "updated_at": "2026-07-25T20:38:55Z"
-  },
-  {
-    "name": "penguin-harness",
-    "full_name": "Prism-Shadow/penguin-harness",
-    "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 164,
-    "language": "TypeScript",
-    "updated_at": "2026-07-25T19:35:50Z"
+    "updated_at": "2026-07-25T23:22:32Z"
   },
   {
     "name": "collective-intelligence",
     "full_name": "ailinone/collective-intelligence",
     "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
     "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 119,
+    "stars": 120,
     "language": "TypeScript",
-    "updated_at": "2026-07-25T18:54:01Z"
-  },
-  {
-    "name": "awesome-cyber-ai-arsenal",
-    "full_name": "pazo01/awesome-cyber-ai-arsenal",
-    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
-    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 108,
-    "language": null,
-    "updated_at": "2026-07-25T17:06:50Z"
+    "updated_at": "2026-07-26T01:46:31Z"
   },
   {
     "name": "sigbound",
@@ -42,7 +24,7 @@
     "url": "https://github.com/surya-koritala/sigbound",
     "stars": 51,
     "language": "Go",
-    "updated_at": "2026-07-25T19:59:01Z"
+    "updated_at": "2026-07-25T21:59:27Z"
   },
   {
     "name": "moonlit-myriad",
@@ -52,15 +34,6 @@
     "stars": 40,
     "language": "Python",
     "updated_at": "2026-07-24T11:28:29Z"
-  },
-  {
-    "name": "devops-vn-blog",
-    "full_name": "VersusControl/devops-vn-blog",
-    "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
-    "url": "https://github.com/VersusControl/devops-vn-blog",
-    "stars": 31,
-    "language": "HCL",
-    "updated_at": "2026-07-25T16:51:19Z"
   },
   {
     "name": "handoff-skill",
@@ -88,5 +61,32 @@
     "stars": 17,
     "language": "Jupyter Notebook",
     "updated_at": "2026-07-25T15:49:13Z"
+  },
+  {
+    "name": "Re-Identification-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/Re-Identification-fr",
+    "description": "python notebook ReId project",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Re-Identification-fr",
+    "stars": 16,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-07-25T22:25:22Z"
+  },
+  {
+    "name": "Superres-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/Superres-fr",
+    "description": "python notebook super resolution",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Superres-fr",
+    "stars": 16,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-07-25T15:14:51Z"
+  },
+  {
+    "name": "Drift",
+    "full_name": "kylepelham/Drift",
+    "description": "Desktop coding agent using the OpenCode agent engine",
+    "url": "https://github.com/kylepelham/Drift",
+    "stars": 15,
+    "language": "TypeScript",
+    "updated_at": "2026-07-25T23:56:05Z"
   }
 ]
