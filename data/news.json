@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-07-27 14:33:35",
+  "generated_at": "2026-07-27 17:41:43",
   "news": [
     {
-      "title": "AI companies are shredding rare books",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
       "source": "Hacker News",
-      "time": "2026-07-27 12:32",
-      "score": 331,
-      "comments": 196
+      "time": "2026-07-27 16:52",
+      "score": 17,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "source": "Hacker News",
+      "time": "2026-07-27 16:59",
+      "score": 10,
+      "comments": 0
+    },
+    {
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "source": "Hacker News",
+      "time": "2026-07-27 14:07",
+      "score": 179,
+      "comments": 78
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "source": "Hacker News",
+      "time": "2026-07-27 15:08",
+      "score": 15,
+      "comments": 0
     }
   ]
 }
