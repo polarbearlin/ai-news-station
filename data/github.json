@@ -1,30 +1,30 @@
 [
   {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 220,
-    "language": "TypeScript",
-    "updated_at": "2026-07-27T17:24:36Z"
-  },
-  {
     "name": "openclaude-improved",
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 177,
+    "stars": 287,
     "language": "TypeScript",
-    "updated_at": "2026-07-27T16:50:47Z"
+    "updated_at": "2026-07-27T21:09:12Z"
+  },
+  {
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 228,
+    "language": "TypeScript",
+    "updated_at": "2026-07-27T21:03:54Z"
   },
   {
     "name": "approving",
     "full_name": "cocofhu/approving",
-    "description": "Compose coding agents into workflows you can trust",
+    "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
     "url": "https://github.com/cocofhu/approving",
     "stars": 73,
     "language": "Go",
-    "updated_at": "2026-07-27T15:34:15Z"
+    "updated_at": "2026-07-27T19:59:45Z"
   },
   {
     "name": "ai-stock-pool",
@@ -49,18 +49,18 @@
     "full_name": "xinwithyu/moonlit-myriad",
     "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
     "url": "https://github.com/xinwithyu/moonlit-myriad",
-    "stars": 46,
+    "stars": 47,
     "language": "Python",
-    "updated_at": "2026-07-27T17:19:13Z"
+    "updated_at": "2026-07-27T19:22:00Z"
   },
   {
     "name": "cursor-bridge",
     "full_name": "hkc5/cursor-bridge",
     "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
     "url": "https://github.com/hkc5/cursor-bridge",
-    "stars": 32,
+    "stars": 33,
     "language": "Rust",
-    "updated_at": "2026-07-27T17:34:52Z"
+    "updated_at": "2026-07-27T20:57:29Z"
   },
   {
     "name": "handoff-skill",
@@ -78,7 +78,7 @@
     "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
     "stars": 24,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-07-27T11:01:01Z"
+    "updated_at": "2026-07-27T20:07:19Z"
   },
   {
     "name": "antispoofing-fr",
