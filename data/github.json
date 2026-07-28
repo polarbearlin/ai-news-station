@@ -4,18 +4,18 @@
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 577,
+    "stars": 578,
     "language": "TypeScript",
-    "updated_at": "2026-07-28T03:24:07Z"
+    "updated_at": "2026-07-28T16:48:57Z"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 313,
+    "stars": 318,
     "language": "TypeScript",
-    "updated_at": "2026-07-28T13:32:21Z"
+    "updated_at": "2026-07-28T16:53:50Z"
   },
   {
     "name": "ai-stock-pool",
@@ -33,7 +33,7 @@
     "url": "https://github.com/cocofhu/approving",
     "stars": 73,
     "language": "Go",
-    "updated_at": "2026-07-28T10:38:43Z"
+    "updated_at": "2026-07-28T17:08:21Z"
   },
   {
     "name": "cursor-bridge",
@@ -58,9 +58,9 @@
     "full_name": "teocns/neocursor.nvim",
     "description": "Cursor's Tab in Neovim — the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
     "url": "https://github.com/teocns/neocursor.nvim",
-    "stars": 29,
+    "stars": 31,
     "language": "Lua",
-    "updated_at": "2026-07-28T07:35:14Z"
+    "updated_at": "2026-07-28T16:25:57Z"
   },
   {
     "name": "facial-recognition-pipeline",
