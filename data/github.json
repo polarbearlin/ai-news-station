@@ -4,18 +4,18 @@
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 533,
+    "stars": 577,
     "language": "TypeScript",
-    "updated_at": "2026-07-28T02:31:44Z"
+    "updated_at": "2026-07-28T03:24:07Z"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 254,
+    "stars": 281,
     "language": "TypeScript",
-    "updated_at": "2026-07-28T02:26:01Z"
+    "updated_at": "2026-07-28T06:25:53Z"
   },
   {
     "name": "approving",
@@ -24,16 +24,16 @@
     "url": "https://github.com/cocofhu/approving",
     "stars": 73,
     "language": "Go",
-    "updated_at": "2026-07-28T02:19:00Z"
+    "updated_at": "2026-07-28T05:26:24Z"
   },
   {
     "name": "ai-stock-pool",
     "full_name": "yaoleifly/ai-stock-pool",
     "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
     "url": "https://github.com/yaoleifly/ai-stock-pool",
-    "stars": 67,
+    "stars": 72,
     "language": "JavaScript",
-    "updated_at": "2026-07-28T02:00:24Z"
+    "updated_at": "2026-07-28T05:50:26Z"
   },
   {
     "name": "cursor-bridge",
@@ -58,18 +58,27 @@
     "full_name": "teocns/neocursor.nvim",
     "description": "Cursor's Tab in Neovim — the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
     "url": "https://github.com/teocns/neocursor.nvim",
-    "stars": 25,
+    "stars": 27,
     "language": "Lua",
-    "updated_at": "2026-07-28T01:58:26Z"
+    "updated_at": "2026-07-28T06:18:58Z"
   },
   {
     "name": "facial-recognition-pipeline",
     "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
     "description": "python notebook facial recognitition ",
     "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
-    "stars": 24,
+    "stars": 26,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-07-27T20:07:19Z"
+    "updated_at": "2026-07-28T05:31:13Z"
+  },
+  {
+    "name": "antispoofing-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "description": "python notebook anti spoofing facial recognition",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "stars": 23,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-07-28T03:27:17Z"
   },
   {
     "name": "gtm-cofounder",
@@ -79,14 +88,5 @@
     "stars": 23,
     "language": null,
     "updated_at": "2026-07-27T22:14:25Z"
-  },
-  {
-    "name": "antispoofing-fr",
-    "full_name": "Morteza-Asadi-Shalmaiy/antispoofing-fr",
-    "description": "python notebook anti spoofing facial recognition",
-    "url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr",
-    "stars": 22,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-07-27T08:28:08Z"
   }
 ]
