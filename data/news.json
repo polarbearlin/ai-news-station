@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-07-28 10:34:26",
-  "news": []
+  "generated_at": "2026-07-28 14:06:05",
+  "news": [
+    {
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "source": "Hacker News",
+      "time": "2026-07-28 13:07",
+      "score": 36,
+      "comments": 13
+    },
+    {
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "source": "Hacker News",
+      "time": "2026-07-28 09:59",
+      "score": 63,
+      "comments": 35
+    },
+    {
+      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "source": "Hacker News",
+      "time": "2026-07-28 10:20",
+      "score": 41,
+      "comments": 22
+    }
+  ]
 }
