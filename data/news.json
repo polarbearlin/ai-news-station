@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-07-27 21:09:36",
+  "generated_at": "2026-07-28 02:31:52",
   "news": [
     {
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
       "source": "Hacker News",
-      "time": "2026-07-27 18:43",
-      "score": 57,
-      "comments": 12
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "source": "Hacker News",
-      "time": "2026-07-27 15:08",
-      "score": 94,
-      "comments": 25
-    },
-    {
-      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-      "url": "https://usefeyn.com/blog/feynobg/",
-      "source": "Hacker News",
-      "time": "2026-07-27 16:59",
-      "score": 59,
-      "comments": 15
+      "time": "2026-07-27 23:46",
+      "score": 18,
+      "comments": 6
     }
   ]
 }
