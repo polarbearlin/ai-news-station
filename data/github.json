@@ -13,9 +13,9 @@
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 342,
+    "stars": 345,
     "language": "TypeScript",
-    "updated_at": "2026-07-29T11:28:33Z"
+    "updated_at": "2026-07-29T16:42:40Z"
   },
   {
     "name": "ai-stock-pool",
@@ -27,31 +27,31 @@
     "updated_at": "2026-07-29T13:40:47Z"
   },
   {
+    "name": "starling",
+    "full_name": "starling-build/starling",
+    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+    "url": "https://github.com/starling-build/starling",
+    "stars": 79,
+    "language": "Swift",
+    "updated_at": "2026-07-29T17:14:08Z"
+  },
+  {
     "name": "approving",
     "full_name": "cocofhu/approving",
     "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
     "url": "https://github.com/cocofhu/approving",
     "stars": 72,
     "language": "Go",
-    "updated_at": "2026-07-29T12:42:08Z"
-  },
-  {
-    "name": "starling",
-    "full_name": "starling-build/starling",
-    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-    "url": "https://github.com/starling-build/starling",
-    "stars": 61,
-    "language": "Swift",
-    "updated_at": "2026-07-29T14:00:50Z"
+    "updated_at": "2026-07-29T16:15:59Z"
   },
   {
     "name": "cursor-bridge",
     "full_name": "hkc5/cursor-bridge",
     "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
     "url": "https://github.com/hkc5/cursor-bridge",
-    "stars": 40,
+    "stars": 41,
     "language": "Rust",
-    "updated_at": "2026-07-29T13:15:26Z"
+    "updated_at": "2026-07-29T16:43:37Z"
   },
   {
     "name": "neocursor.nvim",
@@ -69,7 +69,7 @@
     "url": "https://github.com/AIDevGTM/gtm-cofounder",
     "stars": 34,
     "language": null,
-    "updated_at": "2026-07-29T11:08:06Z"
+    "updated_at": "2026-07-29T16:24:25Z"
   },
   {
     "name": "facial-recognition-pipeline",
@@ -85,8 +85,8 @@
     "full_name": "bestdeejay-design/awesome-ai-handbook",
     "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
     "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
-    "stars": 24,
+    "stars": 25,
     "language": "HTML",
-    "updated_at": "2026-07-29T07:51:11Z"
+    "updated_at": "2026-07-29T17:01:20Z"
   }
 ]
