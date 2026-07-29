@@ -4,27 +4,27 @@
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 583,
+    "stars": 585,
     "language": "TypeScript",
-    "updated_at": "2026-07-29T02:21:27Z"
+    "updated_at": "2026-07-29T06:19:19Z"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 325,
+    "stars": 329,
     "language": "TypeScript",
-    "updated_at": "2026-07-29T02:32:52Z"
+    "updated_at": "2026-07-29T04:42:42Z"
   },
   {
     "name": "ai-stock-pool",
     "full_name": "yaoleifly/ai-stock-pool",
     "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
     "url": "https://github.com/yaoleifly/ai-stock-pool",
-    "stars": 78,
+    "stars": 79,
     "language": "JavaScript",
-    "updated_at": "2026-07-29T01:37:06Z"
+    "updated_at": "2026-07-29T03:08:54Z"
   },
   {
     "name": "approving",
@@ -33,7 +33,7 @@
     "url": "https://github.com/cocofhu/approving",
     "stars": 73,
     "language": "Go",
-    "updated_at": "2026-07-28T19:32:58Z"
+    "updated_at": "2026-07-29T03:44:05Z"
   },
   {
     "name": "cursor-bridge",
@@ -45,6 +45,15 @@
     "updated_at": "2026-07-28T23:05:21Z"
   },
   {
+    "name": "starling",
+    "full_name": "starling-build/starling",
+    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+    "url": "https://github.com/starling-build/starling",
+    "stars": 36,
+    "language": "Swift",
+    "updated_at": "2026-07-29T06:10:24Z"
+  },
+  {
     "name": "neocursor.nvim",
     "full_name": "teocns/neocursor.nvim",
     "description": "Cursor's Tab in Neovim — the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
@@ -54,6 +63,15 @@
     "updated_at": "2026-07-29T02:10:22Z"
   },
   {
+    "name": "facial-recognition-pipeline",
+    "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "description": "python notebook facial recognitition ",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "stars": 31,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-07-29T06:25:07Z"
+  },
+  {
     "name": "gtm-cofounder",
     "full_name": "AIDevGTM/gtm-cofounder",
     "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
@@ -61,24 +79,6 @@
     "stars": 29,
     "language": null,
     "updated_at": "2026-07-28T23:12:18Z"
-  },
-  {
-    "name": "facial-recognition-pipeline",
-    "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
-    "description": "python notebook facial recognitition ",
-    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
-    "stars": 28,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-07-28T12:15:59Z"
-  },
-  {
-    "name": "starling",
-    "full_name": "starling-build/starling",
-    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-    "url": "https://github.com/starling-build/starling",
-    "stars": 25,
-    "language": "Swift",
-    "updated_at": "2026-07-29T01:12:27Z"
   },
   {
     "name": "antispoofing-fr",
