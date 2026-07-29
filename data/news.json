@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-07-29 10:38:35",
+  "generated_at": "2026-07-29 14:09:32",
   "news": [
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "source": "Hacker News",
+      "time": "2026-07-29 11:44",
+      "score": 138,
+      "comments": 115
+    },
     {
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
       "source": "Hacker News",
       "time": "2026-07-29 04:58",
-      "score": 190,
-      "comments": 65
+      "score": 294,
+      "comments": 95
+    },
+    {
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "source": "Hacker News",
+      "time": "2026-07-29 12:11",
+      "score": 23,
+      "comments": 6
     }
   ]
 }
