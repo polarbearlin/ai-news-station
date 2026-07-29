@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-07-28 21:07:27",
-  "news": []
+  "generated_at": "2026-07-29 02:37:10",
+  "news": [
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "source": "Hacker News",
+      "time": "2026-07-29 01:49",
+      "score": 19,
+      "comments": 9
+    },
+    {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "source": "Hacker News",
+      "time": "2026-07-27 12:56",
+      "score": 17,
+      "comments": 2
+    }
+  ]
 }
