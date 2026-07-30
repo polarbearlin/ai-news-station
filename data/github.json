@@ -4,9 +4,9 @@
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 559,
+    "stars": 560,
     "language": "TypeScript",
-    "updated_at": "2026-07-30T11:39:58Z"
+    "updated_at": "2026-07-30T15:33:40Z"
   },
   {
     "name": "deer-workflow",
@@ -22,9 +22,9 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 126,
+    "stars": 132,
     "language": "Swift",
-    "updated_at": "2026-07-30T13:01:28Z"
+    "updated_at": "2026-07-30T17:09:27Z"
   },
   {
     "name": "ai-stock-pool",
@@ -67,9 +67,9 @@
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 40,
+    "stars": 44,
     "language": "Rust",
-    "updated_at": "2026-07-30T12:27:02Z"
+    "updated_at": "2026-07-30T16:02:04Z"
   },
   {
     "name": "gtm-cofounder",
