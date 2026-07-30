@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-07-30 10:24:05",
+  "generated_at": "2026-07-30 14:00:45",
   "news": [
     {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
       "source": "Hacker News",
-      "time": "2026-07-29 21:25",
-      "score": 483,
-      "comments": 246
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "source": "Hacker News",
-      "time": "2026-07-29 22:51",
-      "score": 261,
-      "comments": 68
-    },
-    {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "source": "Hacker News",
-      "time": "2026-07-29 21:06",
-      "score": 222,
-      "comments": 86
+      "time": "2026-07-30 12:01",
+      "score": 1,
+      "comments": 0
     }
   ]
 }

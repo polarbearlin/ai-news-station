@@ -4,36 +4,36 @@
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 558,
+    "stars": 559,
     "language": "TypeScript",
-    "updated_at": "2026-07-30T09:28:46Z"
+    "updated_at": "2026-07-30T11:39:58Z"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 352,
+    "stars": 356,
     "language": "TypeScript",
-    "updated_at": "2026-07-30T09:37:48Z"
+    "updated_at": "2026-07-30T13:35:52Z"
   },
   {
     "name": "starling",
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 119,
+    "stars": 126,
     "language": "Swift",
-    "updated_at": "2026-07-30T10:10:52Z"
+    "updated_at": "2026-07-30T13:01:28Z"
   },
   {
     "name": "ai-stock-pool",
     "full_name": "yaoleifly/ai-stock-pool",
     "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
     "url": "https://github.com/yaoleifly/ai-stock-pool",
-    "stars": 84,
+    "stars": 85,
     "language": "JavaScript",
-    "updated_at": "2026-07-30T09:47:51Z"
+    "updated_at": "2026-07-30T12:34:41Z"
   },
   {
     "name": "approving",
@@ -42,51 +42,51 @@
     "url": "https://github.com/cocofhu/approving",
     "stars": 72,
     "language": "Go",
-    "updated_at": "2026-07-30T02:47:17Z"
+    "updated_at": "2026-07-30T13:33:01Z"
   },
   {
     "name": "cursor-bridge",
     "full_name": "hkc5/cursor-bridge",
     "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
     "url": "https://github.com/hkc5/cursor-bridge",
-    "stars": 46,
+    "stars": 47,
     "language": "Rust",
-    "updated_at": "2026-07-30T04:18:11Z"
+    "updated_at": "2026-07-30T11:37:47Z"
   },
   {
     "name": "neocursor.nvim",
     "full_name": "teocns/neocursor.nvim",
     "description": "Cursor's Tab in Neovim — the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
     "url": "https://github.com/teocns/neocursor.nvim",
-    "stars": 44,
+    "stars": 45,
     "language": "Lua",
-    "updated_at": "2026-07-30T09:25:02Z"
+    "updated_at": "2026-07-30T11:11:16Z"
   },
   {
     "name": "NIGHTRUN",
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 36,
+    "stars": 40,
     "language": "Rust",
-    "updated_at": "2026-07-30T08:35:41Z"
+    "updated_at": "2026-07-30T12:27:02Z"
   },
   {
     "name": "gtm-cofounder",
     "full_name": "AIDevGTM/gtm-cofounder",
     "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.",
     "url": "https://github.com/AIDevGTM/gtm-cofounder",
-    "stars": 36,
+    "stars": 35,
     "language": null,
-    "updated_at": "2026-07-30T09:13:55Z"
+    "updated_at": "2026-07-30T12:37:07Z"
   },
   {
     "name": "ywcrew",
     "full_name": "yuwen-cool/ywcrew",
     "description": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。",
     "url": "https://github.com/yuwen-cool/ywcrew",
-    "stars": 31,
+    "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-07-30T09:04:52Z"
+    "updated_at": "2026-07-30T12:34:51Z"
   }
 ]
