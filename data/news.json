@@ -1,4 +1,37 @@
 {
-  "generated_at": "2026-07-29 20:55:49",
-  "news": []
+  "generated_at": "2026-07-30 02:24:26",
+  "news": [
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source": "Hacker News",
+      "time": "2026-07-29 21:25",
+      "score": 230,
+      "comments": 129
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "source": "Hacker News",
+      "time": "2026-07-29 22:51",
+      "score": 70,
+      "comments": 23
+    },
+    {
+      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+      "source": "Hacker News",
+      "time": "2026-07-30 01:35",
+      "score": 14,
+      "comments": 9
+    },
+    {
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "source": "Hacker News",
+      "time": "2026-07-29 21:06",
+      "score": 96,
+      "comments": 39
+    }
+  ]
 }

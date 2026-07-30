@@ -4,27 +4,27 @@
     "full_name": "0xwilliamortiz/openclaude-improved",
     "description": "runs anywhere. uses anything",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 554,
+    "stars": 555,
     "language": "TypeScript",
-    "updated_at": "2026-07-29T12:46:31Z"
+    "updated_at": "2026-07-30T02:09:17Z"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 345,
+    "stars": 348,
     "language": "TypeScript",
-    "updated_at": "2026-07-29T16:42:40Z"
+    "updated_at": "2026-07-30T00:31:01Z"
   },
   {
     "name": "starling",
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 91,
+    "stars": 105,
     "language": "Swift",
-    "updated_at": "2026-07-29T20:12:59Z"
+    "updated_at": "2026-07-30T02:11:51Z"
   },
   {
     "name": "ai-stock-pool",
@@ -49,18 +49,18 @@
     "full_name": "hkc5/cursor-bridge",
     "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
     "url": "https://github.com/hkc5/cursor-bridge",
-    "stars": 42,
+    "stars": 44,
     "language": "Rust",
-    "updated_at": "2026-07-29T17:53:28Z"
+    "updated_at": "2026-07-30T02:21:07Z"
   },
   {
     "name": "neocursor.nvim",
     "full_name": "teocns/neocursor.nvim",
     "description": "Cursor's Tab in Neovim — the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
     "url": "https://github.com/teocns/neocursor.nvim",
-    "stars": 38,
+    "stars": 41,
     "language": "Lua",
-    "updated_at": "2026-07-29T13:58:41Z"
+    "updated_at": "2026-07-29T23:50:39Z"
   },
   {
     "name": "gtm-cofounder",
@@ -72,21 +72,21 @@
     "updated_at": "2026-07-29T18:41:42Z"
   },
   {
-    "name": "facial-recognition-pipeline",
-    "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
-    "description": "python notebook facial recognitition ",
-    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
-    "stars": 32,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-07-29T09:11:15Z"
+    "name": "NIGHTRUN",
+    "full_name": "hardrave/NIGHTRUN",
+    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+    "url": "https://github.com/hardrave/NIGHTRUN",
+    "stars": 29,
+    "language": "Rust",
+    "updated_at": "2026-07-30T01:49:37Z"
   },
   {
-    "name": "awesome-ai-handbook",
-    "full_name": "bestdeejay-design/awesome-ai-handbook",
-    "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
-    "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
-    "stars": 29,
-    "language": "HTML",
-    "updated_at": "2026-07-29T20:44:27Z"
+    "name": "ywcrew",
+    "full_name": "yuwen-cool/ywcrew",
+    "description": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。",
+    "url": "https://github.com/yuwen-cool/ywcrew",
+    "stars": 24,
+    "language": "TypeScript",
+    "updated_at": "2026-07-30T01:43:12Z"
   }
 ]
