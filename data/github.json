@@ -22,9 +22,9 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 173,
+    "stars": 177,
     "language": "Swift",
-    "updated_at": "2026-07-31T14:02:13Z"
+    "updated_at": "2026-07-31T16:19:15Z"
   },
   {
     "name": "ai-stock-pool",
@@ -40,18 +40,18 @@
     "full_name": "Aaryanverma/graybox",
     "description": "A local-first, long-term memory for anything you'd otherwise forget.",
     "url": "https://github.com/Aaryanverma/graybox",
-    "stars": 74,
+    "stars": 78,
     "language": "Python",
-    "updated_at": "2026-07-31T14:05:46Z"
+    "updated_at": "2026-07-31T16:20:41Z"
   },
   {
     "name": "NIGHTRUN",
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 70,
+    "stars": 75,
     "language": "Rust",
-    "updated_at": "2026-07-31T13:39:20Z"
+    "updated_at": "2026-07-31T17:18:12Z"
   },
   {
     "name": "cursor-bridge",
@@ -67,9 +67,9 @@
     "full_name": "Shpigford/nurb",
     "description": "Agentic CAD for 3D printing",
     "url": "https://github.com/Shpigford/nurb",
-    "stars": 54,
+    "stars": 55,
     "language": "Python",
-    "updated_at": "2026-07-31T12:44:09Z"
+    "updated_at": "2026-07-31T16:20:03Z"
   },
   {
     "name": "ywcrew",
