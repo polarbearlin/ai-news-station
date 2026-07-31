@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-07-31 10:38:17",
+  "generated_at": "2026-07-31 14:05:59",
   "news": [
+    {
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "source": "Hacker News",
+      "time": "2026-07-31 07:59",
+      "score": 217,
+      "comments": 80
+    },
+    {
+      "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+      "source": "Hacker News",
+      "time": "2026-07-31 13:37",
+      "score": 29,
+      "comments": 11
+    },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "source": "Hacker News",
       "time": "2026-07-31 07:29",
-      "score": 91,
-      "comments": 96
+      "score": 234,
+      "comments": 226
     },
     {
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
       "source": "Hacker News",
       "time": "2026-07-31 06:08",
-      "score": 304,
-      "comments": 136
-    },
-    {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "source": "Hacker News",
-      "time": "2026-07-31 05:17",
-      "score": 60,
-      "comments": 38
+      "score": 438,
+      "comments": 224
     }
   ]
 }

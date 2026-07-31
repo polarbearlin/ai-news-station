@@ -13,18 +13,18 @@
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 362,
+    "stars": 366,
     "language": "TypeScript",
-    "updated_at": "2026-07-31T08:59:06Z"
+    "updated_at": "2026-07-31T13:45:37Z"
   },
   {
     "name": "starling",
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 166,
+    "stars": 173,
     "language": "Swift",
-    "updated_at": "2026-07-31T09:36:26Z"
+    "updated_at": "2026-07-31T14:02:13Z"
   },
   {
     "name": "ai-stock-pool",
@@ -36,6 +36,24 @@
     "updated_at": "2026-07-31T09:11:09Z"
   },
   {
+    "name": "graybox",
+    "full_name": "Aaryanverma/graybox",
+    "description": "A local-first, long-term memory for anything you'd otherwise forget.",
+    "url": "https://github.com/Aaryanverma/graybox",
+    "stars": 74,
+    "language": "Python",
+    "updated_at": "2026-07-31T14:05:46Z"
+  },
+  {
+    "name": "NIGHTRUN",
+    "full_name": "hardrave/NIGHTRUN",
+    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+    "url": "https://github.com/hardrave/NIGHTRUN",
+    "stars": 70,
+    "language": "Rust",
+    "updated_at": "2026-07-31T13:39:20Z"
+  },
+  {
     "name": "cursor-bridge",
     "full_name": "hkc5/cursor-bridge",
     "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
@@ -45,48 +63,30 @@
     "updated_at": "2026-07-31T02:22:30Z"
   },
   {
-    "name": "NIGHTRUN",
-    "full_name": "hardrave/NIGHTRUN",
-    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-    "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 66,
-    "language": "Rust",
-    "updated_at": "2026-07-31T10:12:07Z"
-  },
-  {
-    "name": "graybox",
-    "full_name": "Aaryanverma/graybox",
-    "description": "A local-first, long-term memory for anything you'd otherwise forget.",
-    "url": "https://github.com/Aaryanverma/graybox",
-    "stars": 66,
-    "language": "Python",
-    "updated_at": "2026-07-31T10:15:46Z"
-  },
-  {
     "name": "nurb",
     "full_name": "Shpigford/nurb",
     "description": "Agentic CAD for 3D printing",
     "url": "https://github.com/Shpigford/nurb",
-    "stars": 53,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-07-31T09:05:43Z"
+    "updated_at": "2026-07-31T12:44:09Z"
   },
   {
     "name": "ywcrew",
     "full_name": "yuwen-cool/ywcrew",
     "description": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。",
     "url": "https://github.com/yuwen-cool/ywcrew",
-    "stars": 34,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-07-30T12:34:51Z"
+    "updated_at": "2026-07-31T13:40:05Z"
   },
   {
     "name": "CozyClay",
     "full_name": "HaD0Yun/CozyClay",
     "description": "Direct Blender with an AI agent from your terminal.",
     "url": "https://github.com/HaD0Yun/CozyClay",
-    "stars": 31,
+    "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-07-31T01:21:11Z"
+    "updated_at": "2026-07-31T13:41:40Z"
   }
 ]
