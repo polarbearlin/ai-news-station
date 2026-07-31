@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-07-30 21:09:38",
+  "generated_at": "2026-07-31 02:48:51",
   "news": [
     {
-      "title": "I obtained Claude Opus 5 system prompt",
-      "url": "https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "source": "Hacker News",
-      "time": "2026-07-30 20:53",
-      "score": 15,
-      "comments": 6
-    },
-    {
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "source": "Hacker News",
-      "time": "2026-07-25 14:27",
-      "score": 119,
-      "comments": 80
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "source": "Hacker News",
-      "time": "2026-07-30 17:15",
-      "score": 400,
-      "comments": 261
+      "time": "2026-07-30 23:22",
+      "score": 140,
+      "comments": 67
     }
   ]
 }
