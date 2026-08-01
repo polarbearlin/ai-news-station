@@ -22,27 +22,27 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 215,
+    "stars": 225,
     "language": "Swift",
-    "updated_at": "2026-08-01T16:27:25Z"
+    "updated_at": "2026-08-01T19:53:23Z"
   },
   {
     "name": "NIGHTRUN",
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 100,
+    "stars": 103,
     "language": "Rust",
-    "updated_at": "2026-08-01T15:30:15Z"
+    "updated_at": "2026-08-01T19:27:01Z"
   },
   {
     "name": "graybox",
     "full_name": "Aaryanverma/graybox",
     "description": "A local-first, long-term memory for anything you'd otherwise forget.",
     "url": "https://github.com/Aaryanverma/graybox",
-    "stars": 96,
+    "stars": 99,
     "language": "Python",
-    "updated_at": "2026-08-01T16:31:04Z"
+    "updated_at": "2026-08-01T20:45:46Z"
   },
   {
     "name": "ai-stock-pool",
@@ -63,6 +63,15 @@
     "updated_at": "2026-07-31T02:22:30Z"
   },
   {
+    "name": "bindwidth",
+    "full_name": "juxhinr/bindwidth",
+    "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+    "url": "https://github.com/juxhinr/bindwidth",
+    "stars": 54,
+    "language": "JavaScript",
+    "updated_at": "2026-08-01T19:33:20Z"
+  },
+  {
     "name": "ywcrew",
     "full_name": "yuwen-cool/ywcrew",
     "description": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。",
@@ -79,14 +88,5 @@
     "stars": 34,
     "language": "TypeScript",
     "updated_at": "2026-08-01T12:06:59Z"
-  },
-  {
-    "name": "llmwiki-harness",
-    "full_name": "cookyman74/llmwiki-harness",
-    "description": null,
-    "url": "https://github.com/cookyman74/llmwiki-harness",
-    "stars": 24,
-    "language": "Python",
-    "updated_at": "2026-08-01T12:26:55Z"
   }
 ]
