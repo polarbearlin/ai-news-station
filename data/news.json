@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-01 06:28:43",
+  "generated_at": "2026-08-01 09:58:54",
   "news": [
+    {
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "source": "Hacker News",
+      "time": "2026-08-01 07:52",
+      "score": 41,
+      "comments": 18
+    },
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
       "source": "Hacker News",
       "time": "2026-08-01 02:45",
-      "score": 64,
-      "comments": 19
+      "score": 122,
+      "comments": 38
     }
   ]
 }
