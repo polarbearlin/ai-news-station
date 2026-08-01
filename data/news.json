@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-01 09:58:54",
+  "generated_at": "2026-08-01 13:20:19",
   "news": [
-    {
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "source": "Hacker News",
-      "time": "2026-08-01 07:52",
-      "score": 41,
-      "comments": 18
-    },
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
       "source": "Hacker News",
       "time": "2026-08-01 02:45",
-      "score": 122,
-      "comments": 38
+      "score": 157,
+      "comments": 56
+    },
+    {
+      "title": "Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "source": "Hacker News",
+      "time": "2026-08-01 13:02",
+      "score": 10,
+      "comments": 4
     }
   ]
 }
