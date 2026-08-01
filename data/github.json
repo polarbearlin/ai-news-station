@@ -13,18 +13,27 @@
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 368,
+    "stars": 369,
     "language": "TypeScript",
-    "updated_at": "2026-08-01T02:11:40Z"
+    "updated_at": "2026-08-01T05:55:16Z"
   },
   {
     "name": "starling",
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 185,
+    "stars": 188,
     "language": "Swift",
-    "updated_at": "2026-08-01T01:48:07Z"
+    "updated_at": "2026-08-01T06:11:48Z"
+  },
+  {
+    "name": "NIGHTRUN",
+    "full_name": "hardrave/NIGHTRUN",
+    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+    "url": "https://github.com/hardrave/NIGHTRUN",
+    "stars": 89,
+    "language": "Rust",
+    "updated_at": "2026-08-01T06:10:56Z"
   },
   {
     "name": "ai-stock-pool",
@@ -43,15 +52,6 @@
     "stars": 85,
     "language": "Python",
     "updated_at": "2026-07-31T23:54:51Z"
-  },
-  {
-    "name": "NIGHTRUN",
-    "full_name": "hardrave/NIGHTRUN",
-    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-    "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 84,
-    "language": "Rust",
-    "updated_at": "2026-08-01T02:27:57Z"
   },
   {
     "name": "cursor-bridge",
@@ -76,9 +76,9 @@
     "full_name": "HaD0Yun/CozyClay",
     "description": "Direct Blender with an AI agent from your terminal.",
     "url": "https://github.com/HaD0Yun/CozyClay",
-    "stars": 32,
+    "stars": 33,
     "language": "TypeScript",
-    "updated_at": "2026-07-31T13:41:40Z"
+    "updated_at": "2026-08-01T04:31:19Z"
   },
   {
     "name": "llmwiki-harness",
@@ -87,6 +87,6 @@
     "url": "https://github.com/cookyman74/llmwiki-harness",
     "stars": 24,
     "language": "Python",
-    "updated_at": "2026-08-01T02:44:38Z"
+    "updated_at": "2026-08-01T04:09:19Z"
   }
 ]
