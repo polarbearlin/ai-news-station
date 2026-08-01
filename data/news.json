@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-01 13:20:19",
+  "generated_at": "2026-08-01 16:59:00",
   "news": [
     {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "source": "Hacker News",
-      "time": "2026-08-01 02:45",
-      "score": 157,
-      "comments": 56
+      "time": "2026-08-01 15:23",
+      "score": 16,
+      "comments": 2
     },
     {
-      "title": "Google kills Earth AI generator after one day",
-      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "title": "Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
       "source": "Hacker News",
-      "time": "2026-08-01 13:02",
-      "score": 10,
-      "comments": 4
+      "time": "2026-08-01 12:56",
+      "score": 59,
+      "comments": 50
     }
   ]
 }
