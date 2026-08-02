@@ -4,18 +4,18 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 232,
+    "stars": 235,
     "language": "Swift",
-    "updated_at": "2026-08-02T02:38:34Z"
+    "updated_at": "2026-08-02T05:05:14Z"
   },
   {
     "name": "NIGHTRUN",
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 105,
+    "stars": 108,
     "language": "Rust",
-    "updated_at": "2026-08-01T22:27:21Z"
+    "updated_at": "2026-08-02T04:41:32Z"
   },
   {
     "name": "bindwidth",
@@ -49,18 +49,18 @@
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 22,
+    "stars": 24,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-02T02:16:15Z"
+    "updated_at": "2026-08-02T03:15:49Z"
   },
   {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 20,
+    "stars": 21,
     "language": "Python",
-    "updated_at": "2026-08-02T01:51:06Z"
+    "updated_at": "2026-08-02T05:10:01Z"
   },
   {
     "name": "jasoseo-plugin",
@@ -72,6 +72,15 @@
     "updated_at": "2026-07-31T09:40:10Z"
   },
   {
+    "name": "localai-rag-live2d",
+    "full_name": "ice-only/localai-rag-live2d",
+    "description": "一个本地ai聊天模型localaiAgentWithRAG，让你的本地数据不上传云端，可以自己加入所需要的记忆文件等等，修改角色形象，记忆对话，记忆库允许自己导入或者对话后自动记录",
+    "url": "https://github.com/ice-only/localai-rag-live2d",
+    "stars": 17,
+    "language": "Python",
+    "updated_at": "2026-08-02T04:43:06Z"
+  },
+  {
     "name": "relmio",
     "full_name": "Demonbane18/relmio",
     "description": "A safe local browser wizard for installing an OpenAI OAuth sidecar beside self-hosted n8n.",
@@ -79,14 +88,5 @@
     "stars": 17,
     "language": "JavaScript",
     "updated_at": "2026-08-02T02:33:56Z"
-  },
-  {
-    "name": "localai-rag-live2d",
-    "full_name": "ice-only/localai-rag-live2d",
-    "description": "一个本地ai聊天模型localaiAgentWithRAG，让你的本地数据不上传云端，可以自己加入所需要的记忆文件等等，修改角色形象，记忆对话，记忆库允许自己导入或者对话后自动记录",
-    "url": "https://github.com/ice-only/localai-rag-live2d",
-    "stars": 15,
-    "language": "Python",
-    "updated_at": "2026-08-01T21:59:23Z"
   }
 ]
