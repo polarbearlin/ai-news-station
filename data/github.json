@@ -4,9 +4,9 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 235,
+    "stars": 240,
     "language": "Swift",
-    "updated_at": "2026-08-02T05:05:14Z"
+    "updated_at": "2026-08-02T09:46:54Z"
   },
   {
     "name": "NIGHTRUN",
@@ -49,18 +49,27 @@
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 24,
+    "stars": 27,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-02T03:15:49Z"
+    "updated_at": "2026-08-02T09:18:18Z"
   },
   {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 21,
+    "stars": 24,
     "language": "Python",
-    "updated_at": "2026-08-02T05:10:01Z"
+    "updated_at": "2026-08-02T09:49:54Z"
+  },
+  {
+    "name": "relmio",
+    "full_name": "Demonbane18/relmio",
+    "description": "A safe local browser wizard for installing an OpenAI OAuth sidecar beside self-hosted n8n.",
+    "url": "https://github.com/Demonbane18/relmio",
+    "stars": 20,
+    "language": "JavaScript",
+    "updated_at": "2026-08-02T09:16:07Z"
   },
   {
     "name": "jasoseo-plugin",
@@ -79,14 +88,5 @@
     "stars": 17,
     "language": "Python",
     "updated_at": "2026-08-02T04:43:06Z"
-  },
-  {
-    "name": "relmio",
-    "full_name": "Demonbane18/relmio",
-    "description": "A safe local browser wizard for installing an OpenAI OAuth sidecar beside self-hosted n8n.",
-    "url": "https://github.com/Demonbane18/relmio",
-    "stars": 17,
-    "language": "JavaScript",
-    "updated_at": "2026-08-02T02:33:56Z"
   }
 ]
