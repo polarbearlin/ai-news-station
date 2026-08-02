@@ -4,27 +4,27 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 245,
+    "stars": 249,
     "language": "Swift",
-    "updated_at": "2026-08-02T13:09:37Z"
+    "updated_at": "2026-08-02T16:33:55Z"
   },
   {
     "name": "NIGHTRUN",
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 109,
+    "stars": 114,
     "language": "Rust",
-    "updated_at": "2026-08-02T10:55:33Z"
+    "updated_at": "2026-08-02T16:33:49Z"
   },
   {
     "name": "bindwidth",
     "full_name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 56,
+    "stars": 58,
     "language": "JavaScript",
-    "updated_at": "2026-08-02T01:43:05Z"
+    "updated_at": "2026-08-02T15:35:10Z"
   },
   {
     "name": "ywcrew",
@@ -49,9 +49,9 @@
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 31,
+    "stars": 32,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-02T12:46:52Z"
+    "updated_at": "2026-08-02T16:55:08Z"
   },
   {
     "name": "autoclip",
@@ -85,8 +85,8 @@
     "full_name": "ice-only/localai-rag-live2d",
     "description": "一个本地ai聊天模型localaiAgentWithRAG，让你的本地数据不上传云端，可以自己加入所需要的记忆文件等等，修改角色形象，记忆对话，记忆库允许自己导入或者对话后自动记录",
     "url": "https://github.com/ice-only/localai-rag-live2d",
-    "stars": 17,
+    "stars": 18,
     "language": "Python",
-    "updated_at": "2026-08-02T04:43:06Z"
+    "updated_at": "2026-08-02T13:30:41Z"
   }
 ]
