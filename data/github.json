@@ -1,75 +1,30 @@
 [
   {
-    "name": "openclaude-improved",
-    "full_name": "0xwilliamortiz/openclaude-improved",
-    "description": "runs anywhere. uses anything",
-    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "stars": 565,
-    "language": "TypeScript",
-    "updated_at": "2026-08-01T14:06:51Z"
-  },
-  {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 373,
-    "language": "TypeScript",
-    "updated_at": "2026-08-01T11:34:25Z"
-  },
-  {
     "name": "starling",
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 225,
+    "stars": 232,
     "language": "Swift",
-    "updated_at": "2026-08-01T19:53:23Z"
+    "updated_at": "2026-08-02T02:38:34Z"
   },
   {
     "name": "NIGHTRUN",
     "full_name": "hardrave/NIGHTRUN",
     "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
     "url": "https://github.com/hardrave/NIGHTRUN",
-    "stars": 103,
+    "stars": 105,
     "language": "Rust",
-    "updated_at": "2026-08-01T19:27:01Z"
-  },
-  {
-    "name": "graybox",
-    "full_name": "Aaryanverma/graybox",
-    "description": "A local-first, long-term memory for anything you'd otherwise forget.",
-    "url": "https://github.com/Aaryanverma/graybox",
-    "stars": 99,
-    "language": "Python",
-    "updated_at": "2026-08-01T20:45:46Z"
-  },
-  {
-    "name": "ai-stock-pool",
-    "full_name": "yaoleifly/ai-stock-pool",
-    "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
-    "url": "https://github.com/yaoleifly/ai-stock-pool",
-    "stars": 87,
-    "language": "JavaScript",
-    "updated_at": "2026-08-01T00:54:15Z"
-  },
-  {
-    "name": "cursor-bridge",
-    "full_name": "hkc5/cursor-bridge",
-    "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
-    "url": "https://github.com/hkc5/cursor-bridge",
-    "stars": 70,
-    "language": "Rust",
-    "updated_at": "2026-07-31T02:22:30Z"
+    "updated_at": "2026-08-01T22:27:21Z"
   },
   {
     "name": "bindwidth",
     "full_name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 54,
+    "stars": 56,
     "language": "JavaScript",
-    "updated_at": "2026-08-01T19:33:20Z"
+    "updated_at": "2026-08-02T01:43:05Z"
   },
   {
     "name": "ywcrew",
@@ -87,6 +42,51 @@
     "url": "https://github.com/HaD0Yun/CozyClay",
     "stars": 34,
     "language": "TypeScript",
-    "updated_at": "2026-08-01T12:06:59Z"
+    "updated_at": "2026-08-01T22:02:51Z"
+  },
+  {
+    "name": "atguigu-note",
+    "full_name": "xbsheng/atguigu-note",
+    "description": "尚硅谷 AI 课程笔记",
+    "url": "https://github.com/xbsheng/atguigu-note",
+    "stars": 22,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-02T02:16:15Z"
+  },
+  {
+    "name": "autoclip",
+    "full_name": "artbyjazi/autoclip",
+    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
+    "url": "https://github.com/artbyjazi/autoclip",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-08-02T01:51:06Z"
+  },
+  {
+    "name": "jasoseo-plugin",
+    "full_name": "KangRyun/jasoseo-plugin",
+    "description": "한국 취업 자기소개서를 기업조사→초안→글자수→리뷰→윤문→검증   8단계로 완성하는 Claude Code 플러그인",
+    "url": "https://github.com/KangRyun/jasoseo-plugin",
+    "stars": 18,
+    "language": null,
+    "updated_at": "2026-07-31T09:40:10Z"
+  },
+  {
+    "name": "relmio",
+    "full_name": "Demonbane18/relmio",
+    "description": "A safe local browser wizard for installing an OpenAI OAuth sidecar beside self-hosted n8n.",
+    "url": "https://github.com/Demonbane18/relmio",
+    "stars": 17,
+    "language": "JavaScript",
+    "updated_at": "2026-08-02T02:33:56Z"
+  },
+  {
+    "name": "localai-rag-live2d",
+    "full_name": "ice-only/localai-rag-live2d",
+    "description": "一个本地ai聊天模型localaiAgentWithRAG，让你的本地数据不上传云端，可以自己加入所需要的记忆文件等等，修改角色形象，记忆对话，记忆库允许自己导入或者对话后自动记录",
+    "url": "https://github.com/ice-only/localai-rag-live2d",
+    "stars": 15,
+    "language": "Python",
+    "updated_at": "2026-08-01T21:59:23Z"
   }
 ]
