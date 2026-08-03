@@ -4,18 +4,36 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 256,
+    "stars": 264,
     "language": "Swift",
-    "updated_at": "2026-08-03T02:38:22Z"
+    "updated_at": "2026-08-03T07:07:00Z"
+  },
+  {
+    "name": "aimux",
+    "full_name": "arcships/aimux",
+    "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
+    "url": "https://github.com/arcships/aimux",
+    "stars": 149,
+    "language": "Rust",
+    "updated_at": "2026-08-03T07:17:08Z"
   },
   {
     "name": "bindwidth",
     "full_name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 95,
+    "stars": 138,
     "language": "JavaScript",
-    "updated_at": "2026-08-02T19:03:50Z"
+    "updated_at": "2026-08-03T05:41:02Z"
+  },
+  {
+    "name": "genoffice",
+    "full_name": "genspark-ai/genoffice",
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+    "url": "https://github.com/genspark-ai/genoffice",
+    "stars": 51,
+    "language": "TypeScript",
+    "updated_at": "2026-08-03T07:21:30Z"
   },
   {
     "name": "atguigu-note",
@@ -24,7 +42,25 @@
     "url": "https://github.com/xbsheng/atguigu-note",
     "stars": 39,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-03T02:47:09Z"
+    "updated_at": "2026-08-03T05:23:51Z"
+  },
+  {
+    "name": "CozyClay",
+    "full_name": "HaD0Yun/CozyClay",
+    "description": "Direct Blender with an AI agent from your terminal.",
+    "url": "https://github.com/HaD0Yun/CozyClay",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-08-03T07:13:28Z"
+  },
+  {
+    "name": "clone-chat",
+    "full_name": "AFan4724/clone-chat",
+    "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
+    "url": "https://github.com/AFan4724/clone-chat",
+    "stars": 37,
+    "language": "JavaScript",
+    "updated_at": "2026-08-03T04:59:13Z"
   },
   {
     "name": "ywcrew",
@@ -36,31 +72,13 @@
     "updated_at": "2026-07-31T13:40:05Z"
   },
   {
-    "name": "CozyClay",
-    "full_name": "HaD0Yun/CozyClay",
-    "description": "Direct Blender with an AI agent from your terminal.",
-    "url": "https://github.com/HaD0Yun/CozyClay",
-    "stars": 34,
-    "language": "TypeScript",
-    "updated_at": "2026-08-01T22:02:51Z"
-  },
-  {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 29,
+    "stars": 31,
     "language": "Python",
-    "updated_at": "2026-08-03T01:35:27Z"
-  },
-  {
-    "name": "clone-chat",
-    "full_name": "AFan4724/clone-chat",
-    "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
-    "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 25,
-    "language": "JavaScript",
-    "updated_at": "2026-08-03T02:44:31Z"
+    "updated_at": "2026-08-03T06:43:20Z"
   },
   {
     "name": "localai-rag-live2d",
@@ -70,23 +88,5 @@
     "stars": 21,
     "language": "Python",
     "updated_at": "2026-08-03T02:28:25Z"
-  },
-  {
-    "name": "claude-copy",
-    "full_name": "HarKro753/claude-copy",
-    "description": "Copy any reference pixel perfect  in mintes",
-    "url": "https://github.com/HarKro753/claude-copy",
-    "stars": 14,
-    "language": "Python",
-    "updated_at": "2026-08-02T22:31:26Z"
-  },
-  {
-    "name": "llm-system-design",
-    "full_name": "lamhotsiagian/llm-system-design",
-    "description": "A production-grade LLM System Design platform & interactive lab. Features a pure-Python LLM serving, RAG, routing, safety, and agent control plane (150+ offline tests) plus a LangChain + Streamlit UI with local Ollama models.",
-    "url": "https://github.com/lamhotsiagian/llm-system-design",
-    "stars": 13,
-    "language": "Python",
-    "updated_at": "2026-08-01T20:32:46Z"
   }
 ]
