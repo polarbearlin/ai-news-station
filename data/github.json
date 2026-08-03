@@ -4,18 +4,18 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 264,
+    "stars": 265,
     "language": "Swift",
-    "updated_at": "2026-08-03T07:07:00Z"
+    "updated_at": "2026-08-03T09:50:56Z"
   },
   {
     "name": "aimux",
     "full_name": "arcships/aimux",
     "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
     "url": "https://github.com/arcships/aimux",
-    "stars": 149,
+    "stars": 150,
     "language": "Rust",
-    "updated_at": "2026-08-03T07:17:08Z"
+    "updated_at": "2026-08-03T09:47:25Z"
   },
   {
     "name": "bindwidth",
@@ -31,27 +31,18 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 51,
+    "stars": 111,
     "language": "TypeScript",
-    "updated_at": "2026-08-03T07:21:30Z"
+    "updated_at": "2026-08-03T11:19:15Z"
   },
   {
     "name": "atguigu-note",
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 39,
+    "stars": 42,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-03T05:23:51Z"
-  },
-  {
-    "name": "CozyClay",
-    "full_name": "HaD0Yun/CozyClay",
-    "description": "Direct Blender with an AI agent from your terminal.",
-    "url": "https://github.com/HaD0Yun/CozyClay",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-08-03T07:13:28Z"
+    "updated_at": "2026-08-03T07:47:57Z"
   },
   {
     "name": "clone-chat",
@@ -61,6 +52,15 @@
     "stars": 37,
     "language": "JavaScript",
     "updated_at": "2026-08-03T04:59:13Z"
+  },
+  {
+    "name": "CozyClay",
+    "full_name": "HaD0Yun/CozyClay",
+    "description": "Direct Blender with an AI agent from your terminal.",
+    "url": "https://github.com/HaD0Yun/CozyClay",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-08-03T07:13:28Z"
   },
   {
     "name": "ywcrew",

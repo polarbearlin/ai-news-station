@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-03 07:25:59",
+  "generated_at": "2026-08-03 11:22:18",
   "news": [
     {
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "url": "https://arxiv.org/abs/2607.28271",
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
       "source": "Hacker News",
-      "time": "2026-08-03 03:06",
-      "score": 37,
-      "comments": 29
+      "time": "2026-08-03 08:29",
+      "score": 64,
+      "comments": 17
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "source": "Hacker News",
+      "time": "2026-08-03 09:32",
+      "score": 80,
+      "comments": 57
     }
   ]
 }
