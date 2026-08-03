@@ -4,18 +4,27 @@
     "full_name": "starling-build/starling",
     "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
     "url": "https://github.com/starling-build/starling",
-    "stars": 265,
+    "stars": 266,
     "language": "Swift",
-    "updated_at": "2026-08-03T09:50:56Z"
+    "updated_at": "2026-08-03T12:59:36Z"
+  },
+  {
+    "name": "genoffice",
+    "full_name": "genspark-ai/genoffice",
+    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+    "url": "https://github.com/genspark-ai/genoffice",
+    "stars": 249,
+    "language": "TypeScript",
+    "updated_at": "2026-08-03T14:38:06Z"
   },
   {
     "name": "aimux",
     "full_name": "arcships/aimux",
     "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
     "url": "https://github.com/arcships/aimux",
-    "stars": 150,
+    "stars": 151,
     "language": "Rust",
-    "updated_at": "2026-08-03T09:47:25Z"
+    "updated_at": "2026-08-03T14:30:26Z"
   },
   {
     "name": "bindwidth",
@@ -27,22 +36,13 @@
     "updated_at": "2026-08-03T05:41:02Z"
   },
   {
-    "name": "genoffice",
-    "full_name": "genspark-ai/genoffice",
-    "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 111,
-    "language": "TypeScript",
-    "updated_at": "2026-08-03T11:19:15Z"
-  },
-  {
     "name": "atguigu-note",
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 42,
+    "stars": 45,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-03T07:47:57Z"
+    "updated_at": "2026-08-03T13:45:09Z"
   },
   {
     "name": "clone-chat",
