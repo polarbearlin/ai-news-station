@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-08-03 14:38:19",
+  "generated_at": "2026-08-03 17:50:33",
   "news": [
     {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
+      "title": "What's the largest software project AI can complete on its own?",
+      "url": "https://epoch.ai/MirrorCode",
       "source": "Hacker News",
-      "time": "2026-08-03 11:15",
-      "score": 61,
-      "comments": 29
-    },
-    {
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "source": "Hacker News",
-      "time": "2026-08-03 08:29",
-      "score": 153,
-      "comments": 55
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "source": "Hacker News",
-      "time": "2026-08-03 09:32",
-      "score": 200,
-      "comments": 149
+      "time": "2026-08-03 16:16",
+      "score": 44,
+      "comments": 39
     }
   ]
 }
