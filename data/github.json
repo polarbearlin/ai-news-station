@@ -4,18 +4,18 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1105,
+    "stars": 1195,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T14:02:32Z"
+    "updated_at": "2026-08-04T17:37:28Z"
   },
   {
     "name": "bindwidth",
     "full_name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 141,
+    "stars": 142,
     "language": "JavaScript",
-    "updated_at": "2026-08-03T19:49:05Z"
+    "updated_at": "2026-08-04T16:25:35Z"
   },
   {
     "name": "clone-chat",
@@ -36,22 +36,31 @@
     "updated_at": "2026-08-04T13:26:12Z"
   },
   {
-    "name": "autoclip",
-    "full_name": "artbyjazi/autoclip",
-    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
-    "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 34,
-    "language": "Python",
-    "updated_at": "2026-08-04T12:36:16Z"
-  },
-  {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 32,
+    "stars": 39,
     "language": null,
-    "updated_at": "2026-08-04T13:07:32Z"
+    "updated_at": "2026-08-04T16:55:36Z"
+  },
+  {
+    "name": "autoclip",
+    "full_name": "artbyjazi/autoclip",
+    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
+    "url": "https://github.com/artbyjazi/autoclip",
+    "stars": 37,
+    "language": "Python",
+    "updated_at": "2026-08-04T16:59:19Z"
+  },
+  {
+    "name": "timecut",
+    "full_name": "foodpm/timecut",
+    "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
+    "url": "https://github.com/foodpm/timecut",
+    "stars": 30,
+    "language": "Python",
+    "updated_at": "2026-08-04T16:59:19Z"
   },
   {
     "name": "wai-play",
@@ -70,15 +79,6 @@
     "stars": 25,
     "language": "TypeScript",
     "updated_at": "2026-08-04T13:05:50Z"
-  },
-  {
-    "name": "timecut",
-    "full_name": "foodpm/timecut",
-    "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
-    "url": "https://github.com/foodpm/timecut",
-    "stars": 24,
-    "language": "Python",
-    "updated_at": "2026-08-04T14:06:05Z"
   },
   {
     "name": "localai-rag-live2d",

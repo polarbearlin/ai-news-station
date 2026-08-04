@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-08-04 14:10:48",
+  "generated_at": "2026-08-04 17:48:13",
   "news": [
     {
       "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
       "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
       "source": "Hacker News",
       "time": "2026-08-04 10:13",
-      "score": 176,
-      "comments": 43
+      "score": 481,
+      "comments": 215
     },
     {
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "source": "Hacker News",
       "time": "2026-08-04 10:00",
-      "score": 172,
-      "comments": 44
-    },
-    {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "source": "Hacker News",
-      "time": "2026-08-03 21:13",
-      "score": 1130,
-      "comments": 475
+      "score": 285,
+      "comments": 62
     },
     {
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
       "source": "Hacker News",
       "time": "2026-08-04 11:01",
-      "score": 50,
-      "comments": 9
+      "score": 157,
+      "comments": 80
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "Hacker News",
+      "time": "2026-08-04 15:37",
+      "score": 121,
+      "comments": 81
+    },
+    {
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "source": "Hacker News",
+      "time": "2026-08-04 15:05",
+      "score": 114,
+      "comments": 31
     }
   ]
 }
