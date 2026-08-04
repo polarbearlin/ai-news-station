@@ -4,9 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 994,
+    "stars": 1105,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T10:38:16Z"
+    "updated_at": "2026-08-04T14:02:32Z"
   },
   {
     "name": "bindwidth",
@@ -22,27 +22,27 @@
     "full_name": "AFan4724/clone-chat",
     "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
     "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 61,
+    "stars": 73,
     "language": "JavaScript",
-    "updated_at": "2026-08-04T07:53:24Z"
+    "updated_at": "2026-08-04T11:49:57Z"
   },
   {
     "name": "atguigu-note",
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 58,
+    "stars": 62,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-04T10:18:04Z"
+    "updated_at": "2026-08-04T13:26:12Z"
   },
   {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 33,
+    "stars": 34,
     "language": "Python",
-    "updated_at": "2026-08-04T07:36:05Z"
+    "updated_at": "2026-08-04T12:36:16Z"
   },
   {
     "name": "websiteprompts",
@@ -51,16 +51,34 @@
     "url": "https://github.com/openwarehq/websiteprompts",
     "stars": 32,
     "language": null,
-    "updated_at": "2026-08-04T10:31:51Z"
+    "updated_at": "2026-08-04T13:07:32Z"
+  },
+  {
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 29,
+    "language": "Python",
+    "updated_at": "2026-08-04T12:49:02Z"
   },
   {
     "name": "opne-aureka",
     "full_name": "MrXujiang/opne-aureka",
     "description": "Upload spreadsheets, ask questions via chat, and auto-generate chart reports. No coding required, gain instant insights and unlock data value effortlessly. ｜上传表格，像聊天一样提问，系统自动分析生成图表报告。无需编程，即时洞察，数据价值触手可及。",
     "url": "https://github.com/MrXujiang/opne-aureka",
-    "stars": 23,
+    "stars": 25,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T07:27:05Z"
+    "updated_at": "2026-08-04T13:05:50Z"
+  },
+  {
+    "name": "timecut",
+    "full_name": "foodpm/timecut",
+    "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
+    "url": "https://github.com/foodpm/timecut",
+    "stars": 24,
+    "language": "Python",
+    "updated_at": "2026-08-04T14:06:05Z"
   },
   {
     "name": "localai-rag-live2d",
@@ -70,23 +88,5 @@
     "stars": 21,
     "language": "Python",
     "updated_at": "2026-08-03T02:28:25Z"
-  },
-  {
-    "name": "linkit",
-    "full_name": "blue-idea/linkit",
-    "description": "A smart bookmark & knowledge curation desktop app with AI summarization, semantic search, and cross-device sync. Built with Go + Wails + React.",
-    "url": "https://github.com/blue-idea/linkit",
-    "stars": 20,
-    "language": "Go",
-    "updated_at": "2026-08-04T01:42:27Z"
-  },
-  {
-    "name": "cv-web-template",
-    "full_name": "saralangaz/cv-web-template",
-    "description": "A CV website that answers questions about you — even when you're offline. Powered by Llama 3.3 via Cloudflare. Free forever.",
-    "url": "https://github.com/saralangaz/cv-web-template",
-    "stars": 15,
-    "language": "HTML",
-    "updated_at": "2026-08-04T00:14:30Z"
   }
 ]

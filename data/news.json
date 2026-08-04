@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-08-04 10:38:46",
+  "generated_at": "2026-08-04 14:10:48",
   "news": [
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
       "source": "Hacker News",
-      "time": "2026-08-03 21:13",
-      "score": 977,
-      "comments": 414
-    },
-    {
-      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-      "source": "Hacker News",
-      "time": "2026-08-04 09:27",
-      "score": 29,
-      "comments": 22
+      "time": "2026-08-04 10:13",
+      "score": 176,
+      "comments": 43
     },
     {
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "source": "Hacker News",
       "time": "2026-08-04 10:00",
-      "score": 7,
-      "comments": 0
+      "score": 172,
+      "comments": 44
+    },
+    {
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "source": "Hacker News",
+      "time": "2026-08-03 21:13",
+      "score": 1130,
+      "comments": 475
+    },
+    {
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "source": "Hacker News",
+      "time": "2026-08-04 11:01",
+      "score": 50,
+      "comments": 9
     }
   ]
 }
