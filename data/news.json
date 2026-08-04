@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-04 06:27:20",
+  "generated_at": "2026-08-04 10:38:46",
   "news": [
     {
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "source": "Hacker News",
       "time": "2026-08-03 21:13",
-      "score": 721,
-      "comments": 306
+      "score": 977,
+      "comments": 414
     },
     {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
       "source": "Hacker News",
-      "time": "2026-08-03 23:24",
-      "score": 107,
-      "comments": 38
+      "time": "2026-08-04 09:27",
+      "score": 29,
+      "comments": 22
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "source": "Hacker News",
+      "time": "2026-08-04 10:00",
+      "score": 7,
+      "comments": 0
     }
   ]
 }

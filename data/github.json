@@ -4,9 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 842,
+    "stars": 994,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T06:27:04Z"
+    "updated_at": "2026-08-04T10:38:16Z"
   },
   {
     "name": "bindwidth",
@@ -22,45 +22,45 @@
     "full_name": "AFan4724/clone-chat",
     "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
     "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 57,
+    "stars": 61,
     "language": "JavaScript",
-    "updated_at": "2026-08-04T06:18:36Z"
+    "updated_at": "2026-08-04T07:53:24Z"
   },
   {
     "name": "atguigu-note",
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 52,
+    "stars": 58,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-04T05:31:48Z"
+    "updated_at": "2026-08-04T10:18:04Z"
   },
   {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 32,
+    "stars": 33,
     "language": "Python",
-    "updated_at": "2026-08-04T05:19:04Z"
+    "updated_at": "2026-08-04T07:36:05Z"
   },
   {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 28,
+    "stars": 32,
     "language": null,
-    "updated_at": "2026-08-04T03:50:36Z"
+    "updated_at": "2026-08-04T10:31:51Z"
   },
   {
     "name": "opne-aureka",
     "full_name": "MrXujiang/opne-aureka",
     "description": "Upload spreadsheets, ask questions via chat, and auto-generate chart reports. No coding required, gain instant insights and unlock data value effortlessly. ｜上传表格，像聊天一样提问，系统自动分析生成图表报告。无需编程，即时洞察，数据价值触手可及。",
     "url": "https://github.com/MrXujiang/opne-aureka",
-    "stars": 22,
+    "stars": 23,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T00:34:33Z"
+    "updated_at": "2026-08-04T07:27:05Z"
   },
   {
     "name": "localai-rag-live2d",
@@ -81,12 +81,12 @@
     "updated_at": "2026-08-04T01:42:27Z"
   },
   {
-    "name": "claude-copy",
-    "full_name": "HarKro753/claude-copy",
-    "description": "Copy any reference pixel perfect  in mintes",
-    "url": "https://github.com/HarKro753/claude-copy",
+    "name": "cv-web-template",
+    "full_name": "saralangaz/cv-web-template",
+    "description": "A CV website that answers questions about you — even when you're offline. Powered by Llama 3.3 via Cloudflare. Free forever.",
+    "url": "https://github.com/saralangaz/cv-web-template",
     "stars": 15,
-    "language": "Python",
-    "updated_at": "2026-08-04T02:53:16Z"
+    "language": "HTML",
+    "updated_at": "2026-08-04T00:14:30Z"
   }
 ]
