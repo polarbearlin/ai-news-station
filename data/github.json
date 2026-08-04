@@ -4,27 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 539,
+    "stars": 711,
     "language": "TypeScript",
-    "updated_at": "2026-08-03T21:00:49Z"
-  },
-  {
-    "name": "starling",
-    "full_name": "starling-build/starling",
-    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-    "url": "https://github.com/starling-build/starling",
-    "stars": 270,
-    "language": "Swift",
-    "updated_at": "2026-08-03T20:47:42Z"
-  },
-  {
-    "name": "aimux",
-    "full_name": "arcships/aimux",
-    "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
-    "url": "https://github.com/arcships/aimux",
-    "stars": 152,
-    "language": "Rust",
-    "updated_at": "2026-08-03T16:37:59Z"
+    "updated_at": "2026-08-04T02:27:18Z"
   },
   {
     "name": "bindwidth",
@@ -40,36 +22,18 @@
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 46,
+    "stars": 47,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-03T14:50:29Z"
-  },
-  {
-    "name": "CozyClay",
-    "full_name": "HaD0Yun/CozyClay",
-    "description": "Direct Blender with an AI agent from your terminal.",
-    "url": "https://github.com/HaD0Yun/CozyClay",
-    "stars": 38,
-    "language": "TypeScript",
-    "updated_at": "2026-08-03T14:41:23Z"
+    "updated_at": "2026-08-04T02:01:00Z"
   },
   {
     "name": "clone-chat",
     "full_name": "AFan4724/clone-chat",
     "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
     "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 37,
+    "stars": 41,
     "language": "JavaScript",
-    "updated_at": "2026-08-03T04:59:13Z"
-  },
-  {
-    "name": "ywcrew",
-    "full_name": "yuwen-cool/ywcrew",
-    "description": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。",
-    "url": "https://github.com/yuwen-cool/ywcrew",
-    "stars": 36,
-    "language": "TypeScript",
-    "updated_at": "2026-08-03T16:44:54Z"
+    "updated_at": "2026-08-04T02:10:26Z"
   },
   {
     "name": "autoclip",
@@ -81,12 +45,48 @@
     "updated_at": "2026-08-03T06:43:20Z"
   },
   {
-    "name": "opendot",
-    "full_name": "vedaant00/opendot",
-    "description": "A terminal AI agent you can fully undo - every file and shell action is snapshotted and reversible. Model-agnostic (any LLM), and connects to 1000+ app tools and MCP servers.",
-    "url": "https://github.com/vedaant00/opendot",
-    "stars": 23,
+    "name": "opne-aureka",
+    "full_name": "MrXujiang/opne-aureka",
+    "description": "Upload spreadsheets, ask questions via chat, and auto-generate chart reports. No coding required, gain instant insights and unlock data value effortlessly. ｜上传表格，像聊天一样提问，系统自动分析生成图表报告。无需编程，即时洞察，数据价值触手可及。",
+    "url": "https://github.com/MrXujiang/opne-aureka",
+    "stars": 22,
+    "language": "TypeScript",
+    "updated_at": "2026-08-04T00:34:33Z"
+  },
+  {
+    "name": "localai-rag-live2d",
+    "full_name": "ice-only/localai-rag-live2d",
+    "description": "一个本地ai聊天模型localaiAgentWithRAG，让你的本地数据不上传云端，可以自己加入所需要的记忆文件等等，修改角色形象，记忆对话，记忆库允许自己导入或者对话后自动记录",
+    "url": "https://github.com/ice-only/localai-rag-live2d",
+    "stars": 21,
     "language": "Python",
-    "updated_at": "2026-08-03T19:24:10Z"
+    "updated_at": "2026-08-03T02:28:25Z"
+  },
+  {
+    "name": "linkit",
+    "full_name": "blue-idea/linkit",
+    "description": "A smart bookmark & knowledge curation desktop app with AI summarization, semantic search, and cross-device sync. Built with Go + Wails + React.",
+    "url": "https://github.com/blue-idea/linkit",
+    "stars": 20,
+    "language": "Go",
+    "updated_at": "2026-08-04T01:42:27Z"
+  },
+  {
+    "name": "cv-web-template",
+    "full_name": "saralangaz/cv-web-template",
+    "description": "A CV website that answers questions about you — even when you're offline. Powered by Llama 3.3 via Cloudflare. Free forever.",
+    "url": "https://github.com/saralangaz/cv-web-template",
+    "stars": 15,
+    "language": "HTML",
+    "updated_at": "2026-08-04T00:14:30Z"
+  },
+  {
+    "name": "claude-copy",
+    "full_name": "HarKro753/claude-copy",
+    "description": "Copy any reference pixel perfect  in mintes",
+    "url": "https://github.com/HarKro753/claude-copy",
+    "stars": 14,
+    "language": "Python",
+    "updated_at": "2026-08-03T12:05:01Z"
   }
 ]

@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-08-03 21:01:58",
-  "news": []
+  "generated_at": "2026-08-04 02:31:05",
+  "news": [
+    {
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "source": "Hacker News",
+      "time": "2026-08-03 21:13",
+      "score": 483,
+      "comments": 208
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "source": "Hacker News",
+      "time": "2026-08-03 23:24",
+      "score": 37,
+      "comments": 14
+    }
+  ]
 }
