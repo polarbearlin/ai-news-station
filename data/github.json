@@ -4,18 +4,18 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1454,
+    "stars": 1564,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T06:26:28Z"
+    "updated_at": "2026-08-05T10:33:25Z"
   },
   {
     "name": "bindwidth",
     "full_name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 142,
+    "stars": 143,
     "language": "JavaScript",
-    "updated_at": "2026-08-04T16:25:35Z"
+    "updated_at": "2026-08-05T07:52:49Z"
   },
   {
     "name": "clone-chat",
@@ -31,18 +31,27 @@
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 85,
+    "stars": 91,
     "language": null,
-    "updated_at": "2026-08-05T05:27:14Z"
+    "updated_at": "2026-08-05T10:18:58Z"
+  },
+  {
+    "name": "timecut",
+    "full_name": "foodpm/timecut",
+    "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
+    "url": "https://github.com/foodpm/timecut",
+    "stars": 74,
+    "language": "Python",
+    "updated_at": "2026-08-05T10:13:28Z"
   },
   {
     "name": "atguigu-note",
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 66,
+    "stars": 68,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-05T05:22:37Z"
+    "updated_at": "2026-08-05T10:28:17Z"
   },
   {
     "name": "wai-play",
@@ -54,22 +63,13 @@
     "updated_at": "2026-08-05T06:12:45Z"
   },
   {
-    "name": "timecut",
-    "full_name": "foodpm/timecut",
-    "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
-    "url": "https://github.com/foodpm/timecut",
-    "stars": 61,
-    "language": "Python",
-    "updated_at": "2026-08-05T06:08:20Z"
-  },
-  {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 46,
+    "stars": 49,
     "language": null,
-    "updated_at": "2026-08-05T02:53:50Z"
+    "updated_at": "2026-08-05T08:45:55Z"
   },
   {
     "name": "autoclip",
@@ -85,8 +85,8 @@
     "full_name": "Sparkfetch/sparkfetch",
     "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
     "url": "https://github.com/Sparkfetch/sparkfetch",
-    "stars": 35,
+    "stars": 36,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T03:04:57Z"
+    "updated_at": "2026-08-05T08:59:50Z"
   }
 ]

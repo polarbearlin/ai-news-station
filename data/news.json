@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-05 06:27:24",
+  "generated_at": "2026-08-05 10:34:06",
   "news": [
     {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
       "source": "Hacker News",
-      "time": "2026-08-04 23:50",
-      "score": 167,
-      "comments": 115
+      "time": "2026-08-05 04:36",
+      "score": 43,
+      "comments": 9
+    },
+    {
+      "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+      "source": "Hacker News",
+      "time": "2026-08-05 09:36",
+      "score": 22,
+      "comments": 11
     }
   ]
 }
