@@ -4,9 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1635,
+    "stars": 1710,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T14:08:01Z"
+    "updated_at": "2026-08-05T17:35:45Z"
   },
   {
     "name": "bindwidth",
@@ -31,9 +31,9 @@
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 102,
+    "stars": 105,
     "language": null,
-    "updated_at": "2026-08-05T13:40:30Z"
+    "updated_at": "2026-08-05T15:31:52Z"
   },
   {
     "name": "timecut",
@@ -49,9 +49,9 @@
     "full_name": "xbsheng/atguigu-note",
     "description": "尚硅谷 AI 课程笔记",
     "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 68,
+    "stars": 71,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-05T10:28:17Z"
+    "updated_at": "2026-08-05T16:48:28Z"
   },
   {
     "name": "wai-play",
@@ -63,30 +63,30 @@
     "updated_at": "2026-08-05T06:12:45Z"
   },
   {
+    "name": "aida64-pro-spark",
+    "full_name": "BossFreeze15/aida64-pro-spark",
+    "description": "Aida64 Pro Spark",
+    "url": "https://github.com/BossFreeze15/aida64-pro-spark",
+    "stars": 60,
+    "language": null,
+    "updated_at": "2026-08-05T15:52:13Z"
+  },
+  {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 52,
+    "stars": 54,
     "language": null,
-    "updated_at": "2026-08-05T14:01:55Z"
+    "updated_at": "2026-08-05T15:31:49Z"
   },
   {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 41,
+    "stars": 42,
     "language": "Python",
-    "updated_at": "2026-08-05T14:04:59Z"
-  },
-  {
-    "name": "sparkfetch",
-    "full_name": "Sparkfetch/sparkfetch",
-    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
-    "url": "https://github.com/Sparkfetch/sparkfetch",
-    "stars": 37,
-    "language": "TypeScript",
-    "updated_at": "2026-08-05T10:58:08Z"
+    "updated_at": "2026-08-05T17:31:04Z"
   }
 ]

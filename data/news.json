@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-08-05 14:08:07",
+  "generated_at": "2026-08-05 17:36:21",
   "news": [
     {
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "title": "The next chapter of our AI momentum",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
-      "time": "2026-08-05 11:01",
-      "score": 123,
-      "comments": 76
-    },
-    {
-      "title": "Why the Legendary Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "source": "Hacker News",
-      "time": "2026-08-05 11:49",
-      "score": 47,
-      "comments": 23
-    },
-    {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "source": "Hacker News",
-      "time": "2026-08-05 12:41",
-      "score": 73,
-      "comments": 24
+      "time": "2026-08-05 16:05",
+      "score": 51,
+      "comments": 34
     }
   ]
 }
