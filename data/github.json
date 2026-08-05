@@ -4,18 +4,18 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1710,
+    "stars": 1752,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T17:35:45Z"
+    "updated_at": "2026-08-05T21:03:26Z"
   },
   {
     "name": "bindwidth",
     "full_name": "juxhinr/bindwidth",
     "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
     "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 143,
+    "stars": 128,
     "language": "JavaScript",
-    "updated_at": "2026-08-05T07:52:49Z"
+    "updated_at": "2026-08-05T18:26:38Z"
   },
   {
     "name": "clone-chat",
@@ -25,6 +25,15 @@
     "stars": 111,
     "language": "JavaScript",
     "updated_at": "2026-08-05T06:12:36Z"
+  },
+  {
+    "name": "TE-Speed-MiniMaxH3-OSS",
+    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "description": "MiniMax-H3超级缓存加速插件",
+    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "stars": 111,
+    "language": "Python",
+    "updated_at": "2026-08-05T20:42:28Z"
   },
   {
     "name": "hermes-brasil",
@@ -79,14 +88,5 @@
     "stars": 54,
     "language": null,
     "updated_at": "2026-08-05T15:31:49Z"
-  },
-  {
-    "name": "autoclip",
-    "full_name": "artbyjazi/autoclip",
-    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
-    "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 42,
-    "language": "Python",
-    "updated_at": "2026-08-05T17:31:04Z"
   }
 ]

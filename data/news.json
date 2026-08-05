@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-08-05 17:36:21",
+  "generated_at": "2026-08-05 21:07:20",
   "news": [
     {
-      "title": "The next chapter of our AI momentum",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
       "time": "2026-08-05 16:05",
-      "score": 51,
-      "comments": 34
+      "score": 288,
+      "comments": 444
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "source": "Hacker News",
+      "time": "2026-08-05 18:18",
+      "score": 119,
+      "comments": 22
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "source": "Hacker News",
+      "time": "2026-08-05 19:47",
+      "score": 98,
+      "comments": 37
     }
   ]
 }
