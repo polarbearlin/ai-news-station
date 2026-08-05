@@ -4,9 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1564,
+    "stars": 1635,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T10:33:25Z"
+    "updated_at": "2026-08-05T14:08:01Z"
   },
   {
     "name": "bindwidth",
@@ -31,18 +31,18 @@
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 91,
+    "stars": 102,
     "language": null,
-    "updated_at": "2026-08-05T10:18:58Z"
+    "updated_at": "2026-08-05T13:40:30Z"
   },
   {
     "name": "timecut",
     "full_name": "foodpm/timecut",
     "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
     "url": "https://github.com/foodpm/timecut",
-    "stars": 74,
+    "stars": 79,
     "language": "Python",
-    "updated_at": "2026-08-05T10:13:28Z"
+    "updated_at": "2026-08-05T14:06:48Z"
   },
   {
     "name": "atguigu-note",
@@ -67,26 +67,26 @@
     "full_name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 49,
+    "stars": 52,
     "language": null,
-    "updated_at": "2026-08-05T08:45:55Z"
+    "updated_at": "2026-08-05T14:01:55Z"
   },
   {
     "name": "autoclip",
     "full_name": "artbyjazi/autoclip",
     "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
     "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 39,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-08-05T01:14:21Z"
+    "updated_at": "2026-08-05T14:04:59Z"
   },
   {
     "name": "sparkfetch",
     "full_name": "Sparkfetch/sparkfetch",
     "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
     "url": "https://github.com/Sparkfetch/sparkfetch",
-    "stars": 36,
+    "stars": 37,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T08:59:50Z"
+    "updated_at": "2026-08-05T10:58:08Z"
   }
 ]
