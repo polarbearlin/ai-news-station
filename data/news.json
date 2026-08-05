@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-08-04 21:11:59",
+  "generated_at": "2026-08-05 02:30:15",
   "news": [
     {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
       "source": "Hacker News",
-      "time": "2026-08-04 10:00",
-      "score": 339,
-      "comments": 87
-    },
-    {
-      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "url": "https://edotenv.com/",
-      "source": "Hacker News",
-      "time": "2026-08-04 18:36",
-      "score": 19,
-      "comments": 6
-    },
-    {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "source": "Hacker News",
-      "time": "2026-08-04 16:10",
-      "score": 55,
-      "comments": 61
+      "time": "2026-08-04 23:50",
+      "score": 77,
+      "comments": 34
     }
   ]
 }

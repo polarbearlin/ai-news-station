@@ -4,9 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1262,
+    "stars": 1369,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T21:09:43Z"
+    "updated_at": "2026-08-05T02:29:51Z"
   },
   {
     "name": "bindwidth",
@@ -22,71 +22,71 @@
     "full_name": "AFan4724/clone-chat",
     "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
     "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 73,
+    "stars": 85,
     "language": "JavaScript",
-    "updated_at": "2026-08-04T11:49:57Z"
-  },
-  {
-    "name": "atguigu-note",
-    "full_name": "xbsheng/atguigu-note",
-    "description": "尚硅谷 AI 课程笔记",
-    "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 62,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-08-04T13:26:12Z"
+    "updated_at": "2026-08-05T02:20:26Z"
   },
   {
     "name": "hermes-brasil",
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 48,
+    "stars": 74,
     "language": null,
-    "updated_at": "2026-08-04T21:03:02Z"
+    "updated_at": "2026-08-05T02:23:49Z"
   },
   {
-    "name": "websiteprompts",
-    "full_name": "openwarehq/websiteprompts",
-    "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
-    "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 42,
-    "language": null,
-    "updated_at": "2026-08-04T19:21:27Z"
-  },
-  {
-    "name": "autoclip",
-    "full_name": "artbyjazi/autoclip",
-    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
-    "url": "https://github.com/artbyjazi/autoclip",
-    "stars": 37,
-    "language": "Python",
-    "updated_at": "2026-08-04T16:59:19Z"
+    "name": "atguigu-note",
+    "full_name": "xbsheng/atguigu-note",
+    "description": "尚硅谷 AI 课程笔记",
+    "url": "https://github.com/xbsheng/atguigu-note",
+    "stars": 64,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-05T01:18:00Z"
   },
   {
     "name": "timecut",
     "full_name": "foodpm/timecut",
     "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
     "url": "https://github.com/foodpm/timecut",
-    "stars": 34,
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-08-04T20:35:58Z"
+    "updated_at": "2026-08-05T02:28:31Z"
+  },
+  {
+    "name": "websiteprompts",
+    "full_name": "openwarehq/websiteprompts",
+    "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
+    "url": "https://github.com/openwarehq/websiteprompts",
+    "stars": 45,
+    "language": null,
+    "updated_at": "2026-08-04T23:08:31Z"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 29,
+    "stars": 44,
     "language": "Python",
-    "updated_at": "2026-08-04T12:49:02Z"
+    "updated_at": "2026-08-05T01:42:38Z"
   },
   {
-    "name": "opne-aureka",
-    "full_name": "MrXujiang/opne-aureka",
-    "description": "Upload spreadsheets, ask questions via chat, and auto-generate chart reports. No coding required, gain instant insights and unlock data value effortlessly. ｜上传表格，像聊天一样提问，系统自动分析生成图表报告。无需编程，即时洞察，数据价值触手可及。",
-    "url": "https://github.com/MrXujiang/opne-aureka",
-    "stars": 25,
+    "name": "autoclip",
+    "full_name": "artbyjazi/autoclip",
+    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
+    "url": "https://github.com/artbyjazi/autoclip",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-08-05T01:14:21Z"
+  },
+  {
+    "name": "sparkfetch",
+    "full_name": "Sparkfetch/sparkfetch",
+    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
+    "url": "https://github.com/Sparkfetch/sparkfetch",
+    "stars": 27,
     "language": "TypeScript",
-    "updated_at": "2026-08-04T13:05:50Z"
+    "updated_at": "2026-08-05T02:29:53Z"
   }
 ]
