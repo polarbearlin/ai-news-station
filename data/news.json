@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-08-06 02:32:58",
+  "generated_at": "2026-08-06 06:29:46",
   "news": [
     {
-      "title": "LLMs won't break symmetric crypto",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
       "source": "Hacker News",
-      "time": "2026-08-06 01:39",
-      "score": 17,
-      "comments": 8
+      "time": "2026-08-06 02:15",
+      "score": 193,
+      "comments": 212
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
       "time": "2026-08-05 16:05",
-      "score": 495,
-      "comments": 601
+      "score": 593,
+      "comments": 654
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "source": "Hacker News",
       "time": "2026-08-05 18:18",
-      "score": 230,
-      "comments": 55
-    },
-    {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "source": "Hacker News",
-      "time": "2026-08-05 18:37",
-      "score": 145,
-      "comments": 149
+      "score": 279,
+      "comments": 70
     }
   ]
 }
