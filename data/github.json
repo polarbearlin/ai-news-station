@@ -4,18 +4,18 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1938,
+    "stars": 1992,
     "language": "TypeScript",
-    "updated_at": "2026-08-06T10:37:17Z"
+    "updated_at": "2026-08-06T14:01:32Z"
   },
   {
     "name": "TE-Speed-MiniMaxH3-OSS",
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 142,
+    "stars": 149,
     "language": "Python",
-    "updated_at": "2026-08-06T10:14:03Z"
+    "updated_at": "2026-08-06T14:07:02Z"
   },
   {
     "name": "bindwidth",
@@ -40,18 +40,27 @@
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 105,
+    "stars": 106,
     "language": null,
-    "updated_at": "2026-08-05T22:44:00Z"
+    "updated_at": "2026-08-06T13:57:02Z"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 94,
+    "stars": 100,
     "language": "Python",
-    "updated_at": "2026-08-06T10:36:31Z"
+    "updated_at": "2026-08-06T13:52:17Z"
+  },
+  {
+    "name": "atguigu-note",
+    "full_name": "xbsheng/atguigu-note",
+    "description": "尚硅谷 AI 课程笔记",
+    "url": "https://github.com/xbsheng/atguigu-note",
+    "stars": 81,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-06T14:05:34Z"
   },
   {
     "name": "timecut",
@@ -63,22 +72,13 @@
     "updated_at": "2026-08-06T02:15:28Z"
   },
   {
-    "name": "atguigu-note",
-    "full_name": "xbsheng/atguigu-note",
-    "description": "尚硅谷 AI 课程笔记",
-    "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 80,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-08-06T10:28:39Z"
-  },
-  {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 60,
+    "stars": 62,
     "language": "JavaScript",
-    "updated_at": "2026-08-06T08:55:30Z"
+    "updated_at": "2026-08-06T12:25:42Z"
   },
   {
     "name": "autoclip",

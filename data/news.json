@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-06 10:38:17",
+  "generated_at": "2026-08-06 14:08:24",
   "news": [
+    {
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "source": "Hacker News",
+      "time": "2026-08-06 11:58",
+      "score": 48,
+      "comments": 23
+    },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
       "time": "2026-08-05 16:05",
-      "score": 668,
-      "comments": 721
-    },
-    {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "source": "Hacker News",
-      "time": "2026-08-05 18:18",
-      "score": 322,
-      "comments": 80
+      "score": 732,
+      "comments": 784
     }
   ]
 }
