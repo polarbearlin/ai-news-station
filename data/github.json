@@ -4,9 +4,9 @@
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
     "url": "https://github.com/genspark-ai/genoffice",
-    "stars": 1752,
+    "stars": 1801,
     "language": "TypeScript",
-    "updated_at": "2026-08-05T21:03:26Z"
+    "updated_at": "2026-08-06T02:24:55Z"
   },
   {
     "name": "bindwidth",
@@ -18,6 +18,15 @@
     "updated_at": "2026-08-05T18:26:38Z"
   },
   {
+    "name": "TE-Speed-MiniMaxH3-OSS",
+    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "description": "MiniMax-H3超级缓存加速插件",
+    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "stars": 122,
+    "language": "Python",
+    "updated_at": "2026-08-06T02:30:51Z"
+  },
+  {
     "name": "clone-chat",
     "full_name": "AFan4724/clone-chat",
     "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
@@ -27,66 +36,57 @@
     "updated_at": "2026-08-05T06:12:36Z"
   },
   {
-    "name": "TE-Speed-MiniMaxH3-OSS",
-    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "description": "MiniMax-H3超级缓存加速插件",
-    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 111,
-    "language": "Python",
-    "updated_at": "2026-08-05T20:42:28Z"
-  },
-  {
     "name": "hermes-brasil",
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
     "stars": 105,
     "language": null,
-    "updated_at": "2026-08-05T15:31:52Z"
+    "updated_at": "2026-08-05T22:44:00Z"
   },
   {
     "name": "timecut",
     "full_name": "foodpm/timecut",
     "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
     "url": "https://github.com/foodpm/timecut",
-    "stars": 79,
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-08-05T14:06:48Z"
-  },
-  {
-    "name": "atguigu-note",
-    "full_name": "xbsheng/atguigu-note",
-    "description": "尚硅谷 AI 课程笔记",
-    "url": "https://github.com/xbsheng/atguigu-note",
-    "stars": 71,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-08-05T16:48:28Z"
+    "updated_at": "2026-08-06T02:15:28Z"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 64,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-08-05T06:12:45Z"
+    "updated_at": "2026-08-06T01:22:44Z"
   },
   {
-    "name": "aida64-pro-spark",
-    "full_name": "BossFreeze15/aida64-pro-spark",
-    "description": "Aida64 Pro Spark",
-    "url": "https://github.com/BossFreeze15/aida64-pro-spark",
-    "stars": 60,
-    "language": null,
-    "updated_at": "2026-08-05T15:52:13Z"
+    "name": "atguigu-note",
+    "full_name": "xbsheng/atguigu-note",
+    "description": "尚硅谷 AI 课程笔记",
+    "url": "https://github.com/xbsheng/atguigu-note",
+    "stars": 73,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-05T23:25:37Z"
   },
   {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 54,
+    "stars": 57,
     "language": null,
-    "updated_at": "2026-08-05T15:31:49Z"
+    "updated_at": "2026-08-06T00:56:18Z"
+  },
+  {
+    "name": "autoclip",
+    "full_name": "artbyjazi/autoclip",
+    "description": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.",
+    "url": "https://github.com/artbyjazi/autoclip",
+    "stars": 43,
+    "language": "Python",
+    "updated_at": "2026-08-05T19:49:37Z"
   }
 ]

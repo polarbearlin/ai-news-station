@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-08-05 21:07:20",
+  "generated_at": "2026-08-06 02:32:58",
   "news": [
+    {
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "source": "Hacker News",
+      "time": "2026-08-06 01:39",
+      "score": 17,
+      "comments": 8
+    },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
       "time": "2026-08-05 16:05",
-      "score": 288,
-      "comments": 444
+      "score": 495,
+      "comments": 601
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "source": "Hacker News",
       "time": "2026-08-05 18:18",
-      "score": 119,
-      "comments": 22
+      "score": 230,
+      "comments": 55
     },
     {
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
       "source": "Hacker News",
-      "time": "2026-08-05 19:47",
-      "score": 98,
-      "comments": 37
+      "time": "2026-08-05 18:37",
+      "score": 145,
+      "comments": 149
     }
   ]
 }
