@@ -4,9 +4,9 @@
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 173,
+    "stars": 178,
     "language": "Python",
-    "updated_at": "2026-08-07T12:30:44Z"
+    "updated_at": "2026-08-07T16:38:09Z"
   },
   {
     "name": "wai-play",
@@ -49,9 +49,9 @@
     "full_name": "foodpm/timecut",
     "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
     "url": "https://github.com/foodpm/timecut",
-    "stars": 82,
+    "stars": 83,
     "language": "Python",
-    "updated_at": "2026-08-07T08:40:04Z"
+    "updated_at": "2026-08-07T13:34:24Z"
   },
   {
     "name": "goal-flow",
@@ -67,9 +67,9 @@
     "full_name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 68,
+    "stars": 69,
     "language": "JavaScript",
-    "updated_at": "2026-08-07T12:32:48Z"
+    "updated_at": "2026-08-07T13:08:32Z"
   },
   {
     "name": "vibecodingex",
@@ -85,8 +85,8 @@
     "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 57,
+    "stars": 67,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-07T12:58:04Z"
+    "updated_at": "2026-08-07T16:50:58Z"
   }
 ]
