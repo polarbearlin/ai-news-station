@@ -4,9 +4,18 @@
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 164,
+    "stars": 167,
     "language": "Python",
-    "updated_at": "2026-08-07T05:36:29Z"
+    "updated_at": "2026-08-07T08:53:55Z"
+  },
+  {
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 137,
+    "language": "Python",
+    "updated_at": "2026-08-07T08:49:52Z"
   },
   {
     "name": "bindwidth",
@@ -16,15 +25,6 @@
     "stars": 128,
     "language": "JavaScript",
     "updated_at": "2026-08-05T18:26:38Z"
-  },
-  {
-    "name": "wai-play",
-    "full_name": "waiterve/wai-play",
-    "description": "WAI Play - AI web game testing and quality evaluation platform",
-    "url": "https://github.com/waiterve/wai-play",
-    "stars": 127,
-    "language": "Python",
-    "updated_at": "2026-08-07T05:36:32Z"
   },
   {
     "name": "clone-chat",
@@ -49,36 +49,36 @@
     "full_name": "foodpm/timecut",
     "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
     "url": "https://github.com/foodpm/timecut",
-    "stars": 81,
+    "stars": 82,
     "language": "Python",
-    "updated_at": "2026-08-07T01:20:56Z"
+    "updated_at": "2026-08-07T08:40:04Z"
   },
   {
     "name": "vibecodingex",
     "full_name": "eticmedya/vibecodingex",
     "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
     "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 65,
+    "stars": 68,
     "language": "Vue",
-    "updated_at": "2026-08-07T04:16:27Z"
+    "updated_at": "2026-08-07T08:04:12Z"
   },
   {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 64,
+    "stars": 65,
     "language": "JavaScript",
-    "updated_at": "2026-08-06T21:36:45Z"
+    "updated_at": "2026-08-07T06:41:30Z"
   },
   {
     "name": "AI-Knowledge-Management-Platform",
     "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 46,
+    "stars": 47,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-07T04:39:39Z"
+    "updated_at": "2026-08-07T07:58:57Z"
   },
   {
     "name": "sparkfetch",
