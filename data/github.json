@@ -4,9 +4,9 @@
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 178,
+    "stars": 179,
     "language": "Python",
-    "updated_at": "2026-08-07T16:38:09Z"
+    "updated_at": "2026-08-07T17:58:39Z"
   },
   {
     "name": "wai-play",
@@ -45,6 +45,15 @@
     "updated_at": "2026-08-07T12:56:34Z"
   },
   {
+    "name": "AI-Knowledge-Management-Platform",
+    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
+    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+    "stars": 91,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-07T20:25:26Z"
+  },
+  {
     "name": "timecut",
     "full_name": "foodpm/timecut",
     "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
@@ -67,9 +76,9 @@
     "full_name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 69,
+    "stars": 70,
     "language": "JavaScript",
-    "updated_at": "2026-08-07T13:08:32Z"
+    "updated_at": "2026-08-07T17:49:35Z"
   },
   {
     "name": "vibecodingex",
@@ -79,14 +88,5 @@
     "stars": 68,
     "language": "Vue",
     "updated_at": "2026-08-07T08:04:12Z"
-  },
-  {
-    "name": "AI-Knowledge-Management-Platform",
-    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 67,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-08-07T16:50:58Z"
   }
 ]
