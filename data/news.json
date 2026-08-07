@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-07 00:52:09",
+  "generated_at": "2026-08-07 05:39:21",
   "news": [
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "source": "Hacker News",
-      "time": "2026-08-06 21:30",
-      "score": 50,
-      "comments": 2
+      "time": "2026-08-06 17:02",
+      "score": 196,
+      "comments": 146
+    },
+    {
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "source": "Hacker News",
+      "time": "2026-08-06 15:49",
+      "score": 367,
+      "comments": 297
     }
   ]
 }

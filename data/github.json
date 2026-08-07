@@ -4,9 +4,9 @@
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 156,
+    "stars": 164,
     "language": "Python",
-    "updated_at": "2026-08-06T23:25:23Z"
+    "updated_at": "2026-08-07T05:36:29Z"
   },
   {
     "name": "bindwidth",
@@ -16,6 +16,15 @@
     "stars": 128,
     "language": "JavaScript",
     "updated_at": "2026-08-05T18:26:38Z"
+  },
+  {
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 127,
+    "language": "Python",
+    "updated_at": "2026-08-07T05:36:32Z"
   },
   {
     "name": "clone-chat",
@@ -31,18 +40,9 @@
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 106,
+    "stars": 107,
     "language": null,
-    "updated_at": "2026-08-06T13:57:02Z"
-  },
-  {
-    "name": "wai-play",
-    "full_name": "waiterve/wai-play",
-    "description": "WAI Play - AI web game testing and quality evaluation platform",
-    "url": "https://github.com/waiterve/wai-play",
-    "stars": 104,
-    "language": "Python",
-    "updated_at": "2026-08-07T00:35:08Z"
+    "updated_at": "2026-08-07T00:55:31Z"
   },
   {
     "name": "timecut",
@@ -51,7 +51,16 @@
     "url": "https://github.com/foodpm/timecut",
     "stars": 81,
     "language": "Python",
-    "updated_at": "2026-08-07T00:45:24Z"
+    "updated_at": "2026-08-07T01:20:56Z"
+  },
+  {
+    "name": "vibecodingex",
+    "full_name": "eticmedya/vibecodingex",
+    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
+    "url": "https://github.com/eticmedya/vibecodingex",
+    "stars": 65,
+    "language": "Vue",
+    "updated_at": "2026-08-07T04:16:27Z"
   },
   {
     "name": "websiteprompts",
@@ -63,13 +72,13 @@
     "updated_at": "2026-08-06T21:36:45Z"
   },
   {
-    "name": "vibecodingex",
-    "full_name": "eticmedya/vibecodingex",
-    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
-    "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 63,
-    "language": "Vue",
-    "updated_at": "2026-08-07T00:25:37Z"
+    "name": "AI-Knowledge-Management-Platform",
+    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
+    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+    "stars": 46,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-07T04:39:39Z"
   },
   {
     "name": "sparkfetch",
@@ -79,14 +88,5 @@
     "stars": 38,
     "language": "TypeScript",
     "updated_at": "2026-08-06T01:37:53Z"
-  },
-  {
-    "name": "keyHunter-skill",
-    "full_name": "lifefloating/keyHunter-skill",
-    "description": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-hygiene testing, artifact normalization. Authorized, defensive use only.",
-    "url": "https://github.com/lifefloating/keyHunter-skill",
-    "stars": 26,
-    "language": "Python",
-    "updated_at": "2026-08-06T15:18:06Z"
   }
 ]
