@@ -1,45 +1,29 @@
 {
-  "generated_at": "2026-08-08 01:38:12",
+  "generated_at": "2026-08-08 04:55:59",
   "news": [
     {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "source": "Hacker News",
       "time": "2026-08-07 17:56",
-      "score": 464,
-      "comments": 271
-    },
-    {
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "source": "Hacker News",
-      "time": "2026-08-08 00:03",
-      "score": 29,
-      "comments": 37
+      "score": 531,
+      "comments": 315
     },
     {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "source": "Hacker News",
       "time": "2026-08-07 12:42",
-      "score": 417,
-      "comments": 532
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source": "Hacker News",
-      "time": "2026-08-07 17:36",
-      "score": 390,
-      "comments": 257
+      "score": 510,
+      "comments": 594
     },
     {
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "source": "Hacker News",
       "time": "2026-08-07 18:25",
-      "score": 165,
-      "comments": 170
+      "score": 196,
+      "comments": 187
     }
   ]
 }
