@@ -13,54 +13,36 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 142,
+    "stars": 149,
     "language": "Python",
-    "updated_at": "2026-08-07T09:33:39Z"
-  },
-  {
-    "name": "bindwidth",
-    "full_name": "juxhinr/bindwidth",
-    "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
-    "url": "https://github.com/juxhinr/bindwidth",
-    "stars": 128,
-    "language": "JavaScript",
-    "updated_at": "2026-08-05T18:26:38Z"
-  },
-  {
-    "name": "clone-chat",
-    "full_name": "AFan4724/clone-chat",
-    "description": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
-    "url": "https://github.com/AFan4724/clone-chat",
-    "stars": 111,
-    "language": "JavaScript",
-    "updated_at": "2026-08-05T06:12:36Z"
+    "updated_at": "2026-08-08T01:26:37Z"
   },
   {
     "name": "hermes-brasil",
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 108,
+    "stars": 107,
     "language": null,
-    "updated_at": "2026-08-07T12:56:34Z"
+    "updated_at": "2026-08-07T20:41:06Z"
   },
   {
     "name": "AI-Knowledge-Management-Platform",
     "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 91,
+    "stars": 92,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-07T20:25:26Z"
+    "updated_at": "2026-08-07T23:20:40Z"
   },
   {
-    "name": "timecut",
-    "full_name": "foodpm/timecut",
-    "description": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
-    "url": "https://github.com/foodpm/timecut",
-    "stars": 83,
-    "language": "Python",
-    "updated_at": "2026-08-07T13:34:24Z"
+    "name": "websiteprompts",
+    "full_name": "openwarehq/websiteprompts",
+    "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
+    "url": "https://github.com/openwarehq/websiteprompts",
+    "stars": 71,
+    "language": "JavaScript",
+    "updated_at": "2026-08-07T23:54:10Z"
   },
   {
     "name": "goal-flow",
@@ -72,15 +54,6 @@
     "updated_at": "2026-08-07T11:14:09Z"
   },
   {
-    "name": "websiteprompts",
-    "full_name": "openwarehq/websiteprompts",
-    "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
-    "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 70,
-    "language": "JavaScript",
-    "updated_at": "2026-08-07T17:49:35Z"
-  },
-  {
     "name": "vibecodingex",
     "full_name": "eticmedya/vibecodingex",
     "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
@@ -88,5 +61,32 @@
     "stars": 68,
     "language": "Vue",
     "updated_at": "2026-08-07T08:04:12Z"
+  },
+  {
+    "name": "sparkfetch",
+    "full_name": "Sparkfetch/sparkfetch",
+    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
+    "url": "https://github.com/Sparkfetch/sparkfetch",
+    "stars": 45,
+    "language": "TypeScript",
+    "updated_at": "2026-08-07T22:57:20Z"
+  },
+  {
+    "name": "keyHunter-skill",
+    "full_name": "lifefloating/keyHunter-skill",
+    "description": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-hygiene testing, artifact normalization. Authorized, defensive use only.",
+    "url": "https://github.com/lifefloating/keyHunter-skill",
+    "stars": 26,
+    "language": "Python",
+    "updated_at": "2026-08-07T08:22:49Z"
+  },
+  {
+    "name": "AIFA",
+    "full_name": "AdrianBesleaga/AIFA",
+    "description": "AI Atomic Feature Architecture",
+    "url": "https://github.com/AdrianBesleaga/AIFA",
+    "stars": 25,
+    "language": "JavaScript",
+    "updated_at": "2026-08-06T08:35:57Z"
   }
 ]
