@@ -4,9 +4,9 @@
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 185,
+    "stars": 187,
     "language": "Python",
-    "updated_at": "2026-08-08T16:04:58Z"
+    "updated_at": "2026-08-08T18:09:15Z"
   },
   {
     "name": "wai-play",
@@ -27,6 +27,15 @@
     "updated_at": "2026-08-08T12:52:13Z"
   },
   {
+    "name": "KADATH",
+    "full_name": "i3T4AN/KADATH",
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "stars": 127,
+    "language": "Python",
+    "updated_at": "2026-08-08T20:23:52Z"
+  },
+  {
     "name": "hermes-brasil",
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
@@ -34,6 +43,15 @@
     "stars": 107,
     "language": null,
     "updated_at": "2026-08-08T10:26:08Z"
+  },
+  {
+    "name": "vibewatch",
+    "full_name": "GOROman/vibewatch",
+    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "url": "https://github.com/GOROman/vibewatch",
+    "stars": 95,
+    "language": "C++",
+    "updated_at": "2026-08-08T18:47:15Z"
   },
   {
     "name": "AI-Knowledge-Management-Platform",
@@ -45,22 +63,22 @@
     "updated_at": "2026-08-08T12:22:07Z"
   },
   {
-    "name": "vibewatch",
-    "full_name": "GOROman/vibewatch",
-    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-    "url": "https://github.com/GOROman/vibewatch",
-    "stars": 90,
-    "language": "C++",
-    "updated_at": "2026-08-08T16:06:04Z"
-  },
-  {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 74,
+    "stars": 75,
     "language": "JavaScript",
-    "updated_at": "2026-08-08T06:53:45Z"
+    "updated_at": "2026-08-08T19:58:30Z"
+  },
+  {
+    "name": "vibecodingex",
+    "full_name": "eticmedya/vibecodingex",
+    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
+    "url": "https://github.com/eticmedya/vibecodingex",
+    "stars": 71,
+    "language": "Vue",
+    "updated_at": "2026-08-08T16:52:33Z"
   },
   {
     "name": "goal-flow",
@@ -70,23 +88,5 @@
     "stars": 71,
     "language": "Python",
     "updated_at": "2026-08-07T11:14:09Z"
-  },
-  {
-    "name": "vibecodingex",
-    "full_name": "eticmedya/vibecodingex",
-    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
-    "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 70,
-    "language": "Vue",
-    "updated_at": "2026-08-08T13:21:25Z"
-  },
-  {
-    "name": "sparkfetch",
-    "full_name": "Sparkfetch/sparkfetch",
-    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
-    "url": "https://github.com/Sparkfetch/sparkfetch",
-    "stars": 45,
-    "language": "TypeScript",
-    "updated_at": "2026-08-07T22:57:20Z"
   }
 ]

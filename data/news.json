@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-08-08 16:32:40",
+  "generated_at": "2026-08-08 20:29:10",
   "news": [
+    {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "source": "Hacker News",
+      "time": "2026-08-08 18:09",
+      "score": 246,
+      "comments": 116
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "source": "Hacker News",
+      "time": "2026-08-08 16:04",
+      "score": 202,
+      "comments": 97
+    },
     {
       "title": "A domain can now say it is for sale, in DNS",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "source": "Hacker News",
       "time": "2026-08-08 13:26",
-      "score": 130,
-      "comments": 56
+      "score": 264,
+      "comments": 116
     },
     {
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "source": "Hacker News",
-      "time": "2026-08-08 13:55",
-      "score": 76,
-      "comments": 31
+      "time": "2026-08-08 10:57",
+      "score": 252,
+      "comments": 260
     }
   ]
 }
