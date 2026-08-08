@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-08 04:55:59",
+  "generated_at": "2026-08-08 08:40:21",
   "news": [
     {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "source": "Hacker News",
       "time": "2026-08-07 17:56",
-      "score": 531,
-      "comments": 315
+      "score": 606,
+      "comments": 365
     },
     {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "source": "Hacker News",
       "time": "2026-08-07 12:42",
-      "score": 510,
-      "comments": 594
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source": "Hacker News",
-      "time": "2026-08-07 18:25",
-      "score": 196,
-      "comments": 187
+      "score": 615,
+      "comments": 690
     }
   ]
 }

@@ -4,18 +4,18 @@
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 181,
+    "stars": 183,
     "language": "Python",
-    "updated_at": "2026-08-08T02:44:11Z"
+    "updated_at": "2026-08-08T08:08:06Z"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 160,
+    "stars": 175,
     "language": "Python",
-    "updated_at": "2026-08-08T04:45:14Z"
+    "updated_at": "2026-08-08T08:39:31Z"
   },
   {
     "name": "hermes-brasil",
@@ -31,18 +31,18 @@
     "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 93,
+    "stars": 94,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-08T02:04:29Z"
+    "updated_at": "2026-08-08T06:42:03Z"
   },
   {
     "name": "websiteprompts",
     "full_name": "openwarehq/websiteprompts",
     "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
     "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 71,
+    "stars": 74,
     "language": "JavaScript",
-    "updated_at": "2026-08-07T23:54:10Z"
+    "updated_at": "2026-08-08T06:53:45Z"
   },
   {
     "name": "goal-flow",
@@ -58,9 +58,18 @@
     "full_name": "eticmedya/vibecodingex",
     "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
     "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 68,
+    "stars": 69,
     "language": "Vue",
-    "updated_at": "2026-08-07T08:04:12Z"
+    "updated_at": "2026-08-08T08:06:54Z"
+  },
+  {
+    "name": "vibewatch",
+    "full_name": "GOROman/vibewatch",
+    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "url": "https://github.com/GOROman/vibewatch",
+    "stars": 50,
+    "language": "C++",
+    "updated_at": "2026-08-08T08:30:43Z"
   },
   {
     "name": "sparkfetch",
@@ -76,17 +85,8 @@
     "full_name": "lifefloating/keyHunter-skill",
     "description": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-hygiene testing, artifact normalization. Authorized, defensive use only.",
     "url": "https://github.com/lifefloating/keyHunter-skill",
-    "stars": 26,
+    "stars": 28,
     "language": "Python",
-    "updated_at": "2026-08-07T08:22:49Z"
-  },
-  {
-    "name": "AIFA",
-    "full_name": "AdrianBesleaga/AIFA",
-    "description": "AI Atomic Feature Architecture",
-    "url": "https://github.com/AdrianBesleaga/AIFA",
-    "stars": 25,
-    "language": "JavaScript",
-    "updated_at": "2026-08-06T08:35:57Z"
+    "updated_at": "2026-08-08T07:26:08Z"
   }
 ]
