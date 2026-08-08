@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-08 08:40:21",
+  "generated_at": "2026-08-08 12:47:30",
   "news": [
     {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "source": "Hacker News",
       "time": "2026-08-07 17:56",
-      "score": 606,
-      "comments": 365
+      "score": 672,
+      "comments": 401
+    },
+    {
+      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "source": "Hacker News",
+      "time": "2026-08-08 12:16",
+      "score": 5,
+      "comments": 0
     },
     {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "source": "Hacker News",
       "time": "2026-08-07 12:42",
-      "score": 615,
-      "comments": 690
+      "score": 749,
+      "comments": 844
     }
   ]
 }

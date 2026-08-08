@@ -13,27 +13,36 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 175,
+    "stars": 181,
     "language": "Python",
-    "updated_at": "2026-08-08T08:39:31Z"
+    "updated_at": "2026-08-08T12:16:38Z"
+  },
+  {
+    "name": "agent-skills-collection",
+    "full_name": "oliverb-io1902e8/agent-skills-collection",
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stars": 146,
+    "language": "Python",
+    "updated_at": "2026-08-08T08:55:49Z"
   },
   {
     "name": "hermes-brasil",
     "full_name": "Hermes-brasil/hermes-brasil",
     "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
     "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 108,
+    "stars": 107,
     "language": null,
-    "updated_at": "2026-08-08T02:49:41Z"
+    "updated_at": "2026-08-08T10:26:08Z"
   },
   {
     "name": "AI-Knowledge-Management-Platform",
     "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 94,
+    "stars": 93,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-08T06:42:03Z"
+    "updated_at": "2026-08-08T12:22:07Z"
   },
   {
     "name": "websiteprompts",
@@ -43,6 +52,15 @@
     "stars": 74,
     "language": "JavaScript",
     "updated_at": "2026-08-08T06:53:45Z"
+  },
+  {
+    "name": "vibewatch",
+    "full_name": "GOROman/vibewatch",
+    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "url": "https://github.com/GOROman/vibewatch",
+    "stars": 72,
+    "language": "C++",
+    "updated_at": "2026-08-08T12:27:53Z"
   },
   {
     "name": "goal-flow",
@@ -63,15 +81,6 @@
     "updated_at": "2026-08-08T08:06:54Z"
   },
   {
-    "name": "vibewatch",
-    "full_name": "GOROman/vibewatch",
-    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-    "url": "https://github.com/GOROman/vibewatch",
-    "stars": 50,
-    "language": "C++",
-    "updated_at": "2026-08-08T08:30:43Z"
-  },
-  {
     "name": "sparkfetch",
     "full_name": "Sparkfetch/sparkfetch",
     "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
@@ -79,14 +88,5 @@
     "stars": 45,
     "language": "TypeScript",
     "updated_at": "2026-08-07T22:57:20Z"
-  },
-  {
-    "name": "keyHunter-skill",
-    "full_name": "lifefloating/keyHunter-skill",
-    "description": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-hygiene testing, artifact normalization. Authorized, defensive use only.",
-    "url": "https://github.com/lifefloating/keyHunter-skill",
-    "stars": 28,
-    "language": "Python",
-    "updated_at": "2026-08-08T07:26:08Z"
   }
 ]
