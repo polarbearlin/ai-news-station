@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-08 12:47:30",
+  "generated_at": "2026-08-08 16:32:40",
   "news": [
     {
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "source": "Hacker News",
-      "time": "2026-08-07 17:56",
-      "score": 672,
-      "comments": 401
+      "time": "2026-08-08 13:26",
+      "score": 130,
+      "comments": 56
     },
     {
-      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
       "source": "Hacker News",
-      "time": "2026-08-08 12:16",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "source": "Hacker News",
-      "time": "2026-08-07 12:42",
-      "score": 749,
-      "comments": 844
+      "time": "2026-08-08 13:55",
+      "score": 76,
+      "comments": 31
     }
   ]
 }
