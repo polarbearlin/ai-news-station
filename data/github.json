@@ -4,27 +4,27 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 204,
+    "stars": 211,
     "language": "Python",
-    "updated_at": "2026-08-09T04:08:30Z"
+    "updated_at": "2026-08-09T08:14:24Z"
   },
   {
     "name": "TE-Speed-MiniMaxH3-OSS",
     "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
     "description": "MiniMax-H3超级缓存加速插件",
     "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 189,
+    "stars": 192,
     "language": "Python",
-    "updated_at": "2026-08-09T02:30:46Z"
+    "updated_at": "2026-08-09T08:41:23Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 164,
+    "stars": 166,
     "language": "Python",
-    "updated_at": "2026-08-09T02:35:55Z"
+    "updated_at": "2026-08-09T08:26:14Z"
   },
   {
     "name": "agent-skills-collection",
@@ -33,7 +33,16 @@
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
     "stars": 146,
     "language": "Python",
-    "updated_at": "2026-08-08T12:52:13Z"
+    "updated_at": "2026-08-09T06:25:03Z"
+  },
+  {
+    "name": "vibewatch",
+    "full_name": "GOROman/vibewatch",
+    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "url": "https://github.com/GOROman/vibewatch",
+    "stars": 107,
+    "language": "C++",
+    "updated_at": "2026-08-09T05:49:21Z"
   },
   {
     "name": "hermes-brasil",
@@ -45,31 +54,22 @@
     "updated_at": "2026-08-08T10:26:08Z"
   },
   {
-    "name": "vibewatch",
-    "full_name": "GOROman/vibewatch",
-    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-    "url": "https://github.com/GOROman/vibewatch",
-    "stars": 106,
-    "language": "C++",
-    "updated_at": "2026-08-09T03:34:57Z"
-  },
-  {
     "name": "AI-Knowledge-Management-Platform",
     "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 93,
+    "stars": 95,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-08-08T12:22:07Z"
+    "updated_at": "2026-08-09T06:17:42Z"
   },
   {
     "name": "goal-flow",
     "full_name": "wanmol/goal-flow",
     "description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
     "url": "https://github.com/wanmol/goal-flow",
-    "stars": 71,
+    "stars": 72,
     "language": "Python",
-    "updated_at": "2026-08-07T11:14:09Z"
+    "updated_at": "2026-08-09T06:29:29Z"
   },
   {
     "name": "vibecodingex",
