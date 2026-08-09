@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-08-09 16:34:23",
-  "news": []
+  "generated_at": "2026-08-09 20:31:54",
+  "news": [
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "source": "Hacker News",
+      "time": "2026-08-09 19:16",
+      "score": 106,
+      "comments": 48
+    },
+    {
+      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "source": "Hacker News",
+      "time": "2026-08-09 19:20",
+      "score": 22,
+      "comments": 8
+    }
+  ]
 }

@@ -40,9 +40,9 @@
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 111,
+    "stars": 112,
     "language": "C++",
-    "updated_at": "2026-08-09T14:31:33Z"
+    "updated_at": "2026-08-09T16:49:06Z"
   },
   {
     "name": "hermes-brasil",
@@ -63,6 +63,15 @@
     "updated_at": "2026-08-09T06:17:42Z"
   },
   {
+    "name": "Uniswap-Snip-Bot",
+    "full_name": "cleverpanda536i/Uniswap-Snip-Bot",
+    "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+    "url": "https://github.com/cleverpanda536i/Uniswap-Snip-Bot",
+    "stars": 94,
+    "language": "Solidity",
+    "updated_at": "2026-08-09T18:58:49Z"
+  },
+  {
     "name": "goal-flow",
     "full_name": "wanmol/goal-flow",
     "description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
@@ -79,14 +88,5 @@
     "stars": 71,
     "language": "Vue",
     "updated_at": "2026-08-08T16:52:33Z"
-  },
-  {
-    "name": "generative-loaders",
-    "full_name": "kasturikhanke/generative-loaders",
-    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
-    "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 48,
-    "language": "TypeScript",
-    "updated_at": "2026-08-09T15:14:22Z"
   }
 ]
