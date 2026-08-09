@@ -1,21 +1,30 @@
 [
   {
-    "name": "TE-Speed-MiniMaxH3-OSS",
-    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "description": "MiniMax-H3超级缓存加速插件",
-    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 187,
-    "language": "Python",
-    "updated_at": "2026-08-08T18:09:15Z"
-  },
-  {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 182,
+    "stars": 188,
     "language": "Python",
-    "updated_at": "2026-08-08T15:15:32Z"
+    "updated_at": "2026-08-09T01:35:19Z"
+  },
+  {
+    "name": "TE-Speed-MiniMaxH3-OSS",
+    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "description": "MiniMax-H3超级缓存加速插件",
+    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "stars": 188,
+    "language": "Python",
+    "updated_at": "2026-08-08T21:41:18Z"
+  },
+  {
+    "name": "KADATH",
+    "full_name": "i3T4AN/KADATH",
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "stars": 160,
+    "language": "Python",
+    "updated_at": "2026-08-09T01:37:33Z"
   },
   {
     "name": "agent-skills-collection",
@@ -25,15 +34,6 @@
     "stars": 146,
     "language": "Python",
     "updated_at": "2026-08-08T12:52:13Z"
-  },
-  {
-    "name": "KADATH",
-    "full_name": "i3T4AN/KADATH",
-    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-    "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 127,
-    "language": "Python",
-    "updated_at": "2026-08-08T20:23:52Z"
   },
   {
     "name": "hermes-brasil",
@@ -49,9 +49,9 @@
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 95,
+    "stars": 105,
     "language": "C++",
-    "updated_at": "2026-08-08T18:47:15Z"
+    "updated_at": "2026-08-09T01:14:27Z"
   },
   {
     "name": "AI-Knowledge-Management-Platform",
@@ -61,15 +61,6 @@
     "stars": 93,
     "language": "Jupyter Notebook",
     "updated_at": "2026-08-08T12:22:07Z"
-  },
-  {
-    "name": "websiteprompts",
-    "full_name": "openwarehq/websiteprompts",
-    "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
-    "url": "https://github.com/openwarehq/websiteprompts",
-    "stars": 75,
-    "language": "JavaScript",
-    "updated_at": "2026-08-08T19:58:30Z"
   },
   {
     "name": "vibecodingex",
@@ -88,5 +79,14 @@
     "stars": 71,
     "language": "Python",
     "updated_at": "2026-08-07T11:14:09Z"
+  },
+  {
+    "name": "sparkfetch",
+    "full_name": "Sparkfetch/sparkfetch",
+    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
+    "url": "https://github.com/Sparkfetch/sparkfetch",
+    "stars": 45,
+    "language": "TypeScript",
+    "updated_at": "2026-08-07T22:57:20Z"
   }
 ]
