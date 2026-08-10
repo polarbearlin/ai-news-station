@@ -4,18 +4,18 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 250,
+    "stars": 258,
     "language": "Python",
-    "updated_at": "2026-08-10T04:34:48Z"
+    "updated_at": "2026-08-10T09:18:20Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 169,
+    "stars": 170,
     "language": "Python",
-    "updated_at": "2026-08-10T01:25:41Z"
+    "updated_at": "2026-08-10T07:30:14Z"
   },
   {
     "name": "agent-skills-collection",
@@ -31,27 +31,18 @@
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 115,
+    "stars": 117,
     "language": "C++",
-    "updated_at": "2026-08-10T03:22:13Z"
-  },
-  {
-    "name": "UNISWAP-ARBITRAGE-BOT",
-    "full_name": "kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
-    "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
-    "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
-    "stars": 86,
-    "language": "Solidity",
-    "updated_at": "2026-08-10T00:12:45Z"
+    "updated_at": "2026-08-10T07:42:27Z"
   },
   {
     "name": "generative-loaders",
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 75,
+    "stars": 82,
     "language": "TypeScript",
-    "updated_at": "2026-08-10T02:58:18Z"
+    "updated_at": "2026-08-10T09:10:23Z"
   },
   {
     "name": "goal-flow",
@@ -81,12 +72,21 @@
     "updated_at": "2026-08-07T22:57:20Z"
   },
   {
-    "name": "ferrox",
-    "full_name": "antonellof/ferrox",
-    "description": "Pure-Rust GGUF inference engine with quantized CPU, Metal & CUDA kernels, MoE support, OpenAI-compatible server. Benchmarked head-to-head against llama.cpp.",
-    "url": "https://github.com/antonellof/ferrox",
-    "stars": 30,
-    "language": "Rust",
-    "updated_at": "2026-08-09T19:02:12Z"
+    "name": "ai-smart-contract-auditor",
+    "full_name": "iktok90-design/ai-smart-contract-auditor",
+    "description": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork simulation, and professional audit reports for Solidity & Vyper across all EVM chains.",
+    "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
+    "stars": 34,
+    "language": "JavaScript",
+    "updated_at": "2026-08-10T08:52:20Z"
+  },
+  {
+    "name": "industrial-mcp",
+    "full_name": "zhiningsun/industrial-mcp",
+    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
+    "url": "https://github.com/zhiningsun/industrial-mcp",
+    "stars": 33,
+    "language": "Python",
+    "updated_at": "2026-08-10T09:15:08Z"
   }
 ]

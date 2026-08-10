@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-10 05:26:03",
+  "generated_at": "2026-08-10 09:20:33",
   "news": [
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "source": "Hacker News",
+      "time": "2026-08-10 06:02",
+      "score": 173,
+      "comments": 114
+    },
     {
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
       "source": "Hacker News",
       "time": "2026-08-10 03:18",
-      "score": 28,
-      "comments": 1
+      "score": 76,
+      "comments": 23
     },
     {
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "source": "Hacker News",
       "time": "2026-08-09 19:16",
-      "score": 535,
-      "comments": 306
+      "score": 627,
+      "comments": 379
     }
   ]
 }
