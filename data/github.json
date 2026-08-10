@@ -4,72 +4,45 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 229,
+    "stars": 233,
     "language": "Python",
-    "updated_at": "2026-08-09T13:28:53Z"
-  },
-  {
-    "name": "TE-Speed-MiniMaxH3-OSS",
-    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "description": "MiniMax-H3超级缓存加速插件",
-    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-    "stars": 202,
-    "language": "Python",
-    "updated_at": "2026-08-09T16:17:29Z"
+    "updated_at": "2026-08-10T01:37:40Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 167,
+    "stars": 169,
     "language": "Python",
-    "updated_at": "2026-08-09T14:31:07Z"
+    "updated_at": "2026-08-10T01:25:41Z"
   },
   {
     "name": "agent-skills-collection",
     "full_name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-    "stars": 146,
+    "stars": 134,
     "language": "Python",
-    "updated_at": "2026-08-09T06:25:03Z"
+    "updated_at": "2026-08-09T21:25:16Z"
   },
   {
     "name": "vibewatch",
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 112,
+    "stars": 113,
     "language": "C++",
-    "updated_at": "2026-08-09T16:49:06Z"
+    "updated_at": "2026-08-10T00:11:11Z"
   },
   {
-    "name": "hermes-brasil",
-    "full_name": "Hermes-brasil/hermes-brasil",
-    "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
-    "url": "https://github.com/Hermes-brasil/hermes-brasil",
-    "stars": 107,
-    "language": null,
-    "updated_at": "2026-08-08T10:26:08Z"
-  },
-  {
-    "name": "AI-Knowledge-Management-Platform",
-    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 95,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-08-09T06:17:42Z"
-  },
-  {
-    "name": "Uniswap-Snip-Bot",
-    "full_name": "cleverpanda536i/Uniswap-Snip-Bot",
+    "name": "UNISWAP-ARBITRAGE-BOT",
+    "full_name": "kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
     "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
-    "url": "https://github.com/cleverpanda536i/Uniswap-Snip-Bot",
-    "stars": 94,
+    "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+    "stars": 86,
     "language": "Solidity",
-    "updated_at": "2026-08-09T18:58:49Z"
+    "updated_at": "2026-08-10T00:12:45Z"
   },
   {
     "name": "goal-flow",
@@ -81,12 +54,39 @@
     "updated_at": "2026-08-09T06:29:29Z"
   },
   {
+    "name": "generative-loaders",
+    "full_name": "kasturikhanke/generative-loaders",
+    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+    "url": "https://github.com/kasturikhanke/generative-loaders",
+    "stars": 71,
+    "language": "TypeScript",
+    "updated_at": "2026-08-10T00:56:24Z"
+  },
+  {
     "name": "vibecodingex",
     "full_name": "eticmedya/vibecodingex",
     "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
     "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 71,
+    "stars": 70,
     "language": "Vue",
-    "updated_at": "2026-08-08T16:52:33Z"
+    "updated_at": "2026-08-09T21:11:21Z"
+  },
+  {
+    "name": "sparkfetch",
+    "full_name": "Sparkfetch/sparkfetch",
+    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
+    "url": "https://github.com/Sparkfetch/sparkfetch",
+    "stars": 45,
+    "language": "TypeScript",
+    "updated_at": "2026-08-07T22:57:20Z"
+  },
+  {
+    "name": "ferrox",
+    "full_name": "antonellof/ferrox",
+    "description": "Pure-Rust GGUF inference engine with quantized CPU, Metal & CUDA kernels, MoE support, OpenAI-compatible server. Benchmarked head-to-head against llama.cpp.",
+    "url": "https://github.com/antonellof/ferrox",
+    "stars": 30,
+    "language": "Rust",
+    "updated_at": "2026-08-09T19:02:12Z"
   }
 ]
