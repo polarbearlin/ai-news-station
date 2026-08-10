@@ -4,9 +4,9 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 233,
+    "stars": 250,
     "language": "Python",
-    "updated_at": "2026-08-10T01:37:40Z"
+    "updated_at": "2026-08-10T04:34:48Z"
   },
   {
     "name": "KADATH",
@@ -31,9 +31,9 @@
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 113,
+    "stars": 115,
     "language": "C++",
-    "updated_at": "2026-08-10T00:11:11Z"
+    "updated_at": "2026-08-10T03:22:13Z"
   },
   {
     "name": "UNISWAP-ARBITRAGE-BOT",
@@ -45,22 +45,22 @@
     "updated_at": "2026-08-10T00:12:45Z"
   },
   {
+    "name": "generative-loaders",
+    "full_name": "kasturikhanke/generative-loaders",
+    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+    "url": "https://github.com/kasturikhanke/generative-loaders",
+    "stars": 75,
+    "language": "TypeScript",
+    "updated_at": "2026-08-10T02:58:18Z"
+  },
+  {
     "name": "goal-flow",
     "full_name": "wanmol/goal-flow",
     "description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
     "url": "https://github.com/wanmol/goal-flow",
     "stars": 72,
     "language": "Python",
-    "updated_at": "2026-08-09T06:29:29Z"
-  },
-  {
-    "name": "generative-loaders",
-    "full_name": "kasturikhanke/generative-loaders",
-    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
-    "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 71,
-    "language": "TypeScript",
-    "updated_at": "2026-08-10T00:56:24Z"
+    "updated_at": "2026-08-10T03:30:26Z"
   },
   {
     "name": "vibecodingex",
