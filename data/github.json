@@ -4,9 +4,9 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 258,
+    "stars": 265,
     "language": "Python",
-    "updated_at": "2026-08-10T09:18:20Z"
+    "updated_at": "2026-08-10T12:49:44Z"
   },
   {
     "name": "KADATH",
@@ -31,18 +31,27 @@
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 117,
+    "stars": 116,
     "language": "C++",
-    "updated_at": "2026-08-10T07:42:27Z"
+    "updated_at": "2026-08-10T12:23:44Z"
   },
   {
     "name": "generative-loaders",
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 82,
+    "stars": 88,
     "language": "TypeScript",
-    "updated_at": "2026-08-10T09:10:23Z"
+    "updated_at": "2026-08-10T12:58:11Z"
+  },
+  {
+    "name": "AI-Trading-Bot-Codepen",
+    "full_name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "description": "I’ve just created my own bot and I’m excited to share my work with you!",
+    "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "stars": 83,
+    "language": "HTML",
+    "updated_at": "2026-08-10T12:07:45Z"
   },
   {
     "name": "goal-flow",
@@ -63,30 +72,21 @@
     "updated_at": "2026-08-09T21:11:21Z"
   },
   {
-    "name": "sparkfetch",
-    "full_name": "Sparkfetch/sparkfetch",
-    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
-    "url": "https://github.com/Sparkfetch/sparkfetch",
-    "stars": 45,
-    "language": "TypeScript",
-    "updated_at": "2026-08-07T22:57:20Z"
+    "name": "industrial-mcp",
+    "full_name": "zhiningsun/industrial-mcp",
+    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
+    "url": "https://github.com/zhiningsun/industrial-mcp",
+    "stars": 50,
+    "language": "Python",
+    "updated_at": "2026-08-10T12:10:17Z"
   },
   {
     "name": "ai-smart-contract-auditor",
     "full_name": "iktok90-design/ai-smart-contract-auditor",
     "description": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork simulation, and professional audit reports for Solidity & Vyper across all EVM chains.",
     "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
-    "stars": 34,
+    "stars": 49,
     "language": "JavaScript",
-    "updated_at": "2026-08-10T08:52:20Z"
-  },
-  {
-    "name": "industrial-mcp",
-    "full_name": "zhiningsun/industrial-mcp",
-    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
-    "url": "https://github.com/zhiningsun/industrial-mcp",
-    "stars": 33,
-    "language": "Python",
-    "updated_at": "2026-08-10T09:15:08Z"
+    "updated_at": "2026-08-10T13:05:21Z"
   }
 ]

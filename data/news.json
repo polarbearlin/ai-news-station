@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-08-10 09:20:33",
+  "generated_at": "2026-08-10 13:06:49",
   "news": [
+    {
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "source": "Hacker News",
+      "time": "2026-08-10 11:27",
+      "score": 50,
+      "comments": 27
+    },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "source": "Hacker News",
       "time": "2026-08-10 06:02",
-      "score": 173,
-      "comments": 114
+      "score": 327,
+      "comments": 191
     },
     {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
+      "title": "Tail-call optimization in C is relatively recent",
+      "url": "https://lwn.net/Articles/1034703/",
       "source": "Hacker News",
-      "time": "2026-08-10 03:18",
-      "score": 76,
-      "comments": 23
+      "time": "2026-08-10 11:34",
+      "score": 29,
+      "comments": 12
     },
     {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
       "source": "Hacker News",
-      "time": "2026-08-09 19:16",
-      "score": 627,
-      "comments": 379
+      "time": "2026-08-07 12:05",
+      "score": 45,
+      "comments": 15
     }
   ]
 }
