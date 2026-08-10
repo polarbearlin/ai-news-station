@@ -4,9 +4,9 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 265,
+    "stars": 279,
     "language": "Python",
-    "updated_at": "2026-08-10T12:49:44Z"
+    "updated_at": "2026-08-10T16:47:36Z"
   },
   {
     "name": "KADATH",
@@ -15,7 +15,16 @@
     "url": "https://github.com/i3T4AN/KADATH",
     "stars": 170,
     "language": "Python",
-    "updated_at": "2026-08-10T07:30:14Z"
+    "updated_at": "2026-08-10T16:00:14Z"
+  },
+  {
+    "name": "ai-chat-demo",
+    "full_name": "margelo/ai-chat-demo",
+    "description": " A ChatGPT-style mobile chat app in React Native with context about Margelo",
+    "url": "https://github.com/margelo/ai-chat-demo",
+    "stars": 158,
+    "language": "TypeScript",
+    "updated_at": "2026-08-10T16:00:56Z"
   },
   {
     "name": "agent-skills-collection",
@@ -40,9 +49,9 @@
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 88,
+    "stars": 97,
     "language": "TypeScript",
-    "updated_at": "2026-08-10T12:58:11Z"
+    "updated_at": "2026-08-10T16:50:41Z"
   },
   {
     "name": "AI-Trading-Bot-Codepen",
@@ -51,7 +60,25 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 83,
     "language": "HTML",
-    "updated_at": "2026-08-10T12:07:45Z"
+    "updated_at": "2026-08-10T16:52:37Z"
+  },
+  {
+    "name": "UNISWAP-ARBITRAGE-BOT",
+    "full_name": "eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
+    "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+    "url": "https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
+    "stars": 82,
+    "language": "Solidity",
+    "updated_at": "2026-08-10T16:52:57Z"
+  },
+  {
+    "name": "ai-smart-contract-auditor",
+    "full_name": "iktok90-design/ai-smart-contract-auditor",
+    "description": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork simulation, and professional audit reports for Solidity & Vyper across all EVM chains.",
+    "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
+    "stars": 75,
+    "language": "JavaScript",
+    "updated_at": "2026-08-10T14:46:34Z"
   },
   {
     "name": "goal-flow",
@@ -61,32 +88,5 @@
     "stars": 72,
     "language": "Python",
     "updated_at": "2026-08-10T03:30:26Z"
-  },
-  {
-    "name": "vibecodingex",
-    "full_name": "eticmedya/vibecodingex",
-    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
-    "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 70,
-    "language": "Vue",
-    "updated_at": "2026-08-09T21:11:21Z"
-  },
-  {
-    "name": "industrial-mcp",
-    "full_name": "zhiningsun/industrial-mcp",
-    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
-    "url": "https://github.com/zhiningsun/industrial-mcp",
-    "stars": 50,
-    "language": "Python",
-    "updated_at": "2026-08-10T12:10:17Z"
-  },
-  {
-    "name": "ai-smart-contract-auditor",
-    "full_name": "iktok90-design/ai-smart-contract-auditor",
-    "description": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork simulation, and professional audit reports for Solidity & Vyper across all EVM chains.",
-    "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
-    "stars": 49,
-    "language": "JavaScript",
-    "updated_at": "2026-08-10T13:05:21Z"
   }
 ]

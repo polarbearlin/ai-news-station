@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-08-10 13:06:49",
+  "generated_at": "2026-08-10 16:53:09",
   "news": [
     {
-      "title": "Because It's Not Fun Enough: why languages fail",
-      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
       "source": "Hacker News",
-      "time": "2026-08-10 11:27",
-      "score": 50,
-      "comments": 27
+      "time": "2026-08-10 14:56",
+      "score": 31,
+      "comments": 17
+    },
+    {
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "source": "Hacker News",
+      "time": "2026-08-10 16:35",
+      "score": 5,
+      "comments": 0
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "source": "Hacker News",
       "time": "2026-08-10 06:02",
-      "score": 327,
-      "comments": 191
-    },
-    {
-      "title": "Tail-call optimization in C is relatively recent",
-      "url": "https://lwn.net/Articles/1034703/",
-      "source": "Hacker News",
-      "time": "2026-08-10 11:34",
-      "score": 29,
-      "comments": 12
-    },
-    {
-      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-      "url": "https://lordgoati.us/blog/tail-call/",
-      "source": "Hacker News",
-      "time": "2026-08-07 12:05",
-      "score": 45,
-      "comments": 15
+      "score": 483,
+      "comments": 298
     }
   ]
 }
