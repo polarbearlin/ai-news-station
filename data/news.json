@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-11 16:56:37",
+  "generated_at": "2026-08-11 20:42:13",
   "news": [
     {
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "title": "The brain may be about to have its Ozempic moment",
+      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
       "source": "Hacker News",
-      "time": "2026-08-11 14:50",
-      "score": 114,
-      "comments": 22
+      "time": "2026-08-11 20:01",
+      "score": 33,
+      "comments": 18
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
       "source": "Hacker News",
       "time": "2026-08-11 13:22",
-      "score": 172,
-      "comments": 65
-    },
-    {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "source": "Hacker News",
-      "time": "2026-08-10 22:36",
-      "score": 681,
-      "comments": 728
+      "score": 366,
+      "comments": 145
     }
   ]
 }
