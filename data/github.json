@@ -1,21 +1,21 @@
 [
   {
-    "name": "KADATH",
-    "full_name": "i3T4AN/KADATH",
-    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-    "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 176,
-    "language": "Python",
-    "updated_at": "2026-08-11T12:16:52Z"
-  },
-  {
     "name": "agent-skills-collection",
     "full_name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-    "stars": 134,
+    "stars": 204,
     "language": "Python",
-    "updated_at": "2026-08-10T22:26:01Z"
+    "updated_at": "2026-08-11T14:42:33Z"
+  },
+  {
+    "name": "KADATH",
+    "full_name": "i3T4AN/KADATH",
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "stars": 178,
+    "language": "Python",
+    "updated_at": "2026-08-11T16:17:58Z"
   },
   {
     "name": "vibewatch",
@@ -31,9 +31,9 @@
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 99,
+    "stars": 100,
     "language": "TypeScript",
-    "updated_at": "2026-08-10T23:26:00Z"
+    "updated_at": "2026-08-11T14:44:43Z"
   },
   {
     "name": "AI-Trading-Bot-Codepen",
@@ -42,7 +42,7 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 83,
     "language": "HTML",
-    "updated_at": "2026-08-11T13:02:15Z"
+    "updated_at": "2026-08-11T16:55:46Z"
   },
   {
     "name": "ai-smart-contract-auditor",
@@ -76,9 +76,9 @@
     "full_name": "zhiningsun/industrial-mcp",
     "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
     "url": "https://github.com/zhiningsun/industrial-mcp",
-    "stars": 51,
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-08-11T01:38:42Z"
+    "updated_at": "2026-08-11T15:58:11Z"
   },
   {
     "name": "sparkfetch",
