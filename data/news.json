@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-12 13:08:19",
+  "generated_at": "2026-08-12 16:55:45",
   "news": [
     {
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "source": "Hacker News",
-      "time": "2026-08-12 10:04",
-      "score": 123,
-      "comments": 55
+      "time": "2026-08-12 14:22",
+      "score": 313,
+      "comments": 43
     },
     {
-      "title": "Delphi 13 Community Edition Is Now Available",
-      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "Hacker News",
-      "time": "2026-08-12 11:13",
-      "score": 36,
-      "comments": 24
+      "time": "2026-08-12 16:04",
+      "score": 70,
+      "comments": 12
     },
     {
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
       "source": "Hacker News",
-      "time": "2026-08-12 09:35",
-      "score": 261,
-      "comments": 141
+      "time": "2026-08-12 14:02",
+      "score": 103,
+      "comments": 51
     },
     {
-      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "title": "DeepSeek V4 Pro 0813 quietly released",
+      "url": "https://api-docs.deepseek.com/guides/responses_api/",
       "source": "Hacker News",
-      "time": "2026-08-06 10:29",
-      "score": 51,
-      "comments": 4
+      "time": "2026-08-12 16:37",
+      "score": 12,
+      "comments": 1
     }
   ]
 }
