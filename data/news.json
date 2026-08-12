@@ -1,4 +1,37 @@
 {
-  "generated_at": "2026-08-12 09:10:52",
-  "news": []
+  "generated_at": "2026-08-12 13:08:19",
+  "news": [
+    {
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "source": "Hacker News",
+      "time": "2026-08-12 10:04",
+      "score": 123,
+      "comments": 55
+    },
+    {
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "source": "Hacker News",
+      "time": "2026-08-12 11:13",
+      "score": 36,
+      "comments": 24
+    },
+    {
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "source": "Hacker News",
+      "time": "2026-08-12 09:35",
+      "score": 261,
+      "comments": 141
+    },
+    {
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "source": "Hacker News",
+      "time": "2026-08-06 10:29",
+      "score": 51,
+      "comments": 4
+    }
+  ]
 }
