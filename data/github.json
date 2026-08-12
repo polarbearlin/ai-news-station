@@ -1,5 +1,14 @@
 [
   {
+    "name": "phone-harness",
+    "full_name": "ShawnPana/phone-harness",
+    "description": "let your agent control your phone",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "stars": 1505,
+    "language": "Python",
+    "updated_at": "2026-08-12T01:55:25Z"
+  },
+  {
     "name": "agent-skills-collection",
     "full_name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
@@ -13,9 +22,9 @@
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 185,
+    "stars": 187,
     "language": "Python",
-    "updated_at": "2026-08-11T20:32:01Z"
+    "updated_at": "2026-08-12T01:11:55Z"
   },
   {
     "name": "vibewatch",
@@ -31,9 +40,9 @@
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 100,
+    "stars": 102,
     "language": "TypeScript",
-    "updated_at": "2026-08-11T14:44:43Z"
+    "updated_at": "2026-08-12T01:55:20Z"
   },
   {
     "name": "AI-Trading-Bot-Codepen",
@@ -42,7 +51,7 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 83,
     "language": "HTML",
-    "updated_at": "2026-08-11T20:41:36Z"
+    "updated_at": "2026-08-12T01:54:33Z"
   },
   {
     "name": "ai-smart-contract-auditor",
@@ -63,13 +72,13 @@
     "updated_at": "2026-08-11T07:55:42Z"
   },
   {
-    "name": "vibecodingex",
-    "full_name": "eticmedya/vibecodingex",
-    "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
-    "url": "https://github.com/eticmedya/vibecodingex",
-    "stars": 70,
-    "language": "Vue",
-    "updated_at": "2026-08-09T21:11:21Z"
+    "name": "DramaLens",
+    "full_name": "dengzi008/DramaLens",
+    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+    "url": "https://github.com/dengzi008/DramaLens",
+    "stars": 62,
+    "language": "JavaScript",
+    "updated_at": "2026-08-12T01:55:11Z"
   },
   {
     "name": "industrial-mcp",
@@ -79,14 +88,5 @@
     "stars": 50,
     "language": "Python",
     "updated_at": "2026-08-11T15:58:11Z"
-  },
-  {
-    "name": "sparkfetch",
-    "full_name": "Sparkfetch/sparkfetch",
-    "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
-    "url": "https://github.com/Sparkfetch/sparkfetch",
-    "stars": 45,
-    "language": "TypeScript",
-    "updated_at": "2026-08-07T22:57:20Z"
   }
 ]

@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-11 20:42:13",
+  "generated_at": "2026-08-12 01:55:33",
   "news": [
-    {
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "source": "Hacker News",
-      "time": "2026-08-11 20:01",
-      "score": 33,
-      "comments": 18
-    },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
       "source": "Hacker News",
       "time": "2026-08-11 13:22",
-      "score": 366,
-      "comments": 145
+      "score": 492,
+      "comments": 207
+    },
+    {
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "source": "Hacker News",
+      "time": "2026-08-11 12:23",
+      "score": 279,
+      "comments": 345
+    },
+    {
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "source": "Hacker News",
+      "time": "2026-08-06 13:47",
+      "score": 26,
+      "comments": 6
     }
   ]
 }
