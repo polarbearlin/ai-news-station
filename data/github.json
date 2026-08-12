@@ -4,9 +4,9 @@
     "full_name": "ShawnPana/phone-harness",
     "description": "let your agent control your phone",
     "url": "https://github.com/ShawnPana/phone-harness",
-    "stars": 1505,
+    "stars": 1538,
     "language": "Python",
-    "updated_at": "2026-08-12T01:55:25Z"
+    "updated_at": "2026-08-12T05:36:12Z"
   },
   {
     "name": "agent-skills-collection",
@@ -22,9 +22,9 @@
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 187,
+    "stars": 189,
     "language": "Python",
-    "updated_at": "2026-08-12T01:11:55Z"
+    "updated_at": "2026-08-12T05:25:05Z"
   },
   {
     "name": "vibewatch",
@@ -45,13 +45,22 @@
     "updated_at": "2026-08-12T01:55:20Z"
   },
   {
+    "name": "DramaLens",
+    "full_name": "dengzi008/DramaLens",
+    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+    "url": "https://github.com/dengzi008/DramaLens",
+    "stars": 85,
+    "language": "JavaScript",
+    "updated_at": "2026-08-12T03:18:10Z"
+  },
+  {
     "name": "AI-Trading-Bot-Codepen",
     "full_name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "description": "I’ve just created my own bot and I’m excited to share my work with you!",
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 83,
     "language": "HTML",
-    "updated_at": "2026-08-12T01:54:33Z"
+    "updated_at": "2026-08-12T05:36:26Z"
   },
   {
     "name": "ai-smart-contract-auditor",
@@ -72,21 +81,12 @@
     "updated_at": "2026-08-11T07:55:42Z"
   },
   {
-    "name": "DramaLens",
-    "full_name": "dengzi008/DramaLens",
-    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-    "url": "https://github.com/dengzi008/DramaLens",
-    "stars": 62,
-    "language": "JavaScript",
-    "updated_at": "2026-08-12T01:55:11Z"
-  },
-  {
-    "name": "industrial-mcp",
-    "full_name": "zhiningsun/industrial-mcp",
-    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
-    "url": "https://github.com/zhiningsun/industrial-mcp",
-    "stars": 50,
-    "language": "Python",
-    "updated_at": "2026-08-11T15:58:11Z"
+    "name": "VelaTerm",
+    "full_name": "vlinx-io/VelaTerm",
+    "description": "The best terminal for AI Coding",
+    "url": "https://github.com/vlinx-io/VelaTerm",
+    "stars": 53,
+    "language": "TypeScript",
+    "updated_at": "2026-08-12T04:52:07Z"
   }
 ]
