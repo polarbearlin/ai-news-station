@@ -4,27 +4,45 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 4603,
+    "stars": 5046,
     "language": "Python",
-    "updated_at": "2026-08-13T16:54:42Z"
+    "updated_at": "2026-08-13T20:40:32Z"
   },
   {
     "name": "phone-harness",
     "full_name": "ShawnPana/phone-harness",
     "description": "let your agent control your phone",
     "url": "https://github.com/ShawnPana/phone-harness",
-    "stars": 1706,
+    "stars": 1710,
     "language": "Python",
-    "updated_at": "2026-08-13T16:08:36Z"
+    "updated_at": "2026-08-13T20:18:58Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 362,
+    "stars": 348,
     "language": "Python",
-    "updated_at": "2026-08-13T14:06:04Z"
+    "updated_at": "2026-08-13T20:19:30Z"
+  },
+  {
+    "name": "tokentab",
+    "full_name": "wzchav/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/wzchav/tokentab",
+    "stars": 143,
+    "language": "Python",
+    "updated_at": "2026-08-13T20:40:00Z"
+  },
+  {
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 134,
+    "language": "Python",
+    "updated_at": "2026-08-13T20:36:40Z"
   },
   {
     "name": "vibewatch",
@@ -54,22 +72,13 @@
     "updated_at": "2026-08-13T11:16:25Z"
   },
   {
-    "name": "tokentab",
-    "full_name": "wzchav/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/wzchav/tokentab",
-    "stars": 111,
-    "language": "Python",
-    "updated_at": "2026-08-13T15:54:43Z"
-  },
-  {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 110,
-    "language": "Python",
-    "updated_at": "2026-08-13T16:50:06Z"
+    "name": "oss-pr-reviewer",
+    "full_name": "vuphongle/oss-pr-reviewer",
+    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+    "url": "https://github.com/vuphongle/oss-pr-reviewer",
+    "stars": 85,
+    "language": "TypeScript",
+    "updated_at": "2026-08-13T20:31:43Z"
   },
   {
     "name": "AI-Trading-Bot-Codepen",
@@ -78,15 +87,6 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-08-13T16:55:06Z"
-  },
-  {
-    "name": "oss-pr-reviewer",
-    "full_name": "vuphongle/oss-pr-reviewer",
-    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
-    "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 77,
-    "language": "TypeScript",
-    "updated_at": "2026-08-13T15:45:00Z"
+    "updated_at": "2026-08-13T20:37:57Z"
   }
 ]
