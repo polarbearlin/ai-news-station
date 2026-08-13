@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-12 20:43:03",
+  "generated_at": "2026-08-13 01:57:47",
   "news": [
     {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "Hacker News",
       "time": "2026-08-12 16:04",
-      "score": 526,
-      "comments": 194
+      "score": 755,
+      "comments": 285
     },
     {
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "source": "Hacker News",
       "time": "2026-08-12 14:22",
-      "score": 592,
-      "comments": 96
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "source": "Hacker News",
-      "time": "2026-08-12 14:02",
-      "score": 176,
-      "comments": 121
+      "score": 803,
+      "comments": 145
     }
   ]
 }
