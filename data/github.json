@@ -4,27 +4,27 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 3460,
+    "stars": 4057,
     "language": "Python",
-    "updated_at": "2026-08-13T09:11:28Z"
+    "updated_at": "2026-08-13T13:09:04Z"
   },
   {
     "name": "phone-harness",
     "full_name": "ShawnPana/phone-harness",
     "description": "let your agent control your phone",
     "url": "https://github.com/ShawnPana/phone-harness",
-    "stars": 1687,
+    "stars": 1698,
     "language": "Python",
-    "updated_at": "2026-08-13T09:00:47Z"
+    "updated_at": "2026-08-13T12:18:43Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 304,
+    "stars": 369,
     "language": "Python",
-    "updated_at": "2026-08-13T08:24:26Z"
+    "updated_at": "2026-08-13T11:49:59Z"
   },
   {
     "name": "vibewatch",
@@ -42,16 +42,16 @@
     "url": "https://github.com/dengzi008/DramaLens",
     "stars": 122,
     "language": "JavaScript",
-    "updated_at": "2026-08-13T03:33:13Z"
+    "updated_at": "2026-08-13T11:20:41Z"
   },
   {
     "name": "generative-loaders",
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 116,
+    "stars": 119,
     "language": "TypeScript",
-    "updated_at": "2026-08-13T08:14:25Z"
+    "updated_at": "2026-08-13T11:16:25Z"
   },
   {
     "name": "tokentab",
@@ -69,24 +69,24 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-08-13T09:11:19Z"
+    "updated_at": "2026-08-13T13:08:43Z"
+  },
+  {
+    "name": "oss-pr-reviewer",
+    "full_name": "vuphongle/oss-pr-reviewer",
+    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+    "url": "https://github.com/vuphongle/oss-pr-reviewer",
+    "stars": 74,
+    "language": "TypeScript",
+    "updated_at": "2026-08-13T12:17:13Z"
   },
   {
     "name": "md2hd",
     "full_name": "evan-steinhilb/md2hd",
     "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
     "url": "https://github.com/evan-steinhilb/md2hd",
-    "stars": 69,
+    "stars": 72,
     "language": "JavaScript",
-    "updated_at": "2026-08-13T05:46:46Z"
-  },
-  {
-    "name": "VelaTerm",
-    "full_name": "vlinx-io/VelaTerm",
-    "description": "The best terminal for AI Coding",
-    "url": "https://github.com/vlinx-io/VelaTerm",
-    "stars": 63,
-    "language": "TypeScript",
-    "updated_at": "2026-08-13T02:59:50Z"
+    "updated_at": "2026-08-13T11:25:19Z"
   }
 ]

@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-13 09:11:37",
+  "generated_at": "2026-08-13 13:09:22",
   "news": [
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
       "source": "Hacker News",
       "time": "2026-08-13 04:53",
-      "score": 89,
-      "comments": 33
+      "score": 260,
+      "comments": 175
     },
     {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "Hacker News",
       "time": "2026-08-12 16:04",
-      "score": 911,
-      "comments": 373
+      "score": 975,
+      "comments": 422
     }
   ]
 }
