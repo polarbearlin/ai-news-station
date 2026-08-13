@@ -4,27 +4,27 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 4057,
+    "stars": 4603,
     "language": "Python",
-    "updated_at": "2026-08-13T13:09:04Z"
+    "updated_at": "2026-08-13T16:54:42Z"
   },
   {
     "name": "phone-harness",
     "full_name": "ShawnPana/phone-harness",
     "description": "let your agent control your phone",
     "url": "https://github.com/ShawnPana/phone-harness",
-    "stars": 1698,
+    "stars": 1706,
     "language": "Python",
-    "updated_at": "2026-08-13T12:18:43Z"
+    "updated_at": "2026-08-13T16:08:36Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 369,
+    "stars": 362,
     "language": "Python",
-    "updated_at": "2026-08-13T11:49:59Z"
+    "updated_at": "2026-08-13T14:06:04Z"
   },
   {
     "name": "vibewatch",
@@ -60,7 +60,16 @@
     "url": "https://github.com/wzchav/tokentab",
     "stars": 111,
     "language": "Python",
-    "updated_at": "2026-08-13T08:35:47Z"
+    "updated_at": "2026-08-13T15:54:43Z"
+  },
+  {
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 110,
+    "language": "Python",
+    "updated_at": "2026-08-13T16:50:06Z"
   },
   {
     "name": "AI-Trading-Bot-Codepen",
@@ -69,24 +78,15 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-08-13T13:08:43Z"
+    "updated_at": "2026-08-13T16:55:06Z"
   },
   {
     "name": "oss-pr-reviewer",
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 74,
+    "stars": 77,
     "language": "TypeScript",
-    "updated_at": "2026-08-13T12:17:13Z"
-  },
-  {
-    "name": "md2hd",
-    "full_name": "evan-steinhilb/md2hd",
-    "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
-    "url": "https://github.com/evan-steinhilb/md2hd",
-    "stars": 72,
-    "language": "JavaScript",
-    "updated_at": "2026-08-13T11:25:19Z"
+    "updated_at": "2026-08-13T15:45:00Z"
   }
 ]

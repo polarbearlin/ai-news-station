@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-08-13 13:09:22",
+  "generated_at": "2026-08-13 16:55:13",
   "news": [
     {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
       "source": "Hacker News",
-      "time": "2026-08-13 04:53",
-      "score": 260,
-      "comments": 175
+      "time": "2026-08-13 12:58",
+      "score": 369,
+      "comments": 172
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
       "source": "Hacker News",
-      "time": "2026-08-12 16:04",
-      "score": 975,
-      "comments": 422
+      "time": "2026-08-13 14:18",
+      "score": 38,
+      "comments": 18
+    },
+    {
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "source": "Hacker News",
+      "time": "2026-08-13 04:53",
+      "score": 374,
+      "comments": 263
+    },
+    {
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "source": "Hacker News",
+      "time": "2026-08-13 13:36",
+      "score": 64,
+      "comments": 36
     }
   ]
 }
