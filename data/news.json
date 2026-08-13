@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-13 05:39:38",
+  "generated_at": "2026-08-13 09:11:37",
   "news": [
+    {
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "source": "Hacker News",
+      "time": "2026-08-13 04:53",
+      "score": 89,
+      "comments": 33
+    },
     {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "Hacker News",
       "time": "2026-08-12 16:04",
-      "score": 833,
-      "comments": 330
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "source": "Hacker News",
-      "time": "2026-08-12 14:22",
-      "score": 918,
-      "comments": 177
+      "score": 911,
+      "comments": 373
     }
   ]
 }
