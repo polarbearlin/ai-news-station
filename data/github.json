@@ -4,9 +4,18 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 6177,
+    "stars": 6719,
     "language": "Python",
-    "updated_at": "2026-08-14T09:04:36Z"
+    "updated_at": "2026-08-14T13:04:57Z"
+  },
+  {
+    "name": "eve-software-factory-template",
+    "full_name": "vercel-labs/eve-software-factory-template",
+    "description": "Meet Foreman, an eve Software Factory.",
+    "url": "https://github.com/vercel-labs/eve-software-factory-template",
+    "stars": 384,
+    "language": "TypeScript",
+    "updated_at": "2026-08-14T13:02:39Z"
   },
   {
     "name": "KADATH",
@@ -22,18 +31,18 @@
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 295,
+    "stars": 348,
     "language": "Python",
-    "updated_at": "2026-08-14T09:05:40Z"
+    "updated_at": "2026-08-14T13:04:03Z"
   },
   {
-    "name": "eve-software-factory-template",
-    "full_name": "vercel-labs/eve-software-factory-template",
-    "description": "Meet Foreman, an eve Software Factory.",
-    "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 232,
-    "language": "TypeScript",
-    "updated_at": "2026-08-14T09:02:01Z"
+    "name": "enterprise-system-design",
+    "full_name": "DrHazemAli/enterprise-system-design",
+    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+    "url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "stars": 289,
+    "language": null,
+    "updated_at": "2026-08-14T13:02:11Z"
   },
   {
     "name": "tokentab",
@@ -45,13 +54,13 @@
     "updated_at": "2026-08-14T04:38:08Z"
   },
   {
-    "name": "enterprise-system-design",
-    "full_name": "DrHazemAli/enterprise-system-design",
-    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-    "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 205,
-    "language": null,
-    "updated_at": "2026-08-14T09:05:37Z"
+    "name": "generative-loaders",
+    "full_name": "kasturikhanke/generative-loaders",
+    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+    "url": "https://github.com/kasturikhanke/generative-loaders",
+    "stars": 127,
+    "language": "TypeScript",
+    "updated_at": "2026-08-14T12:13:43Z"
   },
   {
     "name": "vibewatch",
@@ -61,15 +70,6 @@
     "stars": 127,
     "language": "C++",
     "updated_at": "2026-08-14T08:46:58Z"
-  },
-  {
-    "name": "generative-loaders",
-    "full_name": "kasturikhanke/generative-loaders",
-    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
-    "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 125,
-    "language": "TypeScript",
-    "updated_at": "2026-08-14T08:38:14Z"
   },
   {
     "name": "DramaLens",
@@ -85,8 +85,8 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 93,
+    "stars": 94,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T08:23:08Z"
+    "updated_at": "2026-08-14T11:34:00Z"
   }
 ]

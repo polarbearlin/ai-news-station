@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-14 09:05:41",
+  "generated_at": "2026-08-14 13:05:00",
   "news": [
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "source": "Hacker News",
+      "time": "2026-08-14 09:55",
+      "score": 91,
+      "comments": 40
+    },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "source": "Hacker News",
       "time": "2026-08-13 18:10",
-      "score": 583,
-      "comments": 235
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "source": "Hacker News",
-      "time": "2026-08-13 12:58",
-      "score": 653,
-      "comments": 272
-    },
-    {
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "source": "Hacker News",
-      "time": "2026-08-14 06:09",
-      "score": 21,
-      "comments": 3
+      "score": 649,
+      "comments": 253
     }
   ]
 }
