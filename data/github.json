@@ -4,27 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 5817,
+    "stars": 6177,
     "language": "Python",
-    "updated_at": "2026-08-14T05:36:07Z"
+    "updated_at": "2026-08-14T09:04:36Z"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 349,
+    "stars": 351,
     "language": "Python",
-    "updated_at": "2026-08-14T02:49:18Z"
+    "updated_at": "2026-08-14T07:58:36Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 241,
+    "stars": 295,
     "language": "Python",
-    "updated_at": "2026-08-14T05:18:26Z"
+    "updated_at": "2026-08-14T09:05:40Z"
+  },
+  {
+    "name": "eve-software-factory-template",
+    "full_name": "vercel-labs/eve-software-factory-template",
+    "description": "Meet Foreman, an eve Software Factory.",
+    "url": "https://github.com/vercel-labs/eve-software-factory-template",
+    "stars": 232,
+    "language": "TypeScript",
+    "updated_at": "2026-08-14T09:02:01Z"
   },
   {
     "name": "tokentab",
@@ -36,40 +45,31 @@
     "updated_at": "2026-08-14T04:38:08Z"
   },
   {
-    "name": "eve-software-factory-template",
-    "full_name": "vercel-labs/eve-software-factory-template",
-    "description": "Meet Foreman, an eve Software Factory.",
-    "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 168,
-    "language": "TypeScript",
-    "updated_at": "2026-08-14T05:37:12Z"
-  },
-  {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 144,
+    "stars": 205,
     "language": null,
-    "updated_at": "2026-08-14T05:32:18Z"
+    "updated_at": "2026-08-14T09:05:37Z"
   },
   {
     "name": "vibewatch",
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 126,
+    "stars": 127,
     "language": "C++",
-    "updated_at": "2026-08-12T19:40:08Z"
+    "updated_at": "2026-08-14T08:46:58Z"
   },
   {
     "name": "generative-loaders",
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 123,
+    "stars": 125,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T03:47:50Z"
+    "updated_at": "2026-08-14T08:38:14Z"
   },
   {
     "name": "DramaLens",
@@ -85,8 +85,8 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 92,
+    "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T03:33:03Z"
+    "updated_at": "2026-08-14T08:23:08Z"
   }
 ]
