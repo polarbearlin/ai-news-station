@@ -4,27 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 7357,
+    "stars": 7823,
     "language": "Python",
-    "updated_at": "2026-08-14T16:50:50Z"
+    "updated_at": "2026-08-14T20:28:16Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 451,
+    "stars": 553,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T16:51:00Z"
+    "updated_at": "2026-08-14T20:25:33Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 388,
+    "stars": 397,
     "language": "Python",
-    "updated_at": "2026-08-14T16:48:33Z"
+    "updated_at": "2026-08-14T19:01:04Z"
+  },
+  {
+    "name": "enterprise-system-design",
+    "full_name": "DrHazemAli/enterprise-system-design",
+    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+    "url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "stars": 393,
+    "language": null,
+    "updated_at": "2026-08-14T20:23:15Z"
   },
   {
     "name": "KADATH",
@@ -34,15 +43,6 @@
     "stars": 351,
     "language": "Python",
     "updated_at": "2026-08-14T07:58:36Z"
-  },
-  {
-    "name": "enterprise-system-design",
-    "full_name": "DrHazemAli/enterprise-system-design",
-    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-    "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 350,
-    "language": null,
-    "updated_at": "2026-08-14T16:50:55Z"
   },
   {
     "name": "tokentab",
@@ -58,9 +58,9 @@
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 129,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T14:18:48Z"
+    "updated_at": "2026-08-14T19:14:20Z"
   },
   {
     "name": "vibewatch",
