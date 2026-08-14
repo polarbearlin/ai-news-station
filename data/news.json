@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-14 13:05:00",
+  "generated_at": "2026-08-14 16:51:55",
   "news": [
     {
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "source": "Hacker News",
-      "time": "2026-08-14 09:55",
-      "score": 91,
-      "comments": 40
+      "time": "2026-08-14 14:34",
+      "score": 143,
+      "comments": 121
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "source": "Hacker News",
-      "time": "2026-08-13 18:10",
-      "score": 649,
-      "comments": 253
+      "time": "2026-08-14 15:43",
+      "score": 23,
+      "comments": 9
     }
   ]
 }

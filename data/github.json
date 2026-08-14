@@ -4,18 +4,27 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 6719,
+    "stars": 7357,
     "language": "Python",
-    "updated_at": "2026-08-14T13:04:57Z"
+    "updated_at": "2026-08-14T16:50:50Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 384,
+    "stars": 451,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T13:02:39Z"
+    "updated_at": "2026-08-14T16:51:00Z"
+  },
+  {
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 388,
+    "language": "Python",
+    "updated_at": "2026-08-14T16:48:33Z"
   },
   {
     "name": "KADATH",
@@ -27,22 +36,13 @@
     "updated_at": "2026-08-14T07:58:36Z"
   },
   {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 348,
-    "language": "Python",
-    "updated_at": "2026-08-14T13:04:03Z"
-  },
-  {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 289,
+    "stars": 350,
     "language": null,
-    "updated_at": "2026-08-14T13:02:11Z"
+    "updated_at": "2026-08-14T16:50:55Z"
   },
   {
     "name": "tokentab",
@@ -58,18 +58,18 @@
     "full_name": "kasturikhanke/generative-loaders",
     "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
     "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 127,
+    "stars": 129,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T12:13:43Z"
+    "updated_at": "2026-08-14T14:18:48Z"
   },
   {
     "name": "vibewatch",
     "full_name": "GOROman/vibewatch",
     "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
     "url": "https://github.com/GOROman/vibewatch",
-    "stars": 127,
+    "stars": 128,
     "language": "C++",
-    "updated_at": "2026-08-14T08:46:58Z"
+    "updated_at": "2026-08-14T14:49:13Z"
   },
   {
     "name": "DramaLens",
@@ -85,8 +85,8 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 94,
+    "stars": 95,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T11:34:00Z"
+    "updated_at": "2026-08-14T16:20:07Z"
   }
 ]
