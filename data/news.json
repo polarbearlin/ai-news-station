@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-14 01:55:32",
+  "generated_at": "2026-08-14 05:37:15",
   "news": [
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "source": "Hacker News",
       "time": "2026-08-13 18:10",
-      "score": 424,
-      "comments": 174
+      "score": 511,
+      "comments": 214
     },
     {
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
       "source": "Hacker News",
       "time": "2026-08-13 12:58",
-      "score": 559,
-      "comments": 244
+      "score": 604,
+      "comments": 257
     }
   ]
 }
