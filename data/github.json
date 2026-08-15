@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 8207,
+    "stars": 8455,
     "language": "Python",
-    "updated_at": "2026-08-15T01:12:27Z"
+    "updated_at": "2026-08-15T04:29:43Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 590,
+    "stars": 621,
     "language": "TypeScript",
-    "updated_at": "2026-08-15T01:10:46Z"
+    "updated_at": "2026-08-15T04:28:50Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 427,
+    "stars": 436,
     "language": null,
-    "updated_at": "2026-08-15T00:53:29Z"
+    "updated_at": "2026-08-15T04:24:29Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 401,
+    "stars": 413,
     "language": "Python",
-    "updated_at": "2026-08-15T01:07:23Z"
+    "updated_at": "2026-08-15T04:28:35Z"
   },
   {
     "name": "tokentab",
@@ -78,15 +78,15 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-08-15T01:12:44Z"
+    "updated_at": "2026-08-15T04:29:48Z"
   },
   {
     "name": "VelaTerm",
     "full_name": "vlinx-io/VelaTerm",
     "description": "The best terminal for AI Coding",
     "url": "https://github.com/vlinx-io/VelaTerm",
-    "stars": 69,
+    "stars": 70,
     "language": "TypeScript",
-    "updated_at": "2026-08-15T00:55:26Z"
+    "updated_at": "2026-08-15T04:27:01Z"
   }
 ]

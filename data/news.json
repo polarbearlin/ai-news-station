@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-15 01:12:47",
+  "generated_at": "2026-08-15 04:30:24",
   "news": [
     {
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "source": "Hacker News",
       "time": "2026-08-14 15:43",
-      "score": 273,
-      "comments": 166
+      "score": 316,
+      "comments": 185
+    },
+    {
+      "title": "AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "source": "Hacker News",
+      "time": "2026-08-15 02:42",
+      "score": 10,
+      "comments": 4
     }
   ]
 }
