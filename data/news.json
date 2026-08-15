@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-08-15 12:36:01",
-  "news": []
+  "generated_at": "2026-08-15 16:23:02",
+  "news": [
+    {
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "source": "Hacker News",
+      "time": "2026-08-15 15:32",
+      "score": 19,
+      "comments": 9
+    },
+    {
+      "title": "The AI Situation in Software Development",
+      "url": "https://srikanth.ch/posts/the-ai-situation/",
+      "source": "Hacker News",
+      "time": "2026-08-15 14:12",
+      "score": 21,
+      "comments": 12
+    },
+    {
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "source": "Hacker News",
+      "time": "2026-08-15 13:43",
+      "score": 28,
+      "comments": 11
+    }
+  ]
 }

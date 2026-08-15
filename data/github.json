@@ -4,45 +4,45 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 9182,
+    "stars": 9390,
     "language": "Python",
-    "updated_at": "2026-08-15T12:35:44Z"
+    "updated_at": "2026-08-15T16:22:33Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 675,
+    "stars": 762,
     "language": "TypeScript",
-    "updated_at": "2026-08-15T12:27:08Z"
-  },
-  {
-    "name": "enterprise-system-design",
-    "full_name": "DrHazemAli/enterprise-system-design",
-    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-    "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 461,
-    "language": null,
-    "updated_at": "2026-08-15T11:59:57Z"
+    "updated_at": "2026-08-15T16:09:09Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 454,
+    "stars": 477,
     "language": "Python",
-    "updated_at": "2026-08-15T12:04:57Z"
+    "updated_at": "2026-08-15T15:49:16Z"
+  },
+  {
+    "name": "enterprise-system-design",
+    "full_name": "DrHazemAli/enterprise-system-design",
+    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+    "url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "stars": 476,
+    "language": null,
+    "updated_at": "2026-08-15T15:55:57Z"
   },
   {
     "name": "tokentab",
     "full_name": "wzchav/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/wzchav/tokentab",
-    "stars": 213,
+    "stars": 214,
     "language": "Python",
-    "updated_at": "2026-08-15T05:27:29Z"
+    "updated_at": "2026-08-15T14:24:36Z"
   },
   {
     "name": "DramaLens",
@@ -58,9 +58,9 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 94,
+    "stars": 95,
     "language": "TypeScript",
-    "updated_at": "2026-08-15T10:41:47Z"
+    "updated_at": "2026-08-15T15:12:40Z"
   },
   {
     "name": "md2hd",
@@ -78,15 +78,15 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-08-15T12:35:03Z"
+    "updated_at": "2026-08-15T16:22:26Z"
   },
   {
-    "name": "VelaTerm",
-    "full_name": "vlinx-io/VelaTerm",
-    "description": "The best terminal for AI Coding",
-    "url": "https://github.com/vlinx-io/VelaTerm",
-    "stars": 70,
-    "language": "TypeScript",
-    "updated_at": "2026-08-15T11:00:01Z"
+    "name": "agentic-playwright",
+    "full_name": "idavidov13/agentic-playwright",
+    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+    "url": "https://github.com/idavidov13/agentic-playwright",
+    "stars": 71,
+    "language": "Python",
+    "updated_at": "2026-08-15T14:56:17Z"
   }
 ]
