@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-08-14 20:30:15",
+  "generated_at": "2026-08-15 01:12:47",
   "news": [
     {
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "source": "Hacker News",
       "time": "2026-08-14 15:43",
-      "score": 158,
-      "comments": 108
-    },
-    {
-      "title": "Anthropic Risk August 2026 [pdf]",
-      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-      "source": "Hacker News",
-      "time": "2026-08-14 19:32",
-      "score": 13,
-      "comments": 0
+      "score": 273,
+      "comments": 166
     }
   ]
 }

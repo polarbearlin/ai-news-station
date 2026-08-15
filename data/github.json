@@ -4,45 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 7823,
+    "stars": 8207,
     "language": "Python",
-    "updated_at": "2026-08-14T20:28:16Z"
+    "updated_at": "2026-08-15T01:12:27Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 553,
+    "stars": 590,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T20:25:33Z"
-  },
-  {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 397,
-    "language": "Python",
-    "updated_at": "2026-08-14T19:01:04Z"
+    "updated_at": "2026-08-15T01:10:46Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 393,
+    "stars": 427,
     "language": null,
-    "updated_at": "2026-08-14T20:23:15Z"
+    "updated_at": "2026-08-15T00:53:29Z"
   },
   {
-    "name": "KADATH",
-    "full_name": "i3T4AN/KADATH",
-    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-    "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 351,
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 401,
     "language": "Python",
-    "updated_at": "2026-08-14T07:58:36Z"
+    "updated_at": "2026-08-15T01:07:23Z"
   },
   {
     "name": "tokentab",
@@ -52,24 +43,6 @@
     "stars": 212,
     "language": "Python",
     "updated_at": "2026-08-14T04:38:08Z"
-  },
-  {
-    "name": "generative-loaders",
-    "full_name": "kasturikhanke/generative-loaders",
-    "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
-    "url": "https://github.com/kasturikhanke/generative-loaders",
-    "stars": 130,
-    "language": "TypeScript",
-    "updated_at": "2026-08-14T19:14:20Z"
-  },
-  {
-    "name": "vibewatch",
-    "full_name": "GOROman/vibewatch",
-    "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-    "url": "https://github.com/GOROman/vibewatch",
-    "stars": 128,
-    "language": "C++",
-    "updated_at": "2026-08-14T14:49:13Z"
   },
   {
     "name": "DramaLens",
@@ -88,5 +61,32 @@
     "stars": 95,
     "language": "TypeScript",
     "updated_at": "2026-08-14T16:20:07Z"
+  },
+  {
+    "name": "md2hd",
+    "full_name": "evan-steinhilb/md2hd",
+    "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
+    "url": "https://github.com/evan-steinhilb/md2hd",
+    "stars": 91,
+    "language": "JavaScript",
+    "updated_at": "2026-08-14T22:07:33Z"
+  },
+  {
+    "name": "AI-Trading-Bot-Codepen",
+    "full_name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "description": "I’ve just created my own bot and I’m excited to share my work with you!",
+    "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "stars": 84,
+    "language": "HTML",
+    "updated_at": "2026-08-15T01:12:44Z"
+  },
+  {
+    "name": "VelaTerm",
+    "full_name": "vlinx-io/VelaTerm",
+    "description": "The best terminal for AI Coding",
+    "url": "https://github.com/vlinx-io/VelaTerm",
+    "stars": 69,
+    "language": "TypeScript",
+    "updated_at": "2026-08-15T00:55:26Z"
   }
 ]
