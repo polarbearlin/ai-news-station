@@ -1,21 +1,4 @@
 {
-  "generated_at": "2026-08-15 08:27:29",
-  "news": [
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "Hacker News",
-      "time": "2026-08-14 15:43",
-      "score": 375,
-      "comments": 218
-    },
-    {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "source": "Hacker News",
-      "time": "2026-08-15 04:42",
-      "score": 16,
-      "comments": 1
-    }
-  ]
+  "generated_at": "2026-08-15 12:36:01",
+  "news": []
 }

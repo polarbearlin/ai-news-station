@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 8814,
+    "stars": 9182,
     "language": "Python",
-    "updated_at": "2026-08-15T08:26:26Z"
+    "updated_at": "2026-08-15T12:35:44Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 648,
+    "stars": 675,
     "language": "TypeScript",
-    "updated_at": "2026-08-15T08:22:33Z"
+    "updated_at": "2026-08-15T12:27:08Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 445,
+    "stars": 461,
     "language": null,
-    "updated_at": "2026-08-15T08:15:20Z"
+    "updated_at": "2026-08-15T11:59:57Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 440,
+    "stars": 454,
     "language": "Python",
-    "updated_at": "2026-08-15T08:07:43Z"
+    "updated_at": "2026-08-15T12:04:57Z"
   },
   {
     "name": "tokentab",
@@ -58,9 +58,9 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 95,
+    "stars": 94,
     "language": "TypeScript",
-    "updated_at": "2026-08-14T16:20:07Z"
+    "updated_at": "2026-08-15T10:41:47Z"
   },
   {
     "name": "md2hd",
@@ -78,7 +78,7 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 84,
     "language": "HTML",
-    "updated_at": "2026-08-15T08:26:57Z"
+    "updated_at": "2026-08-15T12:35:03Z"
   },
   {
     "name": "VelaTerm",
@@ -87,6 +87,6 @@
     "url": "https://github.com/vlinx-io/VelaTerm",
     "stars": 70,
     "language": "TypeScript",
-    "updated_at": "2026-08-15T04:27:01Z"
+    "updated_at": "2026-08-15T11:00:01Z"
   }
 ]
