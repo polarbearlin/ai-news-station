@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-08-15 16:23:02",
+  "generated_at": "2026-08-15 20:21:15",
   "news": [
     {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "source": "Hacker News",
-      "time": "2026-08-15 15:32",
-      "score": 19,
-      "comments": 9
+      "time": "2026-08-15 18:13",
+      "score": 218,
+      "comments": 187
     },
     {
-      "title": "The AI Situation in Software Development",
-      "url": "https://srikanth.ch/posts/the-ai-situation/",
+      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "source": "Hacker News",
-      "time": "2026-08-15 14:12",
-      "score": 21,
-      "comments": 12
+      "time": "2026-08-15 19:12",
+      "score": 30,
+      "comments": 15
     },
     {
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "source": "Hacker News",
-      "time": "2026-08-15 13:43",
-      "score": 28,
-      "comments": 11
+      "time": "2026-08-15 10:39",
+      "score": 204,
+      "comments": 144
+    },
+    {
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "source": "Hacker News",
+      "time": "2026-08-15 18:33",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
