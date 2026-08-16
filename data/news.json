@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-08-15 20:21:15",
+  "generated_at": "2026-08-16 01:17:11",
   "news": [
     {
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Hacker News",
-      "time": "2026-08-15 18:13",
-      "score": 218,
-      "comments": 187
-    },
-    {
-      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "source": "Hacker News",
       "time": "2026-08-15 19:12",
-      "score": 30,
-      "comments": 15
+      "score": 84,
+      "comments": 43
     },
     {
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "source": "Hacker News",
-      "time": "2026-08-15 10:39",
-      "score": 204,
-      "comments": 144
-    },
-    {
-      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-      "source": "Hacker News",
-      "time": "2026-08-15 18:33",
-      "score": 1,
-      "comments": 0
+      "time": "2026-08-15 18:13",
+      "score": 407,
+      "comments": 365
     }
   ]
 }
