@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 10403,
+    "stars": 10632,
     "language": "Python",
-    "updated_at": "2026-08-16T12:37:35Z"
+    "updated_at": "2026-08-16T16:20:59Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 818,
+    "stars": 825,
     "language": "TypeScript",
-    "updated_at": "2026-08-16T12:02:31Z"
+    "updated_at": "2026-08-16T15:38:50Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 566,
+    "stars": 588,
     "language": "Python",
-    "updated_at": "2026-08-16T12:32:56Z"
+    "updated_at": "2026-08-16T16:11:18Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 509,
+    "stars": 512,
     "language": null,
-    "updated_at": "2026-08-16T11:29:26Z"
+    "updated_at": "2026-08-16T13:31:37Z"
   },
   {
     "name": "tokentab",
@@ -67,18 +67,18 @@
     "full_name": "evan-steinhilb/md2hd",
     "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
     "url": "https://github.com/evan-steinhilb/md2hd",
-    "stars": 92,
+    "stars": 93,
     "language": "JavaScript",
-    "updated_at": "2026-08-16T01:55:14Z"
+    "updated_at": "2026-08-16T14:23:56Z"
   },
   {
     "name": "agentic-playwright",
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 86,
+    "stars": 87,
     "language": "Python",
-    "updated_at": "2026-08-16T09:34:46Z"
+    "updated_at": "2026-08-16T13:04:04Z"
   },
   {
     "name": "AI-Trading-Bot-Codepen",
@@ -87,6 +87,6 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 85,
     "language": "HTML",
-    "updated_at": "2026-08-16T12:36:57Z"
+    "updated_at": "2026-08-16T16:23:21Z"
   }
 ]
