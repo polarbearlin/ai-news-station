@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16 04:35:03",
+  "generated_at": "2026-08-16 08:28:02",
   "news": [
     {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
       "source": "Hacker News",
-      "time": "2026-08-15 19:12",
-      "score": 116,
-      "comments": 59
+      "time": "2026-08-16 07:37",
+      "score": 55,
+      "comments": 30
     }
   ]
 }

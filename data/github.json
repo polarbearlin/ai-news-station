@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 9911,
+    "stars": 10167,
     "language": "Python",
-    "updated_at": "2026-08-16T04:34:02Z"
+    "updated_at": "2026-08-16T08:26:55Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 796,
+    "stars": 802,
     "language": "TypeScript",
-    "updated_at": "2026-08-16T03:57:49Z"
+    "updated_at": "2026-08-16T07:59:02Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 518,
+    "stars": 534,
     "language": "Python",
-    "updated_at": "2026-08-16T04:33:34Z"
+    "updated_at": "2026-08-16T08:15:11Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 497,
+    "stars": 503,
     "language": null,
-    "updated_at": "2026-08-16T04:18:32Z"
+    "updated_at": "2026-08-16T08:25:07Z"
   },
   {
     "name": "tokentab",
@@ -78,15 +78,15 @@
     "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
     "stars": 85,
     "language": "HTML",
-    "updated_at": "2026-08-16T04:34:04Z"
+    "updated_at": "2026-08-16T08:27:58Z"
   },
   {
     "name": "agentic-playwright",
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 82,
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-08-15T21:54:39Z"
+    "updated_at": "2026-08-16T06:06:13Z"
   }
 ]
