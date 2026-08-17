@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 12783,
+    "stars": 13077,
     "language": "Python",
-    "updated_at": "2026-08-17T12:41:11Z"
+    "updated_at": "2026-08-17T16:26:32Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 849,
+    "stars": 870,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T10:21:05Z"
+    "updated_at": "2026-08-17T15:55:52Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 676,
+    "stars": 682,
     "language": "Python",
-    "updated_at": "2026-08-17T12:32:33Z"
+    "updated_at": "2026-08-17T16:17:50Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 537,
+    "stars": 540,
     "language": null,
-    "updated_at": "2026-08-17T09:51:42Z"
+    "updated_at": "2026-08-17T16:17:43Z"
   },
   {
     "name": "tokentab",
@@ -43,6 +43,15 @@
     "stars": 222,
     "language": "Python",
     "updated_at": "2026-08-17T08:37:41Z"
+  },
+  {
+    "name": "pgbot",
+    "full_name": "pgrundev/pgbot",
+    "description": "pgbot - Postgres intelligence for AI agents & apps",
+    "url": "https://github.com/pgrundev/pgbot",
+    "stars": 181,
+    "language": "Go",
+    "updated_at": "2026-08-17T15:58:16Z"
   },
   {
     "name": "DramaLens",
@@ -67,26 +76,17 @@
     "full_name": "evan-steinhilb/md2hd",
     "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
     "url": "https://github.com/evan-steinhilb/md2hd",
-    "stars": 98,
+    "stars": 99,
     "language": "JavaScript",
-    "updated_at": "2026-08-17T11:21:48Z"
+    "updated_at": "2026-08-17T13:19:46Z"
   },
   {
     "name": "agentic-playwright",
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 92,
+    "stars": 96,
     "language": "Python",
-    "updated_at": "2026-08-17T12:22:22Z"
-  },
-  {
-    "name": "memoket-kite",
-    "full_name": "memoket/memoket-kite",
-    "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
-    "url": "https://github.com/memoket/memoket-kite",
-    "stars": 76,
-    "language": "Python",
-    "updated_at": "2026-08-17T12:08:25Z"
+    "updated_at": "2026-08-17T15:46:59Z"
   }
 ]

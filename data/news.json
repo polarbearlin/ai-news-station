@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-08-17 12:42:15",
+  "generated_at": "2026-08-17 16:26:42",
   "news": [
     {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source": "Hacker News",
-      "time": "2026-08-16 21:53",
-      "score": 395,
-      "comments": 389
+      "time": "2026-08-17 14:18",
+      "score": 96,
+      "comments": 41
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "source": "Hacker News",
+      "time": "2026-08-17 15:36",
+      "score": 22,
+      "comments": 7
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "source": "Hacker News",
+      "time": "2026-08-17 12:09",
+      "score": 181,
+      "comments": 100
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "Hacker News",
+      "time": "2026-08-17 14:07",
+      "score": 72,
+      "comments": 17
     }
   ]
 }
