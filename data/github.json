@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 11086,
+    "stars": 11555,
     "language": "Python",
-    "updated_at": "2026-08-16T20:20:34Z"
+    "updated_at": "2026-08-17T01:13:29Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 831,
+    "stars": 834,
     "language": "TypeScript",
-    "updated_at": "2026-08-16T20:15:36Z"
+    "updated_at": "2026-08-16T23:18:15Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 595,
+    "stars": 606,
     "language": "Python",
-    "updated_at": "2026-08-16T20:07:20Z"
+    "updated_at": "2026-08-17T01:11:08Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 523,
+    "stars": 531,
     "language": null,
-    "updated_at": "2026-08-16T20:05:14Z"
+    "updated_at": "2026-08-17T00:17:32Z"
   },
   {
     "name": "tokentab",
@@ -76,17 +76,17 @@
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 89,
+    "stars": 90,
     "language": "Python",
-    "updated_at": "2026-08-16T18:28:44Z"
+    "updated_at": "2026-08-16T21:21:06Z"
   },
   {
-    "name": "AI-Trading-Bot-Codepen",
-    "full_name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
-    "description": "I’ve just created my own bot and I’m excited to share my work with you!",
-    "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
-    "stars": 85,
-    "language": "HTML",
-    "updated_at": "2026-08-16T20:20:09Z"
+    "name": "bilibili-digest",
+    "full_name": "biuworks/bilibili-digest",
+    "description": "已上架 Chrome 商店 🚀 把 B 站视频变成学习资源的浏览器扩展（Chrome / Edge）：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记",
+    "url": "https://github.com/biuworks/bilibili-digest",
+    "stars": 68,
+    "language": "JavaScript",
+    "updated_at": "2026-08-16T14:47:27Z"
   }
 ]
