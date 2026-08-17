@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 13077,
+    "stars": 13272,
     "language": "Python",
-    "updated_at": "2026-08-17T16:26:32Z"
+    "updated_at": "2026-08-17T20:25:09Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 870,
+    "stars": 878,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T15:55:52Z"
+    "updated_at": "2026-08-17T19:23:10Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 682,
+    "stars": 687,
     "language": "Python",
-    "updated_at": "2026-08-17T16:17:50Z"
+    "updated_at": "2026-08-17T18:12:51Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 540,
+    "stars": 542,
     "language": null,
-    "updated_at": "2026-08-17T16:17:43Z"
+    "updated_at": "2026-08-17T20:23:00Z"
   },
   {
     "name": "tokentab",
@@ -49,9 +49,9 @@
     "full_name": "pgrundev/pgbot",
     "description": "pgbot - Postgres intelligence for AI agents & apps",
     "url": "https://github.com/pgrundev/pgbot",
-    "stars": 181,
+    "stars": 196,
     "language": "Go",
-    "updated_at": "2026-08-17T15:58:16Z"
+    "updated_at": "2026-08-17T19:52:50Z"
   },
   {
     "name": "DramaLens",
@@ -67,9 +67,18 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 110,
+    "stars": 111,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T11:37:30Z"
+    "updated_at": "2026-08-17T19:04:21Z"
+  },
+  {
+    "name": "ai-data-extractor",
+    "full_name": "bawadou/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/bawadou/ai-data-extractor",
+    "stars": 102,
+    "language": "Python",
+    "updated_at": "2026-08-17T20:25:26Z"
   },
   {
     "name": "md2hd",
@@ -78,15 +87,6 @@
     "url": "https://github.com/evan-steinhilb/md2hd",
     "stars": 99,
     "language": "JavaScript",
-    "updated_at": "2026-08-17T13:19:46Z"
-  },
-  {
-    "name": "agentic-playwright",
-    "full_name": "idavidov13/agentic-playwright",
-    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
-    "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 96,
-    "language": "Python",
-    "updated_at": "2026-08-17T15:46:59Z"
+    "updated_at": "2026-08-17T17:08:10Z"
   }
 ]
