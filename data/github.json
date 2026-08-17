@@ -4,36 +4,36 @@
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 12434,
+    "stars": 12783,
     "language": "Python",
-    "updated_at": "2026-08-17T08:42:01Z"
+    "updated_at": "2026-08-17T12:41:11Z"
   },
   {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 846,
+    "stars": 849,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T08:35:37Z"
+    "updated_at": "2026-08-17T10:21:05Z"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 655,
+    "stars": 676,
     "language": "Python",
-    "updated_at": "2026-08-17T08:37:42Z"
+    "updated_at": "2026-08-17T12:32:33Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 535,
+    "stars": 537,
     "language": null,
-    "updated_at": "2026-08-17T07:02:03Z"
+    "updated_at": "2026-08-17T09:51:42Z"
   },
   {
     "name": "tokentab",
@@ -58,35 +58,35 @@
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 109,
+    "stars": 110,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T08:18:50Z"
+    "updated_at": "2026-08-17T11:37:30Z"
   },
   {
     "name": "md2hd",
     "full_name": "evan-steinhilb/md2hd",
     "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
     "url": "https://github.com/evan-steinhilb/md2hd",
-    "stars": 97,
+    "stars": 98,
     "language": "JavaScript",
-    "updated_at": "2026-08-17T06:33:12Z"
+    "updated_at": "2026-08-17T11:21:48Z"
   },
   {
     "name": "agentic-playwright",
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 90,
+    "stars": 92,
     "language": "Python",
-    "updated_at": "2026-08-16T21:21:06Z"
+    "updated_at": "2026-08-17T12:22:22Z"
   },
   {
     "name": "memoket-kite",
     "full_name": "memoket/memoket-kite",
-    "description": "Memory engine for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
+    "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
     "url": "https://github.com/memoket/memoket-kite",
-    "stars": 72,
+    "stars": 76,
     "language": "Python",
-    "updated_at": "2026-08-17T05:19:26Z"
+    "updated_at": "2026-08-17T12:08:25Z"
   }
 ]
