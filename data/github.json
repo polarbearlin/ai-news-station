@@ -4,36 +4,36 @@
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 889,
+    "stars": 892,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T08:28:02Z"
+    "updated_at": "2026-08-18T12:39:49Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 545,
+    "stars": 548,
     "language": null,
-    "updated_at": "2026-08-18T08:02:36Z"
+    "updated_at": "2026-08-18T12:09:34Z"
   },
   {
     "name": "tokentab",
     "full_name": "wzchav/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/wzchav/tokentab",
-    "stars": 222,
+    "stars": 223,
     "language": "Python",
-    "updated_at": "2026-08-17T08:37:41Z"
+    "updated_at": "2026-08-18T12:11:45Z"
   },
   {
     "name": "ai-data-extractor",
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 164,
+    "stars": 175,
     "language": "Python",
-    "updated_at": "2026-08-18T08:27:31Z"
+    "updated_at": "2026-08-18T12:26:15Z"
   },
   {
     "name": "oss-pr-reviewer",
@@ -49,36 +49,36 @@
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 102,
+    "stars": 104,
     "language": "Python",
-    "updated_at": "2026-08-18T07:53:06Z"
+    "updated_at": "2026-08-18T10:18:33Z"
   },
   {
     "name": "memoket-kite",
     "full_name": "memoket/memoket-kite",
     "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
     "url": "https://github.com/memoket/memoket-kite",
-    "stars": 85,
+    "stars": 90,
     "language": "Python",
-    "updated_at": "2026-08-18T05:53:50Z"
+    "updated_at": "2026-08-18T11:52:01Z"
   },
   {
     "name": "bilibili-digest",
     "full_name": "biuworks/bilibili-digest",
     "description": "已上架 Chrome / Edge 商店 🚀 把 B 站视频变成学习资源的浏览器扩展：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记",
     "url": "https://github.com/biuworks/bilibili-digest",
-    "stars": 73,
+    "stars": 74,
     "language": "JavaScript",
-    "updated_at": "2026-08-18T05:16:37Z"
+    "updated_at": "2026-08-18T10:41:35Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 43,
+    "stars": 47,
     "language": "Swift",
-    "updated_at": "2026-08-18T07:53:46Z"
+    "updated_at": "2026-08-18T12:22:37Z"
   },
   {
     "name": "tether-ai",

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-18 08:35:39",
+  "generated_at": "2026-08-18 12:44:37",
   "news": [
+    {
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "source": "Hacker News",
+      "time": "2026-08-18 10:13",
+      "score": 178,
+      "comments": 97
+    },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "source": "Hacker News",
       "time": "2026-08-17 21:03",
-      "score": 410,
-      "comments": 238
+      "score": 516,
+      "comments": 329
     },
     {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "source": "Hacker News",
-      "time": "2026-08-17 22:01",
-      "score": 174,
-      "comments": 41
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "source": "Hacker News",
-      "time": "2026-08-17 14:18",
-      "score": 366,
-      "comments": 141
+      "time": "2026-08-17 20:46",
+      "score": 694,
+      "comments": 398
     }
   ]
 }
