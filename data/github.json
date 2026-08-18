@@ -1,39 +1,21 @@
 [
   {
-    "name": "watermarks-remover",
-    "full_name": "guillaumemeyer/watermarks-remover",
-    "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "stars": 13272,
-    "language": "Python",
-    "updated_at": "2026-08-17T20:25:09Z"
-  },
-  {
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 878,
+    "stars": 884,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T19:23:10Z"
-  },
-  {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 687,
-    "language": "Python",
-    "updated_at": "2026-08-17T18:12:51Z"
+    "updated_at": "2026-08-18T01:00:11Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 542,
+    "stars": 544,
     "language": null,
-    "updated_at": "2026-08-17T20:23:00Z"
+    "updated_at": "2026-08-17T23:35:39Z"
   },
   {
     "name": "tokentab",
@@ -45,22 +27,13 @@
     "updated_at": "2026-08-17T08:37:41Z"
   },
   {
-    "name": "pgbot",
-    "full_name": "pgrundev/pgbot",
-    "description": "pgbot - Postgres intelligence for AI agents & apps",
-    "url": "https://github.com/pgrundev/pgbot",
-    "stars": 196,
-    "language": "Go",
-    "updated_at": "2026-08-17T19:52:50Z"
-  },
-  {
-    "name": "DramaLens",
-    "full_name": "dengzi008/DramaLens",
-    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-    "url": "https://github.com/dengzi008/DramaLens",
-    "stars": 122,
-    "language": "JavaScript",
-    "updated_at": "2026-08-13T11:20:41Z"
+    "name": "ai-data-extractor",
+    "full_name": "bawadou/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/bawadou/ai-data-extractor",
+    "stars": 123,
+    "language": "Python",
+    "updated_at": "2026-08-18T01:03:03Z"
   },
   {
     "name": "oss-pr-reviewer",
@@ -72,21 +45,48 @@
     "updated_at": "2026-08-17T19:04:21Z"
   },
   {
-    "name": "ai-data-extractor",
-    "full_name": "bawadou/ai-data-extractor",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 102,
+    "name": "agentic-playwright",
+    "full_name": "idavidov13/agentic-playwright",
+    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+    "url": "https://github.com/idavidov13/agentic-playwright",
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-08-17T20:25:26Z"
+    "updated_at": "2026-08-17T22:03:23Z"
   },
   {
-    "name": "md2hd",
-    "full_name": "evan-steinhilb/md2hd",
-    "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
-    "url": "https://github.com/evan-steinhilb/md2hd",
-    "stars": 99,
+    "name": "memoket-kite",
+    "full_name": "memoket/memoket-kite",
+    "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
+    "url": "https://github.com/memoket/memoket-kite",
+    "stars": 80,
+    "language": "Python",
+    "updated_at": "2026-08-17T19:38:44Z"
+  },
+  {
+    "name": "bilibili-digest",
+    "full_name": "biuworks/bilibili-digest",
+    "description": "已上架 Chrome / Edge 商店 🚀 把 B 站视频变成学习资源的浏览器扩展：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记",
+    "url": "https://github.com/biuworks/bilibili-digest",
+    "stars": 71,
     "language": "JavaScript",
-    "updated_at": "2026-08-17T17:08:10Z"
+    "updated_at": "2026-08-17T11:32:16Z"
+  },
+  {
+    "name": "LabLLM",
+    "full_name": "Greninja9257/LabLLM",
+    "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+    "url": "https://github.com/Greninja9257/LabLLM",
+    "stars": 39,
+    "language": "Swift",
+    "updated_at": "2026-08-17T21:07:15Z"
+  },
+  {
+    "name": "OmniCopilot",
+    "full_name": "diegosouzapw/OmniCopilot",
+    "description": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
+    "url": "https://github.com/diegosouzapw/OmniCopilot",
+    "stars": 34,
+    "language": "TypeScript",
+    "updated_at": "2026-08-17T17:49:36Z"
   }
 ]

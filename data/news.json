@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-08-17 20:26:13",
+  "generated_at": "2026-08-18 01:12:01",
   "news": [
     {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "source": "Hacker News",
-      "time": "2026-08-17 19:47",
-      "score": 159,
-      "comments": 66
+      "time": "2026-08-17 22:01",
+      "score": 75,
+      "comments": 16
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "Hacker News",
+      "time": "2026-08-17 21:03",
+      "score": 87,
+      "comments": 28
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source": "Hacker News",
       "time": "2026-08-17 14:18",
-      "score": 255,
-      "comments": 112
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "source": "Hacker News",
-      "time": "2026-08-17 14:07",
-      "score": 191,
-      "comments": 98
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "source": "Hacker News",
-      "time": "2026-08-17 12:09",
-      "score": 255,
-      "comments": 135
+      "score": 311,
+      "comments": 124
     }
   ]
 }
