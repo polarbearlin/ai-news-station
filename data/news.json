@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-18 01:12:01",
+  "generated_at": "2026-08-18 04:34:24",
   "news": [
-    {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "source": "Hacker News",
-      "time": "2026-08-17 22:01",
-      "score": 75,
-      "comments": 16
-    },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "source": "Hacker News",
       "time": "2026-08-17 21:03",
-      "score": 87,
+      "score": 238,
+      "comments": 132
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source": "Hacker News",
+      "time": "2026-08-17 22:01",
+      "score": 109,
       "comments": 28
     },
     {
@@ -22,8 +22,16 @@
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source": "Hacker News",
       "time": "2026-08-17 14:18",
-      "score": 311,
-      "comments": 124
+      "score": 335,
+      "comments": 128
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "source": "Hacker News",
+      "time": "2026-08-17 20:46",
+      "score": 229,
+      "comments": 111
     }
   ]
 }

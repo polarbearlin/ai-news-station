@@ -31,9 +31,9 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 123,
+    "stars": 138,
     "language": "Python",
-    "updated_at": "2026-08-18T01:03:03Z"
+    "updated_at": "2026-08-18T04:28:39Z"
   },
   {
     "name": "oss-pr-reviewer",
@@ -49,44 +49,44 @@
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 98,
+    "stars": 99,
     "language": "Python",
-    "updated_at": "2026-08-17T22:03:23Z"
+    "updated_at": "2026-08-18T02:39:11Z"
   },
   {
     "name": "memoket-kite",
     "full_name": "memoket/memoket-kite",
     "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
     "url": "https://github.com/memoket/memoket-kite",
-    "stars": 80,
+    "stars": 83,
     "language": "Python",
-    "updated_at": "2026-08-17T19:38:44Z"
+    "updated_at": "2026-08-18T03:54:46Z"
   },
   {
     "name": "bilibili-digest",
     "full_name": "biuworks/bilibili-digest",
     "description": "已上架 Chrome / Edge 商店 🚀 把 B 站视频变成学习资源的浏览器扩展：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记",
     "url": "https://github.com/biuworks/bilibili-digest",
-    "stars": 71,
+    "stars": 72,
     "language": "JavaScript",
-    "updated_at": "2026-08-17T11:32:16Z"
+    "updated_at": "2026-08-18T03:35:02Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 39,
+    "stars": 42,
     "language": "Swift",
-    "updated_at": "2026-08-17T21:07:15Z"
+    "updated_at": "2026-08-18T03:18:49Z"
   },
   {
     "name": "OmniCopilot",
     "full_name": "diegosouzapw/OmniCopilot",
     "description": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
     "url": "https://github.com/diegosouzapw/OmniCopilot",
-    "stars": 34,
+    "stars": 35,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T17:49:36Z"
+    "updated_at": "2026-08-18T03:37:12Z"
   }
 ]
