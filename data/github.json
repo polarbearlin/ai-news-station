@@ -4,18 +4,18 @@
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 899,
+    "stars": 907,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T15:57:01Z"
+    "updated_at": "2026-08-18T19:35:50Z"
   },
   {
     "name": "enterprise-system-design",
     "full_name": "DrHazemAli/enterprise-system-design",
     "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
     "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 548,
+    "stars": 552,
     "language": null,
-    "updated_at": "2026-08-18T12:09:34Z"
+    "updated_at": "2026-08-18T20:09:24Z"
   },
   {
     "name": "tokentab",
@@ -31,18 +31,18 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 183,
+    "stars": 192,
     "language": "Python",
-    "updated_at": "2026-08-18T16:21:03Z"
+    "updated_at": "2026-08-18T20:14:20Z"
   },
   {
     "name": "oss-pr-reviewer",
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 112,
+    "stars": 111,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T14:42:48Z"
+    "updated_at": "2026-08-18T16:34:28Z"
   },
   {
     "name": "agentic-playwright",
@@ -58,9 +58,9 @@
     "full_name": "memoket/memoket-kite",
     "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
     "url": "https://github.com/memoket/memoket-kite",
-    "stars": 91,
+    "stars": 93,
     "language": "Python",
-    "updated_at": "2026-08-18T15:36:31Z"
+    "updated_at": "2026-08-18T16:47:14Z"
   },
   {
     "name": "bilibili-digest",
@@ -76,17 +76,17 @@
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 46,
+    "stars": 48,
     "language": "Swift",
-    "updated_at": "2026-08-18T13:38:34Z"
+    "updated_at": "2026-08-18T19:00:17Z"
   },
   {
     "name": "OmniCopilot",
     "full_name": "diegosouzapw/OmniCopilot",
     "description": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
     "url": "https://github.com/diegosouzapw/OmniCopilot",
-    "stars": 39,
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T16:11:32Z"
+    "updated_at": "2026-08-18T17:44:42Z"
   }
 ]

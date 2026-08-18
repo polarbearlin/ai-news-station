@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-18 16:30:08",
+  "generated_at": "2026-08-18 20:22:52",
   "news": [
     {
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
       "source": "Hacker News",
       "time": "2026-08-18 12:43",
-      "score": 220,
-      "comments": 39
+      "score": 328,
+      "comments": 52
     },
     {
-      "title": "Fairphone is now officially available in the United States",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "title": "Norway Should Buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
       "source": "Hacker News",
-      "time": "2026-08-18 12:42",
-      "score": 203,
-      "comments": 107
+      "time": "2026-08-18 19:30",
+      "score": 111,
+      "comments": 104
+    },
+    {
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "source": "Hacker News",
+      "time": "2026-08-18 17:24",
+      "score": 220,
+      "comments": 265
     }
   ]
 }
