@@ -4,9 +4,9 @@
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
     "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 892,
+    "stars": 899,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T12:39:49Z"
+    "updated_at": "2026-08-18T15:57:01Z"
   },
   {
     "name": "enterprise-system-design",
@@ -31,36 +31,36 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 175,
+    "stars": 183,
     "language": "Python",
-    "updated_at": "2026-08-18T12:26:15Z"
+    "updated_at": "2026-08-18T16:21:03Z"
   },
   {
     "name": "oss-pr-reviewer",
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 111,
+    "stars": 112,
     "language": "TypeScript",
-    "updated_at": "2026-08-17T19:04:21Z"
+    "updated_at": "2026-08-18T14:42:48Z"
   },
   {
     "name": "agentic-playwright",
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 104,
+    "stars": 107,
     "language": "Python",
-    "updated_at": "2026-08-18T10:18:33Z"
+    "updated_at": "2026-08-18T16:20:28Z"
   },
   {
     "name": "memoket-kite",
     "full_name": "memoket/memoket-kite",
     "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
     "url": "https://github.com/memoket/memoket-kite",
-    "stars": 90,
+    "stars": 91,
     "language": "Python",
-    "updated_at": "2026-08-18T11:52:01Z"
+    "updated_at": "2026-08-18T15:36:31Z"
   },
   {
     "name": "bilibili-digest",
@@ -76,17 +76,17 @@
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 47,
+    "stars": 46,
     "language": "Swift",
-    "updated_at": "2026-08-18T12:22:37Z"
+    "updated_at": "2026-08-18T13:38:34Z"
   },
   {
-    "name": "tether-ai",
-    "full_name": "tt-11-dd/tether-ai",
-    "description": "Tether Agent ",
-    "url": "https://github.com/tt-11-dd/tether-ai",
-    "stars": 37,
+    "name": "OmniCopilot",
+    "full_name": "diegosouzapw/OmniCopilot",
+    "description": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
+    "url": "https://github.com/diegosouzapw/OmniCopilot",
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T06:22:45Z"
+    "updated_at": "2026-08-18T16:11:32Z"
   }
 ]

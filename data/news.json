@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-18 12:44:37",
+  "generated_at": "2026-08-18 16:30:08",
   "news": [
     {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
       "source": "Hacker News",
-      "time": "2026-08-18 10:13",
-      "score": 178,
-      "comments": 97
+      "time": "2026-08-18 12:43",
+      "score": 220,
+      "comments": 39
     },
     {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
       "source": "Hacker News",
-      "time": "2026-08-17 21:03",
-      "score": 516,
-      "comments": 329
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "source": "Hacker News",
-      "time": "2026-08-17 20:46",
-      "score": 694,
-      "comments": 398
+      "time": "2026-08-18 12:42",
+      "score": 203,
+      "comments": 107
     }
   ]
 }
