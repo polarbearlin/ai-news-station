@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-08-19 12:45:03",
+  "generated_at": "2026-08-19 16:30:34",
   "news": [
     {
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source": "Hacker News",
+      "time": "2026-08-19 11:21",
+      "score": 299,
+      "comments": 40
+    },
+    {
+      "title": "Devices with GrapheneOS support should be available in 2027",
       "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
       "source": "Hacker News",
       "time": "2026-08-19 11:46",
-      "score": 88,
-      "comments": 18
+      "score": 443,
+      "comments": 263
+    },
+    {
+      "title": "Microgpt in pure C hits 10M tps on Apple m5",
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "source": "Hacker News",
+      "time": "2026-08-18 15:46",
+      "score": 40,
+      "comments": 6
     },
     {
       "title": "Air Theremin – a browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "source": "Hacker News",
       "time": "2026-08-19 10:15",
-      "score": 72,
-      "comments": 38
+      "score": 162,
+      "comments": 65
     }
   ]
 }

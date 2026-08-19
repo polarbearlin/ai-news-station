@@ -4,9 +4,9 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 253,
+    "stars": 277,
     "language": "Python",
-    "updated_at": "2026-08-19T12:16:49Z"
+    "updated_at": "2026-08-19T16:29:34Z"
   },
   {
     "name": "oss-pr-reviewer",
@@ -27,22 +27,22 @@
     "updated_at": "2026-08-19T11:01:33Z"
   },
   {
-    "name": "LabLLM",
-    "full_name": "Greninja9257/LabLLM",
-    "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-    "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 50,
-    "language": "Swift",
-    "updated_at": "2026-08-19T00:57:46Z"
-  },
-  {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Grok-style AI emotion ball - 32 expressive SVG states, ribbons, mouse gaze, dark/light themes, bilingual gallery site. | Grok bot 风格的 AI 表情小球:32 种 SVG 表情,一个 emotionId 即可接入 AI",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 49,
+    "stars": 62,
     "language": "JavaScript",
-    "updated_at": "2026-08-19T12:42:59Z"
+    "updated_at": "2026-08-19T15:54:52Z"
+  },
+  {
+    "name": "LabLLM",
+    "full_name": "Greninja9257/LabLLM",
+    "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+    "url": "https://github.com/Greninja9257/LabLLM",
+    "stars": 52,
+    "language": "Swift",
+    "updated_at": "2026-08-19T15:06:44Z"
   },
   {
     "name": "OmniCopilot",
@@ -51,16 +51,16 @@
     "url": "https://github.com/diegosouzapw/OmniCopilot",
     "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-08-19T09:28:18Z"
+    "updated_at": "2026-08-19T15:51:21Z"
   },
   {
     "name": "tether-ai",
     "full_name": "tt-11-dd/tether-ai",
     "description": "Tether Agent ",
     "url": "https://github.com/tt-11-dd/tether-ai",
-    "stars": 38,
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-08-19T10:00:37Z"
+    "updated_at": "2026-08-19T15:19:40Z"
   },
   {
     "name": "dsh-plugin-dev-skills",
@@ -76,9 +76,9 @@
     "full_name": "ValerianXXX/JobFlow",
     "description": "Local-first, AI-centered, evidence-gated job application workflow",
     "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 21,
+    "stars": 22,
     "language": "Python",
-    "updated_at": "2026-08-19T11:21:36Z"
+    "updated_at": "2026-08-19T13:57:49Z"
   },
   {
     "name": "BABY",
