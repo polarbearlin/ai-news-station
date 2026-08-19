@@ -4,27 +4,27 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 235,
+    "stars": 253,
     "language": "Python",
-    "updated_at": "2026-08-19T08:28:22Z"
+    "updated_at": "2026-08-19T12:16:49Z"
   },
   {
     "name": "oss-pr-reviewer",
     "full_name": "vuphongle/oss-pr-reviewer",
     "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
     "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 111,
+    "stars": 110,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T16:34:28Z"
+    "updated_at": "2026-08-19T12:26:40Z"
   },
   {
     "name": "agentic-playwright",
     "full_name": "idavidov13/agentic-playwright",
     "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
     "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 107,
+    "stars": 108,
     "language": "Python",
-    "updated_at": "2026-08-18T16:20:28Z"
+    "updated_at": "2026-08-19T11:01:33Z"
   },
   {
     "name": "LabLLM",
@@ -36,13 +36,22 @@
     "updated_at": "2026-08-19T00:57:46Z"
   },
   {
+    "name": "emotion-ball",
+    "full_name": "sam70361/emotion-ball",
+    "description": "Grok-style AI emotion ball - 32 expressive SVG states, ribbons, mouse gaze, dark/light themes, bilingual gallery site. | Grok bot 风格的 AI 表情小球:32 种 SVG 表情,一个 emotionId 即可接入 AI",
+    "url": "https://github.com/sam70361/emotion-ball",
+    "stars": 49,
+    "language": "JavaScript",
+    "updated_at": "2026-08-19T12:42:59Z"
+  },
+  {
     "name": "OmniCopilot",
     "full_name": "diegosouzapw/OmniCopilot",
     "description": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
     "url": "https://github.com/diegosouzapw/OmniCopilot",
-    "stars": 40,
+    "stars": 41,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T22:36:21Z"
+    "updated_at": "2026-08-19T09:28:18Z"
   },
   {
     "name": "tether-ai",
@@ -51,7 +60,7 @@
     "url": "https://github.com/tt-11-dd/tether-ai",
     "stars": 38,
     "language": "TypeScript",
-    "updated_at": "2026-08-19T07:44:24Z"
+    "updated_at": "2026-08-19T10:00:37Z"
   },
   {
     "name": "dsh-plugin-dev-skills",
@@ -63,6 +72,15 @@
     "updated_at": "2026-08-19T03:58:50Z"
   },
   {
+    "name": "JobFlow",
+    "full_name": "ValerianXXX/JobFlow",
+    "description": "Local-first, AI-centered, evidence-gated job application workflow",
+    "url": "https://github.com/ValerianXXX/JobFlow",
+    "stars": 21,
+    "language": "Python",
+    "updated_at": "2026-08-19T11:21:36Z"
+  },
+  {
     "name": "BABY",
     "full_name": "wenhuahuo/BABY",
     "description": "BABY - Build Agent Benchmarks for Yourself",
@@ -70,23 +88,5 @@
     "stars": 20,
     "language": "Python",
     "updated_at": "2026-08-17T05:30:17Z"
-  },
-  {
-    "name": "JobFlow",
-    "full_name": "ValerianXXX/JobFlow",
-    "description": "Local-first, AI-centered, evidence-gated job application workflow",
-    "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 18,
-    "language": "Python",
-    "updated_at": "2026-08-19T06:20:22Z"
-  },
-  {
-    "name": "99AI-plugin-edition",
-    "full_name": "vastxie/99AI-plugin-edition",
-    "description": "完全开源的一站式 AI Web 平台（99AI 插件版）：多模型对话、Agent 工作流、MCP 工具、用户额度与支付运营。NestJS + Vue3 全栈完整源码，Apache-2.0，支持 Docker 私有化部署。",
-    "url": "https://github.com/vastxie/99AI-plugin-edition",
-    "stars": 16,
-    "language": "TypeScript",
-    "updated_at": "2026-08-17T09:48:39Z"
   }
 ]

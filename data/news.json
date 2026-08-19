@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-08-19 08:36:27",
-  "news": []
+  "generated_at": "2026-08-19 12:45:03",
+  "news": [
+    {
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "source": "Hacker News",
+      "time": "2026-08-19 11:46",
+      "score": 88,
+      "comments": 18
+    },
+    {
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "source": "Hacker News",
+      "time": "2026-08-19 10:15",
+      "score": 72,
+      "comments": 38
+    }
+  ]
 }
