@@ -4,9 +4,9 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 216,
+    "stars": 235,
     "language": "Python",
-    "updated_at": "2026-08-19T03:23:35Z"
+    "updated_at": "2026-08-19T08:28:22Z"
   },
   {
     "name": "oss-pr-reviewer",
@@ -51,7 +51,7 @@
     "url": "https://github.com/tt-11-dd/tether-ai",
     "stars": 38,
     "language": "TypeScript",
-    "updated_at": "2026-08-19T03:06:26Z"
+    "updated_at": "2026-08-19T07:44:24Z"
   },
   {
     "name": "dsh-plugin-dev-skills",
@@ -72,21 +72,21 @@
     "updated_at": "2026-08-17T05:30:17Z"
   },
   {
-    "name": "descript-activator",
-    "full_name": "regularrecall/descript-activator",
-    "description": "Activate Descript Creator or Enterprise plan for free. Unlocks AI transcription, overdub voice cloning, and unlimited filler word removal.",
-    "url": "https://github.com/regularrecall/descript-activator",
-    "stars": 18,
-    "language": null,
-    "updated_at": "2026-08-19T03:54:26Z"
-  },
-  {
     "name": "JobFlow",
     "full_name": "ValerianXXX/JobFlow",
     "description": "Local-first, AI-centered, evidence-gated job application workflow",
     "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 16,
+    "stars": 18,
     "language": "Python",
-    "updated_at": "2026-08-19T02:34:16Z"
+    "updated_at": "2026-08-19T06:20:22Z"
+  },
+  {
+    "name": "99AI-plugin-edition",
+    "full_name": "vastxie/99AI-plugin-edition",
+    "description": "完全开源的一站式 AI Web 平台（99AI 插件版）：多模型对话、Agent 工作流、MCP 工具、用户额度与支付运营。NestJS + Vue3 全栈完整源码，Apache-2.0，支持 Docker 私有化部署。",
+    "url": "https://github.com/vastxie/99AI-plugin-edition",
+    "stars": 16,
+    "language": "TypeScript",
+    "updated_at": "2026-08-17T09:48:39Z"
   }
 ]
