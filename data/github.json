@@ -1,39 +1,12 @@
 [
   {
-    "name": "eve-software-factory-template",
-    "full_name": "vercel-labs/eve-software-factory-template",
-    "description": "Meet Foreman, an eve Software Factory.",
-    "url": "https://github.com/vercel-labs/eve-software-factory-template",
-    "stars": 907,
-    "language": "TypeScript",
-    "updated_at": "2026-08-18T19:35:50Z"
-  },
-  {
-    "name": "enterprise-system-design",
-    "full_name": "DrHazemAli/enterprise-system-design",
-    "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-    "url": "https://github.com/DrHazemAli/enterprise-system-design",
-    "stars": 552,
-    "language": null,
-    "updated_at": "2026-08-18T20:09:24Z"
-  },
-  {
-    "name": "tokentab",
-    "full_name": "wzchav/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/wzchav/tokentab",
-    "stars": 223,
-    "language": "Python",
-    "updated_at": "2026-08-18T12:11:45Z"
-  },
-  {
     "name": "ai-data-extractor",
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 192,
+    "stars": 210,
     "language": "Python",
-    "updated_at": "2026-08-18T20:14:20Z"
+    "updated_at": "2026-08-19T00:55:11Z"
   },
   {
     "name": "oss-pr-reviewer",
@@ -54,31 +27,13 @@
     "updated_at": "2026-08-18T16:20:28Z"
   },
   {
-    "name": "memoket-kite",
-    "full_name": "memoket/memoket-kite",
-    "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
-    "url": "https://github.com/memoket/memoket-kite",
-    "stars": 93,
-    "language": "Python",
-    "updated_at": "2026-08-18T16:47:14Z"
-  },
-  {
-    "name": "bilibili-digest",
-    "full_name": "biuworks/bilibili-digest",
-    "description": "已上架 Chrome / Edge 商店 🚀 把 B 站视频变成学习资源的浏览器扩展：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记",
-    "url": "https://github.com/biuworks/bilibili-digest",
-    "stars": 74,
-    "language": "JavaScript",
-    "updated_at": "2026-08-18T10:41:35Z"
-  },
-  {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 48,
+    "stars": 50,
     "language": "Swift",
-    "updated_at": "2026-08-18T19:00:17Z"
+    "updated_at": "2026-08-19T00:57:46Z"
   },
   {
     "name": "OmniCopilot",
@@ -87,6 +42,51 @@
     "url": "https://github.com/diegosouzapw/OmniCopilot",
     "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-08-18T17:44:42Z"
+    "updated_at": "2026-08-18T22:36:21Z"
+  },
+  {
+    "name": "tether-ai",
+    "full_name": "tt-11-dd/tether-ai",
+    "description": "Tether Agent ",
+    "url": "https://github.com/tt-11-dd/tether-ai",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-08-18T06:22:45Z"
+  },
+  {
+    "name": "dsh-plugin-dev-skills",
+    "full_name": "zimodzh/dsh-plugin-dev-skills",
+    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
+    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills",
+    "stars": 34,
+    "language": null,
+    "updated_at": "2026-08-18T07:35:30Z"
+  },
+  {
+    "name": "BABY",
+    "full_name": "wenhuahuo/BABY",
+    "description": "BABY - Build Agent Benchmarks for Yourself",
+    "url": "https://github.com/wenhuahuo/BABY",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-08-17T05:30:17Z"
+  },
+  {
+    "name": "descript-activator",
+    "full_name": "regularrecall/descript-activator",
+    "description": "Activate Descript Creator or Enterprise plan for free. Unlocks AI transcription, overdub voice cloning, and unlimited filler word removal.",
+    "url": "https://github.com/regularrecall/descript-activator",
+    "stars": 18,
+    "language": null,
+    "updated_at": "2026-08-19T00:47:26Z"
+  },
+  {
+    "name": "99AI-plugin-edition",
+    "full_name": "vastxie/99AI-plugin-edition",
+    "description": "完全开源的一站式 AI Web 平台（99AI 插件版）：多模型对话、Agent 工作流、MCP 工具、用户额度与支付运营。NestJS + Vue3 全栈完整源码，Apache-2.0，支持 Docker 私有化部署。",
+    "url": "https://github.com/vastxie/99AI-plugin-edition",
+    "stars": 16,
+    "language": "TypeScript",
+    "updated_at": "2026-08-17T09:48:39Z"
   }
 ]

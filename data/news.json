@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-18 20:22:52",
+  "generated_at": "2026-08-19 01:13:12",
   "news": [
     {
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
       "source": "Hacker News",
       "time": "2026-08-18 12:43",
-      "score": 328,
-      "comments": 52
+      "score": 396,
+      "comments": 64
     },
     {
-      "title": "Norway Should Buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
       "source": "Hacker News",
-      "time": "2026-08-18 19:30",
-      "score": 111,
-      "comments": 104
-    },
-    {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "source": "Hacker News",
-      "time": "2026-08-18 17:24",
-      "score": 220,
-      "comments": 265
+      "time": "2026-08-18 22:08",
+      "score": 32,
+      "comments": 17
     }
   ]
 }
