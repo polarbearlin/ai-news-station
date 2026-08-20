@@ -4,18 +4,18 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 476,
+    "stars": 526,
     "language": "Python",
-    "updated_at": "2026-08-20T08:18:39Z"
+    "updated_at": "2026-08-20T12:12:17Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 142,
+    "stars": 157,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T08:35:44Z"
+    "updated_at": "2026-08-20T12:09:43Z"
   },
   {
     "name": "LabLLM",
@@ -31,9 +31,9 @@
     "full_name": "ihsan-ramadhan/bansos-router",
     "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 48,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-08-20T08:12:41Z"
+    "updated_at": "2026-08-20T12:39:56Z"
   },
   {
     "name": "tether-ai",
@@ -49,44 +49,44 @@
     "full_name": "zimodzh/dsh-plugin-dev-skills",
     "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-    "stars": 35,
+    "stars": 36,
     "language": null,
-    "updated_at": "2026-08-19T03:58:50Z"
+    "updated_at": "2026-08-20T12:18:31Z"
+  },
+  {
+    "name": "nodeseek-ai-profile",
+    "full_name": "yellow13441/nodeseek-ai-profile",
+    "description": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
+    "url": "https://github.com/yellow13441/nodeseek-ai-profile",
+    "stars": 32,
+    "language": "JavaScript",
+    "updated_at": "2026-08-20T10:42:08Z"
   },
   {
     "name": "ai-desktop-pet-2026",
     "full_name": "prestigioush/ai-desktop-pet-2026",
     "description": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.",
     "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
-    "stars": 32,
+    "stars": 30,
     "language": null,
-    "updated_at": "2026-08-19T20:56:26Z"
+    "updated_at": "2026-08-20T09:52:04Z"
   },
   {
-    "name": "desktop-mascot-ai-live2d-2026",
-    "full_name": "readygravel/desktop-mascot-ai-live2d-2026",
-    "description": "Live2D animated anime mascot for your desktop. Responds to your voice and text via a local AI. Fully customizable with model import. Popular with streamers.",
-    "url": "https://github.com/readygravel/desktop-mascot-ai-live2d-2026",
-    "stars": 31,
+    "name": "capcut-pro-desktop-crack-2026",
+    "full_name": "suburbanhamb/capcut-pro-desktop-crack-2026",
+    "description": "Activates CapCut Pro for Windows — removes watermarks, unlocks all effects, auto-captions, background removal, and AI video enhancement.",
+    "url": "https://github.com/suburbanhamb/capcut-pro-desktop-crack-2026",
+    "stars": 29,
     "language": null,
-    "updated_at": "2026-08-19T20:56:54Z"
+    "updated_at": "2026-08-20T09:52:05Z"
   },
   {
     "name": "filmora-14-crack-2026",
     "full_name": "vaguewrap/filmora-14-crack-2026",
     "description": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.",
     "url": "https://github.com/vaguewrap/filmora-14-crack-2026",
-    "stars": 31,
+    "stars": 29,
     "language": null,
-    "updated_at": "2026-08-19T20:56:55Z"
-  },
-  {
-    "name": "github-copilot-bypass-2026",
-    "full_name": "subduedflum/github-copilot-bypass-2026",
-    "description": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
-    "url": "https://github.com/subduedflum/github-copilot-bypass-2026",
-    "stars": 31,
-    "language": null,
-    "updated_at": "2026-08-19T20:56:55Z"
+    "updated_at": "2026-08-20T09:52:06Z"
   }
 ]

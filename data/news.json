@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-20 08:37:50",
+  "generated_at": "2026-08-20 12:48:35",
   "news": [
     {
       "title": "Don't Paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "source": "Hacker News",
       "time": "2026-08-20 08:20",
-      "score": 6,
-      "comments": 0
+      "score": 610,
+      "comments": 291
     },
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "source": "Hacker News",
-      "time": "2026-08-19 11:21",
-      "score": 883,
-      "comments": 142
+      "time": "2026-08-20 12:04",
+      "score": 33,
+      "comments": 7
     }
   ]
 }
