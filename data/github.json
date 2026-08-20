@@ -4,18 +4,18 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 527,
+    "stars": 528,
     "language": "Python",
-    "updated_at": "2026-08-20T12:58:38Z"
+    "updated_at": "2026-08-20T19:08:12Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 168,
+    "stars": 173,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T16:30:52Z"
+    "updated_at": "2026-08-20T19:29:59Z"
   },
   {
     "name": "LabLLM",
@@ -49,9 +49,9 @@
     "full_name": "zimodzh/dsh-plugin-dev-skills",
     "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-    "stars": 36,
+    "stars": 37,
     "language": null,
-    "updated_at": "2026-08-20T12:18:31Z"
+    "updated_at": "2026-08-20T16:39:01Z"
   },
   {
     "name": "nodeseek-ai-profile",
@@ -67,9 +67,9 @@
     "full_name": "ValerianXXX/JobFlow",
     "description": "Local-first, AI-centered, evidence-gated job application workflow",
     "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 27,
+    "stars": 30,
     "language": "Python",
-    "updated_at": "2026-08-20T13:34:15Z"
+    "updated_at": "2026-08-20T19:55:46Z"
   },
   {
     "name": "AI-Patcher-Universal-2026",
@@ -78,15 +78,15 @@
     "url": "https://github.com/canopies3555tapeworm/AI-Patcher-Universal-2026",
     "stars": 24,
     "language": null,
-    "updated_at": "2026-08-20T16:04:10Z"
+    "updated_at": "2026-08-20T19:20:21Z"
   },
   {
     "name": "GPU-Perf-Playground",
     "full_name": "yanght27/GPU-Perf-Playground",
     "description": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
     "url": "https://github.com/yanght27/GPU-Perf-Playground",
-    "stars": 22,
+    "stars": 23,
     "language": "Python",
-    "updated_at": "2026-08-20T13:25:44Z"
+    "updated_at": "2026-08-20T16:50:31Z"
   }
 ]
