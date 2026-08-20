@@ -4,27 +4,27 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 526,
+    "stars": 527,
     "language": "Python",
-    "updated_at": "2026-08-20T12:12:17Z"
+    "updated_at": "2026-08-20T12:58:38Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 157,
+    "stars": 168,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T12:09:43Z"
+    "updated_at": "2026-08-20T16:30:52Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 56,
+    "stars": 58,
     "language": "Swift",
-    "updated_at": "2026-08-20T05:51:54Z"
+    "updated_at": "2026-08-20T16:25:32Z"
   },
   {
     "name": "bansos-router",
@@ -63,30 +63,30 @@
     "updated_at": "2026-08-20T10:42:08Z"
   },
   {
-    "name": "ai-desktop-pet-2026",
-    "full_name": "prestigioush/ai-desktop-pet-2026",
-    "description": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.",
-    "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
-    "stars": 30,
-    "language": null,
-    "updated_at": "2026-08-20T09:52:04Z"
+    "name": "JobFlow",
+    "full_name": "ValerianXXX/JobFlow",
+    "description": "Local-first, AI-centered, evidence-gated job application workflow",
+    "url": "https://github.com/ValerianXXX/JobFlow",
+    "stars": 27,
+    "language": "Python",
+    "updated_at": "2026-08-20T13:34:15Z"
   },
   {
-    "name": "capcut-pro-desktop-crack-2026",
-    "full_name": "suburbanhamb/capcut-pro-desktop-crack-2026",
-    "description": "Activates CapCut Pro for Windows — removes watermarks, unlocks all effects, auto-captions, background removal, and AI video enhancement.",
-    "url": "https://github.com/suburbanhamb/capcut-pro-desktop-crack-2026",
-    "stars": 29,
+    "name": "AI-Patcher-Universal-2026",
+    "full_name": "canopies3555tapeworm/AI-Patcher-Universal-2026",
+    "description": "OmniPatch – Universal AI patcher for managing and updating Windows AI applications like ChatGPT and Claude.",
+    "url": "https://github.com/canopies3555tapeworm/AI-Patcher-Universal-2026",
+    "stars": 24,
     "language": null,
-    "updated_at": "2026-08-20T09:52:05Z"
+    "updated_at": "2026-08-20T16:04:10Z"
   },
   {
-    "name": "filmora-14-crack-2026",
-    "full_name": "vaguewrap/filmora-14-crack-2026",
-    "description": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.",
-    "url": "https://github.com/vaguewrap/filmora-14-crack-2026",
-    "stars": 29,
-    "language": null,
-    "updated_at": "2026-08-20T09:52:06Z"
+    "name": "GPU-Perf-Playground",
+    "full_name": "yanght27/GPU-Perf-Playground",
+    "description": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
+    "url": "https://github.com/yanght27/GPU-Perf-Playground",
+    "stars": 22,
+    "language": "Python",
+    "updated_at": "2026-08-20T13:25:44Z"
   }
 ]
