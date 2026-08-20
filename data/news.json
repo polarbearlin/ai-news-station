@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-19 20:26:41",
+  "generated_at": "2026-08-20 01:12:28",
   "news": [
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "source": "Hacker News",
+      "time": "2026-08-19 17:47",
+      "score": 283,
+      "comments": 115
+    },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "source": "Hacker News",
       "time": "2026-08-19 11:21",
-      "score": 587,
-      "comments": 77
+      "score": 741,
+      "comments": 115
     }
   ]
 }

@@ -4,54 +4,27 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 322,
+    "stars": 377,
     "language": "Python",
-    "updated_at": "2026-08-19T20:08:40Z"
-  },
-  {
-    "name": "oss-pr-reviewer",
-    "full_name": "vuphongle/oss-pr-reviewer",
-    "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
-    "url": "https://github.com/vuphongle/oss-pr-reviewer",
-    "stars": 110,
-    "language": "TypeScript",
-    "updated_at": "2026-08-19T12:26:40Z"
-  },
-  {
-    "name": "agentic-playwright",
-    "full_name": "idavidov13/agentic-playwright",
-    "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
-    "url": "https://github.com/idavidov13/agentic-playwright",
-    "stars": 108,
-    "language": "Python",
-    "updated_at": "2026-08-19T11:01:33Z"
+    "updated_at": "2026-08-20T01:04:41Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Grok-style AI emotion ball - 32 expressive SVG states, ribbons, mouse gaze, dark/light themes, bilingual gallery site. | Grok bot 风格的 AI 表情小球:32 种 SVG 表情,一个 emotionId 即可接入 AI",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 66,
+    "stars": 67,
     "language": "JavaScript",
-    "updated_at": "2026-08-19T17:24:21Z"
+    "updated_at": "2026-08-20T00:59:15Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 53,
+    "stars": 55,
     "language": "Swift",
-    "updated_at": "2026-08-19T16:45:58Z"
-  },
-  {
-    "name": "OmniCopilot",
-    "full_name": "diegosouzapw/OmniCopilot",
-    "description": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
-    "url": "https://github.com/diegosouzapw/OmniCopilot",
-    "stars": 41,
-    "language": "TypeScript",
-    "updated_at": "2026-08-19T17:38:24Z"
+    "updated_at": "2026-08-19T22:38:49Z"
   },
   {
     "name": "tether-ai",
@@ -72,21 +45,48 @@
     "updated_at": "2026-08-19T03:58:50Z"
   },
   {
-    "name": "JobFlow",
-    "full_name": "ValerianXXX/JobFlow",
-    "description": "Local-first, AI-centered, evidence-gated job application workflow",
-    "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 23,
-    "language": "Python",
-    "updated_at": "2026-08-19T17:52:50Z"
+    "name": "ai-desktop-pet-2026",
+    "full_name": "prestigioush/ai-desktop-pet-2026",
+    "description": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.",
+    "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
+    "stars": 32,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:26Z"
   },
   {
-    "name": "BABY",
-    "full_name": "wenhuahuo/BABY",
-    "description": "BABY - Build Agent Benchmarks for Yourself",
-    "url": "https://github.com/wenhuahuo/BABY",
-    "stars": 20,
-    "language": "Python",
-    "updated_at": "2026-08-17T05:30:17Z"
+    "name": "ai-dog-desktop-pet-2026",
+    "full_name": "querulouscarb/ai-dog-desktop-pet-2026",
+    "description": "An animated AI dog companion that lives on your Windows desktop. Fetch animations, tail wagging, barking responses, and a mini-game where you throw a ball.",
+    "url": "https://github.com/querulouscarb/ai-dog-desktop-pet-2026",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:54Z"
+  },
+  {
+    "name": "topaz-video-ai-crack-2026",
+    "full_name": "tartceramics/topaz-video-ai-crack-2026",
+    "description": "Activates Topaz Video AI for video upscaling, deinterlacing, motion interpolation (60fps+), and stabilisation. Processes on your GPU without cloud.",
+    "url": "https://github.com/tartceramics/topaz-video-ai-crack-2026",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:55Z"
+  },
+  {
+    "name": "github-copilot-bypass-2026",
+    "full_name": "subduedflum/github-copilot-bypass-2026",
+    "description": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
+    "url": "https://github.com/subduedflum/github-copilot-bypass-2026",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:55Z"
+  },
+  {
+    "name": "filmora-14-crack-2026",
+    "full_name": "vaguewrap/filmora-14-crack-2026",
+    "description": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.",
+    "url": "https://github.com/vaguewrap/filmora-14-crack-2026",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:55Z"
   }
 ]
