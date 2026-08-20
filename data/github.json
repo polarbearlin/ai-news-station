@@ -4,27 +4,36 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 414,
+    "stars": 476,
     "language": "Python",
-    "updated_at": "2026-08-20T04:26:33Z"
+    "updated_at": "2026-08-20T08:18:39Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 95,
+    "stars": 142,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T04:34:30Z"
+    "updated_at": "2026-08-20T08:35:44Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 57,
+    "stars": 56,
     "language": "Swift",
-    "updated_at": "2026-08-20T01:57:19Z"
+    "updated_at": "2026-08-20T05:51:54Z"
+  },
+  {
+    "name": "bansos-router",
+    "full_name": "ihsan-ramadhan/bansos-router",
+    "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+    "url": "https://github.com/ihsan-ramadhan/bansos-router",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-08-20T08:12:41Z"
   },
   {
     "name": "tether-ai",
@@ -54,37 +63,28 @@
     "updated_at": "2026-08-19T20:56:26Z"
   },
   {
-    "name": "github-copilot-bypass-2026",
-    "full_name": "subduedflum/github-copilot-bypass-2026",
-    "description": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
-    "url": "https://github.com/subduedflum/github-copilot-bypass-2026",
-    "stars": 31,
-    "language": null,
-    "updated_at": "2026-08-19T20:56:55Z"
-  },
-  {
-    "name": "ai-dog-desktop-pet-2026",
-    "full_name": "querulouscarb/ai-dog-desktop-pet-2026",
-    "description": "An animated AI dog companion that lives on your Windows desktop. Fetch animations, tail wagging, barking responses, and a mini-game where you throw a ball.",
-    "url": "https://github.com/querulouscarb/ai-dog-desktop-pet-2026",
+    "name": "desktop-mascot-ai-live2d-2026",
+    "full_name": "readygravel/desktop-mascot-ai-live2d-2026",
+    "description": "Live2D animated anime mascot for your desktop. Responds to your voice and text via a local AI. Fully customizable with model import. Popular with streamers.",
+    "url": "https://github.com/readygravel/desktop-mascot-ai-live2d-2026",
     "stars": 31,
     "language": null,
     "updated_at": "2026-08-19T20:56:54Z"
-  },
-  {
-    "name": "topaz-video-ai-crack-2026",
-    "full_name": "tartceramics/topaz-video-ai-crack-2026",
-    "description": "Activates Topaz Video AI for video upscaling, deinterlacing, motion interpolation (60fps+), and stabilisation. Processes on your GPU without cloud.",
-    "url": "https://github.com/tartceramics/topaz-video-ai-crack-2026",
-    "stars": 31,
-    "language": null,
-    "updated_at": "2026-08-19T20:56:55Z"
   },
   {
     "name": "filmora-14-crack-2026",
     "full_name": "vaguewrap/filmora-14-crack-2026",
     "description": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.",
     "url": "https://github.com/vaguewrap/filmora-14-crack-2026",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:55Z"
+  },
+  {
+    "name": "github-copilot-bypass-2026",
+    "full_name": "subduedflum/github-copilot-bypass-2026",
+    "description": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
+    "url": "https://github.com/subduedflum/github-copilot-bypass-2026",
     "stars": 31,
     "language": null,
     "updated_at": "2026-08-19T20:56:55Z"
