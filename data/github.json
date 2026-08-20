@@ -4,27 +4,27 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 377,
+    "stars": 414,
     "language": "Python",
-    "updated_at": "2026-08-20T01:04:41Z"
+    "updated_at": "2026-08-20T04:26:33Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
-    "description": "Grok-style AI emotion ball - 32 expressive SVG states, ribbons, mouse gaze, dark/light themes, bilingual gallery site. | Grok bot 风格的 AI 表情小球:32 种 SVG 表情,一个 emotionId 即可接入 AI",
+    "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 67,
+    "stars": 95,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T00:59:15Z"
+    "updated_at": "2026-08-20T04:34:30Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 55,
+    "stars": 57,
     "language": "Swift",
-    "updated_at": "2026-08-19T22:38:49Z"
+    "updated_at": "2026-08-20T01:57:19Z"
   },
   {
     "name": "tether-ai",
@@ -33,7 +33,7 @@
     "url": "https://github.com/tt-11-dd/tether-ai",
     "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-08-19T15:19:40Z"
+    "updated_at": "2026-08-20T02:54:20Z"
   },
   {
     "name": "dsh-plugin-dev-skills",
@@ -54,6 +54,15 @@
     "updated_at": "2026-08-19T20:56:26Z"
   },
   {
+    "name": "github-copilot-bypass-2026",
+    "full_name": "subduedflum/github-copilot-bypass-2026",
+    "description": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
+    "url": "https://github.com/subduedflum/github-copilot-bypass-2026",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-08-19T20:56:55Z"
+  },
+  {
     "name": "ai-dog-desktop-pet-2026",
     "full_name": "querulouscarb/ai-dog-desktop-pet-2026",
     "description": "An animated AI dog companion that lives on your Windows desktop. Fetch animations, tail wagging, barking responses, and a mini-game where you throw a ball.",
@@ -67,15 +76,6 @@
     "full_name": "tartceramics/topaz-video-ai-crack-2026",
     "description": "Activates Topaz Video AI for video upscaling, deinterlacing, motion interpolation (60fps+), and stabilisation. Processes on your GPU without cloud.",
     "url": "https://github.com/tartceramics/topaz-video-ai-crack-2026",
-    "stars": 31,
-    "language": null,
-    "updated_at": "2026-08-19T20:56:55Z"
-  },
-  {
-    "name": "github-copilot-bypass-2026",
-    "full_name": "subduedflum/github-copilot-bypass-2026",
-    "description": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
-    "url": "https://github.com/subduedflum/github-copilot-bypass-2026",
     "stars": 31,
     "language": null,
     "updated_at": "2026-08-19T20:56:55Z"
