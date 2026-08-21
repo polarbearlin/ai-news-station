@@ -13,18 +13,18 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 213,
+    "stars": 217,
     "language": "JavaScript",
-    "updated_at": "2026-08-21T12:31:28Z"
+    "updated_at": "2026-08-21T16:05:03Z"
   },
   {
     "name": "vomit",
     "full_name": "zachahn/vomit",
     "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
     "url": "https://github.com/zachahn/vomit",
-    "stars": 108,
+    "stars": 123,
     "language": "Go",
-    "updated_at": "2026-08-21T12:35:09Z"
+    "updated_at": "2026-08-21T15:50:09Z"
   },
   {
     "name": "bansos-router",
@@ -33,16 +33,16 @@
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
     "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-08-21T12:21:23Z"
+    "updated_at": "2026-08-21T16:21:53Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 60,
+    "stars": 59,
     "language": "Swift",
-    "updated_at": "2026-08-21T11:38:07Z"
+    "updated_at": "2026-08-21T15:29:23Z"
   },
   {
     "name": "neurocursor-ai",
@@ -58,9 +58,9 @@
     "full_name": "tt-11-dd/tether-ai",
     "description": "Tether Agent ",
     "url": "https://github.com/tt-11-dd/tether-ai",
-    "stars": 41,
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-08-21T09:39:13Z"
+    "updated_at": "2026-08-21T16:20:49Z"
   },
   {
     "name": "dsh-plugin-dev-skills",
@@ -76,17 +76,17 @@
     "full_name": "ValerianXXX/JobFlow",
     "description": "Local-first, AI-centered, evidence-gated job application workflow",
     "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 35,
+    "stars": 37,
     "language": "Python",
-    "updated_at": "2026-08-21T10:53:17Z"
+    "updated_at": "2026-08-21T16:14:35Z"
   },
   {
     "name": "nodeseek-ai-profile",
     "full_name": "yellow13441/nodeseek-ai-profile",
     "description": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
     "url": "https://github.com/yellow13441/nodeseek-ai-profile",
-    "stars": 33,
+    "stars": 34,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T21:24:17Z"
+    "updated_at": "2026-08-21T12:46:13Z"
   }
 ]
