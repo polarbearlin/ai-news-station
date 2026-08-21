@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-08-21 08:39:18",
-  "news": []
+  "generated_at": "2026-08-21 12:45:45",
+  "news": [
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "Hacker News",
+      "time": "2026-08-21 10:33",
+      "score": 174,
+      "comments": 42
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "source": "Hacker News",
+      "time": "2026-08-21 10:05",
+      "score": 130,
+      "comments": 73
+    },
+    {
+      "title": "Flat Chair by Sara Paculdo",
+      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "source": "Hacker News",
+      "time": "2026-08-17 14:01",
+      "score": 51,
+      "comments": 17
+    }
+  ]
 }
