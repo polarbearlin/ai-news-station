@@ -13,18 +13,36 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 173,
+    "stars": 182,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T19:29:59Z"
+    "updated_at": "2026-08-21T01:14:19Z"
   },
   {
     "name": "LabLLM",
     "full_name": "Greninja9257/LabLLM",
     "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
     "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 58,
+    "stars": 59,
     "language": "Swift",
-    "updated_at": "2026-08-20T16:25:32Z"
+    "updated_at": "2026-08-20T23:29:32Z"
+  },
+  {
+    "name": "vomit",
+    "full_name": "zachahn/vomit",
+    "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+    "url": "https://github.com/zachahn/vomit",
+    "stars": 52,
+    "language": "Go",
+    "updated_at": "2026-08-21T01:15:46Z"
+  },
+  {
+    "name": "neurocursor-ai",
+    "full_name": "stems-arraign-48/neurocursor-ai",
+    "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
+    "url": "https://github.com/stems-arraign-48/neurocursor-ai",
+    "stars": 50,
+    "language": "C++",
+    "updated_at": "2026-08-20T22:23:14Z"
   },
   {
     "name": "bansos-router",
@@ -33,7 +51,7 @@
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
     "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-08-20T12:39:56Z"
+    "updated_at": "2026-08-21T01:12:46Z"
   },
   {
     "name": "tether-ai",
@@ -58,35 +76,17 @@
     "full_name": "yellow13441/nodeseek-ai-profile",
     "description": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
     "url": "https://github.com/yellow13441/nodeseek-ai-profile",
-    "stars": 32,
+    "stars": 33,
     "language": "JavaScript",
-    "updated_at": "2026-08-20T10:42:08Z"
+    "updated_at": "2026-08-20T21:24:17Z"
   },
   {
     "name": "JobFlow",
     "full_name": "ValerianXXX/JobFlow",
     "description": "Local-first, AI-centered, evidence-gated job application workflow",
     "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 30,
+    "stars": 33,
     "language": "Python",
-    "updated_at": "2026-08-20T19:55:46Z"
-  },
-  {
-    "name": "AI-Patcher-Universal-2026",
-    "full_name": "canopies3555tapeworm/AI-Patcher-Universal-2026",
-    "description": "OmniPatch – Universal AI patcher for managing and updating Windows AI applications like ChatGPT and Claude.",
-    "url": "https://github.com/canopies3555tapeworm/AI-Patcher-Universal-2026",
-    "stars": 24,
-    "language": null,
-    "updated_at": "2026-08-20T19:20:21Z"
-  },
-  {
-    "name": "GPU-Perf-Playground",
-    "full_name": "yanght27/GPU-Perf-Playground",
-    "description": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
-    "url": "https://github.com/yanght27/GPU-Perf-Playground",
-    "stars": 23,
-    "language": "Python",
-    "updated_at": "2026-08-20T16:50:31Z"
+    "updated_at": "2026-08-21T00:48:57Z"
   }
 ]
