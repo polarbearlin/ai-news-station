@@ -4,36 +4,45 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 528,
+    "stars": 531,
     "language": "Python",
-    "updated_at": "2026-08-20T19:08:12Z"
+    "updated_at": "2026-08-21T04:35:28Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 182,
+    "stars": 198,
     "language": "JavaScript",
-    "updated_at": "2026-08-21T01:14:19Z"
-  },
-  {
-    "name": "LabLLM",
-    "full_name": "Greninja9257/LabLLM",
-    "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-    "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 59,
-    "language": "Swift",
-    "updated_at": "2026-08-20T23:29:32Z"
+    "updated_at": "2026-08-21T04:36:20Z"
   },
   {
     "name": "vomit",
     "full_name": "zachahn/vomit",
     "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
     "url": "https://github.com/zachahn/vomit",
-    "stars": 52,
+    "stars": 68,
     "language": "Go",
-    "updated_at": "2026-08-21T01:15:46Z"
+    "updated_at": "2026-08-21T04:35:30Z"
+  },
+  {
+    "name": "LabLLM",
+    "full_name": "Greninja9257/LabLLM",
+    "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+    "url": "https://github.com/Greninja9257/LabLLM",
+    "stars": 58,
+    "language": "Swift",
+    "updated_at": "2026-08-21T01:41:01Z"
+  },
+  {
+    "name": "bansos-router",
+    "full_name": "ihsan-ramadhan/bansos-router",
+    "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+    "url": "https://github.com/ihsan-ramadhan/bansos-router",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-08-21T04:11:39Z"
   },
   {
     "name": "neurocursor-ai",
@@ -43,15 +52,6 @@
     "stars": 50,
     "language": "C++",
     "updated_at": "2026-08-20T22:23:14Z"
-  },
-  {
-    "name": "bansos-router",
-    "full_name": "ihsan-ramadhan/bansos-router",
-    "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
-    "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 49,
-    "language": "TypeScript",
-    "updated_at": "2026-08-21T01:12:46Z"
   },
   {
     "name": "tether-ai",
@@ -67,9 +67,9 @@
     "full_name": "zimodzh/dsh-plugin-dev-skills",
     "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-    "stars": 37,
+    "stars": 38,
     "language": null,
-    "updated_at": "2026-08-20T16:39:01Z"
+    "updated_at": "2026-08-21T01:20:49Z"
   },
   {
     "name": "nodeseek-ai-profile",
