@@ -4,36 +4,36 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 533,
+    "stars": 535,
     "language": "Python",
-    "updated_at": "2026-08-21T11:57:11Z"
+    "updated_at": "2026-08-21T19:57:09Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 217,
+    "stars": 222,
     "language": "JavaScript",
-    "updated_at": "2026-08-21T16:05:03Z"
+    "updated_at": "2026-08-21T20:14:19Z"
   },
   {
     "name": "vomit",
     "full_name": "zachahn/vomit",
     "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
     "url": "https://github.com/zachahn/vomit",
-    "stars": 123,
+    "stars": 125,
     "language": "Go",
-    "updated_at": "2026-08-21T15:50:09Z"
+    "updated_at": "2026-08-21T19:51:22Z"
   },
   {
     "name": "bansos-router",
     "full_name": "ihsan-ramadhan/bansos-router",
     "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 63,
+    "stars": 65,
     "language": "TypeScript",
-    "updated_at": "2026-08-21T16:21:53Z"
+    "updated_at": "2026-08-21T17:50:11Z"
   },
   {
     "name": "LabLLM",
@@ -58,9 +58,9 @@
     "full_name": "tt-11-dd/tether-ai",
     "description": "Tether Agent ",
     "url": "https://github.com/tt-11-dd/tether-ai",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-08-21T16:20:49Z"
+    "updated_at": "2026-08-21T17:20:01Z"
   },
   {
     "name": "dsh-plugin-dev-skills",
@@ -76,9 +76,9 @@
     "full_name": "ValerianXXX/JobFlow",
     "description": "Local-first, AI-centered, evidence-gated job application workflow",
     "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 37,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-08-21T16:14:35Z"
+    "updated_at": "2026-08-21T16:35:55Z"
   },
   {
     "name": "nodeseek-ai-profile",
