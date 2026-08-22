@@ -4,45 +4,27 @@
     "full_name": "bawadou/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/bawadou/ai-data-extractor",
-    "stars": 535,
+    "stars": 537,
     "language": "Python",
-    "updated_at": "2026-08-21T19:57:09Z"
+    "updated_at": "2026-08-21T23:04:31Z"
   },
   {
     "name": "emotion-ball",
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 222,
+    "stars": 223,
     "language": "JavaScript",
-    "updated_at": "2026-08-21T20:14:19Z"
-  },
-  {
-    "name": "vomit",
-    "full_name": "zachahn/vomit",
-    "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-    "url": "https://github.com/zachahn/vomit",
-    "stars": 125,
-    "language": "Go",
-    "updated_at": "2026-08-21T19:51:22Z"
+    "updated_at": "2026-08-21T23:48:58Z"
   },
   {
     "name": "bansos-router",
     "full_name": "ihsan-ramadhan/bansos-router",
     "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 65,
+    "stars": 66,
     "language": "TypeScript",
-    "updated_at": "2026-08-21T17:50:11Z"
-  },
-  {
-    "name": "LabLLM",
-    "full_name": "Greninja9257/LabLLM",
-    "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-    "url": "https://github.com/Greninja9257/LabLLM",
-    "stars": 59,
-    "language": "Swift",
-    "updated_at": "2026-08-21T15:29:23Z"
+    "updated_at": "2026-08-22T01:00:32Z"
   },
   {
     "name": "neurocursor-ai",
@@ -54,33 +36,6 @@
     "updated_at": "2026-08-20T22:23:14Z"
   },
   {
-    "name": "tether-ai",
-    "full_name": "tt-11-dd/tether-ai",
-    "description": "Tether Agent ",
-    "url": "https://github.com/tt-11-dd/tether-ai",
-    "stars": 43,
-    "language": "TypeScript",
-    "updated_at": "2026-08-21T17:20:01Z"
-  },
-  {
-    "name": "dsh-plugin-dev-skills",
-    "full_name": "zimodzh/dsh-plugin-dev-skills",
-    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
-    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills",
-    "stars": 38,
-    "language": null,
-    "updated_at": "2026-08-21T01:20:49Z"
-  },
-  {
-    "name": "JobFlow",
-    "full_name": "ValerianXXX/JobFlow",
-    "description": "Local-first, AI-centered, evidence-gated job application workflow",
-    "url": "https://github.com/ValerianXXX/JobFlow",
-    "stars": 38,
-    "language": "Python",
-    "updated_at": "2026-08-21T16:35:55Z"
-  },
-  {
     "name": "nodeseek-ai-profile",
     "full_name": "yellow13441/nodeseek-ai-profile",
     "description": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
@@ -88,5 +43,50 @@
     "stars": 34,
     "language": "JavaScript",
     "updated_at": "2026-08-21T12:46:13Z"
+  },
+  {
+    "name": "GPU-Perf-Playground",
+    "full_name": "yanght27/GPU-Perf-Playground",
+    "description": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
+    "url": "https://github.com/yanght27/GPU-Perf-Playground",
+    "stars": 32,
+    "language": "Python",
+    "updated_at": "2026-08-22T00:59:54Z"
+  },
+  {
+    "name": "codex-guard",
+    "full_name": "Akimiya-z/codex-guard",
+    "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
+    "url": "https://github.com/Akimiya-z/codex-guard",
+    "stars": 30,
+    "language": "JavaScript",
+    "updated_at": "2026-08-21T22:19:44Z"
+  },
+  {
+    "name": "deep-research-skill",
+    "full_name": "SeanEllyJames/deep-research-skill",
+    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+    "url": "https://github.com/SeanEllyJames/deep-research-skill",
+    "stars": 28,
+    "language": null,
+    "updated_at": "2026-08-21T22:21:37Z"
+  },
+  {
+    "name": "ChungusHub",
+    "full_name": "patcireamo/ChungusHub",
+    "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
+    "url": "https://github.com/patcireamo/ChungusHub",
+    "stars": 18,
+    "language": "TypeScript",
+    "updated_at": "2026-08-22T00:39:22Z"
+  },
+  {
+    "name": "dsh-plugin-hub",
+    "full_name": "dshplugin/dsh-plugin-hub",
+    "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
+    "url": "https://github.com/dshplugin/dsh-plugin-hub",
+    "stars": 17,
+    "language": "JavaScript",
+    "updated_at": "2026-08-21T20:31:41Z"
   }
 ]
