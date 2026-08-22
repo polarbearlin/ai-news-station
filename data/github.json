@@ -13,18 +13,18 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 229,
+    "stars": 230,
     "language": "JavaScript",
-    "updated_at": "2026-08-22T06:40:27Z"
+    "updated_at": "2026-08-22T10:25:06Z"
   },
   {
     "name": "bansos-router",
     "full_name": "ihsan-ramadhan/bansos-router",
     "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 68,
+    "stars": 70,
     "language": "TypeScript",
-    "updated_at": "2026-08-22T06:06:02Z"
+    "updated_at": "2026-08-22T11:08:05Z"
   },
   {
     "name": "neurocursor-ai",
@@ -40,9 +40,9 @@
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
-    "stars": 35,
+    "stars": 39,
     "language": "JavaScript",
-    "updated_at": "2026-08-22T08:27:29Z"
+    "updated_at": "2026-08-22T11:48:03Z"
   },
   {
     "name": "nodeseek-ai-profile",
@@ -85,8 +85,8 @@
     "full_name": "patcireamo/ChungusHub",
     "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
     "url": "https://github.com/patcireamo/ChungusHub",
-    "stars": 23,
+    "stars": 24,
     "language": "TypeScript",
-    "updated_at": "2026-08-22T05:06:35Z"
+    "updated_at": "2026-08-22T10:44:57Z"
   }
 ]
