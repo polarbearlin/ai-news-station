@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-23 01:18:13",
+  "generated_at": "2026-08-23 04:35:51",
   "news": [
-    {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "source": "Hacker News",
-      "time": "2026-08-22 22:14",
-      "score": 42,
-      "comments": 9
-    },
     {
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "source": "Hacker News",
       "time": "2026-08-22 18:14",
-      "score": 172,
-      "comments": 55
+      "score": 236,
+      "comments": 82
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "source": "Hacker News",
+      "time": "2026-08-22 22:14",
+      "score": 68,
+      "comments": 19
     }
   ]
 }
