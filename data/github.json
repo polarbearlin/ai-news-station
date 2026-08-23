@@ -4,27 +4,27 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 234,
+    "stars": 236,
     "language": "JavaScript",
-    "updated_at": "2026-08-23T03:06:12Z"
+    "updated_at": "2026-08-23T08:11:06Z"
   },
   {
     "name": "TabTin",
     "full_name": "tabtin-ai/TabTin",
     "description": "A workspace where people and multiple AI agents work together.",
     "url": "https://github.com/tabtin-ai/TabTin",
-    "stars": 77,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T04:04:42Z"
+    "updated_at": "2026-08-23T07:37:24Z"
   },
   {
     "name": "bansos-router",
     "full_name": "ihsan-ramadhan/bansos-router",
     "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
     "url": "https://github.com/ihsan-ramadhan/bansos-router",
-    "stars": 74,
+    "stars": 76,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T03:06:35Z"
+    "updated_at": "2026-08-23T07:40:44Z"
   },
   {
     "name": "neurocursor-ai",
@@ -45,6 +45,15 @@
     "updated_at": "2026-08-23T03:54:30Z"
   },
   {
+    "name": "deep-research-skill",
+    "full_name": "SeanEllyJames/deep-research-skill",
+    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+    "url": "https://github.com/SeanEllyJames/deep-research-skill",
+    "stars": 39,
+    "language": null,
+    "updated_at": "2026-08-23T08:18:23Z"
+  },
+  {
     "name": "GPU-Perf-Playground",
     "full_name": "yanght27/GPU-Perf-Playground",
     "description": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
@@ -63,15 +72,6 @@
     "updated_at": "2026-08-21T12:46:13Z"
   },
   {
-    "name": "deep-research-skill",
-    "full_name": "SeanEllyJames/deep-research-skill",
-    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
-    "url": "https://github.com/SeanEllyJames/deep-research-skill",
-    "stars": 33,
-    "language": null,
-    "updated_at": "2026-08-23T03:43:02Z"
-  },
-  {
     "name": "ChungusHub",
     "full_name": "patcireamo/ChungusHub",
     "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
@@ -85,8 +85,8 @@
     "full_name": "ARFCON/dsh-hotplug-hub",
     "description": "DSH - Dseam",
     "url": "https://github.com/ARFCON/dsh-hotplug-hub",
-    "stars": 25,
+    "stars": 26,
     "language": "JavaScript",
-    "updated_at": "2026-08-22T15:58:12Z"
+    "updated_at": "2026-08-23T08:25:50Z"
   }
 ]
