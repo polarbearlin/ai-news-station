@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-08-23 16:25:01",
+  "generated_at": "2026-08-23 20:21:37",
   "news": [
     {
-      "title": "How Complex Systems Fail",
+      "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
       "source": "Hacker News",
       "time": "2026-08-23 15:13",
-      "score": 38,
-      "comments": 3
-    },
-    {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "source": "Hacker News",
-      "time": "2026-08-23 14:23",
-      "score": 70,
-      "comments": 26
+      "score": 158,
+      "comments": 44
     }
   ]
 }

@@ -13,9 +13,9 @@
     "full_name": "tabtin-ai/TabTin",
     "description": "A workspace where people and multiple AI agents work together.",
     "url": "https://github.com/tabtin-ai/TabTin",
-    "stars": 106,
+    "stars": 107,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T15:50:19Z"
+    "updated_at": "2026-08-23T18:55:00Z"
   },
   {
     "name": "bansos-router",
@@ -27,6 +27,15 @@
     "updated_at": "2026-08-23T12:20:07Z"
   },
   {
+    "name": "deep-research-skill",
+    "full_name": "SeanEllyJames/deep-research-skill",
+    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+    "url": "https://github.com/SeanEllyJames/deep-research-skill",
+    "stars": 56,
+    "language": null,
+    "updated_at": "2026-08-23T20:15:57Z"
+  },
+  {
     "name": "neurocursor-ai",
     "full_name": "stems-arraign-48/neurocursor-ai",
     "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
@@ -36,31 +45,22 @@
     "updated_at": "2026-08-20T22:23:14Z"
   },
   {
-    "name": "deep-research-skill",
-    "full_name": "SeanEllyJames/deep-research-skill",
-    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
-    "url": "https://github.com/SeanEllyJames/deep-research-skill",
-    "stars": 50,
-    "language": null,
-    "updated_at": "2026-08-23T15:50:54Z"
-  },
-  {
     "name": "codex-guard",
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
-    "stars": 47,
+    "stars": 49,
     "language": "JavaScript",
-    "updated_at": "2026-08-23T16:24:44Z"
+    "updated_at": "2026-08-23T19:53:01Z"
   },
   {
     "name": "GPU-Perf-Playground",
     "full_name": "yanght27/GPU-Perf-Playground",
     "description": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
     "url": "https://github.com/yanght27/GPU-Perf-Playground",
-    "stars": 35,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-08-22T14:52:03Z"
+    "updated_at": "2026-08-23T20:09:26Z"
   },
   {
     "name": "nodeseek-ai-profile",
@@ -78,7 +78,7 @@
     "url": "https://github.com/patcireamo/ChungusHub",
     "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T16:22:32Z"
+    "updated_at": "2026-08-23T17:36:48Z"
   },
   {
     "name": "dsh-hotplug-hub",
@@ -87,6 +87,6 @@
     "url": "https://github.com/ARFCON/dsh-hotplug-hub",
     "stars": 26,
     "language": "JavaScript",
-    "updated_at": "2026-08-23T16:12:01Z"
+    "updated_at": "2026-08-23T19:09:15Z"
   }
 ]
