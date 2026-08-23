@@ -4,18 +4,18 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 241,
+    "stars": 242,
     "language": "JavaScript",
-    "updated_at": "2026-08-23T11:52:12Z"
+    "updated_at": "2026-08-23T14:19:41Z"
   },
   {
     "name": "TabTin",
     "full_name": "tabtin-ai/TabTin",
     "description": "A workspace where people and multiple AI agents work together.",
     "url": "https://github.com/tabtin-ai/TabTin",
-    "stars": 92,
+    "stars": 106,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T12:29:58Z"
+    "updated_at": "2026-08-23T15:50:19Z"
   },
   {
     "name": "bansos-router",
@@ -36,22 +36,22 @@
     "updated_at": "2026-08-20T22:23:14Z"
   },
   {
+    "name": "deep-research-skill",
+    "full_name": "SeanEllyJames/deep-research-skill",
+    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+    "url": "https://github.com/SeanEllyJames/deep-research-skill",
+    "stars": 50,
+    "language": null,
+    "updated_at": "2026-08-23T15:50:54Z"
+  },
+  {
     "name": "codex-guard",
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
     "stars": 47,
     "language": "JavaScript",
-    "updated_at": "2026-08-23T03:54:30Z"
-  },
-  {
-    "name": "deep-research-skill",
-    "full_name": "SeanEllyJames/deep-research-skill",
-    "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
-    "url": "https://github.com/SeanEllyJames/deep-research-skill",
-    "stars": 45,
-    "language": null,
-    "updated_at": "2026-08-23T12:35:13Z"
+    "updated_at": "2026-08-23T16:24:44Z"
   },
   {
     "name": "GPU-Perf-Playground",
@@ -76,9 +76,9 @@
     "full_name": "patcireamo/ChungusHub",
     "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
     "url": "https://github.com/patcireamo/ChungusHub",
-    "stars": 28,
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T11:14:11Z"
+    "updated_at": "2026-08-23T16:22:32Z"
   },
   {
     "name": "dsh-hotplug-hub",
@@ -87,6 +87,6 @@
     "url": "https://github.com/ARFCON/dsh-hotplug-hub",
     "stars": 26,
     "language": "JavaScript",
-    "updated_at": "2026-08-23T11:19:24Z"
+    "updated_at": "2026-08-23T16:12:01Z"
   }
 ]

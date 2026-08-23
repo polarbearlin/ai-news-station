@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-23 12:38:46",
+  "generated_at": "2026-08-23 16:25:01",
   "news": [
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "How Complex Systems Fail",
+      "url": "https://how.complexsystems.fail/",
       "source": "Hacker News",
-      "time": "2026-08-22 18:14",
-      "score": 386,
-      "comments": 149
+      "time": "2026-08-23 15:13",
+      "score": 38,
+      "comments": 3
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "source": "Hacker News",
+      "time": "2026-08-23 14:23",
+      "score": 70,
+      "comments": 26
     }
   ]
 }
