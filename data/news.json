@@ -1,53 +1,45 @@
 {
-  "generated_at": "2026-08-24 01:16:01",
+  "generated_at": "2026-08-24 04:43:09",
   "news": [
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "source": "Hacker News",
       "time": "2026-08-23 18:16",
-      "score": 191,
-      "comments": 158
+      "score": 329,
+      "comments": 283
     },
     {
       "title": "Google Workspace thinks my domain is an email provider (2025)",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "source": "Hacker News",
       "time": "2026-08-23 19:29",
-      "score": 170,
-      "comments": 40
+      "score": 219,
+      "comments": 61
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "source": "Hacker News",
       "time": "2026-08-23 17:59",
-      "score": 147,
-      "comments": 75
+      "score": 219,
+      "comments": 94
     },
     {
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
       "source": "Hacker News",
-      "time": "2026-08-23 02:25",
-      "score": 37,
-      "comments": 8
+      "time": "2026-08-23 23:18",
+      "score": 36,
+      "comments": 6
     },
     {
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
       "source": "Hacker News",
       "time": "2026-08-23 15:13",
-      "score": 235,
-      "comments": 62
-    },
-    {
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "source": "Hacker News",
-      "time": "2026-08-23 21:41",
-      "score": 27,
-      "comments": 9
+      "score": 273,
+      "comments": 65
     }
   ]
 }
