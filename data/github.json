@@ -4,36 +4,36 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 259,
+    "stars": 263,
     "language": "JavaScript",
-    "updated_at": "2026-08-24T11:55:47Z"
+    "updated_at": "2026-08-24T15:41:14Z"
   },
   {
     "name": "TabTin",
     "full_name": "tabtin-ai/TabTin",
     "description": "A workspace where people and multiple AI agents work together.",
     "url": "https://github.com/tabtin-ai/TabTin",
-    "stars": 128,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-08-24T12:47:40Z"
+    "updated_at": "2026-08-24T14:26:46Z"
   },
   {
     "name": "deep-research-skill",
     "full_name": "SeanEllyJames/deep-research-skill",
     "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
     "url": "https://github.com/SeanEllyJames/deep-research-skill",
-    "stars": 75,
+    "stars": 80,
     "language": null,
-    "updated_at": "2026-08-24T11:39:02Z"
+    "updated_at": "2026-08-24T16:27:10Z"
   },
   {
     "name": "codex-guard",
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
-    "stars": 49,
+    "stars": 50,
     "language": "JavaScript",
-    "updated_at": "2026-08-24T02:44:58Z"
+    "updated_at": "2026-08-24T14:49:43Z"
   },
   {
     "name": "neurocursor-ai",
@@ -69,7 +69,7 @@
     "url": "https://github.com/patcireamo/ChungusHub",
     "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-08-24T12:41:49Z"
+    "updated_at": "2026-08-24T16:18:58Z"
   },
   {
     "name": "dsh-hotplug-hub",
@@ -78,15 +78,15 @@
     "url": "https://github.com/ARFCON/dsh-hotplug-hub",
     "stars": 25,
     "language": "JavaScript",
-    "updated_at": "2026-08-24T11:05:22Z"
+    "updated_at": "2026-08-24T15:55:43Z"
   },
   {
     "name": "mybutler",
     "full_name": "alexcloudstar/mybutler",
     "description": "Local-first personal assistant: ask anything privately, with a self-weighting local memory.",
     "url": "https://github.com/alexcloudstar/mybutler",
-    "stars": 20,
+    "stars": 21,
     "language": "TypeScript",
-    "updated_at": "2026-08-23T08:42:49Z"
+    "updated_at": "2026-08-24T16:35:19Z"
   }
 ]
