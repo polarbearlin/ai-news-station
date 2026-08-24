@@ -4,27 +4,27 @@
     "full_name": "sam70361/emotion-ball",
     "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
     "url": "https://github.com/sam70361/emotion-ball",
-    "stars": 255,
+    "stars": 259,
     "language": "JavaScript",
-    "updated_at": "2026-08-24T08:26:41Z"
+    "updated_at": "2026-08-24T11:55:47Z"
   },
   {
     "name": "TabTin",
     "full_name": "tabtin-ai/TabTin",
     "description": "A workspace where people and multiple AI agents work together.",
     "url": "https://github.com/tabtin-ai/TabTin",
-    "stars": 126,
+    "stars": 128,
     "language": "TypeScript",
-    "updated_at": "2026-08-24T08:40:53Z"
+    "updated_at": "2026-08-24T12:47:40Z"
   },
   {
     "name": "deep-research-skill",
     "full_name": "SeanEllyJames/deep-research-skill",
     "description": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
     "url": "https://github.com/SeanEllyJames/deep-research-skill",
-    "stars": 69,
+    "stars": 75,
     "language": null,
-    "updated_at": "2026-08-24T08:32:30Z"
+    "updated_at": "2026-08-24T11:39:02Z"
   },
   {
     "name": "codex-guard",
@@ -49,9 +49,9 @@
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 36,
+    "stars": 37,
     "language": "TypeScript",
-    "updated_at": "2026-08-24T08:46:39Z"
+    "updated_at": "2026-08-24T09:40:00Z"
   },
   {
     "name": "nodeseek-ai-profile",
@@ -67,9 +67,9 @@
     "full_name": "patcireamo/ChungusHub",
     "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
     "url": "https://github.com/patcireamo/ChungusHub",
-    "stars": 31,
+    "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-08-24T00:20:15Z"
+    "updated_at": "2026-08-24T12:41:49Z"
   },
   {
     "name": "dsh-hotplug-hub",
@@ -78,7 +78,7 @@
     "url": "https://github.com/ARFCON/dsh-hotplug-hub",
     "stars": 25,
     "language": "JavaScript",
-    "updated_at": "2026-08-24T07:17:07Z"
+    "updated_at": "2026-08-24T11:05:22Z"
   },
   {
     "name": "mybutler",

@@ -1,53 +1,29 @@
 {
-  "generated_at": "2026-08-24 08:47:15",
+  "generated_at": "2026-08-24 12:49:11",
   "news": [
-    {
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "source": "Hacker News",
-      "time": "2026-08-24 06:30",
-      "score": 30,
-      "comments": 7
-    },
     {
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "source": "Hacker News",
       "time": "2026-08-23 20:38",
-      "score": 68,
-      "comments": 138
+      "score": 240,
+      "comments": 346
+    },
+    {
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "source": "Hacker News",
+      "time": "2026-08-24 06:30",
+      "score": 77,
+      "comments": 28
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "source": "Hacker News",
       "time": "2026-08-23 18:16",
-      "score": 481,
-      "comments": 429
-    },
-    {
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "source": "Hacker News",
-      "time": "2026-08-24 06:25",
-      "score": 18,
-      "comments": 6
-    },
-    {
-      "title": "New EU-wide product repair rules come into force",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "source": "Hacker News",
-      "time": "2026-08-24 05:47",
-      "score": 86,
-      "comments": 22
-    },
-    {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "source": "Hacker News",
-      "time": "2026-08-23 23:18",
-      "score": 136,
-      "comments": 26
+      "score": 595,
+      "comments": 531
     }
   ]
 }
