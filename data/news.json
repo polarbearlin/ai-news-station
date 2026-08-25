@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25 12:45:49",
+  "generated_at": "2026-08-25 16:36:18",
   "news": [
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "source": "Hacker News",
-      "time": "2026-08-24 22:13",
-      "score": 512,
-      "comments": 155
+      "time": "2026-08-25 13:01",
+      "score": 478,
+      "comments": 391
     },
     {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "source": "Hacker News",
-      "time": "2026-08-24 15:28",
-      "score": 755,
-      "comments": 364
+      "time": "2026-08-25 15:23",
+      "score": 143,
+      "comments": 103
     }
   ]
 }
