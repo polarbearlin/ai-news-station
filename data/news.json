@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-24 20:29:26",
+  "generated_at": "2026-08-25 01:14:14",
   "news": [
+    {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "source": "Hacker News",
+      "time": "2026-08-24 22:13",
+      "score": 200,
+      "comments": 44
+    },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "source": "Hacker News",
       "time": "2026-08-24 15:28",
-      "score": 387,
-      "comments": 154
-    },
-    {
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "source": "Hacker News",
-      "time": "2026-08-24 15:48",
-      "score": 254,
-      "comments": 123
-    },
-    {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "Hacker News",
-      "time": "2026-08-24 19:03",
-      "score": 33,
-      "comments": 8
+      "score": 550,
+      "comments": 219
     }
   ]
 }
