@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25 04:38:04",
+  "generated_at": "2026-08-25 08:40:52",
   "news": [
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "source": "Hacker News",
       "time": "2026-08-24 22:13",
-      "score": 316,
-      "comments": 76
+      "score": 433,
+      "comments": 117
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "source": "Hacker News",
       "time": "2026-08-24 15:28",
-      "score": 614,
-      "comments": 241
+      "score": 693,
+      "comments": 288
     }
   ]
 }
