@@ -22,18 +22,18 @@
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 47,
+    "stars": 48,
     "language": "TypeScript",
-    "updated_at": "2026-08-25T15:41:59Z"
+    "updated_at": "2026-08-25T18:12:19Z"
   },
   {
     "name": "neurocursor-ai",
     "full_name": "stems-arraign-48/neurocursor-ai",
     "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
     "url": "https://github.com/stems-arraign-48/neurocursor-ai",
-    "stars": 42,
+    "stars": 41,
     "language": "C++",
-    "updated_at": "2026-08-23T22:01:11Z"
+    "updated_at": "2026-08-25T17:54:59Z"
   },
   {
     "name": "ChungusHub",
@@ -42,7 +42,7 @@
     "url": "https://github.com/patcireamo/ChungusHub",
     "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-08-25T15:40:14Z"
+    "updated_at": "2026-08-25T18:05:08Z"
   },
   {
     "name": "dsh-hotplug-hub",
@@ -54,6 +54,15 @@
     "updated_at": "2026-08-25T16:03:40Z"
   },
   {
+    "name": "App-data-IOS-GP-",
+    "full_name": "benzhang568858050-cell/App-data-IOS-GP-",
+    "description": "Call the FoxData App Store Data API for iOS & Google Play app data — downloads, revenue, rankings, keywords, ASA ads, competitors across 200+ countries. Content hub with code examples and tutorials.",
+    "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
+    "stars": 25,
+    "language": "Python",
+    "updated_at": "2026-08-25T19:51:19Z"
+  },
+  {
     "name": "consensus-mcp",
     "full_name": "Consensus-NLP/consensus-mcp",
     "description": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
@@ -61,15 +70,6 @@
     "stars": 23,
     "language": null,
     "updated_at": "2026-08-25T12:13:35Z"
-  },
-  {
-    "name": "App-data-IOS-GP-",
-    "full_name": "benzhang568858050-cell/App-data-IOS-GP-",
-    "description": "Call the FoxData App Store Data API for iOS & Google Play app data — downloads, revenue, rankings, keywords, ASA ads, competitors across 200+ countries. Content hub with code examples and tutorials.",
-    "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
-    "stars": 23,
-    "language": "Python",
-    "updated_at": "2026-08-25T14:48:15Z"
   },
   {
     "name": "mybutler",
