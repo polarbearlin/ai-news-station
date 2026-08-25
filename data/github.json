@@ -4,27 +4,27 @@
     "full_name": "tabtin-ai/TabTin",
     "description": "A workspace where people and multiple AI agents work together.",
     "url": "https://github.com/tabtin-ai/TabTin",
-    "stars": 146,
+    "stars": 148,
     "language": "TypeScript",
-    "updated_at": "2026-08-25T08:30:26Z"
+    "updated_at": "2026-08-25T10:37:51Z"
   },
   {
     "name": "codex-guard",
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
-    "stars": 60,
+    "stars": 63,
     "language": "JavaScript",
-    "updated_at": "2026-08-25T07:50:49Z"
+    "updated_at": "2026-08-25T10:52:28Z"
   },
   {
     "name": "dsh-plugin-hub",
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 45,
+    "stars": 46,
     "language": "TypeScript",
-    "updated_at": "2026-08-25T07:55:54Z"
+    "updated_at": "2026-08-25T10:31:36Z"
   },
   {
     "name": "neurocursor-ai",
@@ -42,7 +42,7 @@
     "url": "https://github.com/patcireamo/ChungusHub",
     "stars": 32,
     "language": "TypeScript",
-    "updated_at": "2026-08-24T16:18:58Z"
+    "updated_at": "2026-08-25T09:19:11Z"
   },
   {
     "name": "dsh-hotplug-hub",
@@ -51,7 +51,16 @@
     "url": "https://github.com/ARFCON/dsh-hotplug-hub",
     "stars": 26,
     "language": "JavaScript",
-    "updated_at": "2026-08-25T05:37:03Z"
+    "updated_at": "2026-08-25T10:54:27Z"
+  },
+  {
+    "name": "consensus-mcp",
+    "full_name": "Consensus-NLP/consensus-mcp",
+    "description": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
+    "url": "https://github.com/Consensus-NLP/consensus-mcp",
+    "stars": 23,
+    "language": null,
+    "updated_at": "2026-08-25T12:13:35Z"
   },
   {
     "name": "App-data-IOS-GP-",
@@ -60,7 +69,7 @@
     "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
     "stars": 23,
     "language": "Python",
-    "updated_at": "2026-08-25T08:26:34Z"
+    "updated_at": "2026-08-25T11:02:34Z"
   },
   {
     "name": "ai-agent-hacking-writeups",
@@ -70,15 +79,6 @@
     "stars": 21,
     "language": null,
     "updated_at": "2026-08-25T07:27:26Z"
-  },
-  {
-    "name": "consensus-mcp",
-    "full_name": "Consensus-NLP/consensus-mcp",
-    "description": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
-    "url": "https://github.com/Consensus-NLP/consensus-mcp",
-    "stars": 21,
-    "language": null,
-    "updated_at": "2026-08-25T05:08:25Z"
   },
   {
     "name": "mybutler",
