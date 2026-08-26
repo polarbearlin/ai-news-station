@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-08-26 08:41:55",
+  "generated_at": "2026-08-26 12:50:57",
   "news": [
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "source": "Hacker News",
-      "time": "2026-08-25 14:06",
-      "score": 466,
-      "comments": 301
-    },
-    {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "source": "Hacker News",
-      "time": "2026-08-25 22:40",
-      "score": 77,
-      "comments": 43
+      "time": "2026-08-26 10:04",
+      "score": 196,
+      "comments": 82
     }
   ]
 }
