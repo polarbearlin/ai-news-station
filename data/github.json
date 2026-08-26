@@ -13,9 +13,9 @@
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 47,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-08-25T22:02:39Z"
+    "updated_at": "2026-08-26T03:59:07Z"
   },
   {
     "name": "neurocursor-ai",
@@ -27,13 +27,22 @@
     "updated_at": "2026-08-25T17:54:59Z"
   },
   {
+    "name": "alego",
+    "full_name": "singula-ai/alego",
+    "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
+    "url": "https://github.com/singula-ai/alego",
+    "stars": 25,
+    "language": "TypeScript",
+    "updated_at": "2026-08-26T04:29:36Z"
+  },
+  {
     "name": "App-data-IOS-GP-",
     "full_name": "benzhang568858050-cell/App-data-IOS-GP-",
     "description": "Call the FoxData App Store Data API for iOS & Google Play app data — downloads, revenue, rankings, keywords, ASA ads, competitors across 200+ countries. Content hub with code examples and tutorials.",
     "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
-    "stars": 24,
+    "stars": 25,
     "language": "Python",
-    "updated_at": "2026-08-25T22:00:08Z"
+    "updated_at": "2026-08-26T04:24:29Z"
   },
   {
     "name": "consensus-mcp",
@@ -45,6 +54,15 @@
     "updated_at": "2026-08-25T12:13:35Z"
   },
   {
+    "name": "mybutler",
+    "full_name": "alexcloudstar/mybutler",
+    "description": "Local-first personal assistant: ask anything privately, with a self-weighting local memory.",
+    "url": "https://github.com/alexcloudstar/mybutler",
+    "stars": 22,
+    "language": "TypeScript",
+    "updated_at": "2026-08-26T04:30:27Z"
+  },
+  {
     "name": "unbox-ai",
     "full_name": "tester-army/unbox-ai",
     "description": "Visualize AI context & traces.",
@@ -54,15 +72,6 @@
     "updated_at": "2026-08-25T21:20:52Z"
   },
   {
-    "name": "mybutler",
-    "full_name": "alexcloudstar/mybutler",
-    "description": "Local-first personal assistant: ask anything privately, with a self-weighting local memory.",
-    "url": "https://github.com/alexcloudstar/mybutler",
-    "stars": 21,
-    "language": "TypeScript",
-    "updated_at": "2026-08-24T16:35:19Z"
-  },
-  {
     "name": "ai-agent-hacking-writeups",
     "full_name": "shoebpate1/ai-agent-hacking-writeups",
     "description": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration.",
@@ -70,15 +79,6 @@
     "stars": 21,
     "language": null,
     "updated_at": "2026-08-25T07:27:26Z"
-  },
-  {
-    "name": "alego",
-    "full_name": "singula-ai/alego",
-    "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
-    "url": "https://github.com/singula-ai/alego",
-    "stars": 19,
-    "language": "TypeScript",
-    "updated_at": "2026-08-26T01:08:18Z"
   },
   {
     "name": "clay",
