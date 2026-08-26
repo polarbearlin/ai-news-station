@@ -4,18 +4,18 @@
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
-    "stars": 64,
+    "stars": 65,
     "language": "JavaScript",
-    "updated_at": "2026-08-26T16:10:48Z"
+    "updated_at": "2026-08-26T20:11:05Z"
   },
   {
     "name": "dsh-plugin-hub",
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 53,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T15:35:57Z"
+    "updated_at": "2026-08-26T20:08:00Z"
   },
   {
     "name": "neurocursor-ai",
@@ -33,34 +33,34 @@
     "url": "https://github.com/singula-ai/alego",
     "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T13:38:38Z"
+    "updated_at": "2026-08-26T18:36:07Z"
   },
   {
     "name": "App-data-IOS-GP-",
     "full_name": "benzhang568858050-cell/App-data-IOS-GP-",
     "description": "Call the FoxData App Store Data API for iOS & Google Play app data — downloads, revenue, rankings, keywords, ASA ads, competitors across 200+ countries. Content hub with code examples and tutorials.",
     "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
-    "stars": 29,
+    "stars": 30,
     "language": "Python",
-    "updated_at": "2026-08-26T16:03:36Z"
+    "updated_at": "2026-08-26T17:20:00Z"
   },
   {
     "name": "unbox-ai",
     "full_name": "tester-army/unbox-ai",
     "description": "Visualize AI context & traces.",
     "url": "https://github.com/tester-army/unbox-ai",
-    "stars": 25,
+    "stars": 26,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T16:29:41Z"
+    "updated_at": "2026-08-26T19:30:25Z"
   },
   {
     "name": "consensus-mcp",
     "full_name": "Consensus-NLP/consensus-mcp",
     "description": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
     "url": "https://github.com/Consensus-NLP/consensus-mcp",
-    "stars": 23,
+    "stars": 24,
     "language": null,
-    "updated_at": "2026-08-25T12:13:35Z"
+    "updated_at": "2026-08-26T18:40:30Z"
   },
   {
     "name": "mybutler",
@@ -81,12 +81,12 @@
     "updated_at": "2026-08-25T07:27:26Z"
   },
   {
-    "name": "clay",
-    "full_name": "sammwyy/clay",
-    "description": "Compact coding-agent harness built for people who prefer to stay in the terminal",
-    "url": "https://github.com/sammwyy/clay",
+    "name": "antigravity-bypass-russia",
+    "full_name": "vezlin1/antigravity-bypass-russia",
+    "description": "Google Antigravity & Gemini 2.0 bypass in Russia (Windows & macOS, No VPN, SmartDNS NRPT & SIMD binary patcher)",
+    "url": "https://github.com/vezlin1/antigravity-bypass-russia",
     "stars": 19,
-    "language": "C",
-    "updated_at": "2026-08-25T22:04:16Z"
+    "language": "Rust",
+    "updated_at": "2026-08-26T19:36:38Z"
   }
 ]

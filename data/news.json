@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-26 16:47:07",
+  "generated_at": "2026-08-26 22:46:25",
   "news": [
     {
-      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
       "source": "Hacker News",
-      "time": "2026-08-26 15:30",
-      "score": 32,
-      "comments": 10
+      "time": "2026-08-26 17:42",
+      "score": 410,
+      "comments": 78
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "source": "Hacker News",
+      "time": "2026-08-26 19:45",
+      "score": 62,
+      "comments": 24
     }
   ]
 }
