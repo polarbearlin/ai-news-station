@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-25 20:27:49",
+  "generated_at": "2026-08-26 01:16:39",
   "news": [
     {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "source": "Hacker News",
-      "time": "2026-08-25 15:20",
-      "score": 36,
+      "time": "2026-08-25 14:06",
+      "score": 318,
+      "comments": 219
+    },
+    {
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "source": "Hacker News",
+      "time": "2026-08-25 22:40",
+      "score": 23,
+      "comments": 3
+    },
+    {
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "source": "Hacker News",
+      "time": "2026-08-25 22:08",
+      "score": 41,
       "comments": 9
     }
   ]
