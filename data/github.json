@@ -6,16 +6,16 @@
     "url": "https://github.com/Akimiya-z/codex-guard",
     "stars": 64,
     "language": "JavaScript",
-    "updated_at": "2026-08-26T09:54:27Z"
+    "updated_at": "2026-08-26T16:10:48Z"
   },
   {
     "name": "dsh-plugin-hub",
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 52,
+    "stars": 53,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T06:38:29Z"
+    "updated_at": "2026-08-26T15:35:57Z"
   },
   {
     "name": "neurocursor-ai",
@@ -33,25 +33,25 @@
     "url": "https://github.com/singula-ai/alego",
     "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T12:22:40Z"
+    "updated_at": "2026-08-26T13:38:38Z"
   },
   {
     "name": "App-data-IOS-GP-",
     "full_name": "benzhang568858050-cell/App-data-IOS-GP-",
     "description": "Call the FoxData App Store Data API for iOS & Google Play app data — downloads, revenue, rankings, keywords, ASA ads, competitors across 200+ countries. Content hub with code examples and tutorials.",
     "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
-    "stars": 26,
+    "stars": 29,
     "language": "Python",
-    "updated_at": "2026-08-26T11:03:13Z"
+    "updated_at": "2026-08-26T16:03:36Z"
   },
   {
     "name": "unbox-ai",
     "full_name": "tester-army/unbox-ai",
     "description": "Visualize AI context & traces.",
     "url": "https://github.com/tester-army/unbox-ai",
-    "stars": 23,
+    "stars": 25,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T10:54:15Z"
+    "updated_at": "2026-08-26T16:29:41Z"
   },
   {
     "name": "consensus-mcp",
