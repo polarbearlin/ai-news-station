@@ -4,18 +4,18 @@
     "full_name": "Akimiya-z/codex-guard",
     "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
     "url": "https://github.com/Akimiya-z/codex-guard",
-    "stars": 63,
+    "stars": 64,
     "language": "JavaScript",
-    "updated_at": "2026-08-25T22:56:25Z"
+    "updated_at": "2026-08-26T08:16:15Z"
   },
   {
     "name": "dsh-plugin-hub",
     "full_name": "dshplugin/dsh-plugin-hub",
     "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
     "url": "https://github.com/dshplugin/dsh-plugin-hub",
-    "stars": 49,
+    "stars": 52,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T03:59:07Z"
+    "updated_at": "2026-08-26T06:38:29Z"
   },
   {
     "name": "neurocursor-ai",
@@ -31,18 +31,18 @@
     "full_name": "singula-ai/alego",
     "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
     "url": "https://github.com/singula-ai/alego",
-    "stars": 25,
+    "stars": 31,
     "language": "TypeScript",
-    "updated_at": "2026-08-26T04:29:36Z"
+    "updated_at": "2026-08-26T07:53:40Z"
   },
   {
     "name": "App-data-IOS-GP-",
     "full_name": "benzhang568858050-cell/App-data-IOS-GP-",
     "description": "Call the FoxData App Store Data API for iOS & Google Play app data — downloads, revenue, rankings, keywords, ASA ads, competitors across 200+ countries. Content hub with code examples and tutorials.",
     "url": "https://github.com/benzhang568858050-cell/App-data-IOS-GP-",
-    "stars": 25,
+    "stars": 26,
     "language": "Python",
-    "updated_at": "2026-08-26T04:24:29Z"
+    "updated_at": "2026-08-26T08:28:01Z"
   },
   {
     "name": "consensus-mcp",
