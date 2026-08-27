@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-08-27 07:49:30",
+  "generated_at": "2026-08-27 18:53:19",
   "news": [
     {
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "url": "https://github.com/tailscale/tailcat",
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
       "source": "Hacker News",
-      "time": "2026-08-26 17:42",
-      "score": 553,
-      "comments": 98
-    },
-    {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "source": "Hacker News",
-      "time": "2026-08-27 01:46",
-      "score": 484,
-      "comments": 309
-    },
-    {
-      "title": "Laion Big Video Dataset",
-      "url": "https://projects.laion.ai/bvd/",
-      "source": "Hacker News",
-      "time": "2026-08-27 01:50",
-      "score": 54,
-      "comments": 13
+      "time": "2026-08-27 17:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }

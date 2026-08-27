@@ -1,12 +1,30 @@
 [
   {
+    "name": "tokentab",
+    "full_name": "damejan80/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/damejan80/tokentab",
+    "stars": 164,
+    "language": "Python",
+    "updated_at": "2026-08-27T18:48:28Z"
+  },
+  {
     "name": "alego",
     "full_name": "singula-ai/alego",
     "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
     "url": "https://github.com/singula-ai/alego",
-    "stars": 41,
+    "stars": 76,
     "language": "TypeScript",
-    "updated_at": "2026-08-27T07:10:36Z"
+    "updated_at": "2026-08-27T16:34:21Z"
+  },
+  {
+    "name": "OpenInstinct",
+    "full_name": "Merit-Systems/OpenInstinct",
+    "description": "iMessage personal assistant + password vault",
+    "url": "https://github.com/Merit-Systems/OpenInstinct",
+    "stars": 40,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T18:53:03Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -15,7 +33,16 @@
     "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
     "stars": 37,
     "language": "C#",
-    "updated_at": "2026-08-27T07:39:20Z"
+    "updated_at": "2026-08-27T17:41:54Z"
+  },
+  {
+    "name": "Ta",
+    "full_name": "kangarooking/Ta",
+    "description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
+    "url": "https://github.com/kangarooking/Ta",
+    "stars": 30,
+    "language": "Swift",
+    "updated_at": "2026-08-27T14:26:40Z"
   },
   {
     "name": "unbox-ai",
@@ -40,9 +67,9 @@
     "full_name": "sammwyy/clay",
     "description": "Compact coding-agent harness built for people who prefer to stay in the terminal",
     "url": "https://github.com/sammwyy/clay",
-    "stars": 22,
+    "stars": 23,
     "language": "C",
-    "updated_at": "2026-08-27T07:00:36Z"
+    "updated_at": "2026-08-27T14:28:30Z"
   },
   {
     "name": "ai-agent-hacking-writeups",
@@ -54,39 +81,12 @@
     "updated_at": "2026-08-25T07:27:26Z"
   },
   {
-    "name": "antigravity-bypass-russia",
-    "full_name": "vezlin1/antigravity-bypass-russia",
-    "description": "Google Antigravity & Gemini 2.0 bypass in Russia (Windows & macOS, No VPN, SmartDNS NRPT & SIMD binary patcher)",
-    "url": "https://github.com/vezlin1/antigravity-bypass-russia",
-    "stars": 19,
-    "language": "Rust",
-    "updated_at": "2026-08-26T19:36:38Z"
-  },
-  {
-    "name": "unbagrnd",
-    "full_name": "zidniryi/unbagrnd",
-    "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-    "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 18,
-    "language": "Rust",
-    "updated_at": "2026-08-27T03:18:34Z"
-  },
-  {
-    "name": "Ta",
-    "full_name": "kangarooking/Ta",
-    "description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
-    "url": "https://github.com/kangarooking/Ta",
-    "stars": 18,
-    "language": "Swift",
-    "updated_at": "2026-08-27T07:15:55Z"
-  },
-  {
-    "name": "keymap-ai",
-    "full_name": "johncattrall/keymap-ai",
-    "description": "Agent Skill that turns your coding agent into a keyboard firmware expert. Audits ZMK/QMK keymaps, tunes home row mods, makes trackballs layer-aware, generates keymap diagrams with CI, adds alt layouts (Graphite, Colemak-DH), and debugs the failures the docs don't cover. Works with Claude Code, Codex, Cursor, Gemini CLI and more.",
-    "url": "https://github.com/johncattrall/keymap-ai",
-    "stars": 17,
-    "language": "Python",
-    "updated_at": "2026-08-27T04:00:26Z"
+    "name": "Arlo-AI-Desktop",
+    "full_name": "Autobricks-AI/Arlo-AI-Desktop",
+    "description": "Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel.",
+    "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
+    "stars": 20,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T09:10:13Z"
   }
 ]
