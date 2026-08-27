@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-26 22:46:25",
+  "generated_at": "2026-08-27 07:49:30",
   "news": [
     {
       "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
       "url": "https://github.com/tailscale/tailcat",
       "source": "Hacker News",
       "time": "2026-08-26 17:42",
-      "score": 410,
-      "comments": 78
+      "score": 553,
+      "comments": 98
     },
     {
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "source": "Hacker News",
-      "time": "2026-08-26 19:45",
-      "score": 62,
-      "comments": 24
+      "time": "2026-08-27 01:46",
+      "score": 484,
+      "comments": 309
+    },
+    {
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "source": "Hacker News",
+      "time": "2026-08-27 01:50",
+      "score": 54,
+      "comments": 13
     }
   ]
 }
