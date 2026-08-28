@@ -4,54 +4,72 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 212,
+    "stars": 213,
     "language": "Python",
-    "updated_at": "2026-08-28T01:20:09Z"
+    "updated_at": "2026-08-28T12:57:01Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 137,
+    "stars": 191,
     "language": "TypeScript",
-    "updated_at": "2026-08-28T03:54:06Z"
+    "updated_at": "2026-08-28T19:54:14Z"
+  },
+  {
+    "name": "my-free-code",
+    "full_name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "url": "https://github.com/hkqr/my-free-code",
+    "stars": 84,
+    "language": "Python",
+    "updated_at": "2026-08-28T19:54:07Z"
   },
   {
     "name": "alego",
     "full_name": "singula-ai/alego",
     "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
     "url": "https://github.com/singula-ai/alego",
-    "stars": 78,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-08-28T00:13:17Z"
+    "updated_at": "2026-08-28T08:00:20Z"
   },
   {
     "name": "IntentRoute-AI",
-    "full_name": "Lucas-Xi/IntentRoute-AI",
+    "full_name": "Vincent-Xi08/IntentRoute-AI",
     "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
-    "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
-    "stars": 58,
+    "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
+    "stars": 59,
     "language": "C#",
-    "updated_at": "2026-08-28T03:57:48Z"
+    "updated_at": "2026-08-28T15:19:57Z"
+  },
+  {
+    "name": "unbagrnd",
+    "full_name": "zidniryi/unbagrnd",
+    "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
+    "url": "https://github.com/zidniryi/unbagrnd",
+    "stars": 40,
+    "language": "Rust",
+    "updated_at": "2026-08-28T18:41:00Z"
   },
   {
     "name": "Ta",
     "full_name": "kangarooking/Ta",
     "description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
     "url": "https://github.com/kangarooking/Ta",
-    "stars": 36,
+    "stars": 38,
     "language": "Swift",
-    "updated_at": "2026-08-28T02:58:52Z"
+    "updated_at": "2026-08-28T14:08:06Z"
   },
   {
     "name": "ai-testing-guide",
     "full_name": "zhoujinjian/ai-testing-guide",
     "description": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
     "url": "https://github.com/zhoujinjian/ai-testing-guide",
-    "stars": 24,
+    "stars": 30,
     "language": null,
-    "updated_at": "2026-08-28T03:52:00Z"
+    "updated_at": "2026-08-28T09:52:38Z"
   },
   {
     "name": "Arlo-AI-Desktop",
@@ -67,26 +85,8 @@
     "full_name": "johncattrall/keymap-ai",
     "description": "Agent Skill that turns your coding agent into a keyboard firmware expert. Audits ZMK/QMK keymaps, tunes home row mods, makes trackballs layer-aware, generates keymap diagrams with CI, adds alt layouts (Graphite, Colemak-DH), and debugs the failures the docs don't cover. Works with Claude Code, Codex, Cursor, Gemini CLI and more.",
     "url": "https://github.com/johncattrall/keymap-ai",
-    "stars": 19,
+    "stars": 20,
     "language": "Python",
-    "updated_at": "2026-08-27T18:07:38Z"
-  },
-  {
-    "name": "unbagrnd",
-    "full_name": "zidniryi/unbagrnd",
-    "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-    "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 19,
-    "language": "Rust",
-    "updated_at": "2026-08-27T08:20:06Z"
-  },
-  {
-    "name": "ai-github-repository-assistant",
-    "full_name": "Wadan3/ai-github-repository-assistant",
-    "description": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
-    "url": "https://github.com/Wadan3/ai-github-repository-assistant",
-    "stars": 15,
-    "language": "TypeScript",
-    "updated_at": "2026-08-27T22:12:33Z"
+    "updated_at": "2026-08-28T18:01:40Z"
   }
 ]
