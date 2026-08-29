@@ -13,18 +13,18 @@
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 197,
+    "stars": 199,
     "language": "TypeScript",
-    "updated_at": "2026-08-29T01:08:29Z"
+    "updated_at": "2026-08-29T09:09:22Z"
   },
   {
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 126,
+    "stars": 178,
     "language": "Python",
-    "updated_at": "2026-08-29T02:26:02Z"
+    "updated_at": "2026-08-29T10:50:37Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -40,18 +40,18 @@
     "full_name": "zidniryi/unbagrnd",
     "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
     "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 40,
+    "stars": 42,
     "language": "Rust",
-    "updated_at": "2026-08-28T18:41:00Z"
+    "updated_at": "2026-08-29T09:51:08Z"
   },
   {
     "name": "Ta",
     "full_name": "kangarooking/Ta",
     "description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
     "url": "https://github.com/kangarooking/Ta",
-    "stars": 38,
+    "stars": 41,
     "language": "Swift",
-    "updated_at": "2026-08-28T14:08:06Z"
+    "updated_at": "2026-08-29T07:41:59Z"
   },
   {
     "name": "ai-testing-guide",
@@ -72,6 +72,15 @@
     "updated_at": "2026-08-28T01:09:56Z"
   },
   {
+    "name": "SideAsk",
+    "full_name": "horry0214/SideAsk",
+    "description": "AI side-question layer — ask aside, stay on track.",
+    "url": "https://github.com/horry0214/SideAsk",
+    "stars": 20,
+    "language": "JavaScript",
+    "updated_at": "2026-08-29T08:38:27Z"
+  },
+  {
     "name": "ai-github-repository-assistant",
     "full_name": "Wadan3/ai-github-repository-assistant",
     "description": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
@@ -79,14 +88,5 @@
     "stars": 15,
     "language": "TypeScript",
     "updated_at": "2026-08-27T22:12:33Z"
-  },
-  {
-    "name": "SideAsk",
-    "full_name": "horry0214/SideAsk",
-    "description": "AI side-question layer — ask aside, stay on track.",
-    "url": "https://github.com/horry0214/SideAsk",
-    "stars": 14,
-    "language": "JavaScript",
-    "updated_at": "2026-08-28T17:14:41Z"
   }
 ]
