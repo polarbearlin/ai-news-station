@@ -1,5 +1,14 @@
 [
   {
+    "name": "my-free-code",
+    "full_name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "url": "https://github.com/hkqr/my-free-code",
+    "stars": 214,
+    "language": "Python",
+    "updated_at": "2026-08-29T16:07:04Z"
+  },
+  {
     "name": "tokentab",
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -13,27 +22,18 @@
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 199,
+    "stars": 201,
     "language": "TypeScript",
-    "updated_at": "2026-08-29T09:09:22Z"
-  },
-  {
-    "name": "my-free-code",
-    "full_name": "hkqr/my-free-code",
-    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-    "url": "https://github.com/hkqr/my-free-code",
-    "stars": 178,
-    "language": "Python",
-    "updated_at": "2026-08-29T10:50:37Z"
+    "updated_at": "2026-08-29T15:46:58Z"
   },
   {
     "name": "IntentRoute-AI",
     "full_name": "Vincent-Xi08/IntentRoute-AI",
     "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
     "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
-    "stars": 59,
+    "stars": 101,
     "language": "C#",
-    "updated_at": "2026-08-28T15:19:57Z"
+    "updated_at": "2026-08-29T16:13:19Z"
   },
   {
     "name": "unbagrnd",
@@ -58,9 +58,27 @@
     "full_name": "zhoujinjian/ai-testing-guide",
     "description": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
     "url": "https://github.com/zhoujinjian/ai-testing-guide",
-    "stars": 31,
+    "stars": 33,
     "language": null,
-    "updated_at": "2026-08-29T01:25:47Z"
+    "updated_at": "2026-08-29T15:11:35Z"
+  },
+  {
+    "name": "remove-windows-ai",
+    "full_name": "meharabPigeon/remove-windows-ai",
+    "description": "'remove windows ai script' — A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
+    "url": "https://github.com/meharabPigeon/remove-windows-ai",
+    "stars": 25,
+    "language": null,
+    "updated_at": "2026-08-29T15:41:36Z"
+  },
+  {
+    "name": "windows-ai-privacy-toolkit",
+    "full_name": "wimar393/windows-ai-privacy-toolkit",
+    "description": "'disable windows ai features' — A privacy-first companion that inventories AI features on your PC and turns off the ones you name. Free, open community project for Windows.",
+    "url": "https://github.com/wimar393/windows-ai-privacy-toolkit",
+    "stars": 25,
+    "language": null,
+    "updated_at": "2026-08-29T15:47:50Z"
   },
   {
     "name": "Arlo-AI-Desktop",
@@ -70,23 +88,5 @@
     "stars": 21,
     "language": "TypeScript",
     "updated_at": "2026-08-28T01:09:56Z"
-  },
-  {
-    "name": "SideAsk",
-    "full_name": "horry0214/SideAsk",
-    "description": "AI side-question layer — ask aside, stay on track.",
-    "url": "https://github.com/horry0214/SideAsk",
-    "stars": 20,
-    "language": "JavaScript",
-    "updated_at": "2026-08-29T08:38:27Z"
-  },
-  {
-    "name": "ai-github-repository-assistant",
-    "full_name": "Wadan3/ai-github-repository-assistant",
-    "description": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
-    "url": "https://github.com/Wadan3/ai-github-repository-assistant",
-    "stars": 15,
-    "language": "TypeScript",
-    "updated_at": "2026-08-27T22:12:33Z"
   }
 ]
