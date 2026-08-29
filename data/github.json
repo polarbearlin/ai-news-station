@@ -13,27 +13,18 @@
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 191,
+    "stars": 197,
     "language": "TypeScript",
-    "updated_at": "2026-08-28T19:54:14Z"
+    "updated_at": "2026-08-29T01:08:29Z"
   },
   {
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 84,
+    "stars": 126,
     "language": "Python",
-    "updated_at": "2026-08-28T19:54:07Z"
-  },
-  {
-    "name": "alego",
-    "full_name": "singula-ai/alego",
-    "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
-    "url": "https://github.com/singula-ai/alego",
-    "stars": 79,
-    "language": "TypeScript",
-    "updated_at": "2026-08-28T08:00:20Z"
+    "updated_at": "2026-08-29T02:26:02Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -67,9 +58,9 @@
     "full_name": "zhoujinjian/ai-testing-guide",
     "description": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
     "url": "https://github.com/zhoujinjian/ai-testing-guide",
-    "stars": 30,
+    "stars": 31,
     "language": null,
-    "updated_at": "2026-08-28T09:52:38Z"
+    "updated_at": "2026-08-29T01:25:47Z"
   },
   {
     "name": "Arlo-AI-Desktop",
@@ -81,12 +72,21 @@
     "updated_at": "2026-08-28T01:09:56Z"
   },
   {
-    "name": "keymap-ai",
-    "full_name": "johncattrall/keymap-ai",
-    "description": "Agent Skill that turns your coding agent into a keyboard firmware expert. Audits ZMK/QMK keymaps, tunes home row mods, makes trackballs layer-aware, generates keymap diagrams with CI, adds alt layouts (Graphite, Colemak-DH), and debugs the failures the docs don't cover. Works with Claude Code, Codex, Cursor, Gemini CLI and more.",
-    "url": "https://github.com/johncattrall/keymap-ai",
-    "stars": 20,
-    "language": "Python",
-    "updated_at": "2026-08-28T18:01:40Z"
+    "name": "ai-github-repository-assistant",
+    "full_name": "Wadan3/ai-github-repository-assistant",
+    "description": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
+    "url": "https://github.com/Wadan3/ai-github-repository-assistant",
+    "stars": 15,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T22:12:33Z"
+  },
+  {
+    "name": "SideAsk",
+    "full_name": "horry0214/SideAsk",
+    "description": "AI side-question layer — ask aside, stay on track.",
+    "url": "https://github.com/horry0214/SideAsk",
+    "stars": 14,
+    "language": "JavaScript",
+    "updated_at": "2026-08-28T17:14:41Z"
   }
 ]
