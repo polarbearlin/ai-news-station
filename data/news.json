@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-29 16:17:15",
+  "generated_at": "2026-08-29 22:24:58",
   "news": [
     {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
       "source": "Hacker News",
-      "time": "2026-08-29 14:02",
-      "score": 240,
-      "comments": 186
+      "time": "2026-08-29 18:22",
+      "score": 63,
+      "comments": 20
+    },
+    {
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "source": "Hacker News",
+      "time": "2026-08-29 19:28",
+      "score": 23,
+      "comments": 1
     }
   ]
 }

@@ -4,27 +4,36 @@
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 214,
+    "stars": 248,
     "language": "Python",
-    "updated_at": "2026-08-29T16:07:04Z"
+    "updated_at": "2026-08-29T22:13:14Z"
   },
   {
     "name": "tokentab",
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 213,
+    "stars": 226,
     "language": "Python",
-    "updated_at": "2026-08-28T12:57:01Z"
+    "updated_at": "2026-08-29T22:13:21Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 201,
+    "stars": 204,
     "language": "TypeScript",
-    "updated_at": "2026-08-29T15:46:58Z"
+    "updated_at": "2026-08-29T20:41:23Z"
+  },
+  {
+    "name": "remove-windows-ai",
+    "full_name": "meharabPigeon/remove-windows-ai",
+    "description": "'remove windows ai script' — A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
+    "url": "https://github.com/meharabPigeon/remove-windows-ai",
+    "stars": 150,
+    "language": null,
+    "updated_at": "2026-08-29T20:54:51Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -33,60 +42,51 @@
     "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
     "stars": 101,
     "language": "C#",
-    "updated_at": "2026-08-29T16:13:19Z"
-  },
-  {
-    "name": "unbagrnd",
-    "full_name": "zidniryi/unbagrnd",
-    "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-    "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 42,
-    "language": "Rust",
-    "updated_at": "2026-08-29T09:51:08Z"
-  },
-  {
-    "name": "Ta",
-    "full_name": "kangarooking/Ta",
-    "description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
-    "url": "https://github.com/kangarooking/Ta",
-    "stars": 41,
-    "language": "Swift",
-    "updated_at": "2026-08-29T07:41:59Z"
-  },
-  {
-    "name": "ai-testing-guide",
-    "full_name": "zhoujinjian/ai-testing-guide",
-    "description": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
-    "url": "https://github.com/zhoujinjian/ai-testing-guide",
-    "stars": 33,
-    "language": null,
-    "updated_at": "2026-08-29T15:11:35Z"
-  },
-  {
-    "name": "remove-windows-ai",
-    "full_name": "meharabPigeon/remove-windows-ai",
-    "description": "'remove windows ai script' — A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
-    "url": "https://github.com/meharabPigeon/remove-windows-ai",
-    "stars": 25,
-    "language": null,
-    "updated_at": "2026-08-29T15:41:36Z"
+    "updated_at": "2026-08-29T16:21:35Z"
   },
   {
     "name": "windows-ai-privacy-toolkit",
     "full_name": "wimar393/windows-ai-privacy-toolkit",
     "description": "'disable windows ai features' — A privacy-first companion that inventories AI features on your PC and turns off the ones you name. Free, open community project for Windows.",
     "url": "https://github.com/wimar393/windows-ai-privacy-toolkit",
-    "stars": 25,
+    "stars": 73,
     "language": null,
-    "updated_at": "2026-08-29T15:47:50Z"
+    "updated_at": "2026-08-29T20:00:18Z"
   },
   {
-    "name": "Arlo-AI-Desktop",
-    "full_name": "Autobricks-AI/Arlo-AI-Desktop",
-    "description": "Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel.",
-    "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
-    "stars": 21,
-    "language": "TypeScript",
-    "updated_at": "2026-08-28T01:09:56Z"
+    "name": "omega-epsilon-problem-forge",
+    "full_name": "princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
+    "description": "Olympiad Problem Generator 2026: Create Infinite Spanish Math Olympiad-Style Challenges",
+    "url": "https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-29T21:41:29Z"
+  },
+  {
+    "name": "Neuro-Sprint",
+    "full_name": "rq0066622-lang/Neuro-Sprint",
+    "description": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
+    "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-29T21:49:26Z"
+  },
+  {
+    "name": "NutriVerse-Coach",
+    "full_name": "mustafaeeeuu-cell/NutriVerse-Coach",
+    "description": "NourishAI 2026 Fitness Coach: Healthy Meal Planner, Tasty Recipes & Community Hub",
+    "url": "https://github.com/mustafaeeeuu-cell/NutriVerse-Coach",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-29T19:12:31Z"
+  },
+  {
+    "name": "AdalFlow-Optimizer",
+    "full_name": "genoskietv/AdalFlow-Optimizer",
+    "description": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+    "url": "https://github.com/genoskietv/AdalFlow-Optimizer",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-29T19:10:37Z"
   }
 ]
