@@ -4,27 +4,27 @@
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 296,
+    "stars": 324,
     "language": "Python",
-    "updated_at": "2026-08-30T09:34:48Z"
+    "updated_at": "2026-08-30T15:14:31Z"
   },
   {
     "name": "tokentab",
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 278,
+    "stars": 311,
     "language": "Python",
-    "updated_at": "2026-08-30T09:48:05Z"
+    "updated_at": "2026-08-30T16:09:10Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 206,
+    "stars": 208,
     "language": "TypeScript",
-    "updated_at": "2026-08-29T22:50:56Z"
+    "updated_at": "2026-08-30T14:27:51Z"
   },
   {
     "name": "remove-windows-ai",
@@ -33,7 +33,16 @@
     "url": "https://github.com/meharabPigeon/remove-windows-ai",
     "stars": 150,
     "language": null,
-    "updated_at": "2026-08-29T20:54:51Z"
+    "updated_at": "2026-08-30T13:14:49Z"
+  },
+  {
+    "name": "useagent",
+    "full_name": "useagenthq/useagent",
+    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "url": "https://github.com/useagenthq/useagent",
+    "stars": 124,
+    "language": "TypeScript",
+    "updated_at": "2026-08-30T16:02:15Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -43,15 +52,6 @@
     "stars": 101,
     "language": "C#",
     "updated_at": "2026-08-29T16:21:35Z"
-  },
-  {
-    "name": "useagent",
-    "full_name": "useagenthq/useagent",
-    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-    "url": "https://github.com/useagenthq/useagent",
-    "stars": 88,
-    "language": "TypeScript",
-    "updated_at": "2026-08-30T09:51:53Z"
   },
   {
     "name": "windows-ai-privacy-toolkit",
@@ -67,18 +67,9 @@
     "full_name": "zidniryi/unbagrnd",
     "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
     "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 59,
+    "stars": 68,
     "language": "Rust",
-    "updated_at": "2026-08-30T09:47:40Z"
-  },
-  {
-    "name": "Neuro-Sprint",
-    "full_name": "rq0066622-lang/Neuro-Sprint",
-    "description": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
-    "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
-    "stars": 55,
-    "language": "HTML",
-    "updated_at": "2026-08-30T09:03:54Z"
+    "updated_at": "2026-08-30T15:57:49Z"
   },
   {
     "name": "omega-epsilon-problem-forge",
@@ -87,6 +78,15 @@
     "url": "https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-30T09:10:08Z"
+    "updated_at": "2026-08-30T14:10:09Z"
+  },
+  {
+    "name": "Neuro-Sprint",
+    "full_name": "rq0066622-lang/Neuro-Sprint",
+    "description": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
+    "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-30T14:33:37Z"
   }
 ]
