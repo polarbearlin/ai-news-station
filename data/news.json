@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-08-30 16:09:13",
+  "generated_at": "2026-08-30 22:26:13",
   "news": [
-    {
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "source": "Hacker News",
-      "time": "2026-08-30 12:31",
-      "score": 196,
-      "comments": 101
-    },
     {
       "title": "Haiku R1/beta6 has been released",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
       "source": "Hacker News",
       "time": "2026-08-30 16:01",
-      "score": 3,
-      "comments": 0
+      "score": 212,
+      "comments": 59
     },
     {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
       "source": "Hacker News",
-      "time": "2026-08-30 08:23",
-      "score": 158,
-      "comments": 44
+      "time": "2026-08-30 20:46",
+      "score": 27,
+      "comments": 3
     }
   ]
 }

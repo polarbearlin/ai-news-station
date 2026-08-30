@@ -4,45 +4,36 @@
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 324,
+    "stars": 348,
     "language": "Python",
-    "updated_at": "2026-08-30T15:14:31Z"
+    "updated_at": "2026-08-30T21:58:24Z"
   },
   {
     "name": "tokentab",
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 311,
+    "stars": 343,
     "language": "Python",
-    "updated_at": "2026-08-30T16:09:10Z"
+    "updated_at": "2026-08-30T22:24:27Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 208,
+    "stars": 215,
     "language": "TypeScript",
-    "updated_at": "2026-08-30T14:27:51Z"
-  },
-  {
-    "name": "remove-windows-ai",
-    "full_name": "meharabPigeon/remove-windows-ai",
-    "description": "'remove windows ai script' — A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
-    "url": "https://github.com/meharabPigeon/remove-windows-ai",
-    "stars": 150,
-    "language": null,
-    "updated_at": "2026-08-30T13:14:49Z"
+    "updated_at": "2026-08-30T22:22:24Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 124,
+    "stars": 127,
     "language": "TypeScript",
-    "updated_at": "2026-08-30T16:02:15Z"
+    "updated_at": "2026-08-30T21:13:32Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -54,22 +45,13 @@
     "updated_at": "2026-08-29T16:21:35Z"
   },
   {
-    "name": "windows-ai-privacy-toolkit",
-    "full_name": "wimar393/windows-ai-privacy-toolkit",
-    "description": "'disable windows ai features' — A privacy-first companion that inventories AI features on your PC and turns off the ones you name. Free, open community project for Windows.",
-    "url": "https://github.com/wimar393/windows-ai-privacy-toolkit",
-    "stars": 73,
-    "language": null,
-    "updated_at": "2026-08-29T20:00:18Z"
-  },
-  {
     "name": "unbagrnd",
     "full_name": "zidniryi/unbagrnd",
     "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
     "url": "https://github.com/zidniryi/unbagrnd",
-    "stars": 68,
+    "stars": 72,
     "language": "Rust",
-    "updated_at": "2026-08-30T15:57:49Z"
+    "updated_at": "2026-08-30T19:35:41Z"
   },
   {
     "name": "omega-epsilon-problem-forge",
@@ -78,7 +60,7 @@
     "url": "https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-30T14:10:09Z"
+    "updated_at": "2026-08-30T22:14:53Z"
   },
   {
     "name": "Neuro-Sprint",
@@ -87,6 +69,24 @@
     "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-30T14:33:37Z"
+    "updated_at": "2026-08-30T18:48:14Z"
+  },
+  {
+    "name": "Lithicsoft-Trainer-Forge",
+    "full_name": "s88cj-stack/Lithicsoft-Trainer-Forge",
+    "description": "Professional Trainer Studio Generator Suite 2026 – Open Source AI Coaching Toolkit",
+    "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-30T19:23:08Z"
+  },
+  {
+    "name": "plumb-core",
+    "full_name": "reghilkentpilaspilas-stack/plumb-core",
+    "description": "Pluggable AI Skill Framework for Embedded Linux: 2026 Agentic Automation Guide",
+    "url": "https://github.com/reghilkentpilaspilas-stack/plumb-core",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-29T19:10:02Z"
   }
 ]
