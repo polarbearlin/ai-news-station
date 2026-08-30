@@ -4,27 +4,27 @@
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 248,
+    "stars": 274,
     "language": "Python",
-    "updated_at": "2026-08-29T22:13:14Z"
+    "updated_at": "2026-08-30T03:39:41Z"
   },
   {
     "name": "tokentab",
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 226,
+    "stars": 251,
     "language": "Python",
-    "updated_at": "2026-08-29T22:13:21Z"
+    "updated_at": "2026-08-30T03:36:11Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 204,
+    "stars": 206,
     "language": "TypeScript",
-    "updated_at": "2026-08-29T20:41:23Z"
+    "updated_at": "2026-08-29T22:50:56Z"
   },
   {
     "name": "remove-windows-ai",
@@ -60,7 +60,7 @@
     "url": "https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-29T21:41:29Z"
+    "updated_at": "2026-08-30T02:57:03Z"
   },
   {
     "name": "Neuro-Sprint",
@@ -69,7 +69,7 @@
     "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-29T21:49:26Z"
+    "updated_at": "2026-08-30T02:52:25Z"
   },
   {
     "name": "NutriVerse-Coach",

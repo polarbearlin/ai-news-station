@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-08-29 22:24:58",
+  "generated_at": "2026-08-30 03:57:42",
   "news": [
     {
-      "title": "vLLM v0.28.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
       "source": "Hacker News",
-      "time": "2026-08-29 18:22",
-      "score": 63,
-      "comments": 20
-    },
-    {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "source": "Hacker News",
-      "time": "2026-08-29 19:28",
-      "score": 23,
-      "comments": 1
+      "time": "2026-08-29 23:17",
+      "score": 172,
+      "comments": 77
     }
   ]
 }
