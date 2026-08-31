@@ -4,36 +4,36 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 550,
+    "stars": 613,
     "language": "Python",
-    "updated_at": "2026-08-31T15:47:33Z"
+    "updated_at": "2026-08-31T21:13:14Z"
   },
   {
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 501,
+    "stars": 560,
     "language": "Python",
-    "updated_at": "2026-08-31T15:44:35Z"
+    "updated_at": "2026-08-31T21:13:06Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 220,
+    "stars": 221,
     "language": "TypeScript",
-    "updated_at": "2026-08-31T14:54:25Z"
+    "updated_at": "2026-08-31T20:52:01Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
-    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 131,
+    "stars": 151,
     "language": "TypeScript",
-    "updated_at": "2026-08-31T15:40:51Z"
+    "updated_at": "2026-08-31T20:39:25Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -51,7 +51,7 @@
     "url": "https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-31T15:22:33Z"
+    "updated_at": "2026-08-31T21:08:24Z"
   },
   {
     "name": "FormAI-Coach-Elevate",
@@ -63,30 +63,30 @@
     "updated_at": "2026-08-29T19:12:08Z"
   },
   {
-    "name": "Neuro-Sprint",
-    "full_name": "rq0066622-lang/Neuro-Sprint",
-    "description": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
-    "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
+    "name": "Motion-Form-Feedback",
+    "full_name": "gulingguinxling-del/Motion-Form-Feedback",
+    "description": "AI Virtual Gym Trainer 2026: OpenCV & MediaPipe Rep Counter with Real-Time Form Feedback",
+    "url": "https://github.com/gulingguinxling-del/Motion-Form-Feedback",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-31T07:13:39Z"
+    "updated_at": "2026-08-31T18:22:35Z"
   },
   {
-    "name": "rl-gym-orchestrator",
-    "full_name": "raamonp/rl-gym-orchestrator",
-    "description": "Ultimate LLM Gym Trainer Guide 2026: Reinforcement Learning Fine-Tuning Framework",
-    "url": "https://github.com/raamonp/rl-gym-orchestrator",
+    "name": "plumb-core",
+    "full_name": "reghilkentpilaspilas-stack/plumb-core",
+    "description": "Pluggable AI Skill Framework for Embedded Linux: 2026 Agentic Automation Guide",
+    "url": "https://github.com/reghilkentpilaspilas-stack/plumb-core",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-31T11:05:16Z"
+    "updated_at": "2026-08-29T19:10:02Z"
   },
   {
-    "name": "Model-Vault-Forge",
-    "full_name": "Harshitdewangann/Model-Vault-Forge",
-    "description": "AI Studio Trainer Hub 2026: Open Source Installer & Auto-Updater Suite",
-    "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
+    "name": "fine-tuning-playground",
+    "full_name": "RNetworks2019/fine-tuning-playground",
+    "description": "Mastering LLM Fine-Tuning in 2026: A Practical Guide from Hugging Face Basics to Production",
+    "url": "https://github.com/RNetworks2019/fine-tuning-playground",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-29T19:09:44Z"
+    "updated_at": "2026-08-29T19:12:04Z"
   }
 ]
