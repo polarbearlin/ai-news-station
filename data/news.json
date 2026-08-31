@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-30 22:26:13",
+  "generated_at": "2026-08-31 04:01:13",
   "news": [
+    {
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "source": "Hacker News",
+      "time": "2026-08-31 01:28",
+      "score": 75,
+      "comments": 28
+    },
     {
       "title": "Haiku R1/beta6 has been released",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
       "source": "Hacker News",
       "time": "2026-08-30 16:01",
-      "score": 212,
-      "comments": 59
+      "score": 270,
+      "comments": 83
     },
     {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
       "source": "Hacker News",
-      "time": "2026-08-30 20:46",
-      "score": 27,
-      "comments": 3
+      "time": "2026-08-31 03:20",
+      "score": 3,
+      "comments": 0
     }
   ]
 }
