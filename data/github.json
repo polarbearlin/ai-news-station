@@ -4,36 +4,36 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 394,
+    "stars": 550,
     "language": "Python",
-    "updated_at": "2026-08-31T03:59:42Z"
+    "updated_at": "2026-08-31T15:47:33Z"
   },
   {
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 387,
+    "stars": 501,
     "language": "Python",
-    "updated_at": "2026-08-31T03:59:35Z"
+    "updated_at": "2026-08-31T15:44:35Z"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 219,
+    "stars": 220,
     "language": "TypeScript",
-    "updated_at": "2026-08-31T03:44:17Z"
+    "updated_at": "2026-08-31T14:54:25Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 129,
+    "stars": 131,
     "language": "TypeScript",
-    "updated_at": "2026-08-30T22:52:36Z"
+    "updated_at": "2026-08-31T15:40:51Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -45,48 +45,48 @@
     "updated_at": "2026-08-29T16:21:35Z"
   },
   {
-    "name": "Neuro-Sprint",
-    "full_name": "rq0066622-lang/Neuro-Sprint",
-    "description": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
-    "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
-    "stars": 55,
-    "language": "HTML",
-    "updated_at": "2026-08-31T00:07:39Z"
-  },
-  {
     "name": "omega-epsilon-problem-forge",
     "full_name": "princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
     "description": "Olympiad Problem Generator 2026: Create Infinite Spanish Math Olympiad-Style Challenges",
     "url": "https://github.com/princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-31T00:07:57Z"
+    "updated_at": "2026-08-31T15:22:33Z"
   },
   {
-    "name": "Lithicsoft-Trainer-Forge",
-    "full_name": "s88cj-stack/Lithicsoft-Trainer-Forge",
-    "description": "Professional Trainer Studio Generator Suite 2026 – Open Source AI Coaching Toolkit",
-    "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
+    "name": "FormAI-Coach-Elevate",
+    "full_name": "wijayamakro19-sketch/FormAI-Coach-Elevate",
+    "description": "AI Form Checker 2026: Perfect Your Squat, Deadlift & Bench Press Form",
+    "url": "https://github.com/wijayamakro19-sketch/FormAI-Coach-Elevate",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-31T03:52:41Z"
+    "updated_at": "2026-08-29T19:12:08Z"
   },
   {
-    "name": "NutriVerse-Coach",
-    "full_name": "mustafaeeeuu-cell/NutriVerse-Coach",
-    "description": "NourishAI 2026 Fitness Coach: Healthy Meal Planner, Tasty Recipes & Community Hub",
-    "url": "https://github.com/mustafaeeeuu-cell/NutriVerse-Coach",
+    "name": "Neuro-Sprint",
+    "full_name": "rq0066622-lang/Neuro-Sprint",
+    "description": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
+    "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-29T19:12:31Z"
+    "updated_at": "2026-08-31T07:13:39Z"
   },
   {
-    "name": "AdalFlow-Optimizer",
-    "full_name": "genoskietv/AdalFlow-Optimizer",
-    "description": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
-    "url": "https://github.com/genoskietv/AdalFlow-Optimizer",
+    "name": "rl-gym-orchestrator",
+    "full_name": "raamonp/rl-gym-orchestrator",
+    "description": "Ultimate LLM Gym Trainer Guide 2026: Reinforcement Learning Fine-Tuning Framework",
+    "url": "https://github.com/raamonp/rl-gym-orchestrator",
     "stars": 55,
     "language": "HTML",
-    "updated_at": "2026-08-29T19:10:37Z"
+    "updated_at": "2026-08-31T11:05:16Z"
+  },
+  {
+    "name": "Model-Vault-Forge",
+    "full_name": "Harshitdewangann/Model-Vault-Forge",
+    "description": "AI Studio Trainer Hub 2026: Open Source Installer & Auto-Updater Suite",
+    "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
+    "stars": 55,
+    "language": "HTML",
+    "updated_at": "2026-08-29T19:09:44Z"
   }
 ]
