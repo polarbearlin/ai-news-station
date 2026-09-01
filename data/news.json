@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-09-01 03:51:20",
+  "generated_at": "2026-09-01 09:12:29",
   "news": [
     {
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "source": "Hacker News",
       "time": "2026-08-30 22:37",
-      "score": 266,
-      "comments": 31
-    },
-    {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "source": "Hacker News",
-      "time": "2026-08-31 12:41",
-      "score": 332,
-      "comments": 379
+      "score": 413,
+      "comments": 60
     }
   ]
 }
