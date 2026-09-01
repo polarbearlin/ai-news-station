@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-09-01 16:09:15",
+  "generated_at": "2026-09-01 22:24:40",
   "news": [
     {
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
       "source": "Hacker News",
-      "time": "2026-08-29 21:25",
-      "score": 259,
-      "comments": 104
+      "time": "2026-09-01 18:35",
+      "score": 228,
+      "comments": 247
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "source": "Hacker News",
+      "time": "2026-09-01 20:07",
+      "score": 157,
+      "comments": 79
     }
   ]
 }
