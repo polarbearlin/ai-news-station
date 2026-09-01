@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-31 21:19:12",
+  "generated_at": "2026-09-01 03:51:20",
   "news": [
-    {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "source": "Hacker News",
-      "time": "2026-08-30 06:52",
-      "score": 86,
-      "comments": 24
-    },
     {
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "source": "Hacker News",
       "time": "2026-08-30 22:37",
-      "score": 77,
-      "comments": 10
+      "score": 266,
+      "comments": 31
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "source": "Hacker News",
+      "time": "2026-08-31 12:41",
+      "score": 332,
+      "comments": 379
     }
   ]
 }
