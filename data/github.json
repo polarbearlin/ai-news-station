@@ -4,9 +4,9 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 813,
+    "stars": 1020,
     "language": "Python",
-    "updated_at": "2026-09-01T09:11:28Z"
+    "updated_at": "2026-09-01T16:08:14Z"
   },
   {
     "name": "my-free-code",
@@ -22,9 +22,9 @@
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 264,
+    "stars": 266,
     "language": "TypeScript",
-    "updated_at": "2026-09-01T08:38:59Z"
+    "updated_at": "2026-09-01T15:24:19Z"
   },
   {
     "name": "IntentRoute-AI",
@@ -33,34 +33,43 @@
     "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
     "stars": 101,
     "language": "C#",
-    "updated_at": "2026-08-29T16:21:35Z"
+    "updated_at": "2026-09-01T16:00:24Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 31,
+    "stars": 39,
     "language": null,
-    "updated_at": "2026-09-01T08:31:48Z"
+    "updated_at": "2026-09-01T16:02:25Z"
   },
   {
     "name": "SideAsk",
     "full_name": "horry0214/SideAsk",
     "description": "AI side-question layer — ask aside, stay on track.",
     "url": "https://github.com/horry0214/SideAsk",
-    "stars": 28,
+    "stars": 29,
     "language": "JavaScript",
-    "updated_at": "2026-09-01T02:51:50Z"
+    "updated_at": "2026-09-01T15:50:48Z"
   },
   {
     "name": "Agent",
     "full_name": "HowProgrammingWorks/Agent",
     "description": "Small, modular coding-agent harness for Node.js",
     "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 25,
+    "stars": 27,
     "language": "JavaScript",
-    "updated_at": "2026-09-01T04:35:25Z"
+    "updated_at": "2026-09-01T12:10:49Z"
+  },
+  {
+    "name": "promptModel",
+    "full_name": "arjun988/promptModel",
+    "description": "PromptForge scores LLM prompts across seven quality dimensions, then rewrites weak prompts into clear, intent-preserving instructions",
+    "url": "https://github.com/arjun988/promptModel",
+    "stars": 22,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-09-01T15:55:54Z"
   },
   {
     "name": "Arlo-AI-Desktop",
@@ -72,21 +81,12 @@
     "updated_at": "2026-08-28T01:09:56Z"
   },
   {
-    "name": "promptModel",
-    "full_name": "arjun988/promptModel",
-    "description": "PromptForge scores LLM prompts across seven quality dimensions, then rewrites weak prompts into clear, intent-preserving instructions",
-    "url": "https://github.com/arjun988/promptModel",
-    "stars": 17,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-09-01T07:57:42Z"
-  },
-  {
     "name": "Agentic-GraphRAG-Blueprint",
     "full_name": "sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
     "description": "Python + Terraform. Cloud-ready GraphRAG solution that uncovers distant connections across data and grows incrementally as new documents arrive.",
     "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-    "stars": 17,
+    "stars": 18,
     "language": "Python",
-    "updated_at": "2026-09-01T06:08:36Z"
+    "updated_at": "2026-09-01T12:37:58Z"
   }
 ]
