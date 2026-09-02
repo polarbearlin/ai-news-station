@@ -4,36 +4,54 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 1139,
+    "stars": 1141,
     "language": "Python",
-    "updated_at": "2026-09-02T02:08:50Z"
+    "updated_at": "2026-09-02T06:08:14Z"
   },
   {
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 618,
+    "stars": 620,
     "language": "Python",
-    "updated_at": "2026-09-02T02:32:43Z"
+    "updated_at": "2026-09-02T07:22:12Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 270,
+    "stars": 272,
     "language": "TypeScript",
-    "updated_at": "2026-09-02T02:48:21Z"
+    "updated_at": "2026-09-02T04:43:33Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 60,
+    "stars": 64,
     "language": null,
-    "updated_at": "2026-09-02T02:44:55Z"
+    "updated_at": "2026-09-02T06:00:56Z"
+  },
+  {
+    "name": "shim-mcp",
+    "full_name": "justadityaraj/shim-mcp",
+    "description": "WordPress MCP server plugin. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 58 abilities, self-contained, no cloud.",
+    "url": "https://github.com/justadityaraj/shim-mcp",
+    "stars": 48,
+    "language": "PHP",
+    "updated_at": "2026-09-02T08:05:02Z"
+  },
+  {
+    "name": "Agent",
+    "full_name": "HowProgrammingWorks/Agent",
+    "description": "Small, modular coding-agent harness for Node.js",
+    "url": "https://github.com/HowProgrammingWorks/Agent",
+    "stars": 32,
+    "language": "JavaScript",
+    "updated_at": "2026-09-02T08:04:09Z"
   },
   {
     "name": "SideAsk",
@@ -42,34 +60,25 @@
     "url": "https://github.com/horry0214/SideAsk",
     "stars": 30,
     "language": "JavaScript",
-    "updated_at": "2026-09-01T17:01:28Z"
-  },
-  {
-    "name": "Agent",
-    "full_name": "HowProgrammingWorks/Agent",
-    "description": "Small, modular coding-agent harness for Node.js",
-    "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 30,
-    "language": "JavaScript",
-    "updated_at": "2026-09-02T01:59:20Z"
+    "updated_at": "2026-09-02T05:21:26Z"
   },
   {
     "name": "promptModel",
     "full_name": "arjun988/promptModel",
     "description": "PromptForge scores LLM prompts across seven quality dimensions, then rewrites weak prompts into clear, intent-preserving instructions",
     "url": "https://github.com/arjun988/promptModel",
-    "stars": 24,
+    "stars": 26,
     "language": "Jupyter Notebook",
-    "updated_at": "2026-09-02T02:44:33Z"
+    "updated_at": "2026-09-02T08:24:27Z"
   },
   {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 24,
+    "stars": 26,
     "language": "Python",
-    "updated_at": "2026-09-02T02:03:02Z"
+    "updated_at": "2026-09-02T05:35:40Z"
   },
   {
     "name": "Arlo-AI-Desktop",
@@ -79,14 +88,5 @@
     "stars": 21,
     "language": "TypeScript",
     "updated_at": "2026-08-28T01:09:56Z"
-  },
-  {
-    "name": "Agentic-GraphRAG-Blueprint",
-    "full_name": "sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-    "description": "Python + Terraform. Cloud-ready GraphRAG solution that uncovers distant connections across data and grows incrementally as new documents arrive.",
-    "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-    "stars": 18,
-    "language": "Python",
-    "updated_at": "2026-09-01T12:37:58Z"
   }
 ]
