@@ -4,36 +4,36 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 1142,
+    "stars": 1144,
     "language": "Python",
-    "updated_at": "2026-09-02T09:22:10Z"
+    "updated_at": "2026-09-02T18:37:12Z"
   },
   {
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
     "url": "https://github.com/hkqr/my-free-code",
-    "stars": 620,
+    "stars": 622,
     "language": "Python",
-    "updated_at": "2026-09-02T07:22:12Z"
+    "updated_at": "2026-09-02T17:04:48Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 273,
+    "stars": 274,
     "language": "TypeScript",
-    "updated_at": "2026-09-02T11:37:01Z"
+    "updated_at": "2026-09-02T20:08:25Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 72,
+    "stars": 79,
     "language": null,
-    "updated_at": "2026-09-02T13:53:47Z"
+    "updated_at": "2026-09-02T21:39:13Z"
   },
   {
     "name": "shim-mcp",
@@ -42,34 +42,34 @@
     "url": "https://github.com/justadityaraj/shim-mcp",
     "stars": 48,
     "language": "PHP",
-    "updated_at": "2026-09-02T08:05:02Z"
+    "updated_at": "2026-09-02T19:41:49Z"
   },
   {
     "name": "Agent",
     "full_name": "HowProgrammingWorks/Agent",
     "description": "Small, modular coding-agent harness for Node.js",
     "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 36,
+    "stars": 37,
     "language": "JavaScript",
-    "updated_at": "2026-09-02T14:51:03Z"
+    "updated_at": "2026-09-02T21:45:40Z"
   },
   {
     "name": "SideAsk",
     "full_name": "horry0214/SideAsk",
     "description": "AI side-question layer — ask aside, stay on track.",
     "url": "https://github.com/horry0214/SideAsk",
-    "stars": 32,
+    "stars": 33,
     "language": "JavaScript",
-    "updated_at": "2026-09-02T11:30:28Z"
+    "updated_at": "2026-09-02T19:29:19Z"
   },
   {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 29,
+    "stars": 30,
     "language": "Python",
-    "updated_at": "2026-09-02T16:00:43Z"
+    "updated_at": "2026-09-02T16:42:39Z"
   },
   {
     "name": "promptModel",
