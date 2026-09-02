@@ -4,9 +4,9 @@
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/damejan80/tokentab",
-    "stars": 1141,
+    "stars": 1142,
     "language": "Python",
-    "updated_at": "2026-09-02T06:08:14Z"
+    "updated_at": "2026-09-02T09:22:10Z"
   },
   {
     "name": "my-free-code",
@@ -22,18 +22,18 @@
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 272,
+    "stars": 273,
     "language": "TypeScript",
-    "updated_at": "2026-09-02T04:43:33Z"
+    "updated_at": "2026-09-02T11:37:01Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 64,
+    "stars": 72,
     "language": null,
-    "updated_at": "2026-09-02T06:00:56Z"
+    "updated_at": "2026-09-02T13:53:47Z"
   },
   {
     "name": "shim-mcp",
@@ -49,18 +49,27 @@
     "full_name": "HowProgrammingWorks/Agent",
     "description": "Small, modular coding-agent harness for Node.js",
     "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 32,
+    "stars": 36,
     "language": "JavaScript",
-    "updated_at": "2026-09-02T08:04:09Z"
+    "updated_at": "2026-09-02T14:51:03Z"
   },
   {
     "name": "SideAsk",
     "full_name": "horry0214/SideAsk",
     "description": "AI side-question layer — ask aside, stay on track.",
     "url": "https://github.com/horry0214/SideAsk",
-    "stars": 30,
+    "stars": 32,
     "language": "JavaScript",
-    "updated_at": "2026-09-02T05:21:26Z"
+    "updated_at": "2026-09-02T11:30:28Z"
+  },
+  {
+    "name": "memory-bridge",
+    "full_name": "jiabaobei/memory-bridge",
+    "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
+    "url": "https://github.com/jiabaobei/memory-bridge",
+    "stars": 29,
+    "language": "Python",
+    "updated_at": "2026-09-02T16:00:43Z"
   },
   {
     "name": "promptModel",
@@ -70,15 +79,6 @@
     "stars": 26,
     "language": "Jupyter Notebook",
     "updated_at": "2026-09-02T08:24:27Z"
-  },
-  {
-    "name": "memory-bridge",
-    "full_name": "jiabaobei/memory-bridge",
-    "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
-    "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 26,
-    "language": "Python",
-    "updated_at": "2026-09-02T05:35:40Z"
   },
   {
     "name": "Arlo-AI-Desktop",

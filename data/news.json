@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-02 08:26:51",
+  "generated_at": "2026-09-02 16:03:27",
   "news": [
     {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "source": "Hacker News",
-      "time": "2026-09-02 04:15",
-      "score": 109,
-      "comments": 33
+      "time": "2026-09-02 12:30",
+      "score": 156,
+      "comments": 72
     },
     {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "source": "Hacker News",
-      "time": "2026-09-01 18:35",
-      "score": 665,
-      "comments": 727
+      "time": "2026-09-02 13:59",
+      "score": 128,
+      "comments": 73
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
       "source": "Hacker News",
-      "time": "2026-09-01 22:06",
-      "score": 130,
-      "comments": 57
+      "time": "2026-09-02 12:59",
+      "score": 64,
+      "comments": 22
     }
   ]
 }
