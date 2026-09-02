@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-09-01 22:24:40",
+  "generated_at": "2026-09-02 03:11:14",
   "news": [
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
       "source": "Hacker News",
       "time": "2026-09-01 18:35",
-      "score": 228,
-      "comments": 247
+      "score": 473,
+      "comments": 554
     },
     {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
       "source": "Hacker News",
-      "time": "2026-09-01 20:07",
-      "score": 157,
-      "comments": 79
+      "time": "2026-09-01 23:48",
+      "score": 56,
+      "comments": 8
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "source": "Hacker News",
+      "time": "2026-09-01 22:06",
+      "score": 74,
+      "comments": 24
     }
   ]
 }
