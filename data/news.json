@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-09-03 15:53:11",
+  "generated_at": "2026-09-03 19:08:01",
   "news": [
     {
-      "title": "ChatGPT Is Throwing 404",
-      "url": "https://chatgpt.com/",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
       "source": "Hacker News",
-      "time": "2026-09-03 14:46",
-      "score": 301,
-      "comments": 242
+      "time": "2026-09-03 18:32",
+      "score": 112,
+      "comments": 32
     },
     {
-      "title": "The Browser's Main Thread Is Expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
       "source": "Hacker News",
-      "time": "2026-09-01 14:00",
-      "score": 278,
-      "comments": 98
+      "time": "2026-09-03 18:18",
+      "score": 99,
+      "comments": 73
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "source": "Hacker News",
+      "time": "2026-09-03 14:28",
+      "score": 57,
+      "comments": 17
     }
   ]
 }

@@ -1,5 +1,14 @@
 [
   {
+    "name": "reverify",
+    "full_name": "2akouwu/reverify",
+    "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+    "url": "https://github.com/2akouwu/reverify",
+    "stars": 731,
+    "language": "Python",
+    "updated_at": "2026-09-03T19:06:32Z"
+  },
+  {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
@@ -13,18 +22,18 @@
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 91,
+    "stars": 93,
     "language": null,
-    "updated_at": "2026-09-03T14:54:10Z"
+    "updated_at": "2026-09-03T18:47:24Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 48,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-09-03T15:48:15Z"
+    "updated_at": "2026-09-03T19:04:59Z"
   },
   {
     "name": "shim-mcp",
@@ -40,9 +49,9 @@
     "full_name": "HowProgrammingWorks/Agent",
     "description": "Small, modular coding-agent harness for Node.js",
     "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 38,
+    "stars": 39,
     "language": "JavaScript",
-    "updated_at": "2026-09-03T11:52:13Z"
+    "updated_at": "2026-09-03T16:49:20Z"
   },
   {
     "name": "memory-bridge",
@@ -58,9 +67,9 @@
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 29,
+    "stars": 30,
     "language": "Go",
-    "updated_at": "2026-09-03T12:42:23Z"
+    "updated_at": "2026-09-03T16:31:13Z"
   },
   {
     "name": "Agentic-GraphRAG-Blueprint",
@@ -79,14 +88,5 @@
     "stars": 14,
     "language": "TypeScript",
     "updated_at": "2026-09-03T09:21:49Z"
-  },
-  {
-    "name": "agent-loop-guard",
-    "full_name": "OMD-123/agent-loop-guard",
-    "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.",
-    "url": "https://github.com/OMD-123/agent-loop-guard",
-    "stars": 13,
-    "language": "TypeScript",
-    "updated_at": "2026-09-01T12:45:36Z"
   }
 ]
