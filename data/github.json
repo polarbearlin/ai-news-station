@@ -4,36 +4,36 @@
     "full_name": "2akouwu/reverify",
     "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 731,
+    "stars": 739,
     "language": "Python",
-    "updated_at": "2026-09-03T19:06:32Z"
+    "updated_at": "2026-09-03T21:44:08Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 278,
+    "stars": 279,
     "language": "TypeScript",
-    "updated_at": "2026-09-03T13:41:02Z"
+    "updated_at": "2026-09-03T22:13:57Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 93,
+    "stars": 98,
     "language": null,
-    "updated_at": "2026-09-03T18:47:24Z"
+    "updated_at": "2026-09-03T22:10:52Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 54,
+    "stars": 63,
     "language": "Python",
-    "updated_at": "2026-09-03T19:04:59Z"
+    "updated_at": "2026-09-03T21:53:21Z"
   },
   {
     "name": "shim-mcp",
@@ -49,18 +49,18 @@
     "full_name": "HowProgrammingWorks/Agent",
     "description": "Small, modular coding-agent harness for Node.js",
     "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 39,
+    "stars": 40,
     "language": "JavaScript",
-    "updated_at": "2026-09-03T16:49:20Z"
+    "updated_at": "2026-09-03T20:25:22Z"
   },
   {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 36,
+    "stars": 37,
     "language": "Python",
-    "updated_at": "2026-09-03T14:03:45Z"
+    "updated_at": "2026-09-03T20:21:48Z"
   },
   {
     "name": "subpool",

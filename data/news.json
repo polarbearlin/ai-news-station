@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-09-03 19:08:01",
+  "generated_at": "2026-09-03 22:20:02",
   "news": [
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "source": "Hacker News",
+      "time": "2026-09-03 18:41",
+      "score": 996,
+      "comments": 715
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "url": "https://inference-docs.cerebras.ai/models/overview",
       "source": "Hacker News",
       "time": "2026-09-03 18:32",
-      "score": 112,
-      "comments": 32
+      "score": 363,
+      "comments": 114
     },
     {
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "source": "Hacker News",
-      "time": "2026-09-03 18:18",
-      "score": 99,
-      "comments": 73
+      "time": "2026-09-01 19:02",
+      "score": 101,
+      "comments": 64
     },
     {
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "source": "Hacker News",
       "time": "2026-09-03 14:28",
-      "score": 57,
-      "comments": 17
+      "score": 141,
+      "comments": 48
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "source": "Hacker News",
+      "time": "2026-09-03 19:45",
+      "score": 118,
+      "comments": 63
     }
   ]
 }
