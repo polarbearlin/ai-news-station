@@ -1,39 +1,21 @@
 [
   {
-    "name": "tokentab",
-    "full_name": "damejan80/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/damejan80/tokentab",
-    "stars": 1144,
-    "language": "Python",
-    "updated_at": "2026-09-02T18:37:12Z"
-  },
-  {
-    "name": "my-free-code",
-    "full_name": "hkqr/my-free-code",
-    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-    "url": "https://github.com/hkqr/my-free-code",
-    "stars": 622,
-    "language": "Python",
-    "updated_at": "2026-09-02T17:04:48Z"
-  },
-  {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 274,
+    "stars": 275,
     "language": "TypeScript",
-    "updated_at": "2026-09-02T20:08:25Z"
+    "updated_at": "2026-09-03T01:37:12Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 79,
+    "stars": 81,
     "language": null,
-    "updated_at": "2026-09-02T21:39:13Z"
+    "updated_at": "2026-09-03T02:13:13Z"
   },
   {
     "name": "shim-mcp",
@@ -54,39 +36,57 @@
     "updated_at": "2026-09-02T21:45:40Z"
   },
   {
-    "name": "SideAsk",
-    "full_name": "horry0214/SideAsk",
-    "description": "AI side-question layer — ask aside, stay on track.",
-    "url": "https://github.com/horry0214/SideAsk",
-    "stars": 33,
-    "language": "JavaScript",
-    "updated_at": "2026-09-02T19:29:19Z"
-  },
-  {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 30,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-09-02T16:42:39Z"
+    "updated_at": "2026-09-03T02:43:51Z"
   },
   {
-    "name": "promptModel",
-    "full_name": "arjun988/promptModel",
-    "description": "PromptForge scores LLM prompts across seven quality dimensions, then rewrites weak prompts into clear, intent-preserving instructions",
-    "url": "https://github.com/arjun988/promptModel",
+    "name": "Needle",
+    "full_name": "AbuZar-Ansarii/Needle",
+    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+    "url": "https://github.com/AbuZar-Ansarii/Needle",
     "stars": 26,
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-09-02T08:24:27Z"
+    "language": "Python",
+    "updated_at": "2026-09-03T03:04:07Z"
   },
   {
-    "name": "Arlo-AI-Desktop",
-    "full_name": "Autobricks-AI/Arlo-AI-Desktop",
-    "description": "Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel.",
-    "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
+    "name": "subpool",
+    "full_name": "gesta-run/subpool",
+    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+    "url": "https://github.com/gesta-run/subpool",
     "stars": 21,
+    "language": "Go",
+    "updated_at": "2026-09-03T02:49:03Z"
+  },
+  {
+    "name": "Agentic-GraphRAG-Blueprint",
+    "full_name": "sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
+    "description": "Python + Terraform. Cloud-ready GraphRAG solution that uncovers distant connections across data and grows incrementally as new documents arrive.",
+    "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
+    "stars": 19,
+    "language": "Python",
+    "updated_at": "2026-09-02T23:08:22Z"
+  },
+  {
+    "name": "agent-loop-guard",
+    "full_name": "OMD-123/agent-loop-guard",
+    "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.",
+    "url": "https://github.com/OMD-123/agent-loop-guard",
+    "stars": 13,
     "language": "TypeScript",
-    "updated_at": "2026-08-28T01:09:56Z"
+    "updated_at": "2026-09-01T12:45:36Z"
+  },
+  {
+    "name": "Closure",
+    "full_name": "chillison/Closure",
+    "description": "Closure（可露希尔）— 开源、本地优先的 AI 小说创作 IDE。Open-source, local-first AI novel-writing IDE. Fork of OrisonSpace.",
+    "url": "https://github.com/chillison/Closure",
+    "stars": 13,
+    "language": "TypeScript",
+    "updated_at": "2026-09-01T18:05:41Z"
   }
 ]
