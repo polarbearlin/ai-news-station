@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-09-03 08:35:09",
+  "generated_at": "2026-09-03 15:53:11",
   "news": [
     {
-      "title": "LLMs and Self-Referentiality",
-      "url": "https://scottaaronson.blog/?p=10046",
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
       "source": "Hacker News",
-      "time": "2026-09-02 00:20",
-      "score": 29,
-      "comments": 14
+      "time": "2026-09-03 14:46",
+      "score": 301,
+      "comments": 242
     },
     {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "source": "Hacker News",
-      "time": "2026-09-02 13:59",
-      "score": 399,
-      "comments": 191
-    },
-    {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "source": "Hacker News",
-      "time": "2026-09-02 12:30",
-      "score": 432,
-      "comments": 194
+      "time": "2026-09-01 14:00",
+      "score": 278,
+      "comments": 98
     }
   ]
 }

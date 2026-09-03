@@ -4,18 +4,27 @@
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 277,
+    "stars": 278,
     "language": "TypeScript",
-    "updated_at": "2026-09-03T08:35:06Z"
+    "updated_at": "2026-09-03T13:41:02Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 84,
+    "stars": 91,
     "language": null,
-    "updated_at": "2026-09-03T08:19:55Z"
+    "updated_at": "2026-09-03T14:54:10Z"
+  },
+  {
+    "name": "Needle",
+    "full_name": "AbuZar-Ansarii/Needle",
+    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+    "url": "https://github.com/AbuZar-Ansarii/Needle",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-09-03T15:48:15Z"
   },
   {
     "name": "shim-mcp",
@@ -31,45 +40,45 @@
     "full_name": "HowProgrammingWorks/Agent",
     "description": "Small, modular coding-agent harness for Node.js",
     "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 37,
+    "stars": 38,
     "language": "JavaScript",
-    "updated_at": "2026-09-02T21:45:40Z"
+    "updated_at": "2026-09-03T11:52:13Z"
   },
   {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 34,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-09-03T07:58:30Z"
-  },
-  {
-    "name": "Needle",
-    "full_name": "AbuZar-Ansarii/Needle",
-    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
-    "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 33,
-    "language": "Python",
-    "updated_at": "2026-09-03T08:32:17Z"
+    "updated_at": "2026-09-03T14:03:45Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 26,
+    "stars": 29,
     "language": "Go",
-    "updated_at": "2026-09-03T08:04:46Z"
+    "updated_at": "2026-09-03T12:42:23Z"
   },
   {
     "name": "Agentic-GraphRAG-Blueprint",
     "full_name": "sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
     "description": "Python + Terraform. Cloud-ready GraphRAG solution that uncovers distant connections across data and grows incrementally as new documents arrive.",
     "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-    "stars": 19,
+    "stars": 20,
     "language": "Python",
-    "updated_at": "2026-09-02T23:08:22Z"
+    "updated_at": "2026-09-03T13:11:26Z"
+  },
+  {
+    "name": "Closure",
+    "full_name": "chillison/Closure",
+    "description": "Closure（可露希尔）— 开源、本地优先的 AI 小说创作 IDE。Open-source, local-first AI novel-writing IDE. Fork of OrisonSpace.",
+    "url": "https://github.com/chillison/Closure",
+    "stars": 14,
+    "language": "TypeScript",
+    "updated_at": "2026-09-03T09:21:49Z"
   },
   {
     "name": "agent-loop-guard",
@@ -79,14 +88,5 @@
     "stars": 13,
     "language": "TypeScript",
     "updated_at": "2026-09-01T12:45:36Z"
-  },
-  {
-    "name": "Closure",
-    "full_name": "chillison/Closure",
-    "description": "Closure（可露希尔）— 开源、本地优先的 AI 小说创作 IDE。Open-source, local-first AI novel-writing IDE. Fork of OrisonSpace.",
-    "url": "https://github.com/chillison/Closure",
-    "stars": 13,
-    "language": "TypeScript",
-    "updated_at": "2026-09-01T18:05:41Z"
   }
 ]
