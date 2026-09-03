@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-03 03:13:07",
+  "generated_at": "2026-09-03 08:35:09",
   "news": [
+    {
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "source": "Hacker News",
+      "time": "2026-09-02 00:20",
+      "score": 29,
+      "comments": 14
+    },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "source": "Hacker News",
       "time": "2026-09-02 13:59",
-      "score": 324,
-      "comments": 158
-    },
-    {
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "source": "Hacker News",
-      "time": "2026-08-30 12:12",
-      "score": 50,
-      "comments": 27
+      "score": 399,
+      "comments": 191
     },
     {
       "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "source": "Hacker News",
       "time": "2026-09-02 12:30",
-      "score": 383,
-      "comments": 168
+      "score": 432,
+      "comments": 194
     }
   ]
 }

@@ -4,18 +4,18 @@
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 275,
+    "stars": 277,
     "language": "TypeScript",
-    "updated_at": "2026-09-03T01:37:12Z"
+    "updated_at": "2026-09-03T08:35:06Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 81,
+    "stars": 84,
     "language": null,
-    "updated_at": "2026-09-03T02:13:13Z"
+    "updated_at": "2026-09-03T08:19:55Z"
   },
   {
     "name": "shim-mcp",
@@ -24,7 +24,7 @@
     "url": "https://github.com/justadityaraj/shim-mcp",
     "stars": 48,
     "language": "PHP",
-    "updated_at": "2026-09-02T19:41:49Z"
+    "updated_at": "2026-09-03T06:12:22Z"
   },
   {
     "name": "Agent",
@@ -40,27 +40,27 @@
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 32,
+    "stars": 34,
     "language": "Python",
-    "updated_at": "2026-09-03T02:43:51Z"
+    "updated_at": "2026-09-03T07:58:30Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 26,
+    "stars": 33,
     "language": "Python",
-    "updated_at": "2026-09-03T03:04:07Z"
+    "updated_at": "2026-09-03T08:32:17Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 21,
+    "stars": 26,
     "language": "Go",
-    "updated_at": "2026-09-03T02:49:03Z"
+    "updated_at": "2026-09-03T08:04:46Z"
   },
   {
     "name": "Agentic-GraphRAG-Blueprint",
