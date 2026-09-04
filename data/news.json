@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-04 03:12:03",
+  "generated_at": "2026-09-04 08:30:37",
   "news": [
     {
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "source": "Hacker News",
       "time": "2026-09-03 18:41",
-      "score": 1409,
-      "comments": 1165
+      "score": 1730,
+      "comments": 1523
     },
     {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "url": "https://inference-docs.cerebras.ai/models/overview",
       "source": "Hacker News",
       "time": "2026-09-03 18:32",
-      "score": 471,
-      "comments": 141
+      "score": 540,
+      "comments": 172
     },
     {
       "title": "The largest electric aircraft just flew [video]",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "source": "Hacker News",
       "time": "2026-09-01 19:02",
-      "score": 215,
-      "comments": 149
+      "score": 301,
+      "comments": 218
     },
     {
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "source": "Hacker News",
       "time": "2026-09-03 14:28",
-      "score": 209,
-      "comments": 66
+      "score": 285,
+      "comments": 85
     }
   ]
 }

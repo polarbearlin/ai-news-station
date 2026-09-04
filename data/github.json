@@ -4,45 +4,54 @@
     "full_name": "2akouwu/reverify",
     "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 800,
+    "stars": 838,
     "language": "Python",
-    "updated_at": "2026-09-04T03:10:19Z"
+    "updated_at": "2026-09-04T08:20:17Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 282,
+    "stars": 284,
     "language": "TypeScript",
-    "updated_at": "2026-09-04T00:08:51Z"
+    "updated_at": "2026-09-04T08:01:47Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 100,
+    "stars": 102,
     "language": null,
-    "updated_at": "2026-09-04T02:14:00Z"
-  },
-  {
-    "name": "Needle",
-    "full_name": "AbuZar-Ansarii/Needle",
-    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
-    "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 65,
-    "language": "Python",
-    "updated_at": "2026-09-04T02:37:48Z"
+    "updated_at": "2026-09-04T06:49:45Z"
   },
   {
     "name": "remote-installer",
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 60,
+    "stars": 68,
     "language": "Rust",
-    "updated_at": "2026-09-04T02:56:56Z"
+    "updated_at": "2026-09-04T06:53:49Z"
+  },
+  {
+    "name": "Needle",
+    "full_name": "AbuZar-Ansarii/Needle",
+    "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+    "url": "https://github.com/AbuZar-Ansarii/Needle",
+    "stars": 68,
+    "language": "Python",
+    "updated_at": "2026-09-04T07:12:27Z"
+  },
+  {
+    "name": "subpool",
+    "full_name": "gesta-run/subpool",
+    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+    "url": "https://github.com/gesta-run/subpool",
+    "stars": 48,
+    "language": "Go",
+    "updated_at": "2026-09-04T08:27:11Z"
   },
   {
     "name": "shim-mcp",
@@ -58,18 +67,9 @@
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 41,
+    "stars": 42,
     "language": "Python",
-    "updated_at": "2026-09-04T01:59:34Z"
-  },
-  {
-    "name": "subpool",
-    "full_name": "gesta-run/subpool",
-    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-    "url": "https://github.com/gesta-run/subpool",
-    "stars": 36,
-    "language": "Go",
-    "updated_at": "2026-09-04T03:00:14Z"
+    "updated_at": "2026-09-04T06:43:44Z"
   },
   {
     "name": "agent-loop-guard",
@@ -81,12 +81,12 @@
     "updated_at": "2026-09-01T12:45:36Z"
   },
   {
-    "name": "ai-life-skills-toolkit",
-    "full_name": "sameh514/ai-life-skills-toolkit",
-    "description": "Privacy-first everyday Codex skills for learning, customer service, and personal organization",
-    "url": "https://github.com/sameh514/ai-life-skills-toolkit",
-    "stars": 12,
+    "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "full_name": "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer",
+    "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "stars": 13,
     "language": "Python",
-    "updated_at": "2026-08-31T09:03:44Z"
+    "updated_at": "2026-09-04T05:26:25Z"
   }
 ]
