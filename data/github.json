@@ -2,38 +2,47 @@
   {
     "name": "reverify",
     "full_name": "2akouwu/reverify",
-    "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+    "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 739,
+    "stars": 800,
     "language": "Python",
-    "updated_at": "2026-09-03T21:44:08Z"
+    "updated_at": "2026-09-04T03:10:19Z"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 279,
+    "stars": 282,
     "language": "TypeScript",
-    "updated_at": "2026-09-03T22:13:57Z"
+    "updated_at": "2026-09-04T00:08:51Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 98,
+    "stars": 100,
     "language": null,
-    "updated_at": "2026-09-03T22:10:52Z"
+    "updated_at": "2026-09-04T02:14:00Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 63,
+    "stars": 65,
     "language": "Python",
-    "updated_at": "2026-09-03T21:53:21Z"
+    "updated_at": "2026-09-04T02:37:48Z"
+  },
+  {
+    "name": "remote-installer",
+    "full_name": "icodesign/remote-installer",
+    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+    "url": "https://github.com/icodesign/remote-installer",
+    "stars": 60,
+    "language": "Rust",
+    "updated_at": "2026-09-04T02:56:56Z"
   },
   {
     "name": "shim-mcp",
@@ -45,48 +54,39 @@
     "updated_at": "2026-09-03T06:12:22Z"
   },
   {
-    "name": "Agent",
-    "full_name": "HowProgrammingWorks/Agent",
-    "description": "Small, modular coding-agent harness for Node.js",
-    "url": "https://github.com/HowProgrammingWorks/Agent",
-    "stars": 40,
-    "language": "JavaScript",
-    "updated_at": "2026-09-03T20:25:22Z"
-  },
-  {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 37,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-09-03T20:21:48Z"
+    "updated_at": "2026-09-04T01:59:34Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 30,
+    "stars": 36,
     "language": "Go",
-    "updated_at": "2026-09-03T16:31:13Z"
+    "updated_at": "2026-09-04T03:00:14Z"
   },
   {
-    "name": "Agentic-GraphRAG-Blueprint",
-    "full_name": "sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-    "description": "Python + Terraform. Cloud-ready GraphRAG solution that uncovers distant connections across data and grows incrementally as new documents arrive.",
-    "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-    "stars": 20,
-    "language": "Python",
-    "updated_at": "2026-09-03T13:11:26Z"
-  },
-  {
-    "name": "Closure",
-    "full_name": "chillison/Closure",
-    "description": "Closure（可露希尔）— 开源、本地优先的 AI 小说创作 IDE。Open-source, local-first AI novel-writing IDE. Fork of OrisonSpace.",
-    "url": "https://github.com/chillison/Closure",
-    "stars": 14,
+    "name": "agent-loop-guard",
+    "full_name": "OMD-123/agent-loop-guard",
+    "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.",
+    "url": "https://github.com/OMD-123/agent-loop-guard",
+    "stars": 13,
     "language": "TypeScript",
-    "updated_at": "2026-09-03T09:21:49Z"
+    "updated_at": "2026-09-01T12:45:36Z"
+  },
+  {
+    "name": "ai-life-skills-toolkit",
+    "full_name": "sameh514/ai-life-skills-toolkit",
+    "description": "Privacy-first everyday Codex skills for learning, customer service, and personal organization",
+    "url": "https://github.com/sameh514/ai-life-skills-toolkit",
+    "stars": 12,
+    "language": "Python",
+    "updated_at": "2026-08-31T09:03:44Z"
   }
 ]
