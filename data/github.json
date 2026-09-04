@@ -4,9 +4,9 @@
     "full_name": "2akouwu/reverify",
     "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 838,
+    "stars": 859,
     "language": "Python",
-    "updated_at": "2026-09-04T08:20:17Z"
+    "updated_at": "2026-09-04T15:27:34Z"
   },
   {
     "name": "useagent",
@@ -31,45 +31,45 @@
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 68,
+    "stars": 74,
     "language": "Rust",
-    "updated_at": "2026-09-04T06:53:49Z"
+    "updated_at": "2026-09-04T14:17:10Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 68,
+    "stars": 74,
     "language": "Python",
-    "updated_at": "2026-09-04T07:12:27Z"
+    "updated_at": "2026-09-04T15:48:13Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 48,
+    "stars": 54,
     "language": "Go",
-    "updated_at": "2026-09-04T08:27:11Z"
+    "updated_at": "2026-09-04T10:26:35Z"
   },
   {
     "name": "shim-mcp",
     "full_name": "justadityaraj/shim-mcp",
     "description": "WordPress MCP server plugin. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 58 abilities, self-contained, no cloud.",
     "url": "https://github.com/justadityaraj/shim-mcp",
-    "stars": 48,
+    "stars": 47,
     "language": "PHP",
-    "updated_at": "2026-09-03T06:12:22Z"
+    "updated_at": "2026-09-04T12:45:56Z"
   },
   {
     "name": "memory-bridge",
     "full_name": "jiabaobei/memory-bridge",
     "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
     "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 42,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-09-04T06:43:44Z"
+    "updated_at": "2026-09-04T09:35:26Z"
   },
   {
     "name": "agent-loop-guard",
