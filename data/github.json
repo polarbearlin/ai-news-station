@@ -4,9 +4,9 @@
     "full_name": "2akouwu/reverify",
     "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 859,
+    "stars": 867,
     "language": "Python",
-    "updated_at": "2026-09-04T15:27:34Z"
+    "updated_at": "2026-09-04T18:31:46Z"
   },
   {
     "name": "useagent",
@@ -27,22 +27,22 @@
     "updated_at": "2026-09-04T06:49:45Z"
   },
   {
-    "name": "remote-installer",
-    "full_name": "icodesign/remote-installer",
-    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-    "url": "https://github.com/icodesign/remote-installer",
-    "stars": 74,
-    "language": "Rust",
-    "updated_at": "2026-09-04T14:17:10Z"
-  },
-  {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 74,
+    "stars": 78,
     "language": "Python",
-    "updated_at": "2026-09-04T15:48:13Z"
+    "updated_at": "2026-09-04T18:10:02Z"
+  },
+  {
+    "name": "remote-installer",
+    "full_name": "icodesign/remote-installer",
+    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+    "url": "https://github.com/icodesign/remote-installer",
+    "stars": 75,
+    "language": "Rust",
+    "updated_at": "2026-09-04T16:12:53Z"
   },
   {
     "name": "subpool",
@@ -72,6 +72,15 @@
     "updated_at": "2026-09-04T09:35:26Z"
   },
   {
+    "name": "EdgeMosaic",
+    "full_name": "michailfragkiskos/EdgeMosaic",
+    "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
+    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
+    "stars": 26,
+    "language": "Python",
+    "updated_at": "2026-09-04T17:56:03Z"
+  },
+  {
     "name": "agent-loop-guard",
     "full_name": "OMD-123/agent-loop-guard",
     "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.",
@@ -79,14 +88,5 @@
     "stars": 13,
     "language": "TypeScript",
     "updated_at": "2026-09-01T12:45:36Z"
-  },
-  {
-    "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "full_name": "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer",
-    "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "stars": 13,
-    "language": "Python",
-    "updated_at": "2026-09-04T05:26:25Z"
   }
 ]

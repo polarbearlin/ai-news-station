@@ -1,45 +1,29 @@
 {
-  "generated_at": "2026-09-04 15:51:22",
+  "generated_at": "2026-09-04 18:50:20",
   "news": [
-    {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "source": "Hacker News",
-      "time": "2026-09-04 11:59",
-      "score": 210,
-      "comments": 34
-    },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "source": "Hacker News",
       "time": "2026-09-04 11:54",
-      "score": 656,
-      "comments": 454
+      "score": 1092,
+      "comments": 861
     },
     {
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "source": "Hacker News",
       "time": "2026-09-03 18:41",
-      "score": 2009,
-      "comments": 1830
+      "score": 2099,
+      "comments": 1910
     },
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
       "source": "Hacker News",
-      "time": "2026-09-03 18:32",
-      "score": 637,
-      "comments": 208
-    },
-    {
-      "title": "GMails custom domain \"send as\" discontinues January 2027",
-      "url": "https://support.google.com/mail/answer/22370?hl=en",
-      "source": "Hacker News",
-      "time": "2026-09-04 15:03",
-      "score": 51,
-      "comments": 46
+      "time": "2026-09-04 17:29",
+      "score": 97,
+      "comments": 62
     }
   ]
 }
