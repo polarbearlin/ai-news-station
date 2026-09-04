@@ -4,9 +4,9 @@
     "full_name": "2akouwu/reverify",
     "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 867,
+    "stars": 877,
     "language": "Python",
-    "updated_at": "2026-09-04T18:31:46Z"
+    "updated_at": "2026-09-04T21:49:17Z"
   },
   {
     "name": "useagent",
@@ -22,18 +22,18 @@
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 102,
+    "stars": 103,
     "language": null,
-    "updated_at": "2026-09-04T06:49:45Z"
+    "updated_at": "2026-09-04T18:51:44Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 78,
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-09-04T18:10:02Z"
+    "updated_at": "2026-09-04T20:02:04Z"
   },
   {
     "name": "remote-installer",
@@ -56,11 +56,11 @@
   {
     "name": "shim-mcp",
     "full_name": "justadityaraj/shim-mcp",
-    "description": "WordPress MCP server plugin. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 58 abilities, self-contained, no cloud.",
+    "description": "WordPress MCP server plugin, live on WordPress.org. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 56 abilities, self-contained, no cloud.",
     "url": "https://github.com/justadityaraj/shim-mcp",
     "stars": 47,
     "language": "PHP",
-    "updated_at": "2026-09-04T12:45:56Z"
+    "updated_at": "2026-09-04T21:17:16Z"
   },
   {
     "name": "memory-bridge",
@@ -72,6 +72,15 @@
     "updated_at": "2026-09-04T09:35:26Z"
   },
   {
+    "name": "paddock",
+    "full_name": "truespar/paddock",
+    "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+    "url": "https://github.com/truespar/paddock",
+    "stars": 34,
+    "language": "Rust",
+    "updated_at": "2026-09-04T21:24:39Z"
+  },
+  {
     "name": "EdgeMosaic",
     "full_name": "michailfragkiskos/EdgeMosaic",
     "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
@@ -79,14 +88,5 @@
     "stars": 26,
     "language": "Python",
     "updated_at": "2026-09-04T17:56:03Z"
-  },
-  {
-    "name": "agent-loop-guard",
-    "full_name": "OMD-123/agent-loop-guard",
-    "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.",
-    "url": "https://github.com/OMD-123/agent-loop-guard",
-    "stars": 13,
-    "language": "TypeScript",
-    "updated_at": "2026-09-01T12:45:36Z"
   }
 ]
