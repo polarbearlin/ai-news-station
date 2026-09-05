@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-09-05 08:06:00",
+  "generated_at": "2026-09-05 14:41:38",
   "news": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "source": "Hacker News",
       "time": "2026-09-04 11:54",
-      "score": 1668,
-      "comments": 1299
-    },
-    {
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "source": "Hacker News",
-      "time": "2026-09-04 21:39",
-      "score": 204,
-      "comments": 118
-    },
-    {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "source": "Hacker News",
-      "time": "2026-09-05 03:38",
-      "score": 28,
-      "comments": 11
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "source": "Hacker News",
-      "time": "2026-09-04 19:48",
-      "score": 243,
-      "comments": 147
+      "score": 1852,
+      "comments": 1416
     }
   ]
 }
