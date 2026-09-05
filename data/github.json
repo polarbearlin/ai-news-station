@@ -4,9 +4,9 @@
     "full_name": "2akouwu/reverify",
     "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 917,
+    "stars": 920,
     "language": "Python",
-    "updated_at": "2026-09-05T14:07:30Z"
+    "updated_at": "2026-09-05T16:24:55Z"
   },
   {
     "name": "Wonder-Pill",
@@ -22,27 +22,36 @@
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 86,
+    "stars": 87,
     "language": "Rust",
-    "updated_at": "2026-09-05T14:19:34Z"
+    "updated_at": "2026-09-05T15:07:46Z"
   },
   {
     "name": "Needle",
     "full_name": "AbuZar-Ansarii/Needle",
     "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
     "url": "https://github.com/AbuZar-Ansarii/Needle",
-    "stars": 83,
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-09-05T06:48:55Z"
+    "updated_at": "2026-09-05T16:24:56Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 60,
+    "stars": 64,
     "language": "Go",
-    "updated_at": "2026-09-05T09:31:16Z"
+    "updated_at": "2026-09-05T17:48:03Z"
+  },
+  {
+    "name": "short-video-generator-AI",
+    "full_name": "pierrenade/short-video-generator-AI",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "url": "https://github.com/pierrenade/short-video-generator-AI",
+    "stars": 58,
+    "language": "Python",
+    "updated_at": "2026-09-05T17:52:12Z"
   },
   {
     "name": "shim-mcp",
@@ -51,7 +60,7 @@
     "url": "https://github.com/justadityaraj/shim-mcp",
     "stars": 47,
     "language": "PHP",
-    "updated_at": "2026-09-05T10:44:39Z"
+    "updated_at": "2026-09-05T17:02:41Z"
   },
   {
     "name": "paddock",
@@ -70,15 +79,6 @@
     "stars": 28,
     "language": "Python",
     "updated_at": "2026-09-05T10:56:47Z"
-  },
-  {
-    "name": "tokenchit",
-    "full_name": "iyashjayesh/tokenchit",
-    "description": "Read your local AI coding agent logs and render a stat card into your repo.",
-    "url": "https://github.com/iyashjayesh/tokenchit",
-    "stars": 13,
-    "language": "TypeScript",
-    "updated_at": "2026-09-05T14:12:29Z"
   },
   {
     "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
