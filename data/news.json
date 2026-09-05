@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-09-05 17:57:08",
+  "generated_at": "2026-09-05 21:56:31",
   "news": [
+    {
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "source": "Hacker News",
+      "time": "2026-09-05 20:02",
+      "score": 78,
+      "comments": 40
+    },
+    {
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "source": "Hacker News",
+      "time": "2026-09-05 13:31",
+      "score": 94,
+      "comments": 10
+    },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "source": "Hacker News",
       "time": "2026-09-04 11:54",
-      "score": 1949,
-      "comments": 1460
+      "score": 2045,
+      "comments": 1494
     }
   ]
 }
