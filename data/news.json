@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-04 22:09:18",
+  "generated_at": "2026-09-05 03:14:28",
   "news": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "source": "Hacker News",
       "time": "2026-09-04 11:54",
-      "score": 1363,
-      "comments": 1103
+      "score": 1519,
+      "comments": 1207
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "source": "Hacker News",
+      "time": "2026-09-04 21:39",
+      "score": 140,
+      "comments": 73
     },
     {
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "source": "Hacker News",
       "time": "2026-09-04 19:48",
-      "score": 82,
-      "comments": 64
-    },
-    {
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "source": "Hacker News",
-      "time": "2026-09-04 19:06",
-      "score": 52,
-      "comments": 13
+      "score": 181,
+      "comments": 117
     }
   ]
 }

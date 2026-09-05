@@ -4,27 +4,18 @@
     "full_name": "2akouwu/reverify",
     "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 877,
+    "stars": 891,
     "language": "Python",
-    "updated_at": "2026-09-04T21:49:17Z"
-  },
-  {
-    "name": "useagent",
-    "full_name": "useagenthq/useagent",
-    "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-    "url": "https://github.com/useagenthq/useagent",
-    "stars": 284,
-    "language": "TypeScript",
-    "updated_at": "2026-09-04T08:01:47Z"
+    "updated_at": "2026-09-05T02:44:31Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 103,
+    "stars": 104,
     "language": null,
-    "updated_at": "2026-09-04T18:51:44Z"
+    "updated_at": "2026-09-04T23:55:26Z"
   },
   {
     "name": "Needle",
@@ -33,25 +24,25 @@
     "url": "https://github.com/AbuZar-Ansarii/Needle",
     "stars": 81,
     "language": "Python",
-    "updated_at": "2026-09-04T20:02:04Z"
+    "updated_at": "2026-09-05T01:18:33Z"
   },
   {
     "name": "remote-installer",
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 75,
+    "stars": 76,
     "language": "Rust",
-    "updated_at": "2026-09-04T16:12:53Z"
+    "updated_at": "2026-09-05T01:51:39Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 54,
+    "stars": 56,
     "language": "Go",
-    "updated_at": "2026-09-04T10:26:35Z"
+    "updated_at": "2026-09-05T01:07:03Z"
   },
   {
     "name": "shim-mcp",
@@ -63,22 +54,13 @@
     "updated_at": "2026-09-04T21:17:16Z"
   },
   {
-    "name": "memory-bridge",
-    "full_name": "jiabaobei/memory-bridge",
-    "description": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
-    "url": "https://github.com/jiabaobei/memory-bridge",
-    "stars": 43,
-    "language": "Python",
-    "updated_at": "2026-09-04T09:35:26Z"
-  },
-  {
     "name": "paddock",
     "full_name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 34,
+    "stars": 38,
     "language": "Rust",
-    "updated_at": "2026-09-04T21:24:39Z"
+    "updated_at": "2026-09-05T02:21:57Z"
   },
   {
     "name": "EdgeMosaic",
@@ -88,5 +70,23 @@
     "stars": 26,
     "language": "Python",
     "updated_at": "2026-09-04T17:56:03Z"
+  },
+  {
+    "name": "tokenchit",
+    "full_name": "iyashjayesh/tokenchit",
+    "description": "Read your local AI coding agent logs and render a stat card into your repo.",
+    "url": "https://github.com/iyashjayesh/tokenchit",
+    "stars": 13,
+    "language": "TypeScript",
+    "updated_at": "2026-09-04T22:15:48Z"
+  },
+  {
+    "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "full_name": "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer",
+    "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "stars": 13,
+    "language": "Python",
+    "updated_at": "2026-09-05T01:37:57Z"
   }
 ]
