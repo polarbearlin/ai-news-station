@@ -4,27 +4,27 @@
     "full_name": "2akouwu/reverify",
     "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 942,
+    "stars": 953,
     "language": "Python",
-    "updated_at": "2026-09-06T14:48:41Z"
+    "updated_at": "2026-09-06T17:49:21Z"
   },
   {
     "name": "short-video-generator-AI",
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 580,
+    "stars": 657,
     "language": "Python",
-    "updated_at": "2026-09-06T14:57:47Z"
+    "updated_at": "2026-09-06T17:58:44Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 110,
+    "stars": 112,
     "language": null,
-    "updated_at": "2026-09-06T11:57:50Z"
+    "updated_at": "2026-09-06T17:57:24Z"
   },
   {
     "name": "remote-installer",
@@ -49,9 +49,9 @@
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 65,
+    "stars": 66,
     "language": "Go",
-    "updated_at": "2026-09-05T20:01:29Z"
+    "updated_at": "2026-09-06T15:45:14Z"
   },
   {
     "name": "paddock",
@@ -60,7 +60,7 @@
     "url": "https://github.com/truespar/paddock",
     "stars": 49,
     "language": "Rust",
-    "updated_at": "2026-09-06T14:07:50Z"
+    "updated_at": "2026-09-06T17:37:20Z"
   },
   {
     "name": "EdgeMosaic",
@@ -72,21 +72,21 @@
     "updated_at": "2026-09-05T10:56:47Z"
   },
   {
+    "name": "hanshuang-codex",
+    "full_name": "aimeoa/hanshuang-codex",
+    "description": "针对GPT 5.6,V4flash的破甲实验项目",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-09-06T16:37:39Z"
+  },
+  {
     "name": "tokenchit",
     "full_name": "iyashjayesh/tokenchit",
     "description": "Read your local AI coding agent logs and render a stat card into your repo.",
     "url": "https://github.com/iyashjayesh/tokenchit",
     "stars": 13,
     "language": "TypeScript",
-    "updated_at": "2026-09-06T09:55:04Z"
-  },
-  {
-    "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "full_name": "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer",
-    "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "stars": 13,
-    "language": "Python",
-    "updated_at": "2026-09-05T01:37:57Z"
+    "updated_at": "2026-09-06T15:35:21Z"
   }
 ]
