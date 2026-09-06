@@ -4,27 +4,27 @@
     "full_name": "2akouwu/reverify",
     "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 953,
+    "stars": 960,
     "language": "Python",
-    "updated_at": "2026-09-06T17:49:21Z"
+    "updated_at": "2026-09-06T21:38:50Z"
   },
   {
     "name": "short-video-generator-AI",
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 657,
+    "stars": 770,
     "language": "Python",
-    "updated_at": "2026-09-06T17:58:44Z"
+    "updated_at": "2026-09-06T21:57:28Z"
   },
   {
     "name": "Wonder-Pill",
     "full_name": "ara-mkr/Wonder-Pill",
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
     "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 112,
+    "stars": 115,
     "language": null,
-    "updated_at": "2026-09-06T17:57:24Z"
+    "updated_at": "2026-09-06T21:03:18Z"
   },
   {
     "name": "remote-installer",
@@ -49,9 +49,9 @@
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 66,
+    "stars": 65,
     "language": "Go",
-    "updated_at": "2026-09-06T15:45:14Z"
+    "updated_at": "2026-09-06T18:56:32Z"
   },
   {
     "name": "paddock",
@@ -76,17 +76,17 @@
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 5.6,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 20,
+    "stars": 21,
     "language": "Python",
-    "updated_at": "2026-09-06T16:37:39Z"
+    "updated_at": "2026-09-06T19:26:27Z"
   },
   {
-    "name": "tokenchit",
-    "full_name": "iyashjayesh/tokenchit",
-    "description": "Read your local AI coding agent logs and render a stat card into your repo.",
-    "url": "https://github.com/iyashjayesh/tokenchit",
-    "stars": 13,
-    "language": "TypeScript",
-    "updated_at": "2026-09-06T15:35:21Z"
+    "name": "photoshop-plugin-nano-banana",
+    "full_name": "Soldereadivider/photoshop-plugin-nano-banana",
+    "description": null,
+    "url": "https://github.com/Soldereadivider/photoshop-plugin-nano-banana",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-09-06T20:12:54Z"
   }
 ]
