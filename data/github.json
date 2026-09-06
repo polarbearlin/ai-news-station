@@ -4,18 +4,18 @@
     "full_name": "2akouwu/reverify",
     "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
-    "stars": 924,
+    "stars": 926,
     "language": "Python",
-    "updated_at": "2026-09-06T02:54:18Z"
+    "updated_at": "2026-09-06T07:31:44Z"
   },
   {
     "name": "short-video-generator-AI",
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 275,
+    "stars": 391,
     "language": "Python",
-    "updated_at": "2026-09-06T03:13:34Z"
+    "updated_at": "2026-09-06T08:18:57Z"
   },
   {
     "name": "Wonder-Pill",
@@ -31,9 +31,9 @@
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 91,
+    "stars": 93,
     "language": "Rust",
-    "updated_at": "2026-09-06T01:34:59Z"
+    "updated_at": "2026-09-06T06:52:37Z"
   },
   {
     "name": "subpool",
