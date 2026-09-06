@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-05 21:56:31",
+  "generated_at": "2026-09-06 03:14:13",
   "news": [
     {
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
       "source": "Hacker News",
-      "time": "2026-09-05 20:02",
-      "score": 78,
-      "comments": 40
+      "time": "2026-09-06 01:52",
+      "score": 38,
+      "comments": 12
     },
     {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "source": "Hacker News",
-      "time": "2026-09-05 13:31",
-      "score": 94,
-      "comments": 10
+      "time": "2026-09-05 23:39",
+      "score": 111,
+      "comments": 8
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "source": "Hacker News",
       "time": "2026-09-04 11:54",
-      "score": 2045,
-      "comments": 1494
+      "score": 2131,
+      "comments": 1525
     }
   ]
 }
