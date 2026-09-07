@@ -1,57 +1,30 @@
 [
   {
-    "name": "reverify",
-    "full_name": "2akouwu/reverify",
-    "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-    "url": "https://github.com/2akouwu/reverify",
-    "stars": 960,
-    "language": "Python",
-    "updated_at": "2026-09-06T21:38:50Z"
-  },
-  {
     "name": "short-video-generator-AI",
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 770,
+    "stars": 947,
     "language": "Python",
-    "updated_at": "2026-09-06T21:57:28Z"
-  },
-  {
-    "name": "Wonder-Pill",
-    "full_name": "ara-mkr/Wonder-Pill",
-    "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
-    "url": "https://github.com/ara-mkr/Wonder-Pill",
-    "stars": 115,
-    "language": null,
-    "updated_at": "2026-09-06T21:03:18Z"
+    "updated_at": "2026-09-07T03:11:27Z"
   },
   {
     "name": "remote-installer",
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 93,
+    "stars": 95,
     "language": "Rust",
-    "updated_at": "2026-09-06T13:35:27Z"
-  },
-  {
-    "name": "Atlas-geoguessr-bot",
-    "full_name": "Sven233333/Atlas-geoguessr-bot",
-    "description": "GeoGuessr cheat, hack and auto guess bot. ATLAS reads the street view on your screen and names the location in about three seconds. Around 81 percent country accuracy in real games, 111 countries. Windows, Steam, Chrome, Firefox, macOS, iPhone and Android on one licence key.",
-    "url": "https://github.com/Sven233333/Atlas-geoguessr-bot",
-    "stars": 76,
-    "language": "JavaScript",
-    "updated_at": "2026-09-06T14:01:48Z"
+    "updated_at": "2026-09-07T02:23:15Z"
   },
   {
     "name": "subpool",
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 65,
+    "stars": 66,
     "language": "Go",
-    "updated_at": "2026-09-06T18:56:32Z"
+    "updated_at": "2026-09-07T01:27:42Z"
   },
   {
     "name": "paddock",
@@ -63,6 +36,15 @@
     "updated_at": "2026-09-06T17:37:20Z"
   },
   {
+    "name": "hanshuang-codex",
+    "full_name": "aimeoa/hanshuang-codex",
+    "description": "针对GPT 5.6,V4flash的破甲实验项目",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "stars": 30,
+    "language": "Python",
+    "updated_at": "2026-09-07T02:15:58Z"
+  },
+  {
     "name": "EdgeMosaic",
     "full_name": "michailfragkiskos/EdgeMosaic",
     "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
@@ -72,15 +54,6 @@
     "updated_at": "2026-09-05T10:56:47Z"
   },
   {
-    "name": "hanshuang-codex",
-    "full_name": "aimeoa/hanshuang-codex",
-    "description": "针对GPT 5.6,V4flash的破甲实验项目",
-    "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 21,
-    "language": "Python",
-    "updated_at": "2026-09-06T19:26:27Z"
-  },
-  {
     "name": "photoshop-plugin-nano-banana",
     "full_name": "Soldereadivider/photoshop-plugin-nano-banana",
     "description": null,
@@ -88,5 +61,32 @@
     "stars": 21,
     "language": null,
     "updated_at": "2026-09-06T20:12:54Z"
+  },
+  {
+    "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "full_name": "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer",
+    "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "stars": 13,
+    "language": "HTML",
+    "updated_at": "2026-09-06T23:06:54Z"
+  },
+  {
+    "name": "tokenchit",
+    "full_name": "iyashjayesh/tokenchit",
+    "description": "Read your local AI coding agent logs and render a stat card into your repo.",
+    "url": "https://github.com/iyashjayesh/tokenchit",
+    "stars": 13,
+    "language": "TypeScript",
+    "updated_at": "2026-09-06T15:35:21Z"
+  },
+  {
+    "name": "roadmap",
+    "full_name": "Wyrcan-io/roadmap",
+    "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
+    "url": "https://github.com/Wyrcan-io/roadmap",
+    "stars": 12,
+    "language": "HTML",
+    "updated_at": "2026-09-06T17:54:33Z"
   }
 ]
