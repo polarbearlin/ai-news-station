@@ -4,18 +4,18 @@
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 1116,
+    "stars": 1147,
     "language": "Python",
-    "updated_at": "2026-09-07T08:56:10Z"
+    "updated_at": "2026-09-07T17:09:02Z"
   },
   {
     "name": "remote-installer",
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 95,
+    "stars": 96,
     "language": "Rust",
-    "updated_at": "2026-09-07T02:23:15Z"
+    "updated_at": "2026-09-07T17:16:15Z"
   },
   {
     "name": "subpool",
@@ -24,25 +24,25 @@
     "url": "https://github.com/gesta-run/subpool",
     "stars": 68,
     "language": "Go",
-    "updated_at": "2026-09-07T07:35:34Z"
+    "updated_at": "2026-09-07T13:53:21Z"
   },
   {
     "name": "paddock",
     "full_name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 51,
+    "stars": 59,
     "language": "Rust",
-    "updated_at": "2026-09-07T08:55:21Z"
+    "updated_at": "2026-09-07T13:41:14Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 5.6,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 32,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-09-07T08:29:31Z"
+    "updated_at": "2026-09-07T16:07:25Z"
   },
   {
     "name": "EdgeMosaic",
@@ -52,15 +52,6 @@
     "stars": 28,
     "language": "Python",
     "updated_at": "2026-09-05T10:56:47Z"
-  },
-  {
-    "name": "photoshop-plugin-nano-banana",
-    "full_name": "Soldereadivider/photoshop-plugin-nano-banana",
-    "description": null,
-    "url": "https://github.com/Soldereadivider/photoshop-plugin-nano-banana",
-    "stars": 21,
-    "language": null,
-    "updated_at": "2026-09-06T20:12:54Z"
   },
   {
     "name": "tokenchit",
@@ -81,12 +72,21 @@
     "updated_at": "2026-09-07T03:40:47Z"
   },
   {
-    "name": "roadmap",
-    "full_name": "Wyrcan-io/roadmap",
-    "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
-    "url": "https://github.com/Wyrcan-io/roadmap",
+    "name": "Vortex",
+    "full_name": "Delinor-Hens/Vortex",
+    "description": "ИИ под названием Vortex для любых задач. Сейчас уже доступна рабочая версия проекта, которая ежедневно улучшается",
+    "url": "https://github.com/Delinor-Hens/Vortex",
     "stars": 12,
-    "language": "HTML",
-    "updated_at": "2026-09-06T17:54:33Z"
+    "language": "C++",
+    "updated_at": "2026-09-07T17:15:25Z"
+  },
+  {
+    "name": "x-automation",
+    "full_name": "HuberTRoy/x-automation",
+    "description": "AI-powered X automation for posting, replying, reposting, and engagement workflows via CDP.",
+    "url": "https://github.com/HuberTRoy/x-automation",
+    "stars": 12,
+    "language": "JavaScript",
+    "updated_at": "2026-09-07T14:01:03Z"
   }
 ]
