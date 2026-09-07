@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-09-07 17:21:30",
+  "generated_at": "2026-09-07 22:32:49",
   "news": [
     {
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
       "source": "Hacker News",
-      "time": "2026-09-07 13:00",
-      "score": 379,
-      "comments": 152
+      "time": "2026-09-05 11:25",
+      "score": 93,
+      "comments": 20
+    },
+    {
+      "title": "The smallest edge AI device for local LLMs",
+      "url": "https://tiiny.ai/",
+      "source": "Hacker News",
+      "time": "2026-09-07 21:09",
+      "score": 17,
+      "comments": 6
     }
   ]
 }

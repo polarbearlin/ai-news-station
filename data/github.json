@@ -4,18 +4,18 @@
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 1147,
+    "stars": 1165,
     "language": "Python",
-    "updated_at": "2026-09-07T17:09:02Z"
+    "updated_at": "2026-09-07T22:23:19Z"
   },
   {
     "name": "remote-installer",
     "full_name": "icodesign/remote-installer",
     "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
     "url": "https://github.com/icodesign/remote-installer",
-    "stars": 96,
+    "stars": 97,
     "language": "Rust",
-    "updated_at": "2026-09-07T17:16:15Z"
+    "updated_at": "2026-09-07T17:33:23Z"
   },
   {
     "name": "subpool",
@@ -31,9 +31,9 @@
     "full_name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 59,
+    "stars": 62,
     "language": "Rust",
-    "updated_at": "2026-09-07T13:41:14Z"
+    "updated_at": "2026-09-07T21:24:57Z"
   },
   {
     "name": "hanshuang-codex",
@@ -54,39 +54,39 @@
     "updated_at": "2026-09-05T10:56:47Z"
   },
   {
+    "name": "remedi",
+    "full_name": "sreenidhbonagiri/remedi",
+    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "url": "https://github.com/sreenidhbonagiri/remedi",
+    "stars": 22,
+    "language": "Python",
+    "updated_at": "2026-09-07T22:04:29Z"
+  },
+  {
     "name": "tokenchit",
     "full_name": "iyashjayesh/tokenchit",
     "description": "Read your local AI coding agent logs and render a stat card into your repo.",
     "url": "https://github.com/iyashjayesh/tokenchit",
-    "stars": 14,
+    "stars": 15,
     "language": "TypeScript",
-    "updated_at": "2026-09-07T07:30:24Z"
-  },
-  {
-    "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "full_name": "JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer",
-    "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-    "stars": 13,
-    "language": "HTML",
-    "updated_at": "2026-09-07T03:40:47Z"
+    "updated_at": "2026-09-07T17:39:12Z"
   },
   {
     "name": "Vortex",
     "full_name": "Delinor-Hens/Vortex",
     "description": "ИИ под названием Vortex для любых задач. Сейчас уже доступна рабочая версия проекта, которая ежедневно улучшается",
     "url": "https://github.com/Delinor-Hens/Vortex",
-    "stars": 12,
+    "stars": 14,
     "language": "C++",
-    "updated_at": "2026-09-07T17:15:25Z"
+    "updated_at": "2026-09-07T20:05:57Z"
   },
   {
-    "name": "x-automation",
-    "full_name": "HuberTRoy/x-automation",
-    "description": "AI-powered X automation for posting, replying, reposting, and engagement workflows via CDP.",
-    "url": "https://github.com/HuberTRoy/x-automation",
-    "stars": 12,
-    "language": "JavaScript",
-    "updated_at": "2026-09-07T14:01:03Z"
+    "name": "ENZO",
+    "full_name": "theguysudo/ENZO",
+    "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+    "url": "https://github.com/theguysudo/ENZO",
+    "stars": 14,
+    "language": "TypeScript",
+    "updated_at": "2026-09-07T18:54:34Z"
   }
 ]
