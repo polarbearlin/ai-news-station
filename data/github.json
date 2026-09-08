@@ -4,9 +4,9 @@
     "full_name": "pierrenade/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "stars": 1165,
+    "stars": 1183,
     "language": "Python",
-    "updated_at": "2026-09-07T22:23:19Z"
+    "updated_at": "2026-09-08T03:13:12Z"
   },
   {
     "name": "remote-installer",
@@ -22,27 +22,27 @@
     "full_name": "gesta-run/subpool",
     "description": "  A lightweight, self-hosted AI subscription pool for teams.",
     "url": "https://github.com/gesta-run/subpool",
-    "stars": 68,
+    "stars": 69,
     "language": "Go",
-    "updated_at": "2026-09-07T13:53:21Z"
+    "updated_at": "2026-09-08T02:29:41Z"
   },
   {
     "name": "paddock",
     "full_name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 62,
+    "stars": 63,
     "language": "Rust",
-    "updated_at": "2026-09-07T21:24:57Z"
+    "updated_at": "2026-09-08T02:28:37Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 5.6,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 38,
+    "stars": 39,
     "language": "Python",
-    "updated_at": "2026-09-07T16:07:25Z"
+    "updated_at": "2026-09-08T02:44:05Z"
   },
   {
     "name": "EdgeMosaic",
@@ -58,9 +58,9 @@
     "full_name": "sreenidhbonagiri/remedi",
     "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
     "url": "https://github.com/sreenidhbonagiri/remedi",
-    "stars": 22,
+    "stars": 24,
     "language": "Python",
-    "updated_at": "2026-09-07T22:04:29Z"
+    "updated_at": "2026-09-08T01:01:04Z"
   },
   {
     "name": "tokenchit",
@@ -72,6 +72,15 @@
     "updated_at": "2026-09-07T17:39:12Z"
   },
   {
+    "name": "ENZO",
+    "full_name": "theguysudo/ENZO",
+    "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+    "url": "https://github.com/theguysudo/ENZO",
+    "stars": 15,
+    "language": "TypeScript",
+    "updated_at": "2026-09-08T00:22:55Z"
+  },
+  {
     "name": "Vortex",
     "full_name": "Delinor-Hens/Vortex",
     "description": "ИИ под названием Vortex для любых задач. Сейчас уже доступна рабочая версия проекта, которая ежедневно улучшается",
@@ -79,14 +88,5 @@
     "stars": 14,
     "language": "C++",
     "updated_at": "2026-09-07T20:05:57Z"
-  },
-  {
-    "name": "ENZO",
-    "full_name": "theguysudo/ENZO",
-    "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
-    "url": "https://github.com/theguysudo/ENZO",
-    "stars": 14,
-    "language": "TypeScript",
-    "updated_at": "2026-09-07T18:54:34Z"
   }
 ]
