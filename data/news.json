@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-09-08 03:20:38",
+  "generated_at": "2026-09-08 08:38:34",
   "news": [
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "source": "Hacker News",
-      "time": "2026-09-05 11:25",
-      "score": 167,
-      "comments": 35
+      "time": "2026-09-08 05:06",
+      "score": 374,
+      "comments": 233
+    },
+    {
+      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+      "source": "Hacker News",
+      "time": "2026-09-08 06:39",
+      "score": 15,
+      "comments": 7
+    },
+    {
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "Hacker News",
+      "time": "2026-09-08 05:20",
+      "score": 36,
+      "comments": 25
+    },
+    {
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "source": "Hacker News",
+      "time": "2026-09-08 01:57",
+      "score": 100,
+      "comments": 39
     }
   ]
 }
