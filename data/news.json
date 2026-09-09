@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-09-09 03:23:54",
+  "generated_at": "2026-09-09 08:41:46",
   "news": [
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "source": "Hacker News",
+      "time": "2026-09-09 07:22",
+      "score": 31,
+      "comments": 6
+    },
     {
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
       "source": "Hacker News",
       "time": "2026-09-08 19:25",
-      "score": 357,
-      "comments": 366
+      "score": 492,
+      "comments": 526
     },
     {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
       "source": "Hacker News",
-      "time": "2026-09-08 21:00",
-      "score": 199,
-      "comments": 134
+      "time": "2026-09-03 07:29",
+      "score": 112,
+      "comments": 22
+    },
+    {
+      "title": "AI Has a Discovery Problem",
+      "url": "https://mhacevedo.com/posts/the-discovery-problem",
+      "source": "Hacker News",
+      "time": "2026-09-09 04:59",
+      "score": 44,
+      "comments": 18
     }
   ]
 }
