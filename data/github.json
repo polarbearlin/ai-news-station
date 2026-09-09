@@ -4,63 +4,81 @@
     "full_name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 73,
+    "stars": 75,
     "language": "Rust",
-    "updated_at": "2026-09-09T03:24:55Z"
-  },
-  {
-    "name": "refund-anything-ai-prompt",
-    "full_name": "paveldevyatov/refund-anything-ai-prompt",
-    "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
-    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 58,
-    "language": null,
-    "updated_at": "2026-09-09T08:39:26Z"
+    "updated_at": "2026-09-09T15:25:49Z"
   },
   {
     "name": "short-video-generator-AI",
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 54,
+    "stars": 74,
     "language": "Python",
-    "updated_at": "2026-09-09T08:32:19Z"
+    "updated_at": "2026-09-09T15:19:05Z"
+  },
+  {
+    "name": "refund-anything-ai-prompt",
+    "full_name": "paveldevyatov/refund-anything-ai-prompt",
+    "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "stars": 64,
+    "language": null,
+    "updated_at": "2026-09-09T12:35:47Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 5.6,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 48,
+    "stars": 56,
     "language": "Python",
-    "updated_at": "2026-09-09T07:59:46Z"
-  },
-  {
-    "name": "remedi",
-    "full_name": "sreenidhbonagiri/remedi",
-    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
-    "url": "https://github.com/sreenidhbonagiri/remedi",
-    "stars": 29,
-    "language": "Python",
-    "updated_at": "2026-09-09T07:16:40Z"
+    "updated_at": "2026-09-09T15:50:19Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 28,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-09-09T08:18:27Z"
+    "updated_at": "2026-09-09T15:29:36Z"
   },
   {
-    "name": "EdgeMosaic",
-    "full_name": "michailfragkiskos/EdgeMosaic",
-    "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
-    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 25,
+    "name": "remedi",
+    "full_name": "sreenidhbonagiri/remedi",
+    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "url": "https://github.com/sreenidhbonagiri/remedi",
+    "stars": 30,
     "language": "Python",
-    "updated_at": "2026-09-08T21:56:03Z"
+    "updated_at": "2026-09-09T09:20:46Z"
+  },
+  {
+    "name": "LifeContextOS",
+    "full_name": "EverlastingAI-Official/LifeContextOS",
+    "description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
+    "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
+    "stars": 27,
+    "language": "Python",
+    "updated_at": "2026-09-09T14:57:25Z"
+  },
+  {
+    "name": "s3-files-ai-sdk",
+    "full_name": "tomiholtz/s3-files-ai-sdk",
+    "description": "Give Vercel AI SDK agents a real persistent filesystem with Amazon S3 Files.",
+    "url": "https://github.com/tomiholtz/s3-files-ai-sdk",
+    "stars": 26,
+    "language": "Python",
+    "updated_at": "2026-09-09T14:08:50Z"
+  },
+  {
+    "name": "loopera",
+    "full_name": "Loopera-ai/loopera",
+    "description": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "url": "https://github.com/Loopera-ai/loopera",
+    "stars": 24,
+    "language": null,
+    "updated_at": "2026-09-09T15:53:35Z"
   },
   {
     "name": "brier",
@@ -70,23 +88,5 @@
     "stars": 22,
     "language": "HTML",
     "updated_at": "2026-09-08T14:59:04Z"
-  },
-  {
-    "name": "loopera",
-    "full_name": "Loopera-ai/loopera",
-    "description": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-    "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 21,
-    "language": null,
-    "updated_at": "2026-09-09T07:54:17Z"
-  },
-  {
-    "name": "ENZO",
-    "full_name": "theguysudo/ENZO",
-    "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
-    "url": "https://github.com/theguysudo/ENZO",
-    "stars": 17,
-    "language": "TypeScript",
-    "updated_at": "2026-09-08T21:57:20Z"
   }
 ]

@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-09-09 08:41:46",
+  "generated_at": "2026-09-09 16:00:50",
   "news": [
     {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "title": "Tailwind Labs is joining Shopify",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "source": "Hacker News",
-      "time": "2026-09-09 07:22",
-      "score": 31,
-      "comments": 6
+      "time": "2026-09-09 13:27",
+      "score": 409,
+      "comments": 155
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
+      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+      "url": "https://github.com/Atomburstofficial/geiger",
       "source": "Hacker News",
-      "time": "2026-09-08 19:25",
-      "score": 492,
-      "comments": 526
-    },
-    {
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "source": "Hacker News",
-      "time": "2026-09-03 07:29",
-      "score": 112,
-      "comments": 22
-    },
-    {
-      "title": "AI Has a Discovery Problem",
-      "url": "https://mhacevedo.com/posts/the-discovery-problem",
-      "source": "Hacker News",
-      "time": "2026-09-09 04:59",
-      "score": 44,
-      "comments": 18
+      "time": "2026-09-09 14:54",
+      "score": 23,
+      "comments": 12
     }
   ]
 }
