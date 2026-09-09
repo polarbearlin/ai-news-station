@@ -1,57 +1,39 @@
 [
   {
-    "name": "remote-installer",
-    "full_name": "icodesign/remote-installer",
-    "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-    "url": "https://github.com/icodesign/remote-installer",
-    "stars": 99,
-    "language": "Rust",
-    "updated_at": "2026-09-08T19:38:27Z"
-  },
-  {
     "name": "paddock",
     "full_name": "truespar/paddock",
     "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
     "url": "https://github.com/truespar/paddock",
-    "stars": 71,
+    "stars": 72,
     "language": "Rust",
-    "updated_at": "2026-09-08T18:18:42Z"
-  },
-  {
-    "name": "subpool",
-    "full_name": "gesta-run/subpool",
-    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-    "url": "https://github.com/gesta-run/subpool",
-    "stars": 70,
-    "language": "Go",
-    "updated_at": "2026-09-08T05:18:04Z"
+    "updated_at": "2026-09-08T23:15:05Z"
   },
   {
     "name": "refund-anything-ai-prompt",
     "full_name": "paveldevyatov/refund-anything-ai-prompt",
     "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
     "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 44,
+    "stars": 51,
     "language": null,
-    "updated_at": "2026-09-08T21:39:37Z"
-  },
-  {
-    "name": "hanshuang-codex",
-    "full_name": "aimeoa/hanshuang-codex",
-    "description": "针对GPT 5.6,V4flash的破甲实验项目",
-    "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 42,
-    "language": "Python",
-    "updated_at": "2026-09-08T17:39:46Z"
+    "updated_at": "2026-09-09T03:22:54Z"
   },
   {
     "name": "short-video-generator-AI",
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 32,
+    "stars": 44,
     "language": "Python",
-    "updated_at": "2026-09-08T22:07:26Z"
+    "updated_at": "2026-09-09T02:47:34Z"
+  },
+  {
+    "name": "hanshuang-codex",
+    "full_name": "aimeoa/hanshuang-codex",
+    "description": "针对GPT 5.6,V4flash的破甲实验项目",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "stars": 43,
+    "language": "Python",
+    "updated_at": "2026-09-08T23:30:06Z"
   },
   {
     "name": "remedi",
@@ -81,6 +63,15 @@
     "updated_at": "2026-09-08T14:59:04Z"
   },
   {
+    "name": "tokentab",
+    "full_name": "crwdla/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/crwdla/tokentab",
+    "stars": 17,
+    "language": "Python",
+    "updated_at": "2026-09-09T02:54:06Z"
+  },
+  {
     "name": "ENZO",
     "full_name": "theguysudo/ENZO",
     "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
@@ -88,5 +79,14 @@
     "stars": 17,
     "language": "TypeScript",
     "updated_at": "2026-09-08T21:57:20Z"
+  },
+  {
+    "name": "loopera",
+    "full_name": "Loopera-ai/loopera",
+    "description": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "url": "https://github.com/Loopera-ai/loopera",
+    "stars": 16,
+    "language": null,
+    "updated_at": "2026-09-09T02:36:44Z"
   }
 ]
