@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-09-10 18:58:16",
+  "generated_at": "2026-09-10 22:17:28",
   "news": [
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "url": "https://cognition.com/blog/swe-2",
       "source": "Hacker News",
       "time": "2026-09-10 15:29",
-      "score": 177,
-      "comments": 91
+      "score": 317,
+      "comments": 130
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "source": "Hacker News",
       "time": "2026-09-10 06:49",
-      "score": 276,
-      "comments": 400
+      "score": 489,
+      "comments": 520
+    },
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "Hacker News",
+      "time": "2026-09-10 19:43",
+      "score": 42,
+      "comments": 35
     }
   ]
 }

@@ -13,27 +13,27 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 218,
+    "stars": 236,
     "language": "Python",
-    "updated_at": "2026-09-10T18:16:39Z"
+    "updated_at": "2026-09-10T22:07:05Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 194,
+    "stars": 215,
     "language": "Python",
-    "updated_at": "2026-09-10T18:58:10Z"
+    "updated_at": "2026-09-10T22:17:26Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 80,
+    "stars": 82,
     "language": "Python",
-    "updated_at": "2026-09-10T18:27:22Z"
+    "updated_at": "2026-09-10T19:23:59Z"
   },
   {
     "name": "refund-anything-ai-prompt",
@@ -49,9 +49,9 @@
     "full_name": "tshemsedinov/reslop",
     "description": "Interactive terminal code review git diff with intra-line highlighting",
     "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 54,
+    "stars": 56,
     "language": "JavaScript",
-    "updated_at": "2026-09-10T18:34:55Z"
+    "updated_at": "2026-09-10T20:11:00Z"
   },
   {
     "name": "ai-level-check",
