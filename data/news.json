@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-09-09 22:17:34",
+  "generated_at": "2026-09-10 03:22:30",
   "news": [
     {
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "source": "Hacker News",
       "time": "2026-09-09 13:27",
-      "score": 802,
-      "comments": 326
+      "score": 921,
+      "comments": 367
     },
     {
       "title": "AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "source": "Hacker News",
       "time": "2026-09-09 17:39",
-      "score": 316,
-      "comments": 248
+      "score": 397,
+      "comments": 317
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "source": "Hacker News",
       "time": "2026-09-09 14:37",
-      "score": 297,
-      "comments": 108
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "source": "Hacker News",
-      "time": "2026-09-09 17:24",
-      "score": 135,
-      "comments": 58
+      "score": 362,
+      "comments": 128
     }
   ]
 }
