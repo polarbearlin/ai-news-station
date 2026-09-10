@@ -13,18 +13,18 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 103,
+    "stars": 147,
     "language": "Python",
-    "updated_at": "2026-09-10T03:14:37Z"
+    "updated_at": "2026-09-10T08:41:05Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 75,
+    "stars": 112,
     "language": "Python",
-    "updated_at": "2026-09-10T03:10:12Z"
+    "updated_at": "2026-09-10T08:38:01Z"
   },
   {
     "name": "refund-anything-ai-prompt",
@@ -40,53 +40,53 @@
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 5.6,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 61,
+    "stars": 63,
     "language": "Python",
-    "updated_at": "2026-09-10T01:55:42Z"
+    "updated_at": "2026-09-10T05:56:43Z"
   },
   {
     "name": "reslop",
     "full_name": "tshemsedinov/reslop",
     "description": "Interactive terminal code review git diff with intra-line highlighting",
     "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 32,
+    "stars": 38,
     "language": "JavaScript",
-    "updated_at": "2026-09-09T23:28:52Z"
-  },
-  {
-    "name": "remedi",
-    "full_name": "sreenidhbonagiri/remedi",
-    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
-    "url": "https://github.com/sreenidhbonagiri/remedi",
-    "stars": 29,
-    "language": "Python",
-    "updated_at": "2026-09-09T20:11:51Z"
-  },
-  {
-    "name": "LifeContextOS",
-    "full_name": "EverlastingAI-Official/LifeContextOS",
-    "description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
-    "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
-    "stars": 28,
-    "language": "Python",
-    "updated_at": "2026-09-10T00:50:20Z"
-  },
-  {
-    "name": "s3-files-ai-sdk",
-    "full_name": "tomiholtz/s3-files-ai-sdk",
-    "description": "Give Vercel AI SDK agents a real persistent filesystem with Amazon S3 Files.",
-    "url": "https://github.com/tomiholtz/s3-files-ai-sdk",
-    "stars": 26,
-    "language": "Python",
-    "updated_at": "2026-09-09T14:08:50Z"
+    "updated_at": "2026-09-10T08:28:21Z"
   },
   {
     "name": "ai-level-check",
     "full_name": "Raymondhou0917/ai-level-check",
     "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
     "url": "https://github.com/Raymondhou0917/ai-level-check",
-    "stars": 26,
+    "stars": 33,
     "language": "Python",
-    "updated_at": "2026-09-09T23:38:12Z"
+    "updated_at": "2026-09-10T07:17:26Z"
+  },
+  {
+    "name": "LifeContextOS",
+    "full_name": "EverlastingAI-Official/LifeContextOS",
+    "description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
+    "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
+    "stars": 29,
+    "language": "Python",
+    "updated_at": "2026-09-10T03:45:58Z"
+  },
+  {
+    "name": "s3-files-ai-sdk",
+    "full_name": "tomiholtz/s3-files-ai-sdk",
+    "description": "Give Vercel AI SDK agents a real persistent filesystem with Amazon S3 Files.",
+    "url": "https://github.com/tomiholtz/s3-files-ai-sdk",
+    "stars": 28,
+    "language": "Python",
+    "updated_at": "2026-09-10T05:42:41Z"
+  },
+  {
+    "name": "remedi",
+    "full_name": "sreenidhbonagiri/remedi",
+    "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "url": "https://github.com/sreenidhbonagiri/remedi",
+    "stars": 28,
+    "language": "Python",
+    "updated_at": "2026-09-10T06:01:05Z"
   }
 ]

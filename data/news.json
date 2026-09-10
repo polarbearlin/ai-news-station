@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-10 03:22:30",
+  "generated_at": "2026-09-10 08:41:10",
   "news": [
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "source": "Hacker News",
+      "time": "2026-09-10 06:11",
+      "score": 216,
+      "comments": 75
+    },
     {
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "source": "Hacker News",
       "time": "2026-09-09 13:27",
-      "score": 921,
-      "comments": 367
-    },
-    {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "source": "Hacker News",
-      "time": "2026-09-09 17:39",
-      "score": 397,
-      "comments": 317
+      "score": 1015,
+      "comments": 389
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "source": "Hacker News",
       "time": "2026-09-09 14:37",
-      "score": 362,
-      "comments": 128
+      "score": 412,
+      "comments": 134
     }
   ]
 }
