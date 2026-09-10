@@ -13,54 +13,54 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 203,
+    "stars": 218,
     "language": "Python",
-    "updated_at": "2026-09-10T15:48:17Z"
+    "updated_at": "2026-09-10T18:16:39Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 174,
+    "stars": 194,
     "language": "Python",
-    "updated_at": "2026-09-10T15:30:27Z"
+    "updated_at": "2026-09-10T18:58:10Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 71,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-09-10T15:39:52Z"
+    "updated_at": "2026-09-10T18:27:22Z"
   },
   {
     "name": "refund-anything-ai-prompt",
     "full_name": "paveldevyatov/refund-anything-ai-prompt",
     "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
     "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 69,
+    "stars": 70,
     "language": null,
-    "updated_at": "2026-09-10T13:45:38Z"
+    "updated_at": "2026-09-10T16:25:22Z"
   },
   {
     "name": "reslop",
     "full_name": "tshemsedinov/reslop",
     "description": "Interactive terminal code review git diff with intra-line highlighting",
     "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 51,
+    "stars": 54,
     "language": "JavaScript",
-    "updated_at": "2026-09-10T15:50:07Z"
+    "updated_at": "2026-09-10T18:34:55Z"
   },
   {
     "name": "ai-level-check",
     "full_name": "Raymondhou0917/ai-level-check",
     "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
     "url": "https://github.com/Raymondhou0917/ai-level-check",
-    "stars": 35,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-09-10T13:38:31Z"
+    "updated_at": "2026-09-10T16:11:18Z"
   },
   {
     "name": "LifeContextOS",
