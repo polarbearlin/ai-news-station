@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-11 08:38:09",
+  "generated_at": "2026-09-11 15:57:46",
   "news": [
     {
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "source": "Hacker News",
-      "time": "2026-09-10 19:43",
-      "score": 247,
-      "comments": 138
+      "time": "2026-09-11 11:17",
+      "score": 296,
+      "comments": 231
     },
     {
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
       "source": "Hacker News",
-      "time": "2026-09-11 04:52",
-      "score": 41,
-      "comments": 29
+      "time": "2026-09-10 22:33",
+      "score": 10,
+      "comments": 1
     }
   ]
 }
