@@ -13,27 +13,27 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 236,
+    "stars": 276,
     "language": "Python",
-    "updated_at": "2026-09-10T22:07:05Z"
+    "updated_at": "2026-09-11T03:18:24Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 215,
+    "stars": 264,
     "language": "Python",
-    "updated_at": "2026-09-10T22:17:26Z"
+    "updated_at": "2026-09-11T03:13:51Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 82,
+    "stars": 86,
     "language": "Python",
-    "updated_at": "2026-09-10T19:23:59Z"
+    "updated_at": "2026-09-11T02:51:34Z"
   },
   {
     "name": "refund-anything-ai-prompt",
@@ -49,9 +49,9 @@
     "full_name": "tshemsedinov/reslop",
     "description": "Interactive terminal code review git diff with intra-line highlighting",
     "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 56,
+    "stars": 57,
     "language": "JavaScript",
-    "updated_at": "2026-09-10T20:11:00Z"
+    "updated_at": "2026-09-11T01:45:22Z"
   },
   {
     "name": "ai-level-check",
@@ -63,30 +63,30 @@
     "updated_at": "2026-09-10T16:11:18Z"
   },
   {
-    "name": "LifeContextOS",
-    "full_name": "EverlastingAI-Official/LifeContextOS",
-    "description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
-    "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
-    "stars": 31,
-    "language": "Python",
-    "updated_at": "2026-09-10T10:25:29Z"
-  },
-  {
     "name": "remedi",
     "full_name": "sreenidhbonagiri/remedi",
     "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
     "url": "https://github.com/sreenidhbonagiri/remedi",
-    "stars": 29,
+    "stars": 32,
     "language": "Python",
-    "updated_at": "2026-09-10T12:45:48Z"
+    "updated_at": "2026-09-11T01:43:16Z"
   },
   {
-    "name": "s3-files-ai-sdk",
-    "full_name": "tomiholtz/s3-files-ai-sdk",
-    "description": "Give Vercel AI SDK agents a real persistent filesystem with Amazon S3 Files.",
-    "url": "https://github.com/tomiholtz/s3-files-ai-sdk",
-    "stars": 28,
-    "language": "Python",
-    "updated_at": "2026-09-10T05:42:41Z"
+    "name": "voice-ai-benchmarks",
+    "full_name": "gonzalo-cordova-pou/voice-ai-benchmarks",
+    "description": "A directory of benchmarks for the components and complete systems used to build voice agents.",
+    "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
+    "stars": 27,
+    "language": "TypeScript",
+    "updated_at": "2026-09-10T18:33:55Z"
+  },
+  {
+    "name": "loopera",
+    "full_name": "Loopera-ai/loopera",
+    "description": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "url": "https://github.com/Loopera-ai/loopera",
+    "stars": 26,
+    "language": null,
+    "updated_at": "2026-09-10T08:11:51Z"
   }
 ]
