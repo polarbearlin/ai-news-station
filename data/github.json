@@ -4,54 +4,63 @@
     "full_name": "yudaprasetya007/routeVSCODE",
     "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
     "url": "https://github.com/yudaprasetya007/routeVSCODE",
-    "stars": 326,
+    "stars": 327,
     "language": "JavaScript",
-    "updated_at": "2026-09-10T01:40:38Z"
+    "updated_at": "2026-09-11T05:40:46Z"
   },
   {
     "name": "short-video-generator-AI",
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 276,
+    "stars": 315,
     "language": "Python",
-    "updated_at": "2026-09-11T03:18:24Z"
+    "updated_at": "2026-09-11T08:28:41Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 264,
+    "stars": 311,
     "language": "Python",
-    "updated_at": "2026-09-11T03:13:51Z"
+    "updated_at": "2026-09-11T08:16:37Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 86,
+    "stars": 94,
     "language": "Python",
-    "updated_at": "2026-09-11T02:51:34Z"
+    "updated_at": "2026-09-11T07:20:29Z"
   },
   {
     "name": "refund-anything-ai-prompt",
     "full_name": "paveldevyatov/refund-anything-ai-prompt",
     "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
     "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 70,
+    "stars": 71,
     "language": null,
-    "updated_at": "2026-09-10T16:25:22Z"
+    "updated_at": "2026-09-11T08:09:27Z"
   },
   {
     "name": "reslop",
     "full_name": "tshemsedinov/reslop",
     "description": "Interactive terminal code review git diff with intra-line highlighting",
     "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 57,
+    "stars": 62,
     "language": "JavaScript",
-    "updated_at": "2026-09-11T01:45:22Z"
+    "updated_at": "2026-09-11T07:45:14Z"
+  },
+  {
+    "name": "loopera",
+    "full_name": "Loopera-ai/loopera",
+    "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "url": "https://github.com/Loopera-ai/loopera",
+    "stars": 42,
+    "language": null,
+    "updated_at": "2026-09-11T08:24:59Z"
   },
   {
     "name": "ai-level-check",
@@ -69,24 +78,15 @@
     "url": "https://github.com/sreenidhbonagiri/remedi",
     "stars": 32,
     "language": "Python",
-    "updated_at": "2026-09-11T01:43:16Z"
+    "updated_at": "2026-09-11T08:04:10Z"
   },
   {
     "name": "voice-ai-benchmarks",
     "full_name": "gonzalo-cordova-pou/voice-ai-benchmarks",
     "description": "A directory of benchmarks for the components and complete systems used to build voice agents.",
     "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
-    "stars": 27,
+    "stars": 28,
     "language": "TypeScript",
-    "updated_at": "2026-09-10T18:33:55Z"
-  },
-  {
-    "name": "loopera",
-    "full_name": "Loopera-ai/loopera",
-    "description": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-    "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 26,
-    "language": null,
-    "updated_at": "2026-09-10T08:11:51Z"
+    "updated_at": "2026-09-11T04:03:35Z"
   }
 ]

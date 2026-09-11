@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-09-11 03:19:00",
+  "generated_at": "2026-09-11 08:38:09",
   "news": [
-    {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "source": "Hacker News",
-      "time": "2026-09-10 06:49",
-      "score": 721,
-      "comments": 664
-    },
     {
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "source": "Hacker News",
       "time": "2026-09-10 19:43",
-      "score": 160,
-      "comments": 101
+      "score": 247,
+      "comments": 138
     },
     {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "title": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
       "source": "Hacker News",
-      "time": "2026-09-10 23:10",
-      "score": 51,
-      "comments": 28
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "source": "Hacker News",
-      "time": "2026-09-10 15:29",
-      "score": 363,
-      "comments": 154
+      "time": "2026-09-11 04:52",
+      "score": 41,
+      "comments": 29
     }
   ]
 }
