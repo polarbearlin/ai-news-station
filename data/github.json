@@ -4,18 +4,18 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 383,
+    "stars": 423,
     "language": "Python",
-    "updated_at": "2026-09-11T15:56:01Z"
+    "updated_at": "2026-09-11T18:43:15Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 359,
+    "stars": 384,
     "language": "Python",
-    "updated_at": "2026-09-11T15:51:26Z"
+    "updated_at": "2026-09-11T18:41:02Z"
   },
   {
     "name": "routeVSCODE",
@@ -31,9 +31,36 @@
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 99,
+    "stars": 102,
     "language": "Python",
-    "updated_at": "2026-09-11T15:46:35Z"
+    "updated_at": "2026-09-11T18:50:02Z"
+  },
+  {
+    "name": "tracecrate",
+    "full_name": "FankChen/tracecrate",
+    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+    "url": "https://github.com/FankChen/tracecrate",
+    "stars": 82,
+    "language": "TypeScript",
+    "updated_at": "2026-09-11T18:50:01Z"
+  },
+  {
+    "name": "loopera",
+    "full_name": "Loopera-ai/loopera",
+    "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "url": "https://github.com/Loopera-ai/loopera",
+    "stars": 77,
+    "language": null,
+    "updated_at": "2026-09-11T18:14:48Z"
+  },
+  {
+    "name": "reslop",
+    "full_name": "tshemsedinov/reslop",
+    "description": "Interactive terminal code review git diff with intra-line highlighting",
+    "url": "https://github.com/tshemsedinov/reslop",
+    "stars": 73,
+    "language": "JavaScript",
+    "updated_at": "2026-09-11T16:34:34Z"
   },
   {
     "name": "refund-anything-ai-prompt",
@@ -45,48 +72,21 @@
     "updated_at": "2026-09-11T14:32:50Z"
   },
   {
-    "name": "loopera",
-    "full_name": "Loopera-ai/loopera",
-    "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-    "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 72,
-    "language": null,
-    "updated_at": "2026-09-11T15:56:07Z"
-  },
-  {
-    "name": "reslop",
-    "full_name": "tshemsedinov/reslop",
-    "description": "Interactive terminal code review git diff with intra-line highlighting",
-    "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 72,
-    "language": "JavaScript",
-    "updated_at": "2026-09-11T15:26:25Z"
-  },
-  {
-    "name": "tracecrate",
-    "full_name": "FankChen/tracecrate",
-    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-    "url": "https://github.com/FankChen/tracecrate",
+    "name": "rune",
+    "full_name": "unstablebuild/rune",
+    "description": "the development environment for pros",
+    "url": "https://github.com/unstablebuild/rune",
     "stars": 68,
-    "language": "TypeScript",
-    "updated_at": "2026-09-11T15:47:40Z"
+    "language": "Go",
+    "updated_at": "2026-09-11T19:05:25Z"
   },
   {
     "name": "brier",
     "full_name": "Noisyxl/brier",
     "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
     "url": "https://github.com/Noisyxl/brier",
-    "stars": 46,
+    "stars": 63,
     "language": "HTML",
-    "updated_at": "2026-09-11T15:30:54Z"
-  },
-  {
-    "name": "ai-level-check",
-    "full_name": "Raymondhou0917/ai-level-check",
-    "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
-    "url": "https://github.com/Raymondhou0917/ai-level-check",
-    "stars": 38,
-    "language": "Python",
-    "updated_at": "2026-09-11T14:34:51Z"
+    "updated_at": "2026-09-11T19:02:26Z"
   }
 ]

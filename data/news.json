@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-09-11 15:57:46",
+  "generated_at": "2026-09-11 19:05:44",
   "news": [
     {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
       "source": "Hacker News",
-      "time": "2026-09-11 11:17",
-      "score": 296,
-      "comments": 231
+      "time": "2026-09-11 18:10",
+      "score": 21,
+      "comments": 4
     },
     {
-      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
-      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
       "source": "Hacker News",
-      "time": "2026-09-10 22:33",
-      "score": 10,
-      "comments": 1
+      "time": "2026-09-11 17:45",
+      "score": 27,
+      "comments": 121
+    },
+    {
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "Hacker News",
+      "time": "2026-09-11 10:48",
+      "score": 408,
+      "comments": 472
+    },
+    {
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "url": "https://www.getzep.com/careers/",
+      "source": "Hacker News",
+      "time": "2026-09-11 17:00",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
