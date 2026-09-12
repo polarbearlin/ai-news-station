@@ -4,18 +4,18 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 475,
+    "stars": 518,
     "language": "Python",
-    "updated_at": "2026-09-12T03:22:41Z"
+    "updated_at": "2026-09-12T08:23:33Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 441,
+    "stars": 459,
     "language": "Python",
-    "updated_at": "2026-09-12T03:16:22Z"
+    "updated_at": "2026-09-12T08:15:28Z"
   },
   {
     "name": "routeVSCODE",
@@ -31,62 +31,62 @@
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 226,
+    "stars": 272,
     "language": "Go",
-    "updated_at": "2026-09-12T03:23:18Z"
+    "updated_at": "2026-09-12T08:15:08Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 106,
+    "stars": 111,
     "language": "Python",
-    "updated_at": "2026-09-12T01:47:24Z"
+    "updated_at": "2026-09-12T07:39:27Z"
   },
   {
     "name": "tracecrate",
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 102,
+    "stars": 105,
     "language": "TypeScript",
-    "updated_at": "2026-09-12T01:09:05Z"
+    "updated_at": "2026-09-12T04:43:41Z"
   },
   {
     "name": "loopera",
     "full_name": "Loopera-ai/loopera",
     "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
     "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 80,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-09-12T00:49:45Z"
-  },
-  {
-    "name": "reslop",
-    "full_name": "tshemsedinov/reslop",
-    "description": "Interactive terminal code review git diff with intra-line highlighting",
-    "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 74,
-    "language": "JavaScript",
-    "updated_at": "2026-09-12T02:15:45Z"
-  },
-  {
-    "name": "refund-anything-ai-prompt",
-    "full_name": "paveldevyatov/refund-anything-ai-prompt",
-    "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
-    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 74,
-    "language": null,
-    "updated_at": "2026-09-12T01:45:09Z"
+    "updated_at": "2026-09-12T08:06:46Z"
   },
   {
     "name": "brier",
     "full_name": "Noisyxl/brier",
     "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
     "url": "https://github.com/Noisyxl/brier",
-    "stars": 72,
+    "stars": 81,
     "language": "HTML",
-    "updated_at": "2026-09-12T01:38:55Z"
+    "updated_at": "2026-09-12T08:21:30Z"
+  },
+  {
+    "name": "reslop",
+    "full_name": "tshemsedinov/reslop",
+    "description": "Interactive terminal code review git diff with intra-line highlighting",
+    "url": "https://github.com/tshemsedinov/reslop",
+    "stars": 75,
+    "language": "JavaScript",
+    "updated_at": "2026-09-12T06:49:41Z"
+  },
+  {
+    "name": "refund-anything-ai-prompt",
+    "full_name": "paveldevyatov/refund-anything-ai-prompt",
+    "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "stars": 75,
+    "language": null,
+    "updated_at": "2026-09-12T06:01:49Z"
   }
 ]
