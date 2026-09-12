@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-12 18:08:54",
+  "generated_at": "2026-09-12 21:57:22",
   "news": [
     {
       "title": "Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "source": "Hacker News",
       "time": "2026-09-12 15:08",
-      "score": 173,
-      "comments": 147
+      "score": 307,
+      "comments": 209
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "Hacker News",
+      "time": "2026-09-12 20:25",
+      "score": 30,
+      "comments": 16
     },
     {
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
       "source": "Hacker News",
       "time": "2026-09-10 15:31",
-      "score": 39,
-      "comments": 107
-    },
-    {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "source": "Hacker News",
-      "time": "2026-09-12 13:56",
-      "score": 52,
-      "comments": 7
+      "score": 333,
+      "comments": 284
     }
   ]
 }
