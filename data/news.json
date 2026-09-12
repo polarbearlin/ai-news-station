@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-09-12 15:06:13",
+  "generated_at": "2026-09-12 18:08:54",
   "news": [
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News",
+      "time": "2026-09-12 15:08",
+      "score": 173,
+      "comments": 147
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "source": "Hacker News",
+      "time": "2026-09-10 15:31",
+      "score": 39,
+      "comments": 107
+    },
     {
       "title": "A Mathematical Framework for Transformer Circuits (2021)",
       "url": "https://transformer-circuits.pub/2021/framework/index.html",
       "source": "Hacker News",
       "time": "2026-09-12 13:56",
-      "score": 21,
-      "comments": 3
-    },
-    {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "source": "Hacker News",
-      "time": "2026-09-12 07:54",
-      "score": 158,
-      "comments": 18
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "source": "Hacker News",
-      "time": "2026-09-11 17:45",
-      "score": 1073,
-      "comments": 1031
-    },
-    {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "source": "Hacker News",
-      "time": "2026-09-12 11:13",
-      "score": 58,
-      "comments": 29
+      "score": 52,
+      "comments": 7
     }
   ]
 }
