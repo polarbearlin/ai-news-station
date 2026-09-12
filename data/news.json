@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-09-11 22:16:58",
+  "generated_at": "2026-09-12 03:24:08",
   "news": [
     {
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "source": "Hacker News",
       "time": "2026-09-11 17:45",
-      "score": 444,
-      "comments": 506
+      "score": 715,
+      "comments": 740
     },
     {
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "source": "Hacker News",
       "time": "2026-09-09 13:59",
-      "score": 57,
-      "comments": 8
+      "score": 177,
+      "comments": 37
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "Hacker News",
+      "time": "2026-09-11 23:17",
+      "score": 422,
+      "comments": 244
+    },
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "Hacker News",
+      "time": "2026-09-11 21:35",
+      "score": 62,
+      "comments": 48
     },
     {
       "title": "Litelm: LiteLLM Without the Bloat",
       "url": "https://github.com/kennethwolters/litelm",
       "source": "Hacker News",
       "time": "2026-09-11 18:10",
-      "score": 72,
-      "comments": 26
+      "score": 106,
+      "comments": 39
     }
   ]
 }

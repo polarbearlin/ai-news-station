@@ -4,18 +4,18 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 446,
+    "stars": 475,
     "language": "Python",
-    "updated_at": "2026-09-11T22:14:25Z"
+    "updated_at": "2026-09-12T03:22:41Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 411,
+    "stars": 441,
     "language": "Python",
-    "updated_at": "2026-09-11T22:05:16Z"
+    "updated_at": "2026-09-12T03:16:22Z"
   },
   {
     "name": "routeVSCODE",
@@ -31,62 +31,62 @@
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 158,
+    "stars": 226,
     "language": "Go",
-    "updated_at": "2026-09-11T22:14:22Z"
+    "updated_at": "2026-09-12T03:23:18Z"
   },
   {
     "name": "hanshuang-codex",
     "full_name": "aimeoa/hanshuang-codex",
     "description": "针对GPT 6.0,V4flash的破甲实验项目",
     "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 102,
+    "stars": 106,
     "language": "Python",
-    "updated_at": "2026-09-11T18:50:02Z"
+    "updated_at": "2026-09-12T01:47:24Z"
   },
   {
     "name": "tracecrate",
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 93,
+    "stars": 102,
     "language": "TypeScript",
-    "updated_at": "2026-09-11T22:08:50Z"
+    "updated_at": "2026-09-12T01:09:05Z"
   },
   {
     "name": "loopera",
     "full_name": "Loopera-ai/loopera",
     "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
     "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 78,
+    "stars": 80,
     "language": null,
-    "updated_at": "2026-09-11T20:34:08Z"
+    "updated_at": "2026-09-12T00:49:45Z"
   },
   {
     "name": "reslop",
     "full_name": "tshemsedinov/reslop",
     "description": "Interactive terminal code review git diff with intra-line highlighting",
     "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 73,
+    "stars": 74,
     "language": "JavaScript",
-    "updated_at": "2026-09-11T19:32:26Z"
+    "updated_at": "2026-09-12T02:15:45Z"
   },
   {
     "name": "refund-anything-ai-prompt",
     "full_name": "paveldevyatov/refund-anything-ai-prompt",
     "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
     "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 73,
+    "stars": 74,
     "language": null,
-    "updated_at": "2026-09-11T14:32:50Z"
+    "updated_at": "2026-09-12T01:45:09Z"
   },
   {
     "name": "brier",
     "full_name": "Noisyxl/brier",
     "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
     "url": "https://github.com/Noisyxl/brier",
-    "stars": 66,
+    "stars": 72,
     "language": "HTML",
-    "updated_at": "2026-09-11T20:48:56Z"
+    "updated_at": "2026-09-12T01:38:55Z"
   }
 ]
