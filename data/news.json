@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-09-12 08:23:53",
+  "generated_at": "2026-09-12 15:06:13",
   "news": [
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "source": "Hacker News",
+      "time": "2026-09-12 13:56",
+      "score": 21,
+      "comments": 3
+    },
     {
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
       "url": "https://eiln.github.io/posts/ane.html",
       "source": "Hacker News",
       "time": "2026-09-12 07:54",
-      "score": 17,
-      "comments": 0
+      "score": 158,
+      "comments": 18
     },
     {
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "source": "Hacker News",
       "time": "2026-09-11 17:45",
-      "score": 867,
-      "comments": 847
+      "score": 1073,
+      "comments": 1031
     },
     {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
       "source": "Hacker News",
-      "time": "2026-09-09 13:59",
-      "score": 266,
-      "comments": 64
+      "time": "2026-09-12 11:13",
+      "score": 58,
+      "comments": 29
     }
   ]
 }
