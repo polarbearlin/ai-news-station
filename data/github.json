@@ -4,54 +4,54 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 619,
+    "stars": 662,
     "language": "Python",
-    "updated_at": "2026-09-12T21:48:57Z"
+    "updated_at": "2026-09-13T03:29:46Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 542,
+    "stars": 571,
     "language": "Python",
-    "updated_at": "2026-09-12T21:56:54Z"
+    "updated_at": "2026-09-13T03:03:37Z"
   },
   {
     "name": "rune",
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 378,
+    "stars": 396,
     "language": "Go",
-    "updated_at": "2026-09-12T21:54:55Z"
+    "updated_at": "2026-09-13T02:26:02Z"
   },
   {
     "name": "routeVSCODE",
     "full_name": "yudaprasetya007/routeVSCODE",
     "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
     "url": "https://github.com/yudaprasetya007/routeVSCODE",
-    "stars": 327,
+    "stars": 238,
     "language": "JavaScript",
-    "updated_at": "2026-09-11T05:40:46Z"
+    "updated_at": "2026-09-13T01:47:30Z"
   },
   {
     "name": "ai-data-extractor",
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 149,
+    "stars": 188,
     "language": "Python",
-    "updated_at": "2026-09-12T21:41:51Z"
+    "updated_at": "2026-09-13T03:29:41Z"
   },
   {
-    "name": "hanshuang-codex",
-    "full_name": "aimeoa/hanshuang-codex",
-    "description": "针对GPT 6.0,V4flash的破甲实验项目",
-    "url": "https://github.com/aimeoa/hanshuang-codex",
-    "stars": 124,
-    "language": "Python",
-    "updated_at": "2026-09-12T17:28:37Z"
+    "name": "loopera",
+    "full_name": "Loopera-ai/loopera",
+    "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "url": "https://github.com/Loopera-ai/loopera",
+    "stars": 117,
+    "language": null,
+    "updated_at": "2026-09-12T23:31:55Z"
   },
   {
     "name": "tracecrate",
@@ -63,30 +63,30 @@
     "updated_at": "2026-09-12T21:18:33Z"
   },
   {
-    "name": "loopera",
-    "full_name": "Loopera-ai/loopera",
-    "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-    "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 109,
+    "name": "refund-anything-ai-prompt",
+    "full_name": "paveldevyatov/refund-anything-ai-prompt",
+    "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "stars": 76,
     "language": null,
-    "updated_at": "2026-09-12T21:55:28Z"
+    "updated_at": "2026-09-12T13:13:33Z"
   },
   {
-    "name": "brier",
-    "full_name": "Noisyxl/brier",
-    "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
-    "url": "https://github.com/Noisyxl/brier",
-    "stars": 92,
-    "language": "HTML",
-    "updated_at": "2026-09-12T20:10:25Z"
-  },
-  {
-    "name": "reslop",
-    "full_name": "tshemsedinov/reslop",
-    "description": "👁️ Review AI generated code and plan changes",
-    "url": "https://github.com/tshemsedinov/reslop",
-    "stars": 85,
+    "name": "Baize",
+    "full_name": "Xu123-Bob/Baize",
+    "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
+    "url": "https://github.com/Xu123-Bob/Baize",
+    "stars": 67,
     "language": "JavaScript",
-    "updated_at": "2026-09-12T21:33:19Z"
+    "updated_at": "2026-09-12T17:44:11Z"
+  },
+  {
+    "name": "ai-level-check",
+    "full_name": "Raymondhou0917/ai-level-check",
+    "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
+    "url": "https://github.com/Raymondhou0917/ai-level-check",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-09-12T16:48:21Z"
   }
 ]
