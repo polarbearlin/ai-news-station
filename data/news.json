@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-09-13 15:42:30",
+  "generated_at": "2026-09-13 18:33:41",
   "news": [
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "source": "Hacker News",
-      "time": "2026-09-13 01:22",
-      "score": 432,
-      "comments": 502
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "source": "Hacker News",
-      "time": "2026-09-12 23:43",
-      "score": 37,
-      "comments": 11
+      "time": "2026-09-13 16:52",
+      "score": 103,
+      "comments": 66
     }
   ]
 }
