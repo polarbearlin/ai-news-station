@@ -4,27 +4,36 @@
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 662,
+    "stars": 714,
     "language": "Python",
-    "updated_at": "2026-09-13T03:29:46Z"
+    "updated_at": "2026-09-13T12:41:17Z"
   },
   {
     "name": "tokentab",
     "full_name": "crwdla/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
     "url": "https://github.com/crwdla/tokentab",
-    "stars": 571,
+    "stars": 711,
     "language": "Python",
-    "updated_at": "2026-09-13T03:03:37Z"
+    "updated_at": "2026-09-13T15:39:45Z"
   },
   {
     "name": "rune",
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 396,
+    "stars": 431,
     "language": "Go",
-    "updated_at": "2026-09-13T02:26:02Z"
+    "updated_at": "2026-09-13T14:54:32Z"
+  },
+  {
+    "name": "ai-data-extractor",
+    "full_name": "kruzovic7/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "stars": 291,
+    "language": "Python",
+    "updated_at": "2026-09-13T15:39:34Z"
   },
   {
     "name": "routeVSCODE",
@@ -36,49 +45,40 @@
     "updated_at": "2026-09-13T01:47:30Z"
   },
   {
-    "name": "ai-data-extractor",
-    "full_name": "kruzovic7/ai-data-extractor",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 188,
-    "language": "Python",
-    "updated_at": "2026-09-13T03:29:41Z"
-  },
-  {
     "name": "loopera",
     "full_name": "Loopera-ai/loopera",
     "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
     "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 117,
+    "stars": 138,
     "language": null,
-    "updated_at": "2026-09-12T23:31:55Z"
+    "updated_at": "2026-09-13T15:30:05Z"
   },
   {
     "name": "tracecrate",
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 111,
+    "stars": 115,
     "language": "TypeScript",
-    "updated_at": "2026-09-12T21:18:33Z"
+    "updated_at": "2026-09-13T13:44:17Z"
   },
   {
     "name": "refund-anything-ai-prompt",
     "full_name": "paveldevyatov/refund-anything-ai-prompt",
     "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
     "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 76,
+    "stars": 78,
     "language": null,
-    "updated_at": "2026-09-12T13:13:33Z"
+    "updated_at": "2026-09-13T15:27:04Z"
   },
   {
     "name": "Baize",
     "full_name": "Xu123-Bob/Baize",
     "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
     "url": "https://github.com/Xu123-Bob/Baize",
-    "stars": 67,
+    "stars": 68,
     "language": "JavaScript",
-    "updated_at": "2026-09-12T17:44:11Z"
+    "updated_at": "2026-09-13T14:52:16Z"
   },
   {
     "name": "ai-level-check",
@@ -87,6 +87,6 @@
     "url": "https://github.com/Raymondhou0917/ai-level-check",
     "stars": 39,
     "language": "Python",
-    "updated_at": "2026-09-12T16:48:21Z"
+    "updated_at": "2026-09-13T03:45:41Z"
   }
 ]
