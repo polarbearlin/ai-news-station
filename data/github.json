@@ -1,39 +1,30 @@
 [
   {
-    "name": "tokentab",
-    "full_name": "crwdla/tokentab",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/crwdla/tokentab",
-    "stars": 803,
-    "language": "Python",
-    "updated_at": "2026-09-13T22:07:54Z"
-  },
-  {
     "name": "short-video-generator-AI",
     "full_name": "Colafornia/short-video-generator-AI",
     "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "url": "https://github.com/Colafornia/short-video-generator-AI",
-    "stars": 718,
+    "stars": 722,
     "language": "Python",
-    "updated_at": "2026-09-13T21:24:52Z"
+    "updated_at": "2026-09-14T03:18:16Z"
   },
   {
     "name": "rune",
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 454,
+    "stars": 472,
     "language": "Go",
-    "updated_at": "2026-09-13T22:04:37Z"
+    "updated_at": "2026-09-14T02:54:43Z"
   },
   {
     "name": "ai-data-extractor",
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 356,
+    "stars": 428,
     "language": "Python",
-    "updated_at": "2026-09-13T22:08:01Z"
+    "updated_at": "2026-09-14T03:36:42Z"
   },
   {
     "name": "routeVSCODE",
@@ -49,9 +40,9 @@
     "full_name": "Loopera-ai/loopera",
     "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
     "url": "https://github.com/Loopera-ai/loopera",
-    "stars": 148,
+    "stars": 151,
     "language": null,
-    "updated_at": "2026-09-13T20:25:27Z"
+    "updated_at": "2026-09-14T02:43:10Z"
   },
   {
     "name": "tracecrate",
@@ -88,5 +79,14 @@
     "stars": 39,
     "language": "Python",
     "updated_at": "2026-09-13T03:45:41Z"
+  },
+  {
+    "name": "sharp",
+    "full_name": "tshmieldev/sharp",
+    "description": "Control your social media feed, not the other way around.",
+    "url": "https://github.com/tshmieldev/sharp",
+    "stars": 23,
+    "language": "TypeScript",
+    "updated_at": "2026-09-11T23:46:08Z"
   }
 ]
