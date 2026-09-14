@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-09-14 17:48:49",
+  "generated_at": "2026-09-14 22:57:55",
   "news": [
-    {
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "source": "Hacker News",
-      "time": "2026-09-14 16:32",
-      "score": 24,
-      "comments": 5
-    },
     {
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "source": "Hacker News",
       "time": "2026-09-14 12:40",
-      "score": 166,
-      "comments": 192
+      "score": 335,
+      "comments": 289
     }
   ]
 }
