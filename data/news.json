@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-09-14 09:36:38",
+  "generated_at": "2026-09-14 17:48:49",
   "news": [
     {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
       "source": "Hacker News",
-      "time": "2026-09-14 01:02",
-      "score": 157,
-      "comments": 217
+      "time": "2026-09-14 16:32",
+      "score": 24,
+      "comments": 5
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "source": "Hacker News",
+      "time": "2026-09-14 12:40",
+      "score": 166,
+      "comments": 192
     }
   ]
 }
