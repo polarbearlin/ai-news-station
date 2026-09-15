@@ -4,18 +4,18 @@
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 816,
+    "stars": 820,
     "language": "Python",
-    "updated_at": "2026-09-15T16:22:01Z"
+    "updated_at": "2026-09-15T17:30:16Z"
   },
   {
     "name": "rune",
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 579,
+    "stars": 613,
     "language": "Go",
-    "updated_at": "2026-09-15T16:05:45Z"
+    "updated_at": "2026-09-15T22:31:06Z"
   },
   {
     "name": "routeVSCODE",
@@ -31,9 +31,9 @@
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 128,
+    "stars": 130,
     "language": "TypeScript",
-    "updated_at": "2026-09-15T12:16:12Z"
+    "updated_at": "2026-09-15T22:31:48Z"
   },
   {
     "name": "Baize",
@@ -45,13 +45,22 @@
     "updated_at": "2026-09-15T10:29:03Z"
   },
   {
+    "name": "deepseek-bypass-2026",
+    "full_name": "sam-v-hq99v4/deepseek-bypass-2026",
+    "description": "Unlock DeepSeek V3 and R1 Pro APIs with an OpenAI-compatible wrapper and rotating shared keys. Access powerful DeepSeek models with a simple API setup, flexible integration, and streamlined access for development, testing, and AI-powered applications.",
+    "url": "https://github.com/sam-v-hq99v4/deepseek-bypass-2026",
+    "stars": 44,
+    "language": "HTML",
+    "updated_at": "2026-09-15T20:26:57Z"
+  },
+  {
     "name": "agentscope-java",
     "full_name": "agentscope-java/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
     "url": "https://github.com/agentscope-java/agentscope-java",
-    "stars": 27,
+    "stars": 34,
     "language": "Java",
-    "updated_at": "2026-09-15T16:05:02Z"
+    "updated_at": "2026-09-15T20:35:52Z"
   },
   {
     "name": "medula",
@@ -69,7 +78,7 @@
     "url": "https://github.com/cn0xroot/CC-Monitor",
     "stars": 16,
     "language": "JavaScript",
-    "updated_at": "2026-09-15T15:59:23Z"
+    "updated_at": "2026-09-15T17:04:21Z"
   },
   {
     "name": "sloppy",
@@ -79,14 +88,5 @@
     "stars": 15,
     "language": "PHP",
     "updated_at": "2026-09-15T11:07:00Z"
-  },
-  {
-    "name": "tessra",
-    "full_name": "NitrusAphalion/tessra",
-    "description": "The version control system for the era of AI.",
-    "url": "https://github.com/NitrusAphalion/tessra",
-    "stars": 15,
-    "language": "Rust",
-    "updated_at": "2026-09-13T02:17:16Z"
   }
 ]
