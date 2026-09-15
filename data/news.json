@@ -1,21 +1,4 @@
 {
-  "generated_at": "2026-09-15 03:41:09",
-  "news": [
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "source": "Hacker News",
-      "time": "2026-09-14 14:29",
-      "score": 52,
-      "comments": 16
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "source": "Hacker News",
-      "time": "2026-09-14 12:40",
-      "score": 391,
-      "comments": 331
-    }
-  ]
+  "generated_at": "2026-09-15 09:13:46",
+  "news": []
 }
