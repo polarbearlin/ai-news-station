@@ -4,18 +4,18 @@
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 823,
+    "stars": 825,
     "language": "Python",
-    "updated_at": "2026-09-16T02:52:12Z"
+    "updated_at": "2026-09-16T12:38:10Z"
   },
   {
     "name": "rune",
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 679,
+    "stars": 719,
     "language": "Go",
-    "updated_at": "2026-09-16T09:00:58Z"
+    "updated_at": "2026-09-16T15:53:52Z"
   },
   {
     "name": "routeVSCODE",
@@ -33,25 +33,25 @@
     "url": "https://github.com/FankChen/tracecrate",
     "stars": 131,
     "language": "TypeScript",
-    "updated_at": "2026-09-16T07:57:28Z"
+    "updated_at": "2026-09-16T13:30:55Z"
   },
   {
     "name": "Baize",
     "full_name": "Xu123-Bob/Baize",
     "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
     "url": "https://github.com/Xu123-Bob/Baize",
-    "stars": 70,
+    "stars": 71,
     "language": "JavaScript",
-    "updated_at": "2026-09-16T03:13:23Z"
+    "updated_at": "2026-09-16T15:41:50Z"
   },
   {
     "name": "agentscope-java",
     "full_name": "agentscope-java/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
     "url": "https://github.com/agentscope-java/agentscope-java",
-    "stars": 30,
+    "stars": 31,
     "language": "Java",
-    "updated_at": "2026-09-16T09:03:13Z"
+    "updated_at": "2026-09-16T09:41:29Z"
   },
   {
     "name": "medula",
@@ -60,33 +60,33 @@
     "url": "https://github.com/posva/medula",
     "stars": 23,
     "language": "TypeScript",
-    "updated_at": "2026-09-16T08:52:17Z"
+    "updated_at": "2026-09-16T14:19:10Z"
   },
   {
     "name": "CC-Monitor",
     "full_name": "cn0xroot/CC-Monitor",
     "description": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
     "url": "https://github.com/cn0xroot/CC-Monitor",
-    "stars": 19,
+    "stars": 22,
     "language": "JavaScript",
-    "updated_at": "2026-09-16T08:36:22Z"
+    "updated_at": "2026-09-16T15:02:15Z"
+  },
+  {
+    "name": "cachebeat",
+    "full_name": "ARahim3/cachebeat",
+    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
+    "url": "https://github.com/ARahim3/cachebeat",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-09-16T15:23:34Z"
   },
   {
     "name": "sloppy",
     "full_name": "Heyosseus/sloppy",
     "description": "Laravel-aware static analysis for the debt AI coding agents leave behind. 24 rules, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations, agent rulesets and an MCP server. Deterministic, local, no LLM.",
     "url": "https://github.com/Heyosseus/sloppy",
-    "stars": 16,
+    "stars": 17,
     "language": "PHP",
-    "updated_at": "2026-09-16T02:32:26Z"
-  },
-  {
-    "name": "hk",
-    "full_name": "harshitkhandelwal208/hk",
-    "description": "HK is a unified neural model format and framework built in native Zig, designed to replace SafeTensors, GGUF, and PyTorch checkpoints. Features zero-copy mmap loading, dual-mode quantization, 2:4 hardware sparsity, live model expansion, and 137+ architecture support with bindings for Python, Rust, Go, C#, Java, and TypeScript.",
-    "url": "https://github.com/harshitkhandelwal208/hk",
-    "stars": 16,
-    "language": "Python",
-    "updated_at": "2026-09-16T07:31:50Z"
+    "updated_at": "2026-09-16T11:19:20Z"
   }
 ]
