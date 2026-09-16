@@ -13,9 +13,9 @@
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 719,
+    "stars": 746,
     "language": "Go",
-    "updated_at": "2026-09-16T15:53:52Z"
+    "updated_at": "2026-09-16T22:11:32Z"
   },
   {
     "name": "routeVSCODE",
@@ -31,9 +31,9 @@
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 131,
+    "stars": 133,
     "language": "TypeScript",
-    "updated_at": "2026-09-16T13:30:55Z"
+    "updated_at": "2026-09-16T22:18:20Z"
   },
   {
     "name": "Baize",
@@ -54,6 +54,15 @@
     "updated_at": "2026-09-16T09:41:29Z"
   },
   {
+    "name": "cachebeat",
+    "full_name": "ARahim3/cachebeat",
+    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
+    "url": "https://github.com/ARahim3/cachebeat",
+    "stars": 25,
+    "language": null,
+    "updated_at": "2026-09-16T21:13:32Z"
+  },
+  {
     "name": "medula",
     "full_name": "posva/medula",
     "description": "🧬 control your app from inside it",
@@ -72,21 +81,12 @@
     "updated_at": "2026-09-16T15:02:15Z"
   },
   {
-    "name": "cachebeat",
-    "full_name": "ARahim3/cachebeat",
-    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
-    "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 21,
-    "language": null,
-    "updated_at": "2026-09-16T15:23:34Z"
-  },
-  {
-    "name": "sloppy",
-    "full_name": "Heyosseus/sloppy",
-    "description": "Laravel-aware static analysis for the debt AI coding agents leave behind. 24 rules, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations, agent rulesets and an MCP server. Deterministic, local, no LLM.",
-    "url": "https://github.com/Heyosseus/sloppy",
+    "name": "loki",
+    "full_name": "wundercorp/loki",
+    "description": "The agent that evolves with you 𖤍",
+    "url": "https://github.com/wundercorp/loki",
     "stars": 17,
-    "language": "PHP",
-    "updated_at": "2026-09-16T11:19:20Z"
+    "language": "Python",
+    "updated_at": "2026-09-16T22:08:14Z"
   }
 ]
