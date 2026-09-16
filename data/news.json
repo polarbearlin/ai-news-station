@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-09-15 22:43:34",
-  "news": []
+  "generated_at": "2026-09-16 03:38:11",
+  "news": [
+    {
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "source": "Hacker News",
+      "time": "2026-09-16 02:25",
+      "score": 27,
+      "comments": 13
+    }
+  ]
 }

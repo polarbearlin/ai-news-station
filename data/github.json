@@ -4,18 +4,18 @@
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 820,
+    "stars": 823,
     "language": "Python",
-    "updated_at": "2026-09-15T17:30:16Z"
+    "updated_at": "2026-09-16T02:52:12Z"
   },
   {
     "name": "rune",
     "full_name": "unstablebuild/rune",
     "description": "the development environment for pros",
     "url": "https://github.com/unstablebuild/rune",
-    "stars": 613,
+    "stars": 639,
     "language": "Go",
-    "updated_at": "2026-09-15T22:31:06Z"
+    "updated_at": "2026-09-16T03:19:11Z"
   },
   {
     "name": "routeVSCODE",
@@ -42,7 +42,7 @@
     "url": "https://github.com/Xu123-Bob/Baize",
     "stars": 70,
     "language": "JavaScript",
-    "updated_at": "2026-09-15T10:29:03Z"
+    "updated_at": "2026-09-16T03:13:23Z"
   },
   {
     "name": "deepseek-bypass-2026",
@@ -58,9 +58,9 @@
     "full_name": "agentscope-java/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
     "url": "https://github.com/agentscope-java/agentscope-java",
-    "stars": 34,
+    "stars": 37,
     "language": "Java",
-    "updated_at": "2026-09-15T20:35:52Z"
+    "updated_at": "2026-09-16T03:26:14Z"
   },
   {
     "name": "medula",
@@ -72,21 +72,21 @@
     "updated_at": "2026-09-15T16:13:30Z"
   },
   {
+    "name": "sloppy",
+    "full_name": "Heyosseus/sloppy",
+    "description": "Laravel-aware static analysis for the debt AI coding agents leave behind. 24 rules, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations, agent rulesets and an MCP server. Deterministic, local, no LLM.",
+    "url": "https://github.com/Heyosseus/sloppy",
+    "stars": 16,
+    "language": "PHP",
+    "updated_at": "2026-09-16T02:32:26Z"
+  },
+  {
     "name": "CC-Monitor",
     "full_name": "cn0xroot/CC-Monitor",
     "description": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
     "url": "https://github.com/cn0xroot/CC-Monitor",
     "stars": 16,
     "language": "JavaScript",
-    "updated_at": "2026-09-15T17:04:21Z"
-  },
-  {
-    "name": "sloppy",
-    "full_name": "Heyosseus/sloppy",
-    "description": "Laravel-aware static analysis for the debt AI coding agents leave behind. 24 rules, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations, agent rulesets and an MCP server. Deterministic, local, no LLM.",
-    "url": "https://github.com/Heyosseus/sloppy",
-    "stars": 15,
-    "language": "PHP",
-    "updated_at": "2026-09-15T11:07:00Z"
+    "updated_at": "2026-09-16T01:12:22Z"
   }
 ]
