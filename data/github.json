@@ -4,9 +4,18 @@
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 828,
+    "stars": 833,
     "language": "Python",
-    "updated_at": "2026-09-17T07:23:40Z"
+    "updated_at": "2026-09-17T14:46:49Z"
+  },
+  {
+    "name": "jev-review",
+    "full_name": "devagrawal09/jev-review",
+    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "stars": 83,
+    "language": "TypeScript",
+    "updated_at": "2026-09-17T16:21:32Z"
   },
   {
     "name": "Baize",
@@ -15,25 +24,25 @@
     "url": "https://github.com/Xu123-Bob/Baize",
     "stars": 71,
     "language": "JavaScript",
-    "updated_at": "2026-09-17T09:13:40Z"
+    "updated_at": "2026-09-17T10:30:02Z"
   },
   {
-    "name": "jev-review",
-    "full_name": "devagrawal09/jev-review",
-    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-    "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 42,
-    "language": "TypeScript",
-    "updated_at": "2026-09-17T09:05:44Z"
+    "name": "templatesgrokbot.com",
+    "full_name": "templatesgrokbot/templatesgrokbot.com",
+    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
+    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "stars": 51,
+    "language": null,
+    "updated_at": "2026-09-17T14:50:48Z"
   },
   {
     "name": "cachebeat",
     "full_name": "ARahim3/cachebeat",
     "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
     "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 35,
+    "stars": 45,
     "language": null,
-    "updated_at": "2026-09-17T08:24:28Z"
+    "updated_at": "2026-09-17T16:02:47Z"
   },
   {
     "name": "agentscope-java",
@@ -45,48 +54,39 @@
     "updated_at": "2026-09-17T06:13:14Z"
   },
   {
+    "name": "runntime",
+    "full_name": "software-mansion/runntime",
+    "description": "High-performance neural networks engine for web, built on top of TypeGPU",
+    "url": "https://github.com/software-mansion/runntime",
+    "stars": 25,
+    "language": "TypeScript",
+    "updated_at": "2026-09-17T16:21:03Z"
+  },
+  {
+    "name": "ai-model-world",
+    "full_name": "liyupi/ai-model-world",
+    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "url": "https://github.com/liyupi/ai-model-world",
+    "stars": 25,
+    "language": "TypeScript",
+    "updated_at": "2026-09-17T16:12:05Z"
+  },
+  {
     "name": "medula",
     "full_name": "posva/medula",
     "description": "🧬 control your app from inside it",
     "url": "https://github.com/posva/medula",
-    "stars": 24,
+    "stars": 25,
     "language": "TypeScript",
-    "updated_at": "2026-09-17T01:48:02Z"
+    "updated_at": "2026-09-17T10:25:46Z"
   },
   {
     "name": "CC-Monitor",
     "full_name": "cn0xroot/CC-Monitor",
     "description": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
     "url": "https://github.com/cn0xroot/CC-Monitor",
-    "stars": 24,
+    "stars": 25,
     "language": "JavaScript",
-    "updated_at": "2026-09-17T09:11:32Z"
-  },
-  {
-    "name": "loki",
-    "full_name": "wundercorp/loki",
-    "description": "The agent that evolves with you 𖤍",
-    "url": "https://github.com/wundercorp/loki",
-    "stars": 17,
-    "language": "Python",
-    "updated_at": "2026-09-16T22:08:14Z"
-  },
-  {
-    "name": "hk",
-    "full_name": "harshitkhandelwal208/hk",
-    "description": "HK is a unified neural model format and framework built in native Zig, designed to replace SafeTensors, GGUF, and PyTorch checkpoints. Features zero-copy mmap loading, dual-mode quantization, 2:4 hardware sparsity, live model expansion, and 137+ architecture support with bindings for Python, Rust, Go, C#, Java, and TypeScript.",
-    "url": "https://github.com/harshitkhandelwal208/hk",
-    "stars": 17,
-    "language": "Python",
-    "updated_at": "2026-09-16T10:11:18Z"
-  },
-  {
-    "name": "alter-zero",
-    "full_name": "linuztx/alter-zero",
-    "description": "RAM efficient terminal agent harness for coding, cybersecurity, and automation.",
-    "url": "https://github.com/linuztx/alter-zero",
-    "stars": 15,
-    "language": "Rust",
-    "updated_at": "2026-09-17T05:33:55Z"
+    "updated_at": "2026-09-17T13:09:08Z"
   }
 ]
