@@ -4,36 +4,9 @@
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 825,
+    "stars": 827,
     "language": "Python",
-    "updated_at": "2026-09-16T12:38:10Z"
-  },
-  {
-    "name": "rune",
-    "full_name": "unstablebuild/rune",
-    "description": "the development environment for pros",
-    "url": "https://github.com/unstablebuild/rune",
-    "stars": 746,
-    "language": "Go",
-    "updated_at": "2026-09-16T22:11:32Z"
-  },
-  {
-    "name": "routeVSCODE",
-    "full_name": "yudaprasetya007/routeVSCODE",
-    "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-    "url": "https://github.com/yudaprasetya007/routeVSCODE",
-    "stars": 239,
-    "language": "JavaScript",
-    "updated_at": "2026-09-14T07:30:58Z"
-  },
-  {
-    "name": "tracecrate",
-    "full_name": "FankChen/tracecrate",
-    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-    "url": "https://github.com/FankChen/tracecrate",
-    "stars": 133,
-    "language": "TypeScript",
-    "updated_at": "2026-09-16T22:18:20Z"
+    "updated_at": "2026-09-17T02:08:48Z"
   },
   {
     "name": "Baize",
@@ -45,6 +18,15 @@
     "updated_at": "2026-09-16T15:41:50Z"
   },
   {
+    "name": "cachebeat",
+    "full_name": "ARahim3/cachebeat",
+    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
+    "url": "https://github.com/ARahim3/cachebeat",
+    "stars": 31,
+    "language": null,
+    "updated_at": "2026-09-17T03:29:00Z"
+  },
+  {
     "name": "agentscope-java",
     "full_name": "agentscope-java/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
@@ -54,31 +36,22 @@
     "updated_at": "2026-09-16T09:41:29Z"
   },
   {
-    "name": "cachebeat",
-    "full_name": "ARahim3/cachebeat",
-    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
-    "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 25,
-    "language": null,
-    "updated_at": "2026-09-16T21:13:32Z"
-  },
-  {
     "name": "medula",
     "full_name": "posva/medula",
     "description": "🧬 control your app from inside it",
     "url": "https://github.com/posva/medula",
-    "stars": 23,
+    "stars": 24,
     "language": "TypeScript",
-    "updated_at": "2026-09-16T14:19:10Z"
+    "updated_at": "2026-09-17T01:48:02Z"
   },
   {
     "name": "CC-Monitor",
     "full_name": "cn0xroot/CC-Monitor",
     "description": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
     "url": "https://github.com/cn0xroot/CC-Monitor",
-    "stars": 22,
+    "stars": 23,
     "language": "JavaScript",
-    "updated_at": "2026-09-16T15:02:15Z"
+    "updated_at": "2026-09-17T03:01:20Z"
   },
   {
     "name": "loki",
@@ -88,5 +61,32 @@
     "stars": 17,
     "language": "Python",
     "updated_at": "2026-09-16T22:08:14Z"
+  },
+  {
+    "name": "hk",
+    "full_name": "harshitkhandelwal208/hk",
+    "description": "HK is a unified neural model format and framework built in native Zig, designed to replace SafeTensors, GGUF, and PyTorch checkpoints. Features zero-copy mmap loading, dual-mode quantization, 2:4 hardware sparsity, live model expansion, and 137+ architecture support with bindings for Python, Rust, Go, C#, Java, and TypeScript.",
+    "url": "https://github.com/harshitkhandelwal208/hk",
+    "stars": 17,
+    "language": "Python",
+    "updated_at": "2026-09-16T10:11:18Z"
+  },
+  {
+    "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+    "full_name": "steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+    "description": "Logic-based multi-LLM voice router for Home Assistant, combining native intents, local Qwen, GPU-aware desktop Ollama, and cloud AI with intelligent fallback.",
+    "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+    "stars": 15,
+    "language": "Python",
+    "updated_at": "2026-09-17T00:26:55Z"
+  },
+  {
+    "name": "runntime",
+    "full_name": "software-mansion/runntime",
+    "description": "High-performance neural networks engine for web, built on top of TypeGPU",
+    "url": "https://github.com/software-mansion/runntime",
+    "stars": 15,
+    "language": "TypeScript",
+    "updated_at": "2026-09-17T02:29:48Z"
   }
 ]
