@@ -4,9 +4,9 @@
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 827,
+    "stars": 828,
     "language": "Python",
-    "updated_at": "2026-09-17T02:08:48Z"
+    "updated_at": "2026-09-17T07:23:40Z"
   },
   {
     "name": "Baize",
@@ -15,25 +15,34 @@
     "url": "https://github.com/Xu123-Bob/Baize",
     "stars": 71,
     "language": "JavaScript",
-    "updated_at": "2026-09-16T15:41:50Z"
+    "updated_at": "2026-09-17T09:13:40Z"
+  },
+  {
+    "name": "jev-review",
+    "full_name": "devagrawal09/jev-review",
+    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "stars": 42,
+    "language": "TypeScript",
+    "updated_at": "2026-09-17T09:05:44Z"
   },
   {
     "name": "cachebeat",
     "full_name": "ARahim3/cachebeat",
     "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
     "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 31,
+    "stars": 35,
     "language": null,
-    "updated_at": "2026-09-17T03:29:00Z"
+    "updated_at": "2026-09-17T08:24:28Z"
   },
   {
     "name": "agentscope-java",
     "full_name": "agentscope-java/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
     "url": "https://github.com/agentscope-java/agentscope-java",
-    "stars": 31,
+    "stars": 32,
     "language": "Java",
-    "updated_at": "2026-09-16T09:41:29Z"
+    "updated_at": "2026-09-17T06:13:14Z"
   },
   {
     "name": "medula",
@@ -49,9 +58,9 @@
     "full_name": "cn0xroot/CC-Monitor",
     "description": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
     "url": "https://github.com/cn0xroot/CC-Monitor",
-    "stars": 23,
+    "stars": 24,
     "language": "JavaScript",
-    "updated_at": "2026-09-17T03:01:20Z"
+    "updated_at": "2026-09-17T09:11:32Z"
   },
   {
     "name": "loki",
@@ -72,21 +81,12 @@
     "updated_at": "2026-09-16T10:11:18Z"
   },
   {
-    "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
-    "full_name": "steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
-    "description": "Logic-based multi-LLM voice router for Home Assistant, combining native intents, local Qwen, GPU-aware desktop Ollama, and cloud AI with intelligent fallback.",
-    "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+    "name": "alter-zero",
+    "full_name": "linuztx/alter-zero",
+    "description": "RAM efficient terminal agent harness for coding, cybersecurity, and automation.",
+    "url": "https://github.com/linuztx/alter-zero",
     "stars": 15,
-    "language": "Python",
-    "updated_at": "2026-09-17T00:26:55Z"
-  },
-  {
-    "name": "runntime",
-    "full_name": "software-mansion/runntime",
-    "description": "High-performance neural networks engine for web, built on top of TypeGPU",
-    "url": "https://github.com/software-mansion/runntime",
-    "stars": 15,
-    "language": "TypeScript",
-    "updated_at": "2026-09-17T02:29:48Z"
+    "language": "Rust",
+    "updated_at": "2026-09-17T05:33:55Z"
   }
 ]
