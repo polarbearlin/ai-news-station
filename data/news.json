@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-09-17 22:41:39",
+  "generated_at": "2026-09-18 03:29:08",
   "news": [
-    {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "source": "Hacker News",
-      "time": "2026-09-17 20:36",
-      "score": 182,
-      "comments": 96
-    },
     {
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
       "source": "Hacker News",
       "time": "2026-09-17 21:13",
-      "score": 84,
-      "comments": 19
+      "score": 279,
+      "comments": 86
     },
     {
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
       "source": "Hacker News",
-      "time": "2026-09-17 21:15",
-      "score": 41,
-      "comments": 8
+      "time": "2026-09-17 20:36",
+      "score": 340,
+      "comments": 172
     }
   ]
 }

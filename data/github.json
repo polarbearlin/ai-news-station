@@ -1,21 +1,12 @@
 [
   {
-    "name": "ai-data-extractor",
-    "full_name": "kruzovic7/ai-data-extractor",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "stars": 834,
-    "language": "Python",
-    "updated_at": "2026-09-17T18:28:04Z"
-  },
-  {
     "name": "jev-review",
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 151,
+    "stars": 180,
     "language": "TypeScript",
-    "updated_at": "2026-09-17T22:35:45Z"
+    "updated_at": "2026-09-18T03:01:49Z"
   },
   {
     "name": "Baize",
@@ -36,13 +27,22 @@
     "updated_at": "2026-09-17T14:50:48Z"
   },
   {
+    "name": "ai-model-world",
+    "full_name": "liyupi/ai-model-world",
+    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "url": "https://github.com/liyupi/ai-model-world",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-09-18T03:01:00Z"
+  },
+  {
     "name": "cachebeat",
     "full_name": "ARahim3/cachebeat",
     "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
     "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 46,
+    "stars": 48,
     "language": null,
-    "updated_at": "2026-09-17T22:24:34Z"
+    "updated_at": "2026-09-18T01:31:47Z"
   },
   {
     "name": "runntime",
@@ -63,22 +63,13 @@
     "updated_at": "2026-09-17T06:13:14Z"
   },
   {
-    "name": "ai-model-world",
-    "full_name": "liyupi/ai-model-world",
-    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
-    "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 29,
-    "language": "TypeScript",
-    "updated_at": "2026-09-17T19:40:28Z"
-  },
-  {
     "name": "medula",
     "full_name": "posva/medula",
     "description": "🧬 control your app from inside it",
     "url": "https://github.com/posva/medula",
-    "stars": 27,
+    "stars": 28,
     "language": "TypeScript",
-    "updated_at": "2026-09-17T21:27:19Z"
+    "updated_at": "2026-09-18T03:10:21Z"
   },
   {
     "name": "CC-Monitor",
@@ -88,5 +79,14 @@
     "stars": 25,
     "language": "JavaScript",
     "updated_at": "2026-09-17T13:09:08Z"
+  },
+  {
+    "name": "hk",
+    "full_name": "harshitkhandelwal208/hk",
+    "description": "HK is a unified neural model format and framework built in native Zig, designed to replace SafeTensors, GGUF, and PyTorch checkpoints. Features zero-copy mmap loading, dual-mode quantization, 2:4 hardware sparsity, live model expansion, and 137+ architecture support with bindings for Python, Rust, Go, C#, Java, and TypeScript.",
+    "url": "https://github.com/harshitkhandelwal208/hk",
+    "stars": 17,
+    "language": "Python",
+    "updated_at": "2026-09-16T10:11:18Z"
   }
 ]
