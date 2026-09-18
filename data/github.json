@@ -4,9 +4,9 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 180,
+    "stars": 206,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T03:01:49Z"
+    "updated_at": "2026-09-18T08:24:25Z"
   },
   {
     "name": "Baize",
@@ -18,22 +18,22 @@
     "updated_at": "2026-09-17T10:30:02Z"
   },
   {
-    "name": "templatesgrokbot.com",
-    "full_name": "templatesgrokbot/templatesgrokbot.com",
-    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
-    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
-    "stars": 51,
-    "language": null,
-    "updated_at": "2026-09-17T14:50:48Z"
-  },
-  {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 48,
+    "stars": 66,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T03:01:00Z"
+    "updated_at": "2026-09-18T08:37:01Z"
+  },
+  {
+    "name": "templatesgrokbot.com",
+    "full_name": "templatesgrokbot/templatesgrokbot.com",
+    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
+    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "stars": 50,
+    "language": null,
+    "updated_at": "2026-09-18T08:16:11Z"
   },
   {
     "name": "cachebeat",
@@ -49,15 +49,15 @@
     "full_name": "software-mansion/runntime",
     "description": "High-performance neural networks engine for web, built on top of TypeGPU",
     "url": "https://github.com/software-mansion/runntime",
-    "stars": 36,
+    "stars": 40,
     "language": "TypeScript",
-    "updated_at": "2026-09-17T22:31:10Z"
+    "updated_at": "2026-09-18T08:30:41Z"
   },
   {
     "name": "agentscope-java",
-    "full_name": "agentscope-java/agentscope-java",
+    "full_name": "dashscope-sdk/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
-    "url": "https://github.com/agentscope-java/agentscope-java",
+    "url": "https://github.com/dashscope-sdk/agentscope-java",
     "stars": 32,
     "language": "Java",
     "updated_at": "2026-09-17T06:13:14Z"
@@ -67,9 +67,9 @@
     "full_name": "posva/medula",
     "description": "🧬 control your app from inside it",
     "url": "https://github.com/posva/medula",
-    "stars": 28,
+    "stars": 29,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T03:10:21Z"
+    "updated_at": "2026-09-18T06:50:16Z"
   },
   {
     "name": "CC-Monitor",
@@ -81,12 +81,12 @@
     "updated_at": "2026-09-17T13:09:08Z"
   },
   {
-    "name": "hk",
-    "full_name": "harshitkhandelwal208/hk",
-    "description": "HK is a unified neural model format and framework built in native Zig, designed to replace SafeTensors, GGUF, and PyTorch checkpoints. Features zero-copy mmap loading, dual-mode quantization, 2:4 hardware sparsity, live model expansion, and 137+ architecture support with bindings for Python, Rust, Go, C#, Java, and TypeScript.",
-    "url": "https://github.com/harshitkhandelwal208/hk",
-    "stars": 17,
+    "name": "jev-codex-router",
+    "full_name": "0xNatoshi/jev-codex-router",
+    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "stars": 19,
     "language": "Python",
-    "updated_at": "2026-09-16T10:11:18Z"
+    "updated_at": "2026-09-18T08:29:26Z"
   }
 ]
