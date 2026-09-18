@@ -4,18 +4,27 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 241,
+    "stars": 258,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T15:53:24Z"
+    "updated_at": "2026-09-18T18:35:17Z"
   },
   {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 81,
+    "stars": 83,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T15:49:29Z"
+    "updated_at": "2026-09-18T17:50:11Z"
+  },
+  {
+    "name": "agentscope-java",
+    "full_name": "dashscope-sdk/agentscope-java",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "url": "https://github.com/dashscope-sdk/agentscope-java",
+    "stars": 74,
+    "language": "Java",
+    "updated_at": "2026-09-18T17:58:44Z"
   },
   {
     "name": "Baize",
@@ -27,22 +36,13 @@
     "updated_at": "2026-09-18T14:08:15Z"
   },
   {
-    "name": "agentscope-java",
-    "full_name": "dashscope-sdk/agentscope-java",
-    "description": "Build distributed, production-grade, long-running agents.",
-    "url": "https://github.com/dashscope-sdk/agentscope-java",
-    "stars": 60,
-    "language": "Java",
-    "updated_at": "2026-09-18T15:46:00Z"
-  },
-  {
-    "name": "templatesgrokbot.com",
-    "full_name": "templatesgrokbot/templatesgrokbot.com",
-    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
-    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
-    "stars": 52,
-    "language": null,
-    "updated_at": "2026-09-18T15:55:48Z"
+    "name": "perch",
+    "full_name": "lakeday-org/perch",
+    "description": "Semantic code linting with Jev",
+    "url": "https://github.com/lakeday-org/perch",
+    "stars": 71,
+    "language": "JavaScript",
+    "updated_at": "2026-09-18T18:49:26Z"
   },
   {
     "name": "cachebeat",
@@ -58,9 +58,18 @@
     "full_name": "software-mansion/runntime",
     "description": "High-performance neural networks engine for web, built on top of TypeGPU",
     "url": "https://github.com/software-mansion/runntime",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T12:24:13Z"
+    "updated_at": "2026-09-18T16:54:13Z"
+  },
+  {
+    "name": "templatesgrokbot.com",
+    "full_name": "templatesgrokbot/templatesgrokbot.com",
+    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
+    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "stars": 34,
+    "language": null,
+    "updated_at": "2026-09-18T16:56:51Z"
   },
   {
     "name": "medula",
@@ -72,21 +81,12 @@
     "updated_at": "2026-09-18T12:31:12Z"
   },
   {
-    "name": "CC-Monitor",
-    "full_name": "cn0xroot/CC-Monitor",
-    "description": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
-    "url": "https://github.com/cn0xroot/CC-Monitor",
-    "stars": 26,
-    "language": "JavaScript",
-    "updated_at": "2026-09-18T15:25:59Z"
-  },
-  {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 26,
+    "stars": 30,
     "language": "Python",
-    "updated_at": "2026-09-18T13:56:45Z"
+    "updated_at": "2026-09-18T18:13:25Z"
   }
 ]
