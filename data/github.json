@@ -4,27 +4,45 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 258,
+    "stars": 264,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T18:35:17Z"
+    "updated_at": "2026-09-18T22:03:27Z"
+  },
+  {
+    "name": "Superpowers_Multi_AI",
+    "full_name": "RectangleStory/Superpowers_Multi_AI",
+    "description": "⚡ Modular prompt-engineering framework for AI Agents (Cursor, Claude Code, Copilot). Forces structured SDLC, linear execution, context isolation, and systematic debugging via a standalone Windows launcher. Stop vibe coding, start agentic discipline! 🚀",
+    "url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
+    "stars": 100,
+    "language": null,
+    "updated_at": "2026-09-18T19:09:22Z"
   },
   {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 83,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T17:50:11Z"
+    "updated_at": "2026-09-18T21:18:10Z"
   },
   {
     "name": "agentscope-java",
     "full_name": "dashscope-sdk/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
     "url": "https://github.com/dashscope-sdk/agentscope-java",
-    "stars": 74,
+    "stars": 77,
     "language": "Java",
-    "updated_at": "2026-09-18T17:58:44Z"
+    "updated_at": "2026-09-18T20:14:43Z"
+  },
+  {
+    "name": "perch",
+    "full_name": "lakeday-org/perch",
+    "description": "Semantic code linting with Jev",
+    "url": "https://github.com/lakeday-org/perch",
+    "stars": 72,
+    "language": "JavaScript",
+    "updated_at": "2026-09-18T21:30:24Z"
   },
   {
     "name": "Baize",
@@ -36,22 +54,13 @@
     "updated_at": "2026-09-18T14:08:15Z"
   },
   {
-    "name": "perch",
-    "full_name": "lakeday-org/perch",
-    "description": "Semantic code linting with Jev",
-    "url": "https://github.com/lakeday-org/perch",
-    "stars": 71,
-    "language": "JavaScript",
-    "updated_at": "2026-09-18T18:49:26Z"
-  },
-  {
     "name": "cachebeat",
     "full_name": "ARahim3/cachebeat",
     "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
     "url": "https://github.com/ARahim3/cachebeat",
     "stars": 51,
     "language": null,
-    "updated_at": "2026-09-18T14:59:03Z"
+    "updated_at": "2026-09-18T21:48:10Z"
   },
   {
     "name": "runntime",
@@ -63,6 +72,15 @@
     "updated_at": "2026-09-18T16:54:13Z"
   },
   {
+    "name": "jev-codex-router",
+    "full_name": "0xNatoshi/jev-codex-router",
+    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "stars": 40,
+    "language": "Python",
+    "updated_at": "2026-09-18T22:16:53Z"
+  },
+  {
     "name": "templatesgrokbot.com",
     "full_name": "templatesgrokbot/templatesgrokbot.com",
     "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
@@ -70,23 +88,5 @@
     "stars": 34,
     "language": null,
     "updated_at": "2026-09-18T16:56:51Z"
-  },
-  {
-    "name": "medula",
-    "full_name": "posva/medula",
-    "description": "🧬 control your app from inside it",
-    "url": "https://github.com/posva/medula",
-    "stars": 30,
-    "language": "TypeScript",
-    "updated_at": "2026-09-18T12:31:12Z"
-  },
-  {
-    "name": "jev-codex-router",
-    "full_name": "0xNatoshi/jev-codex-router",
-    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
-    "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 30,
-    "language": "Python",
-    "updated_at": "2026-09-18T18:13:25Z"
   }
 ]
