@@ -1,29 +1,4 @@
 {
-  "generated_at": "2026-09-18 08:48:39",
-  "news": [
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "source": "Hacker News",
-      "time": "2026-09-17 21:13",
-      "score": 416,
-      "comments": 123
-    },
-    {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "source": "Hacker News",
-      "time": "2026-09-17 20:36",
-      "score": 445,
-      "comments": 207
-    },
-    {
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "source": "Hacker News",
-      "time": "2026-09-18 02:47",
-      "score": 339,
-      "comments": 131
-    }
-  ]
+  "generated_at": "2026-09-18 15:56:14",
+  "news": []
 }
