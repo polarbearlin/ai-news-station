@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-19 03:25:51",
+  "generated_at": "2026-09-19 08:34:57",
   "news": [
     {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "source": "Hacker News",
-      "time": "2026-09-17 21:48",
-      "score": 414,
-      "comments": 287
+      "time": "2026-09-19 05:48",
+      "score": 157,
+      "comments": 49
     },
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "source": "Hacker News",
-      "time": "2026-09-18 23:04",
-      "score": 67,
-      "comments": 62
+      "time": "2026-09-19 06:41",
+      "score": 73,
+      "comments": 32
     }
   ]
 }
