@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-19 08:34:57",
+  "generated_at": "2026-09-19 15:27:59",
   "news": [
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "time": "2026-09-19 09:20",
+      "score": 625,
+      "comments": 377
+    },
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "source": "Hacker News",
       "time": "2026-09-19 05:48",
-      "score": 157,
-      "comments": 49
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "source": "Hacker News",
-      "time": "2026-09-19 06:41",
-      "score": 73,
-      "comments": 32
+      "score": 445,
+      "comments": 168
     }
   ]
 }

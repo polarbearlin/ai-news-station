@@ -4,18 +4,36 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 289,
+    "stars": 311,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T08:03:59Z"
+    "updated_at": "2026-09-19T15:12:59Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 145,
+    "stars": 150,
     "language": "JavaScript",
-    "updated_at": "2026-09-19T08:34:55Z"
+    "updated_at": "2026-09-19T12:26:35Z"
+  },
+  {
+    "name": "agentscope-java",
+    "full_name": "dashscope-sdk/agentscope-java",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "url": "https://github.com/dashscope-sdk/agentscope-java",
+    "stars": 109,
+    "language": "Java",
+    "updated_at": "2026-09-19T10:14:58Z"
+  },
+  {
+    "name": "ai-model-world",
+    "full_name": "liyupi/ai-model-world",
+    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+    "url": "https://github.com/liyupi/ai-model-world",
+    "stars": 101,
+    "language": "TypeScript",
+    "updated_at": "2026-09-19T12:56:08Z"
   },
   {
     "name": "Superpowers_Multi_AI",
@@ -27,31 +45,13 @@
     "updated_at": "2026-09-18T19:09:22Z"
   },
   {
-    "name": "agentscope-java",
-    "full_name": "dashscope-sdk/agentscope-java",
-    "description": "Build distributed, production-grade, long-running agents.",
-    "url": "https://github.com/dashscope-sdk/agentscope-java",
-    "stars": 100,
-    "language": "Java",
-    "updated_at": "2026-09-19T08:33:59Z"
-  },
-  {
-    "name": "ai-model-world",
-    "full_name": "liyupi/ai-model-world",
-    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
-    "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 91,
-    "language": "TypeScript",
-    "updated_at": "2026-09-19T06:32:00Z"
-  },
-  {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 59,
+    "stars": 67,
     "language": "Python",
-    "updated_at": "2026-09-19T08:28:28Z"
+    "updated_at": "2026-09-19T15:18:25Z"
   },
   {
     "name": "cachebeat",
@@ -67,9 +67,18 @@
     "full_name": "software-mansion/runntime",
     "description": "High-performance neural networks engine for web, built on top of TypeGPU",
     "url": "https://github.com/software-mansion/runntime",
-    "stars": 43,
+    "stars": 44,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T16:54:13Z"
+    "updated_at": "2026-09-19T13:20:19Z"
+  },
+  {
+    "name": "agent-router",
+    "full_name": "nidhi-singh02/agent-router",
+    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
+    "url": "https://github.com/nidhi-singh02/agent-router",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-09-19T13:31:15Z"
   },
   {
     "name": "templatesgrokbot.com",
@@ -78,15 +87,6 @@
     "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
     "stars": 34,
     "language": null,
-    "updated_at": "2026-09-19T07:52:04Z"
-  },
-  {
-    "name": "agent-router",
-    "full_name": "nidhi-singh02/agent-router",
-    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
-    "url": "https://github.com/nidhi-singh02/agent-router",
-    "stars": 33,
-    "language": "TypeScript",
-    "updated_at": "2026-09-19T02:33:08Z"
+    "updated_at": "2026-09-19T14:45:07Z"
   }
 ]
