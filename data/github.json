@@ -4,36 +4,36 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 326,
+    "stars": 337,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T18:17:35Z"
+    "updated_at": "2026-09-19T21:45:36Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 153,
+    "stars": 158,
     "language": "JavaScript",
-    "updated_at": "2026-09-19T17:19:24Z"
-  },
-  {
-    "name": "agentscope-java",
-    "full_name": "dashscope-sdk/agentscope-java",
-    "description": "Build distributed, production-grade, long-running agents.",
-    "url": "https://github.com/dashscope-sdk/agentscope-java",
-    "stars": 109,
-    "language": "Java",
-    "updated_at": "2026-09-19T10:14:58Z"
+    "updated_at": "2026-09-19T22:06:51Z"
   },
   {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 106,
+    "stars": 109,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T17:26:48Z"
+    "updated_at": "2026-09-19T20:16:35Z"
+  },
+  {
+    "name": "agentscope-java",
+    "full_name": "agentscope-ai-java/agentscope-java",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "url": "https://github.com/agentscope-ai-java/agentscope-java",
+    "stars": 109,
+    "language": "Java",
+    "updated_at": "2026-09-19T21:26:45Z"
   },
   {
     "name": "Superpowers_Multi_AI",
@@ -51,7 +51,7 @@
     "url": "https://github.com/0xNatoshi/jev-codex-router",
     "stars": 69,
     "language": "Python",
-    "updated_at": "2026-09-19T17:16:30Z"
+    "updated_at": "2026-09-19T21:33:06Z"
   },
   {
     "name": "cachebeat",
@@ -72,21 +72,21 @@
     "updated_at": "2026-09-19T13:20:19Z"
   },
   {
-    "name": "agent-router",
-    "full_name": "nidhi-singh02/agent-router",
-    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
-    "url": "https://github.com/nidhi-singh02/agent-router",
-    "stars": 39,
-    "language": "TypeScript",
-    "updated_at": "2026-09-19T16:41:54Z"
-  },
-  {
     "name": "ai-engineering-interview-questions-company-wise",
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 35,
+    "stars": 41,
     "language": "Markdown",
-    "updated_at": "2026-09-19T18:24:42Z"
+    "updated_at": "2026-09-19T20:07:20Z"
+  },
+  {
+    "name": "agent-router",
+    "full_name": "nidhi-singh02/agent-router",
+    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
+    "url": "https://github.com/nidhi-singh02/agent-router",
+    "stars": 41,
+    "language": "TypeScript",
+    "updated_at": "2026-09-19T18:50:10Z"
   }
 ]
