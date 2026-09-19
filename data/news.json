@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-09-18 22:20:23",
+  "generated_at": "2026-09-19 03:25:51",
   "news": [
-    {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "source": "Hacker News",
-      "time": "2026-09-18 18:55",
-      "score": 48,
-      "comments": 10
-    },
     {
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "source": "Hacker News",
       "time": "2026-09-17 21:48",
-      "score": 333,
-      "comments": 235
+      "score": 414,
+      "comments": 287
     },
     {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "source": "Hacker News",
-      "time": "2026-09-18 00:11",
-      "score": 143,
-      "comments": 70
+      "time": "2026-09-18 23:04",
+      "score": 67,
+      "comments": 62
     }
   ]
 }

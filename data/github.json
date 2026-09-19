@@ -4,9 +4,9 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 264,
+    "stars": 278,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T22:03:27Z"
+    "updated_at": "2026-09-19T03:18:24Z"
   },
   {
     "name": "Superpowers_Multi_AI",
@@ -22,18 +22,18 @@
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 84,
+    "stars": 88,
     "language": "TypeScript",
-    "updated_at": "2026-09-18T21:18:10Z"
+    "updated_at": "2026-09-19T02:28:41Z"
   },
   {
     "name": "agentscope-java",
     "full_name": "dashscope-sdk/agentscope-java",
     "description": "Build distributed, production-grade, long-running agents.",
     "url": "https://github.com/dashscope-sdk/agentscope-java",
-    "stars": 77,
+    "stars": 87,
     "language": "Java",
-    "updated_at": "2026-09-18T20:14:43Z"
+    "updated_at": "2026-09-19T02:53:40Z"
   },
   {
     "name": "perch",
@@ -42,16 +42,7 @@
     "url": "https://github.com/lakeday-org/perch",
     "stars": 72,
     "language": "JavaScript",
-    "updated_at": "2026-09-18T21:30:24Z"
-  },
-  {
-    "name": "Baize",
-    "full_name": "Xu123-Bob/Baize",
-    "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
-    "url": "https://github.com/Xu123-Bob/Baize",
-    "stars": 72,
-    "language": "JavaScript",
-    "updated_at": "2026-09-18T14:08:15Z"
+    "updated_at": "2026-09-19T01:41:59Z"
   },
   {
     "name": "cachebeat",
@@ -63,6 +54,15 @@
     "updated_at": "2026-09-18T21:48:10Z"
   },
   {
+    "name": "jev-codex-router",
+    "full_name": "0xNatoshi/jev-codex-router",
+    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "stars": 47,
+    "language": "Python",
+    "updated_at": "2026-09-19T02:53:45Z"
+  },
+  {
     "name": "runntime",
     "full_name": "software-mansion/runntime",
     "description": "High-performance neural networks engine for web, built on top of TypeGPU",
@@ -72,15 +72,6 @@
     "updated_at": "2026-09-18T16:54:13Z"
   },
   {
-    "name": "jev-codex-router",
-    "full_name": "0xNatoshi/jev-codex-router",
-    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
-    "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 40,
-    "language": "Python",
-    "updated_at": "2026-09-18T22:16:53Z"
-  },
-  {
     "name": "templatesgrokbot.com",
     "full_name": "templatesgrokbot/templatesgrokbot.com",
     "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
@@ -88,5 +79,14 @@
     "stars": 34,
     "language": null,
     "updated_at": "2026-09-18T16:56:51Z"
+  },
+  {
+    "name": "agent-router",
+    "full_name": "nidhi-singh02/agent-router",
+    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
+    "url": "https://github.com/nidhi-singh02/agent-router",
+    "stars": 33,
+    "language": "TypeScript",
+    "updated_at": "2026-09-19T02:33:08Z"
   }
 ]
