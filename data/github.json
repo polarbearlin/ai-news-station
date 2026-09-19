@@ -4,18 +4,18 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 311,
+    "stars": 326,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T15:12:59Z"
+    "updated_at": "2026-09-19T18:17:35Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 150,
+    "stars": 153,
     "language": "JavaScript",
-    "updated_at": "2026-09-19T12:26:35Z"
+    "updated_at": "2026-09-19T17:19:24Z"
   },
   {
     "name": "agentscope-java",
@@ -31,9 +31,9 @@
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 101,
+    "stars": 106,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T12:56:08Z"
+    "updated_at": "2026-09-19T17:26:48Z"
   },
   {
     "name": "Superpowers_Multi_AI",
@@ -49,9 +49,9 @@
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 67,
+    "stars": 69,
     "language": "Python",
-    "updated_at": "2026-09-19T15:18:25Z"
+    "updated_at": "2026-09-19T17:16:30Z"
   },
   {
     "name": "cachebeat",
@@ -76,17 +76,17 @@
     "full_name": "nidhi-singh02/agent-router",
     "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
     "url": "https://github.com/nidhi-singh02/agent-router",
-    "stars": 37,
+    "stars": 39,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T13:31:15Z"
+    "updated_at": "2026-09-19T16:41:54Z"
   },
   {
-    "name": "templatesgrokbot.com",
-    "full_name": "templatesgrokbot/templatesgrokbot.com",
-    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
-    "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
-    "stars": 34,
-    "language": null,
-    "updated_at": "2026-09-19T14:45:07Z"
+    "name": "ai-engineering-interview-questions-company-wise",
+    "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "stars": 35,
+    "language": "Markdown",
+    "updated_at": "2026-09-19T18:24:42Z"
   }
 ]
