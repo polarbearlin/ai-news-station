@@ -1,39 +1,39 @@
 [
   {
-    "name": "jev-review",
-    "full_name": "devagrawal09/jev-review",
-    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-    "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 375,
-    "language": "TypeScript",
-    "updated_at": "2026-09-20T08:48:11Z"
-  },
-  {
     "name": "ai-engineering-interview-questions-company-wise",
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 258,
+    "stars": 418,
     "language": "Markdown",
-    "updated_at": "2026-09-20T09:04:33Z"
+    "updated_at": "2026-09-20T15:30:43Z"
+  },
+  {
+    "name": "jev-review",
+    "full_name": "devagrawal09/jev-review",
+    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "stars": 394,
+    "language": "TypeScript",
+    "updated_at": "2026-09-20T15:25:02Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 161,
+    "stars": 162,
     "language": "JavaScript",
-    "updated_at": "2026-09-20T03:22:33Z"
+    "updated_at": "2026-09-20T15:21:30Z"
   },
   {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 135,
+    "stars": 144,
     "language": "TypeScript",
-    "updated_at": "2026-09-20T08:44:48Z"
+    "updated_at": "2026-09-20T15:06:43Z"
   },
   {
     "name": "agentscope-java",
@@ -58,35 +58,35 @@
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 78,
+    "stars": 92,
     "language": null,
-    "updated_at": "2026-09-20T08:25:39Z"
+    "updated_at": "2026-09-20T14:45:04Z"
   },
   {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 75,
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-09-20T05:32:24Z"
+    "updated_at": "2026-09-20T13:06:31Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "AppitStudio/awesome-jev",
     "description": "Curated Jev resources and runnable examples for typed AI decisions.",
     "url": "https://github.com/AppitStudio/awesome-jev",
-    "stars": 56,
+    "stars": 61,
     "language": "Python",
-    "updated_at": "2026-09-20T09:03:59Z"
+    "updated_at": "2026-09-20T15:26:46Z"
   },
   {
-    "name": "cachebeat",
-    "full_name": "ARahim3/cachebeat",
-    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
-    "url": "https://github.com/ARahim3/cachebeat",
-    "stars": 52,
-    "language": null,
-    "updated_at": "2026-09-20T06:49:46Z"
+    "name": "jev-use",
+    "full_name": "savka777/jev-use",
+    "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
+    "url": "https://github.com/savka777/jev-use",
+    "stars": 61,
+    "language": "Swift",
+    "updated_at": "2026-09-20T15:27:49Z"
   }
 ]
