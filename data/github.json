@@ -4,27 +4,27 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 418,
+    "stars": 468,
     "language": "Markdown",
-    "updated_at": "2026-09-20T15:30:43Z"
+    "updated_at": "2026-09-20T18:19:00Z"
   },
   {
     "name": "jev-review",
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 394,
+    "stars": 402,
     "language": "TypeScript",
-    "updated_at": "2026-09-20T15:25:02Z"
+    "updated_at": "2026-09-20T18:16:23Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 162,
+    "stars": 164,
     "language": "JavaScript",
-    "updated_at": "2026-09-20T15:21:30Z"
+    "updated_at": "2026-09-20T18:29:15Z"
   },
   {
     "name": "ai-model-world",
@@ -33,7 +33,7 @@
     "url": "https://github.com/liyupi/ai-model-world",
     "stars": 144,
     "language": "TypeScript",
-    "updated_at": "2026-09-20T15:06:43Z"
+    "updated_at": "2026-09-20T16:57:19Z"
   },
   {
     "name": "agentscope-java",
@@ -58,35 +58,35 @@
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 92,
+    "stars": 98,
     "language": null,
-    "updated_at": "2026-09-20T14:45:04Z"
+    "updated_at": "2026-09-20T17:50:59Z"
   },
   {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 81,
+    "stars": 83,
     "language": "Python",
-    "updated_at": "2026-09-20T13:06:31Z"
-  },
-  {
-    "name": "awesome-jev",
-    "full_name": "AppitStudio/awesome-jev",
-    "description": "Curated Jev resources and runnable examples for typed AI decisions.",
-    "url": "https://github.com/AppitStudio/awesome-jev",
-    "stars": 61,
-    "language": "Python",
-    "updated_at": "2026-09-20T15:26:46Z"
+    "updated_at": "2026-09-20T17:32:55Z"
   },
   {
     "name": "jev-use",
     "full_name": "savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "url": "https://github.com/savka777/jev-use",
-    "stars": 61,
+    "stars": 66,
     "language": "Swift",
-    "updated_at": "2026-09-20T15:27:49Z"
+    "updated_at": "2026-09-20T18:27:57Z"
+  },
+  {
+    "name": "awesome-jev",
+    "full_name": "AppitStudio/awesome-jev",
+    "description": "Curated Jev resources and runnable examples for typed AI decisions.",
+    "url": "https://github.com/AppitStudio/awesome-jev",
+    "stars": 63,
+    "language": "Python",
+    "updated_at": "2026-09-20T18:05:36Z"
   }
 ]
