@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-20 18:30:30",
+  "generated_at": "2026-09-20 22:12:58",
   "news": [
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "source": "Hacker News",
-      "time": "2026-09-20 15:16",
-      "score": 234,
-      "comments": 80
-    },
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "source": "Hacker News",
       "time": "2026-09-20 15:18",
-      "score": 166,
-      "comments": 79
+      "score": 471,
+      "comments": 260
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "source": "Hacker News",
+      "time": "2026-09-20 15:16",
+      "score": 371,
+      "comments": 120
     }
   ]
 }

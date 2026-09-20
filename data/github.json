@@ -4,18 +4,18 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 468,
+    "stars": 498,
     "language": "Markdown",
-    "updated_at": "2026-09-20T18:19:00Z"
+    "updated_at": "2026-09-20T22:08:36Z"
   },
   {
     "name": "jev-review",
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 402,
+    "stars": 407,
     "language": "TypeScript",
-    "updated_at": "2026-09-20T18:16:23Z"
+    "updated_at": "2026-09-20T21:57:07Z"
   },
   {
     "name": "perch",
@@ -24,7 +24,7 @@
     "url": "https://github.com/lakeday-org/perch",
     "stars": 164,
     "language": "JavaScript",
-    "updated_at": "2026-09-20T18:29:15Z"
+    "updated_at": "2026-09-20T20:13:43Z"
   },
   {
     "name": "ai-model-world",
@@ -45,6 +45,15 @@
     "updated_at": "2026-09-20T03:48:57Z"
   },
   {
+    "name": "skills",
+    "full_name": "isas1/skills",
+    "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
+    "url": "https://github.com/isas1/skills",
+    "stars": 106,
+    "language": null,
+    "updated_at": "2026-09-20T21:11:07Z"
+  },
+  {
     "name": "Superpowers_Multi_AI",
     "full_name": "RectangleStory/Superpowers_Multi_AI",
     "description": "⚡ Modular prompt-engineering framework for AI Agents (Cursor, Claude Code, Copilot). Forces structured SDLC, linear execution, context isolation, and systematic debugging via a standalone Windows launcher. Stop vibe coding, start agentic discipline! 🚀",
@@ -54,39 +63,30 @@
     "updated_at": "2026-09-18T19:09:22Z"
   },
   {
-    "name": "skills",
-    "full_name": "isas1/skills",
-    "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
-    "url": "https://github.com/isas1/skills",
-    "stars": 98,
-    "language": null,
-    "updated_at": "2026-09-20T17:50:59Z"
-  },
-  {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 83,
+    "stars": 86,
     "language": "Python",
-    "updated_at": "2026-09-20T17:32:55Z"
+    "updated_at": "2026-09-20T21:08:13Z"
   },
   {
     "name": "jev-use",
     "full_name": "savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "url": "https://github.com/savka777/jev-use",
-    "stars": 66,
+    "stars": 67,
     "language": "Swift",
-    "updated_at": "2026-09-20T18:27:57Z"
+    "updated_at": "2026-09-20T21:58:27Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "AppitStudio/awesome-jev",
     "description": "Curated Jev resources and runnable examples for typed AI decisions.",
     "url": "https://github.com/AppitStudio/awesome-jev",
-    "stars": 63,
+    "stars": 64,
     "language": "Python",
-    "updated_at": "2026-09-20T18:05:36Z"
+    "updated_at": "2026-09-20T22:07:41Z"
   }
 ]
