@@ -4,27 +4,27 @@
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 337,
+    "stars": 358,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T21:45:36Z"
+    "updated_at": "2026-09-20T03:15:59Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 158,
+    "stars": 161,
     "language": "JavaScript",
-    "updated_at": "2026-09-19T22:06:51Z"
+    "updated_at": "2026-09-20T03:22:33Z"
   },
   {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 109,
+    "stars": 123,
     "language": "TypeScript",
-    "updated_at": "2026-09-19T20:16:35Z"
+    "updated_at": "2026-09-20T03:23:45Z"
   },
   {
     "name": "agentscope-java",
@@ -49,9 +49,36 @@
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 69,
+    "stars": 73,
     "language": "Python",
-    "updated_at": "2026-09-19T21:33:06Z"
+    "updated_at": "2026-09-20T03:18:29Z"
+  },
+  {
+    "name": "ai-engineering-interview-questions-company-wise",
+    "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "stars": 67,
+    "language": "Markdown",
+    "updated_at": "2026-09-20T03:39:32Z"
+  },
+  {
+    "name": "skills",
+    "full_name": "isas1/skills",
+    "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
+    "url": "https://github.com/isas1/skills",
+    "stars": 58,
+    "language": null,
+    "updated_at": "2026-09-20T03:29:45Z"
+  },
+  {
+    "name": "awesome-jev",
+    "full_name": "AppitStudio/awesome-jev",
+    "description": "Curated Jev resources and runnable examples for typed AI decisions.",
+    "url": "https://github.com/AppitStudio/awesome-jev",
+    "stars": 52,
+    "language": "Python",
+    "updated_at": "2026-09-20T03:17:32Z"
   },
   {
     "name": "cachebeat",
@@ -61,32 +88,5 @@
     "stars": 51,
     "language": null,
     "updated_at": "2026-09-18T21:48:10Z"
-  },
-  {
-    "name": "runntime",
-    "full_name": "software-mansion/runntime",
-    "description": "High-performance neural networks engine for web, built on top of TypeGPU",
-    "url": "https://github.com/software-mansion/runntime",
-    "stars": 44,
-    "language": "TypeScript",
-    "updated_at": "2026-09-19T13:20:19Z"
-  },
-  {
-    "name": "ai-engineering-interview-questions-company-wise",
-    "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 41,
-    "language": "Markdown",
-    "updated_at": "2026-09-19T20:07:20Z"
-  },
-  {
-    "name": "agent-router",
-    "full_name": "nidhi-singh02/agent-router",
-    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
-    "url": "https://github.com/nidhi-singh02/agent-router",
-    "stars": 41,
-    "language": "TypeScript",
-    "updated_at": "2026-09-19T18:50:10Z"
   }
 ]
