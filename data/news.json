@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-21 17:55:40",
+  "generated_at": "2026-09-21 23:02:06",
   "news": [
     {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "source": "Hacker News",
-      "time": "2026-09-21 13:38",
-      "score": 75,
-      "comments": 5
+      "time": "2026-09-21 19:43",
+      "score": 125,
+      "comments": 18
     },
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "source": "Hacker News",
-      "time": "2026-09-21 17:00",
-      "score": 42,
-      "comments": 21
+      "time": "2026-09-21 19:23",
+      "score": 98,
+      "comments": 88
     }
   ]
 }

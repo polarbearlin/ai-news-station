@@ -4,18 +4,27 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 593,
+    "stars": 597,
     "language": "Markdown",
-    "updated_at": "2026-09-21T17:53:29Z"
+    "updated_at": "2026-09-21T22:40:13Z"
   },
   {
     "name": "jev-review",
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 467,
+    "stars": 480,
     "language": "TypeScript",
-    "updated_at": "2026-09-21T17:41:40Z"
+    "updated_at": "2026-09-21T23:00:57Z"
+  },
+  {
+    "name": "jev-codex-router",
+    "full_name": "0xNatoshi/jev-codex-router",
+    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "stars": 170,
+    "language": "JavaScript",
+    "updated_at": "2026-09-21T22:53:46Z"
   },
   {
     "name": "perch",
@@ -24,7 +33,7 @@
     "url": "https://github.com/lakeday-org/perch",
     "stars": 167,
     "language": "JavaScript",
-    "updated_at": "2026-09-21T17:27:57Z"
+    "updated_at": "2026-09-21T22:33:05Z"
   },
   {
     "name": "ai-model-world",
@@ -33,60 +42,51 @@
     "url": "https://github.com/liyupi/ai-model-world",
     "stars": 162,
     "language": "TypeScript",
-    "updated_at": "2026-09-21T14:06:36Z"
-  },
-  {
-    "name": "jev-codex-router",
-    "full_name": "0xNatoshi/jev-codex-router",
-    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
-    "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 161,
-    "language": "Python",
-    "updated_at": "2026-09-21T17:54:52Z"
+    "updated_at": "2026-09-21T18:53:51Z"
   },
   {
     "name": "ThinkingOrbs",
     "full_name": "haplollc/ThinkingOrbs",
     "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
     "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 147,
+    "stars": 154,
     "language": "Swift",
-    "updated_at": "2026-09-21T17:53:25Z"
+    "updated_at": "2026-09-21T20:21:54Z"
   },
   {
     "name": "skills",
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 130,
+    "stars": 137,
     "language": null,
-    "updated_at": "2026-09-21T17:28:57Z"
+    "updated_at": "2026-09-21T22:31:25Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "kraayenjon/awesome-jev",
     "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
     "url": "https://github.com/kraayenjon/awesome-jev",
-    "stars": 90,
+    "stars": 92,
     "language": null,
-    "updated_at": "2026-09-21T17:52:34Z"
+    "updated_at": "2026-09-21T21:57:19Z"
   },
   {
     "name": "jev-use",
     "full_name": "savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "url": "https://github.com/savka777/jev-use",
-    "stars": 83,
+    "stars": 84,
     "language": "Swift",
-    "updated_at": "2026-09-21T16:48:43Z"
+    "updated_at": "2026-09-21T20:54:56Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "AppitStudio/awesome-jev",
     "description": "Curated Jev resources and runnable examples for typed AI decisions.",
     "url": "https://github.com/AppitStudio/awesome-jev",
-    "stars": 69,
+    "stars": 70,
     "language": "Python",
-    "updated_at": "2026-09-21T17:32:39Z"
+    "updated_at": "2026-09-21T22:45:51Z"
   }
 ]
