@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-09-21 09:39:31",
+  "generated_at": "2026-09-21 17:55:40",
   "news": [
     {
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
       "source": "Hacker News",
-      "time": "2026-09-21 04:42",
-      "score": 62,
-      "comments": 12
+      "time": "2026-09-21 13:38",
+      "score": 75,
+      "comments": 5
     },
     {
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
       "source": "Hacker News",
-      "time": "2026-09-20 23:57",
-      "score": 97,
-      "comments": 30
-    },
-    {
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "source": "Hacker News",
-      "time": "2026-09-20 06:16",
-      "score": 420,
-      "comments": 301
+      "time": "2026-09-21 17:00",
+      "score": 42,
+      "comments": 21
     }
   ]
 }
