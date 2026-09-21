@@ -4,89 +4,89 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 498,
+    "stars": 555,
     "language": "Markdown",
-    "updated_at": "2026-09-20T22:08:36Z"
+    "updated_at": "2026-09-21T03:29:58Z"
   },
   {
     "name": "jev-review",
     "full_name": "devagrawal09/jev-review",
     "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
     "url": "https://github.com/devagrawal09/jev-review",
-    "stars": 407,
+    "stars": 417,
     "language": "TypeScript",
-    "updated_at": "2026-09-20T21:57:07Z"
+    "updated_at": "2026-09-21T03:05:38Z"
   },
   {
     "name": "perch",
     "full_name": "lakeday-org/perch",
     "description": "Semantic code linting with Jev",
     "url": "https://github.com/lakeday-org/perch",
-    "stars": 164,
+    "stars": 165,
     "language": "JavaScript",
-    "updated_at": "2026-09-20T20:13:43Z"
+    "updated_at": "2026-09-21T00:00:46Z"
   },
   {
     "name": "ai-model-world",
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 144,
+    "stars": 150,
     "language": "TypeScript",
-    "updated_at": "2026-09-20T16:57:19Z"
-  },
-  {
-    "name": "agentscope-java",
-    "full_name": "agentscope-ai-java/agentscope-java",
-    "description": "Build distributed, production-grade, long-running agents.",
-    "url": "https://github.com/agentscope-ai-java/agentscope-java",
-    "stars": 108,
-    "language": "Java",
-    "updated_at": "2026-09-20T03:48:57Z"
+    "updated_at": "2026-09-21T03:28:16Z"
   },
   {
     "name": "skills",
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 106,
+    "stars": 116,
     "language": null,
-    "updated_at": "2026-09-20T21:11:07Z"
-  },
-  {
-    "name": "Superpowers_Multi_AI",
-    "full_name": "RectangleStory/Superpowers_Multi_AI",
-    "description": "⚡ Modular prompt-engineering framework for AI Agents (Cursor, Claude Code, Copilot). Forces structured SDLC, linear execution, context isolation, and systematic debugging via a standalone Windows launcher. Stop vibe coding, start agentic discipline! 🚀",
-    "url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
-    "stars": 100,
-    "language": null,
-    "updated_at": "2026-09-18T19:09:22Z"
+    "updated_at": "2026-09-21T03:14:40Z"
   },
   {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 86,
+    "stars": 96,
     "language": "Python",
-    "updated_at": "2026-09-20T21:08:13Z"
+    "updated_at": "2026-09-21T03:33:56Z"
   },
   {
     "name": "jev-use",
     "full_name": "savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "url": "https://github.com/savka777/jev-use",
-    "stars": 67,
+    "stars": 75,
     "language": "Swift",
-    "updated_at": "2026-09-20T21:58:27Z"
+    "updated_at": "2026-09-21T03:17:27Z"
+  },
+  {
+    "name": "awesome-jev",
+    "full_name": "kraayenjon/awesome-jev",
+    "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+    "url": "https://github.com/kraayenjon/awesome-jev",
+    "stars": 70,
+    "language": null,
+    "updated_at": "2026-09-21T03:09:16Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "AppitStudio/awesome-jev",
     "description": "Curated Jev resources and runnable examples for typed AI decisions.",
     "url": "https://github.com/AppitStudio/awesome-jev",
-    "stars": 64,
+    "stars": 65,
     "language": "Python",
-    "updated_at": "2026-09-20T22:07:41Z"
+    "updated_at": "2026-09-21T03:00:55Z"
+  },
+  {
+    "name": "agent-router",
+    "full_name": "nidhi-singh02/agent-router",
+    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
+    "url": "https://github.com/nidhi-singh02/agent-router",
+    "stars": 57,
+    "language": "TypeScript",
+    "updated_at": "2026-09-21T00:18:39Z"
   }
 ]
