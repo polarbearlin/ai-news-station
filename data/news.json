@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-09-22 16:23:37",
+  "generated_at": "2026-09-22 22:45:15",
   "news": [
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "source": "Hacker News",
+      "time": "2026-09-22 18:00",
+      "score": 983,
+      "comments": 531
+    },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "source": "Hacker News",
       "time": "2026-09-22 13:52",
-      "score": 243,
-      "comments": 242
-    },
-    {
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "source": "Hacker News",
-      "time": "2026-09-22 14:42",
-      "score": 94,
-      "comments": 78
-    },
-    {
-      "title": "Solitaire Alone Together",
-      "url": "https://solitairealonetogether.com/",
-      "source": "Hacker News",
-      "time": "2026-09-21 22:16",
-      "score": 34,
-      "comments": 3
+      "score": 517,
+      "comments": 350
     }
   ]
 }
