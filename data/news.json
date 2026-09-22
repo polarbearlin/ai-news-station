@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-21 23:02:06",
+  "generated_at": "2026-09-22 03:36:32",
   "news": [
     {
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
       "source": "Hacker News",
       "time": "2026-09-21 19:43",
-      "score": 125,
-      "comments": 18
+      "score": 236,
+      "comments": 39
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "source": "Hacker News",
       "time": "2026-09-21 19:23",
-      "score": 98,
-      "comments": 88
+      "score": 162,
+      "comments": 175
     }
   ]
 }
