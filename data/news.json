@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-09-23 09:06:57",
+  "generated_at": "2026-09-23 16:13:40",
   "news": [
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "source": "Hacker News",
+      "time": "2026-09-23 13:38",
+      "score": 89,
+      "comments": 43
+    },
+    {
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "source": "Hacker News",
+      "time": "2026-09-23 15:14",
+      "score": 79,
+      "comments": 58
+    },
     {
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "source": "Hacker News",
       "time": "2026-09-22 18:00",
-      "score": 1515,
-      "comments": 721
-    },
-    {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "source": "Hacker News",
-      "time": "2026-09-22 13:52",
-      "score": 655,
-      "comments": 386
+      "score": 1666,
+      "comments": 799
     }
   ]
 }

@@ -4,18 +4,36 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 630,
+    "stars": 632,
     "language": "Markdown",
-    "updated_at": "2026-09-23T08:26:59Z"
+    "updated_at": "2026-09-23T13:59:16Z"
   },
   {
     "name": "jev-codex-router",
     "full_name": "0xNatoshi/jev-codex-router",
     "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
     "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 239,
+    "stars": 247,
     "language": "JavaScript",
-    "updated_at": "2026-09-23T08:44:57Z"
+    "updated_at": "2026-09-23T15:34:25Z"
+  },
+  {
+    "name": "CodexDesk",
+    "full_name": "BinaryDeliverer/CodexDesk",
+    "description": "Desktop companion for AI coding agents and Codex workflows",
+    "url": "https://github.com/BinaryDeliverer/CodexDesk",
+    "stars": 222,
+    "language": "Rust",
+    "updated_at": "2026-09-23T12:21:06Z"
+  },
+  {
+    "name": "ClaudePanel",
+    "full_name": "AvenueSnowStep/ClaudePanel",
+    "description": "Desktop panel and toolkit for Claude and AI assistants",
+    "url": "https://github.com/AvenueSnowStep/ClaudePanel",
+    "stars": 221,
+    "language": "Rust",
+    "updated_at": "2026-09-23T12:21:12Z"
   },
   {
     "name": "ThinkingOrbs",
@@ -31,27 +49,27 @@
     "full_name": "liyupi/ai-model-world",
     "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
     "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 172,
+    "stars": 176,
     "language": "TypeScript",
-    "updated_at": "2026-09-23T07:07:35Z"
+    "updated_at": "2026-09-23T15:53:32Z"
   },
   {
     "name": "skills",
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 155,
+    "stars": 159,
     "language": null,
-    "updated_at": "2026-09-23T03:33:10Z"
+    "updated_at": "2026-09-23T13:29:05Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "kraayenjon/awesome-jev",
     "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
     "url": "https://github.com/kraayenjon/awesome-jev",
-    "stars": 114,
+    "stars": 123,
     "language": null,
-    "updated_at": "2026-09-23T05:16:09Z"
+    "updated_at": "2026-09-23T15:39:23Z"
   },
   {
     "name": "jev-use",
@@ -69,24 +87,6 @@
     "url": "https://github.com/AppitStudio/awesome-jev",
     "stars": 81,
     "language": "Python",
-    "updated_at": "2026-09-23T08:14:47Z"
-  },
-  {
-    "name": "jev-lint",
-    "full_name": "mizchi/jev-lint",
-    "description": "lint text in code by jev scorerer",
-    "url": "https://github.com/mizchi/jev-lint",
-    "stars": 74,
-    "language": "TypeScript",
-    "updated_at": "2026-09-23T02:12:40Z"
-  },
-  {
-    "name": "agent-router",
-    "full_name": "nidhi-singh02/agent-router",
-    "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
-    "url": "https://github.com/nidhi-singh02/agent-router",
-    "stars": 69,
-    "language": "TypeScript",
-    "updated_at": "2026-09-23T06:27:40Z"
+    "updated_at": "2026-09-23T15:02:04Z"
   }
 ]
