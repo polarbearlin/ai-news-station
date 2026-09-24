@@ -4,18 +4,9 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 636,
+    "stars": 640,
     "language": "Markdown",
-    "updated_at": "2026-09-23T19:48:03Z"
-  },
-  {
-    "name": "jev-codex-router",
-    "full_name": "0xNatoshi/jev-codex-router",
-    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
-    "url": "https://github.com/0xNatoshi/jev-codex-router",
-    "stars": 251,
-    "language": "JavaScript",
-    "updated_at": "2026-09-23T22:11:54Z"
+    "updated_at": "2026-09-24T01:50:10Z"
   },
   {
     "name": "CodexDesk",
@@ -45,31 +36,22 @@
     "updated_at": "2026-09-23T21:06:59Z"
   },
   {
-    "name": "ai-model-world",
-    "full_name": "liyupi/ai-model-world",
-    "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
-    "url": "https://github.com/liyupi/ai-model-world",
-    "stars": 176,
-    "language": "TypeScript",
-    "updated_at": "2026-09-23T15:53:32Z"
-  },
-  {
     "name": "skills",
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 162,
+    "stars": 164,
     "language": null,
-    "updated_at": "2026-09-23T22:18:29Z"
+    "updated_at": "2026-09-24T01:08:57Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "kraayenjon/awesome-jev",
     "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
     "url": "https://github.com/kraayenjon/awesome-jev",
-    "stars": 125,
+    "stars": 127,
     "language": null,
-    "updated_at": "2026-09-23T17:56:30Z"
+    "updated_at": "2026-09-24T01:04:23Z"
   },
   {
     "name": "jev-use",
@@ -85,8 +67,26 @@
     "full_name": "AppitStudio/awesome-jev",
     "description": "Curated Jev resources and runnable examples for typed AI decisions.",
     "url": "https://github.com/AppitStudio/awesome-jev",
-    "stars": 82,
+    "stars": 83,
     "language": "Python",
-    "updated_at": "2026-09-23T22:16:16Z"
+    "updated_at": "2026-09-24T01:24:12Z"
+  },
+  {
+    "name": "jev-lint",
+    "full_name": "mizchi/jev-lint",
+    "description": "lint text in code by jev scorerer",
+    "url": "https://github.com/mizchi/jev-lint",
+    "stars": 76,
+    "language": "TypeScript",
+    "updated_at": "2026-09-23T16:54:53Z"
+  },
+  {
+    "name": "reader-source",
+    "full_name": "Marvy101/reader-source",
+    "description": "Open-source native macOS AI reading workspace for PDF, EPUB, and TXT with highlights, notes, book chat, and local-first storage. Download: reader.marvy101.com/download",
+    "url": "https://github.com/Marvy101/reader-source",
+    "stars": 57,
+    "language": "Swift",
+    "updated_at": "2026-09-21T22:47:51Z"
   }
 ]
