@@ -4,9 +4,9 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 644,
+    "stars": 646,
     "language": "Markdown",
-    "updated_at": "2026-09-24T06:47:15Z"
+    "updated_at": "2026-09-24T11:28:13Z"
   },
   {
     "name": "CodexDesk",
@@ -31,36 +31,45 @@
     "full_name": "haplollc/ThinkingOrbs",
     "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
     "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 191,
+    "stars": 204,
     "language": "Swift",
-    "updated_at": "2026-09-24T07:09:11Z"
+    "updated_at": "2026-09-24T16:17:40Z"
   },
   {
     "name": "skills",
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 167,
+    "stars": 171,
     "language": null,
-    "updated_at": "2026-09-24T08:30:50Z"
+    "updated_at": "2026-09-24T15:46:22Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "kraayenjon/awesome-jev",
     "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
     "url": "https://github.com/kraayenjon/awesome-jev",
-    "stars": 129,
+    "stars": 132,
     "language": null,
-    "updated_at": "2026-09-24T08:42:59Z"
+    "updated_at": "2026-09-24T14:56:36Z"
+  },
+  {
+    "name": "short-video-generator-AI",
+    "full_name": "yukitorido/short-video-generator-AI",
+    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "stars": 98,
+    "language": "Python",
+    "updated_at": "2026-09-24T16:29:16Z"
   },
   {
     "name": "jev-use",
     "full_name": "savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "url": "https://github.com/savka777/jev-use",
-    "stars": 93,
+    "stars": 94,
     "language": "Swift",
-    "updated_at": "2026-09-24T07:09:58Z"
+    "updated_at": "2026-09-24T09:48:27Z"
   },
   {
     "name": "awesome-jev",
@@ -69,7 +78,7 @@
     "url": "https://github.com/AppitStudio/awesome-jev",
     "stars": 83,
     "language": "Python",
-    "updated_at": "2026-09-24T07:24:14Z"
+    "updated_at": "2026-09-24T16:22:11Z"
   },
   {
     "name": "jev-lint",
@@ -79,14 +88,5 @@
     "stars": 78,
     "language": "TypeScript",
     "updated_at": "2026-09-24T08:57:44Z"
-  },
-  {
-    "name": "reader-source",
-    "full_name": "Marvy101/reader-source",
-    "description": "Open-source native macOS AI reading workspace for PDF, EPUB, and TXT with highlights, notes, book chat, and local-first storage. Download: reader.marvy101.com/download",
-    "url": "https://github.com/Marvy101/reader-source",
-    "stars": 57,
-    "language": "Swift",
-    "updated_at": "2026-09-21T22:47:51Z"
   }
 ]
