@@ -4,9 +4,9 @@
     "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
     "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
     "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 640,
+    "stars": 644,
     "language": "Markdown",
-    "updated_at": "2026-09-24T01:50:10Z"
+    "updated_at": "2026-09-24T06:47:15Z"
   },
   {
     "name": "CodexDesk",
@@ -31,36 +31,36 @@
     "full_name": "haplollc/ThinkingOrbs",
     "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
     "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 190,
+    "stars": 191,
     "language": "Swift",
-    "updated_at": "2026-09-23T21:06:59Z"
+    "updated_at": "2026-09-24T07:09:11Z"
   },
   {
     "name": "skills",
     "full_name": "isas1/skills",
     "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
     "url": "https://github.com/isas1/skills",
-    "stars": 164,
+    "stars": 167,
     "language": null,
-    "updated_at": "2026-09-24T01:08:57Z"
+    "updated_at": "2026-09-24T08:30:50Z"
   },
   {
     "name": "awesome-jev",
     "full_name": "kraayenjon/awesome-jev",
     "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
     "url": "https://github.com/kraayenjon/awesome-jev",
-    "stars": 127,
+    "stars": 129,
     "language": null,
-    "updated_at": "2026-09-24T01:04:23Z"
+    "updated_at": "2026-09-24T08:42:59Z"
   },
   {
     "name": "jev-use",
     "full_name": "savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "url": "https://github.com/savka777/jev-use",
-    "stars": 92,
+    "stars": 93,
     "language": "Swift",
-    "updated_at": "2026-09-23T00:55:21Z"
+    "updated_at": "2026-09-24T07:09:58Z"
   },
   {
     "name": "awesome-jev",
@@ -69,16 +69,16 @@
     "url": "https://github.com/AppitStudio/awesome-jev",
     "stars": 83,
     "language": "Python",
-    "updated_at": "2026-09-24T01:24:12Z"
+    "updated_at": "2026-09-24T07:24:14Z"
   },
   {
     "name": "jev-lint",
     "full_name": "mizchi/jev-lint",
     "description": "lint text in code by jev scorerer",
     "url": "https://github.com/mizchi/jev-lint",
-    "stars": 76,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-09-23T16:54:53Z"
+    "updated_at": "2026-09-24T08:57:44Z"
   },
   {
     "name": "reader-source",
