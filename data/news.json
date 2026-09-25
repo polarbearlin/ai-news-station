@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-09-25 16:41:41",
+  "generated_at": "2026-09-25 23:06:53",
   "news": [
     {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
       "source": "Hacker News",
-      "time": "2026-09-25 15:27",
-      "score": 76,
-      "comments": 30
-    },
-    {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "source": "Hacker News",
-      "time": "2026-09-25 15:29",
-      "score": 56,
-      "comments": 14
+      "time": "2026-09-25 21:09",
+      "score": 68,
+      "comments": 36
     }
   ]
 }
