@@ -1,92 +1,92 @@
 [
   {
-    "name": "ai-engineering-interview-questions-company-wise",
-    "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "stars": 1094,
-    "language": "Markdown",
-    "updated_at": "2026-09-25T23:03:23Z"
-  },
-  {
     "name": "short-video-generator-AI",
     "full_name": "yukitorido/short-video-generator-AI",
     "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
     "url": "https://github.com/yukitorido/short-video-generator-AI",
-    "stars": 584,
+    "stars": 666,
     "language": "Python",
-    "updated_at": "2026-09-25T23:05:42Z"
-  },
-  {
-    "name": "ThinkingOrbs",
-    "full_name": "haplollc/ThinkingOrbs",
-    "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
-    "url": "https://github.com/haplollc/ThinkingOrbs",
-    "stars": 223,
-    "language": "Swift",
-    "updated_at": "2026-09-25T21:59:48Z"
-  },
-  {
-    "name": "skills",
-    "full_name": "isas1/skills",
-    "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
-    "url": "https://github.com/isas1/skills",
-    "stars": 189,
-    "language": null,
-    "updated_at": "2026-09-25T21:30:33Z"
+    "updated_at": "2026-09-26T03:46:45Z"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 151,
+    "stars": 166,
     "language": "Markdown",
-    "updated_at": "2026-09-25T22:54:09Z"
-  },
-  {
-    "name": "jev-use",
-    "full_name": "savka777/jev-use",
-    "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
-    "url": "https://github.com/savka777/jev-use",
-    "stars": 97,
-    "language": "Swift",
-    "updated_at": "2026-09-25T07:32:41Z"
+    "updated_at": "2026-09-26T03:22:10Z"
   },
   {
     "name": "wow-ai",
     "full_name": "chelinho139/wow-ai",
     "description": "Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)",
     "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 92,
+    "stars": 93,
     "language": "JavaScript",
-    "updated_at": "2026-09-25T16:51:52Z"
-  },
-  {
-    "name": "jev-lint",
-    "full_name": "mizchi/jev-lint",
-    "description": "lint text in code by jev scorerer",
-    "url": "https://github.com/mizchi/jev-lint",
-    "stars": 84,
-    "language": "TypeScript",
-    "updated_at": "2026-09-25T12:49:59Z"
+    "updated_at": "2026-09-26T00:33:57Z"
   },
   {
     "name": "awesome-qwen-image",
     "full_name": "wildminder/awesome-qwen-image",
     "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
     "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 64,
+    "stars": 69,
     "language": null,
-    "updated_at": "2026-09-25T22:34:13Z"
+    "updated_at": "2026-09-26T03:03:40Z"
   },
   {
-    "name": "reader-source",
-    "full_name": "Marvy101/reader-source",
-    "description": "Open-source native macOS AI reading workspace for PDF, EPUB, and TXT with highlights, notes, book chat, and local-first storage. Download: reader.marvy101.com/download",
-    "url": "https://github.com/Marvy101/reader-source",
-    "stars": 57,
-    "language": "Swift",
-    "updated_at": "2026-09-21T22:47:51Z"
+    "name": "jeview",
+    "full_name": "andududu/jeview",
+    "description": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
+    "url": "https://github.com/andududu/jeview",
+    "stars": 56,
+    "language": "JavaScript",
+    "updated_at": "2026-09-26T03:18:15Z"
+  },
+  {
+    "name": "ComptyAI",
+    "full_name": "hazelpe/ComptyAI",
+    "description": "Turn token activity into compute. A compute-access protocol designed for Robinhood Chain: protocol fees fund GPU capacity for token holders.",
+    "url": "https://github.com/hazelpe/ComptyAI",
+    "stars": 51,
+    "language": "JavaScript",
+    "updated_at": "2026-09-23T01:49:16Z"
+  },
+  {
+    "name": "quest",
+    "full_name": "electric-capital/quest",
+    "description": "An open source, self-hosted, safety-focused AI workbench",
+    "url": "https://github.com/electric-capital/quest",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-09-26T00:18:12Z"
+  },
+  {
+    "name": "FleXray",
+    "full_name": "VictorButoi/FleXray",
+    "description": "FleXray: Universal Clinical X-ray Segmentation",
+    "url": "https://github.com/VictorButoi/FleXray",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-09-26T03:43:52Z"
+  },
+  {
+    "name": "open-jev",
+    "full_name": "kyegomez/open-jev",
+    "description": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
+    "url": "https://github.com/kyegomez/open-jev",
+    "stars": 30,
+    "language": "Python",
+    "updated_at": "2026-09-25T13:35:31Z"
+  },
+  {
+    "name": "laya-vs-jev-arena",
+    "full_name": "PromptEngineer48/laya-vs-jev-arena",
+    "description": "Laya (open source, local) vs TypeSafe Jev (API): two AI models race in Snake and fight in a Mortal-Kombat-style arena. Every move is a real model decision.",
+    "url": "https://github.com/PromptEngineer48/laya-vs-jev-arena",
+    "stars": 30,
+    "language": "JavaScript",
+    "updated_at": "2026-09-25T07:31:57Z"
   }
 ]

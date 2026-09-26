@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-09-25 23:06:53",
+  "generated_at": "2026-09-26 03:50:08",
   "news": [
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "source": "Hacker News",
       "time": "2026-09-25 21:09",
-      "score": 68,
-      "comments": 36
+      "score": 279,
+      "comments": 168
+    },
+    {
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "source": "Hacker News",
+      "time": "2026-09-26 00:59",
+      "score": 73,
+      "comments": 23
     }
   ]
 }
