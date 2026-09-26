@@ -13,27 +13,27 @@
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 332,
+    "stars": 366,
     "language": "Markdown",
-    "updated_at": "2026-09-26T15:47:15Z"
+    "updated_at": "2026-09-26T19:00:09Z"
   },
   {
     "name": "wow-ai",
     "full_name": "chelinho139/wow-ai",
     "description": "Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)",
     "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 95,
+    "stars": 97,
     "language": "JavaScript",
-    "updated_at": "2026-09-26T10:29:55Z"
+    "updated_at": "2026-09-26T18:50:22Z"
   },
   {
     "name": "awesome-qwen-image",
     "full_name": "wildminder/awesome-qwen-image",
     "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
     "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 80,
+    "stars": 82,
     "language": null,
-    "updated_at": "2026-09-26T15:33:02Z"
+    "updated_at": "2026-09-26T16:57:01Z"
   },
   {
     "name": "jeview",
@@ -49,9 +49,9 @@
     "full_name": "VictorButoi/FleXray",
     "description": "FleXray: Universal Clinical X-ray Segmentation",
     "url": "https://github.com/VictorButoi/FleXray",
-    "stars": 52,
+    "stars": 56,
     "language": "Python",
-    "updated_at": "2026-09-26T13:02:15Z"
+    "updated_at": "2026-09-26T18:35:29Z"
   },
   {
     "name": "ComptyAI",
@@ -76,9 +76,9 @@
     "full_name": "kyegomez/open-jev",
     "description": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
     "url": "https://github.com/kyegomez/open-jev",
-    "stars": 32,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-09-26T15:04:35Z"
+    "updated_at": "2026-09-26T18:33:53Z"
   },
   {
     "name": "vibecheck",
