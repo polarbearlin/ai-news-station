@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-09-26 09:10:39",
+  "generated_at": "2026-09-26 15:54:21",
   "news": [
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "source": "Hacker News",
       "time": "2026-09-25 21:09",
-      "score": 471,
-      "comments": 283
-    },
-    {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "source": "Hacker News",
-      "time": "2026-09-26 04:20",
-      "score": 59,
-      "comments": 13
+      "score": 598,
+      "comments": 386
     }
   ]
 }
