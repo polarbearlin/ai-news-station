@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-09-26 19:03:18",
+  "generated_at": "2026-09-26 22:24:01",
   "news": [
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
-      "time": "2026-09-25 21:09",
-      "score": 646,
-      "comments": 413
+      "time": "2026-09-26 18:22",
+      "score": 82,
+      "comments": 20
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "source": "Hacker News",
+      "time": "2026-09-24 16:11",
+      "score": 75,
+      "comments": 18
     }
   ]
 }
