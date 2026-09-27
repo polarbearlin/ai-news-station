@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-09-27 03:59:34",
+  "generated_at": "2026-09-27 09:57:02",
   "news": [
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "source": "Hacker News",
+      "time": "2026-09-27 06:19",
+      "score": 162,
+      "comments": 114
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "source": "Hacker News",
+      "time": "2026-09-27 08:44",
+      "score": 72,
+      "comments": 36
+    },
     {
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
       "time": "2026-09-26 18:22",
-      "score": 185,
-      "comments": 57
-    },
-    {
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "source": "Hacker News",
-      "time": "2026-09-25 02:34",
-      "score": 49,
-      "comments": 35
+      "score": 244,
+      "comments": 81
     }
   ]
 }
