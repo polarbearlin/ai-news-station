@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-26 22:24:01",
+  "generated_at": "2026-09-27 03:59:34",
   "news": [
     {
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
       "time": "2026-09-26 18:22",
-      "score": 82,
-      "comments": 20
+      "score": 185,
+      "comments": 57
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
       "source": "Hacker News",
-      "time": "2026-09-24 16:11",
-      "score": 75,
-      "comments": 18
+      "time": "2026-09-25 02:34",
+      "score": 49,
+      "comments": 35
     }
   ]
 }
