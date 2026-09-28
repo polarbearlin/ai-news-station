@@ -4,63 +4,81 @@
     "full_name": "yukitorido/short-video-generator-AI",
     "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
     "url": "https://github.com/yukitorido/short-video-generator-AI",
-    "stars": 729,
+    "stars": 730,
     "language": "Python",
-    "updated_at": "2026-09-28T10:07:22Z"
+    "updated_at": "2026-09-28T14:19:13Z"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 453,
+    "stars": 461,
     "language": "Markdown",
-    "updated_at": "2026-09-28T08:51:28Z"
+    "updated_at": "2026-09-28T16:19:42Z"
   },
   {
     "name": "wow-ai",
     "full_name": "chelinho139/wow-ai",
     "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
     "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 112,
+    "stars": 114,
     "language": "JavaScript",
-    "updated_at": "2026-09-28T08:02:16Z"
-  },
-  {
-    "name": "awesome-qwen-image",
-    "full_name": "wildminder/awesome-qwen-image",
-    "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
-    "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 102,
-    "language": null,
-    "updated_at": "2026-09-28T09:40:43Z"
+    "updated_at": "2026-09-28T19:09:04Z"
   },
   {
     "name": "ai-charter",
     "full_name": "mrtinkz/ai-charter",
     "description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
     "url": "https://github.com/mrtinkz/ai-charter",
-    "stars": 97,
+    "stars": 108,
     "language": "TypeScript",
-    "updated_at": "2026-09-28T05:55:54Z"
+    "updated_at": "2026-09-28T14:01:04Z"
   },
   {
-    "name": "FleXray",
-    "full_name": "VictorButoi/FleXray",
-    "description": "FleXray: Universal Clinical X-ray Segmentation",
-    "url": "https://github.com/VictorButoi/FleXray",
-    "stars": 66,
-    "language": "Python",
-    "updated_at": "2026-09-28T07:12:30Z"
+    "name": "seiso",
+    "full_name": "scarletkc/seiso",
+    "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+    "url": "https://github.com/scarletkc/seiso",
+    "stars": 106,
+    "language": "Rust",
+    "updated_at": "2026-09-28T19:18:35Z"
+  },
+  {
+    "name": "awesome-qwen-image",
+    "full_name": "wildminder/awesome-qwen-image",
+    "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+    "url": "https://github.com/wildminder/awesome-qwen-image",
+    "stars": 103,
+    "language": null,
+    "updated_at": "2026-09-28T19:18:51Z"
   },
   {
     "name": "ufo-core",
     "full_name": "ufo-ai/ufo-core",
     "description": "Business agent operating system",
     "url": "https://github.com/ufo-ai/ufo-core",
-    "stars": 59,
+    "stars": 77,
     "language": "Python",
-    "updated_at": "2026-09-28T10:35:43Z"
+    "updated_at": "2026-09-28T19:11:53Z"
+  },
+  {
+    "name": "clodfarm",
+    "full_name": "matank001/clodfarm",
+    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+    "url": "https://github.com/matank001/clodfarm",
+    "stars": 75,
+    "language": "Python",
+    "updated_at": "2026-09-28T18:55:57Z"
+  },
+  {
+    "name": "FleXray",
+    "full_name": "VictorButoi/FleXray",
+    "description": "FleXray: Universal Clinical X-ray Segmentation",
+    "url": "https://github.com/VictorButoi/FleXray",
+    "stars": 68,
+    "language": "Python",
+    "updated_at": "2026-09-28T18:35:35Z"
   },
   {
     "name": "grev",
@@ -70,23 +88,5 @@
     "stars": 42,
     "language": "Go",
     "updated_at": "2026-09-28T09:13:58Z"
-  },
-  {
-    "name": "go-jev",
-    "full_name": "mattn/go-jev",
-    "description": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
-    "url": "https://github.com/mattn/go-jev",
-    "stars": 39,
-    "language": "Go",
-    "updated_at": "2026-09-28T03:13:19Z"
-  },
-  {
-    "name": "clodfarm",
-    "full_name": "matank001/clodfarm",
-    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-    "url": "https://github.com/matank001/clodfarm",
-    "stars": 39,
-    "language": "Python",
-    "updated_at": "2026-09-28T10:39:55Z"
   }
 ]
