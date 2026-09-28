@@ -1,4 +1,21 @@
 {
-  "generated_at": "2026-09-27 22:50:19",
-  "news": []
+  "generated_at": "2026-09-28 04:00:00",
+  "news": [
+    {
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "source": "Hacker News",
+      "time": "2026-09-28 02:31",
+      "score": 13,
+      "comments": 8
+    },
+    {
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "source": "Hacker News",
+      "time": "2026-09-28 03:23",
+      "score": 4,
+      "comments": 0
+    }
+  ]
 }
