@@ -4,45 +4,72 @@
     "full_name": "yukitorido/short-video-generator-AI",
     "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
     "url": "https://github.com/yukitorido/short-video-generator-AI",
-    "stars": 725,
+    "stars": 729,
     "language": "Python",
-    "updated_at": "2026-09-28T03:28:55Z"
+    "updated_at": "2026-09-28T10:07:22Z"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 450,
+    "stars": 453,
     "language": "Markdown",
-    "updated_at": "2026-09-28T00:57:32Z"
+    "updated_at": "2026-09-28T08:51:28Z"
   },
   {
     "name": "wow-ai",
     "full_name": "chelinho139/wow-ai",
     "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
     "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 109,
+    "stars": 112,
     "language": "JavaScript",
-    "updated_at": "2026-09-27T22:09:47Z"
+    "updated_at": "2026-09-28T08:02:16Z"
   },
   {
     "name": "awesome-qwen-image",
     "full_name": "wildminder/awesome-qwen-image",
     "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
     "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 99,
+    "stars": 102,
     "language": null,
-    "updated_at": "2026-09-28T01:57:17Z"
+    "updated_at": "2026-09-28T09:40:43Z"
+  },
+  {
+    "name": "ai-charter",
+    "full_name": "mrtinkz/ai-charter",
+    "description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
+    "url": "https://github.com/mrtinkz/ai-charter",
+    "stars": 97,
+    "language": "TypeScript",
+    "updated_at": "2026-09-28T05:55:54Z"
   },
   {
     "name": "FleXray",
     "full_name": "VictorButoi/FleXray",
     "description": "FleXray: Universal Clinical X-ray Segmentation",
     "url": "https://github.com/VictorButoi/FleXray",
-    "stars": 64,
+    "stars": 66,
     "language": "Python",
-    "updated_at": "2026-09-28T03:21:13Z"
+    "updated_at": "2026-09-28T07:12:30Z"
+  },
+  {
+    "name": "ufo-core",
+    "full_name": "ufo-ai/ufo-core",
+    "description": "Business agent operating system",
+    "url": "https://github.com/ufo-ai/ufo-core",
+    "stars": 59,
+    "language": "Python",
+    "updated_at": "2026-09-28T10:35:43Z"
+  },
+  {
+    "name": "grev",
+    "full_name": "aurorainfra/grev",
+    "description": "Thinking coreutils",
+    "url": "https://github.com/aurorainfra/grev",
+    "stars": 42,
+    "language": "Go",
+    "updated_at": "2026-09-28T09:13:58Z"
   },
   {
     "name": "go-jev",
@@ -54,39 +81,12 @@
     "updated_at": "2026-09-28T03:13:19Z"
   },
   {
-    "name": "grev",
-    "full_name": "aurorainfra/grev",
-    "description": "Thinking coreutils",
-    "url": "https://github.com/aurorainfra/grev",
+    "name": "clodfarm",
+    "full_name": "matank001/clodfarm",
+    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+    "url": "https://github.com/matank001/clodfarm",
     "stars": 39,
-    "language": "Go",
-    "updated_at": "2026-09-27T18:03:25Z"
-  },
-  {
-    "name": "ufo-core",
-    "full_name": "ufo-ai/ufo-core",
-    "description": "Business agent operating system",
-    "url": "https://github.com/ufo-ai/ufo-core",
-    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-09-28T02:59:18Z"
-  },
-  {
-    "name": "vibecheck",
-    "full_name": "jlowin/vibecheck",
-    "description": "✨✅ The easiest decisions your code will ever make.",
-    "url": "https://github.com/jlowin/vibecheck",
-    "stars": 34,
-    "language": "Python",
-    "updated_at": "2026-09-28T01:26:10Z"
-  },
-  {
-    "name": "Snake-Game-Reinforcement-Project",
-    "full_name": "mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
-    "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy — the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
-    "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
-    "stars": 23,
-    "language": "Python",
-    "updated_at": "2026-09-26T15:15:43Z"
+    "updated_at": "2026-09-28T10:39:55Z"
   }
 ]
