@@ -1,13 +1,45 @@
 {
-  "generated_at": "2026-09-28 19:19:02",
+  "generated_at": "2026-09-29 00:12:56",
   "news": [
+    {
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "source": "Hacker News",
+      "time": "2026-09-28 20:23",
+      "score": 205,
+      "comments": 67
+    },
+    {
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "source": "Hacker News",
+      "time": "2026-09-26 10:16",
+      "score": 62,
+      "comments": 12
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "source": "Hacker News",
+      "time": "2026-09-28 18:58",
+      "score": 110,
+      "comments": 51
+    },
+    {
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "source": "Hacker News",
+      "time": "2026-09-28 21:08",
+      "score": 152,
+      "comments": 68
+    },
     {
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
       "url": "https://git.mills.io/prologic/parley",
       "source": "Hacker News",
       "time": "2026-09-28 10:30",
-      "score": 248,
-      "comments": 124
+      "score": 296,
+      "comments": 164
     }
   ]
 }
