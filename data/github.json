@@ -4,9 +4,9 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 2882,
+    "stars": 3059,
     "language": "TypeScript",
-    "updated_at": "2026-09-29T17:44:26Z"
+    "updated_at": "2026-09-29T23:27:09Z"
   },
   {
     "name": "ai-system-design",
@@ -22,9 +22,9 @@
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 148,
+    "stars": 149,
     "language": "Rust",
-    "updated_at": "2026-09-29T16:15:31Z"
+    "updated_at": "2026-09-29T20:45:30Z"
   },
   {
     "name": "wow-ai",
@@ -40,9 +40,18 @@
     "full_name": "wildminder/awesome-qwen-image",
     "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
     "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 106,
+    "stars": 107,
     "language": null,
-    "updated_at": "2026-09-29T08:10:12Z"
+    "updated_at": "2026-09-29T18:39:19Z"
+  },
+  {
+    "name": "clodfarm",
+    "full_name": "matank001/clodfarm",
+    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+    "url": "https://github.com/matank001/clodfarm",
+    "stars": 90,
+    "language": "Python",
+    "updated_at": "2026-09-29T22:50:14Z"
   },
   {
     "name": "ufo-core",
@@ -51,16 +60,7 @@
     "url": "https://github.com/ufo-ai/ufo-core",
     "stars": 84,
     "language": "Python",
-    "updated_at": "2026-09-29T17:23:56Z"
-  },
-  {
-    "name": "clodfarm",
-    "full_name": "matank001/clodfarm",
-    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-    "url": "https://github.com/matank001/clodfarm",
-    "stars": 82,
-    "language": "Python",
-    "updated_at": "2026-09-29T17:32:06Z"
+    "updated_at": "2026-09-29T19:10:08Z"
   },
   {
     "name": "DDNet-AI",
@@ -78,15 +78,15 @@
     "url": "https://github.com/aurorainfra/grev",
     "stars": 52,
     "language": "Go",
-    "updated_at": "2026-09-29T13:11:32Z"
+    "updated_at": "2026-09-29T23:23:53Z"
   },
   {
     "name": "pokemon-claude-red",
     "full_name": "levy-street/pokemon-claude-red",
     "description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
     "url": "https://github.com/levy-street/pokemon-claude-red",
-    "stars": 45,
+    "stars": 46,
     "language": "JavaScript",
-    "updated_at": "2026-09-29T16:29:51Z"
+    "updated_at": "2026-09-29T19:27:13Z"
   }
 ]
