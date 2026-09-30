@@ -4,36 +4,27 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 3059,
+    "stars": 3455,
     "language": "TypeScript",
-    "updated_at": "2026-09-29T23:27:09Z"
+    "updated_at": "2026-09-30T04:17:00Z"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 468,
+    "stars": 470,
     "language": "Markdown",
-    "updated_at": "2026-09-29T13:43:08Z"
+    "updated_at": "2026-09-30T03:59:35Z"
   },
   {
     "name": "seiso",
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 149,
+    "stars": 150,
     "language": "Rust",
-    "updated_at": "2026-09-29T20:45:30Z"
-  },
-  {
-    "name": "wow-ai",
-    "full_name": "chelinho139/wow-ai",
-    "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
-    "url": "https://github.com/chelinho139/wow-ai",
-    "stars": 120,
-    "language": "JavaScript",
-    "updated_at": "2026-09-29T15:41:11Z"
+    "updated_at": "2026-09-30T00:13:04Z"
   },
   {
     "name": "awesome-qwen-image",
@@ -49,9 +40,9 @@
     "full_name": "matank001/clodfarm",
     "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
     "url": "https://github.com/matank001/clodfarm",
-    "stars": 90,
+    "stars": 91,
     "language": "Python",
-    "updated_at": "2026-09-29T22:50:14Z"
+    "updated_at": "2026-09-30T03:18:30Z"
   },
   {
     "name": "ufo-core",
@@ -63,22 +54,13 @@
     "updated_at": "2026-09-29T19:10:08Z"
   },
   {
-    "name": "DDNet-AI",
-    "full_name": "Wranked1/DDNet-AI",
-    "description": "Бот, который сам играет в блок в DDNet · A bot that plays block in DDNet by itself. Windows, один exe / one exe, RU · EN.",
-    "url": "https://github.com/Wranked1/DDNet-AI",
-    "stars": 52,
-    "language": "TypeScript",
-    "updated_at": "2026-09-29T10:20:27Z"
-  },
-  {
     "name": "grev",
     "full_name": "aurorainfra/grev",
     "description": "Thinking coreutils",
     "url": "https://github.com/aurorainfra/grev",
     "stars": 52,
     "language": "Go",
-    "updated_at": "2026-09-29T23:23:53Z"
+    "updated_at": "2026-09-29T23:29:12Z"
   },
   {
     "name": "pokemon-claude-red",
@@ -88,5 +70,23 @@
     "stars": 46,
     "language": "JavaScript",
     "updated_at": "2026-09-29T19:27:13Z"
+  },
+  {
+    "name": "vibecheck",
+    "full_name": "jlowin/vibecheck",
+    "description": "✨✅ The easiest decisions your code will ever make.",
+    "url": "https://github.com/jlowin/vibecheck",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-09-29T18:43:38Z"
+  },
+  {
+    "name": "NexTerm",
+    "full_name": "ProbiusOfficial/NexTerm",
+    "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口",
+    "url": "https://github.com/ProbiusOfficial/NexTerm",
+    "stars": 22,
+    "language": "Rust",
+    "updated_at": "2026-09-29T19:21:30Z"
   }
 ]

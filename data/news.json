@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-09-29 23:27:34",
+  "generated_at": "2026-09-30 04:17:05",
   "news": [
+    {
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "source": "Hacker News",
+      "time": "2026-09-30 03:19",
+      "score": 22,
+      "comments": 5
+    },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "source": "Hacker News",
       "time": "2026-09-29 17:06",
-      "score": 735,
-      "comments": 672
+      "score": 836,
+      "comments": 758
     }
   ]
 }
