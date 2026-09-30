@@ -4,27 +4,27 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 3936,
+    "stars": 4041,
     "language": "TypeScript",
-    "updated_at": "2026-09-30T14:39:21Z"
+    "updated_at": "2026-09-30T20:30:09Z"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 473,
+    "stars": 475,
     "language": "Markdown",
-    "updated_at": "2026-09-30T14:35:01Z"
+    "updated_at": "2026-09-30T18:43:39Z"
   },
   {
     "name": "seiso",
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 152,
+    "stars": 153,
     "language": "Rust",
-    "updated_at": "2026-09-30T14:37:42Z"
+    "updated_at": "2026-09-30T20:13:27Z"
   },
   {
     "name": "awesome-qwen-image",
@@ -33,16 +33,16 @@
     "url": "https://github.com/wildminder/awesome-qwen-image",
     "stars": 111,
     "language": null,
-    "updated_at": "2026-09-30T13:59:03Z"
+    "updated_at": "2026-09-30T15:29:43Z"
   },
   {
     "name": "clodfarm",
     "full_name": "matank001/clodfarm",
     "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
     "url": "https://github.com/matank001/clodfarm",
-    "stars": 94,
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-09-30T13:47:02Z"
+    "updated_at": "2026-09-30T19:48:20Z"
   },
   {
     "name": "ufo-core",
@@ -51,7 +51,16 @@
     "url": "https://github.com/ufo-ai/ufo-core",
     "stars": 86,
     "language": "Python",
-    "updated_at": "2026-09-30T14:29:52Z"
+    "updated_at": "2026-09-30T20:23:56Z"
+  },
+  {
+    "name": "pokemon-claude-red",
+    "full_name": "levy-street/pokemon-claude-red",
+    "description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
+    "url": "https://github.com/levy-street/pokemon-claude-red",
+    "stars": 54,
+    "language": "JavaScript",
+    "updated_at": "2026-09-30T18:17:01Z"
   },
   {
     "name": "grev",
@@ -63,13 +72,13 @@
     "updated_at": "2026-09-30T07:31:48Z"
   },
   {
-    "name": "pokemon-claude-red",
-    "full_name": "levy-street/pokemon-claude-red",
-    "description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
-    "url": "https://github.com/levy-street/pokemon-claude-red",
-    "stars": 51,
-    "language": "JavaScript",
-    "updated_at": "2026-09-30T14:05:22Z"
+    "name": "ai-agent-for-pc",
+    "full_name": "VoltEmperorChaos/ai-agent-for-pc",
+    "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
+    "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+    "stars": 50,
+    "language": null,
+    "updated_at": "2026-09-30T20:13:32Z"
   },
   {
     "name": "vibecheck",
@@ -79,14 +88,5 @@
     "stars": 39,
     "language": "Python",
     "updated_at": "2026-09-29T18:43:38Z"
-  },
-  {
-    "name": "NexTerm",
-    "full_name": "ProbiusOfficial/NexTerm",
-    "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口",
-    "url": "https://github.com/ProbiusOfficial/NexTerm",
-    "stars": 23,
-    "language": "Rust",
-    "updated_at": "2026-09-30T13:55:13Z"
   }
 ]

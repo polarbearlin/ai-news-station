@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-30 14:39:38",
+  "generated_at": "2026-09-30 20:35:20",
   "news": [
     {
-      "title": "Pi.dev: You Said No MCP",
+      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "source": "Hacker News",
+      "time": "2026-09-30 19:04",
+      "score": 42,
+      "comments": 8
+    },
+    {
+      "title": "You said no MCP",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
       "source": "Hacker News",
       "time": "2026-09-30 09:55",
-      "score": 319,
-      "comments": 159
-    },
-    {
-      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-      "url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
-      "source": "Hacker News",
-      "time": "2026-09-30 13:36",
-      "score": 45,
-      "comments": 27
+      "score": 540,
+      "comments": 315
     }
   ]
 }
