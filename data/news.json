@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-30 04:17:05",
+  "generated_at": "2026-09-30 14:39:38",
   "news": [
     {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
+      "title": "Pi.dev: You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
       "source": "Hacker News",
-      "time": "2026-09-30 03:19",
-      "score": 22,
-      "comments": 5
+      "time": "2026-09-30 09:55",
+      "score": 319,
+      "comments": 159
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+      "url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
       "source": "Hacker News",
-      "time": "2026-09-29 17:06",
-      "score": 836,
-      "comments": 758
+      "time": "2026-09-30 13:36",
+      "score": 45,
+      "comments": 27
     }
   ]
 }
