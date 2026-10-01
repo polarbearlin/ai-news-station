@@ -1,29 +1,4 @@
 {
-  "generated_at": "2026-10-01 15:08:28",
-  "news": [
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "source": "Hacker News",
-      "time": "2026-10-01 10:21",
-      "score": 101,
-      "comments": 54
-    },
-    {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "source": "Hacker News",
-      "time": "2026-09-30 08:43",
-      "score": 183,
-      "comments": 93
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "source": "Hacker News",
-      "time": "2026-10-01 13:00",
-      "score": 77,
-      "comments": 36
-    }
-  ]
+  "generated_at": "2026-10-01 20:49:39",
+  "news": []
 }
