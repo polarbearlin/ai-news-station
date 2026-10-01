@@ -4,45 +4,36 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 4041,
+    "stars": 4168,
     "language": "TypeScript",
-    "updated_at": "2026-09-30T20:30:09Z"
+    "updated_at": "2026-10-01T04:26:51Z"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 475,
+    "stars": 477,
     "language": "Markdown",
-    "updated_at": "2026-09-30T18:43:39Z"
+    "updated_at": "2026-10-01T02:54:33Z"
   },
   {
     "name": "seiso",
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 153,
+    "stars": 155,
     "language": "Rust",
-    "updated_at": "2026-09-30T20:13:27Z"
-  },
-  {
-    "name": "awesome-qwen-image",
-    "full_name": "wildminder/awesome-qwen-image",
-    "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
-    "url": "https://github.com/wildminder/awesome-qwen-image",
-    "stars": 111,
-    "language": null,
-    "updated_at": "2026-09-30T15:29:43Z"
+    "updated_at": "2026-09-30T22:38:26Z"
   },
   {
     "name": "clodfarm",
     "full_name": "matank001/clodfarm",
     "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
     "url": "https://github.com/matank001/clodfarm",
-    "stars": 98,
+    "stars": 99,
     "language": "Python",
-    "updated_at": "2026-09-30T19:48:20Z"
+    "updated_at": "2026-10-01T02:51:32Z"
   },
   {
     "name": "ufo-core",
@@ -51,25 +42,25 @@
     "url": "https://github.com/ufo-ai/ufo-core",
     "stars": 86,
     "language": "Python",
-    "updated_at": "2026-09-30T20:23:56Z"
+    "updated_at": "2026-10-01T02:46:45Z"
   },
   {
     "name": "pokemon-claude-red",
     "full_name": "levy-street/pokemon-claude-red",
     "description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
     "url": "https://github.com/levy-street/pokemon-claude-red",
-    "stars": 54,
+    "stars": 56,
     "language": "JavaScript",
-    "updated_at": "2026-09-30T18:17:01Z"
+    "updated_at": "2026-10-01T01:34:52Z"
   },
   {
-    "name": "grev",
-    "full_name": "aurorainfra/grev",
-    "description": "Thinking coreutils",
-    "url": "https://github.com/aurorainfra/grev",
-    "stars": 54,
-    "language": "Go",
-    "updated_at": "2026-09-30T07:31:48Z"
+    "name": "Comma",
+    "full_name": "AFK-surf/Comma",
+    "description": "The sessionless, relentless personal agent.",
+    "url": "https://github.com/AFK-surf/Comma",
+    "stars": 50,
+    "language": "Elixir",
+    "updated_at": "2026-10-01T04:04:02Z"
   },
   {
     "name": "ai-agent-for-pc",
@@ -81,12 +72,21 @@
     "updated_at": "2026-09-30T20:13:32Z"
   },
   {
-    "name": "vibecheck",
-    "full_name": "jlowin/vibecheck",
-    "description": "✨✅ The easiest decisions your code will ever make.",
-    "url": "https://github.com/jlowin/vibecheck",
-    "stars": 39,
-    "language": "Python",
-    "updated_at": "2026-09-29T18:43:38Z"
+    "name": "NexTerm",
+    "full_name": "ProbiusOfficial/NexTerm",
+    "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口",
+    "url": "https://github.com/ProbiusOfficial/NexTerm",
+    "stars": 24,
+    "language": "Rust",
+    "updated_at": "2026-10-01T02:47:41Z"
+  },
+  {
+    "name": "laya-php",
+    "full_name": "marcreichel/laya-php",
+    "description": "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative.",
+    "url": "https://github.com/marcreichel/laya-php",
+    "stars": 20,
+    "language": "PHP",
+    "updated_at": "2026-09-29T20:15:59Z"
   }
 ]
