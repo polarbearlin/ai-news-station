@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-10-02 14:29:54",
+  "generated_at": "2026-10-02 20:22:48",
   "news": [
     {
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "url": "https://www.deepseek.com/en/harness/",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "source": "Hacker News",
-      "time": "2026-10-02 03:11",
-      "score": 320,
-      "comments": 165
+      "time": "2026-10-02 14:11",
+      "score": 85,
+      "comments": 24
+    },
+    {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "source": "Hacker News",
+      "time": "2026-10-02 20:00",
+      "score": 14,
+      "comments": 3
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "source": "Hacker News",
+      "time": "2026-10-02 02:51",
+      "score": 83,
+      "comments": 12
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "source": "Hacker News",
+      "time": "2026-10-02 18:01",
+      "score": 37,
+      "comments": 3
     }
   ]
 }
