@@ -4,18 +4,27 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 4719,
+    "stars": 4916,
     "language": "TypeScript",
-    "updated_at": "2026-10-02T04:18:24Z"
+    "updated_at": "2026-10-02T14:08:43Z"
   },
   {
     "name": "seiso",
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 165,
+    "stars": 168,
     "language": "Rust",
-    "updated_at": "2026-10-02T03:38:40Z"
+    "updated_at": "2026-10-02T14:16:34Z"
+  },
+  {
+    "name": "strands-decider",
+    "full_name": "strands-labs/strands-decider",
+    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+    "url": "https://github.com/strands-labs/strands-decider",
+    "stars": 141,
+    "language": "Python",
+    "updated_at": "2026-10-02T14:19:42Z"
   },
   {
     "name": "ufo-core",
@@ -24,16 +33,7 @@
     "url": "https://github.com/ufo-ai/ufo-core",
     "stars": 87,
     "language": "Python",
-    "updated_at": "2026-10-02T03:50:09Z"
-  },
-  {
-    "name": "strands-decider",
-    "full_name": "strands-labs/strands-decider",
-    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-    "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 81,
-    "language": "Python",
-    "updated_at": "2026-10-02T04:08:52Z"
+    "updated_at": "2026-10-02T04:52:14Z"
   },
   {
     "name": "pokemon-claude-red",
@@ -63,30 +63,30 @@
     "updated_at": "2026-10-01T09:52:37Z"
   },
   {
+    "name": "swe-sweep",
+    "full_name": "facebookresearch/swe-sweep",
+    "description": "How many bugs can LMs find & fix in large codebases?",
+    "url": "https://github.com/facebookresearch/swe-sweep",
+    "stars": 34,
+    "language": "Python",
+    "updated_at": "2026-10-02T13:23:43Z"
+  },
+  {
     "name": "NexTerm",
     "full_name": "ProbiusOfficial/NexTerm",
     "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口",
     "url": "https://github.com/ProbiusOfficial/NexTerm",
     "stars": 31,
     "language": "Rust",
-    "updated_at": "2026-10-01T20:33:15Z"
+    "updated_at": "2026-10-02T08:02:37Z"
   },
   {
     "name": "laya-php",
     "full_name": "marcreichel/laya-php",
     "description": "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative.",
     "url": "https://github.com/marcreichel/laya-php",
-    "stars": 25,
+    "stars": 28,
     "language": "PHP",
-    "updated_at": "2026-10-01T20:28:22Z"
-  },
-  {
-    "name": "swe-sweep",
-    "full_name": "facebookresearch/swe-sweep",
-    "description": "How many bugs can LMs find & fix in large codebases?",
-    "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 17,
-    "language": "Python",
-    "updated_at": "2026-10-02T02:35:17Z"
+    "updated_at": "2026-10-02T12:16:50Z"
   }
 ]
