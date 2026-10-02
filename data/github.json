@@ -4,45 +4,36 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 4610,
+    "stars": 4719,
     "language": "TypeScript",
-    "updated_at": "2026-10-01T20:44:52Z"
-  },
-  {
-    "name": "ai-system-design",
-    "full_name": "amitshekhariitbhu/ai-system-design",
-    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-    "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 515,
-    "language": "Markdown",
-    "updated_at": "2026-10-01T20:05:11Z"
+    "updated_at": "2026-10-02T04:18:24Z"
   },
   {
     "name": "seiso",
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 160,
+    "stars": 165,
     "language": "Rust",
-    "updated_at": "2026-10-01T19:21:35Z"
-  },
-  {
-    "name": "clodfarm",
-    "full_name": "matank001/clodfarm",
-    "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-    "url": "https://github.com/matank001/clodfarm",
-    "stars": 121,
-    "language": "Python",
-    "updated_at": "2026-10-01T20:46:09Z"
+    "updated_at": "2026-10-02T03:38:40Z"
   },
   {
     "name": "ufo-core",
     "full_name": "ufo-ai/ufo-core",
-    "description": "Business agent operating system",
+    "description": "Agent operating system",
     "url": "https://github.com/ufo-ai/ufo-core",
     "stars": 87,
     "language": "Python",
-    "updated_at": "2026-10-01T20:14:54Z"
+    "updated_at": "2026-10-02T03:50:09Z"
+  },
+  {
+    "name": "strands-decider",
+    "full_name": "strands-labs/strands-decider",
+    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+    "url": "https://github.com/strands-labs/strands-decider",
+    "stars": 81,
+    "language": "Python",
+    "updated_at": "2026-10-02T04:08:52Z"
   },
   {
     "name": "pokemon-claude-red",
@@ -54,6 +45,15 @@
     "updated_at": "2026-10-01T18:13:29Z"
   },
   {
+    "name": "openpages",
+    "full_name": "arjunkshah12345-hash/openpages",
+    "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
+    "url": "https://github.com/arjunkshah12345-hash/openpages",
+    "stars": 47,
+    "language": "TypeScript",
+    "updated_at": "2026-10-02T01:33:12Z"
+  },
+  {
     "name": "ai-agent-for-pc",
     "full_name": "VoltEmperorChaos/ai-agent-for-pc",
     "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
@@ -63,24 +63,6 @@
     "updated_at": "2026-10-01T09:52:37Z"
   },
   {
-    "name": "openpages",
-    "full_name": "arjunkshah12345-hash/openpages",
-    "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
-    "url": "https://github.com/arjunkshah12345-hash/openpages",
-    "stars": 43,
-    "language": "TypeScript",
-    "updated_at": "2026-10-01T20:47:48Z"
-  },
-  {
-    "name": "strands-decider",
-    "full_name": "strands-labs/strands-decider",
-    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-    "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 32,
-    "language": "Python",
-    "updated_at": "2026-10-01T20:32:15Z"
-  },
-  {
     "name": "NexTerm",
     "full_name": "ProbiusOfficial/NexTerm",
     "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口",
@@ -88,5 +70,23 @@
     "stars": 31,
     "language": "Rust",
     "updated_at": "2026-10-01T20:33:15Z"
+  },
+  {
+    "name": "laya-php",
+    "full_name": "marcreichel/laya-php",
+    "description": "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative.",
+    "url": "https://github.com/marcreichel/laya-php",
+    "stars": 25,
+    "language": "PHP",
+    "updated_at": "2026-10-01T20:28:22Z"
+  },
+  {
+    "name": "swe-sweep",
+    "full_name": "facebookresearch/swe-sweep",
+    "description": "How many bugs can LMs find & fix in large codebases?",
+    "url": "https://github.com/facebookresearch/swe-sweep",
+    "stars": 17,
+    "language": "Python",
+    "updated_at": "2026-10-02T02:35:17Z"
   }
 ]
