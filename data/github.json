@@ -4,54 +4,81 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5175,
+    "stars": 5362,
     "language": "TypeScript",
-    "updated_at": "2026-10-03T13:03:29Z"
+    "updated_at": "2026-10-03T18:56:05Z"
   },
   {
     "name": "strands-decider",
     "full_name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 251,
+    "stars": 279,
     "language": "Python",
-    "updated_at": "2026-10-03T13:02:21Z"
+    "updated_at": "2026-10-03T18:49:58Z"
+  },
+  {
+    "name": "whirl",
+    "full_name": "whirlchat/whirl",
+    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+    "url": "https://github.com/whirlchat/whirl",
+    "stars": 196,
+    "language": "TypeScript",
+    "updated_at": "2026-10-03T19:00:38Z"
   },
   {
     "name": "seiso",
     "full_name": "scarletkc/seiso",
     "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
     "url": "https://github.com/scarletkc/seiso",
-    "stars": 171,
+    "stars": 172,
     "language": "Rust",
-    "updated_at": "2026-10-03T09:29:10Z"
+    "updated_at": "2026-10-03T16:51:41Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 161,
+    "stars": 168,
     "language": "TypeScript",
-    "updated_at": "2026-10-03T12:30:05Z"
+    "updated_at": "2026-10-03T18:23:35Z"
   },
   {
     "name": "ufo-core",
     "full_name": "ufo-ai/ufo-core",
     "description": "Agent operating system",
     "url": "https://github.com/ufo-ai/ufo-core",
-    "stars": 88,
+    "stars": 90,
     "language": "Python",
-    "updated_at": "2026-10-03T01:27:19Z"
+    "updated_at": "2026-10-03T17:31:12Z"
   },
   {
     "name": "openpages",
     "full_name": "arjunkshah12345-hash/openpages",
     "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
     "url": "https://github.com/arjunkshah12345-hash/openpages",
-    "stars": 48,
+    "stars": 49,
     "language": "TypeScript",
-    "updated_at": "2026-10-02T16:09:41Z"
+    "updated_at": "2026-10-03T14:01:07Z"
+  },
+  {
+    "name": "swe-sweep",
+    "full_name": "facebookresearch/swe-sweep",
+    "description": "How many bugs can LMs find & fix in large codebases?",
+    "url": "https://github.com/facebookresearch/swe-sweep",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-10-03T17:40:06Z"
+  },
+  {
+    "name": "ai_goodpractice",
+    "full_name": "xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "stars": 47,
+    "language": null,
+    "updated_at": "2026-10-03T18:36:57Z"
   },
   {
     "name": "ai-agent-for-pc",
@@ -61,32 +88,5 @@
     "stars": 46,
     "language": null,
     "updated_at": "2026-10-01T09:52:37Z"
-  },
-  {
-    "name": "swe-sweep",
-    "full_name": "facebookresearch/swe-sweep",
-    "description": "How many bugs can LMs find & fix in large codebases?",
-    "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-10-03T11:55:03Z"
-  },
-  {
-    "name": "whirl",
-    "full_name": "whirlchat/whirl",
-    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-    "url": "https://github.com/whirlchat/whirl",
-    "stars": 43,
-    "language": "TypeScript",
-    "updated_at": "2026-10-03T13:02:20Z"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 34,
-    "language": null,
-    "updated_at": "2026-10-03T12:55:21Z"
   }
 ]
