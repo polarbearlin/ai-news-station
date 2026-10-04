@@ -4,63 +4,63 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5660,
+    "stars": 5748,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T13:32:51Z"
+    "updated_at": "2026-10-04T19:12:04Z"
   },
   {
     "name": "whirl",
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 402,
+    "stars": 436,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T13:40:14Z"
+    "updated_at": "2026-10-04T19:14:07Z"
   },
   {
     "name": "strands-decider",
     "full_name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 320,
+    "stars": 333,
     "language": "Python",
-    "updated_at": "2026-10-04T13:42:49Z"
+    "updated_at": "2026-10-04T19:09:03Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 187,
+    "stars": 189,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T13:21:53Z"
+    "updated_at": "2026-10-04T15:23:37Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 70,
+    "stars": 75,
     "language": null,
-    "updated_at": "2026-10-04T13:25:59Z"
+    "updated_at": "2026-10-04T17:04:36Z"
   },
   {
     "name": "swe-sweep",
     "full_name": "facebookresearch/swe-sweep",
     "description": "How many bugs can LMs find & fix in large codebases?",
     "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 51,
+    "stars": 52,
     "language": "Python",
-    "updated_at": "2026-10-03T22:16:43Z"
+    "updated_at": "2026-10-04T16:26:52Z"
   },
   {
     "name": "openpages",
     "full_name": "arjunkshah12345-hash/openpages",
     "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
     "url": "https://github.com/arjunkshah12345-hash/openpages",
-    "stars": 49,
+    "stars": 50,
     "language": "TypeScript",
-    "updated_at": "2026-10-03T14:01:07Z"
+    "updated_at": "2026-10-04T18:42:58Z"
   },
   {
     "name": "ai-agent-for-pc",
@@ -72,21 +72,21 @@
     "updated_at": "2026-10-01T09:52:37Z"
   },
   {
-    "name": "FileFlipper",
-    "full_name": "Aimee51819/FileFlipper",
-    "description": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。",
-    "url": "https://github.com/Aimee51819/FileFlipper",
-    "stars": 24,
-    "language": "Swift",
-    "updated_at": "2026-10-04T11:01:52Z"
-  },
-  {
     "name": "book-to-course-skill",
     "full_name": "sebastianhaba/book-to-course-skill",
     "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.",
     "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 21,
+    "stars": 28,
     "language": "Python",
-    "updated_at": "2026-10-04T13:24:34Z"
+    "updated_at": "2026-10-04T19:11:14Z"
+  },
+  {
+    "name": "FileFlipper",
+    "full_name": "Aimee51819/FileFlipper",
+    "description": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。",
+    "url": "https://github.com/Aimee51819/FileFlipper",
+    "stars": 25,
+    "language": "Swift",
+    "updated_at": "2026-10-04T17:23:33Z"
   }
 ]
