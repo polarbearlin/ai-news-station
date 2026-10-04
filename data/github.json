@@ -4,63 +4,45 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5387,
+    "stars": 5490,
     "language": "TypeScript",
-    "updated_at": "2026-10-03T22:24:31Z"
-  },
-  {
-    "name": "strands-decider",
-    "full_name": "strands-labs/strands-decider",
-    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-    "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 291,
-    "language": "Python",
-    "updated_at": "2026-10-03T22:36:55Z"
+    "updated_at": "2026-10-04T04:32:38Z"
   },
   {
     "name": "whirl",
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 246,
+    "stars": 319,
     "language": "TypeScript",
-    "updated_at": "2026-10-03T22:35:45Z"
+    "updated_at": "2026-10-04T04:35:44Z"
   },
   {
-    "name": "seiso",
-    "full_name": "scarletkc/seiso",
-    "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
-    "url": "https://github.com/scarletkc/seiso",
-    "stars": 174,
-    "language": "Rust",
-    "updated_at": "2026-10-03T22:26:24Z"
+    "name": "strands-decider",
+    "full_name": "strands-labs/strands-decider",
+    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+    "url": "https://github.com/strands-labs/strands-decider",
+    "stars": 299,
+    "language": "Python",
+    "updated_at": "2026-10-04T03:41:51Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 172,
+    "stars": 178,
     "language": "TypeScript",
-    "updated_at": "2026-10-03T22:18:56Z"
-  },
-  {
-    "name": "ufo-core",
-    "full_name": "ufo-ai/ufo-core",
-    "description": "Agent operating system",
-    "url": "https://github.com/ufo-ai/ufo-core",
-    "stars": 90,
-    "language": "Python",
-    "updated_at": "2026-10-03T17:31:12Z"
+    "updated_at": "2026-10-04T03:48:14Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 52,
+    "stars": 54,
     "language": null,
-    "updated_at": "2026-10-03T22:40:34Z"
+    "updated_at": "2026-10-04T03:34:41Z"
   },
   {
     "name": "swe-sweep",
@@ -88,5 +70,23 @@
     "stars": 46,
     "language": null,
     "updated_at": "2026-10-01T09:52:37Z"
+  },
+  {
+    "name": "FileFlipper",
+    "full_name": "Aimee51819/FileFlipper",
+    "description": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。",
+    "url": "https://github.com/Aimee51819/FileFlipper",
+    "stars": 23,
+    "language": "Swift",
+    "updated_at": "2026-10-03T18:42:03Z"
+  },
+  {
+    "name": "little-chits",
+    "full_name": "Blackwellboy/little-chits",
+    "description": "A living AI civilisation you can watch: tiny creatures discover, build, teach and pass knowledge on, with any LLM in their minds.",
+    "url": "https://github.com/Blackwellboy/little-chits",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-10-04T02:36:12Z"
   }
 ]
