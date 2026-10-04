@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-04 19:14:13",
+  "generated_at": "2026-10-04 22:47:37",
   "news": [
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
+      "title": "All I wanted was a custom domain email",
+      "url": "https://jacobg.co/emails-at-jacobg-co/",
       "source": "Hacker News",
-      "time": "2026-10-04 09:24",
-      "score": 94,
-      "comments": 52
+      "time": "2026-10-04 17:47",
+      "score": 36,
+      "comments": 37
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "source": "Hacker News",
+      "time": "2026-10-04 19:42",
+      "score": 38,
+      "comments": 7
     }
   ]
 }

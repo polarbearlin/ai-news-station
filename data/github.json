@@ -4,45 +4,45 @@
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5748,
+    "stars": 5764,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T19:12:04Z"
+    "updated_at": "2026-10-04T22:47:18Z"
   },
   {
     "name": "whirl",
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 436,
+    "stars": 450,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T19:14:07Z"
+    "updated_at": "2026-10-04T22:43:12Z"
   },
   {
     "name": "strands-decider",
     "full_name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 333,
+    "stars": 339,
     "language": "Python",
-    "updated_at": "2026-10-04T19:09:03Z"
+    "updated_at": "2026-10-04T22:38:19Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 189,
+    "stars": 190,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T15:23:37Z"
+    "updated_at": "2026-10-04T22:40:44Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 75,
+    "stars": 77,
     "language": null,
-    "updated_at": "2026-10-04T17:04:36Z"
+    "updated_at": "2026-10-04T21:02:19Z"
   },
   {
     "name": "swe-sweep",
@@ -76,9 +76,9 @@
     "full_name": "sebastianhaba/book-to-course-skill",
     "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.",
     "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 28,
+    "stars": 31,
     "language": "Python",
-    "updated_at": "2026-10-04T19:11:14Z"
+    "updated_at": "2026-10-04T21:29:07Z"
   },
   {
     "name": "FileFlipper",
