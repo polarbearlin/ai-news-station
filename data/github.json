@@ -4,45 +4,45 @@
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 459,
+    "stars": 470,
     "language": "TypeScript",
-    "updated_at": "2026-10-05T04:16:04Z"
+    "updated_at": "2026-10-05T16:44:16Z"
   },
   {
     "name": "strands-decider",
     "full_name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 348,
+    "stars": 369,
     "language": "Python",
-    "updated_at": "2026-10-05T03:35:37Z"
+    "updated_at": "2026-10-05T16:30:09Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 193,
+    "stars": 151,
     "language": "TypeScript",
-    "updated_at": "2026-10-05T03:23:18Z"
+    "updated_at": "2026-10-05T15:05:29Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 78,
+    "stars": 95,
     "language": null,
-    "updated_at": "2026-10-05T01:34:28Z"
+    "updated_at": "2026-10-05T15:56:37Z"
   },
   {
     "name": "swe-sweep",
     "full_name": "facebookresearch/swe-sweep",
     "description": "How many bugs can LMs find & fix in large codebases?",
     "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 52,
+    "stars": 55,
     "language": "Python",
-    "updated_at": "2026-10-04T16:26:52Z"
+    "updated_at": "2026-10-05T15:46:34Z"
   },
   {
     "name": "openpages",
@@ -67,26 +67,26 @@
     "full_name": "sebastianhaba/book-to-course-skill",
     "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.",
     "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 37,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-10-05T03:59:36Z"
+    "updated_at": "2026-10-05T16:40:09Z"
+  },
+  {
+    "name": "OpenCardboard",
+    "full_name": "rakesh0x/OpenCardboard",
+    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+    "url": "https://github.com/rakesh0x/OpenCardboard",
+    "stars": 31,
+    "language": "TypeScript",
+    "updated_at": "2026-10-05T16:14:21Z"
   },
   {
     "name": "FileFlipper",
     "full_name": "Aimee51819/FileFlipper",
     "description": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。",
     "url": "https://github.com/Aimee51819/FileFlipper",
-    "stars": 25,
-    "language": "Swift",
-    "updated_at": "2026-10-04T17:23:33Z"
-  },
-  {
-    "name": "little-chits",
-    "full_name": "Blackwellboy/little-chits",
-    "description": "A living AI civilisation you can watch: tiny creatures discover, build, teach and pass knowledge on, with any LLM in their minds.",
-    "url": "https://github.com/Blackwellboy/little-chits",
-    "stars": 20,
-    "language": "Python",
-    "updated_at": "2026-10-05T04:14:03Z"
+    "stars": 26,
+    "language": "C#",
+    "updated_at": "2026-10-05T15:42:00Z"
   }
 ]
