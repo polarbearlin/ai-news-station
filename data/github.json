@@ -1,48 +1,39 @@
 [
   {
-    "name": "AIHOT",
-    "full_name": "KKKKhazix/AIHOT",
-    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "url": "https://github.com/KKKKhazix/AIHOT",
-    "stars": 5764,
-    "language": "TypeScript",
-    "updated_at": "2026-10-04T22:47:18Z"
-  },
-  {
     "name": "whirl",
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 450,
+    "stars": 459,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T22:43:12Z"
+    "updated_at": "2026-10-05T04:16:04Z"
   },
   {
     "name": "strands-decider",
     "full_name": "strands-labs/strands-decider",
     "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
     "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 339,
+    "stars": 348,
     "language": "Python",
-    "updated_at": "2026-10-04T22:38:19Z"
+    "updated_at": "2026-10-05T03:35:37Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 190,
+    "stars": 193,
     "language": "TypeScript",
-    "updated_at": "2026-10-04T22:40:44Z"
+    "updated_at": "2026-10-05T03:23:18Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 77,
+    "stars": 78,
     "language": null,
-    "updated_at": "2026-10-04T21:02:19Z"
+    "updated_at": "2026-10-05T01:34:28Z"
   },
   {
     "name": "swe-sweep",
@@ -67,18 +58,18 @@
     "full_name": "VoltEmperorChaos/ai-agent-for-pc",
     "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
     "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
-    "stars": 46,
+    "stars": 47,
     "language": null,
-    "updated_at": "2026-10-01T09:52:37Z"
+    "updated_at": "2026-10-05T00:47:00Z"
   },
   {
     "name": "book-to-course-skill",
     "full_name": "sebastianhaba/book-to-course-skill",
     "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.",
     "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 31,
+    "stars": 37,
     "language": "Python",
-    "updated_at": "2026-10-04T21:29:07Z"
+    "updated_at": "2026-10-05T03:59:36Z"
   },
   {
     "name": "FileFlipper",
@@ -88,5 +79,14 @@
     "stars": 25,
     "language": "Swift",
     "updated_at": "2026-10-04T17:23:33Z"
+  },
+  {
+    "name": "little-chits",
+    "full_name": "Blackwellboy/little-chits",
+    "description": "A living AI civilisation you can watch: tiny creatures discover, build, teach and pass knowledge on, with any LLM in their minds.",
+    "url": "https://github.com/Blackwellboy/little-chits",
+    "stars": 20,
+    "language": "Python",
+    "updated_at": "2026-10-05T04:14:03Z"
   }
 ]
