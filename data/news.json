@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-06 11:02:22",
+  "generated_at": "2026-10-06 17:59:51",
   "news": [
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
       "source": "Hacker News",
-      "time": "2026-10-05 21:15",
-      "score": 206,
-      "comments": 50
+      "time": "2026-10-06 16:23",
+      "score": 108,
+      "comments": 75
     },
     {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
       "source": "Hacker News",
-      "time": "2026-10-03 16:23",
-      "score": 86,
-      "comments": 60
+      "time": "2026-10-06 11:45",
+      "score": 501,
+      "comments": 469
     }
   ]
 }
