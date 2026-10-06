@@ -4,36 +4,27 @@
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 470,
+    "stars": 480,
     "language": "TypeScript",
-    "updated_at": "2026-10-05T16:44:16Z"
-  },
-  {
-    "name": "strands-decider",
-    "full_name": "strands-labs/strands-decider",
-    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-    "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 369,
-    "language": "Python",
-    "updated_at": "2026-10-05T16:30:09Z"
+    "updated_at": "2026-10-05T23:00:21Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 151,
+    "stars": 152,
     "language": "TypeScript",
-    "updated_at": "2026-10-05T15:05:29Z"
+    "updated_at": "2026-10-05T17:33:00Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 95,
+    "stars": 100,
     "language": null,
-    "updated_at": "2026-10-05T15:56:37Z"
+    "updated_at": "2026-10-05T21:02:57Z"
   },
   {
     "name": "swe-sweep",
@@ -54,6 +45,15 @@
     "updated_at": "2026-10-04T18:42:58Z"
   },
   {
+    "name": "OpenCardboard",
+    "full_name": "rakesh0x/OpenCardboard",
+    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+    "url": "https://github.com/rakesh0x/OpenCardboard",
+    "stars": 48,
+    "language": "TypeScript",
+    "updated_at": "2026-10-05T23:45:46Z"
+  },
+  {
     "name": "ai-agent-for-pc",
     "full_name": "VoltEmperorChaos/ai-agent-for-pc",
     "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
@@ -65,20 +65,20 @@
   {
     "name": "book-to-course-skill",
     "full_name": "sebastianhaba/book-to-course-skill",
-    "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.",
+    "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
     "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 43,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-10-05T16:40:09Z"
+    "updated_at": "2026-10-05T22:13:39Z"
   },
   {
-    "name": "OpenCardboard",
-    "full_name": "rakesh0x/OpenCardboard",
-    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-    "url": "https://github.com/rakesh0x/OpenCardboard",
-    "stars": 31,
-    "language": "TypeScript",
-    "updated_at": "2026-10-05T16:14:21Z"
+    "name": "AiPC",
+    "full_name": "SysikNagibator/AiPC",
+    "description": "Give the agent \"this\" and he gets a real PC.",
+    "url": "https://github.com/SysikNagibator/AiPC",
+    "stars": 27,
+    "language": "Python",
+    "updated_at": "2026-10-05T19:23:33Z"
   },
   {
     "name": "FileFlipper",
@@ -87,6 +87,6 @@
     "url": "https://github.com/Aimee51819/FileFlipper",
     "stars": 26,
     "language": "C#",
-    "updated_at": "2026-10-05T15:42:00Z"
+    "updated_at": "2026-10-05T23:49:46Z"
   }
 ]
