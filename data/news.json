@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-06 01:08:40",
+  "generated_at": "2026-10-06 11:02:22",
   "news": [
-    {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "source": "Hacker News",
-      "time": "2026-10-05 22:46",
-      "score": 188,
-      "comments": 81
-    },
     {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
       "source": "Hacker News",
       "time": "2026-10-05 21:15",
-      "score": 88,
-      "comments": 13
+      "score": 206,
+      "comments": 50
     },
     {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
       "source": "Hacker News",
-      "time": "2026-10-06 00:00",
-      "score": 20,
-      "comments": 8
+      "time": "2026-10-03 16:23",
+      "score": 86,
+      "comments": 60
     }
   ]
 }

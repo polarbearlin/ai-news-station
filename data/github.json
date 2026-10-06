@@ -4,36 +4,45 @@
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 480,
+    "stars": 484,
     "language": "TypeScript",
-    "updated_at": "2026-10-05T23:00:21Z"
+    "updated_at": "2026-10-06T09:53:55Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 152,
+    "stars": 160,
     "language": "TypeScript",
-    "updated_at": "2026-10-05T17:33:00Z"
+    "updated_at": "2026-10-06T10:32:36Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 100,
+    "stars": 108,
     "language": null,
-    "updated_at": "2026-10-05T21:02:57Z"
+    "updated_at": "2026-10-06T08:57:02Z"
   },
   {
     "name": "swe-sweep",
     "full_name": "facebookresearch/swe-sweep",
     "description": "How many bugs can LMs find & fix in large codebases?",
     "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 55,
+    "stars": 56,
     "language": "Python",
-    "updated_at": "2026-10-05T15:46:34Z"
+    "updated_at": "2026-10-06T03:46:09Z"
+  },
+  {
+    "name": "OpenCardboard",
+    "full_name": "rakesh0x/OpenCardboard",
+    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+    "url": "https://github.com/rakesh0x/OpenCardboard",
+    "stars": 52,
+    "language": "TypeScript",
+    "updated_at": "2026-10-06T10:32:44Z"
   },
   {
     "name": "openpages",
@@ -45,13 +54,22 @@
     "updated_at": "2026-10-04T18:42:58Z"
   },
   {
-    "name": "OpenCardboard",
-    "full_name": "rakesh0x/OpenCardboard",
-    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-    "url": "https://github.com/rakesh0x/OpenCardboard",
-    "stars": 48,
-    "language": "TypeScript",
-    "updated_at": "2026-10-05T23:45:46Z"
+    "name": "wayvoice",
+    "full_name": "pavlenkosa/wayvoice",
+    "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+    "url": "https://github.com/pavlenkosa/wayvoice",
+    "stars": 49,
+    "language": "Python",
+    "updated_at": "2026-10-06T10:50:03Z"
+  },
+  {
+    "name": "book-to-course-skill",
+    "full_name": "sebastianhaba/book-to-course-skill",
+    "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
+    "url": "https://github.com/sebastianhaba/book-to-course-skill",
+    "stars": 47,
+    "language": "Python",
+    "updated_at": "2026-10-06T09:37:50Z"
   },
   {
     "name": "ai-agent-for-pc",
@@ -63,30 +81,12 @@
     "updated_at": "2026-10-05T00:47:00Z"
   },
   {
-    "name": "book-to-course-skill",
-    "full_name": "sebastianhaba/book-to-course-skill",
-    "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
-    "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-10-05T22:13:39Z"
-  },
-  {
-    "name": "AiPC",
-    "full_name": "SysikNagibator/AiPC",
-    "description": "Give the agent \"this\" and he gets a real PC.",
-    "url": "https://github.com/SysikNagibator/AiPC",
-    "stars": 27,
-    "language": "Python",
-    "updated_at": "2026-10-05T19:23:33Z"
-  },
-  {
     "name": "FileFlipper",
     "full_name": "Aimee51819/FileFlipper",
     "description": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。",
     "url": "https://github.com/Aimee51819/FileFlipper",
-    "stars": 26,
+    "stars": 27,
     "language": "C#",
-    "updated_at": "2026-10-05T23:49:46Z"
+    "updated_at": "2026-10-06T01:30:10Z"
   }
 ]
