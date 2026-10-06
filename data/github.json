@@ -4,36 +4,36 @@
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 487,
+    "stars": 490,
     "language": "TypeScript",
-    "updated_at": "2026-10-06T13:33:34Z"
+    "updated_at": "2026-10-06T23:18:00Z"
   },
   {
     "name": "nuvex-services",
     "full_name": "NuvexNetwork/nuvex-services",
     "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
     "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 161,
+    "stars": 163,
     "language": "TypeScript",
-    "updated_at": "2026-10-06T16:01:28Z"
+    "updated_at": "2026-10-06T22:28:01Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 116,
+    "stars": 121,
     "language": null,
-    "updated_at": "2026-10-06T17:03:47Z"
+    "updated_at": "2026-10-06T23:12:59Z"
   },
   {
     "name": "openchart",
     "full_name": "longsurf-ai/openchart",
-    "description": "Trade with charts, alerts, scripts, and your AI agents.",
+    "description": "OSS Tradingview with your own AI, free forever",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 59,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-10-06T17:57:52Z"
+    "updated_at": "2026-10-06T23:09:05Z"
   },
   {
     "name": "OpenCardboard",
@@ -60,7 +60,7 @@
     "url": "https://github.com/pavlenkosa/wayvoice",
     "stars": 55,
     "language": "Python",
-    "updated_at": "2026-10-06T13:35:00Z"
+    "updated_at": "2026-10-06T21:55:47Z"
   },
   {
     "name": "openpages",
