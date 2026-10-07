@@ -9,40 +9,22 @@
     "updated_at": "2026-10-06T23:18:00Z"
   },
   {
-    "name": "nuvex-services",
-    "full_name": "NuvexNetwork/nuvex-services",
-    "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-    "url": "https://github.com/NuvexNetwork/nuvex-services",
-    "stars": 163,
-    "language": "TypeScript",
-    "updated_at": "2026-10-06T22:28:01Z"
-  },
-  {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 121,
+    "stars": 123,
     "language": null,
-    "updated_at": "2026-10-06T23:12:59Z"
+    "updated_at": "2026-10-07T01:40:06Z"
   },
   {
     "name": "openchart",
     "full_name": "longsurf-ai/openchart",
-    "description": "OSS Tradingview with your own AI, free forever",
+    "description": "OSS Tradingview with your own AI, free and unlimited.",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 79,
+    "stars": 95,
     "language": "TypeScript",
-    "updated_at": "2026-10-06T23:09:05Z"
-  },
-  {
-    "name": "OpenCardboard",
-    "full_name": "rakesh0x/OpenCardboard",
-    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-    "url": "https://github.com/rakesh0x/OpenCardboard",
-    "stars": 57,
-    "language": "TypeScript",
-    "updated_at": "2026-10-06T17:06:04Z"
+    "updated_at": "2026-10-07T04:28:29Z"
   },
   {
     "name": "swe-sweep",
@@ -54,39 +36,57 @@
     "updated_at": "2026-10-06T11:33:57Z"
   },
   {
+    "name": "OpenCardboard",
+    "full_name": "rakesh0x/OpenCardboard",
+    "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+    "url": "https://github.com/rakesh0x/OpenCardboard",
+    "stars": 57,
+    "language": "TypeScript",
+    "updated_at": "2026-10-06T17:06:04Z"
+  },
+  {
+    "name": "motionmaxxing",
+    "full_name": "Tejashmakwana/motionmaxxing",
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "stars": 57,
+    "language": "JavaScript",
+    "updated_at": "2026-10-07T04:11:26Z"
+  },
+  {
     "name": "wayvoice",
     "full_name": "pavlenkosa/wayvoice",
     "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
     "url": "https://github.com/pavlenkosa/wayvoice",
     "stars": 55,
     "language": "Python",
-    "updated_at": "2026-10-06T21:55:47Z"
+    "updated_at": "2026-10-06T23:57:59Z"
   },
   {
-    "name": "openpages",
-    "full_name": "arjunkshah12345-hash/openpages",
-    "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
-    "url": "https://github.com/arjunkshah12345-hash/openpages",
+    "name": "brow",
+    "full_name": "efim0v/brow",
+    "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+    "url": "https://github.com/efim0v/brow",
     "stars": 50,
-    "language": "TypeScript",
-    "updated_at": "2026-10-04T18:42:58Z"
+    "language": "Swift",
+    "updated_at": "2026-10-07T04:15:39Z"
   },
   {
     "name": "book-to-course-skill",
     "full_name": "sebastianhaba/book-to-course-skill",
     "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
     "url": "https://github.com/sebastianhaba/book-to-course-skill",
-    "stars": 47,
+    "stars": 48,
     "language": "Python",
-    "updated_at": "2026-10-06T09:37:50Z"
+    "updated_at": "2026-10-07T03:37:05Z"
   },
   {
-    "name": "ai-agent-for-pc",
-    "full_name": "VoltEmperorChaos/ai-agent-for-pc",
-    "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
-    "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
-    "stars": 47,
-    "language": null,
-    "updated_at": "2026-10-05T00:47:00Z"
+    "name": "codex-latex-editor",
+    "full_name": "Fr0zenWatter/codex-latex-editor",
+    "description": "Your LaTeX workspace in the ChatGPT app sidebar, powered by Codex. Open a paper, add annotations, and review changes—all beside your chat.",
+    "url": "https://github.com/Fr0zenWatter/codex-latex-editor",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-10-07T02:30:52Z"
   }
 ]
