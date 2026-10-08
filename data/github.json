@@ -13,36 +13,45 @@
     "full_name": "LosaLosSantos/aurelio-finance",
     "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 353,
+    "stars": 414,
     "language": "Python",
-    "updated_at": "2026-10-08T13:38:24Z"
+    "updated_at": "2026-10-08T21:03:05Z"
   },
   {
     "name": "box",
     "full_name": "strands-agents/box",
     "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
     "url": "https://github.com/strands-agents/box",
-    "stars": 186,
+    "stars": 220,
     "language": "Rust",
-    "updated_at": "2026-10-08T15:12:28Z"
+    "updated_at": "2026-10-08T20:25:42Z"
   },
   {
     "name": "ai_goodpractice",
     "full_name": "xop01/ai_goodpractice",
     "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
     "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 153,
+    "stars": 157,
     "language": null,
-    "updated_at": "2026-10-08T13:50:38Z"
+    "updated_at": "2026-10-08T20:58:22Z"
   },
   {
     "name": "openchart",
     "full_name": "longsurf-ai/openchart",
-    "description": "OSS Tradingview with your own AI, free and unlimited.",
+    "description": "OSS trading workspace with agents",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 125,
+    "stars": 132,
     "language": "TypeScript",
-    "updated_at": "2026-10-08T14:55:28Z"
+    "updated_at": "2026-10-08T20:23:17Z"
+  },
+  {
+    "name": "ai-data-extractor",
+    "full_name": "nachisama/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/nachisama/ai-data-extractor",
+    "stars": 98,
+    "language": "Python",
+    "updated_at": "2026-10-08T20:59:11Z"
   },
   {
     "name": "motionmaxxing",
@@ -58,18 +67,9 @@
     "full_name": "VinkyDev/vibestart",
     "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
     "url": "https://github.com/VinkyDev/vibestart",
-    "stars": 76,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-10-08T14:38:35Z"
-  },
-  {
-    "name": "ai-data-extractor",
-    "full_name": "nachisama/ai-data-extractor",
-    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/nachisama/ai-data-extractor",
-    "stars": 73,
-    "language": "Python",
-    "updated_at": "2026-10-08T15:14:01Z"
+    "updated_at": "2026-10-08T17:05:41Z"
   },
   {
     "name": "wayvoice",

@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-10-08 15:15:06",
+  "generated_at": "2026-10-08 21:03:20",
   "news": [
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
       "source": "Hacker News",
-      "time": "2026-10-07 18:01",
-      "score": 973,
-      "comments": 454
-    },
-    {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "url": "https://github.com/openai/math/blob/main/history.md",
-      "source": "Hacker News",
-      "time": "2026-10-08 08:08",
-      "score": 284,
-      "comments": 237
-    },
-    {
-      "title": "Time Travel in Braid (2015)",
-      "url": "https://qntm.org/braid",
-      "source": "Hacker News",
-      "time": "2026-10-04 21:42",
-      "score": 46,
-      "comments": 14
+      "time": "2026-10-08 00:14",
+      "score": 134,
+      "comments": 109
     }
   ]
 }
