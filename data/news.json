@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-07 21:01:52",
+  "generated_at": "2026-10-08 04:48:33",
   "news": [
     {
       "title": "Claude Haiku 5.5",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "source": "Hacker News",
       "time": "2026-10-07 18:01",
-      "score": 454,
-      "comments": 215
+      "score": 762,
+      "comments": 378
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone/",
       "source": "Hacker News",
       "time": "2026-10-07 18:00",
-      "score": 331,
-      "comments": 156
-    },
-    {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "source": "Hacker News",
-      "time": "2026-10-07 18:49",
-      "score": 149,
-      "comments": 154
+      "score": 550,
+      "comments": 284
     }
   ]
 }

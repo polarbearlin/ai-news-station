@@ -4,54 +4,63 @@
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 494,
+    "stars": 497,
     "language": "TypeScript",
-    "updated_at": "2026-10-07T18:55:02Z"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 145,
-    "language": null,
-    "updated_at": "2026-10-07T20:44:13Z"
+    "updated_at": "2026-10-08T03:14:46Z"
   },
   {
     "name": "aurelio-finance",
     "full_name": "LosaLosSantos/aurelio-finance",
     "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 128,
+    "stars": 264,
     "language": "Python",
-    "updated_at": "2026-10-07T21:00:25Z"
+    "updated_at": "2026-10-08T04:46:58Z"
+  },
+  {
+    "name": "ai_goodpractice",
+    "full_name": "xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "stars": 147,
+    "language": null,
+    "updated_at": "2026-10-08T04:04:51Z"
   },
   {
     "name": "openchart",
     "full_name": "longsurf-ai/openchart",
     "description": "OSS Tradingview with your own AI, free and unlimited.",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 112,
+    "stars": 115,
     "language": "TypeScript",
-    "updated_at": "2026-10-07T16:39:57Z"
+    "updated_at": "2026-10-08T02:34:50Z"
+  },
+  {
+    "name": "box",
+    "full_name": "strands-agents/box",
+    "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
+    "url": "https://github.com/strands-agents/box",
+    "stars": 110,
+    "language": "Rust",
+    "updated_at": "2026-10-08T04:42:34Z"
   },
   {
     "name": "motionmaxxing",
     "full_name": "Tejashmakwana/motionmaxxing",
     "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
     "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 83,
+    "stars": 85,
     "language": "JavaScript",
-    "updated_at": "2026-10-07T20:52:45Z"
+    "updated_at": "2026-10-07T23:30:46Z"
   },
   {
     "name": "vibestart",
     "full_name": "VinkyDev/vibestart",
     "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
     "url": "https://github.com/VinkyDev/vibestart",
-    "stars": 67,
+    "stars": 69,
     "language": "TypeScript",
-    "updated_at": "2026-10-07T19:40:05Z"
+    "updated_at": "2026-10-08T04:28:44Z"
   },
   {
     "name": "OpenCardboard",
@@ -63,15 +72,6 @@
     "updated_at": "2026-10-07T18:29:22Z"
   },
   {
-    "name": "swe-sweep",
-    "full_name": "facebookresearch/swe-sweep",
-    "description": "How many bugs can LMs find & fix in large codebases?",
-    "url": "https://github.com/facebookresearch/swe-sweep",
-    "stars": 57,
-    "language": "Python",
-    "updated_at": "2026-10-06T11:33:57Z"
-  },
-  {
     "name": "wayvoice",
     "full_name": "pavlenkosa/wayvoice",
     "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-10-07T20:08:38Z"
   },
   {
-    "name": "ThinkTerm",
-    "full_name": "RoversX/ThinkTerm",
-    "description": "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webview.",
-    "url": "https://github.com/RoversX/ThinkTerm",
-    "stars": 54,
-    "language": "Rust",
-    "updated_at": "2026-10-07T17:26:43Z"
+    "name": "brow",
+    "full_name": "efim0v/brow",
+    "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+    "url": "https://github.com/efim0v/brow",
+    "stars": 52,
+    "language": "Swift",
+    "updated_at": "2026-10-07T20:07:43Z"
   }
 ]
