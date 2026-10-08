@@ -4,63 +4,81 @@
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
     "url": "https://github.com/whirlchat/whirl",
-    "stars": 497,
+    "stars": 502,
     "language": "TypeScript",
-    "updated_at": "2026-10-08T03:14:46Z"
+    "updated_at": "2026-10-08T11:30:40Z"
   },
   {
     "name": "aurelio-finance",
     "full_name": "LosaLosSantos/aurelio-finance",
     "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 264,
+    "stars": 353,
     "language": "Python",
-    "updated_at": "2026-10-08T04:46:58Z"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 147,
-    "language": null,
-    "updated_at": "2026-10-08T04:04:51Z"
-  },
-  {
-    "name": "openchart",
-    "full_name": "longsurf-ai/openchart",
-    "description": "OSS Tradingview with your own AI, free and unlimited.",
-    "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 115,
-    "language": "TypeScript",
-    "updated_at": "2026-10-08T02:34:50Z"
+    "updated_at": "2026-10-08T13:38:24Z"
   },
   {
     "name": "box",
     "full_name": "strands-agents/box",
     "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
     "url": "https://github.com/strands-agents/box",
-    "stars": 110,
+    "stars": 186,
     "language": "Rust",
-    "updated_at": "2026-10-08T04:42:34Z"
+    "updated_at": "2026-10-08T15:12:28Z"
+  },
+  {
+    "name": "ai_goodpractice",
+    "full_name": "xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "stars": 153,
+    "language": null,
+    "updated_at": "2026-10-08T13:50:38Z"
+  },
+  {
+    "name": "openchart",
+    "full_name": "longsurf-ai/openchart",
+    "description": "OSS Tradingview with your own AI, free and unlimited.",
+    "url": "https://github.com/longsurf-ai/openchart",
+    "stars": 125,
+    "language": "TypeScript",
+    "updated_at": "2026-10-08T14:55:28Z"
   },
   {
     "name": "motionmaxxing",
     "full_name": "Tejashmakwana/motionmaxxing",
     "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
     "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 85,
+    "stars": 87,
     "language": "JavaScript",
-    "updated_at": "2026-10-07T23:30:46Z"
+    "updated_at": "2026-10-08T12:59:46Z"
   },
   {
     "name": "vibestart",
     "full_name": "VinkyDev/vibestart",
     "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
     "url": "https://github.com/VinkyDev/vibestart",
-    "stars": 69,
+    "stars": 76,
     "language": "TypeScript",
-    "updated_at": "2026-10-08T04:28:44Z"
+    "updated_at": "2026-10-08T14:38:35Z"
+  },
+  {
+    "name": "ai-data-extractor",
+    "full_name": "nachisama/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/nachisama/ai-data-extractor",
+    "stars": 73,
+    "language": "Python",
+    "updated_at": "2026-10-08T15:14:01Z"
+  },
+  {
+    "name": "wayvoice",
+    "full_name": "pavlenkosa/wayvoice",
+    "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+    "url": "https://github.com/pavlenkosa/wayvoice",
+    "stars": 61,
+    "language": "Python",
+    "updated_at": "2026-10-08T12:04:04Z"
   },
   {
     "name": "OpenCardboard",
@@ -70,23 +88,5 @@
     "stars": 58,
     "language": "TypeScript",
     "updated_at": "2026-10-07T18:29:22Z"
-  },
-  {
-    "name": "wayvoice",
-    "full_name": "pavlenkosa/wayvoice",
-    "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
-    "url": "https://github.com/pavlenkosa/wayvoice",
-    "stars": 56,
-    "language": "Python",
-    "updated_at": "2026-10-07T20:08:38Z"
-  },
-  {
-    "name": "brow",
-    "full_name": "efim0v/brow",
-    "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
-    "url": "https://github.com/efim0v/brow",
-    "stars": 52,
-    "language": "Swift",
-    "updated_at": "2026-10-07T20:07:43Z"
   }
 ]
