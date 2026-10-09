@@ -1,66 +1,39 @@
 [
   {
-    "name": "whirl",
-    "full_name": "whirlchat/whirl",
-    "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-    "url": "https://github.com/whirlchat/whirl",
-    "stars": 502,
-    "language": "TypeScript",
-    "updated_at": "2026-10-08T11:30:40Z"
-  },
-  {
     "name": "aurelio-finance",
     "full_name": "LosaLosSantos/aurelio-finance",
     "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 414,
+    "stars": 700,
     "language": "Python",
-    "updated_at": "2026-10-08T21:03:05Z"
-  },
-  {
-    "name": "box",
-    "full_name": "strands-agents/box",
-    "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
-    "url": "https://github.com/strands-agents/box",
-    "stars": 220,
-    "language": "Rust",
-    "updated_at": "2026-10-08T20:25:42Z"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 157,
-    "language": null,
-    "updated_at": "2026-10-08T20:58:22Z"
+    "updated_at": "2026-10-09T01:44:45Z"
   },
   {
     "name": "openchart",
     "full_name": "longsurf-ai/openchart",
     "description": "OSS trading workspace with agents",
     "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 132,
+    "stars": 134,
     "language": "TypeScript",
-    "updated_at": "2026-10-08T20:23:17Z"
+    "updated_at": "2026-10-08T22:33:00Z"
   },
   {
     "name": "ai-data-extractor",
     "full_name": "nachisama/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/nachisama/ai-data-extractor",
-    "stars": 98,
+    "stars": 122,
     "language": "Python",
-    "updated_at": "2026-10-08T20:59:11Z"
+    "updated_at": "2026-10-09T00:36:46Z"
   },
   {
     "name": "motionmaxxing",
     "full_name": "Tejashmakwana/motionmaxxing",
     "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
     "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 87,
+    "stars": 89,
     "language": "JavaScript",
-    "updated_at": "2026-10-08T12:59:46Z"
+    "updated_at": "2026-10-09T02:59:57Z"
   },
   {
     "name": "vibestart",
@@ -69,24 +42,51 @@
     "url": "https://github.com/VinkyDev/vibestart",
     "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-10-08T17:05:41Z"
-  },
-  {
-    "name": "wayvoice",
-    "full_name": "pavlenkosa/wayvoice",
-    "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
-    "url": "https://github.com/pavlenkosa/wayvoice",
-    "stars": 61,
-    "language": "Python",
-    "updated_at": "2026-10-08T12:04:04Z"
+    "updated_at": "2026-10-09T02:06:34Z"
   },
   {
     "name": "OpenCardboard",
     "full_name": "rakesh0x/OpenCardboard",
     "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
     "url": "https://github.com/rakesh0x/OpenCardboard",
-    "stars": 58,
+    "stars": 59,
     "language": "TypeScript",
-    "updated_at": "2026-10-07T18:29:22Z"
+    "updated_at": "2026-10-08T22:34:29Z"
+  },
+  {
+    "name": "book-to-course-skill",
+    "full_name": "sebastianhaba/book-to-course-skill",
+    "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
+    "url": "https://github.com/sebastianhaba/book-to-course-skill",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-10-08T16:55:24Z"
+  },
+  {
+    "name": "brow",
+    "full_name": "efim0v/brow",
+    "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+    "url": "https://github.com/efim0v/brow",
+    "stars": 51,
+    "language": "Swift",
+    "updated_at": "2026-10-08T10:49:24Z"
+  },
+  {
+    "name": "dsh-codex-effort-slider",
+    "full_name": "Microqian2th/dsh-codex-effort-slider",
+    "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+    "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+    "stars": 47,
+    "language": "JavaScript",
+    "updated_at": "2026-10-09T04:41:54Z"
+  },
+  {
+    "name": "TinyLuma",
+    "full_name": "ThetaCursed/TinyLuma",
+    "description": "Fast, native (~8MB) post-processor and batch editor for AI images (Midjourney, Flux, ComfyUI). Preserves workflow metadata, Oklab grading, 3D LUTs.",
+    "url": "https://github.com/ThetaCursed/TinyLuma",
+    "stars": 40,
+    "language": "Rust",
+    "updated_at": "2026-10-08T19:20:06Z"
   }
 ]
