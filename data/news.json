@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09 15:00:16",
+  "generated_at": "2026-10-09 20:34:22",
   "news": [
     {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "source": "Hacker News",
+      "time": "2026-10-09 17:02",
+      "score": 140,
+      "comments": 109
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "source": "Hacker News",
+      "time": "2026-10-09 11:36",
+      "score": 57,
+      "comments": 28
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "source": "Hacker News",
       "time": "2026-10-09 11:03",
-      "score": 209,
-      "comments": 80
-    },
-    {
-      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
-      "source": "Hacker News",
-      "time": "2026-10-09 14:14",
-      "score": 38,
-      "comments": 25
-    },
-    {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "source": "Hacker News",
-      "time": "2026-10-08 00:14",
-      "score": 920,
-      "comments": 834
+      "score": 336,
+      "comments": 143
     }
   ]
 }
