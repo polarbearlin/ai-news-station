@@ -2,29 +2,29 @@
   {
     "name": "aurelio-finance",
     "full_name": "LosaLosSantos/aurelio-finance",
-    "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 700,
+    "stars": 1001,
     "language": "Python",
-    "updated_at": "2026-10-09T01:44:45Z"
-  },
-  {
-    "name": "openchart",
-    "full_name": "longsurf-ai/openchart",
-    "description": "OSS trading workspace with agents",
-    "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 134,
-    "language": "TypeScript",
-    "updated_at": "2026-10-08T22:33:00Z"
+    "updated_at": "2026-10-09T15:00:02Z"
   },
   {
     "name": "ai-data-extractor",
     "full_name": "nachisama/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
     "url": "https://github.com/nachisama/ai-data-extractor",
-    "stars": 122,
+    "stars": 148,
     "language": "Python",
-    "updated_at": "2026-10-09T00:36:46Z"
+    "updated_at": "2026-10-09T09:03:24Z"
+  },
+  {
+    "name": "openchart",
+    "full_name": "longsurf-ai/openchart",
+    "description": "OSS trading workspace with agents",
+    "url": "https://github.com/longsurf-ai/openchart",
+    "stars": 145,
+    "language": "TypeScript",
+    "updated_at": "2026-10-09T14:26:24Z"
   },
   {
     "name": "motionmaxxing",
@@ -40,9 +40,18 @@
     "full_name": "VinkyDev/vibestart",
     "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
     "url": "https://github.com/VinkyDev/vibestart",
-    "stars": 78,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-10-09T02:06:34Z"
+    "updated_at": "2026-10-09T12:48:03Z"
+  },
+  {
+    "name": "dsh-codex-effort-slider",
+    "full_name": "Microqian2th/dsh-codex-effort-slider",
+    "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+    "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+    "stars": 60,
+    "language": "JavaScript",
+    "updated_at": "2026-10-09T14:43:54Z"
   },
   {
     "name": "OpenCardboard",
@@ -72,21 +81,12 @@
     "updated_at": "2026-10-08T10:49:24Z"
   },
   {
-    "name": "dsh-codex-effort-slider",
-    "full_name": "Microqian2th/dsh-codex-effort-slider",
-    "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
-    "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
-    "stars": 47,
-    "language": "JavaScript",
-    "updated_at": "2026-10-09T04:41:54Z"
-  },
-  {
-    "name": "TinyLuma",
-    "full_name": "ThetaCursed/TinyLuma",
-    "description": "Fast, native (~8MB) post-processor and batch editor for AI images (Midjourney, Flux, ComfyUI). Preserves workflow metadata, Oklab grading, 3D LUTs.",
-    "url": "https://github.com/ThetaCursed/TinyLuma",
-    "stars": 40,
-    "language": "Rust",
-    "updated_at": "2026-10-08T19:20:06Z"
+    "name": "gluon",
+    "full_name": "fidipro/gluon",
+    "description": "Control platform for coding agents",
+    "url": "https://github.com/fidipro/gluon",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-10-09T13:33:35Z"
   }
 ]
