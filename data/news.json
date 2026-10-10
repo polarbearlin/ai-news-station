@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-10-10 04:36:56",
+  "generated_at": "2026-10-10 14:16:13",
   "news": [
     {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
       "source": "Hacker News",
-      "time": "2026-10-09 14:56",
-      "score": 40,
-      "comments": 17
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "source": "Hacker News",
-      "time": "2026-10-09 17:02",
-      "score": 309,
-      "comments": 229
-    },
-    {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "source": "Hacker News",
-      "time": "2026-10-09 11:36",
-      "score": 126,
-      "comments": 67
+      "time": "2026-10-10 10:52",
+      "score": 82,
+      "comments": 39
     }
   ]
 }
