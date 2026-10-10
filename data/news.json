@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-10-10 19:49:27",
+  "generated_at": "2026-10-10 23:16:58",
   "news": [
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
       "source": "Hacker News",
       "time": "2026-10-10 10:52",
-      "score": 196,
-      "comments": 101
+      "score": 228,
+      "comments": 114
     },
     {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
       "source": "Hacker News",
-      "time": "2026-10-10 18:48",
-      "score": 31,
-      "comments": 16
-    },
-    {
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "source": "Hacker News",
-      "time": "2026-10-06 16:37",
-      "score": 223,
-      "comments": 157
+      "time": "2026-10-09 22:14",
+      "score": 62,
+      "comments": 50
     },
     {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
       "source": "Hacker News",
       "time": "2026-10-09 06:52",
-      "score": 109,
-      "comments": 21
+      "score": 146,
+      "comments": 32
     }
   ]
 }
