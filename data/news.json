@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-11 04:21:45",
+  "generated_at": "2026-10-11 14:41:28",
   "news": [
     {
-      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-      "url": "https://github.com/vscarpenter/gsd-task-manager",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
       "source": "Hacker News",
-      "time": "2026-10-11 03:42",
-      "score": 4,
-      "comments": 1
+      "time": "2026-10-11 11:47",
+      "score": 143,
+      "comments": 84
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News",
+      "time": "2026-10-11 12:01",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
