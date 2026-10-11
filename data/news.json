@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-10-10 23:16:58",
+  "generated_at": "2026-10-11 04:21:45",
   "news": [
     {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "url": "https://github.com/vscarpenter/gsd-task-manager",
       "source": "Hacker News",
-      "time": "2026-10-10 10:52",
-      "score": 228,
-      "comments": 114
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "source": "Hacker News",
-      "time": "2026-10-09 22:14",
-      "score": 62,
-      "comments": 50
-    },
-    {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "source": "Hacker News",
-      "time": "2026-10-09 06:52",
-      "score": 146,
-      "comments": 32
+      "time": "2026-10-11 03:42",
+      "score": 4,
+      "comments": 1
     }
   ]
 }
