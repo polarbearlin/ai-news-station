@@ -4,36 +4,27 @@
     "full_name": "LosaLosSantos/aurelio-finance",
     "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
     "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "stars": 2211,
+    "stars": 2362,
     "language": "Python",
-    "updated_at": "2026-10-11T23:29:35Z"
-  },
-  {
-    "name": "openchart",
-    "full_name": "longsurf-ai/openchart",
-    "description": "OSS trading workspace with agents",
-    "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 162,
-    "language": "TypeScript",
-    "updated_at": "2026-10-11T22:24:44Z"
+    "updated_at": "2026-10-12T04:37:23Z"
   },
   {
     "name": "motionmaxxing",
     "full_name": "Tejashmakwana/motionmaxxing",
     "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
     "url": "https://github.com/Tejashmakwana/motionmaxxing",
-    "stars": 110,
+    "stars": 113,
     "language": "JavaScript",
-    "updated_at": "2026-10-11T21:45:36Z"
+    "updated_at": "2026-10-12T04:17:09Z"
   },
   {
     "name": "justin-sun-alan-shao-ai-notes",
     "full_name": "wousp112/justin-sun-alan-shao-ai-notes",
     "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
     "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
-    "stars": 74,
+    "stars": 85,
     "language": null,
-    "updated_at": "2026-10-11T16:06:15Z"
+    "updated_at": "2026-10-12T04:34:42Z"
   },
   {
     "name": "gluon",
@@ -49,9 +40,9 @@
     "full_name": "csadigital/ai-writer",
     "description": "✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Docker MySQL.",
     "url": "https://github.com/csadigital/ai-writer",
-    "stars": 48,
+    "stars": 49,
     "language": "JavaScript",
-    "updated_at": "2026-10-11T21:33:33Z"
+    "updated_at": "2026-10-12T03:59:05Z"
   },
   {
     "name": "zcode-claim-9router",
@@ -63,24 +54,6 @@
     "updated_at": "2026-10-10T12:10:01Z"
   },
   {
-    "name": "ventanilla",
-    "full_name": "croma-labs/ventanilla",
-    "description": "Ventanilla: answers about the Colombian State from official sources, powered by Croma",
-    "url": "https://github.com/croma-labs/ventanilla",
-    "stars": 26,
-    "language": "TypeScript",
-    "updated_at": "2026-10-11T00:46:43Z"
-  },
-  {
-    "name": "AI-Research-Guide",
-    "full_name": "Takamatsu-Hikaru/AI-Research-Guide",
-    "description": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
-    "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
-    "stars": 25,
-    "language": "JavaScript",
-    "updated_at": "2026-10-11T17:08:14Z"
-  },
-  {
     "name": "sunyuchen-alan-interview",
     "full_name": "LeoLee0812/sunyuchen-alan-interview",
     "description": "邵艾伦 Alan 访谈孙宇晨 4 小时 22 分全文逐字稿：约 7.5 万字，带时间戳，按话题切成 16 章，Markdown 可搜索可喂 AI",
@@ -88,5 +61,32 @@
     "stars": 25,
     "language": null,
     "updated_at": "2026-10-11T18:03:12Z"
+  },
+  {
+    "name": "eido",
+    "full_name": "tony3liu/eido",
+    "description": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
+    "url": "https://github.com/tony3liu/eido",
+    "stars": 23,
+    "language": "Rust",
+    "updated_at": "2026-10-12T01:10:32Z"
+  },
+  {
+    "name": "troetochie",
+    "full_name": "troetochie-online/troetochie",
+    "description": "Автоподсказки ответа в любом чате: курсор в пустое поле — серый ответ — Tab. macOS и Windows",
+    "url": "https://github.com/troetochie-online/troetochie",
+    "stars": 21,
+    "language": null,
+    "updated_at": "2026-10-11T21:35:23Z"
+  },
+  {
+    "name": "cad-studio",
+    "full_name": "filippofinke/cad-studio",
+    "description": "📐 Describe a part, get a printable model: a native macOS CAD studio powered by Claude Code and build123d.",
+    "url": "https://github.com/filippofinke/cad-studio",
+    "stars": 20,
+    "language": "Swift",
+    "updated_at": "2026-10-11T20:23:52Z"
   }
 ]
