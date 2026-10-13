@@ -4,18 +4,18 @@
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 851,
+    "stars": 859,
     "language": "Python",
-    "updated_at": "2026-10-13T18:05:06Z"
+    "updated_at": "2026-10-13T23:08:15Z"
   },
   {
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 244,
+    "stars": 251,
     "language": "TypeScript",
-    "updated_at": "2026-10-13T18:25:05Z"
+    "updated_at": "2026-10-13T23:13:12Z"
   },
   {
     "name": "justin-sun-alan-shao-ai-notes",
@@ -25,6 +25,24 @@
     "stars": 132,
     "language": null,
     "updated_at": "2026-10-13T16:39:01Z"
+  },
+  {
+    "name": "blender-ai-addon",
+    "full_name": "BlenderGPT3D/blender-ai-addon",
+    "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+    "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
+    "stars": 125,
+    "language": "Python",
+    "updated_at": "2026-10-13T23:34:51Z"
+  },
+  {
+    "name": "opencode-rust",
+    "full_name": "vakandi/opencode-rust",
+    "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+    "url": "https://github.com/vakandi/opencode-rust",
+    "stars": 59,
+    "language": "Rust",
+    "updated_at": "2026-10-13T23:29:17Z"
   },
   {
     "name": "ai-writer",
@@ -45,13 +63,13 @@
     "updated_at": "2026-10-12T13:38:29Z"
   },
   {
-    "name": "opencode-rust",
-    "full_name": "vakandi/opencode-rust",
-    "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
-    "url": "https://github.com/vakandi/opencode-rust",
-    "stars": 51,
-    "language": "Rust",
-    "updated_at": "2026-10-13T18:30:24Z"
+    "name": "indra",
+    "full_name": "datalab-to/indra",
+    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+    "url": "https://github.com/datalab-to/indra",
+    "stars": 38,
+    "language": "Python",
+    "updated_at": "2026-10-13T23:32:19Z"
   },
   {
     "name": "zcode-claim-9router",
@@ -67,26 +85,8 @@
     "full_name": "tony3liu/eido",
     "description": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
     "url": "https://github.com/tony3liu/eido",
-    "stars": 36,
+    "stars": 37,
     "language": "Rust",
-    "updated_at": "2026-10-13T14:44:23Z"
-  },
-  {
-    "name": "awesome-REA-cases",
-    "full_name": "songshikang0111/awesome-REA-cases",
-    "description": "REA / AI 逆向案例合集：每天 6 次定时追踪公开案例，自动筛选、去重并更新。",
-    "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 35,
-    "language": "Python",
-    "updated_at": "2026-10-13T17:43:57Z"
-  },
-  {
-    "name": "filedig",
-    "full_name": "rupeshs/filedig",
-    "description": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
-    "url": "https://github.com/rupeshs/filedig",
-    "stars": 33,
-    "language": "Rust",
-    "updated_at": "2026-10-13T18:37:13Z"
+    "updated_at": "2026-10-13T19:38:42Z"
   }
 ]
