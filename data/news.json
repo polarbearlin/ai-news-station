@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-12 17:26:08",
+  "generated_at": "2026-10-13 01:50:35",
   "news": [
     {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
+      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
       "source": "Hacker News",
-      "time": "2026-10-12 15:16",
-      "score": 8,
-      "comments": 1
+      "time": "2026-10-12 23:07",
+      "score": 102,
+      "comments": 57
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
+      "time": "2026-10-12 21:35",
+      "score": 67,
+      "comments": 20
     }
   ]
 }
