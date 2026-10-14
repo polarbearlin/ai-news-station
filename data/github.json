@@ -4,36 +4,45 @@
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 884,
+    "stars": 902,
     "language": "Python",
-    "updated_at": "2026-10-14T03:39:58Z"
+    "updated_at": "2026-10-14T09:06:14Z"
   },
   {
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 254,
+    "stars": 568,
     "language": "TypeScript",
-    "updated_at": "2026-10-14T00:41:48Z"
+    "updated_at": "2026-10-14T09:18:39Z"
   },
   {
     "name": "blender-ai-addon",
     "full_name": "BlenderGPT3D/blender-ai-addon",
     "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
     "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
-    "stars": 181,
+    "stars": 211,
     "language": "Python",
-    "updated_at": "2026-10-14T03:43:27Z"
+    "updated_at": "2026-10-14T06:35:50Z"
   },
   {
     "name": "justin-sun-alan-shao-ai-notes",
     "full_name": "wousp112/justin-sun-alan-shao-ai-notes",
     "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
     "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
-    "stars": 132,
+    "stars": 137,
     "language": null,
-    "updated_at": "2026-10-13T16:39:01Z"
+    "updated_at": "2026-10-14T09:18:52Z"
+  },
+  {
+    "name": "indra",
+    "full_name": "datalab-to/indra",
+    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+    "url": "https://github.com/datalab-to/indra",
+    "stars": 96,
+    "language": "Python",
+    "updated_at": "2026-10-14T09:10:16Z"
   },
   {
     "name": "opencode-rust",
@@ -43,15 +52,6 @@
     "stars": 70,
     "language": "Rust",
     "updated_at": "2026-10-14T02:55:54Z"
-  },
-  {
-    "name": "indra",
-    "full_name": "datalab-to/indra",
-    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-    "url": "https://github.com/datalab-to/indra",
-    "stars": 66,
-    "language": "Python",
-    "updated_at": "2026-10-14T03:41:21Z"
   },
   {
     "name": "ai-writer",
@@ -67,26 +67,26 @@
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "REA / AI 逆向案例合集：每天 6 次定时追踪公开案例，自动筛选、去重并更新。",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 42,
+    "stars": 44,
     "language": "Python",
-    "updated_at": "2026-10-14T03:23:48Z"
+    "updated_at": "2026-10-14T05:57:54Z"
   },
   {
     "name": "zcode-claim-9router",
     "full_name": "0xgetz/zcode-claim-9router",
     "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
     "url": "https://github.com/0xgetz/zcode-claim-9router",
-    "stars": 38,
+    "stars": 39,
     "language": "Python",
-    "updated_at": "2026-10-14T03:11:02Z"
+    "updated_at": "2026-10-14T04:51:23Z"
   },
   {
     "name": "eido",
     "full_name": "tony3liu/eido",
     "description": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
     "url": "https://github.com/tony3liu/eido",
-    "stars": 37,
+    "stars": 39,
     "language": "Rust",
-    "updated_at": "2026-10-13T19:38:42Z"
+    "updated_at": "2026-10-14T07:47:47Z"
   }
 ]
