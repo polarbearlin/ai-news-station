@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-14 16:39:45",
+  "generated_at": "2026-10-14 22:59:22",
   "news": [
     {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "source": "Hacker News",
-      "time": "2026-10-14 14:38",
-      "score": 101,
-      "comments": 83
+      "time": "2026-10-14 17:45",
+      "score": 795,
+      "comments": 411
     },
     {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
       "source": "Hacker News",
-      "time": "2026-10-14 15:39",
-      "score": 44,
-      "comments": 34
+      "time": "2026-10-14 20:30",
+      "score": 193,
+      "comments": 80
     }
   ]
 }
