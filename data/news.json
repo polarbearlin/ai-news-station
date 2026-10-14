@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-14 09:18:55",
+  "generated_at": "2026-10-14 16:39:45",
   "news": [
     {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
       "source": "Hacker News",
-      "time": "2026-10-13 15:49",
-      "score": 760,
-      "comments": 757
+      "time": "2026-10-14 14:38",
+      "score": 101,
+      "comments": 83
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "source": "Hacker News",
+      "time": "2026-10-14 15:39",
+      "score": 44,
+      "comments": 34
     }
   ]
 }
