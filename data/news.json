@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-10-13 23:36:51",
+  "generated_at": "2026-10-14 03:46:44",
   "news": [
     {
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "Hacker News",
       "time": "2026-10-13 15:49",
-      "score": 470,
-      "comments": 467
+      "score": 600,
+      "comments": 575
     },
     {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
       "source": "Hacker News",
-      "time": "2026-10-13 20:23",
-      "score": 332,
-      "comments": 285
+      "time": "2026-10-14 01:09",
+      "score": 26,
+      "comments": 19
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "source": "Hacker News",
+      "time": "2026-10-13 23:13",
+      "score": 79,
+      "comments": 42
     }
   ]
 }
