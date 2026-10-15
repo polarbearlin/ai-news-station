@@ -4,27 +4,27 @@
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1016,
+    "stars": 1022,
     "language": "Python",
-    "updated_at": "2026-10-15T16:05:35Z"
+    "updated_at": "2026-10-15T21:20:53Z"
   },
   {
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 953,
+    "stars": 962,
     "language": "TypeScript",
-    "updated_at": "2026-10-15T15:56:23Z"
+    "updated_at": "2026-10-15T22:29:44Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 324,
+    "stars": 353,
     "language": "Python",
-    "updated_at": "2026-10-15T16:08:13Z"
+    "updated_at": "2026-10-15T22:39:42Z"
   },
   {
     "name": "blender-ai-addon",
@@ -40,9 +40,9 @@
     "full_name": "wousp112/justin-sun-alan-shao-ai-notes",
     "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
     "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
-    "stars": 146,
+    "stars": 147,
     "language": null,
-    "updated_at": "2026-10-15T15:47:01Z"
+    "updated_at": "2026-10-15T18:49:38Z"
   },
   {
     "name": "opencode-rust",
@@ -51,25 +51,25 @@
     "url": "https://github.com/vakandi/opencode-rust",
     "stars": 71,
     "language": "Rust",
-    "updated_at": "2026-10-14T21:24:21Z"
+    "updated_at": "2026-10-15T17:39:30Z"
   },
   {
     "name": "ai-motion-library",
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 60,
+    "stars": 62,
     "language": null,
-    "updated_at": "2026-10-15T12:22:37Z"
+    "updated_at": "2026-10-15T19:39:34Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
-    "description": "REA / AI 逆向案例合集：每天 6 次定时追踪公开案例，自动筛选、去重并更新。",
+    "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 59,
+    "stars": 61,
     "language": "Python",
-    "updated_at": "2026-10-15T16:17:14Z"
+    "updated_at": "2026-10-15T20:33:30Z"
   },
   {
     "name": "mcd-cn-assistant",
