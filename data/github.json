@@ -1,48 +1,30 @@
 [
   {
-    "name": "new-term-radar",
-    "full_name": "zhuyansen/new-term-radar",
-    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-    "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1022,
-    "language": "Python",
-    "updated_at": "2026-10-15T21:20:53Z"
-  },
-  {
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 962,
+    "stars": 1060,
     "language": "TypeScript",
-    "updated_at": "2026-10-15T22:29:44Z"
+    "updated_at": "2026-10-16T03:22:10Z"
+  },
+  {
+    "name": "new-term-radar",
+    "full_name": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "stars": 1030,
+    "language": "Python",
+    "updated_at": "2026-10-16T03:00:03Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 353,
+    "stars": 363,
     "language": "Python",
-    "updated_at": "2026-10-15T22:39:42Z"
-  },
-  {
-    "name": "blender-ai-addon",
-    "full_name": "BlenderGPT3D/blender-ai-addon",
-    "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-    "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
-    "stars": 214,
-    "language": "Python",
-    "updated_at": "2026-10-15T14:39:00Z"
-  },
-  {
-    "name": "justin-sun-alan-shao-ai-notes",
-    "full_name": "wousp112/justin-sun-alan-shao-ai-notes",
-    "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
-    "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
-    "stars": 147,
-    "language": null,
-    "updated_at": "2026-10-15T18:49:38Z"
+    "updated_at": "2026-10-16T02:58:06Z"
   },
   {
     "name": "opencode-rust",
@@ -54,39 +36,57 @@
     "updated_at": "2026-10-15T17:39:30Z"
   },
   {
-    "name": "ai-motion-library",
-    "full_name": "apenasdouglas/ai-motion-library",
-    "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
-    "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 62,
-    "language": null,
-    "updated_at": "2026-10-15T19:39:34Z"
-  },
-  {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 61,
+    "stars": 63,
     "language": "Python",
-    "updated_at": "2026-10-15T20:33:30Z"
+    "updated_at": "2026-10-16T02:23:51Z"
   },
   {
-    "name": "mcd-cn-assistant",
-    "full_name": "junxchan54-maker/mcd-cn-assistant",
-    "description": "🍟 麦当劳中国官方 MCP 智能助手技能：把 35 个原子工具编排成 4 条业务流 —— 活动推送 · 联名关注 · 最优惠点餐 · 多人群点聚合账单。算价用 calculate-price 真算，下单必二次确认。｜McDonald's China MCP agent skill: campaigns, collab watch, best-value ordering, group bill splitting.",
-    "url": "https://github.com/junxchan54-maker/mcd-cn-assistant",
-    "stars": 42,
+    "name": "ai-motion-library",
+    "full_name": "apenasdouglas/ai-motion-library",
+    "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
+    "url": "https://github.com/apenasdouglas/ai-motion-library",
+    "stars": 63,
     "language": null,
-    "updated_at": "2026-10-15T10:14:57Z"
+    "updated_at": "2026-10-15T23:13:51Z"
   },
   {
-    "name": "sunyuchen-alan-interview",
-    "full_name": "LeoLee0812/sunyuchen-alan-interview",
-    "description": "邵艾伦 Alan 访谈孙宇晨 4 小时 22 分全文逐字稿：约 7.5 万字，带时间戳，按话题切成 16 章，Markdown 可搜索可喂 AI",
-    "url": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
-    "stars": 38,
-    "language": null,
-    "updated_at": "2026-10-15T15:56:44Z"
+    "name": "SoftJL",
+    "full_name": "guolola/SoftJL",
+    "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOCX specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
+    "url": "https://github.com/guolola/SoftJL",
+    "stars": 40,
+    "language": "TypeScript",
+    "updated_at": "2026-10-16T02:49:44Z"
+  },
+  {
+    "name": "filedig",
+    "full_name": "rupeshs/filedig",
+    "description": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
+    "url": "https://github.com/rupeshs/filedig",
+    "stars": 37,
+    "language": "Rust",
+    "updated_at": "2026-10-14T04:45:46Z"
+  },
+  {
+    "name": "awesome-ai-game-dev-tools",
+    "full_name": "SubmitGame/awesome-ai-game-dev-tools",
+    "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
+    "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-10-15T22:39:49Z"
+  },
+  {
+    "name": "attentionmachine-skills",
+    "full_name": "robinebers/attentionmachine-skills",
+    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
+    "url": "https://github.com/robinebers/attentionmachine-skills",
+    "stars": 31,
+    "language": "JavaScript",
+    "updated_at": "2026-10-15T23:02:17Z"
   }
 ]
