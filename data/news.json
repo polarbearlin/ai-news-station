@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-10-16 16:10:33",
+  "generated_at": "2026-10-16 22:34:43",
   "news": [
     {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
-      "time": "2026-10-13 16:26",
-      "score": 19,
-      "comments": 3
-    },
-    {
-      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-      "source": "Hacker News",
-      "time": "2026-10-16 15:56",
-      "score": 5,
-      "comments": 0
+      "time": "2026-10-16 18:32",
+      "score": 137,
+      "comments": 40
     }
   ]
 }
