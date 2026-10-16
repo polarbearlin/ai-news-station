@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-16 08:46:49",
+  "generated_at": "2026-10-16 16:10:33",
   "news": [
     {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
       "source": "Hacker News",
-      "time": "2026-10-15 16:04",
-      "score": 670,
-      "comments": 248
+      "time": "2026-10-13 16:26",
+      "score": 19,
+      "comments": 3
+    },
+    {
+      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "source": "Hacker News",
+      "time": "2026-10-16 15:56",
+      "score": 5,
+      "comments": 0
     }
   ]
 }
