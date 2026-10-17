@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-17 15:03:44",
+  "generated_at": "2026-10-17 18:12:00",
   "news": [
-    {
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "source": "Hacker News",
-      "time": "2026-10-17 08:37",
-      "score": 426,
-      "comments": 203
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "source": "Hacker News",
-      "time": "2026-10-17 04:36",
-      "score": 166,
-      "comments": 54
-    },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "time": "2026-10-17 08:21",
-      "score": 308,
-      "comments": 121
+      "score": 470,
+      "comments": 462
+    },
+    {
+      "title": "OpenAI discloses four more rogue incidents",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "source": "Hacker News",
+      "time": "2026-10-17 16:31",
+      "score": 61,
+      "comments": 29
     }
   ]
 }

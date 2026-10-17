@@ -4,36 +4,36 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1682,
+    "stars": 1685,
     "language": "TypeScript",
-    "updated_at": "2026-10-17T14:28:04Z"
+    "updated_at": "2026-10-17T16:15:30Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1077,
+    "stars": 1079,
     "language": "Python",
-    "updated_at": "2026-10-17T13:39:35Z"
+    "updated_at": "2026-10-17T17:10:00Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 538,
+    "stars": 555,
     "language": "Python",
-    "updated_at": "2026-10-17T15:01:03Z"
+    "updated_at": "2026-10-17T17:47:49Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 110,
+    "stars": 119,
     "language": "Python",
-    "updated_at": "2026-10-17T14:56:46Z"
+    "updated_at": "2026-10-17T18:10:13Z"
   },
   {
     "name": "opencode-rust",
@@ -49,18 +49,18 @@
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 67,
+    "stars": 68,
     "language": null,
-    "updated_at": "2026-10-17T05:47:48Z"
+    "updated_at": "2026-10-17T16:18:53Z"
   },
   {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 59,
+    "stars": 60,
     "language": "TypeScript",
-    "updated_at": "2026-10-17T14:52:10Z"
+    "updated_at": "2026-10-17T15:45:37Z"
   },
   {
     "name": "awesome-ai-game-dev-tools",
