@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-16 22:34:43",
+  "generated_at": "2026-10-17 03:14:35",
   "news": [
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "time": "2026-10-16 18:32",
-      "score": 137,
-      "comments": 40
+      "score": 222,
+      "comments": 57
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "time": "2026-10-16 19:01",
+      "score": 173,
+      "comments": 46
     }
   ]
 }

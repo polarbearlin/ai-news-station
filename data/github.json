@@ -4,36 +4,36 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1355,
+    "stars": 1443,
     "language": "TypeScript",
-    "updated_at": "2026-10-16T22:31:25Z"
+    "updated_at": "2026-10-17T03:02:13Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1064,
+    "stars": 1067,
     "language": "Python",
-    "updated_at": "2026-10-16T19:45:44Z"
+    "updated_at": "2026-10-17T02:58:45Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 434,
+    "stars": 459,
     "language": "Python",
-    "updated_at": "2026-10-16T22:28:29Z"
+    "updated_at": "2026-10-17T03:04:35Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 72,
+    "stars": 74,
     "language": "Python",
-    "updated_at": "2026-10-16T20:13:02Z"
+    "updated_at": "2026-10-17T01:56:02Z"
   },
   {
     "name": "opencode-rust",
@@ -49,18 +49,18 @@
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 65,
+    "stars": 66,
     "language": null,
-    "updated_at": "2026-10-16T20:32:44Z"
+    "updated_at": "2026-10-17T01:54:33Z"
   },
   {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOCX specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 52,
+    "stars": 54,
     "language": "TypeScript",
-    "updated_at": "2026-10-16T16:59:43Z"
+    "updated_at": "2026-10-17T02:27:26Z"
   },
   {
     "name": "filedig",
@@ -72,21 +72,21 @@
     "updated_at": "2026-10-14T04:45:46Z"
   },
   {
-    "name": "attentionmachine-skills",
-    "full_name": "robinebers/attentionmachine-skills",
-    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-    "url": "https://github.com/robinebers/attentionmachine-skills",
-    "stars": 34,
-    "language": "JavaScript",
-    "updated_at": "2026-10-16T14:02:52Z"
-  },
-  {
     "name": "awesome-ai-game-dev-tools",
     "full_name": "SubmitGame/awesome-ai-game-dev-tools",
     "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
     "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
-    "stars": 34,
+    "stars": 35,
     "language": "Python",
-    "updated_at": "2026-10-16T14:41:16Z"
+    "updated_at": "2026-10-16T23:58:57Z"
+  },
+  {
+    "name": "attentionmachine-skills",
+    "full_name": "robinebers/attentionmachine-skills",
+    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
+    "url": "https://github.com/robinebers/attentionmachine-skills",
+    "stars": 35,
+    "language": "JavaScript",
+    "updated_at": "2026-10-17T01:46:06Z"
   }
 ]
