@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-10-17 18:12:00",
+  "generated_at": "2026-10-17 21:58:42",
   "news": [
+    {
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "source": "Hacker News",
+      "time": "2026-10-17 18:45",
+      "score": 34,
+      "comments": 29
+    },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "time": "2026-10-17 08:21",
-      "score": 470,
-      "comments": 462
+      "score": 609,
+      "comments": 532
     },
     {
-      "title": "OpenAI discloses four more rogue incidents",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
       "source": "Hacker News",
-      "time": "2026-10-17 16:31",
-      "score": 61,
-      "comments": 29
+      "time": "2026-10-17 15:55",
+      "score": 129,
+      "comments": 15
     }
   ]
 }

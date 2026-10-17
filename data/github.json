@@ -4,9 +4,9 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1685,
+    "stars": 1687,
     "language": "TypeScript",
-    "updated_at": "2026-10-17T16:15:30Z"
+    "updated_at": "2026-10-17T20:01:53Z"
   },
   {
     "name": "new-term-radar",
@@ -22,18 +22,18 @@
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 555,
+    "stars": 575,
     "language": "Python",
-    "updated_at": "2026-10-17T17:47:49Z"
+    "updated_at": "2026-10-17T21:58:42Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 119,
+    "stars": 138,
     "language": "Python",
-    "updated_at": "2026-10-17T18:10:13Z"
+    "updated_at": "2026-10-17T21:47:46Z"
   },
   {
     "name": "opencode-rust",
@@ -58,9 +58,9 @@
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 60,
+    "stars": 61,
     "language": "TypeScript",
-    "updated_at": "2026-10-17T15:45:37Z"
+    "updated_at": "2026-10-17T19:21:20Z"
   },
   {
     "name": "awesome-ai-game-dev-tools",
@@ -72,6 +72,15 @@
     "updated_at": "2026-10-17T13:50:00Z"
   },
   {
+    "name": "attentionmachine-skills",
+    "full_name": "robinebers/attentionmachine-skills",
+    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
+    "url": "https://github.com/robinebers/attentionmachine-skills",
+    "stars": 38,
+    "language": "JavaScript",
+    "updated_at": "2026-10-17T19:18:14Z"
+  },
+  {
     "name": "filedig",
     "full_name": "rupeshs/filedig",
     "description": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
@@ -79,14 +88,5 @@
     "stars": 37,
     "language": "Rust",
     "updated_at": "2026-10-14T04:45:46Z"
-  },
-  {
-    "name": "attentionmachine-skills",
-    "full_name": "robinebers/attentionmachine-skills",
-    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-    "url": "https://github.com/robinebers/attentionmachine-skills",
-    "stars": 37,
-    "language": "JavaScript",
-    "updated_at": "2026-10-17T11:30:02Z"
   }
 ]
