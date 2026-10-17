@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-10-17 03:14:35",
+  "generated_at": "2026-10-17 08:17:23",
   "news": [
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "source": "Hacker News",
+      "time": "2026-10-17 04:36",
+      "score": 48,
+      "comments": 18
+    },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "time": "2026-10-16 18:32",
-      "score": 222,
-      "comments": 57
+      "score": 279,
+      "comments": 68
     },
     {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
       "source": "Hacker News",
       "time": "2026-10-16 19:01",
-      "score": 173,
-      "comments": 46
+      "score": 273,
+      "comments": 65
     }
   ]
 }

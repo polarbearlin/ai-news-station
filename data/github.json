@@ -4,36 +4,36 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1443,
+    "stars": 1575,
     "language": "TypeScript",
-    "updated_at": "2026-10-17T03:02:13Z"
+    "updated_at": "2026-10-17T08:17:07Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1067,
+    "stars": 1072,
     "language": "Python",
-    "updated_at": "2026-10-17T02:58:45Z"
+    "updated_at": "2026-10-17T07:28:14Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 459,
+    "stars": 497,
     "language": "Python",
-    "updated_at": "2026-10-17T03:04:35Z"
+    "updated_at": "2026-10-17T08:16:22Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 74,
+    "stars": 75,
     "language": "Python",
-    "updated_at": "2026-10-17T01:56:02Z"
+    "updated_at": "2026-10-17T08:07:56Z"
   },
   {
     "name": "opencode-rust",
@@ -49,9 +49,9 @@
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 66,
+    "stars": 67,
     "language": null,
-    "updated_at": "2026-10-17T01:54:33Z"
+    "updated_at": "2026-10-17T05:47:48Z"
   },
   {
     "name": "SoftJL",
@@ -76,17 +76,17 @@
     "full_name": "SubmitGame/awesome-ai-game-dev-tools",
     "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
     "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
-    "stars": 35,
+    "stars": 36,
     "language": "Python",
-    "updated_at": "2026-10-16T23:58:57Z"
+    "updated_at": "2026-10-17T08:13:37Z"
   },
   {
     "name": "attentionmachine-skills",
     "full_name": "robinebers/attentionmachine-skills",
     "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
     "url": "https://github.com/robinebers/attentionmachine-skills",
-    "stars": 35,
+    "stars": 36,
     "language": "JavaScript",
-    "updated_at": "2026-10-17T01:46:06Z"
+    "updated_at": "2026-10-17T03:19:43Z"
   }
 ]
