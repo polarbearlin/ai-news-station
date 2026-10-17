@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-17 08:17:23",
+  "generated_at": "2026-10-17 15:03:44",
   "news": [
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "Hacker News",
+      "time": "2026-10-17 08:37",
+      "score": 426,
+      "comments": 203
+    },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "time": "2026-10-17 04:36",
-      "score": 48,
-      "comments": 18
+      "score": 166,
+      "comments": 54
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
-      "time": "2026-10-16 18:32",
-      "score": 279,
-      "comments": 68
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "source": "Hacker News",
-      "time": "2026-10-16 19:01",
-      "score": 273,
-      "comments": 65
+      "time": "2026-10-17 08:21",
+      "score": 308,
+      "comments": 121
     }
   ]
 }
