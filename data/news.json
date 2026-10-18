@@ -1,21 +1,37 @@
 {
-  "generated_at": "2026-10-18 03:18:48",
+  "generated_at": "2026-10-18 08:35:28",
   "news": [
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "Hacker News",
+      "time": "2026-10-18 06:50",
+      "score": 114,
+      "comments": 50
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News",
+      "time": "2026-10-18 04:33",
+      "score": 102,
+      "comments": 30
+    },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "time": "2026-10-17 08:21",
-      "score": 738,
-      "comments": 605
+      "score": 844,
+      "comments": 642
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
       "source": "Hacker News",
       "time": "2026-10-17 15:55",
-      "score": 285,
-      "comments": 27
+      "score": 410,
+      "comments": 38
     }
   ]
 }

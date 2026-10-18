@@ -4,45 +4,45 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1772,
+    "stars": 1910,
     "language": "TypeScript",
-    "updated_at": "2026-10-18T03:02:15Z"
+    "updated_at": "2026-10-18T08:22:13Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1084,
+    "stars": 1092,
     "language": "Python",
-    "updated_at": "2026-10-18T02:35:00Z"
+    "updated_at": "2026-10-18T08:18:04Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 589,
+    "stars": 600,
     "language": "Python",
-    "updated_at": "2026-10-18T03:14:36Z"
+    "updated_at": "2026-10-18T07:49:37Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 169,
+    "stars": 209,
     "language": "Python",
-    "updated_at": "2026-10-18T03:08:52Z"
+    "updated_at": "2026-10-18T08:17:47Z"
   },
   {
     "name": "opencode-rust",
     "full_name": "vakandi/opencode-rust",
     "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
     "url": "https://github.com/vakandi/opencode-rust",
-    "stars": 72,
+    "stars": 73,
     "language": "Rust",
-    "updated_at": "2026-10-16T19:44:22Z"
+    "updated_at": "2026-10-18T06:11:47Z"
   },
   {
     "name": "ai-motion-library",
@@ -63,6 +63,15 @@
     "updated_at": "2026-10-17T19:21:20Z"
   },
   {
+    "name": "opencode-free-bridge",
+    "full_name": "azrinaldi/opencode-free-bridge",
+    "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
+    "url": "https://github.com/azrinaldi/opencode-free-bridge",
+    "stars": 39,
+    "language": "JavaScript",
+    "updated_at": "2026-10-18T08:10:16Z"
+  },
+  {
     "name": "attentionmachine-skills",
     "full_name": "robinebers/attentionmachine-skills",
     "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
@@ -79,14 +88,5 @@
     "stars": 38,
     "language": "Python",
     "updated_at": "2026-10-17T13:50:00Z"
-  },
-  {
-    "name": "opencode-free-bridge",
-    "full_name": "azrinaldi/opencode-free-bridge",
-    "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
-    "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 33,
-    "language": "JavaScript",
-    "updated_at": "2026-10-18T02:33:49Z"
   }
 ]
