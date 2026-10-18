@@ -4,36 +4,36 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1687,
+    "stars": 1772,
     "language": "TypeScript",
-    "updated_at": "2026-10-17T20:01:53Z"
+    "updated_at": "2026-10-18T03:02:15Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1079,
+    "stars": 1084,
     "language": "Python",
-    "updated_at": "2026-10-17T17:10:00Z"
+    "updated_at": "2026-10-18T02:35:00Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 575,
+    "stars": 589,
     "language": "Python",
-    "updated_at": "2026-10-17T21:58:42Z"
+    "updated_at": "2026-10-18T03:14:36Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 138,
+    "stars": 169,
     "language": "Python",
-    "updated_at": "2026-10-17T21:47:46Z"
+    "updated_at": "2026-10-18T03:08:52Z"
   },
   {
     "name": "opencode-rust",
@@ -63,6 +63,15 @@
     "updated_at": "2026-10-17T19:21:20Z"
   },
   {
+    "name": "attentionmachine-skills",
+    "full_name": "robinebers/attentionmachine-skills",
+    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
+    "url": "https://github.com/robinebers/attentionmachine-skills",
+    "stars": 39,
+    "language": "JavaScript",
+    "updated_at": "2026-10-18T00:10:11Z"
+  },
+  {
     "name": "awesome-ai-game-dev-tools",
     "full_name": "SubmitGame/awesome-ai-game-dev-tools",
     "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-10-17T13:50:00Z"
   },
   {
-    "name": "attentionmachine-skills",
-    "full_name": "robinebers/attentionmachine-skills",
-    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-    "url": "https://github.com/robinebers/attentionmachine-skills",
-    "stars": 38,
+    "name": "opencode-free-bridge",
+    "full_name": "azrinaldi/opencode-free-bridge",
+    "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
+    "url": "https://github.com/azrinaldi/opencode-free-bridge",
+    "stars": 33,
     "language": "JavaScript",
-    "updated_at": "2026-10-17T19:18:14Z"
-  },
-  {
-    "name": "filedig",
-    "full_name": "rupeshs/filedig",
-    "description": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
-    "url": "https://github.com/rupeshs/filedig",
-    "stars": 37,
-    "language": "Rust",
-    "updated_at": "2026-10-14T04:45:46Z"
+    "updated_at": "2026-10-18T02:33:49Z"
   }
 ]

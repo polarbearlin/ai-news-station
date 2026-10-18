@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-17 21:58:42",
+  "generated_at": "2026-10-18 03:18:48",
   "news": [
-    {
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "source": "Hacker News",
-      "time": "2026-10-17 18:45",
-      "score": 34,
-      "comments": 29
-    },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "time": "2026-10-17 08:21",
-      "score": 609,
-      "comments": 532
+      "score": 738,
+      "comments": 605
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
       "source": "Hacker News",
       "time": "2026-10-17 15:55",
-      "score": 129,
-      "comments": 15
+      "score": 285,
+      "comments": 27
     }
   ]
 }
