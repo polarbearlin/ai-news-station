@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-10-18 15:27:48",
+  "generated_at": "2026-10-18 18:28:09",
   "news": [
     {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "source": "Hacker News",
       "time": "2026-10-18 06:50",
-      "score": 384,
-      "comments": 191
-    },
-    {
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "source": "Hacker News",
-      "time": "2026-10-18 14:30",
-      "score": 47,
-      "comments": 35
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "Hacker News",
-      "time": "2026-10-18 14:58",
-      "score": 25,
-      "comments": 16
+      "score": 452,
+      "comments": 219
     }
   ]
 }

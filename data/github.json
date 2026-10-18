@@ -4,36 +4,45 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 2003,
+    "stars": 2010,
     "language": "TypeScript",
-    "updated_at": "2026-10-18T15:09:18Z"
+    "updated_at": "2026-10-18T18:03:23Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1101,
+    "stars": 1106,
     "language": "Python",
-    "updated_at": "2026-10-18T15:16:04Z"
+    "updated_at": "2026-10-18T17:36:49Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 613,
+    "stars": 618,
     "language": "Python",
-    "updated_at": "2026-10-18T15:00:26Z"
+    "updated_at": "2026-10-18T18:17:51Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 245,
+    "stars": 258,
     "language": "Python",
-    "updated_at": "2026-10-18T15:22:29Z"
+    "updated_at": "2026-10-18T18:24:37Z"
+  },
+  {
+    "name": "github-star-benchmarks",
+    "full_name": "repoboost-hq/github-star-benchmarks",
+    "description": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.",
+    "url": "https://github.com/repoboost-hq/github-star-benchmarks",
+    "stars": 74,
+    "language": "Python",
+    "updated_at": "2026-10-18T18:04:07Z"
   },
   {
     "name": "opencode-rust",
@@ -54,31 +63,22 @@
     "updated_at": "2026-10-17T16:18:53Z"
   },
   {
-    "name": "github-star-benchmarks",
-    "full_name": "repoboost-hq/github-star-benchmarks",
-    "description": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.",
-    "url": "https://github.com/repoboost-hq/github-star-benchmarks",
-    "stars": 66,
-    "language": "Python",
-    "updated_at": "2026-10-18T15:27:02Z"
-  },
-  {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 63,
+    "stars": 64,
     "language": "TypeScript",
-    "updated_at": "2026-10-18T14:02:20Z"
+    "updated_at": "2026-10-18T16:02:32Z"
   },
   {
     "name": "opencode-free-bridge",
     "full_name": "azrinaldi/opencode-free-bridge",
     "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
     "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 50,
+    "stars": 53,
     "language": "JavaScript",
-    "updated_at": "2026-10-18T15:20:31Z"
+    "updated_at": "2026-10-18T17:39:38Z"
   },
   {
     "name": "attentionmachine-skills",
