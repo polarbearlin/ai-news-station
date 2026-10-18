@@ -4,36 +4,36 @@
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 2010,
+    "stars": 2015,
     "language": "TypeScript",
-    "updated_at": "2026-10-18T18:03:23Z"
+    "updated_at": "2026-10-18T21:39:19Z"
   },
   {
     "name": "new-term-radar",
     "full_name": "zhuyansen/new-term-radar",
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1106,
+    "stars": 1108,
     "language": "Python",
-    "updated_at": "2026-10-18T17:36:49Z"
+    "updated_at": "2026-10-18T19:26:24Z"
   },
   {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 618,
+    "stars": 623,
     "language": "Python",
-    "updated_at": "2026-10-18T18:17:51Z"
+    "updated_at": "2026-10-18T21:50:11Z"
   },
   {
     "name": "awesome-REA-cases",
     "full_name": "songshikang0111/awesome-REA-cases",
     "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
     "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 258,
+    "stars": 267,
     "language": "Python",
-    "updated_at": "2026-10-18T18:24:37Z"
+    "updated_at": "2026-10-18T22:02:51Z"
   },
   {
     "name": "github-star-benchmarks",
@@ -67,9 +67,9 @@
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 64,
+    "stars": 67,
     "language": "TypeScript",
-    "updated_at": "2026-10-18T16:02:32Z"
+    "updated_at": "2026-10-18T22:01:14Z"
   },
   {
     "name": "opencode-free-bridge",
@@ -85,8 +85,8 @@
     "full_name": "robinebers/attentionmachine-skills",
     "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
     "url": "https://github.com/robinebers/attentionmachine-skills",
-    "stars": 39,
+    "stars": 40,
     "language": "JavaScript",
-    "updated_at": "2026-10-18T00:10:11Z"
+    "updated_at": "2026-10-18T21:03:57Z"
   }
 ]

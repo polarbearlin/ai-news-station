@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-10-18 18:28:09",
+  "generated_at": "2026-10-18 22:14:54",
   "news": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "time": "2026-10-18 20:48",
+      "score": 76,
+      "comments": 30
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "source": "Hacker News",
+      "time": "2026-10-17 22:26",
+      "score": 27,
+      "comments": 24
+    },
     {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "source": "Hacker News",
       "time": "2026-10-18 06:50",
-      "score": 452,
-      "comments": 219
+      "score": 511,
+      "comments": 251
     }
   ]
 }
