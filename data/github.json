@@ -1,39 +1,12 @@
 [
   {
-    "name": "solid-glass",
-    "full_name": "deeplethe/solid-glass",
-    "description": "A design system for AI applications. Material, physical, tactile, technical.",
-    "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 2015,
-    "language": "TypeScript",
-    "updated_at": "2026-10-18T21:39:19Z"
-  },
-  {
-    "name": "new-term-radar",
-    "full_name": "zhuyansen/new-term-radar",
-    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-    "url": "https://github.com/zhuyansen/new-term-radar",
-    "stars": 1108,
-    "language": "Python",
-    "updated_at": "2026-10-18T19:26:24Z"
-  },
-  {
     "name": "indra",
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 623,
+    "stars": 633,
     "language": "Python",
-    "updated_at": "2026-10-18T21:50:11Z"
-  },
-  {
-    "name": "awesome-REA-cases",
-    "full_name": "songshikang0111/awesome-REA-cases",
-    "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
-    "url": "https://github.com/songshikang0111/awesome-REA-cases",
-    "stars": 267,
-    "language": "Python",
-    "updated_at": "2026-10-18T22:02:51Z"
+    "updated_at": "2026-10-19T03:12:32Z"
   },
   {
     "name": "github-star-benchmarks",
@@ -54,6 +27,15 @@
     "updated_at": "2026-10-18T06:11:47Z"
   },
   {
+    "name": "SoftJL",
+    "full_name": "guolola/SoftJL",
+    "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
+    "url": "https://github.com/guolola/SoftJL",
+    "stars": 68,
+    "language": "TypeScript",
+    "updated_at": "2026-10-19T02:01:02Z"
+  },
+  {
     "name": "ai-motion-library",
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
@@ -63,30 +45,48 @@
     "updated_at": "2026-10-17T16:18:53Z"
   },
   {
-    "name": "SoftJL",
-    "full_name": "guolola/SoftJL",
-    "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
-    "url": "https://github.com/guolola/SoftJL",
-    "stars": 67,
-    "language": "TypeScript",
-    "updated_at": "2026-10-18T22:01:14Z"
-  },
-  {
     "name": "opencode-free-bridge",
     "full_name": "azrinaldi/opencode-free-bridge",
     "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
     "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 53,
+    "stars": 55,
     "language": "JavaScript",
-    "updated_at": "2026-10-18T17:39:38Z"
+    "updated_at": "2026-10-19T01:49:42Z"
   },
   {
-    "name": "attentionmachine-skills",
-    "full_name": "robinebers/attentionmachine-skills",
-    "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-    "url": "https://github.com/robinebers/attentionmachine-skills",
-    "stars": 40,
+    "name": "awesome-ai-game-dev-tools",
+    "full_name": "SubmitGame/awesome-ai-game-dev-tools",
+    "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
+    "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
+    "stars": 39,
+    "language": "Python",
+    "updated_at": "2026-10-18T22:57:07Z"
+  },
+  {
+    "name": "harshpreet-hand",
+    "full_name": "harshpreet931/harshpreet-hand",
+    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+    "url": "https://github.com/harshpreet931/harshpreet-hand",
+    "stars": 37,
+    "language": "Python",
+    "updated_at": "2026-10-18T16:00:55Z"
+  },
+  {
+    "name": "awesome-ai-relay-and-cards",
+    "full_name": "waw666waw666/awesome-ai-relay-and-cards",
+    "description": "2026 AI 发卡比价 & API 中转站精选指南 | 快速检索 Skill",
+    "url": "https://github.com/waw666waw666/awesome-ai-relay-and-cards",
+    "stars": 36,
+    "language": "Python",
+    "updated_at": "2026-10-18T16:13:06Z"
+  },
+  {
+    "name": "TokenForge",
+    "full_name": "speedydivid/TokenForge",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.",
+    "url": "https://github.com/speedydivid/TokenForge",
+    "stars": 31,
     "language": "JavaScript",
-    "updated_at": "2026-10-18T21:03:57Z"
+    "updated_at": "2026-10-17T18:12:22Z"
   }
 ]

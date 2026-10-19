@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-18 22:14:54",
+  "generated_at": "2026-10-19 03:31:06",
   "news": [
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "source": "Hacker News",
       "time": "2026-10-18 20:48",
-      "score": 76,
-      "comments": 30
+      "score": 257,
+      "comments": 152
     },
     {
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "source": "Hacker News",
-      "time": "2026-10-17 22:26",
-      "score": 27,
-      "comments": 24
-    },
-    {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "source": "Hacker News",
-      "time": "2026-10-18 06:50",
-      "score": 511,
-      "comments": 251
+      "time": "2026-10-18 21:09",
+      "score": 66,
+      "comments": 46
     }
   ]
 }
