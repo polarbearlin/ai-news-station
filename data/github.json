@@ -4,18 +4,27 @@
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 644,
+    "stars": 657,
     "language": "Python",
-    "updated_at": "2026-10-19T08:58:13Z"
+    "updated_at": "2026-10-19T18:13:15Z"
+  },
+  {
+    "name": "ai-jailbreaks",
+    "full_name": "AndreSzymanski15/ai-jailbreaks",
+    "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+    "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+    "stars": 158,
+    "language": null,
+    "updated_at": "2026-10-19T18:23:48Z"
   },
   {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 78,
+    "stars": 84,
     "language": "TypeScript",
-    "updated_at": "2026-10-19T09:19:59Z"
+    "updated_at": "2026-10-19T14:02:57Z"
   },
   {
     "name": "github-star-benchmarks",
@@ -49,9 +58,9 @@
     "full_name": "azrinaldi/opencode-free-bridge",
     "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
     "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 59,
+    "stars": 60,
     "language": "JavaScript",
-    "updated_at": "2026-10-19T07:35:49Z"
+    "updated_at": "2026-10-19T15:23:28Z"
   },
   {
     "name": "awesome-ai-game-dev-tools",
@@ -67,26 +76,17 @@
     "full_name": "waw666waw666/awesome-ai-relay-and-cards",
     "description": "2026 AI 发卡比价 & API 中转站精选指南 | 快速检索 Skill",
     "url": "https://github.com/waw666waw666/awesome-ai-relay-and-cards",
-    "stars": 38,
+    "stars": 39,
     "language": "Python",
-    "updated_at": "2026-10-19T08:43:06Z"
+    "updated_at": "2026-10-19T15:13:59Z"
   },
   {
     "name": "harshpreet-hand",
     "full_name": "harshpreet931/harshpreet-hand",
     "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
     "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 38,
+    "stars": 39,
     "language": "Python",
-    "updated_at": "2026-10-19T03:38:38Z"
-  },
-  {
-    "name": "TokenForge",
-    "full_name": "speedydivid/TokenForge",
-    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.",
-    "url": "https://github.com/speedydivid/TokenForge",
-    "stars": 31,
-    "language": "JavaScript",
-    "updated_at": "2026-10-17T18:12:22Z"
+    "updated_at": "2026-10-19T17:32:28Z"
   }
 ]
