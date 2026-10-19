@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-10-19 03:31:06",
+  "generated_at": "2026-10-19 09:37:59",
   "news": [
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "source": "Hacker News",
       "time": "2026-10-18 20:48",
-      "score": 257,
-      "comments": 152
+      "score": 388,
+      "comments": 187
+    },
+    {
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "source": "Hacker News",
+      "time": "2026-10-15 15:13",
+      "score": 23,
+      "comments": 9
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "source": "Hacker News",
       "time": "2026-10-18 21:09",
-      "score": 66,
-      "comments": 46
+      "score": 163,
+      "comments": 110
     }
   ]
 }

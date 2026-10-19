@@ -4,9 +4,18 @@
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 633,
+    "stars": 644,
     "language": "Python",
-    "updated_at": "2026-10-19T03:12:32Z"
+    "updated_at": "2026-10-19T08:58:13Z"
+  },
+  {
+    "name": "SoftJL",
+    "full_name": "guolola/SoftJL",
+    "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
+    "url": "https://github.com/guolola/SoftJL",
+    "stars": 78,
+    "language": "TypeScript",
+    "updated_at": "2026-10-19T09:19:59Z"
   },
   {
     "name": "github-star-benchmarks",
@@ -27,15 +36,6 @@
     "updated_at": "2026-10-18T06:11:47Z"
   },
   {
-    "name": "SoftJL",
-    "full_name": "guolola/SoftJL",
-    "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
-    "url": "https://github.com/guolola/SoftJL",
-    "stars": 68,
-    "language": "TypeScript",
-    "updated_at": "2026-10-19T02:01:02Z"
-  },
-  {
     "name": "ai-motion-library",
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
@@ -49,36 +49,36 @@
     "full_name": "azrinaldi/opencode-free-bridge",
     "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
     "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 55,
+    "stars": 59,
     "language": "JavaScript",
-    "updated_at": "2026-10-19T01:49:42Z"
+    "updated_at": "2026-10-19T07:35:49Z"
   },
   {
     "name": "awesome-ai-game-dev-tools",
     "full_name": "SubmitGame/awesome-ai-game-dev-tools",
     "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
     "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
-    "stars": 39,
+    "stars": 40,
     "language": "Python",
-    "updated_at": "2026-10-18T22:57:07Z"
-  },
-  {
-    "name": "harshpreet-hand",
-    "full_name": "harshpreet931/harshpreet-hand",
-    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
-    "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 37,
-    "language": "Python",
-    "updated_at": "2026-10-18T16:00:55Z"
+    "updated_at": "2026-10-19T08:51:15Z"
   },
   {
     "name": "awesome-ai-relay-and-cards",
     "full_name": "waw666waw666/awesome-ai-relay-and-cards",
     "description": "2026 AI 发卡比价 & API 中转站精选指南 | 快速检索 Skill",
     "url": "https://github.com/waw666waw666/awesome-ai-relay-and-cards",
-    "stars": 36,
+    "stars": 38,
     "language": "Python",
-    "updated_at": "2026-10-18T16:13:06Z"
+    "updated_at": "2026-10-19T08:43:06Z"
+  },
+  {
+    "name": "harshpreet-hand",
+    "full_name": "harshpreet931/harshpreet-hand",
+    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+    "url": "https://github.com/harshpreet931/harshpreet-hand",
+    "stars": 38,
+    "language": "Python",
+    "updated_at": "2026-10-19T03:38:38Z"
   },
   {
     "name": "TokenForge",
