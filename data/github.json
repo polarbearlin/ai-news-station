@@ -4,18 +4,18 @@
     "full_name": "datalab-to/indra",
     "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
     "url": "https://github.com/datalab-to/indra",
-    "stars": 657,
+    "stars": 679,
     "language": "Python",
-    "updated_at": "2026-10-19T18:13:15Z"
+    "updated_at": "2026-10-19T23:19:23Z"
   },
   {
     "name": "ai-jailbreaks",
     "full_name": "AndreSzymanski15/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-    "stars": 158,
+    "stars": 224,
     "language": null,
-    "updated_at": "2026-10-19T18:23:48Z"
+    "updated_at": "2026-10-19T23:16:40Z"
   },
   {
     "name": "SoftJL",
@@ -49,18 +49,18 @@
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 68,
+    "stars": 69,
     "language": null,
-    "updated_at": "2026-10-17T16:18:53Z"
+    "updated_at": "2026-10-19T20:02:42Z"
   },
   {
     "name": "opencode-free-bridge",
     "full_name": "azrinaldi/opencode-free-bridge",
     "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
     "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 60,
+    "stars": 61,
     "language": "JavaScript",
-    "updated_at": "2026-10-19T15:23:28Z"
+    "updated_at": "2026-10-19T18:30:14Z"
   },
   {
     "name": "awesome-ai-game-dev-tools",
