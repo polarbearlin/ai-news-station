@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-20 03:40:46",
+  "generated_at": "2026-10-20 09:10:50",
   "news": [
-    {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "source": "Hacker News",
-      "time": "2026-10-20 00:53",
-      "score": 219,
-      "comments": 108
-    },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "source": "Hacker News",
       "time": "2026-10-19 23:22",
-      "score": 81,
-      "comments": 11
+      "score": 412,
+      "comments": 109
+    },
+    {
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "source": "Hacker News",
+      "time": "2026-10-19 16:16",
+      "score": 232,
+      "comments": 204
     }
   ]
 }

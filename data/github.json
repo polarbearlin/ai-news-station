@@ -4,36 +4,36 @@
     "full_name": "AndreSzymanski15/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-    "stars": 377,
+    "stars": 431,
     "language": null,
-    "updated_at": "2026-10-20T03:40:01Z"
+    "updated_at": "2026-10-20T08:48:20Z"
   },
   {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 87,
+    "stars": 89,
     "language": "TypeScript",
-    "updated_at": "2026-10-20T03:20:50Z"
+    "updated_at": "2026-10-20T08:20:30Z"
   },
   {
     "name": "github-star-benchmarks",
     "full_name": "repoboost-hq/github-star-benchmarks",
     "description": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.",
     "url": "https://github.com/repoboost-hq/github-star-benchmarks",
-    "stars": 74,
+    "stars": 75,
     "language": "Python",
-    "updated_at": "2026-10-18T18:04:07Z"
+    "updated_at": "2026-10-20T04:58:51Z"
   },
   {
     "name": "ai-motion-library",
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 69,
+    "stars": 70,
     "language": null,
-    "updated_at": "2026-10-19T20:02:42Z"
+    "updated_at": "2026-10-20T04:08:14Z"
   },
   {
     "name": "awesome-ai-relay-and-cards",
@@ -58,9 +58,18 @@
     "full_name": "JoasASantos/Malvex",
     "description": "AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server",
     "url": "https://github.com/JoasASantos/Malvex",
-    "stars": 32,
+    "stars": 35,
     "language": "Rust",
-    "updated_at": "2026-10-20T01:23:14Z"
+    "updated_at": "2026-10-20T09:04:01Z"
+  },
+  {
+    "name": "hh-sniper",
+    "full_name": "Riper21/hh-sniper",
+    "description": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от галлюцинаций. Всё локально на вашем ПК, официальный API, Python.",
+    "url": "https://github.com/Riper21/hh-sniper",
+    "stars": 32,
+    "language": "Python",
+    "updated_at": "2026-10-20T06:29:58Z"
   },
   {
     "name": "TokenForge",
@@ -70,15 +79,6 @@
     "stars": 31,
     "language": "JavaScript",
     "updated_at": "2026-10-17T18:12:22Z"
-  },
-  {
-    "name": "hh-sniper",
-    "full_name": "Riper21/hh-sniper",
-    "description": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от галлюцинаций. Всё локально на вашем ПК, официальный API, Python.",
-    "url": "https://github.com/Riper21/hh-sniper",
-    "stars": 31,
-    "language": "Python",
-    "updated_at": "2026-10-19T10:39:51Z"
   },
   {
     "name": "voice-ai-assistant",
