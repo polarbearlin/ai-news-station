@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-20 09:10:50",
+  "generated_at": "2026-10-20 16:25:57",
   "news": [
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
       "source": "Hacker News",
-      "time": "2026-10-19 23:22",
-      "score": 412,
-      "comments": 109
+      "time": "2026-10-20 09:08",
+      "score": 1657,
+      "comments": 603
     },
     {
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "source": "Hacker News",
-      "time": "2026-10-19 16:16",
-      "score": 232,
-      "comments": 204
+      "time": "2026-10-20 13:06",
+      "score": 158,
+      "comments": 90
     }
   ]
 }
