@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-10-20 16:25:57",
+  "generated_at": "2026-10-20 22:56:29",
   "news": [
     {
-      "title": "DeepSeek just open-sourced its inference engine",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "source": "Hacker News",
       "time": "2026-10-20 09:08",
-      "score": 1657,
-      "comments": 603
-    },
-    {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "source": "Hacker News",
-      "time": "2026-10-20 13:06",
-      "score": 158,
-      "comments": 90
+      "score": 2073,
+      "comments": 811
     }
   ]
 }

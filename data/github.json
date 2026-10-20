@@ -1,14 +1,5 @@
 [
   {
-    "name": "ai-jailbreaks",
-    "full_name": "AndreSzymanski15/ai-jailbreaks",
-    "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-    "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-    "stars": 424,
-    "language": null,
-    "updated_at": "2026-10-20T16:14:33Z"
-  },
-  {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
@@ -22,18 +13,9 @@
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
     "url": "https://github.com/apenasdouglas/ai-motion-library",
-    "stars": 71,
+    "stars": 72,
     "language": null,
-    "updated_at": "2026-10-20T15:05:19Z"
-  },
-  {
-    "name": "github-star-benchmarks",
-    "full_name": "repoboost-hq/github-star-benchmarks",
-    "description": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.",
-    "url": "https://github.com/repoboost-hq/github-star-benchmarks",
-    "stars": 52,
-    "language": "Python",
-    "updated_at": "2026-10-20T16:08:58Z"
+    "updated_at": "2026-10-20T21:04:18Z"
   },
   {
     "name": "meanp-injector-rpocket-team",
@@ -49,9 +31,9 @@
     "full_name": "harshpreet931/harshpreet-hand",
     "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
     "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 42,
+    "stars": 43,
     "language": "Python",
-    "updated_at": "2026-10-20T14:33:59Z"
+    "updated_at": "2026-10-20T21:38:07Z"
   },
   {
     "name": "awesome-ai-relay-and-cards",
@@ -88,5 +70,23 @@
     "stars": 31,
     "language": "JavaScript",
     "updated_at": "2026-10-17T18:12:22Z"
+  },
+  {
+    "name": "voice-ai-assistant",
+    "full_name": "ahmedbadr-dev/voice-ai-assistant",
+    "description": "Python voice AI assistant: microphone STT, Google Gemini answers, offline TTS with pyttsx3. Clean env-based setup.",
+    "url": "https://github.com/ahmedbadr-dev/voice-ai-assistant",
+    "stars": 28,
+    "language": "Python",
+    "updated_at": "2026-10-17T09:32:14Z"
+  },
+  {
+    "name": "notion-bulk-9router",
+    "full_name": "0xgetz/notion-bulk-9router",
+    "description": "Bulk-create Notion accounts and auto-wire each into 9Router as an OpenAI-compatible AI provider. Zero-dependency Node toolkit: disposable-email signup, automatic session/token/cookie extraction, and one-command 9Router registration.",
+    "url": "https://github.com/0xgetz/notion-bulk-9router",
+    "stars": 28,
+    "language": "JavaScript",
+    "updated_at": "2026-10-17T03:12:30Z"
   }
 ]
