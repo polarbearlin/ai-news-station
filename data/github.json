@@ -1,30 +1,21 @@
 [
   {
-    "name": "indra",
-    "full_name": "datalab-to/indra",
-    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-    "url": "https://github.com/datalab-to/indra",
-    "stars": 679,
-    "language": "Python",
-    "updated_at": "2026-10-19T23:19:23Z"
-  },
-  {
     "name": "ai-jailbreaks",
     "full_name": "AndreSzymanski15/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-    "stars": 224,
+    "stars": 377,
     "language": null,
-    "updated_at": "2026-10-19T23:16:40Z"
+    "updated_at": "2026-10-20T03:40:01Z"
   },
   {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 84,
+    "stars": 87,
     "language": "TypeScript",
-    "updated_at": "2026-10-19T14:02:57Z"
+    "updated_at": "2026-10-20T03:20:50Z"
   },
   {
     "name": "github-star-benchmarks",
@@ -36,15 +27,6 @@
     "updated_at": "2026-10-18T18:04:07Z"
   },
   {
-    "name": "opencode-rust",
-    "full_name": "vakandi/opencode-rust",
-    "description": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
-    "url": "https://github.com/vakandi/opencode-rust",
-    "stars": 73,
-    "language": "Rust",
-    "updated_at": "2026-10-18T06:11:47Z"
-  },
-  {
     "name": "ai-motion-library",
     "full_name": "apenasdouglas/ai-motion-library",
     "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
@@ -54,31 +36,13 @@
     "updated_at": "2026-10-19T20:02:42Z"
   },
   {
-    "name": "opencode-free-bridge",
-    "full_name": "azrinaldi/opencode-free-bridge",
-    "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
-    "url": "https://github.com/azrinaldi/opencode-free-bridge",
-    "stars": 61,
-    "language": "JavaScript",
-    "updated_at": "2026-10-19T18:30:14Z"
-  },
-  {
-    "name": "awesome-ai-game-dev-tools",
-    "full_name": "SubmitGame/awesome-ai-game-dev-tools",
-    "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
-    "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
-    "stars": 40,
-    "language": "Python",
-    "updated_at": "2026-10-19T08:51:15Z"
-  },
-  {
     "name": "awesome-ai-relay-and-cards",
     "full_name": "waw666waw666/awesome-ai-relay-and-cards",
-    "description": "2026 AI 发卡比价 & API 中转站精选指南 | 快速检索 Skill",
+    "description": "2026 AI 发卡比价 & API 中转站精选指南",
     "url": "https://github.com/waw666waw666/awesome-ai-relay-and-cards",
     "stars": 39,
     "language": "Python",
-    "updated_at": "2026-10-19T15:13:59Z"
+    "updated_at": "2026-10-20T03:07:58Z"
   },
   {
     "name": "harshpreet-hand",
@@ -88,5 +52,41 @@
     "stars": 39,
     "language": "Python",
     "updated_at": "2026-10-19T17:32:28Z"
+  },
+  {
+    "name": "Malvex",
+    "full_name": "JoasASantos/Malvex",
+    "description": "AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server",
+    "url": "https://github.com/JoasASantos/Malvex",
+    "stars": 32,
+    "language": "Rust",
+    "updated_at": "2026-10-20T01:23:14Z"
+  },
+  {
+    "name": "TokenForge",
+    "full_name": "speedydivid/TokenForge",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.",
+    "url": "https://github.com/speedydivid/TokenForge",
+    "stars": 31,
+    "language": "JavaScript",
+    "updated_at": "2026-10-17T18:12:22Z"
+  },
+  {
+    "name": "hh-sniper",
+    "full_name": "Riper21/hh-sniper",
+    "description": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от галлюцинаций. Всё локально на вашем ПК, официальный API, Python.",
+    "url": "https://github.com/Riper21/hh-sniper",
+    "stars": 31,
+    "language": "Python",
+    "updated_at": "2026-10-19T10:39:51Z"
+  },
+  {
+    "name": "voice-ai-assistant",
+    "full_name": "ahmedbadr-dev/voice-ai-assistant",
+    "description": "Python voice AI assistant: microphone STT, Google Gemini answers, offline TTS with pyttsx3. Clean env-based setup.",
+    "url": "https://github.com/ahmedbadr-dev/voice-ai-assistant",
+    "stars": 28,
+    "language": "Python",
+    "updated_at": "2026-10-17T09:32:14Z"
   }
 ]
