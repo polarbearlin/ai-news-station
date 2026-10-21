@@ -4,9 +4,9 @@
     "full_name": "guolola/SoftJL",
     "description": "Turn requirements into UML diagrams, test cases and editable Word specs—with traceability. Self-hosted, bring your own AI model. Built for capstone and course projects.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 98,
+    "stars": 99,
     "language": "TypeScript",
-    "updated_at": "2026-10-21T03:10:55Z"
+    "updated_at": "2026-10-21T07:14:43Z"
   },
   {
     "name": "meanp-injector-rpocket-team",
@@ -31,9 +31,18 @@
     "full_name": "waw666waw666/awesome-ai-relay-and-cards",
     "description": "2026 AI 发卡比价 & API 中转站精选指南",
     "url": "https://github.com/waw666waw666/awesome-ai-relay-and-cards",
-    "stars": 40,
+    "stars": 41,
     "language": "Python",
-    "updated_at": "2026-10-20T15:06:37Z"
+    "updated_at": "2026-10-21T06:09:27Z"
+  },
+  {
+    "name": "awesome-rea-games",
+    "full_name": "HaozheH3/awesome-rea-games",
+    "description": "A collection of game decompilations, recompilations, demos, ports",
+    "url": "https://github.com/HaozheH3/awesome-rea-games",
+    "stars": 33,
+    "language": null,
+    "updated_at": "2026-10-21T08:20:54Z"
   },
   {
     "name": "hh-sniper",
@@ -65,28 +74,19 @@
   {
     "name": "AgentMemory",
     "full_name": "hsuanshao/AgentMemory",
-    "description": "Self-hosted memory service for AI agents, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and multi-tenant isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
+    "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
     "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 21,
+    "stars": 22,
     "language": "Rust",
-    "updated_at": "2026-10-21T03:10:06Z"
+    "updated_at": "2026-10-21T06:49:17Z"
   },
   {
     "name": "ptero-bulk-9router",
     "full_name": "0xgetz/ptero-bulk-9router",
     "description": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.",
     "url": "https://github.com/0xgetz/ptero-bulk-9router",
-    "stars": 17,
+    "stars": 19,
     "language": "JavaScript",
-    "updated_at": "2026-10-21T00:13:38Z"
-  },
-  {
-    "name": "tokenation",
-    "full_name": "precisionz/tokenation",
-    "description": "Daily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time promos with real deadlines. 每日核实仍有效的免费 LLM API 额度与限时羊毛活动，常态/限时双清单。",
-    "url": "https://github.com/precisionz/tokenation",
-    "stars": 17,
-    "language": null,
-    "updated_at": "2026-10-21T01:23:35Z"
+    "updated_at": "2026-10-21T07:50:28Z"
   }
 ]
