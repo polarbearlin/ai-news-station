@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-10-21 09:09:01",
+  "generated_at": "2026-10-21 16:42:36",
   "news": [
     {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "source": "Hacker News",
-      "time": "2026-10-21 01:45",
-      "score": 113,
-      "comments": 12
+      "time": "2026-10-21 14:00",
+      "score": 115,
+      "comments": 53
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source": "Hacker News",
+      "time": "2026-10-21 13:43",
+      "score": 355,
+      "comments": 117
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "source": "Hacker News",
+      "time": "2026-10-21 14:11",
+      "score": 44,
+      "comments": 4
     }
   ]
 }

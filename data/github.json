@@ -1,30 +1,39 @@
 [
   {
+    "name": "ai-jailbreaks",
+    "full_name": "Alejandros17487/ai-jailbreaks",
+    "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+    "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+    "stars": 137,
+    "language": null,
+    "updated_at": "2026-10-21T16:42:13Z"
+  },
+  {
     "name": "SoftJL",
     "full_name": "guolola/SoftJL",
     "description": "Turn requirements into UML diagrams, test cases and editable Word specs—with traceability. Self-hosted, bring your own AI model. Built for capstone and course projects.",
     "url": "https://github.com/guolola/SoftJL",
-    "stars": 99,
+    "stars": 104,
     "language": "TypeScript",
-    "updated_at": "2026-10-21T07:14:43Z"
+    "updated_at": "2026-10-21T16:41:10Z"
   },
   {
-    "name": "meanp-injector-rpocket-team",
-    "full_name": "DreamHazeSever/meanp-injector-rpocket-team",
-    "description": "Advanced Lightweight C++26 DLL Injection Framework for Windows Memory Patching 2026",
-    "url": "https://github.com/DreamHazeSever/meanp-injector-rpocket-team",
-    "stars": 50,
-    "language": "HTML",
-    "updated_at": "2026-10-20T15:20:50Z"
+    "name": "awesome-rea-games",
+    "full_name": "HaozheH3/awesome-rea-games",
+    "description": "A collection of game decompilations, recompilations, demos, ports",
+    "url": "https://github.com/HaozheH3/awesome-rea-games",
+    "stars": 61,
+    "language": null,
+    "updated_at": "2026-10-21T10:45:34Z"
   },
   {
     "name": "harshpreet-hand",
     "full_name": "harshpreet931/harshpreet-hand",
     "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
     "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 44,
+    "stars": 45,
     "language": "Python",
-    "updated_at": "2026-10-21T02:10:09Z"
+    "updated_at": "2026-10-21T10:17:25Z"
   },
   {
     "name": "awesome-ai-relay-and-cards",
@@ -36,13 +45,13 @@
     "updated_at": "2026-10-21T06:09:27Z"
   },
   {
-    "name": "awesome-rea-games",
-    "full_name": "HaozheH3/awesome-rea-games",
-    "description": "A collection of game decompilations, recompilations, demos, ports",
-    "url": "https://github.com/HaozheH3/awesome-rea-games",
-    "stars": 33,
+    "name": "ai-roadmap-2026",
+    "full_name": "h9-tec/ai-roadmap-2026",
+    "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+    "url": "https://github.com/h9-tec/ai-roadmap-2026",
+    "stars": 41,
     "language": null,
-    "updated_at": "2026-10-21T08:20:54Z"
+    "updated_at": "2026-10-21T16:34:01Z"
   },
   {
     "name": "hh-sniper",
@@ -78,15 +87,6 @@
     "url": "https://github.com/hsuanshao/AgentMemory",
     "stars": 22,
     "language": "Rust",
-    "updated_at": "2026-10-21T06:49:17Z"
-  },
-  {
-    "name": "ptero-bulk-9router",
-    "full_name": "0xgetz/ptero-bulk-9router",
-    "description": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.",
-    "url": "https://github.com/0xgetz/ptero-bulk-9router",
-    "stars": 19,
-    "language": "JavaScript",
-    "updated_at": "2026-10-21T07:50:28Z"
+    "updated_at": "2026-10-21T15:30:42Z"
   }
 ]
