@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20 22:56:29",
+  "generated_at": "2026-10-21 03:33:11",
   "news": [
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
       "source": "Hacker News",
-      "time": "2026-10-20 09:08",
-      "score": 2073,
-      "comments": 811
+      "time": "2026-10-21 01:45",
+      "score": 32,
+      "comments": 5
     }
   ]
 }
