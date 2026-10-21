@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-21 16:42:36",
+  "generated_at": "2026-10-21 23:01:39",
   "news": [
+    {
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Hacker News",
+      "time": "2026-10-21 21:58",
+      "score": 136,
+      "comments": 42
+    },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "source": "Hacker News",
       "time": "2026-10-21 14:00",
-      "score": 115,
-      "comments": 53
-    },
-    {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "source": "Hacker News",
-      "time": "2026-10-21 13:43",
-      "score": 355,
-      "comments": 117
-    },
-    {
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "source": "Hacker News",
-      "time": "2026-10-21 14:11",
-      "score": 44,
-      "comments": 4
+      "score": 394,
+      "comments": 123
     }
   ]
 }

@@ -4,9 +4,18 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 137,
+    "stars": 206,
     "language": null,
-    "updated_at": "2026-10-21T16:42:13Z"
+    "updated_at": "2026-10-21T22:01:44Z"
+  },
+  {
+    "name": "awesome-rea-games",
+    "full_name": "HaozheH3/awesome-rea-games",
+    "description": "A collection of game decompilations, recompilations, demos, ports",
+    "url": "https://github.com/HaozheH3/awesome-rea-games",
+    "stars": 104,
+    "language": null,
+    "updated_at": "2026-10-21T21:16:22Z"
   },
   {
     "name": "SoftJL",
@@ -18,13 +27,13 @@
     "updated_at": "2026-10-21T16:41:10Z"
   },
   {
-    "name": "awesome-rea-games",
-    "full_name": "HaozheH3/awesome-rea-games",
-    "description": "A collection of game decompilations, recompilations, demos, ports",
-    "url": "https://github.com/HaozheH3/awesome-rea-games",
-    "stars": 61,
+    "name": "ai-roadmap-2026",
+    "full_name": "h9-tec/ai-roadmap-2026",
+    "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+    "url": "https://github.com/h9-tec/ai-roadmap-2026",
+    "stars": 70,
     "language": null,
-    "updated_at": "2026-10-21T10:45:34Z"
+    "updated_at": "2026-10-21T22:34:31Z"
   },
   {
     "name": "harshpreet-hand",
@@ -45,15 +54,6 @@
     "updated_at": "2026-10-21T06:09:27Z"
   },
   {
-    "name": "ai-roadmap-2026",
-    "full_name": "h9-tec/ai-roadmap-2026",
-    "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-    "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 41,
-    "language": null,
-    "updated_at": "2026-10-21T16:34:01Z"
-  },
-  {
     "name": "hh-sniper",
     "full_name": "Riper21/hh-sniper",
     "description": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от галлюцинаций. Всё локально на вашем ПК, официальный API, Python.",
@@ -67,9 +67,9 @@
     "full_name": "speedydivid/TokenForge",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.",
     "url": "https://github.com/speedydivid/TokenForge",
-    "stars": 31,
+    "stars": 30,
     "language": "JavaScript",
-    "updated_at": "2026-10-17T18:12:22Z"
+    "updated_at": "2026-10-21T21:41:35Z"
   },
   {
     "name": "voice-ai-assistant",
