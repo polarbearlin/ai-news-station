@@ -4,36 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 211,
+    "stars": 330,
     "language": null,
-    "updated_at": "2026-10-22T09:04:49Z"
-  },
-  {
-    "name": "awesome-rea-games",
-    "full_name": "HaozheH3/awesome-rea-games",
-    "description": "A collection of game decompilations, recompilations, demos, ports",
-    "url": "https://github.com/HaozheH3/awesome-rea-games",
-    "stars": 103,
-    "language": null,
-    "updated_at": "2026-10-22T01:21:50Z"
+    "updated_at": "2026-10-22T15:13:20Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 93,
+    "stars": 105,
     "language": null,
-    "updated_at": "2026-10-22T08:50:48Z"
+    "updated_at": "2026-10-22T16:19:55Z"
   },
   {
     "name": "harshpreet-hand",
     "full_name": "harshpreet931/harshpreet-hand",
     "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
     "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 45,
+    "stars": 46,
     "language": "Python",
-    "updated_at": "2026-10-21T10:17:25Z"
+    "updated_at": "2026-10-22T09:22:43Z"
   },
   {
     "name": "hh-sniper",
@@ -58,27 +49,36 @@
     "full_name": "pipedude/yahont-ce",
     "description": "Self-hosted AI-платформа с расширенными возможностями: RAG, агенты, веб-поиск, исследования, коннекторы, любые LLM и гибкие настройки",
     "url": "https://github.com/pipedude/yahont-ce",
-    "stars": 24,
+    "stars": 28,
     "language": "Python",
-    "updated_at": "2026-10-22T08:24:53Z"
+    "updated_at": "2026-10-22T16:26:48Z"
   },
   {
     "name": "AgentMemory",
     "full_name": "hsuanshao/AgentMemory",
     "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
     "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 24,
+    "stars": 25,
     "language": "Rust",
-    "updated_at": "2026-10-22T06:44:19Z"
+    "updated_at": "2026-10-22T12:29:06Z"
   },
   {
     "name": "tokenation",
-    "full_name": "precisionz/tokenation",
+    "full_name": "precis1onz/tokenation",
     "description": "Daily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time lists, every entry verified against official pages. 日更免费 LLM API 羊毛清单｜AA 指数高分精选，token 自由无脑蹬！常态免费+限时羊毛双清单，条目逐条对官方页核实。",
-    "url": "https://github.com/precisionz/tokenation",
-    "stars": 23,
+    "url": "https://github.com/precis1onz/tokenation",
+    "stars": 24,
     "language": null,
-    "updated_at": "2026-10-22T07:16:29Z"
+    "updated_at": "2026-10-22T16:02:55Z"
+  },
+  {
+    "name": "AbliteratedOutTheBox",
+    "full_name": "heterodoxin/AbliteratedOutTheBox",
+    "description": "llama.cpp fork that abliterates at inference",
+    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+    "stars": 23,
+    "language": "C++",
+    "updated_at": "2026-10-22T15:58:47Z"
   },
   {
     "name": "genpic",

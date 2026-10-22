@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-10-22 09:11:16",
+  "generated_at": "2026-10-22 16:43:16",
   "news": [
     {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "source": "Hacker News",
-      "time": "2026-10-22 02:18",
-      "score": 171,
-      "comments": 53
-    },
-    {
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "source": "Hacker News",
-      "time": "2026-10-22 05:23",
-      "score": 109,
-      "comments": 66
-    },
-    {
-      "title": "Show HN: The fastest browser for AI agents to run browser automation",
-      "url": "https://ego-lite.apposters.com",
-      "source": "Hacker News",
-      "time": "2026-10-22 08:09",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "source": "Hacker News",
-      "time": "2026-10-21 14:00",
-      "score": 508,
-      "comments": 168
+      "time": "2026-10-22 08:01",
+      "score": 472,
+      "comments": 173
     }
   ]
 }
