@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-10-21 23:01:39",
+  "generated_at": "2026-10-22 03:32:49",
   "news": [
-    {
-      "title": "Railway Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "source": "Hacker News",
-      "time": "2026-10-21 21:58",
-      "score": 136,
-      "comments": 42
-    },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "source": "Hacker News",
       "time": "2026-10-21 14:00",
-      "score": 394,
-      "comments": 123
+      "score": 455,
+      "comments": 154
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "source": "Hacker News",
+      "time": "2026-10-21 04:27",
+      "score": 17,
+      "comments": 5
+    },
+    {
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "source": "Hacker News",
+      "time": "2026-10-22 02:13",
+      "score": 13,
+      "comments": 10
     }
   ]
 }
