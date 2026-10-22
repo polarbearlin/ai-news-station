@@ -4,9 +4,9 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 206,
+    "stars": 211,
     "language": null,
-    "updated_at": "2026-10-21T22:01:44Z"
+    "updated_at": "2026-10-22T09:04:49Z"
   },
   {
     "name": "awesome-rea-games",
@@ -22,9 +22,9 @@
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 76,
+    "stars": 93,
     "language": null,
-    "updated_at": "2026-10-22T03:23:55Z"
+    "updated_at": "2026-10-22T08:50:48Z"
   },
   {
     "name": "harshpreet-hand",
@@ -54,22 +54,31 @@
     "updated_at": "2026-10-21T21:41:35Z"
   },
   {
+    "name": "yahont-ce",
+    "full_name": "pipedude/yahont-ce",
+    "description": "Self-hosted AI-платформа с расширенными возможностями: RAG, агенты, веб-поиск, исследования, коннекторы, любые LLM и гибкие настройки",
+    "url": "https://github.com/pipedude/yahont-ce",
+    "stars": 24,
+    "language": "Python",
+    "updated_at": "2026-10-22T08:24:53Z"
+  },
+  {
     "name": "AgentMemory",
     "full_name": "hsuanshao/AgentMemory",
     "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
     "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 22,
+    "stars": 24,
     "language": "Rust",
-    "updated_at": "2026-10-22T02:34:32Z"
+    "updated_at": "2026-10-22T06:44:19Z"
   },
   {
     "name": "tokenation",
     "full_name": "precisionz/tokenation",
     "description": "Daily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time lists, every entry verified against official pages. 日更免费 LLM API 羊毛清单｜AA 指数高分精选，token 自由无脑蹬！常态免费+限时羊毛双清单，条目逐条对官方页核实。",
     "url": "https://github.com/precisionz/tokenation",
-    "stars": 22,
+    "stars": 23,
     "language": null,
-    "updated_at": "2026-10-22T03:10:39Z"
+    "updated_at": "2026-10-22T07:16:29Z"
   },
   {
     "name": "genpic",
@@ -79,14 +88,5 @@
     "stars": 20,
     "language": "PHP",
     "updated_at": "2026-10-22T01:04:09Z"
-  },
-  {
-    "name": "ptero-bulk-9router",
-    "full_name": "0xgetz/ptero-bulk-9router",
-    "description": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.",
-    "url": "https://github.com/0xgetz/ptero-bulk-9router",
-    "stars": 19,
-    "language": "JavaScript",
-    "updated_at": "2026-10-21T07:50:28Z"
   }
 ]
