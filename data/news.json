@@ -1,13 +1,45 @@
 {
-  "generated_at": "2026-10-22 16:43:16",
+  "generated_at": "2026-10-22 22:58:44",
   "news": [
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "time": "2026-10-22 17:44",
+      "score": 249,
+      "comments": 128
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "time": "2026-10-22 16:08",
+      "score": 165,
+      "comments": 180
+    },
+    {
+      "title": "Railpass",
+      "url": "https://train.samismith.com/",
+      "source": "Hacker News",
+      "time": "2026-10-22 21:38",
+      "score": 17,
+      "comments": 2
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "source": "Hacker News",
+      "time": "2026-10-22 18:28",
+      "score": 92,
+      "comments": 51
+    },
     {
       "title": "Jailbreaking the Switch 2",
       "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "source": "Hacker News",
       "time": "2026-10-22 08:01",
-      "score": 472,
-      "comments": 173
+      "score": 672,
+      "comments": 236
     }
   ]
 }
