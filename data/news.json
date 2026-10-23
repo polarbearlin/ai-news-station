@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23 03:37:41",
+  "generated_at": "2026-10-23 09:07:54",
   "news": [
     {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "url": "https://arxiv.org/abs/2603.01092",
       "source": "Hacker News",
-      "time": "2026-10-22 22:54",
-      "score": 183,
-      "comments": 88
+      "time": "2026-10-22 13:25",
+      "score": 47,
+      "comments": 4
     },
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "Hacker News",
       "time": "2026-10-22 17:44",
-      "score": 325,
-      "comments": 166
+      "score": 390,
+      "comments": 192
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "source": "Hacker News",
       "time": "2026-10-22 16:08",
-      "score": 277,
-      "comments": 328
+      "score": 406,
+      "comments": 415
     }
   ]
 }

@@ -4,27 +4,36 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 334,
+    "stars": 358,
     "language": null,
-    "updated_at": "2026-10-23T03:25:49Z"
+    "updated_at": "2026-10-23T08:37:11Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 118,
+    "stars": 123,
     "language": null,
-    "updated_at": "2026-10-23T03:02:35Z"
+    "updated_at": "2026-10-23T05:41:12Z"
   },
   {
     "name": "harshpreet-hand",
     "full_name": "harshpreet931/harshpreet-hand",
     "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
     "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 48,
+    "stars": 49,
     "language": "Python",
-    "updated_at": "2026-10-23T02:52:07Z"
+    "updated_at": "2026-10-23T04:19:59Z"
+  },
+  {
+    "name": "AbliteratedOutTheBox",
+    "full_name": "heterodoxin/AbliteratedOutTheBox",
+    "description": "llama.cpp fork that abliterates at inference",
+    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+    "stars": 37,
+    "language": "C++",
+    "updated_at": "2026-10-23T08:56:12Z"
   },
   {
     "name": "hh-sniper",
@@ -36,6 +45,15 @@
     "updated_at": "2026-10-20T06:29:58Z"
   },
   {
+    "name": "AgentMemory",
+    "full_name": "hsuanshao/AgentMemory",
+    "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
+    "url": "https://github.com/hsuanshao/AgentMemory",
+    "stars": 32,
+    "language": "Rust",
+    "updated_at": "2026-10-23T07:00:10Z"
+  },
+  {
     "name": "TokenForge",
     "full_name": "speedydivid/TokenForge",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.",
@@ -43,15 +61,6 @@
     "stars": 30,
     "language": "JavaScript",
     "updated_at": "2026-10-21T21:41:35Z"
-  },
-  {
-    "name": "AgentMemory",
-    "full_name": "hsuanshao/AgentMemory",
-    "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
-    "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 30,
-    "language": "Rust",
-    "updated_at": "2026-10-23T03:32:24Z"
   },
   {
     "name": "yahont-ce",
@@ -63,30 +72,21 @@
     "updated_at": "2026-10-22T21:37:11Z"
   },
   {
-    "name": "AbliteratedOutTheBox",
-    "full_name": "heterodoxin/AbliteratedOutTheBox",
-    "description": "llama.cpp fork that abliterates at inference",
-    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 26,
-    "language": "C++",
-    "updated_at": "2026-10-23T00:43:22Z"
+    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "full_name": "Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+    "url": "https://github.com/Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "stars": 29,
+    "language": "HTML",
+    "updated_at": "2026-10-23T08:11:52Z"
   },
   {
-    "name": "tokenation",
-    "full_name": "precis1onz/tokenation",
-    "description": "Daily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time lists, every entry verified against official pages. 日更免费 LLM API 羊毛清单｜AA 指数高分精选，token 自由无脑蹬！常态免费+限时羊毛双清单，条目逐条对官方页核实。",
-    "url": "https://github.com/precis1onz/tokenation",
-    "stars": 26,
-    "language": null,
-    "updated_at": "2026-10-23T02:42:25Z"
-  },
-  {
-    "name": "genpic",
-    "full_name": "dcarrero/genpic",
-    "description": "AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, fal.ai) — run in production, released as open source after closing",
-    "url": "https://github.com/dcarrero/genpic",
-    "stars": 20,
-    "language": "PHP",
-    "updated_at": "2026-10-22T01:04:09Z"
+    "name": "InterviewCopilot-rpocket-team",
+    "full_name": "Cinderubasp/InterviewCopilot-rpocket-team",
+    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "url": "https://github.com/Cinderubasp/InterviewCopilot-rpocket-team",
+    "stars": 29,
+    "language": "HTML",
+    "updated_at": "2026-10-23T08:14:09Z"
   }
 ]
