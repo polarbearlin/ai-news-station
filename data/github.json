@@ -4,18 +4,18 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 424,
+    "stars": 470,
     "language": null,
-    "updated_at": "2026-10-23T16:26:09Z"
+    "updated_at": "2026-10-23T22:42:49Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 133,
+    "stars": 144,
     "language": null,
-    "updated_at": "2026-10-23T16:05:07Z"
+    "updated_at": "2026-10-23T21:16:09Z"
   },
   {
     "name": "verity-enhanced",
@@ -24,43 +24,61 @@
     "url": "https://github.com/verity-mods/verity-enhanced",
     "stars": 100,
     "language": null,
-    "updated_at": "2026-10-23T14:05:53Z"
-  },
-  {
-    "name": "harshpreet-hand",
-    "full_name": "harshpreet931/harshpreet-hand",
-    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
-    "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 50,
-    "language": "Python",
-    "updated_at": "2026-10-23T15:58:12Z"
-  },
-  {
-    "name": "AbliteratedOutTheBox",
-    "full_name": "heterodoxin/AbliteratedOutTheBox",
-    "description": "llama.cpp fork that abliterates at inference",
-    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 43,
-    "language": "C++",
-    "updated_at": "2026-10-23T16:04:56Z"
+    "updated_at": "2026-10-23T16:42:29Z"
   },
   {
     "name": "Ultron",
     "full_name": "AbuZar-Ansarii/Ultron",
     "description": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
     "url": "https://github.com/AbuZar-Ansarii/Ultron",
-    "stars": 38,
+    "stars": 57,
     "language": "Python",
-    "updated_at": "2026-10-23T16:05:16Z"
+    "updated_at": "2026-10-23T22:53:04Z"
+  },
+  {
+    "name": "harshpreet-hand",
+    "full_name": "harshpreet931/harshpreet-hand",
+    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+    "url": "https://github.com/harshpreet931/harshpreet-hand",
+    "stars": 51,
+    "language": "Python",
+    "updated_at": "2026-10-23T17:15:25Z"
+  },
+  {
+    "name": "AbliteratedOutTheBox",
+    "full_name": "heterodoxin/AbliteratedOutTheBox",
+    "description": "llama.cpp fork that abliterates at inference",
+    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+    "stars": 47,
+    "language": "C++",
+    "updated_at": "2026-10-23T21:02:14Z"
   },
   {
     "name": "dafeiyu-cleaner",
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 35,
+    "stars": 38,
     "language": "JavaScript",
-    "updated_at": "2026-10-23T15:49:10Z"
+    "updated_at": "2026-10-23T21:51:52Z"
+  },
+  {
+    "name": "AnythingLLM-Desktop",
+    "full_name": "QuickButlerPace65/AnythingLLM-Desktop",
+    "description": "AnythingLLM Desktop — The enhanced all-in-one AI desktop app.",
+    "url": "https://github.com/QuickButlerPace65/AnythingLLM-Desktop",
+    "stars": 37,
+    "language": null,
+    "updated_at": "2026-10-23T22:34:48Z"
+  },
+  {
+    "name": "AgentMemory",
+    "full_name": "hsuanshao/AgentMemory",
+    "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
+    "url": "https://github.com/hsuanshao/AgentMemory",
+    "stars": 36,
+    "language": "Rust",
+    "updated_at": "2026-10-23T18:41:25Z"
   },
   {
     "name": "yahont-ce",
@@ -70,23 +88,5 @@
     "stars": 34,
     "language": "Python",
     "updated_at": "2026-10-23T13:20:08Z"
-  },
-  {
-    "name": "AgentMemory",
-    "full_name": "hsuanshao/AgentMemory",
-    "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
-    "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 34,
-    "language": "Rust",
-    "updated_at": "2026-10-23T15:44:47Z"
-  },
-  {
-    "name": "hh-sniper",
-    "full_name": "Riper21/hh-sniper",
-    "description": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от галлюцинаций. Всё локально на вашем ПК, официальный API, Python.",
-    "url": "https://github.com/Riper21/hh-sniper",
-    "stars": 32,
-    "language": "Python",
-    "updated_at": "2026-10-20T06:29:58Z"
   }
 ]
