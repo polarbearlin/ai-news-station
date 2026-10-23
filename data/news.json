@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-10-23 09:07:54",
+  "generated_at": "2026-10-23 16:34:02",
   "news": [
     {
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "url": "https://arxiv.org/abs/2603.01092",
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "url": "https://www.thisandthat.chat/enron/",
       "source": "Hacker News",
-      "time": "2026-10-22 13:25",
-      "score": 47,
-      "comments": 4
+      "time": "2026-10-23 12:02",
+      "score": 34,
+      "comments": 25
     },
     {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
       "source": "Hacker News",
-      "time": "2026-10-22 17:44",
-      "score": 390,
-      "comments": 192
-    },
-    {
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "source": "Hacker News",
-      "time": "2026-10-22 16:08",
-      "score": 406,
-      "comments": 415
+      "time": "2026-10-23 08:21",
+      "score": 332,
+      "comments": 328
     }
   ]
 }
