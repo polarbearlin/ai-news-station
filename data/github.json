@@ -4,18 +4,18 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 488,
+    "stars": 499,
     "language": null,
-    "updated_at": "2026-10-24T03:28:18Z"
+    "updated_at": "2026-10-24T07:38:25Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 146,
+    "stars": 148,
     "language": null,
-    "updated_at": "2026-10-24T02:24:24Z"
+    "updated_at": "2026-10-24T04:58:06Z"
   },
   {
     "name": "verity-enhanced",
@@ -31,9 +31,9 @@
     "full_name": "AbuZar-Ansarii/Ultron",
     "description": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
     "url": "https://github.com/AbuZar-Ansarii/Ultron",
-    "stars": 71,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-10-24T03:17:07Z"
+    "updated_at": "2026-10-24T08:31:50Z"
   },
   {
     "name": "AbliteratedOutTheBox",
@@ -49,9 +49,9 @@
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 39,
+    "stars": 45,
     "language": "JavaScript",
-    "updated_at": "2026-10-23T23:51:14Z"
+    "updated_at": "2026-10-24T08:20:02Z"
   },
   {
     "name": "AnythingLLM-Desktop",
@@ -67,26 +67,26 @@
     "full_name": "hsuanshao/AgentMemory",
     "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
     "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 36,
+    "stars": 37,
     "language": "Rust",
-    "updated_at": "2026-10-24T03:25:29Z"
+    "updated_at": "2026-10-24T07:43:17Z"
+  },
+  {
+    "name": "apple-music-effect",
+    "full_name": "transitive-bullshit/apple-music-effect",
+    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
+    "url": "https://github.com/transitive-bullshit/apple-music-effect",
+    "stars": 35,
+    "language": "TypeScript",
+    "updated_at": "2026-10-24T07:09:05Z"
   },
   {
     "name": "yahont-ce",
     "full_name": "pipedude/yahont-ce",
     "description": "Self-hosted AI-платформа с расширенными возможностями: RAG, агенты, веб-поиск, исследования, коннекторы, любые LLM и гибкие настройки",
     "url": "https://github.com/pipedude/yahont-ce",
-    "stars": 34,
+    "stars": 35,
     "language": "Python",
-    "updated_at": "2026-10-23T13:20:08Z"
-  },
-  {
-    "name": "ai-native",
-    "full_name": "hollobit/ai-native",
-    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
-    "url": "https://github.com/hollobit/ai-native",
-    "stars": 33,
-    "language": "HTML",
-    "updated_at": "2026-10-23T22:42:50Z"
+    "updated_at": "2026-10-24T07:16:03Z"
   }
 ]
