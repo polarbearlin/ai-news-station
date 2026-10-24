@@ -4,18 +4,18 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 470,
+    "stars": 488,
     "language": null,
-    "updated_at": "2026-10-23T22:42:49Z"
+    "updated_at": "2026-10-24T03:28:18Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 144,
+    "stars": 146,
     "language": null,
-    "updated_at": "2026-10-23T21:16:09Z"
+    "updated_at": "2026-10-24T02:24:24Z"
   },
   {
     "name": "verity-enhanced",
@@ -31,36 +31,27 @@
     "full_name": "AbuZar-Ansarii/Ultron",
     "description": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
     "url": "https://github.com/AbuZar-Ansarii/Ultron",
-    "stars": 57,
+    "stars": 71,
     "language": "Python",
-    "updated_at": "2026-10-23T22:53:04Z"
-  },
-  {
-    "name": "harshpreet-hand",
-    "full_name": "harshpreet931/harshpreet-hand",
-    "description": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
-    "url": "https://github.com/harshpreet931/harshpreet-hand",
-    "stars": 51,
-    "language": "Python",
-    "updated_at": "2026-10-23T17:15:25Z"
+    "updated_at": "2026-10-24T03:17:07Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 47,
+    "stars": 48,
     "language": "C++",
-    "updated_at": "2026-10-23T21:02:14Z"
+    "updated_at": "2026-10-23T23:56:30Z"
   },
   {
     "name": "dafeiyu-cleaner",
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 38,
+    "stars": 39,
     "language": "JavaScript",
-    "updated_at": "2026-10-23T21:51:52Z"
+    "updated_at": "2026-10-23T23:51:14Z"
   },
   {
     "name": "AnythingLLM-Desktop",
@@ -78,7 +69,7 @@
     "url": "https://github.com/hsuanshao/AgentMemory",
     "stars": 36,
     "language": "Rust",
-    "updated_at": "2026-10-23T18:41:25Z"
+    "updated_at": "2026-10-24T03:25:29Z"
   },
   {
     "name": "yahont-ce",
@@ -88,5 +79,14 @@
     "stars": 34,
     "language": "Python",
     "updated_at": "2026-10-23T13:20:08Z"
+  },
+  {
+    "name": "ai-native",
+    "full_name": "hollobit/ai-native",
+    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
+    "url": "https://github.com/hollobit/ai-native",
+    "stars": 33,
+    "language": "HTML",
+    "updated_at": "2026-10-23T22:42:50Z"
   }
 ]
