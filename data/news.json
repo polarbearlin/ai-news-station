@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-24 18:36:23",
+  "generated_at": "2026-10-24 22:15:59",
   "news": [
+    {
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News",
+      "time": "2026-10-24 19:47",
+      "score": 354,
+      "comments": 326
+    },
     {
       "title": "Neural chip decodes interactions between brain regions",
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "source": "Hacker News",
       "time": "2026-10-24 15:57",
-      "score": 50,
-      "comments": 7
+      "score": 74,
+      "comments": 23
     }
   ]
 }

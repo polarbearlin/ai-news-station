@@ -4,18 +4,18 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 521,
+    "stars": 529,
     "language": null,
-    "updated_at": "2026-10-24T17:36:54Z"
+    "updated_at": "2026-10-24T21:26:59Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 152,
+    "stars": 154,
     "language": null,
-    "updated_at": "2026-10-24T16:07:59Z"
+    "updated_at": "2026-10-24T21:16:25Z"
   },
   {
     "name": "verity-enhanced",
@@ -31,36 +31,36 @@
     "full_name": "AbuZar-Ansarii/Ultron",
     "description": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
     "url": "https://github.com/AbuZar-Ansarii/Ultron",
-    "stars": 94,
+    "stars": 96,
     "language": "Python",
-    "updated_at": "2026-10-24T17:34:55Z"
+    "updated_at": "2026-10-24T21:24:19Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 73,
+    "stars": 75,
     "language": "C++",
-    "updated_at": "2026-10-24T18:35:17Z"
+    "updated_at": "2026-10-24T21:02:26Z"
   },
   {
     "name": "dafeiyu-cleaner",
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 67,
+    "stars": 68,
     "language": "JavaScript",
-    "updated_at": "2026-10-24T17:37:29Z"
+    "updated_at": "2026-10-24T21:29:56Z"
   },
   {
     "name": "37studio",
     "full_name": "Shaitrish/37studio",
     "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
     "url": "https://github.com/Shaitrish/37studio",
-    "stars": 46,
+    "stars": 58,
     "language": "Go",
-    "updated_at": "2026-10-24T18:23:41Z"
+    "updated_at": "2026-10-24T22:05:29Z"
   },
   {
     "name": "apple-music-effect",
@@ -72,6 +72,15 @@
     "updated_at": "2026-10-24T18:03:18Z"
   },
   {
+    "name": "arkdraw",
+    "full_name": "gabe-santana/arkdraw",
+    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
+    "url": "https://github.com/gabe-santana/arkdraw",
+    "stars": 37,
+    "language": "TypeScript",
+    "updated_at": "2026-10-24T22:10:30Z"
+  },
+  {
     "name": "AnythingLLM-Desktop",
     "full_name": "QuickButlerPace65/AnythingLLM-Desktop",
     "description": "AnythingLLM Desktop — The enhanced all-in-one AI desktop app.",
@@ -79,14 +88,5 @@
     "stars": 37,
     "language": null,
     "updated_at": "2026-10-23T22:34:48Z"
-  },
-  {
-    "name": "AgentMemory",
-    "full_name": "hsuanshao/AgentMemory",
-    "description": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
-    "url": "https://github.com/hsuanshao/AgentMemory",
-    "stars": 37,
-    "language": "Rust",
-    "updated_at": "2026-10-24T07:43:17Z"
   }
 ]
