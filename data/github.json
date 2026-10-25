@@ -13,18 +13,27 @@
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 162,
+    "stars": 163,
     "language": null,
-    "updated_at": "2026-10-25T16:21:14Z"
+    "updated_at": "2026-10-25T21:09:48Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 121,
+    "stars": 125,
     "language": "C++",
-    "updated_at": "2026-10-25T17:03:41Z"
+    "updated_at": "2026-10-25T21:34:03Z"
+  },
+  {
+    "name": "CVEngine",
+    "full_name": "hevnsnt/CVEngine",
+    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "stars": 107,
+    "language": "Python",
+    "updated_at": "2026-10-25T22:16:10Z"
   },
   {
     "name": "verity-enhanced",
@@ -54,39 +63,30 @@
     "updated_at": "2026-10-25T18:08:40Z"
   },
   {
-    "name": "CVEngine",
-    "full_name": "hevnsnt/CVEngine",
-    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-    "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 45,
-    "language": "Python",
-    "updated_at": "2026-10-25T18:42:04Z"
+    "name": "TokenBar",
+    "full_name": "lwh0630/TokenBar",
+    "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+    "url": "https://github.com/lwh0630/TokenBar",
+    "stars": 47,
+    "language": "Dart",
+    "updated_at": "2026-10-25T22:07:46Z"
   },
   {
     "name": "arkdraw",
     "full_name": "gabe-santana/arkdraw",
     "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
     "url": "https://github.com/gabe-santana/arkdraw",
-    "stars": 43,
+    "stars": 44,
     "language": "TypeScript",
-    "updated_at": "2026-10-25T18:17:14Z"
+    "updated_at": "2026-10-25T22:12:43Z"
   },
   {
     "name": "apple-music-effect",
     "full_name": "transitive-bullshit/apple-music-effect",
     "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
     "url": "https://github.com/transitive-bullshit/apple-music-effect",
-    "stars": 42,
+    "stars": 43,
     "language": "TypeScript",
-    "updated_at": "2026-10-25T09:04:29Z"
-  },
-  {
-    "name": "ai-native",
-    "full_name": "hollobit/ai-native",
-    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
-    "url": "https://github.com/hollobit/ai-native",
-    "stars": 40,
-    "language": "HTML",
-    "updated_at": "2026-10-25T17:57:01Z"
+    "updated_at": "2026-10-25T19:41:54Z"
   }
 ]

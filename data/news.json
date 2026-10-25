@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-25 18:44:25",
+  "generated_at": "2026-10-25 22:19:23",
   "news": [
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News",
       "time": "2026-10-25 17:15",
-      "score": 122,
-      "comments": 69
+      "score": 331,
+      "comments": 172
     },
     {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
       "source": "Hacker News",
-      "time": "2026-10-25 16:28",
-      "score": 65,
-      "comments": 94
+      "time": "2026-10-25 19:10",
+      "score": 37,
+      "comments": 0
     }
   ]
 }
