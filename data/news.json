@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-24 22:15:59",
+  "generated_at": "2026-10-25 03:28:17",
   "news": [
     {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
-      "time": "2026-10-24 19:47",
-      "score": 354,
-      "comments": 326
+      "time": "2026-10-24 23:11",
+      "score": 215,
+      "comments": 202
     },
     {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
-      "time": "2026-10-24 15:57",
-      "score": 74,
-      "comments": 23
+      "time": "2026-10-25 01:33",
+      "score": 13,
+      "comments": 4
     }
   ]
 }
