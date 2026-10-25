@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-25 15:38:33",
+  "generated_at": "2026-10-25 18:44:25",
   "news": [
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News",
-      "time": "2026-10-25 01:33",
-      "score": 268,
-      "comments": 90
+      "time": "2026-10-25 17:15",
+      "score": 122,
+      "comments": 69
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "source": "Hacker News",
+      "time": "2026-10-25 16:28",
+      "score": 65,
+      "comments": 94
     }
   ]
 }

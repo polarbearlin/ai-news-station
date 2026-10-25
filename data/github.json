@@ -4,27 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 545,
+    "stars": 483,
     "language": null,
-    "updated_at": "2026-10-25T15:03:28Z"
+    "updated_at": "2026-10-25T18:31:10Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 161,
+    "stars": 162,
     "language": null,
-    "updated_at": "2026-10-25T13:08:32Z"
+    "updated_at": "2026-10-25T16:21:14Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 118,
+    "stars": 121,
     "language": "C++",
-    "updated_at": "2026-10-25T15:22:09Z"
+    "updated_at": "2026-10-25T17:03:41Z"
   },
   {
     "name": "verity-enhanced",
@@ -40,9 +40,9 @@
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 84,
+    "stars": 88,
     "language": "JavaScript",
-    "updated_at": "2026-10-25T15:36:23Z"
+    "updated_at": "2026-10-25T17:51:05Z"
   },
   {
     "name": "37studio",
@@ -51,7 +51,25 @@
     "url": "https://github.com/Shaitrish/37studio",
     "stars": 65,
     "language": "Go",
-    "updated_at": "2026-10-25T13:16:53Z"
+    "updated_at": "2026-10-25T18:08:40Z"
+  },
+  {
+    "name": "CVEngine",
+    "full_name": "hevnsnt/CVEngine",
+    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "stars": 45,
+    "language": "Python",
+    "updated_at": "2026-10-25T18:42:04Z"
+  },
+  {
+    "name": "arkdraw",
+    "full_name": "gabe-santana/arkdraw",
+    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
+    "url": "https://github.com/gabe-santana/arkdraw",
+    "stars": 43,
+    "language": "TypeScript",
+    "updated_at": "2026-10-25T18:17:14Z"
   },
   {
     "name": "apple-music-effect",
@@ -63,30 +81,12 @@
     "updated_at": "2026-10-25T09:04:29Z"
   },
   {
-    "name": "arkdraw",
-    "full_name": "gabe-santana/arkdraw",
-    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
-    "url": "https://github.com/gabe-santana/arkdraw",
-    "stars": 42,
-    "language": "TypeScript",
-    "updated_at": "2026-10-25T07:50:07Z"
-  },
-  {
     "name": "ai-native",
     "full_name": "hollobit/ai-native",
     "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
     "url": "https://github.com/hollobit/ai-native",
     "stars": 40,
     "language": "HTML",
-    "updated_at": "2026-10-25T14:51:15Z"
-  },
-  {
-    "name": "AnythingLLM-Desktop",
-    "full_name": "QuickButlerPace65/AnythingLLM-Desktop",
-    "description": "AnythingLLM Desktop — The enhanced all-in-one AI desktop app.",
-    "url": "https://github.com/QuickButlerPace65/AnythingLLM-Desktop",
-    "stars": 37,
-    "language": null,
-    "updated_at": "2026-10-23T22:34:48Z"
+    "updated_at": "2026-10-25T17:57:01Z"
   }
 ]
