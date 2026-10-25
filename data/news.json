@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-10-25 08:58:07",
+  "generated_at": "2026-10-25 15:38:33",
   "news": [
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
       "time": "2026-10-25 01:33",
-      "score": 143,
-      "comments": 50
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "time": "2026-10-24 23:11",
-      "score": 346,
-      "comments": 338
+      "score": 268,
+      "comments": 90
     }
   ]
 }

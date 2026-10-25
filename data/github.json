@@ -4,27 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 539,
+    "stars": 545,
     "language": null,
-    "updated_at": "2026-10-25T08:31:03Z"
+    "updated_at": "2026-10-25T15:03:28Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 158,
+    "stars": 161,
     "language": null,
-    "updated_at": "2026-10-25T08:00:53Z"
+    "updated_at": "2026-10-25T13:08:32Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 107,
+    "stars": 118,
     "language": "C++",
-    "updated_at": "2026-10-25T08:25:04Z"
+    "updated_at": "2026-10-25T15:22:09Z"
   },
   {
     "name": "verity-enhanced",
@@ -40,18 +40,27 @@
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 76,
+    "stars": 84,
     "language": "JavaScript",
-    "updated_at": "2026-10-25T08:36:59Z"
+    "updated_at": "2026-10-25T15:36:23Z"
   },
   {
     "name": "37studio",
     "full_name": "Shaitrish/37studio",
     "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
     "url": "https://github.com/Shaitrish/37studio",
-    "stars": 63,
+    "stars": 65,
     "language": "Go",
-    "updated_at": "2026-10-24T23:40:41Z"
+    "updated_at": "2026-10-25T13:16:53Z"
+  },
+  {
+    "name": "apple-music-effect",
+    "full_name": "transitive-bullshit/apple-music-effect",
+    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
+    "url": "https://github.com/transitive-bullshit/apple-music-effect",
+    "stars": 42,
+    "language": "TypeScript",
+    "updated_at": "2026-10-25T09:04:29Z"
   },
   {
     "name": "arkdraw",
@@ -63,13 +72,13 @@
     "updated_at": "2026-10-25T07:50:07Z"
   },
   {
-    "name": "apple-music-effect",
-    "full_name": "transitive-bullshit/apple-music-effect",
-    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
-    "url": "https://github.com/transitive-bullshit/apple-music-effect",
-    "stars": 41,
-    "language": "TypeScript",
-    "updated_at": "2026-10-25T08:21:52Z"
+    "name": "ai-native",
+    "full_name": "hollobit/ai-native",
+    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
+    "url": "https://github.com/hollobit/ai-native",
+    "stars": 40,
+    "language": "HTML",
+    "updated_at": "2026-10-25T14:51:15Z"
   },
   {
     "name": "AnythingLLM-Desktop",
@@ -79,14 +88,5 @@
     "stars": 37,
     "language": null,
     "updated_at": "2026-10-23T22:34:48Z"
-  },
-  {
-    "name": "ai-native",
-    "full_name": "hollobit/ai-native",
-    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
-    "url": "https://github.com/hollobit/ai-native",
-    "stars": 36,
-    "language": "HTML",
-    "updated_at": "2026-10-24T15:20:32Z"
   }
 ]
