@@ -4,18 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 533,
+    "stars": 539,
     "language": null,
-    "updated_at": "2026-10-25T02:51:50Z"
+    "updated_at": "2026-10-25T08:31:03Z"
   },
   {
     "name": "ai-roadmap-2026",
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 157,
+    "stars": 158,
     "language": null,
-    "updated_at": "2026-10-25T02:14:59Z"
+    "updated_at": "2026-10-25T08:00:53Z"
+  },
+  {
+    "name": "AbliteratedOutTheBox",
+    "full_name": "heterodoxin/AbliteratedOutTheBox",
+    "description": "llama.cpp fork that abliterates at inference",
+    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+    "stars": 107,
+    "language": "C++",
+    "updated_at": "2026-10-25T08:25:04Z"
   },
   {
     "name": "verity-enhanced",
@@ -27,22 +36,13 @@
     "updated_at": "2026-10-23T16:42:29Z"
   },
   {
-    "name": "AbliteratedOutTheBox",
-    "full_name": "heterodoxin/AbliteratedOutTheBox",
-    "description": "llama.cpp fork that abliterates at inference",
-    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 86,
-    "language": "C++",
-    "updated_at": "2026-10-25T02:45:26Z"
-  },
-  {
     "name": "dafeiyu-cleaner",
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 71,
+    "stars": 76,
     "language": "JavaScript",
-    "updated_at": "2026-10-25T03:17:28Z"
+    "updated_at": "2026-10-25T08:36:59Z"
   },
   {
     "name": "37studio",
@@ -54,22 +54,22 @@
     "updated_at": "2026-10-24T23:40:41Z"
   },
   {
-    "name": "apple-music-effect",
-    "full_name": "transitive-bullshit/apple-music-effect",
-    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
-    "url": "https://github.com/transitive-bullshit/apple-music-effect",
-    "stars": 40,
-    "language": "TypeScript",
-    "updated_at": "2026-10-24T18:03:18Z"
-  },
-  {
     "name": "arkdraw",
     "full_name": "gabe-santana/arkdraw",
     "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
     "url": "https://github.com/gabe-santana/arkdraw",
-    "stars": 40,
+    "stars": 42,
     "language": "TypeScript",
-    "updated_at": "2026-10-25T01:39:59Z"
+    "updated_at": "2026-10-25T07:50:07Z"
+  },
+  {
+    "name": "apple-music-effect",
+    "full_name": "transitive-bullshit/apple-music-effect",
+    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
+    "url": "https://github.com/transitive-bullshit/apple-music-effect",
+    "stars": 41,
+    "language": "TypeScript",
+    "updated_at": "2026-10-25T08:21:52Z"
   },
   {
     "name": "AnythingLLM-Desktop",
