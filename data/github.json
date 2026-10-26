@@ -4,45 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 485,
+    "stars": 489,
     "language": null,
-    "updated_at": "2026-10-26T02:54:55Z"
-  },
-  {
-    "name": "ai-startup-skills",
-    "full_name": "huaxialucaicaizi/ai-startup-skills",
-    "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-    "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-    "stars": 216,
-    "language": "Python",
-    "updated_at": "2026-10-26T02:56:54Z"
+    "updated_at": "2026-10-26T09:45:48Z"
   },
   {
     "name": "CVEngine",
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 173,
+    "stars": 254,
     "language": "Python",
-    "updated_at": "2026-10-26T03:26:23Z"
-  },
-  {
-    "name": "ai-roadmap-2026",
-    "full_name": "h9-tec/ai-roadmap-2026",
-    "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-    "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 163,
-    "language": null,
-    "updated_at": "2026-10-25T21:09:48Z"
+    "updated_at": "2026-10-26T09:43:49Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 132,
+    "stars": 138,
     "language": "C++",
-    "updated_at": "2026-10-26T03:06:49Z"
+    "updated_at": "2026-10-26T09:24:26Z"
   },
   {
     "name": "verity-enhanced",
@@ -58,35 +40,53 @@
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 91,
+    "stars": 96,
     "language": "JavaScript",
-    "updated_at": "2026-10-26T02:21:59Z"
-  },
-  {
-    "name": "37studio",
-    "full_name": "Shaitrish/37studio",
-    "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-    "url": "https://github.com/Shaitrish/37studio",
-    "stars": 66,
-    "language": "Go",
-    "updated_at": "2026-10-26T01:42:37Z"
-  },
-  {
-    "name": "runic",
-    "full_name": "Eljot19/runic",
-    "description": "Runic macOS Menu Bar App for AI Usage Cost and Token Tracking",
-    "url": "https://github.com/Eljot19/runic",
-    "stars": 58,
-    "language": "HTML",
-    "updated_at": "2026-10-26T00:49:11Z"
+    "updated_at": "2026-10-26T09:03:42Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 54,
+    "stars": 63,
     "language": "Dart",
-    "updated_at": "2026-10-26T03:21:43Z"
+    "updated_at": "2026-10-26T09:42:37Z"
+  },
+  {
+    "name": "ai-native",
+    "full_name": "hollobit/ai-native",
+    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
+    "url": "https://github.com/hollobit/ai-native",
+    "stars": 54,
+    "language": "HTML",
+    "updated_at": "2026-10-26T07:37:48Z"
+  },
+  {
+    "name": "purrge",
+    "full_name": "RabbittuX/purrge",
+    "description": "🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理",
+    "url": "https://github.com/RabbittuX/purrge",
+    "stars": 52,
+    "language": "Python",
+    "updated_at": "2026-10-26T08:44:49Z"
+  },
+  {
+    "name": "apple-music-effect",
+    "full_name": "transitive-bullshit/apple-music-effect",
+    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
+    "url": "https://github.com/transitive-bullshit/apple-music-effect",
+    "stars": 44,
+    "language": "TypeScript",
+    "updated_at": "2026-10-26T06:46:37Z"
+  },
+  {
+    "name": "litpage",
+    "full_name": "litmers-dev/litpage",
+    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+    "url": "https://github.com/litmers-dev/litpage",
+    "stars": 38,
+    "language": "TypeScript",
+    "updated_at": "2026-10-26T02:18:28Z"
   }
 ]
