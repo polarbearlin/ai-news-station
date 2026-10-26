@@ -1,21 +1,4 @@
 {
-  "generated_at": "2026-10-25 22:19:23",
-  "news": [
-    {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "source": "Hacker News",
-      "time": "2026-10-25 17:15",
-      "score": 331,
-      "comments": 172
-    },
-    {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "source": "Hacker News",
-      "time": "2026-10-25 19:10",
-      "score": 37,
-      "comments": 0
-    }
-  ]
+  "generated_at": "2026-10-26 03:30:46",
+  "news": []
 }

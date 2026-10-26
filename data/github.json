@@ -4,9 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 483,
+    "stars": 485,
     "language": null,
-    "updated_at": "2026-10-25T18:31:10Z"
+    "updated_at": "2026-10-26T02:54:55Z"
+  },
+  {
+    "name": "ai-startup-skills",
+    "full_name": "huaxialucaicaizi/ai-startup-skills",
+    "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+    "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+    "stars": 216,
+    "language": "Python",
+    "updated_at": "2026-10-26T02:56:54Z"
+  },
+  {
+    "name": "CVEngine",
+    "full_name": "hevnsnt/CVEngine",
+    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "stars": 173,
+    "language": "Python",
+    "updated_at": "2026-10-26T03:26:23Z"
   },
   {
     "name": "ai-roadmap-2026",
@@ -22,18 +40,9 @@
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 125,
+    "stars": 132,
     "language": "C++",
-    "updated_at": "2026-10-25T21:34:03Z"
-  },
-  {
-    "name": "CVEngine",
-    "full_name": "hevnsnt/CVEngine",
-    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-    "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 107,
-    "language": "Python",
-    "updated_at": "2026-10-25T22:16:10Z"
+    "updated_at": "2026-10-26T03:06:49Z"
   },
   {
     "name": "verity-enhanced",
@@ -49,44 +58,35 @@
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 88,
+    "stars": 91,
     "language": "JavaScript",
-    "updated_at": "2026-10-25T17:51:05Z"
+    "updated_at": "2026-10-26T02:21:59Z"
   },
   {
     "name": "37studio",
     "full_name": "Shaitrish/37studio",
     "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
     "url": "https://github.com/Shaitrish/37studio",
-    "stars": 65,
+    "stars": 66,
     "language": "Go",
-    "updated_at": "2026-10-25T18:08:40Z"
+    "updated_at": "2026-10-26T01:42:37Z"
+  },
+  {
+    "name": "runic",
+    "full_name": "Eljot19/runic",
+    "description": "Runic macOS Menu Bar App for AI Usage Cost and Token Tracking",
+    "url": "https://github.com/Eljot19/runic",
+    "stars": 58,
+    "language": "HTML",
+    "updated_at": "2026-10-26T00:49:11Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 47,
+    "stars": 54,
     "language": "Dart",
-    "updated_at": "2026-10-25T22:07:46Z"
-  },
-  {
-    "name": "arkdraw",
-    "full_name": "gabe-santana/arkdraw",
-    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
-    "url": "https://github.com/gabe-santana/arkdraw",
-    "stars": 44,
-    "language": "TypeScript",
-    "updated_at": "2026-10-25T22:12:43Z"
-  },
-  {
-    "name": "apple-music-effect",
-    "full_name": "transitive-bullshit/apple-music-effect",
-    "description": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
-    "url": "https://github.com/transitive-bullshit/apple-music-effect",
-    "stars": 43,
-    "language": "TypeScript",
-    "updated_at": "2026-10-25T19:41:54Z"
+    "updated_at": "2026-10-26T03:21:43Z"
   }
 ]
