@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-10-26 09:47:02",
-  "news": []
+  "generated_at": "2026-10-26 18:19:40",
+  "news": [
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "Hacker News",
+      "time": "2026-10-26 13:04",
+      "score": 1113,
+      "comments": 1024
+    },
+    {
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "source": "Hacker News",
+      "time": "2026-10-22 19:52",
+      "score": 206,
+      "comments": 97
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "source": "Hacker News",
+      "time": "2026-10-26 12:59",
+      "score": 121,
+      "comments": 62
+    }
+  ]
 }
