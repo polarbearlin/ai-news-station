@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-27 09:40:43",
+  "generated_at": "2026-10-27 17:33:05",
   "news": [
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "source": "Hacker News",
-      "time": "2026-10-27 06:25",
-      "score": 114,
-      "comments": 92
+      "time": "2026-10-27 16:40",
+      "score": 71,
+      "comments": 14
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "source": "Hacker News",
+      "time": "2026-10-27 11:08",
+      "score": 294,
+      "comments": 141
     }
   ]
 }
