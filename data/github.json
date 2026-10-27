@@ -4,36 +4,36 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 500,
+    "stars": 501,
     "language": null,
-    "updated_at": "2026-10-26T21:24:15Z"
+    "updated_at": "2026-10-27T01:35:36Z"
   },
   {
     "name": "CVEngine",
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 376,
+    "stars": 387,
     "language": "Python",
-    "updated_at": "2026-10-26T23:23:08Z"
+    "updated_at": "2026-10-27T02:42:07Z"
   },
   {
     "name": "ai-startup-skills",
     "full_name": "huaxialucaicaizi/ai-startup-skills",
     "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
     "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-    "stars": 327,
+    "stars": 344,
     "language": "Python",
-    "updated_at": "2026-10-26T23:16:11Z"
+    "updated_at": "2026-10-27T03:51:25Z"
   },
   {
     "name": "Adobe-Acrobat-Pro",
     "full_name": "free-cracks/Adobe-Acrobat-Pro",
     "description": null,
     "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro",
-    "stars": 287,
+    "stars": 288,
     "language": null,
-    "updated_at": "2026-10-26T10:38:44Z"
+    "updated_at": "2026-10-27T01:21:48Z"
   },
   {
     "name": "ai-roadmap-2026",
@@ -49,18 +49,18 @@
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 148,
+    "stars": 149,
     "language": "C++",
-    "updated_at": "2026-10-26T21:39:05Z"
+    "updated_at": "2026-10-27T00:43:00Z"
   },
   {
     "name": "dafeiyu-cleaner",
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 107,
+    "stars": 108,
     "language": "JavaScript",
-    "updated_at": "2026-10-26T19:59:20Z"
+    "updated_at": "2026-10-27T01:13:24Z"
   },
   {
     "name": "verity-enhanced",
@@ -76,17 +76,17 @@
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 84,
+    "stars": 86,
     "language": "Dart",
-    "updated_at": "2026-10-26T23:26:29Z"
+    "updated_at": "2026-10-27T03:06:39Z"
   },
   {
     "name": "37studio",
     "full_name": "Shaitrish/37studio",
     "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
     "url": "https://github.com/Shaitrish/37studio",
-    "stars": 71,
+    "stars": 72,
     "language": "Go",
-    "updated_at": "2026-10-26T19:40:21Z"
+    "updated_at": "2026-10-27T02:17:42Z"
   }
 ]
