@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-27 17:33:05",
+  "generated_at": "2026-10-27 23:31:48",
   "news": [
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
       "source": "Hacker News",
-      "time": "2026-10-27 16:40",
-      "score": 71,
-      "comments": 14
+      "time": "2026-10-27 19:55",
+      "score": 151,
+      "comments": 90
     },
     {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
       "source": "Hacker News",
-      "time": "2026-10-27 11:08",
-      "score": 294,
-      "comments": 141
+      "time": "2026-10-27 19:55",
+      "score": 134,
+      "comments": 85
     }
   ]
 }

@@ -4,27 +4,27 @@
     "full_name": "Alejandros17487/ai-jailbreaks",
     "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
     "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-    "stars": 506,
+    "stars": 507,
     "language": null,
-    "updated_at": "2026-10-27T15:15:59Z"
-  },
-  {
-    "name": "CVEngine",
-    "full_name": "hevnsnt/CVEngine",
-    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-    "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 412,
-    "language": "Python",
-    "updated_at": "2026-10-27T15:43:10Z"
+    "updated_at": "2026-10-27T22:51:30Z"
   },
   {
     "name": "ai-startup-skills",
     "full_name": "huaxialucaicaizi/ai-startup-skills",
     "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
     "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-    "stars": 382,
+    "stars": 435,
     "language": "Python",
-    "updated_at": "2026-10-27T17:18:21Z"
+    "updated_at": "2026-10-27T22:56:23Z"
+  },
+  {
+    "name": "CVEngine",
+    "full_name": "hevnsnt/CVEngine",
+    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "stars": 421,
+    "language": "Python",
+    "updated_at": "2026-10-27T22:34:00Z"
   },
   {
     "name": "Adobe-Acrobat-Pro",
@@ -40,27 +40,27 @@
     "full_name": "h9-tec/ai-roadmap-2026",
     "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
     "url": "https://github.com/h9-tec/ai-roadmap-2026",
-    "stars": 173,
+    "stars": 174,
     "language": null,
-    "updated_at": "2026-10-27T13:49:29Z"
+    "updated_at": "2026-10-27T23:03:06Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 163,
+    "stars": 168,
     "language": "Kotlin",
-    "updated_at": "2026-10-27T17:13:16Z"
+    "updated_at": "2026-10-27T23:17:59Z"
   },
   {
     "name": "AbliteratedOutTheBox",
     "full_name": "heterodoxin/AbliteratedOutTheBox",
     "description": "llama.cpp fork that abliterates at inference",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
-    "stars": 152,
+    "stars": 154,
     "language": "C++",
-    "updated_at": "2026-10-27T14:17:16Z"
+    "updated_at": "2026-10-27T20:46:43Z"
   },
   {
     "name": "dafeiyu-cleaner",
@@ -85,8 +85,8 @@
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 95,
+    "stars": 99,
     "language": "Dart",
-    "updated_at": "2026-10-27T16:42:18Z"
+    "updated_at": "2026-10-27T22:51:32Z"
   }
 ]
