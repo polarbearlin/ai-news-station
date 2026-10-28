@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-27 23:31:48",
+  "generated_at": "2026-10-28 04:19:07",
   "news": [
     {
       "title": "Tailscale SSH: Investigation and remediation update",
       "url": "https://tailscale.com/ssh-investigation-update",
       "source": "Hacker News",
       "time": "2026-10-27 19:55",
-      "score": 151,
-      "comments": 90
+      "score": 228,
+      "comments": 116
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://www.brangus.io/survival-llm",
       "source": "Hacker News",
       "time": "2026-10-27 19:55",
-      "score": 134,
-      "comments": 85
+      "score": 232,
+      "comments": 116
     }
   ]
 }
