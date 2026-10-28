@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-10-28 04:19:07",
+  "generated_at": "2026-10-28 14:52:48",
   "news": [
     {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "source": "Hacker News",
-      "time": "2026-10-27 19:55",
-      "score": 228,
-      "comments": 116
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "source": "Hacker News",
-      "time": "2026-10-27 19:55",
-      "score": 232,
-      "comments": 116
+      "time": "2026-10-28 13:41",
+      "score": 99,
+      "comments": 105
     }
   ]
 }
