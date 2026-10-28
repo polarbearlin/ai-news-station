@@ -4,18 +4,18 @@
     "full_name": "huaxialucaicaizi/ai-startup-skills",
     "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
     "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-    "stars": 442,
+    "stars": 498,
     "language": "Python",
-    "updated_at": "2026-10-28T14:27:35Z"
+    "updated_at": "2026-10-28T19:56:32Z"
   },
   {
     "name": "CVEngine",
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 433,
+    "stars": 439,
     "language": "Python",
-    "updated_at": "2026-10-28T14:00:07Z"
+    "updated_at": "2026-10-28T19:40:18Z"
   },
   {
     "name": "Adobe-Acrobat-Pro",
@@ -31,27 +31,27 @@
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 213,
+    "stars": 234,
     "language": "Kotlin",
-    "updated_at": "2026-10-28T14:47:58Z"
+    "updated_at": "2026-10-28T20:03:27Z"
   },
   {
     "name": "dafeiyu-cleaner",
     "full_name": "liyupi/dafeiyu-cleaner",
     "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 117,
+    "stars": 119,
     "language": "JavaScript",
-    "updated_at": "2026-10-28T13:08:06Z"
+    "updated_at": "2026-10-28T17:42:16Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 103,
+    "stars": 113,
     "language": "Dart",
-    "updated_at": "2026-10-28T14:47:03Z"
+    "updated_at": "2026-10-28T19:51:51Z"
   },
   {
     "name": "verity-enhanced",
@@ -63,30 +63,30 @@
     "updated_at": "2026-10-23T16:42:29Z"
   },
   {
-    "name": "litpage",
-    "full_name": "litmers-dev/litpage",
-    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
-    "url": "https://github.com/litmers-dev/litpage",
-    "stars": 82,
-    "language": "TypeScript",
-    "updated_at": "2026-10-28T14:28:25Z"
-  },
-  {
     "name": "37studio",
     "full_name": "Shaitrish/37studio",
     "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
     "url": "https://github.com/Shaitrish/37studio",
-    "stars": 75,
+    "stars": 96,
     "language": "Go",
-    "updated_at": "2026-10-28T11:39:37Z"
+    "updated_at": "2026-10-28T20:12:04Z"
+  },
+  {
+    "name": "litpage",
+    "full_name": "litmers-dev/litpage",
+    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+    "url": "https://github.com/litmers-dev/litpage",
+    "stars": 84,
+    "language": "TypeScript",
+    "updated_at": "2026-10-28T19:57:40Z"
   },
   {
     "name": "ai-native",
     "full_name": "hollobit/ai-native",
     "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
     "url": "https://github.com/hollobit/ai-native",
-    "stars": 65,
+    "stars": 66,
     "language": "HTML",
-    "updated_at": "2026-10-28T12:42:59Z"
+    "updated_at": "2026-10-28T15:44:17Z"
   }
 ]
