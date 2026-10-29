@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-10-29 04:39:11",
-  "news": []
+  "generated_at": "2026-10-29 14:58:09",
+  "news": [
+    {
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "source": "Hacker News",
+      "time": "2026-10-29 10:42",
+      "score": 86,
+      "comments": 38
+    }
+  ]
 }

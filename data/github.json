@@ -4,63 +4,54 @@
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 448,
+    "stars": 454,
     "language": "Python",
-    "updated_at": "2026-10-29T03:04:34Z"
-  },
-  {
-    "name": "Adobe-Acrobat-Pro",
-    "full_name": "free-cracks/Adobe-Acrobat-Pro",
-    "description": null,
-    "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro",
-    "stars": 288,
-    "language": null,
-    "updated_at": "2026-10-27T01:21:48Z"
-  },
-  {
-    "name": "astrbot-for-android",
-    "full_name": "JunWan666/astrbot-for-android",
-    "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-    "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 242,
-    "language": "Kotlin",
-    "updated_at": "2026-10-29T04:19:06Z"
+    "updated_at": "2026-10-29T13:59:14Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 174,
+    "stars": 258,
     "language": "TypeScript",
-    "updated_at": "2026-10-29T04:34:23Z"
+    "updated_at": "2026-10-29T14:42:31Z"
   },
   {
-    "name": "dafeiyu-cleaner",
-    "full_name": "liyupi/dafeiyu-cleaner",
-    "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
-    "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 119,
-    "language": "JavaScript",
-    "updated_at": "2026-10-29T03:10:52Z"
+    "name": "astrbot-for-android",
+    "full_name": "JunWan666/astrbot-for-android",
+    "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+    "url": "https://github.com/JunWan666/astrbot-for-android",
+    "stars": 251,
+    "language": "Kotlin",
+    "updated_at": "2026-10-29T14:10:57Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 116,
+    "stars": 135,
     "language": "Dart",
-    "updated_at": "2026-10-29T00:31:23Z"
+    "updated_at": "2026-10-29T14:29:13Z"
+  },
+  {
+    "name": "dafeiyu-cleaner",
+    "full_name": "liyupi/dafeiyu-cleaner",
+    "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
+    "url": "https://github.com/liyupi/dafeiyu-cleaner",
+    "stars": 121,
+    "language": "JavaScript",
+    "updated_at": "2026-10-29T07:32:54Z"
   },
   {
     "name": "37studio",
     "full_name": "Shaitrish/37studio",
     "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
     "url": "https://github.com/Shaitrish/37studio",
-    "stars": 106,
+    "stars": 108,
     "language": "Go",
-    "updated_at": "2026-10-29T03:04:28Z"
+    "updated_at": "2026-10-29T13:34:30Z"
   },
   {
     "name": "verity-enhanced",
@@ -76,17 +67,26 @@
     "full_name": "litmers-dev/litpage",
     "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
     "url": "https://github.com/litmers-dev/litpage",
-    "stars": 84,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-10-28T19:57:40Z"
+    "updated_at": "2026-10-29T10:48:27Z"
   },
   {
-    "name": "arkdraw",
-    "full_name": "gabe-santana/arkdraw",
-    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
-    "url": "https://github.com/gabe-santana/arkdraw",
-    "stars": 54,
-    "language": "TypeScript",
-    "updated_at": "2026-10-28T14:04:42Z"
+    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "full_name": "Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+    "url": "https://github.com/Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "stars": 74,
+    "language": "HTML",
+    "updated_at": "2026-10-29T14:25:52Z"
+  },
+  {
+    "name": "InterviewCopilot-rpocket-team",
+    "full_name": "Cinderubasp/InterviewCopilot-rpocket-team",
+    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "url": "https://github.com/Cinderubasp/InterviewCopilot-rpocket-team",
+    "stars": 74,
+    "language": "HTML",
+    "updated_at": "2026-10-29T14:27:10Z"
   }
 ]
