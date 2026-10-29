@@ -1,21 +1,12 @@
 [
   {
-    "name": "ai-startup-skills",
-    "full_name": "huaxialucaicaizi/ai-startup-skills",
-    "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-    "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-    "stars": 498,
-    "language": "Python",
-    "updated_at": "2026-10-28T19:56:32Z"
-  },
-  {
     "name": "CVEngine",
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 439,
+    "stars": 448,
     "language": "Python",
-    "updated_at": "2026-10-28T19:40:18Z"
+    "updated_at": "2026-10-29T03:04:34Z"
   },
   {
     "name": "Adobe-Acrobat-Pro",
@@ -31,9 +22,18 @@
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 234,
+    "stars": 242,
     "language": "Kotlin",
-    "updated_at": "2026-10-28T20:03:27Z"
+    "updated_at": "2026-10-29T04:19:06Z"
+  },
+  {
+    "name": "shipwords",
+    "full_name": "shipwords-dev/shipwords",
+    "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+    "url": "https://github.com/shipwords-dev/shipwords",
+    "stars": 174,
+    "language": "TypeScript",
+    "updated_at": "2026-10-29T04:34:23Z"
   },
   {
     "name": "dafeiyu-cleaner",
@@ -42,16 +42,25 @@
     "url": "https://github.com/liyupi/dafeiyu-cleaner",
     "stars": 119,
     "language": "JavaScript",
-    "updated_at": "2026-10-28T17:42:16Z"
+    "updated_at": "2026-10-29T03:10:52Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 113,
+    "stars": 116,
     "language": "Dart",
-    "updated_at": "2026-10-28T19:51:51Z"
+    "updated_at": "2026-10-29T00:31:23Z"
+  },
+  {
+    "name": "37studio",
+    "full_name": "Shaitrish/37studio",
+    "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+    "url": "https://github.com/Shaitrish/37studio",
+    "stars": 106,
+    "language": "Go",
+    "updated_at": "2026-10-29T03:04:28Z"
   },
   {
     "name": "verity-enhanced",
@@ -63,15 +72,6 @@
     "updated_at": "2026-10-23T16:42:29Z"
   },
   {
-    "name": "37studio",
-    "full_name": "Shaitrish/37studio",
-    "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-    "url": "https://github.com/Shaitrish/37studio",
-    "stars": 96,
-    "language": "Go",
-    "updated_at": "2026-10-28T20:12:04Z"
-  },
-  {
     "name": "litpage",
     "full_name": "litmers-dev/litpage",
     "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-10-28T19:57:40Z"
   },
   {
-    "name": "ai-native",
-    "full_name": "hollobit/ai-native",
-    "description": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
-    "url": "https://github.com/hollobit/ai-native",
-    "stars": 66,
-    "language": "HTML",
-    "updated_at": "2026-10-28T15:44:17Z"
+    "name": "arkdraw",
+    "full_name": "gabe-santana/arkdraw",
+    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
+    "url": "https://github.com/gabe-santana/arkdraw",
+    "stars": 54,
+    "language": "TypeScript",
+    "updated_at": "2026-10-28T14:04:42Z"
   }
 ]
