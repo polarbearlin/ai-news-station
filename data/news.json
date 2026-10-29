@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29 14:58:09",
+  "generated_at": "2026-10-29 20:53:31",
   "news": [
     {
-      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "source": "Hacker News",
-      "time": "2026-10-29 10:42",
-      "score": 86,
-      "comments": 38
+      "time": "2026-10-29 14:57",
+      "score": 249,
+      "comments": 136
     }
   ]
 }
