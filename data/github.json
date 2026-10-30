@@ -4,89 +4,89 @@
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 472,
+    "stars": 498,
     "language": "Python",
-    "updated_at": "2026-10-29T20:34:48Z"
+    "updated_at": "2026-10-30T03:46:22Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 269,
+    "stars": 282,
     "language": "TypeScript",
-    "updated_at": "2026-10-29T17:47:25Z"
+    "updated_at": "2026-10-30T03:26:22Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 257,
+    "stars": 261,
     "language": "Kotlin",
-    "updated_at": "2026-10-29T19:36:52Z"
+    "updated_at": "2026-10-30T04:05:14Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 144,
+    "stars": 151,
     "language": "Dart",
-    "updated_at": "2026-10-29T20:46:38Z"
-  },
-  {
-    "name": "dafeiyu-cleaner",
-    "full_name": "liyupi/dafeiyu-cleaner",
-    "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
-    "url": "https://github.com/liyupi/dafeiyu-cleaner",
-    "stars": 122,
-    "language": "JavaScript",
-    "updated_at": "2026-10-29T15:03:40Z"
-  },
-  {
-    "name": "37studio",
-    "full_name": "Shaitrish/37studio",
-    "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-    "url": "https://github.com/Shaitrish/37studio",
-    "stars": 112,
-    "language": "Go",
-    "updated_at": "2026-10-29T19:50:52Z"
-  },
-  {
-    "name": "verity-enhanced",
-    "full_name": "verity-mods/verity-enhanced",
-    "description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
-    "url": "https://github.com/verity-mods/verity-enhanced",
-    "stars": 100,
-    "language": null,
-    "updated_at": "2026-10-23T16:42:29Z"
-  },
-  {
-    "name": "litpage",
-    "full_name": "litmers-dev/litpage",
-    "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
-    "url": "https://github.com/litmers-dev/litpage",
-    "stars": 88,
-    "language": "TypeScript",
-    "updated_at": "2026-10-29T19:55:57Z"
+    "updated_at": "2026-10-30T04:31:37Z"
   },
   {
     "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "full_name": "Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
     "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
-    "url": "https://github.com/Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "stars": 83,
+    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "stars": 64,
     "language": "HTML",
-    "updated_at": "2026-10-29T15:48:33Z"
+    "updated_at": "2026-10-29T15:48:46Z"
   },
   {
     "name": "InterviewCopilot-rpocket-team",
-    "full_name": "Cinderubasp/InterviewCopilot-rpocket-team",
+    "full_name": "OFat34764e/InterviewCopilot-rpocket-team",
     "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-    "url": "https://github.com/Cinderubasp/InterviewCopilot-rpocket-team",
-    "stars": 83,
+    "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
+    "stars": 64,
+    "language": null,
+    "updated_at": "2026-10-29T15:48:54Z"
+  },
+  {
+    "name": "Flashmind_Gemini-3.8-Flash_Smart-agent",
+    "full_name": "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+    "description": "flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS Code, Claude Code and any MCP client.",
+    "url": "https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+    "stars": 39,
+    "language": "JavaScript",
+    "updated_at": "2026-10-30T02:45:30Z"
+  },
+  {
+    "name": "price-comparison",
+    "full_name": "hhtower/price-comparison",
+    "description": "自部署的 AI 商品比价平台，支持商铺采集、报价比较、商品归类与价格历史。Self-hosted AI product price comparison platform.",
+    "url": "https://github.com/hhtower/price-comparison",
+    "stars": 39,
+    "language": "TypeScript",
+    "updated_at": "2026-10-30T03:42:20Z"
+  },
+  {
+    "name": "rpocket-AI-Coding-Agent-Toolkit",
+    "full_name": "Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+    "description": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.",
+    "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+    "stars": 32,
     "language": "HTML",
-    "updated_at": "2026-10-29T15:48:37Z"
+    "updated_at": "2026-10-29T15:41:10Z"
+  },
+  {
+    "name": "rpocket-skill4agent-mcp-server",
+    "full_name": "Windlich13044/rpocket-skill4agent-mcp-server",
+    "description": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol",
+    "url": "https://github.com/Windlich13044/rpocket-skill4agent-mcp-server",
+    "stars": 32,
+    "language": "HTML",
+    "updated_at": "2026-10-29T15:41:52Z"
   }
 ]

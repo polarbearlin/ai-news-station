@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-29 20:53:31",
+  "generated_at": "2026-10-30 04:39:03",
   "news": [
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
       "source": "Hacker News",
-      "time": "2026-10-29 14:57",
-      "score": 249,
-      "comments": 136
+      "time": "2026-10-29 21:40",
+      "score": 221,
+      "comments": 70
+    },
+    {
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "source": "Hacker News",
+      "time": "2026-10-30 01:58",
+      "score": 70,
+      "comments": 21
     }
   ]
 }
