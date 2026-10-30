@@ -4,54 +4,63 @@
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 498,
+    "stars": 529,
     "language": "Python",
-    "updated_at": "2026-10-30T03:46:22Z"
+    "updated_at": "2026-10-30T14:23:34Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 282,
+    "stars": 290,
     "language": "TypeScript",
-    "updated_at": "2026-10-30T03:26:22Z"
+    "updated_at": "2026-10-30T14:08:05Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 261,
+    "stars": 272,
     "language": "Kotlin",
-    "updated_at": "2026-10-30T04:05:14Z"
+    "updated_at": "2026-10-30T14:17:59Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 151,
+    "stars": 160,
     "language": "Dart",
-    "updated_at": "2026-10-30T04:31:37Z"
+    "updated_at": "2026-10-30T14:46:41Z"
+  },
+  {
+    "name": "price-comparison",
+    "full_name": "hhtower/price-comparison",
+    "description": "AI 订阅与卡网比价，聚合 ChatGPT / Codex、Claude、Gemini、Grok、Cursor 等代充、成品号与兑换码报价，提供价格走势、官方地区价参考和 AI / IP 检测。Compare AI subscription and account offers across shops, with price history, official regional pricing, and AI/IP checks.",
+    "url": "https://github.com/hhtower/price-comparison",
+    "stars": 72,
+    "language": "TypeScript",
+    "updated_at": "2026-10-30T14:28:43Z"
   },
   {
     "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
     "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
     "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
     "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "stars": 64,
+    "stars": 56,
     "language": "HTML",
-    "updated_at": "2026-10-29T15:48:46Z"
+    "updated_at": "2026-10-30T11:21:24Z"
   },
   {
     "name": "InterviewCopilot-rpocket-team",
     "full_name": "OFat34764e/InterviewCopilot-rpocket-team",
     "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
     "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
-    "stars": 64,
+    "stars": 56,
     "language": null,
-    "updated_at": "2026-10-29T15:48:54Z"
+    "updated_at": "2026-10-30T11:21:33Z"
   },
   {
     "name": "Flashmind_Gemini-3.8-Flash_Smart-agent",
@@ -63,15 +72,6 @@
     "updated_at": "2026-10-30T02:45:30Z"
   },
   {
-    "name": "price-comparison",
-    "full_name": "hhtower/price-comparison",
-    "description": "自部署的 AI 商品比价平台，支持商铺采集、报价比较、商品归类与价格历史。Self-hosted AI product price comparison platform.",
-    "url": "https://github.com/hhtower/price-comparison",
-    "stars": 39,
-    "language": "TypeScript",
-    "updated_at": "2026-10-30T03:42:20Z"
-  },
-  {
     "name": "rpocket-AI-Coding-Agent-Toolkit",
     "full_name": "Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
     "description": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.",
@@ -81,12 +81,12 @@
     "updated_at": "2026-10-29T15:41:10Z"
   },
   {
-    "name": "rpocket-skill4agent-mcp-server",
-    "full_name": "Windlich13044/rpocket-skill4agent-mcp-server",
-    "description": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol",
-    "url": "https://github.com/Windlich13044/rpocket-skill4agent-mcp-server",
+    "name": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+    "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+    "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
+    "url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
     "stars": 32,
-    "language": "HTML",
-    "updated_at": "2026-10-29T15:41:52Z"
+    "language": null,
+    "updated_at": "2026-10-30T09:06:07Z"
   }
 ]
