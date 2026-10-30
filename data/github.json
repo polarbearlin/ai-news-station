@@ -4,45 +4,45 @@
     "full_name": "hevnsnt/CVEngine",
     "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
     "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 529,
+    "stars": 534,
     "language": "Python",
-    "updated_at": "2026-10-30T14:23:34Z"
+    "updated_at": "2026-10-30T19:38:12Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 290,
+    "stars": 296,
     "language": "TypeScript",
-    "updated_at": "2026-10-30T14:08:05Z"
+    "updated_at": "2026-10-30T20:02:15Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 272,
+    "stars": 274,
     "language": "Kotlin",
-    "updated_at": "2026-10-30T14:17:59Z"
+    "updated_at": "2026-10-30T19:46:57Z"
   },
   {
     "name": "TokenBar",
     "full_name": "lwh0630/TokenBar",
     "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
     "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 160,
+    "stars": 163,
     "language": "Dart",
-    "updated_at": "2026-10-30T14:46:41Z"
+    "updated_at": "2026-10-30T17:24:56Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价，聚合 ChatGPT / Codex、Claude、Gemini、Grok、Cursor 等代充、成品号与兑换码报价，提供价格走势、官方地区价参考和 AI / IP 检测。Compare AI subscription and account offers across shops, with price history, official regional pricing, and AI/IP checks.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 72,
+    "stars": 79,
     "language": "TypeScript",
-    "updated_at": "2026-10-30T14:28:43Z"
+    "updated_at": "2026-10-30T20:07:31Z"
   },
   {
     "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
@@ -72,15 +72,6 @@
     "updated_at": "2026-10-30T02:45:30Z"
   },
   {
-    "name": "rpocket-AI-Coding-Agent-Toolkit",
-    "full_name": "Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
-    "description": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.",
-    "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
-    "stars": 32,
-    "language": "HTML",
-    "updated_at": "2026-10-29T15:41:10Z"
-  },
-  {
     "name": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
     "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
     "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
@@ -88,5 +79,14 @@
     "stars": 32,
     "language": null,
     "updated_at": "2026-10-30T09:06:07Z"
+  },
+  {
+    "name": "rpocket-AI-Coding-Agent-Toolkit",
+    "full_name": "Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+    "description": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.",
+    "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+    "stars": 32,
+    "language": "HTML",
+    "updated_at": "2026-10-29T15:41:10Z"
   }
 ]
