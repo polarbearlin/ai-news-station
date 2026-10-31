@@ -1,48 +1,48 @@
 [
   {
-    "name": "CVEngine",
-    "full_name": "hevnsnt/CVEngine",
-    "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-    "url": "https://github.com/hevnsnt/CVEngine",
-    "stars": 534,
-    "language": "Python",
-    "updated_at": "2026-10-30T19:38:12Z"
-  },
-  {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 296,
+    "stars": 301,
     "language": "TypeScript",
-    "updated_at": "2026-10-30T20:02:15Z"
+    "updated_at": "2026-10-31T04:21:46Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 274,
+    "stars": 279,
     "language": "Kotlin",
-    "updated_at": "2026-10-30T19:46:57Z"
+    "updated_at": "2026-10-31T02:15:45Z"
   },
   {
-    "name": "TokenBar",
-    "full_name": "lwh0630/TokenBar",
-    "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
-    "url": "https://github.com/lwh0630/TokenBar",
-    "stars": 163,
-    "language": "Dart",
-    "updated_at": "2026-10-30T17:24:56Z"
+    "name": "Capri-AI",
+    "full_name": "boardshogunfluctuate/Capri-AI",
+    "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+    "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+    "stars": 196,
+    "language": null,
+    "updated_at": "2026-10-30T22:46:36Z"
+  },
+  {
+    "name": "VoiceStudioV2",
+    "full_name": "EntranceStarfish/VoiceStudioV2",
+    "description": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no API keys. Unofficial fork of VoiceStudio.",
+    "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
+    "stars": 128,
+    "language": null,
+    "updated_at": "2026-10-30T22:21:32Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价，聚合 ChatGPT / Codex、Claude、Gemini、Grok、Cursor 等代充、成品号与兑换码报价，提供价格走势、官方地区价参考和 AI / IP 检测。Compare AI subscription and account offers across shops, with price history, official regional pricing, and AI/IP checks.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 79,
+    "stars": 86,
     "language": "TypeScript",
-    "updated_at": "2026-10-30T20:07:31Z"
+    "updated_at": "2026-10-31T04:07:52Z"
   },
   {
     "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
@@ -63,6 +63,15 @@
     "updated_at": "2026-10-30T11:21:33Z"
   },
   {
+    "name": "forward-deployed-engineer-roadmap",
+    "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+    "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+    "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
+    "stars": 42,
+    "language": "Markdown",
+    "updated_at": "2026-10-31T03:48:28Z"
+  },
+  {
     "name": "Flashmind_Gemini-3.8-Flash_Smart-agent",
     "full_name": "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
     "description": "flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS Code, Claude Code and any MCP client.",
@@ -79,14 +88,5 @@
     "stars": 32,
     "language": null,
     "updated_at": "2026-10-30T09:06:07Z"
-  },
-  {
-    "name": "rpocket-AI-Coding-Agent-Toolkit",
-    "full_name": "Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
-    "description": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.",
-    "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
-    "stars": 32,
-    "language": "HTML",
-    "updated_at": "2026-10-29T15:41:10Z"
   }
 ]
