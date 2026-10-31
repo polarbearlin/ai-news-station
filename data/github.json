@@ -1,5 +1,14 @@
 [
   {
+    "name": "Capri-AI",
+    "full_name": "boardshogunfluctuate/Capri-AI",
+    "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+    "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+    "stars": 516,
+    "language": null,
+    "updated_at": "2026-10-31T23:01:09Z"
+  },
+  {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
@@ -13,54 +22,45 @@
     "full_name": "Balanov/baiagent-director",
     "description": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
     "url": "https://github.com/Balanov/baiagent-director",
-    "stars": 304,
+    "stars": 305,
     "language": "JavaScript",
-    "updated_at": "2026-10-31T18:19:14Z"
-  },
-  {
-    "name": "Capri-AI",
-    "full_name": "boardshogunfluctuate/Capri-AI",
-    "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
-    "url": "https://github.com/boardshogunfluctuate/Capri-AI",
-    "stars": 287,
-    "language": null,
-    "updated_at": "2026-10-31T17:05:40Z"
+    "updated_at": "2026-10-31T19:50:00Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 286,
+    "stars": 287,
     "language": "Kotlin",
-    "updated_at": "2026-10-31T15:22:38Z"
+    "updated_at": "2026-10-31T19:55:50Z"
   },
   {
-    "name": "character-ai-sdk",
-    "full_name": "tavern-labs-ai/character-ai-sdk",
-    "description": "Default personas, durable character memory, and provider adapters in a single package",
-    "url": "https://github.com/tavern-labs-ai/character-ai-sdk",
-    "stars": 188,
+    "name": "persona-ai-sdk",
+    "full_name": "tavern-labs-ai/persona-ai-sdk",
+    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+    "stars": 191,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T19:33:22Z"
+    "updated_at": "2026-10-31T21:42:50Z"
   },
   {
     "name": "VoiceStudioV2",
     "full_name": "EntranceStarfish/VoiceStudioV2",
     "description": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no API keys. Unofficial fork of VoiceStudio.",
     "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
-    "stars": 132,
+    "stars": 131,
     "language": null,
-    "updated_at": "2026-10-31T17:09:32Z"
+    "updated_at": "2026-10-31T20:57:45Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 107,
+    "stars": 108,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T16:37:20Z"
+    "updated_at": "2026-10-31T20:51:32Z"
   },
   {
     "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
@@ -87,6 +87,6 @@
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "stars": 82,
     "language": "Markdown",
-    "updated_at": "2026-10-31T18:54:13Z"
+    "updated_at": "2026-10-31T21:31:00Z"
   }
 ]
