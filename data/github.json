@@ -4,72 +4,81 @@
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 301,
+    "stars": 310,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T04:21:46Z"
+    "updated_at": "2026-10-31T13:42:45Z"
   },
   {
-    "name": "astrbot-for-android",
-    "full_name": "JunWan666/astrbot-for-android",
-    "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-    "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 279,
-    "language": "Kotlin",
-    "updated_at": "2026-10-31T02:15:45Z"
+    "name": "baiagent-director",
+    "full_name": "Balanov/baiagent-director",
+    "description": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
+    "url": "https://github.com/Balanov/baiagent-director",
+    "stars": 303,
+    "language": "JavaScript",
+    "updated_at": "2026-10-31T13:24:56Z"
   },
   {
     "name": "Capri-AI",
     "full_name": "boardshogunfluctuate/Capri-AI",
     "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
     "url": "https://github.com/boardshogunfluctuate/Capri-AI",
-    "stars": 196,
+    "stars": 286,
     "language": null,
-    "updated_at": "2026-10-30T22:46:36Z"
+    "updated_at": "2026-10-31T04:57:18Z"
+  },
+  {
+    "name": "astrbot-for-android",
+    "full_name": "JunWan666/astrbot-for-android",
+    "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+    "url": "https://github.com/JunWan666/astrbot-for-android",
+    "stars": 284,
+    "language": "Kotlin",
+    "updated_at": "2026-10-31T14:05:23Z"
   },
   {
     "name": "VoiceStudioV2",
     "full_name": "EntranceStarfish/VoiceStudioV2",
     "description": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no API keys. Unofficial fork of VoiceStudio.",
     "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
-    "stars": 128,
+    "stars": 129,
     "language": null,
-    "updated_at": "2026-10-30T22:21:32Z"
+    "updated_at": "2026-10-31T07:38:46Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价，聚合 ChatGPT / Codex、Claude、Gemini、Grok、Cursor 等代充、成品号与兑换码报价，提供价格走势、官方地区价参考和 AI / IP 检测。Compare AI subscription and account offers across shops, with price history, official regional pricing, and AI/IP checks.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 86,
+    "stars": 102,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T04:07:52Z"
-  },
-  {
-    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
-    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "stars": 56,
-    "language": "HTML",
-    "updated_at": "2026-10-30T11:21:24Z"
-  },
-  {
-    "name": "InterviewCopilot-rpocket-team",
-    "full_name": "OFat34764e/InterviewCopilot-rpocket-team",
-    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-    "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
-    "stars": 56,
-    "language": null,
-    "updated_at": "2026-10-30T11:21:33Z"
+    "updated_at": "2026-10-31T13:12:54Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 42,
+    "stars": 70,
     "language": "Markdown",
-    "updated_at": "2026-10-31T03:48:28Z"
+    "updated_at": "2026-10-31T13:03:47Z"
+  },
+  {
+    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "stars": 46,
+    "language": "HTML",
+    "updated_at": "2026-10-31T13:36:10Z"
+  },
+  {
+    "name": "InterviewCopilot-rpocket-team",
+    "full_name": "OFat34764e/InterviewCopilot-rpocket-team",
+    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
+    "stars": 46,
+    "language": null,
+    "updated_at": "2026-10-31T13:36:16Z"
   },
   {
     "name": "Flashmind_Gemini-3.8-Flash_Smart-agent",
@@ -79,14 +88,5 @@
     "stars": 39,
     "language": "JavaScript",
     "updated_at": "2026-10-30T02:45:30Z"
-  },
-  {
-    "name": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-    "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-    "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
-    "url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-    "stars": 32,
-    "language": null,
-    "updated_at": "2026-10-30T09:06:07Z"
   }
 ]
