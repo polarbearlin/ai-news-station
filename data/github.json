@@ -4,18 +4,27 @@
     "full_name": "boardshogunfluctuate/Capri-AI",
     "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
     "url": "https://github.com/boardshogunfluctuate/Capri-AI",
-    "stars": 516,
+    "stars": 593,
     "language": null,
-    "updated_at": "2026-10-31T23:01:09Z"
+    "updated_at": "2026-11-01T13:50:31Z"
+  },
+  {
+    "name": "ai-ref-library-cn",
+    "full_name": "sleepy-zone/ai-ref-library-cn",
+    "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+    "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+    "stars": 527,
+    "language": "JavaScript",
+    "updated_at": "2026-11-01T14:34:33Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 315,
+    "stars": 326,
     "language": "TypeScript",
-    "updated_at": "2026-11-01T03:25:03Z"
+    "updated_at": "2026-11-01T14:34:47Z"
   },
   {
     "name": "baiagent-director",
@@ -24,16 +33,16 @@
     "url": "https://github.com/Balanov/baiagent-director",
     "stars": 305,
     "language": "JavaScript",
-    "updated_at": "2026-11-01T03:17:28Z"
+    "updated_at": "2026-11-01T11:46:39Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 290,
+    "stars": 298,
     "language": "Kotlin",
-    "updated_at": "2026-11-01T03:49:01Z"
+    "updated_at": "2026-11-01T13:52:44Z"
   },
   {
     "name": "persona-ai-sdk",
@@ -42,7 +51,7 @@
     "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
     "stars": 192,
     "language": "TypeScript",
-    "updated_at": "2026-11-01T00:58:15Z"
+    "updated_at": "2026-11-01T10:16:33Z"
   },
   {
     "name": "VoiceStudioV2",
@@ -58,35 +67,26 @@
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 108,
+    "stars": 125,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T20:51:32Z"
+    "updated_at": "2026-11-01T14:12:36Z"
   },
   {
-    "name": "InterviewCopilot-rpocket-team",
-    "full_name": "OFat34764e/InterviewCopilot-rpocket-team",
-    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-    "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
-    "stars": 95,
-    "language": null,
-    "updated_at": "2026-10-31T17:46:06Z"
-  },
-  {
-    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
-    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "stars": 95,
-    "language": "HTML",
-    "updated_at": "2026-10-31T17:44:39Z"
+    "name": "graphmemory",
+    "full_name": "gh9ko8y/graphmemory",
+    "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
+    "url": "https://github.com/gh9ko8y/graphmemory",
+    "stars": 102,
+    "language": "Python",
+    "updated_at": "2026-11-01T14:04:23Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 85,
+    "stars": 96,
     "language": "Markdown",
-    "updated_at": "2026-11-01T04:41:50Z"
+    "updated_at": "2026-11-01T12:46:55Z"
   }
 ]
