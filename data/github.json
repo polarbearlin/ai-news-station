@@ -13,9 +13,9 @@
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 311,
+    "stars": 315,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T17:47:08Z"
+    "updated_at": "2026-11-01T03:25:03Z"
   },
   {
     "name": "baiagent-director",
@@ -24,25 +24,25 @@
     "url": "https://github.com/Balanov/baiagent-director",
     "stars": 305,
     "language": "JavaScript",
-    "updated_at": "2026-10-31T19:50:00Z"
+    "updated_at": "2026-11-01T03:17:28Z"
   },
   {
     "name": "astrbot-for-android",
     "full_name": "JunWan666/astrbot-for-android",
     "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
     "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 287,
+    "stars": 290,
     "language": "Kotlin",
-    "updated_at": "2026-10-31T19:55:50Z"
+    "updated_at": "2026-11-01T03:49:01Z"
   },
   {
     "name": "persona-ai-sdk",
     "full_name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
     "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 191,
+    "stars": 192,
     "language": "TypeScript",
-    "updated_at": "2026-10-31T21:42:50Z"
+    "updated_at": "2026-11-01T00:58:15Z"
   },
   {
     "name": "VoiceStudioV2",
@@ -63,15 +63,6 @@
     "updated_at": "2026-10-31T20:51:32Z"
   },
   {
-    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
-    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "stars": 95,
-    "language": "HTML",
-    "updated_at": "2026-10-31T17:44:39Z"
-  },
-  {
     "name": "InterviewCopilot-rpocket-team",
     "full_name": "OFat34764e/InterviewCopilot-rpocket-team",
     "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
@@ -81,12 +72,21 @@
     "updated_at": "2026-10-31T17:46:06Z"
   },
   {
+    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "stars": 95,
+    "language": "HTML",
+    "updated_at": "2026-10-31T17:44:39Z"
+  },
+  {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 82,
+    "stars": 85,
     "language": "Markdown",
-    "updated_at": "2026-10-31T21:31:00Z"
+    "updated_at": "2026-11-01T04:41:50Z"
   }
 ]

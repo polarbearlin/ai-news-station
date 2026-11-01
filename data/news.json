@@ -1,4 +1,13 @@
 {
-  "generated_at": "2026-10-31 23:06:44",
-  "news": []
+  "generated_at": "2026-11-01 04:41:53",
+  "news": [
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "source": "Hacker News",
+      "time": "2026-11-01 01:46",
+      "score": 22,
+      "comments": 7
+    }
+  ]
 }
