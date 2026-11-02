@@ -4,89 +4,89 @@
     "full_name": "sleepy-zone/ai-ref-library-cn",
     "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
     "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 551,
+    "stars": 595,
     "language": "JavaScript",
-    "updated_at": "2026-11-01T18:51:43Z"
+    "updated_at": "2026-11-02T04:43:28Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 327,
+    "stars": 333,
     "language": "TypeScript",
-    "updated_at": "2026-11-01T18:02:51Z"
+    "updated_at": "2026-11-02T04:05:41Z"
   },
   {
     "name": "baiagent-director",
     "full_name": "Balanov/baiagent-director",
     "description": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
     "url": "https://github.com/Balanov/baiagent-director",
-    "stars": 305,
+    "stars": 306,
     "language": "JavaScript",
-    "updated_at": "2026-11-01T17:18:06Z"
-  },
-  {
-    "name": "astrbot-for-android",
-    "full_name": "JunWan666/astrbot-for-android",
-    "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-    "url": "https://github.com/JunWan666/astrbot-for-android",
-    "stars": 302,
-    "language": "Kotlin",
-    "updated_at": "2026-11-01T18:02:47Z"
+    "updated_at": "2026-11-02T02:16:19Z"
   },
   {
     "name": "persona-ai-sdk",
     "full_name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
     "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 192,
+    "stars": 194,
     "language": "TypeScript",
-    "updated_at": "2026-11-01T10:16:33Z"
+    "updated_at": "2026-11-02T03:49:26Z"
   },
   {
     "name": "ai-design-check",
     "full_name": "enmerasoftware/ai-design-check",
     "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
     "url": "https://github.com/enmerasoftware/ai-design-check",
-    "stars": 135,
+    "stars": 171,
     "language": "JavaScript",
-    "updated_at": "2026-11-01T20:07:58Z"
+    "updated_at": "2026-11-02T04:33:46Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 133,
+    "stars": 141,
     "language": "TypeScript",
-    "updated_at": "2026-11-01T16:31:57Z"
+    "updated_at": "2026-11-02T03:12:13Z"
   },
   {
     "name": "graphmemory",
     "full_name": "gh9ko8y/graphmemory",
     "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
     "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 105,
+    "stars": 111,
     "language": "Python",
-    "updated_at": "2026-11-01T19:43:15Z"
+    "updated_at": "2026-11-02T03:29:20Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 100,
+    "stars": 109,
     "language": "Markdown",
-    "updated_at": "2026-11-01T19:52:15Z"
+    "updated_at": "2026-11-02T04:17:48Z"
   },
   {
-    "name": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "full_name": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
-    "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
-    "stars": 52,
-    "language": "HTML",
-    "updated_at": "2026-11-01T19:48:13Z"
+    "name": "codixel",
+    "full_name": "mankidev/codixel",
+    "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
+    "url": "https://github.com/mankidev/codixel",
+    "stars": 61,
+    "language": "JavaScript",
+    "updated_at": "2026-11-02T04:36:44Z"
+  },
+  {
+    "name": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+    "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+    "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
+    "url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+    "stars": 41,
+    "language": null,
+    "updated_at": "2026-11-02T04:06:12Z"
   }
 ]
