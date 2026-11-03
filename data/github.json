@@ -4,18 +4,18 @@
     "full_name": "sleepy-zone/ai-ref-library-cn",
     "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
     "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 665,
+    "stars": 672,
     "language": "JavaScript",
-    "updated_at": "2026-11-02T17:01:54Z"
+    "updated_at": "2026-11-03T01:35:11Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 344,
+    "stars": 346,
     "language": "TypeScript",
-    "updated_at": "2026-11-02T17:19:05Z"
+    "updated_at": "2026-11-02T18:13:36Z"
   },
   {
     "name": "baiagent-director",
@@ -27,58 +27,58 @@
     "updated_at": "2026-11-02T02:16:19Z"
   },
   {
-    "name": "persona-ai-sdk",
-    "full_name": "tavern-labs-ai/persona-ai-sdk",
-    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 196,
-    "language": "TypeScript",
-    "updated_at": "2026-11-02T15:21:52Z"
-  },
-  {
     "name": "ai-design-check",
     "full_name": "enmerasoftware/ai-design-check",
     "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
     "url": "https://github.com/enmerasoftware/ai-design-check",
-    "stars": 190,
+    "stars": 200,
     "language": "JavaScript",
-    "updated_at": "2026-11-02T17:01:27Z"
+    "updated_at": "2026-11-03T01:19:59Z"
+  },
+  {
+    "name": "persona-ai-sdk",
+    "full_name": "tavern-labs-ai/persona-ai-sdk",
+    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+    "stars": 197,
+    "language": "TypeScript",
+    "updated_at": "2026-11-02T21:51:29Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 158,
+    "stars": 160,
     "language": "TypeScript",
-    "updated_at": "2026-11-02T17:35:50Z"
+    "updated_at": "2026-11-03T00:59:27Z"
   },
   {
     "name": "graphmemory",
     "full_name": "gh9ko8y/graphmemory",
     "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
     "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 146,
+    "stars": 151,
     "language": "Python",
-    "updated_at": "2026-11-02T17:19:35Z"
+    "updated_at": "2026-11-03T00:54:08Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 121,
+    "stars": 122,
     "language": "Markdown",
-    "updated_at": "2026-11-02T17:24:56Z"
+    "updated_at": "2026-11-02T18:33:54Z"
   },
   {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 73,
+    "stars": 83,
     "language": "JavaScript",
-    "updated_at": "2026-11-02T17:43:28Z"
+    "updated_at": "2026-11-03T01:09:18Z"
   },
   {
     "name": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
