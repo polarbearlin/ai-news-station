@@ -4,18 +4,18 @@
     "full_name": "sleepy-zone/ai-ref-library-cn",
     "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
     "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 693,
+    "stars": 698,
     "language": "JavaScript",
-    "updated_at": "2026-11-03T11:25:56Z"
+    "updated_at": "2026-11-03T18:18:12Z"
   },
   {
     "name": "shipwords",
     "full_name": "shipwords-dev/shipwords",
     "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
     "url": "https://github.com/shipwords-dev/shipwords",
-    "stars": 348,
+    "stars": 351,
     "language": "TypeScript",
-    "updated_at": "2026-11-03T06:56:35Z"
+    "updated_at": "2026-11-03T16:58:28Z"
   },
   {
     "name": "baiagent-director",
@@ -31,9 +31,9 @@
     "full_name": "enmerasoftware/ai-design-check",
     "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
     "url": "https://github.com/enmerasoftware/ai-design-check",
-    "stars": 206,
+    "stars": 210,
     "language": "JavaScript",
-    "updated_at": "2026-11-03T10:08:06Z"
+    "updated_at": "2026-11-03T16:00:28Z"
   },
   {
     "name": "persona-ai-sdk",
@@ -49,44 +49,44 @@
     "full_name": "gh9ko8y/graphmemory",
     "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
     "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 166,
+    "stars": 181,
     "language": "Python",
-    "updated_at": "2026-11-03T11:14:25Z"
+    "updated_at": "2026-11-03T18:57:17Z"
   },
   {
     "name": "price-comparison",
     "full_name": "hhtower/price-comparison",
     "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
     "url": "https://github.com/hhtower/price-comparison",
-    "stars": 162,
+    "stars": 166,
     "language": "TypeScript",
-    "updated_at": "2026-11-03T11:10:17Z"
+    "updated_at": "2026-11-03T18:54:56Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 125,
+    "stars": 128,
     "language": "Markdown",
-    "updated_at": "2026-11-03T08:32:21Z"
+    "updated_at": "2026-11-03T17:33:39Z"
   },
   {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 90,
+    "stars": 94,
     "language": "JavaScript",
-    "updated_at": "2026-11-03T10:06:36Z"
+    "updated_at": "2026-11-03T16:41:34Z"
   },
   {
-    "name": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-    "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-    "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
-    "url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+    "name": "CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
+    "full_name": "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
+    "description": "直连国际清算网络的合规级 Visa / Mastercard 虚拟信用卡（VCC）管理后台。专注解决跨境出海投放封号、多店铺资金连环风控、AI 工具拒付及海外账单超支，支持 USDT 即充即开与全场景精细化额度隔离。",
+    "url": "https://github.com/gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
     "stars": 52,
     "language": null,
-    "updated_at": "2026-11-03T10:07:49Z"
+    "updated_at": "2026-11-03T10:07:09Z"
   }
 ]
