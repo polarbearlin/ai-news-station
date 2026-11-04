@@ -4,9 +4,9 @@
     "full_name": "sleepy-zone/ai-ref-library-cn",
     "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
     "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 702,
+    "stars": 713,
     "language": "JavaScript",
-    "updated_at": "2026-11-04T00:03:08Z"
+    "updated_at": "2026-11-04T11:49:46Z"
   },
   {
     "name": "persona-ai-sdk",
@@ -22,27 +22,27 @@
     "full_name": "gh9ko8y/graphmemory",
     "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
     "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 182,
+    "stars": 188,
     "language": "Python",
-    "updated_at": "2026-11-03T23:04:20Z"
+    "updated_at": "2026-11-04T09:42:15Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 130,
+    "stars": 133,
     "language": "Markdown",
-    "updated_at": "2026-11-03T21:36:20Z"
+    "updated_at": "2026-11-04T10:22:20Z"
   },
   {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 95,
+    "stars": 97,
     "language": "JavaScript",
-    "updated_at": "2026-11-03T23:47:59Z"
+    "updated_at": "2026-11-04T04:18:14Z"
   },
   {
     "name": "autoppt",
@@ -58,35 +58,35 @@
     "full_name": "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
     "description": "直连海外一级银行清算网关的企业级 Visa / Mastercard 虚拟信用卡（VCC）发卡平台。主打纯净商业卡段、USDT 链上秒级入金、一户一卡物理级防关联、单商户指纹锁定与残额毫秒回拨，从底层支付架构彻底解决海外广告拒付、连带封号及订阅隐形扣费痛点。  Markdown",
     "url": "https://github.com/jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
-    "stars": 44,
+    "stars": 48,
     "language": null,
-    "updated_at": "2026-11-03T10:06:47Z"
+    "updated_at": "2026-11-04T10:37:47Z"
   },
   {
     "name": "-CoreGold---E-Com-Matrix-Card-Gateway",
     "full_name": "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
     "description": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。",
     "url": "https://github.com/cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
-    "stars": 39,
+    "stars": 44,
     "language": null,
-    "updated_at": "2026-11-03T10:07:05Z"
+    "updated_at": "2026-11-04T10:54:30Z"
   },
   {
     "name": "CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
     "full_name": "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
     "description": "小白新手零门槛实操指南：零海外银行卡、零信用审核，手把手教你使用企业级 Visa / Mastercard 虚拟信用卡秒级订阅海外服务与主流 AI 工具。支持 USDT 充值随用随开、原生美区账单地址自动匹配与余额随时提现回流，彻底摆脱国内双币卡频频拒付的烦恼。",
     "url": "https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
-    "stars": 38,
+    "stars": 41,
     "language": null,
-    "updated_at": "2026-11-03T10:07:40Z"
+    "updated_at": "2026-11-04T10:25:58Z"
   },
   {
     "name": "dafeiyu-phone",
     "full_name": "Yihua666666/dafeiyu-phone",
     "description": "A tiny autonomous whale-girl living on an idle Android phone. DeepSeek + AutoX.js + ntfy.",
     "url": "https://github.com/Yihua666666/dafeiyu-phone",
-    "stars": 35,
+    "stars": 38,
     "language": "JavaScript",
-    "updated_at": "2026-11-03T19:35:37Z"
+    "updated_at": "2026-11-04T07:08:03Z"
   }
 ]
