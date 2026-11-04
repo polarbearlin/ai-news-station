@@ -4,9 +4,9 @@
     "full_name": "sleepy-zone/ai-ref-library-cn",
     "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
     "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 713,
+    "stars": 715,
     "language": "JavaScript",
-    "updated_at": "2026-11-04T11:49:46Z"
+    "updated_at": "2026-11-04T15:55:34Z"
   },
   {
     "name": "persona-ai-sdk",
@@ -31,18 +31,18 @@
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 133,
+    "stars": 135,
     "language": "Markdown",
-    "updated_at": "2026-11-04T10:22:20Z"
+    "updated_at": "2026-11-04T18:11:11Z"
   },
   {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 97,
+    "stars": 104,
     "language": "JavaScript",
-    "updated_at": "2026-11-04T04:18:14Z"
+    "updated_at": "2026-11-04T18:20:01Z"
   },
   {
     "name": "autoppt",
@@ -63,6 +63,15 @@
     "updated_at": "2026-11-04T10:37:47Z"
   },
   {
+    "name": "ClawGod_Y",
+    "full_name": "do-whilefor/ClawGod_Y",
+    "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
+    "url": "https://github.com/do-whilefor/ClawGod_Y",
+    "stars": 47,
+    "language": "JavaScript",
+    "updated_at": "2026-11-04T19:19:28Z"
+  },
+  {
     "name": "-CoreGold---E-Com-Matrix-Card-Gateway",
     "full_name": "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
     "description": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。",
@@ -72,21 +81,12 @@
     "updated_at": "2026-11-04T10:54:30Z"
   },
   {
-    "name": "CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
-    "full_name": "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
-    "description": "小白新手零门槛实操指南：零海外银行卡、零信用审核，手把手教你使用企业级 Visa / Mastercard 虚拟信用卡秒级订阅海外服务与主流 AI 工具。支持 USDT 充值随用随开、原生美区账单地址自动匹配与余额随时提现回流，彻底摆脱国内双币卡频频拒付的烦恼。",
-    "url": "https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
+    "name": "axion1_0",
+    "full_name": "bytedance/axion1_0",
+    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+    "url": "https://github.com/bytedance/axion1_0",
     "stars": 41,
-    "language": null,
-    "updated_at": "2026-11-04T10:25:58Z"
-  },
-  {
-    "name": "dafeiyu-phone",
-    "full_name": "Yihua666666/dafeiyu-phone",
-    "description": "A tiny autonomous whale-girl living on an idle Android phone. DeepSeek + AutoX.js + ntfy.",
-    "url": "https://github.com/Yihua666666/dafeiyu-phone",
-    "stars": 38,
-    "language": "JavaScript",
-    "updated_at": "2026-11-04T07:08:03Z"
+    "language": "Python",
+    "updated_at": "2026-11-04T19:21:14Z"
   }
 ]
