@@ -1,14 +1,5 @@
 [
   {
-    "name": "ai-ref-library-cn",
-    "full_name": "sleepy-zone/ai-ref-library-cn",
-    "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-    "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-    "stars": 715,
-    "language": "JavaScript",
-    "updated_at": "2026-11-04T15:55:34Z"
-  },
-  {
     "name": "persona-ai-sdk",
     "full_name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
@@ -22,27 +13,36 @@
     "full_name": "gh9ko8y/graphmemory",
     "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
     "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 188,
+    "stars": 189,
     "language": "Python",
-    "updated_at": "2026-11-04T09:42:15Z"
+    "updated_at": "2026-11-04T23:29:20Z"
   },
   {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 135,
+    "stars": 136,
     "language": "Markdown",
-    "updated_at": "2026-11-04T18:11:11Z"
+    "updated_at": "2026-11-04T20:01:12Z"
   },
   {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 104,
+    "stars": 106,
     "language": "JavaScript",
-    "updated_at": "2026-11-04T18:20:01Z"
+    "updated_at": "2026-11-04T23:18:25Z"
+  },
+  {
+    "name": "ClawGod_Y",
+    "full_name": "do-whilefor/ClawGod_Y",
+    "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
+    "url": "https://github.com/do-whilefor/ClawGod_Y",
+    "stars": 81,
+    "language": "JavaScript",
+    "updated_at": "2026-11-04T23:27:23Z"
   },
   {
     "name": "autoppt",
@@ -54,39 +54,39 @@
     "updated_at": "2026-11-03T15:29:43Z"
   },
   {
-    "name": "-CoreGold---Global-Virtual-Card-Gateway",
-    "full_name": "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
-    "description": "直连海外一级银行清算网关的企业级 Visa / Mastercard 虚拟信用卡（VCC）发卡平台。主打纯净商业卡段、USDT 链上秒级入金、一户一卡物理级防关联、单商户指纹锁定与残额毫秒回拨，从底层支付架构彻底解决海外广告拒付、连带封号及订阅隐形扣费痛点。  Markdown",
-    "url": "https://github.com/jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
-    "stars": 48,
-    "language": null,
-    "updated_at": "2026-11-04T10:37:47Z"
-  },
-  {
-    "name": "ClawGod_Y",
-    "full_name": "do-whilefor/ClawGod_Y",
-    "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
-    "url": "https://github.com/do-whilefor/ClawGod_Y",
-    "stars": 47,
-    "language": "JavaScript",
-    "updated_at": "2026-11-04T19:19:28Z"
-  },
-  {
-    "name": "-CoreGold---E-Com-Matrix-Card-Gateway",
-    "full_name": "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
-    "description": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。",
-    "url": "https://github.com/cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
-    "stars": 44,
-    "language": null,
-    "updated_at": "2026-11-04T10:54:30Z"
-  },
-  {
     "name": "axion1_0",
     "full_name": "bytedance/axion1_0",
     "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
     "url": "https://github.com/bytedance/axion1_0",
-    "stars": 41,
+    "stars": 44,
     "language": "Python",
-    "updated_at": "2026-11-04T19:21:14Z"
+    "updated_at": "2026-11-04T23:57:06Z"
+  },
+  {
+    "name": "dsh-finance",
+    "full_name": "DKKD13/dsh-finance",
+    "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
+    "url": "https://github.com/DKKD13/dsh-finance",
+    "stars": 40,
+    "language": "TypeScript",
+    "updated_at": "2026-11-04T16:31:14Z"
+  },
+  {
+    "name": "CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
+    "full_name": "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
+    "description": "🚀 CoreGold 纯小白极速上手指南（3 步搞定海外支付）",
+    "url": "https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
+    "stars": 37,
+    "language": null,
+    "updated_at": "2026-11-04T10:54:37Z"
+  },
+  {
+    "name": "CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
+    "full_name": "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
+    "description": "为什么你的卡总在 OpenAI 被秒拒？Stripe 风控逆向与 CoreGold 硬核过风控指南",
+    "url": "https://github.com/bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
+    "stars": 35,
+    "language": null,
+    "updated_at": "2026-11-04T10:54:49Z"
   }
 ]

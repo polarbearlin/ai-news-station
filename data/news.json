@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-04 19:26:00",
+  "generated_at": "2026-11-05 00:44:30",
   "news": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "source": "Hacker News",
       "time": "2026-11-04 11:52",
-      "score": 806,
-      "comments": 497
+      "score": 1039,
+      "comments": 621
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "Hacker News",
+      "time": "2026-11-04 19:55",
+      "score": 91,
+      "comments": 41
     }
   ]
 }
