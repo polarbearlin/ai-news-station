@@ -1,21 +1,21 @@
 [
   {
-    "name": "persona-ai-sdk",
-    "full_name": "tavern-labs-ai/persona-ai-sdk",
-    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 198,
-    "language": "TypeScript",
-    "updated_at": "2026-11-05T07:47:08Z"
-  },
-  {
     "name": "forward-deployed-engineer-roadmap",
     "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
     "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
     "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 195,
+    "stars": 212,
     "language": "Markdown",
-    "updated_at": "2026-11-05T11:44:46Z"
+    "updated_at": "2026-11-05T19:24:09Z"
+  },
+  {
+    "name": "persona-ai-sdk",
+    "full_name": "tavern-labs-ai/persona-ai-sdk",
+    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+    "stars": 196,
+    "language": "TypeScript",
+    "updated_at": "2026-11-05T14:20:59Z"
   },
   {
     "name": "graphmemory",
@@ -31,18 +31,36 @@
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 110,
+    "stars": 117,
     "language": "JavaScript",
-    "updated_at": "2026-11-05T11:09:47Z"
+    "updated_at": "2026-11-05T15:54:52Z"
   },
   {
     "name": "ClawGod_Y",
     "full_name": "do-whilefor/ClawGod_Y",
     "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
     "url": "https://github.com/do-whilefor/ClawGod_Y",
-    "stars": 89,
+    "stars": 108,
     "language": "JavaScript",
-    "updated_at": "2026-11-05T11:46:37Z"
+    "updated_at": "2026-11-05T19:11:50Z"
+  },
+  {
+    "name": "dsh-finance",
+    "full_name": "DKKD13/dsh-finance",
+    "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
+    "url": "https://github.com/DKKD13/dsh-finance",
+    "stars": 58,
+    "language": "TypeScript",
+    "updated_at": "2026-11-05T18:44:20Z"
+  },
+  {
+    "name": "axion1_0",
+    "full_name": "bytedance/axion1_0",
+    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+    "url": "https://github.com/bytedance/axion1_0",
+    "stars": 56,
+    "language": "Python",
+    "updated_at": "2026-11-05T15:56:02Z"
   },
   {
     "name": "autoppt",
@@ -54,39 +72,21 @@
     "updated_at": "2026-11-05T10:02:48Z"
   },
   {
-    "name": "axion1_0",
-    "full_name": "bytedance/axion1_0",
-    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-    "url": "https://github.com/bytedance/axion1_0",
-    "stars": 52,
+    "name": "chatGPT-shell-cli",
+    "full_name": "kennydamobd/chatGPT-shell-cli",
+    "description": "A lightweight shell script to use OpenAI chat models and image generation from the terminal.",
+    "url": "https://github.com/kennydamobd/chatGPT-shell-cli",
+    "stars": 50,
+    "language": "Shell",
+    "updated_at": "2026-11-05T14:23:18Z"
+  },
+  {
+    "name": "prompt-poet",
+    "full_name": "fieldpincocknxxc/prompt-poet",
+    "description": "Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.",
+    "url": "https://github.com/fieldpincocknxxc/prompt-poet",
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-11-05T11:00:54Z"
-  },
-  {
-    "name": "dsh-finance",
-    "full_name": "DKKD13/dsh-finance",
-    "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
-    "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 49,
-    "language": "TypeScript",
-    "updated_at": "2026-11-05T11:09:59Z"
-  },
-  {
-    "name": "CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
-    "full_name": "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
-    "description": "🚀 CoreGold 纯小白极速上手指南（3 步搞定海外支付）",
-    "url": "https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
-    "stars": 45,
-    "language": null,
-    "updated_at": "2026-11-05T06:00:24Z"
-  },
-  {
-    "name": "CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
-    "full_name": "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
-    "description": "为什么你的卡总在 OpenAI 被秒拒？Stripe 风控逆向与 CoreGold 硬核过风控指南",
-    "url": "https://github.com/bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
-    "stars": 43,
-    "language": null,
-    "updated_at": "2026-11-05T06:00:33Z"
+    "updated_at": "2026-11-05T14:23:24Z"
   }
 ]
