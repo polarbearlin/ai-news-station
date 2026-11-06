@@ -1,5 +1,14 @@
 [
   {
+    "name": "agentic-hacking-skills",
+    "full_name": "mrhlaingbwardev/agentic-hacking-skills",
+    "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+    "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
+    "stars": 345,
+    "language": "JavaScript",
+    "updated_at": "2026-11-06T03:59:27Z"
+  },
+  {
     "name": "persona-ai-sdk",
     "full_name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
@@ -13,27 +22,36 @@
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 120,
+    "stars": 126,
     "language": "JavaScript",
-    "updated_at": "2026-11-06T00:43:30Z"
+    "updated_at": "2026-11-06T11:14:29Z"
   },
   {
     "name": "dsh-finance",
     "full_name": "DKKD13/dsh-finance",
     "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
     "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 63,
+    "stars": 78,
     "language": "TypeScript",
-    "updated_at": "2026-11-05T23:16:13Z"
+    "updated_at": "2026-11-06T10:27:18Z"
+  },
+  {
+    "name": "WebsiteBench",
+    "full_name": "TIGER-AI-Lab/WebsiteBench",
+    "description": "Can AI agents rebuild websites through browser exploration?",
+    "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+    "stars": 75,
+    "language": "Python",
+    "updated_at": "2026-11-06T11:27:25Z"
   },
   {
     "name": "axion1_0",
     "full_name": "bytedance/axion1_0",
     "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
     "url": "https://github.com/bytedance/axion1_0",
-    "stars": 57,
+    "stars": 60,
     "language": "Python",
-    "updated_at": "2026-11-05T23:46:01Z"
+    "updated_at": "2026-11-06T08:16:49Z"
   },
   {
     "name": "autoppt",
@@ -54,15 +72,6 @@
     "updated_at": "2026-11-05T14:23:18Z"
   },
   {
-    "name": "tiktokenizer",
-    "full_name": "mandeal303/tiktokenizer",
-    "description": "An interactive playground for comparing how different language models tokenize the same text.",
-    "url": "https://github.com/mandeal303/tiktokenizer",
-    "stars": 50,
-    "language": "TypeScript",
-    "updated_at": "2026-11-05T14:23:00Z"
-  },
-  {
     "name": "prompt-poet",
     "full_name": "fieldpincocknxxc/prompt-poet",
     "description": "Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.",
@@ -72,21 +81,12 @@
     "updated_at": "2026-11-05T14:23:24Z"
   },
   {
-    "name": "InterviewCopilot-rpocket-team",
-    "full_name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "stars": 38,
-    "language": "HTML",
-    "updated_at": "2026-11-05T13:58:34Z"
-  },
-  {
-    "name": "WebsiteBench",
-    "full_name": "TIGER-AI-Lab/WebsiteBench",
-    "description": "Can AI agents rebuild websites through browser exploration?",
-    "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 38,
+    "name": "BlendClone",
+    "full_name": "blixvip/BlendClone",
+    "description": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.",
+    "url": "https://github.com/blixvip/BlendClone",
+    "stars": 50,
     "language": "Python",
-    "updated_at": "2026-11-06T00:36:34Z"
+    "updated_at": "2026-11-06T11:22:06Z"
   }
 ]
