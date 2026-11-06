@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-11-05 19:34:45",
-  "news": []
+  "generated_at": "2026-11-06 00:47:30",
+  "news": [
+    {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "Hacker News",
+      "time": "2026-11-05 22:17",
+      "score": 400,
+      "comments": 138
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "source": "Hacker News",
+      "time": "2026-11-05 20:43",
+      "score": 278,
+      "comments": 87
+    },
+    {
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "source": "Hacker News",
+      "time": "2026-11-05 20:21",
+      "score": 73,
+      "comments": 2
+    }
+  ]
 }

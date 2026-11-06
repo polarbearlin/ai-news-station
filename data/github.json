@@ -1,14 +1,5 @@
 [
   {
-    "name": "forward-deployed-engineer-roadmap",
-    "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-    "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-    "stars": 212,
-    "language": "Markdown",
-    "updated_at": "2026-11-05T19:24:09Z"
-  },
-  {
     "name": "persona-ai-sdk",
     "full_name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
@@ -18,49 +9,31 @@
     "updated_at": "2026-11-05T14:20:59Z"
   },
   {
-    "name": "graphmemory",
-    "full_name": "gh9ko8y/graphmemory",
-    "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
-    "url": "https://github.com/gh9ko8y/graphmemory",
-    "stars": 191,
-    "language": "Python",
-    "updated_at": "2026-11-05T10:12:12Z"
-  },
-  {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 117,
+    "stars": 120,
     "language": "JavaScript",
-    "updated_at": "2026-11-05T15:54:52Z"
-  },
-  {
-    "name": "ClawGod_Y",
-    "full_name": "do-whilefor/ClawGod_Y",
-    "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
-    "url": "https://github.com/do-whilefor/ClawGod_Y",
-    "stars": 108,
-    "language": "JavaScript",
-    "updated_at": "2026-11-05T19:11:50Z"
+    "updated_at": "2026-11-06T00:43:30Z"
   },
   {
     "name": "dsh-finance",
     "full_name": "DKKD13/dsh-finance",
     "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
     "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 58,
+    "stars": 63,
     "language": "TypeScript",
-    "updated_at": "2026-11-05T18:44:20Z"
+    "updated_at": "2026-11-05T23:16:13Z"
   },
   {
     "name": "axion1_0",
     "full_name": "bytedance/axion1_0",
     "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
     "url": "https://github.com/bytedance/axion1_0",
-    "stars": 56,
+    "stars": 57,
     "language": "Python",
-    "updated_at": "2026-11-05T15:56:02Z"
+    "updated_at": "2026-11-05T23:46:01Z"
   },
   {
     "name": "autoppt",
@@ -81,6 +54,15 @@
     "updated_at": "2026-11-05T14:23:18Z"
   },
   {
+    "name": "tiktokenizer",
+    "full_name": "mandeal303/tiktokenizer",
+    "description": "An interactive playground for comparing how different language models tokenize the same text.",
+    "url": "https://github.com/mandeal303/tiktokenizer",
+    "stars": 50,
+    "language": "TypeScript",
+    "updated_at": "2026-11-05T14:23:00Z"
+  },
+  {
     "name": "prompt-poet",
     "full_name": "fieldpincocknxxc/prompt-poet",
     "description": "Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.",
@@ -88,5 +70,23 @@
     "stars": 50,
     "language": "Python",
     "updated_at": "2026-11-05T14:23:24Z"
+  },
+  {
+    "name": "InterviewCopilot-rpocket-team",
+    "full_name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "stars": 38,
+    "language": "HTML",
+    "updated_at": "2026-11-05T13:58:34Z"
+  },
+  {
+    "name": "WebsiteBench",
+    "full_name": "TIGER-AI-Lab/WebsiteBench",
+    "description": "Can AI agents rebuild websites through browser exploration?",
+    "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+    "stars": 38,
+    "language": "Python",
+    "updated_at": "2026-11-06T00:36:34Z"
   }
 ]
