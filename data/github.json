@@ -13,36 +13,45 @@
     "full_name": "tavern-labs-ai/persona-ai-sdk",
     "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
     "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 196,
+    "stars": 187,
     "language": "TypeScript",
-    "updated_at": "2026-11-05T14:20:59Z"
+    "updated_at": "2026-11-06T18:31:28Z"
   },
   {
     "name": "codixel",
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 126,
+    "stars": 128,
     "language": "JavaScript",
-    "updated_at": "2026-11-06T11:14:29Z"
+    "updated_at": "2026-11-06T13:43:12Z"
   },
   {
     "name": "dsh-finance",
     "full_name": "DKKD13/dsh-finance",
     "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
     "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 78,
+    "stars": 88,
     "language": "TypeScript",
-    "updated_at": "2026-11-06T10:27:18Z"
+    "updated_at": "2026-11-06T17:37:29Z"
   },
   {
     "name": "WebsiteBench",
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 75,
+    "stars": 84,
     "language": "Python",
-    "updated_at": "2026-11-06T11:27:25Z"
+    "updated_at": "2026-11-06T18:21:59Z"
+  },
+  {
+    "name": "BlendClone",
+    "full_name": "blixvip/BlendClone",
+    "description": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.",
+    "url": "https://github.com/blixvip/BlendClone",
+    "stars": 64,
+    "language": "Python",
+    "updated_at": "2026-11-06T17:43:06Z"
   },
   {
     "name": "axion1_0",
@@ -79,14 +88,5 @@
     "stars": 50,
     "language": "Python",
     "updated_at": "2026-11-05T14:23:24Z"
-  },
-  {
-    "name": "BlendClone",
-    "full_name": "blixvip/BlendClone",
-    "description": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.",
-    "url": "https://github.com/blixvip/BlendClone",
-    "stars": 50,
-    "language": "Python",
-    "updated_at": "2026-11-06T11:22:06Z"
   }
 ]

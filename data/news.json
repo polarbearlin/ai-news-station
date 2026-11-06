@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-06 11:50:55",
+  "generated_at": "2026-11-06 18:57:00",
   "news": [
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "source": "Hacker News",
-      "time": "2026-11-05 22:17",
-      "score": 1221,
-      "comments": 385
+      "time": "2026-11-06 04:00",
+      "score": 105,
+      "comments": 108
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
       "source": "Hacker News",
-      "time": "2026-11-05 20:43",
-      "score": 568,
-      "comments": 206
+      "time": "2026-11-06 17:03",
+      "score": 1,
+      "comments": 0
     }
   ]
 }
