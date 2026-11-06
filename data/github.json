@@ -4,9 +4,9 @@
     "full_name": "mrhlaingbwardev/agentic-hacking-skills",
     "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
     "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
-    "stars": 345,
+    "stars": 344,
     "language": "JavaScript",
-    "updated_at": "2026-11-06T03:59:27Z"
+    "updated_at": "2026-11-06T23:53:35Z"
   },
   {
     "name": "persona-ai-sdk",
@@ -22,18 +22,18 @@
     "full_name": "mankidev/codixel",
     "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
     "url": "https://github.com/mankidev/codixel",
-    "stars": 128,
+    "stars": 129,
     "language": "JavaScript",
-    "updated_at": "2026-11-06T13:43:12Z"
+    "updated_at": "2026-11-06T22:47:46Z"
   },
   {
     "name": "dsh-finance",
     "full_name": "DKKD13/dsh-finance",
     "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
     "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 88,
+    "stars": 93,
     "language": "TypeScript",
-    "updated_at": "2026-11-06T17:37:29Z"
+    "updated_at": "2026-11-06T22:29:18Z"
   },
   {
     "name": "WebsiteBench",
@@ -49,18 +49,18 @@
     "full_name": "blixvip/BlendClone",
     "description": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.",
     "url": "https://github.com/blixvip/BlendClone",
-    "stars": 64,
+    "stars": 65,
     "language": "Python",
-    "updated_at": "2026-11-06T17:43:06Z"
+    "updated_at": "2026-11-06T20:22:49Z"
   },
   {
     "name": "axion1_0",
     "full_name": "bytedance/axion1_0",
     "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
     "url": "https://github.com/bytedance/axion1_0",
-    "stars": 60,
+    "stars": 61,
     "language": "Python",
-    "updated_at": "2026-11-06T08:16:49Z"
+    "updated_at": "2026-11-06T20:32:29Z"
   },
   {
     "name": "autoppt",
