@@ -13,80 +13,80 @@
     "full_name": "DKKD13/dsh-finance",
     "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
     "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 97,
+    "stars": 105,
     "language": "TypeScript",
-    "updated_at": "2026-11-07T05:09:14Z"
+    "updated_at": "2026-11-07T14:14:47Z"
   },
   {
     "name": "WebsiteBench",
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 86,
+    "stars": 92,
     "language": "Python",
-    "updated_at": "2026-11-07T05:33:33Z"
+    "updated_at": "2026-11-07T14:23:12Z"
   },
   {
-    "name": "BlendClone",
-    "full_name": "blixvip/BlendClone",
-    "description": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.",
-    "url": "https://github.com/blixvip/BlendClone",
-    "stars": 65,
+    "name": "ai-manus",
+    "full_name": "quyetcao/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/quyetcao/ai-manus",
+    "stars": 82,
     "language": "Python",
-    "updated_at": "2026-11-06T20:22:49Z"
+    "updated_at": "2026-11-07T13:39:39Z"
   },
   {
-    "name": "axion1_0",
-    "full_name": "bytedance/axion1_0",
-    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-    "url": "https://github.com/bytedance/axion1_0",
-    "stars": 60,
+    "name": "ai-manus",
+    "full_name": "thecoderrrer/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/thecoderrrer/ai-manus",
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-11-07T02:46:31Z"
+    "updated_at": "2026-11-07T13:39:42Z"
   },
   {
-    "name": "autoppt",
-    "full_name": "xingjunm/autoppt",
-    "description": "AutoPPT — AI-Powered Interactive Lecture Slides Generator |  AI备课神器 | 一键生成一整周精美、可交互的课件!",
-    "url": "https://github.com/xingjunm/autoppt",
-    "stars": 53,
-    "language": "CSS",
-    "updated_at": "2026-11-05T10:02:48Z"
+    "name": "ai--manus",
+    "full_name": "FrostFromquasar89091/ai--manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/FrostFromquasar89091/ai--manus",
+    "stars": 81,
+    "language": null,
+    "updated_at": "2026-11-07T13:39:08Z"
   },
   {
-    "name": "chatGPT-shell-cli",
-    "full_name": "kennydamobd/chatGPT-shell-cli",
-    "description": "A lightweight shell script to use OpenAI chat models and image generation from the terminal.",
-    "url": "https://github.com/kennydamobd/chatGPT-shell-cli",
-    "stars": 50,
-    "language": "Shell",
-    "updated_at": "2026-11-05T14:23:18Z"
-  },
-  {
-    "name": "prompt-poet",
-    "full_name": "fieldpincocknxxc/prompt-poet",
-    "description": "Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.",
-    "url": "https://github.com/fieldpincocknxxc/prompt-poet",
-    "stars": 50,
+    "name": "ai-manus",
+    "full_name": "willsmanuel123-creator/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/willsmanuel123-creator/ai-manus",
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-11-05T14:23:24Z"
+    "updated_at": "2026-11-07T13:39:31Z"
   },
   {
-    "name": "tiktokenizer",
-    "full_name": "mandeal303/tiktokenizer",
-    "description": "An interactive playground for comparing how different language models tokenize the same text.",
-    "url": "https://github.com/mandeal303/tiktokenizer",
-    "stars": 50,
-    "language": "TypeScript",
-    "updated_at": "2026-11-05T14:23:00Z"
+    "name": "ai-manus",
+    "full_name": "Gigachad-byte/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/Gigachad-byte/ai-manus",
+    "stars": 81,
+    "language": "Python",
+    "updated_at": "2026-11-07T13:39:32Z"
   },
   {
     "name": "ai-manus",
     "full_name": "johnstiles/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/johnstiles/ai-manus",
-    "stars": 44,
+    "stars": 81,
     "language": "Python",
-    "updated_at": "2026-11-06T20:07:33Z"
+    "updated_at": "2026-11-07T13:39:30Z"
+  },
+  {
+    "name": "ai--manus",
+    "full_name": "CometUniverserage25362/ai--manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/CometUniverserage25362/ai--manus",
+    "stars": 81,
+    "language": null,
+    "updated_at": "2026-11-07T13:38:58Z"
   }
 ]
