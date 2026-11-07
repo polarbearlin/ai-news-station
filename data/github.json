@@ -9,40 +9,22 @@
     "updated_at": "2026-11-06T23:53:35Z"
   },
   {
-    "name": "persona-ai-sdk",
-    "full_name": "tavern-labs-ai/persona-ai-sdk",
-    "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-    "stars": 187,
-    "language": "TypeScript",
-    "updated_at": "2026-11-06T18:31:28Z"
-  },
-  {
-    "name": "codixel",
-    "full_name": "mankidev/codixel",
-    "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
-    "url": "https://github.com/mankidev/codixel",
-    "stars": 129,
-    "language": "JavaScript",
-    "updated_at": "2026-11-06T22:47:46Z"
-  },
-  {
     "name": "dsh-finance",
     "full_name": "DKKD13/dsh-finance",
     "description": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
     "url": "https://github.com/DKKD13/dsh-finance",
-    "stars": 93,
+    "stars": 97,
     "language": "TypeScript",
-    "updated_at": "2026-11-06T22:29:18Z"
+    "updated_at": "2026-11-07T05:09:14Z"
   },
   {
     "name": "WebsiteBench",
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 84,
+    "stars": 86,
     "language": "Python",
-    "updated_at": "2026-11-06T18:21:59Z"
+    "updated_at": "2026-11-07T05:33:33Z"
   },
   {
     "name": "BlendClone",
@@ -58,9 +40,9 @@
     "full_name": "bytedance/axion1_0",
     "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
     "url": "https://github.com/bytedance/axion1_0",
-    "stars": 61,
+    "stars": 60,
     "language": "Python",
-    "updated_at": "2026-11-06T20:32:29Z"
+    "updated_at": "2026-11-07T02:46:31Z"
   },
   {
     "name": "autoppt",
@@ -88,5 +70,23 @@
     "stars": 50,
     "language": "Python",
     "updated_at": "2026-11-05T14:23:24Z"
+  },
+  {
+    "name": "tiktokenizer",
+    "full_name": "mandeal303/tiktokenizer",
+    "description": "An interactive playground for comparing how different language models tokenize the same text.",
+    "url": "https://github.com/mandeal303/tiktokenizer",
+    "stars": 50,
+    "language": "TypeScript",
+    "updated_at": "2026-11-05T14:23:00Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "johnstiles/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/johnstiles/ai-manus",
+    "stars": 44,
+    "language": "Python",
+    "updated_at": "2026-11-06T20:07:33Z"
   }
 ]

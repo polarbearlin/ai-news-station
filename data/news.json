@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-11-06 23:57:46",
+  "generated_at": "2026-11-07 05:39:12",
   "news": [
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "Hacker News",
-      "time": "2026-11-06 20:27",
-      "score": 162,
-      "comments": 117
-    },
     {
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "source": "Hacker News",
       "time": "2026-11-06 04:00",
-      "score": 256,
-      "comments": 205
-    },
-    {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "source": "Hacker News",
-      "time": "2026-11-06 22:50",
-      "score": 38,
-      "comments": 12
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "source": "Hacker News",
-      "time": "2026-11-06 19:19",
-      "score": 72,
-      "comments": 29
+      "score": 308,
+      "comments": 248
     }
   ]
 }
