@@ -4,9 +4,9 @@
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 116,
+    "stars": 124,
     "language": "Python",
-    "updated_at": "2026-11-08T14:43:58Z"
+    "updated_at": "2026-11-08T19:44:05Z"
   },
   {
     "name": "axion1_0",
@@ -16,6 +16,15 @@
     "stars": 62,
     "language": "Python",
     "updated_at": "2026-11-08T12:05:41Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "Abdul-Rehman7826/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/Abdul-Rehman7826/ai-manus",
+    "stars": 55,
+    "language": "Python",
+    "updated_at": "2026-11-08T19:03:49Z"
   },
   {
     "name": "ai-manus",
@@ -64,15 +73,6 @@
   },
   {
     "name": "ai-manus",
-    "full_name": "Abdoandqsnk/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Abdoandqsnk/ai-manus",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-11-08T13:20:17Z"
-  },
-  {
-    "name": "ai-manus",
     "full_name": "monirchemrubd/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/monirchemrubd/ai-manus",
@@ -82,11 +82,11 @@
   },
   {
     "name": "ai-manus",
-    "full_name": "Kolg123/ai-manus",
+    "full_name": "Abdoandqsnk/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Kolg123/ai-manus",
+    "url": "https://github.com/Abdoandqsnk/ai-manus",
     "stars": 54,
     "language": "Python",
-    "updated_at": "2026-11-08T13:20:22Z"
+    "updated_at": "2026-11-08T13:20:17Z"
   }
 ]

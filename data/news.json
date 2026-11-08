@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-11-08 14:47:42",
+  "generated_at": "2026-11-08 20:13:27",
   "news": [
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "Hacker News",
+      "time": "2026-11-08 19:20",
+      "score": 42,
+      "comments": 22
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "Hacker News",
+      "time": "2026-11-08 19:37",
+      "score": 14,
+      "comments": 3
+    },
     {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "url": "https://github.com/synchopate/llama-modchip",
       "source": "Hacker News",
       "time": "2026-11-08 10:22",
-      "score": 78,
-      "comments": 29
+      "score": 289,
+      "comments": 104
     },
     {
-      "title": "Quadrillion-parameter transformers and how to train them",
-      "url": "https://qlabs.sh/research/parameters",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
       "source": "Hacker News",
-      "time": "2026-11-03 14:37",
-      "score": 22,
-      "comments": 9
+      "time": "2026-11-08 17:20",
+      "score": 44,
+      "comments": 14
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
       "source": "Hacker News",
-      "time": "2026-11-07 20:45",
-      "score": 466,
-      "comments": 329
+      "time": "2026-11-08 18:43",
+      "score": 50,
+      "comments": 44
     }
   ]
 }
