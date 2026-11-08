@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-08 04:45:40",
+  "generated_at": "2026-11-08 14:47:42",
   "news": [
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News",
+      "time": "2026-11-08 10:22",
+      "score": 78,
+      "comments": 29
+    },
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "url": "https://qlabs.sh/research/parameters",
+      "source": "Hacker News",
+      "time": "2026-11-03 14:37",
+      "score": 22,
+      "comments": 9
+    },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
       "time": "2026-11-07 20:45",
-      "score": 262,
-      "comments": 169
-    },
-    {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "source": "Hacker News",
-      "time": "2026-11-05 10:52",
-      "score": 93,
-      "comments": 53
+      "score": 466,
+      "comments": 329
     }
   ]
 }

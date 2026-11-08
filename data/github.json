@@ -4,89 +4,89 @@
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 104,
+    "stars": 116,
     "language": "Python",
-    "updated_at": "2026-11-08T04:39:15Z"
+    "updated_at": "2026-11-08T14:43:58Z"
+  },
+  {
+    "name": "axion1_0",
+    "full_name": "bytedance/axion1_0",
+    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+    "url": "https://github.com/bytedance/axion1_0",
+    "stars": 62,
+    "language": "Python",
+    "updated_at": "2026-11-08T12:05:41Z"
   },
   {
     "name": "ai-manus",
     "full_name": "quyetcao/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/quyetcao/ai-manus",
-    "stars": 93,
+    "stars": 55,
     "language": "Python",
-    "updated_at": "2026-11-07T16:36:54Z"
+    "updated_at": "2026-11-08T13:20:13Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "thecoderrrer/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/thecoderrrer/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "updated_at": "2026-11-08T13:20:18Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "Gigachad-byte/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/Gigachad-byte/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "updated_at": "2026-11-08T13:20:30Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "willsmanuel123-creator/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/willsmanuel123-creator/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "updated_at": "2026-11-08T13:20:29Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "johnstiles/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/johnstiles/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "updated_at": "2026-11-08T13:20:27Z"
   },
   {
     "name": "ai-manus",
     "full_name": "Abdoandqsnk/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/Abdoandqsnk/ai-manus",
-    "stars": 92,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-11-07T16:36:10Z"
-  },
-  {
-    "name": "ai_manus",
-    "full_name": "Adil-Ijaz7/ai_manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Adil-Ijaz7/ai_manus",
-    "stars": 92,
-    "language": null,
-    "updated_at": "2026-11-07T16:36:46Z"
+    "updated_at": "2026-11-08T13:20:17Z"
   },
   {
     "name": "ai-manus",
-    "full_name": "Adil-Ijaz7/ai-manus",
+    "full_name": "monirchemrubd/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Adil-Ijaz7/ai-manus",
-    "stars": 92,
+    "url": "https://github.com/monirchemrubd/ai-manus",
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-11-07T16:35:55Z"
+    "updated_at": "2026-11-08T13:20:21Z"
   },
   {
-    "name": "ai--manus",
-    "full_name": "NuclearOrlaix26356/ai--manus",
+    "name": "ai-manus",
+    "full_name": "Kolg123/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/NuclearOrlaix26356/ai--manus",
-    "stars": 92,
-    "language": null,
-    "updated_at": "2026-11-07T16:42:05Z"
-  },
-  {
-    "name": "ai--manus",
-    "full_name": "SorenMonstersatyr54032/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/SorenMonstersatyr54032/ai--manus",
-    "stars": 92,
-    "language": null,
-    "updated_at": "2026-11-07T16:42:27Z"
-  },
-  {
-    "name": "ai--manus",
-    "full_name": "TaytopazAbyssal26005/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/TaytopazAbyssal26005/ai--manus",
-    "stars": 92,
-    "language": null,
-    "updated_at": "2026-11-07T16:39:09Z"
-  },
-  {
-    "name": "ai--manus",
-    "full_name": "SableMysticit32531/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/SableMysticit32531/ai--manus",
-    "stars": 92,
-    "language": null,
-    "updated_at": "2026-11-07T16:41:43Z"
-  },
-  {
-    "name": "ai--manus",
-    "full_name": "BehindBasilisk42972/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/BehindBasilisk42972/ai--manus",
-    "stars": 92,
-    "language": null,
-    "updated_at": "2026-11-07T16:41:35Z"
+    "url": "https://github.com/Kolg123/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "updated_at": "2026-11-08T13:20:22Z"
   }
 ]
