@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-07 23:27:34",
+  "generated_at": "2026-11-08 04:45:40",
   "news": [
-    {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "source": "Hacker News",
-      "time": "2026-11-07 18:02",
-      "score": 314,
-      "comments": 178
-    },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
       "time": "2026-11-07 20:45",
-      "score": 79,
-      "comments": 65
+      "score": 262,
+      "comments": 169
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "Hacker News",
+      "time": "2026-11-05 10:52",
+      "score": 93,
+      "comments": 53
     }
   ]
 }
