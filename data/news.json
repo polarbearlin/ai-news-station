@@ -1,45 +1,21 @@
 {
-  "generated_at": "2026-11-08 20:13:27",
+  "generated_at": "2026-11-09 04:54:54",
   "news": [
     {
       "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
       "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "source": "Hacker News",
       "time": "2026-11-08 19:20",
-      "score": 42,
-      "comments": 22
+      "score": 308,
+      "comments": 219
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "source": "Hacker News",
-      "time": "2026-11-08 19:37",
-      "score": 14,
-      "comments": 3
-    },
-    {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News",
-      "time": "2026-11-08 10:22",
-      "score": 289,
-      "comments": 104
-    },
-    {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "source": "Hacker News",
-      "time": "2026-11-08 17:20",
-      "score": 44,
-      "comments": 14
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "source": "Hacker News",
-      "time": "2026-11-08 18:43",
-      "score": 50,
-      "comments": 44
+      "time": "2026-11-08 23:44",
+      "score": 99,
+      "comments": 132
     }
   ]
 }

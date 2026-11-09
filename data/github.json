@@ -1,21 +1,30 @@
 [
   {
+    "name": "LiveWall---Live-Wallpaper-For-Desktop",
+    "full_name": "elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
+    "description": null,
+    "url": "https://github.com/elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
+    "stars": 312,
+    "language": null,
+    "updated_at": "2026-11-09T02:46:14Z"
+  },
+  {
     "name": "WebsiteBench",
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 124,
+    "stars": 140,
     "language": "Python",
-    "updated_at": "2026-11-08T19:44:05Z"
+    "updated_at": "2026-11-09T04:25:30Z"
   },
   {
-    "name": "axion1_0",
-    "full_name": "bytedance/axion1_0",
-    "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-    "url": "https://github.com/bytedance/axion1_0",
+    "name": "kota",
+    "full_name": "ensignalp/kota",
+    "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
+    "url": "https://github.com/ensignalp/kota",
     "stars": 62,
-    "language": "Python",
-    "updated_at": "2026-11-08T12:05:41Z"
+    "language": "Rust",
+    "updated_at": "2026-11-09T03:44:15Z"
   },
   {
     "name": "ai-manus",
@@ -34,6 +43,15 @@
     "stars": 55,
     "language": "Python",
     "updated_at": "2026-11-08T13:20:13Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "johnstiles/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/johnstiles/ai-manus",
+    "stars": 54,
+    "language": "Python",
+    "updated_at": "2026-11-08T13:20:27Z"
   },
   {
     "name": "ai-manus",
@@ -63,30 +81,12 @@
     "updated_at": "2026-11-08T13:20:29Z"
   },
   {
-    "name": "ai-manus",
-    "full_name": "johnstiles/ai-manus",
+    "name": "ai_manus",
+    "full_name": "abhinay-h/ai_manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/johnstiles/ai-manus",
+    "url": "https://github.com/abhinay-h/ai_manus",
     "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-11-08T13:20:27Z"
-  },
-  {
-    "name": "ai-manus",
-    "full_name": "monirchemrubd/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/monirchemrubd/ai-manus",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-11-08T13:20:21Z"
-  },
-  {
-    "name": "ai-manus",
-    "full_name": "Abdoandqsnk/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Abdoandqsnk/ai-manus",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-11-08T13:20:17Z"
+    "language": null,
+    "updated_at": "2026-11-08T13:20:08Z"
   }
 ]
