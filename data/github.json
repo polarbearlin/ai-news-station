@@ -4,36 +4,45 @@
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 167,
+    "stars": 185,
     "language": "Python",
-    "updated_at": "2026-11-10T01:26:06Z"
+    "updated_at": "2026-11-10T11:45:47Z"
   },
   {
     "name": "ai-crew-pass",
     "full_name": "fanhuayishiy/ai-crew-pass",
     "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 143,
+    "stars": 173,
     "language": "TypeScript",
-    "updated_at": "2026-11-10T02:23:33Z"
+    "updated_at": "2026-11-10T11:38:09Z"
   },
   {
     "name": "kota",
     "full_name": "ensignalp/kota",
     "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
     "url": "https://github.com/ensignalp/kota",
-    "stars": 81,
+    "stars": 83,
     "language": "Rust",
-    "updated_at": "2026-11-09T18:59:47Z"
+    "updated_at": "2026-11-10T10:58:58Z"
   },
   {
     "name": "0rwx.com",
     "full_name": "NamtaoProductions/0rwx.com",
     "description": null,
     "url": "https://github.com/NamtaoProductions/0rwx.com",
-    "stars": 75,
+    "stars": 82,
     "language": "HTML",
-    "updated_at": "2026-11-10T00:57:58Z"
+    "updated_at": "2026-11-10T11:58:19Z"
+  },
+  {
+    "name": "project-lighthouse",
+    "full_name": "professorsolderin/project-lighthouse",
+    "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+    "url": "https://github.com/professorsolderin/project-lighthouse",
+    "stars": 67,
+    "language": "Python",
+    "updated_at": "2026-11-10T11:42:47Z"
   },
   {
     "name": "InterviewCopilot-rpocket-team",
@@ -45,48 +54,39 @@
     "updated_at": "2026-11-09T22:48:52Z"
   },
   {
-    "name": "project-lighthouse",
-    "full_name": "professorsolderin/project-lighthouse",
-    "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
-    "url": "https://github.com/professorsolderin/project-lighthouse",
-    "stars": 55,
-    "language": "Python",
-    "updated_at": "2026-11-10T02:26:26Z"
-  },
-  {
-    "name": "ai-manus",
-    "full_name": "Abdul-Rehman7826/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Abdul-Rehman7826/ai-manus",
-    "stars": 55,
-    "language": "Python",
-    "updated_at": "2026-11-08T19:03:49Z"
-  },
-  {
     "name": "ai-manus",
     "full_name": "quyetcao/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/quyetcao/ai-manus",
     "stars": 55,
     "language": "Python",
-    "updated_at": "2026-11-08T13:20:13Z"
+    "updated_at": "2026-11-10T08:52:23Z"
   },
   {
     "name": "ai-manus",
-    "full_name": "thecoderrrer/ai-manus",
+    "full_name": "Abdul-Rehman7826/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/thecoderrrer/ai-manus",
+    "url": "https://github.com/Abdul-Rehman7826/ai-manus",
     "stars": 54,
     "language": "Python",
-    "updated_at": "2026-11-08T13:20:18Z"
+    "updated_at": "2026-11-10T08:52:24Z"
   },
   {
     "name": "ai-manus",
-    "full_name": "Gigachad-byte/ai-manus",
+    "full_name": "Abdoandqsnk/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Gigachad-byte/ai-manus",
-    "stars": 54,
+    "url": "https://github.com/Abdoandqsnk/ai-manus",
+    "stars": 53,
     "language": "Python",
-    "updated_at": "2026-11-08T13:20:30Z"
+    "updated_at": "2026-11-10T08:52:26Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "monirchemrubd/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/monirchemrubd/ai-manus",
+    "stars": 53,
+    "language": "Python",
+    "updated_at": "2026-11-10T08:52:30Z"
   }
 ]
