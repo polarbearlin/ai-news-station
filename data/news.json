@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-10 12:10:13",
+  "generated_at": "2026-11-10 21:39:51",
   "news": [
     {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
       "source": "Hacker News",
-      "time": "2026-11-10 07:19",
-      "score": 70,
-      "comments": 20
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "source": "Hacker News",
-      "time": "2026-11-10 10:25",
-      "score": 74,
-      "comments": 60
+      "time": "2026-11-10 18:02",
+      "score": 194,
+      "comments": 86
     }
   ]
 }
