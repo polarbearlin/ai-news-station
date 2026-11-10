@@ -1,30 +1,57 @@
 [
   {
-    "name": "LiveWall---Live-Wallpaper-For-Desktop",
-    "full_name": "elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
-    "description": null,
-    "url": "https://github.com/elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
-    "stars": 312,
-    "language": null,
-    "updated_at": "2026-11-09T02:46:14Z"
-  },
-  {
     "name": "WebsiteBench",
     "full_name": "TIGER-AI-Lab/WebsiteBench",
     "description": "Can AI agents rebuild websites through browser exploration?",
     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 140,
+    "stars": 167,
     "language": "Python",
-    "updated_at": "2026-11-09T04:25:30Z"
+    "updated_at": "2026-11-10T01:26:06Z"
+  },
+  {
+    "name": "ai-crew-pass",
+    "full_name": "fanhuayishiy/ai-crew-pass",
+    "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
+    "url": "https://github.com/fanhuayishiy/ai-crew-pass",
+    "stars": 143,
+    "language": "TypeScript",
+    "updated_at": "2026-11-10T02:23:33Z"
   },
   {
     "name": "kota",
     "full_name": "ensignalp/kota",
     "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
     "url": "https://github.com/ensignalp/kota",
-    "stars": 62,
+    "stars": 81,
     "language": "Rust",
-    "updated_at": "2026-11-09T03:44:15Z"
+    "updated_at": "2026-11-09T18:59:47Z"
+  },
+  {
+    "name": "0rwx.com",
+    "full_name": "NamtaoProductions/0rwx.com",
+    "description": null,
+    "url": "https://github.com/NamtaoProductions/0rwx.com",
+    "stars": 75,
+    "language": "HTML",
+    "updated_at": "2026-11-10T00:57:58Z"
+  },
+  {
+    "name": "InterviewCopilot-rpocket-team",
+    "full_name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "stars": 57,
+    "language": "HTML",
+    "updated_at": "2026-11-09T22:48:52Z"
+  },
+  {
+    "name": "project-lighthouse",
+    "full_name": "professorsolderin/project-lighthouse",
+    "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+    "url": "https://github.com/professorsolderin/project-lighthouse",
+    "stars": 55,
+    "language": "Python",
+    "updated_at": "2026-11-10T02:26:26Z"
   },
   {
     "name": "ai-manus",
@@ -46,15 +73,6 @@
   },
   {
     "name": "ai-manus",
-    "full_name": "johnstiles/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/johnstiles/ai-manus",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-11-08T13:20:27Z"
-  },
-  {
-    "name": "ai-manus",
     "full_name": "thecoderrrer/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/thecoderrrer/ai-manus",
@@ -70,23 +88,5 @@
     "stars": 54,
     "language": "Python",
     "updated_at": "2026-11-08T13:20:30Z"
-  },
-  {
-    "name": "ai-manus",
-    "full_name": "willsmanuel123-creator/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/willsmanuel123-creator/ai-manus",
-    "stars": 54,
-    "language": "Python",
-    "updated_at": "2026-11-08T13:20:29Z"
-  },
-  {
-    "name": "ai_manus",
-    "full_name": "abhinay-h/ai_manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/abhinay-h/ai_manus",
-    "stars": 54,
-    "language": null,
-    "updated_at": "2026-11-08T13:20:08Z"
   }
 ]

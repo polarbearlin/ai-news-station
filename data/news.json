@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-09 04:54:54",
+  "generated_at": "2026-11-10 02:33:30",
   "news": [
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News",
-      "time": "2026-11-08 19:20",
-      "score": 308,
-      "comments": 219
+      "time": "2026-11-09 16:00",
+      "score": 476,
+      "comments": 261
     },
     {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
       "source": "Hacker News",
-      "time": "2026-11-08 23:44",
-      "score": 99,
-      "comments": 132
+      "time": "2026-11-09 12:19",
+      "score": 860,
+      "comments": 140
+    },
+    {
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "Hacker News",
+      "time": "2026-11-09 14:31",
+      "score": 284,
+      "comments": 180
     }
   ]
 }
