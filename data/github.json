@@ -1,30 +1,30 @@
 [
   {
-    "name": "WebsiteBench",
-    "full_name": "TIGER-AI-Lab/WebsiteBench",
-    "description": "Can AI agents rebuild websites through browser exploration?",
-    "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-    "stars": 196,
-    "language": "Python",
-    "updated_at": "2026-11-10T21:33:19Z"
-  },
-  {
     "name": "ai-crew-pass",
     "full_name": "fanhuayishiy/ai-crew-pass",
     "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 175,
+    "stars": 179,
     "language": "TypeScript",
-    "updated_at": "2026-11-10T17:49:37Z"
+    "updated_at": "2026-11-11T02:29:27Z"
   },
   {
     "name": "0rwx.com",
     "full_name": "NamtaoProductions/0rwx.com",
     "description": null,
     "url": "https://github.com/NamtaoProductions/0rwx.com",
-    "stars": 89,
+    "stars": 92,
     "language": "HTML",
-    "updated_at": "2026-11-10T17:01:03Z"
+    "updated_at": "2026-11-11T01:24:45Z"
+  },
+  {
+    "name": "xnews",
+    "full_name": "joeseesun/xnews",
+    "description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
+    "url": "https://github.com/joeseesun/xnews",
+    "stars": 91,
+    "language": "HTML",
+    "updated_at": "2026-11-11T04:53:38Z"
   },
   {
     "name": "kota",
@@ -40,9 +40,9 @@
     "full_name": "professorsolderin/project-lighthouse",
     "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
     "url": "https://github.com/professorsolderin/project-lighthouse",
-    "stars": 77,
+    "stars": 79,
     "language": "Python",
-    "updated_at": "2026-11-10T17:47:01Z"
+    "updated_at": "2026-11-11T03:46:17Z"
   },
   {
     "name": "InterviewCopilot-rpocket-team",
