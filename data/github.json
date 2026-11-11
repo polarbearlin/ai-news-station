@@ -4,45 +4,45 @@
     "full_name": "fanhuayishiy/ai-crew-pass",
     "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 179,
+    "stars": 181,
     "language": "TypeScript",
-    "updated_at": "2026-11-11T02:29:27Z"
-  },
-  {
-    "name": "0rwx.com",
-    "full_name": "NamtaoProductions/0rwx.com",
-    "description": null,
-    "url": "https://github.com/NamtaoProductions/0rwx.com",
-    "stars": 92,
-    "language": "HTML",
-    "updated_at": "2026-11-11T01:24:45Z"
+    "updated_at": "2026-11-11T06:13:02Z"
   },
   {
     "name": "xnews",
     "full_name": "joeseesun/xnews",
     "description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
     "url": "https://github.com/joeseesun/xnews",
-    "stars": 91,
+    "stars": 121,
     "language": "HTML",
-    "updated_at": "2026-11-11T04:53:38Z"
+    "updated_at": "2026-11-11T15:39:14Z"
+  },
+  {
+    "name": "0rwx.com",
+    "full_name": "NamtaoProductions/0rwx.com",
+    "description": null,
+    "url": "https://github.com/NamtaoProductions/0rwx.com",
+    "stars": 95,
+    "language": "HTML",
+    "updated_at": "2026-11-11T13:51:15Z"
   },
   {
     "name": "kota",
     "full_name": "ensignalp/kota",
     "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
     "url": "https://github.com/ensignalp/kota",
-    "stars": 83,
+    "stars": 84,
     "language": "Rust",
-    "updated_at": "2026-11-10T10:58:58Z"
+    "updated_at": "2026-11-11T09:02:24Z"
   },
   {
     "name": "project-lighthouse",
     "full_name": "professorsolderin/project-lighthouse",
     "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
     "url": "https://github.com/professorsolderin/project-lighthouse",
-    "stars": 79,
+    "stars": 80,
     "language": "Python",
-    "updated_at": "2026-11-11T03:46:17Z"
+    "updated_at": "2026-11-11T11:55:50Z"
   },
   {
     "name": "InterviewCopilot-rpocket-team",

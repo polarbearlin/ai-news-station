@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11 04:56:48",
+  "generated_at": "2026-11-11 15:53:18",
   "news": [
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
       "source": "Hacker News",
-      "time": "2026-11-10 22:17",
-      "score": 355,
-      "comments": 165
+      "time": "2026-11-11 12:05",
+      "score": 541,
+      "comments": 208
     }
   ]
 }
