@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-12 05:58:40",
+  "generated_at": "2026-11-12 16:36:39",
   "news": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
       "source": "Hacker News",
-      "time": "2026-11-11 22:34",
-      "score": 311,
-      "comments": 43
+      "time": "2026-11-12 11:46",
+      "score": 440,
+      "comments": 453
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "source": "Hacker News",
-      "time": "2026-11-11 21:24",
-      "score": 495,
-      "comments": 478
+      "time": "2026-11-12 15:23",
+      "score": 22,
+      "comments": 5
     }
   ]
 }

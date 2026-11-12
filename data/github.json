@@ -4,27 +4,27 @@
     "full_name": "fanhuayishiy/ai-crew-pass",
     "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 182,
+    "stars": 185,
     "language": "TypeScript",
-    "updated_at": "2026-11-12T05:10:20Z"
+    "updated_at": "2026-11-12T10:50:28Z"
   },
   {
     "name": "0rwx.com",
     "full_name": "NamtaoProductions/0rwx.com",
     "description": null,
     "url": "https://github.com/NamtaoProductions/0rwx.com",
-    "stars": 101,
+    "stars": 103,
     "language": "HTML",
-    "updated_at": "2026-11-11T21:38:54Z"
+    "updated_at": "2026-11-12T11:55:15Z"
   },
   {
     "name": "kota",
     "full_name": "ensignalp/kota",
     "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
     "url": "https://github.com/ensignalp/kota",
-    "stars": 86,
+    "stars": 87,
     "language": "Rust",
-    "updated_at": "2026-11-12T04:44:41Z"
+    "updated_at": "2026-11-12T12:47:17Z"
   },
   {
     "name": "project-lighthouse",
@@ -36,13 +36,22 @@
     "updated_at": "2026-11-11T11:55:50Z"
   },
   {
-    "name": "ai-manus",
-    "full_name": "quyetcao/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/quyetcao/ai-manus",
-    "stars": 54,
+    "name": "ai-portfolio",
+    "full_name": "8hjkkwikl8/ai-portfolio",
+    "description": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+    "url": "https://github.com/8hjkkwikl8/ai-portfolio",
+    "stars": 74,
     "language": "Python",
-    "updated_at": "2026-11-10T13:02:31Z"
+    "updated_at": "2026-11-12T16:02:43Z"
+  },
+  {
+    "name": "gezhi-sheets",
+    "full_name": "beiwocaishijia/gezhi-sheets",
+    "description": "格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。",
+    "url": "https://github.com/beiwocaishijia/gezhi-sheets",
+    "stars": 67,
+    "language": "JavaScript",
+    "updated_at": "2026-11-12T16:30:39Z"
   },
   {
     "name": "ai-manus",
@@ -55,30 +64,12 @@
   },
   {
     "name": "ai-manus",
-    "full_name": "Gigachad-byte/ai-manus",
+    "full_name": "quyetcao/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Gigachad-byte/ai-manus",
-    "stars": 52,
+    "url": "https://github.com/quyetcao/ai-manus",
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-11-10T13:02:44Z"
-  },
-  {
-    "name": "ai-manus",
-    "full_name": "willsmanuel123-creator/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/willsmanuel123-creator/ai-manus",
-    "stars": 52,
-    "language": "Python",
-    "updated_at": "2026-11-10T13:02:44Z"
-  },
-  {
-    "name": "ai-manus",
-    "full_name": "thecoderrrer/ai-manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/thecoderrrer/ai-manus",
-    "stars": 52,
-    "language": "Python",
-    "updated_at": "2026-11-10T13:02:38Z"
+    "updated_at": "2026-11-10T13:02:31Z"
   },
   {
     "name": "ai-manus",
@@ -88,5 +79,14 @@
     "stars": 52,
     "language": "Python",
     "updated_at": "2026-11-10T13:02:36Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "Gigachad-byte/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/Gigachad-byte/ai-manus",
+    "stars": 52,
+    "language": "Python",
+    "updated_at": "2026-11-10T13:02:44Z"
   }
 ]
