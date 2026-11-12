@@ -4,18 +4,9 @@
     "full_name": "fanhuayishiy/ai-crew-pass",
     "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
     "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-    "stars": 181,
+    "stars": 182,
     "language": "TypeScript",
-    "updated_at": "2026-11-11T06:13:02Z"
-  },
-  {
-    "name": "xnews",
-    "full_name": "joeseesun/xnews",
-    "description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
-    "url": "https://github.com/joeseesun/xnews",
-    "stars": 125,
-    "language": "HTML",
-    "updated_at": "2026-11-11T20:48:54Z"
+    "updated_at": "2026-11-12T05:10:20Z"
   },
   {
     "name": "0rwx.com",
@@ -31,9 +22,9 @@
     "full_name": "ensignalp/kota",
     "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
     "url": "https://github.com/ensignalp/kota",
-    "stars": 85,
+    "stars": 86,
     "language": "Rust",
-    "updated_at": "2026-11-11T20:52:29Z"
+    "updated_at": "2026-11-12T04:44:41Z"
   },
   {
     "name": "project-lighthouse",
@@ -43,15 +34,6 @@
     "stars": 80,
     "language": "Python",
     "updated_at": "2026-11-11T11:55:50Z"
-  },
-  {
-    "name": "InterviewCopilot-rpocket-team",
-    "full_name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
-    "stars": 57,
-    "language": "HTML",
-    "updated_at": "2026-11-09T22:48:52Z"
   },
   {
     "name": "ai-manus",
@@ -67,9 +49,9 @@
     "full_name": "Abdul-Rehman7826/ai-manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/Abdul-Rehman7826/ai-manus",
-    "stars": 53,
+    "stars": 54,
     "language": "Python",
-    "updated_at": "2026-11-10T13:02:37Z"
+    "updated_at": "2026-11-12T00:11:21Z"
   },
   {
     "name": "ai-manus",
@@ -88,5 +70,23 @@
     "stars": 52,
     "language": "Python",
     "updated_at": "2026-11-10T13:02:44Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "thecoderrrer/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/thecoderrrer/ai-manus",
+    "stars": 52,
+    "language": "Python",
+    "updated_at": "2026-11-10T13:02:38Z"
+  },
+  {
+    "name": "ai-manus",
+    "full_name": "hamzamostafa77772-cyber/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/hamzamostafa77772-cyber/ai-manus",
+    "stars": 52,
+    "language": "Python",
+    "updated_at": "2026-11-10T13:02:36Z"
   }
 ]

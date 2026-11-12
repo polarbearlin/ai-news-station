@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-11 22:29:50",
+  "generated_at": "2026-11-12 05:58:40",
   "news": [
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "source": "Hacker News",
+      "time": "2026-11-11 22:34",
+      "score": 311,
+      "comments": 43
+    },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
       "time": "2026-11-11 21:24",
-      "score": 128,
-      "comments": 98
+      "score": 495,
+      "comments": 478
     }
   ]
 }
