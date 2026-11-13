@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-13 00:54:43",
+  "generated_at": "2026-11-13 11:53:24",
   "news": [
     {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News",
-      "time": "2026-11-12 21:09",
-      "score": 72,
-      "comments": 69
-    },
-    {
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "source": "Hacker News",
-      "time": "2026-11-12 15:23",
-      "score": 275,
-      "comments": 92
+      "time": "2026-11-13 10:18",
+      "score": 223,
+      "comments": 161
     }
   ]
 }
