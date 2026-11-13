@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-13 11:53:24",
+  "generated_at": "2026-11-13 19:16:02",
   "news": [
     {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "source": "Hacker News",
-      "time": "2026-11-13 10:18",
-      "score": 223,
-      "comments": 161
+      "time": "2026-11-12 22:03",
+      "score": 534,
+      "comments": 152
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "Hacker News",
+      "time": "2026-11-13 17:30",
+      "score": 160,
+      "comments": 28
     }
   ]
 }
