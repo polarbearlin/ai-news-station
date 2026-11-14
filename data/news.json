@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-14 11:13:50",
+  "generated_at": "2026-11-14 17:42:17",
   "news": [
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
       "source": "Hacker News",
-      "time": "2026-11-14 02:52",
-      "score": 615,
-      "comments": 353
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "Hacker News",
-      "time": "2026-11-13 15:08",
-      "score": 307,
-      "comments": 387
+      "time": "2026-11-10 15:07",
+      "score": 95,
+      "comments": 64
     }
   ]
 }
