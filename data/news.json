@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-13 19:16:02",
+  "generated_at": "2026-11-14 00:41:06",
   "news": [
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "source": "Hacker News",
+      "time": "2026-11-13 22:04",
+      "score": 150,
+      "comments": 38
+    },
     {
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "source": "Hacker News",
       "time": "2026-11-12 22:03",
-      "score": 534,
-      "comments": 152
+      "score": 665,
+      "comments": 197
     },
     {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
       "source": "Hacker News",
-      "time": "2026-11-13 17:30",
-      "score": 160,
-      "comments": 28
+      "time": "2026-11-13 19:24",
+      "score": 92,
+      "comments": 19
     }
   ]
 }

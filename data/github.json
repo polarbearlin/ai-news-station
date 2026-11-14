@@ -19,33 +19,6 @@
   },
   {
     "name": "ai--manus",
-    "full_name": "ITprogamatikDedSec/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/ITprogamatikDedSec/ai--manus",
-    "stars": 146,
-    "language": null,
-    "updated_at": "2026-11-13T17:57:21Z"
-  },
-  {
-    "name": "manus--ai",
-    "full_name": "python001-dev/manus--ai",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
-    "url": "https://github.com/python001-dev/manus--ai",
-    "stars": 146,
-    "language": null,
-    "updated_at": "2026-11-13T17:57:17Z"
-  },
-  {
-    "name": "manus--ai",
-    "full_name": "mtn-imran-khan/manus--ai",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
-    "url": "https://github.com/mtn-imran-khan/manus--ai",
-    "stars": 146,
-    "language": null,
-    "updated_at": "2026-11-13T17:57:19Z"
-  },
-  {
-    "name": "ai--manus",
     "full_name": "arberpilafi8-blip/ai--manus",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/arberpilafi8-blip/ai--manus",
@@ -70,6 +43,33 @@
     "stars": 146,
     "language": null,
     "updated_at": "2026-11-13T17:57:10Z"
+  },
+  {
+    "name": "ai--manus",
+    "full_name": "ITprogamatikDedSec/ai--manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "url": "https://github.com/ITprogamatikDedSec/ai--manus",
+    "stars": 146,
+    "language": null,
+    "updated_at": "2026-11-13T17:57:21Z"
+  },
+  {
+    "name": "manus--ai",
+    "full_name": "python001-dev/manus--ai",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "url": "https://github.com/python001-dev/manus--ai",
+    "stars": 146,
+    "language": null,
+    "updated_at": "2026-11-13T17:57:17Z"
+  },
+  {
+    "name": "manus--ai",
+    "full_name": "mtn-imran-khan/manus--ai",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "url": "https://github.com/mtn-imran-khan/manus--ai",
+    "stars": 146,
+    "language": null,
+    "updated_at": "2026-11-13T17:57:19Z"
   },
   {
     "name": "ai--manus",
