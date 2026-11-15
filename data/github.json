@@ -46,21 +46,21 @@
   },
   {
     "name": "GitHub-Copilot-app",
+    "full_name": "toppatronweave/GitHub-Copilot-app",
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+    "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+    "stars": 666,
+    "language": null,
+    "updated_at": "2026-11-15T10:27:37Z"
+  },
+  {
+    "name": "GitHub-Copilot-app",
     "full_name": "TradesmanRecord/GitHub-Copilot-app",
     "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
     "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
     "stars": 665,
     "language": null,
     "updated_at": "2026-11-14T23:32:13Z"
-  },
-  {
-    "name": "GitHub-Copilot-app",
-    "full_name": "toppatronweave/GitHub-Copilot-app",
-    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-    "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
-    "stars": 665,
-    "language": null,
-    "updated_at": "2026-11-14T23:32:19Z"
   },
   {
     "name": "ai--manus2.0",
@@ -82,11 +82,11 @@
   },
   {
     "name": "GitHub-Copilot-app",
-    "full_name": "TurkeyDesignate/GitHub-Copilot-app",
+    "full_name": "TrapBladesmith/GitHub-Copilot-app",
     "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-    "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+    "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
     "stars": 664,
     "language": null,
-    "updated_at": "2026-11-14T23:32:17Z"
+    "updated_at": "2026-11-14T23:32:14Z"
   }
 ]
