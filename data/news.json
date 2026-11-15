@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-11-15 15:24:11",
+  "generated_at": "2026-11-15 20:50:41",
   "news": [
     {
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "source": "Hacker News",
-      "time": "2026-11-15 14:46",
-      "score": 35,
-      "comments": 9
+      "time": "2026-11-15 18:23",
+      "score": 86,
+      "comments": 10
     },
     {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "source": "Hacker News",
-      "time": "2026-11-15 12:14",
-      "score": 69,
-      "comments": 0
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "source": "Hacker News",
-      "time": "2026-11-14 17:43",
-      "score": 920,
-      "comments": 353
+      "time": "2026-11-15 17:53",
+      "score": 74,
+      "comments": 45
     }
   ]
 }
