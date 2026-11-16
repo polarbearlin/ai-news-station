@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-15 20:50:41",
+  "generated_at": "2026-11-16 05:02:42",
   "news": [
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "time": "2026-11-16 00:21",
+      "score": 86,
+      "comments": 21
+    },
     {
       "title": "A short explainer on how El Niño works [video]",
       "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "source": "Hacker News",
       "time": "2026-11-15 18:23",
-      "score": 86,
-      "comments": 10
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "source": "Hacker News",
-      "time": "2026-11-15 17:53",
-      "score": 74,
-      "comments": 45
+      "score": 204,
+      "comments": 89
     }
   ]
 }
