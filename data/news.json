@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-16 05:02:42",
+  "generated_at": "2026-11-16 17:58:51",
   "news": [
     {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
       "source": "Hacker News",
-      "time": "2026-11-16 00:21",
-      "score": 86,
-      "comments": 21
-    },
-    {
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "source": "Hacker News",
-      "time": "2026-11-15 18:23",
-      "score": 204,
-      "comments": 89
+      "time": "2026-11-16 07:38",
+      "score": 221,
+      "comments": 92
     }
   ]
 }
