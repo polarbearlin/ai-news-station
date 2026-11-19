@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-18 16:58:02",
+  "generated_at": "2026-11-19 01:44:34",
   "news": [
     {
-      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "source": "Hacker News",
-      "time": "2026-11-18 16:08",
-      "score": 39,
-      "comments": 20
+      "time": "2026-11-18 22:29",
+      "score": 58,
+      "comments": 13
     },
     {
-      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "source": "Hacker News",
-      "time": "2026-11-18 15:35",
-      "score": 50,
-      "comments": 19
+      "time": "2026-11-18 15:49",
+      "score": 354,
+      "comments": 160
+    },
+    {
+      "title": "DaisyRose-27B",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "source": "Hacker News",
+      "time": "2026-11-18 19:39",
+      "score": 136,
+      "comments": 40
     }
   ]
 }
