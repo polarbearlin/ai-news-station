@@ -4,36 +4,9 @@
     "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-    "stars": 475,
+    "stars": 474,
     "language": "Makefile",
-    "updated_at": "2026-11-17T12:40:13Z"
-  },
-  {
-    "name": "Gemini-Config-Checker-",
-    "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "updated_at": "2026-11-16T17:27:51Z"
-  },
-  {
-    "name": "Gemini-Config-Checker-",
-    "full_name": "WingDataVacuum/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "updated_at": "2026-11-16T17:27:52Z"
-  },
-  {
-    "name": "Gemini-Config-Checker-",
-    "full_name": "Violetnyudress/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Go",
-    "updated_at": "2026-11-16T17:27:52Z"
+    "updated_at": "2026-11-19T09:37:41Z"
   },
   {
     "name": "Gemini-Config-Checker-",
@@ -42,51 +15,78 @@
     "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
     "stars": 473,
     "language": "Makefile",
-    "updated_at": "2026-11-16T17:28:00Z"
+    "updated_at": "2026-11-19T09:39:50Z"
+  },
+  {
+    "name": "Gemini-Config-Checker-",
+    "full_name": "WingDataVacuum/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "updated_at": "2026-11-19T09:39:39Z"
+  },
+  {
+    "name": "Gemini-Config-Checker-",
+    "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "updated_at": "2026-11-19T09:37:46Z"
+  },
+  {
+    "name": "Gemini-Config-Checker-",
+    "full_name": "Violetnyudress/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Go",
+    "updated_at": "2026-11-19T09:37:47Z"
   },
   {
     "name": "Gemini-Config-Checker-",
     "full_name": "Visionbeyondtrack/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Makefile",
-    "updated_at": "2026-11-16T17:27:48Z"
+    "updated_at": "2026-11-19T09:37:46Z"
   },
   {
     "name": "Gemini-Config-Checker-",
     "full_name": "VortexHostFeel/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Makefile",
-    "updated_at": "2026-11-16T17:27:45Z"
-  },
-  {
-    "name": "Gemini-Config-Checker-",
-    "full_name": "WinnerSpecialist/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-    "stars": 473,
-    "language": "Makefile",
-    "updated_at": "2026-11-16T17:27:53Z"
+    "updated_at": "2026-11-19T09:39:56Z"
   },
   {
     "name": "Gemini-Config-Checker-",
     "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Makefile",
-    "updated_at": "2026-11-16T17:28:01Z"
+    "updated_at": "2026-11-19T09:39:49Z"
   },
   {
     "name": "Gemini-Config-Checker-",
     "full_name": "TurtleReside/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-    "stars": 473,
+    "stars": 472,
     "language": "Go",
-    "updated_at": "2026-11-16T17:27:49Z"
+    "updated_at": "2026-11-19T09:37:47Z"
+  },
+  {
+    "name": "Gemini-Config-Checker-",
+    "full_name": "WindGatorRise37/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "updated_at": "2026-11-19T09:39:42Z"
   }
 ]

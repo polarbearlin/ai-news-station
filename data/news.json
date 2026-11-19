@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-11-19 01:44:34",
+  "generated_at": "2026-11-19 12:31:51",
   "news": [
     {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
       "source": "Hacker News",
-      "time": "2026-11-18 22:29",
-      "score": 58,
-      "comments": 13
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "source": "Hacker News",
-      "time": "2026-11-18 15:49",
-      "score": 354,
-      "comments": 160
-    },
-    {
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "source": "Hacker News",
-      "time": "2026-11-18 19:39",
-      "score": 136,
-      "comments": 40
+      "time": "2026-11-19 05:09",
+      "score": 195,
+      "comments": 73
     }
   ]
 }
