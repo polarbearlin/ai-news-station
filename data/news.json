@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-11-19 12:31:51",
+  "generated_at": "2026-11-19 22:55:00",
   "news": [
     {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "source": "Hacker News",
-      "time": "2026-11-19 05:09",
-      "score": 195,
+      "time": "2026-11-19 17:02",
+      "score": 765,
+      "comments": 1419
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "source": "Hacker News",
+      "time": "2026-11-19 18:35",
+      "score": 143,
       "comments": 73
+    },
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "source": "Hacker News",
+      "time": "2026-11-19 18:47",
+      "score": 52,
+      "comments": 91
     }
   ]
 }
