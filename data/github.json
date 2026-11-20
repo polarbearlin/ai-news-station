@@ -46,15 +46,6 @@
   },
   {
     "name": "Gemini-Config-Checker-",
-    "full_name": "Violetnyudress/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-    "stars": 472,
-    "language": "Go",
-    "updated_at": "2026-11-19T09:37:47Z"
-  },
-  {
-    "name": "Gemini-Config-Checker-",
     "full_name": "Visionbeyondtrack/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
@@ -64,12 +55,12 @@
   },
   {
     "name": "Gemini-Config-Checker-",
-    "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
+    "full_name": "Violetnyudress/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
     "stars": 472,
-    "language": "Makefile",
-    "updated_at": "2026-11-19T09:39:49Z"
+    "language": "Go",
+    "updated_at": "2026-11-19T09:37:47Z"
   },
   {
     "name": "Gemini-Config-Checker-",
@@ -79,6 +70,15 @@
     "stars": 472,
     "language": "Makefile",
     "updated_at": "2026-11-19T09:39:56Z"
+  },
+  {
+    "name": "Gemini-Config-Checker-",
+    "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "updated_at": "2026-11-19T09:39:49Z"
   },
   {
     "name": "Gemini-Config-Checker-",
