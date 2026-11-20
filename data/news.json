@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-11-20 05:56:59",
+  "generated_at": "2026-11-20 16:43:53",
   "news": [
     {
-      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
       "source": "Hacker News",
-      "time": "2026-11-20 05:21",
-      "score": 40,
-      "comments": 3
+      "time": "2026-11-20 16:06",
+      "score": 142,
+      "comments": 46
+    },
+    {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "time": "2026-11-20 14:16",
+      "score": 1098,
+      "comments": 717
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "Hacker News",
+      "time": "2026-11-20 09:43",
+      "score": 385,
+      "comments": 209
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "time": "2026-11-20 10:01",
+      "score": 440,
+      "comments": 262
     }
   ]
 }
