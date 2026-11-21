@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-21 01:06:16",
+  "generated_at": "2026-11-21 12:09:49",
   "news": [
     {
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
       "source": "Hacker News",
       "time": "2026-11-20 14:16",
-      "score": 2332,
-      "comments": 1576
+      "score": 2687,
+      "comments": 1877
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News",
+      "time": "2026-11-21 05:38",
+      "score": 85,
+      "comments": 23
     },
     {
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "url": "https://ninlive.com/",
       "source": "Hacker News",
       "time": "2026-11-20 22:30",
-      "score": 96,
-      "comments": 23
+      "score": 277,
+      "comments": 73
     }
   ]
 }

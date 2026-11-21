@@ -19,15 +19,6 @@
   },
   {
     "name": "Gemini-Config-Checker-",
-    "full_name": "WinnerSpecialist/Gemini-Config-Checker-",
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-    "stars": 472,
-    "language": "Makefile",
-    "updated_at": "2026-11-19T09:39:45Z"
-  },
-  {
-    "name": "Gemini-Config-Checker-",
     "full_name": "WingDataVacuum/Gemini-Config-Checker-",
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
     "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
@@ -43,6 +34,15 @@
     "stars": 472,
     "language": "Makefile",
     "updated_at": "2026-11-19T09:37:46Z"
+  },
+  {
+    "name": "Gemini-Config-Checker-",
+    "full_name": "WinnerSpecialist/Gemini-Config-Checker-",
+    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+    "stars": 472,
+    "language": "Makefile",
+    "updated_at": "2026-11-19T09:39:45Z"
   },
   {
     "name": "Gemini-Config-Checker-",
