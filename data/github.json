@@ -1,92 +1,92 @@
 [
   {
-    "name": "elevenlabs-pro-win",
-    "full_name": "Morriswawan05/elevenlabs-pro-win",
-    "description": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
-    "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
-    "stars": 296,
-    "language": null,
-    "updated_at": "2026-11-22T15:10:43Z"
-  },
-  {
     "name": "descript-pro-win",
     "full_name": "debugdigital677/descript-pro-win",
     "description": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
     "url": "https://github.com/debugdigital677/descript-pro-win",
-    "stars": 296,
+    "stars": 349,
     "language": null,
-    "updated_at": "2026-11-22T15:13:22Z"
-  },
-  {
-    "name": "runway-ml-pro-win",
-    "full_name": "Cloudcode04/runway-ml-pro-win",
-    "description": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
-    "url": "https://github.com/Cloudcode04/runway-ml-pro-win",
-    "stars": 294,
-    "language": null,
-    "updated_at": "2026-11-22T15:13:50Z"
-  },
-  {
-    "name": "runway-ml-pro-win",
-    "full_name": "JieFedorov81/runway-ml-pro-win",
-    "description": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
-    "url": "https://github.com/JieFedorov81/runway-ml-pro-win",
-    "stars": 292,
-    "language": null,
-    "updated_at": "2026-11-22T15:13:17Z"
+    "updated_at": "2026-11-22T18:59:41Z"
   },
   {
     "name": "descript-pro-win",
     "full_name": "Juanlabs1989/descript-pro-win",
     "description": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
     "url": "https://github.com/Juanlabs1989/descript-pro-win",
-    "stars": 292,
+    "stars": 348,
     "language": null,
-    "updated_at": "2026-11-22T15:10:18Z"
+    "updated_at": "2026-11-22T18:59:28Z"
+  },
+  {
+    "name": "elevenlabs-pro-win",
+    "full_name": "Morriswawan05/elevenlabs-pro-win",
+    "description": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+    "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
+    "stars": 347,
+    "language": null,
+    "updated_at": "2026-11-22T18:53:48Z"
+  },
+  {
+    "name": "runway-ml-pro-win",
+    "full_name": "JieFedorov81/runway-ml-pro-win",
+    "description": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+    "url": "https://github.com/JieFedorov81/runway-ml-pro-win",
+    "stars": 342,
+    "language": null,
+    "updated_at": "2026-11-22T18:56:12Z"
+  },
+  {
+    "name": "runway-ml-pro-win",
+    "full_name": "Cloudcode04/runway-ml-pro-win",
+    "description": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+    "url": "https://github.com/Cloudcode04/runway-ml-pro-win",
+    "stars": 340,
+    "language": null,
+    "updated_at": "2026-11-22T18:57:23Z"
   },
   {
     "name": "copy-ai-pro-win",
     "full_name": "GuzmanJacqueline93/copy-ai-pro-win",
     "description": "Copy Ai Pro - AI copywriting assistant for content generation, tone rewriting and SEO text optimization on Windows 10/11",
     "url": "https://github.com/GuzmanJacqueline93/copy-ai-pro-win",
-    "stars": 288,
+    "stars": 339,
     "language": null,
-    "updated_at": "2026-11-22T15:11:32Z"
+    "updated_at": "2026-11-22T19:00:32Z"
   },
   {
     "name": "jasper-ai-win",
     "full_name": "suryacode04/jasper-ai-win",
     "description": "Jasper AI - AI content generation platform for marketing copy creation, brand voice customization and long-form article drafting on Windows 10/11",
     "url": "https://github.com/suryacode04/jasper-ai-win",
-    "stars": 287,
+    "stars": 336,
     "language": null,
-    "updated_at": "2026-11-22T15:10:04Z"
+    "updated_at": "2026-11-22T18:59:37Z"
   },
   {
     "name": "descript-pro-win",
     "full_name": "isanders5152/descript-pro-win",
     "description": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
     "url": "https://github.com/isanders5152/descript-pro-win",
-    "stars": 282,
+    "stars": 330,
     "language": null,
-    "updated_at": "2026-11-22T15:10:58Z"
+    "updated_at": "2026-11-22T18:54:48Z"
   },
   {
     "name": "robotics-antigravity-plugin",
     "full_name": "google-deepmind/robotics-antigravity-plugin",
     "description": "GDM Robotics Skills for agentic robotics workflows across simulation and real robots.",
     "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
-    "stars": 211,
+    "stars": 216,
     "language": "Python",
-    "updated_at": "2026-11-22T15:03:35Z"
+    "updated_at": "2026-11-22T21:36:06Z"
   },
   {
     "name": "Pebble_companionchat",
     "full_name": "5235aa-web/Pebble_companionchat",
     "description": "A lightweight, locally-focused, and customizable chat impersonation application",
     "url": "https://github.com/5235aa-web/Pebble_companionchat",
-    "stars": 89,
+    "stars": 90,
     "language": "Python",
-    "updated_at": "2026-11-22T10:01:45Z"
+    "updated_at": "2026-11-22T18:12:01Z"
   }
 ]
