@@ -1,92 +1,92 @@
 [
   {
-    "name": "elevenlabs-pro-win",
-    "full_name": "Morriswawan05/elevenlabs-pro-win",
-    "description": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
-    "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
-    "stars": 411,
-    "language": null,
-    "updated_at": "2026-11-23T05:57:31Z"
-  },
-  {
-    "name": "descript-pro-win",
-    "full_name": "Juanlabs1989/descript-pro-win",
-    "description": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
-    "url": "https://github.com/Juanlabs1989/descript-pro-win",
-    "stars": 407,
-    "language": null,
-    "updated_at": "2026-11-23T05:56:50Z"
-  },
-  {
-    "name": "descript-pro-win",
-    "full_name": "debugdigital677/descript-pro-win",
-    "description": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
-    "url": "https://github.com/debugdigital677/descript-pro-win",
-    "stars": 405,
-    "language": null,
-    "updated_at": "2026-11-23T05:55:37Z"
-  },
-  {
-    "name": "runway-ml-pro-win",
-    "full_name": "Cloudcode04/runway-ml-pro-win",
-    "description": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
-    "url": "https://github.com/Cloudcode04/runway-ml-pro-win",
-    "stars": 404,
-    "language": null,
-    "updated_at": "2026-11-23T05:52:24Z"
-  },
-  {
-    "name": "runway-ml-pro-win",
-    "full_name": "JieFedorov81/runway-ml-pro-win",
-    "description": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
-    "url": "https://github.com/JieFedorov81/runway-ml-pro-win",
-    "stars": 401,
-    "language": null,
-    "updated_at": "2026-11-23T05:59:33Z"
-  },
-  {
-    "name": "copy-ai-pro-win",
-    "full_name": "GuzmanJacqueline93/copy-ai-pro-win",
-    "description": "Copy Ai Pro - AI copywriting assistant for content generation, tone rewriting and SEO text optimization on Windows 10/11",
-    "url": "https://github.com/GuzmanJacqueline93/copy-ai-pro-win",
-    "stars": 401,
-    "language": null,
-    "updated_at": "2026-11-23T05:58:27Z"
-  },
-  {
-    "name": "jasper-ai-win",
-    "full_name": "suryacode04/jasper-ai-win",
-    "description": "Jasper AI - AI content generation platform for marketing copy creation, brand voice customization and long-form article drafting on Windows 10/11",
-    "url": "https://github.com/suryacode04/jasper-ai-win",
-    "stars": 396,
-    "language": null,
-    "updated_at": "2026-11-23T06:00:23Z"
-  },
-  {
-    "name": "descript-pro-win",
-    "full_name": "isanders5152/descript-pro-win",
-    "description": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
-    "url": "https://github.com/isanders5152/descript-pro-win",
-    "stars": 389,
-    "language": null,
-    "updated_at": "2026-11-23T05:54:48Z"
-  },
-  {
     "name": "Pebble_companionchat",
     "full_name": "5235aa-web/Pebble_companionchat",
     "description": "A lightweight, locally-focused, and customizable chat impersonation application",
     "url": "https://github.com/5235aa-web/Pebble_companionchat",
-    "stars": 92,
+    "stars": 95,
     "language": "Python",
-    "updated_at": "2026-11-23T00:14:56Z"
+    "updated_at": "2026-11-23T19:52:49Z"
   },
   {
     "name": "lumo-desktop",
     "full_name": "ProtonLumo/lumo-desktop",
     "description": "The Lumo Desktop codebase",
     "url": "https://github.com/ProtonLumo/lumo-desktop",
-    "stars": 84,
+    "stars": 85,
     "language": "Rust",
-    "updated_at": "2026-11-22T14:47:53Z"
+    "updated_at": "2026-11-23T19:52:53Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-advanced-safety-finops-guide",
+    "full_name": "kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide",
+    "description": "CoreGold 进阶安全运维与 FinOps 治理指南：深度解析如何通过单卡硬限额、动态 AVS 地址对齐与生命周期管理，全面规避海外 AI 订阅的自动续费漏洞与高频脚本死循环风险。",
+    "url": "https://github.com/kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide",
+    "stars": 54,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:12Z"
+  },
+  {
+    "name": "bridge",
+    "full_name": "Manimaran-tech/bridge",
+    "description": "Universal Local-to-Web AI Coding Harness — Connect Local Workspaces to Gemini, Claude, ChatGPT & DeepSeek via Secure MCP",
+    "url": "https://github.com/Manimaran-tech/bridge",
+    "stars": 54,
+    "language": "JavaScript",
+    "updated_at": "2026-11-23T19:23:48Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
+    "full_name": "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
+    "description": "Coregold 银行卡申请、充值以及绑定 Apple Pay 和 Google Pay 的指南",
+    "url": "https://github.com/migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
+    "stars": 53,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:26Z"
+  },
+  {
+    "name": "ai-dialog-manage",
+    "full_name": "haczen/ai-dialog-manage",
+    "description": "一个窗口管住 9 种 AI 编程工具的聊天记录：统一浏览/搜索/编辑，会话转生到其它 AI 工具换目录继续聊，零依赖意识上传包 | Unified AI CLI session manager: browse / search / edit / transplant",
+    "url": "https://github.com/haczen/ai-dialog-manage",
+    "stars": 48,
+    "language": "Python",
+    "updated_at": "2026-11-23T09:09:09Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
+    "full_name": "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
+    "description": "纯小白必看的 USDT 入金实操手册：手把手教你如何通过 OKX 或币安（Binance）使用支付宝/微信快捷买币，并通过 TRC20 网络零手续费充入 CoreGold 后台。",
+    "url": "https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
+    "stars": 46,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:17Z"
+  },
+  {
+    "name": "Anvil",
+    "full_name": "deeeeone/Anvil",
+    "description": "A native macOS coding agent that works with almost any model: diffs, checkpoints, sub-sessions, browser and iOS Simulator tools.",
+    "url": "https://github.com/deeeeone/Anvil",
+    "stars": 45,
+    "language": "Swift",
+    "updated_at": "2026-11-23T12:58:33Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-stripe-radar-avs-bypass-secret",
+    "full_name": "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret",
+    "description": "⚡ 为什么你的双币卡总被拒？一文看懂 Stripe Radar 封锁原理与 CoreGold 破局之道",
+    "url": "https://github.com/modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret",
+    "stars": 44,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:36Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+    "full_name": "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+    "description": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreGold USDT Virtual Cards (VCC).",
+    "url": "https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+    "stars": 42,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:34Z"
   }
 ]
