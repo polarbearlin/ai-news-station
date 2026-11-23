@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22 21:39:02",
+  "generated_at": "2026-11-23 06:00:56",
   "news": [
     {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News",
-      "time": "2026-11-22 13:56",
-      "score": 236,
-      "comments": 56
+      "time": "2026-11-22 21:01",
+      "score": 374,
+      "comments": 156
     }
   ]
 }
