@@ -1,57 +1,21 @@
 [
   {
+    "name": "emulator",
+    "full_name": "Meetsaini/emulator",
+    "description": null,
+    "url": "https://github.com/Meetsaini/emulator",
+    "stars": 338,
+    "language": "HTML",
+    "updated_at": "2026-11-24T03:05:20Z"
+  },
+  {
     "name": "Pebble_companionchat",
     "full_name": "5235aa-web/Pebble_companionchat",
     "description": "A lightweight, locally-focused, and customizable chat impersonation application",
     "url": "https://github.com/5235aa-web/Pebble_companionchat",
-    "stars": 95,
+    "stars": 98,
     "language": "Python",
-    "updated_at": "2026-11-23T19:52:49Z"
-  },
-  {
-    "name": "lumo-desktop",
-    "full_name": "ProtonLumo/lumo-desktop",
-    "description": "The Lumo Desktop codebase",
-    "url": "https://github.com/ProtonLumo/lumo-desktop",
-    "stars": 85,
-    "language": "Rust",
-    "updated_at": "2026-11-23T19:52:53Z"
-  },
-  {
-    "name": "coregold-usdt-vcc-advanced-safety-finops-guide",
-    "full_name": "kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide",
-    "description": "CoreGold 进阶安全运维与 FinOps 治理指南：深度解析如何通过单卡硬限额、动态 AVS 地址对齐与生命周期管理，全面规避海外 AI 订阅的自动续费漏洞与高频脚本死循环风险。",
-    "url": "https://github.com/kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide",
-    "stars": 54,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:12Z"
-  },
-  {
-    "name": "bridge",
-    "full_name": "Manimaran-tech/bridge",
-    "description": "Universal Local-to-Web AI Coding Harness — Connect Local Workspaces to Gemini, Claude, ChatGPT & DeepSeek via Secure MCP",
-    "url": "https://github.com/Manimaran-tech/bridge",
-    "stars": 54,
-    "language": "JavaScript",
-    "updated_at": "2026-11-23T19:23:48Z"
-  },
-  {
-    "name": "coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
-    "full_name": "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
-    "description": "Coregold 银行卡申请、充值以及绑定 Apple Pay 和 Google Pay 的指南",
-    "url": "https://github.com/migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
-    "stars": 53,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:26Z"
-  },
-  {
-    "name": "ai-dialog-manage",
-    "full_name": "haczen/ai-dialog-manage",
-    "description": "一个窗口管住 9 种 AI 编程工具的聊天记录：统一浏览/搜索/编辑，会话转生到其它 AI 工具换目录继续聊，零依赖意识上传包 | Unified AI CLI session manager: browse / search / edit / transplant",
-    "url": "https://github.com/haczen/ai-dialog-manage",
-    "stars": 48,
-    "language": "Python",
-    "updated_at": "2026-11-23T09:09:09Z"
+    "updated_at": "2026-11-24T01:39:52Z"
   },
   {
     "name": "coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
@@ -88,5 +52,41 @@
     "stars": 42,
     "language": null,
     "updated_at": "2026-11-23T11:08:34Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+    "full_name": "danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+    "description": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.",
+    "url": "https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+    "stars": 41,
+    "language": null,
+    "updated_at": "2026-11-23T10:58:28Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
+    "full_name": "tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
+    "description": "围绕 AMD 82 亿美元收购 World Labs 以及李飞飞出任首席科学家推动 3D 与空间智能爆发的热点，拆解 3D/空间 AI 与多模态工具订阅的支付痛点，并给出 CoreGold 虚拟卡极简开卡与数字钱包绑定指南。",
+    "url": "https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
+    "stars": 40,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:42Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
+    "full_name": "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
+    "description": "结合 2026 年双十一 AI 从后台工具走向可交易商品以及跨境电商大促节点，拆解电商与内容团队在多平台工具采购与账单管理中的实用做法，并给出 CoreGold 极简开卡指南。",
+    "url": "https://github.com/leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
+    "stars": 38,
+    "language": null,
+    "updated_at": "2026-11-23T11:09:09Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-multimodal-video-creator-payment-guide",
+    "full_name": "annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide",
+    "description": "结合多模态与视频生成能力持续向更长时长、更低成本演进的行业趋势，梳理内容创作者与出海团队在订阅工具和绑定数字钱包时的实用做法，附 CoreGold 开卡指南。",
+    "url": "https://github.com/annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide",
+    "stars": 36,
+    "language": null,
+    "updated_at": "2026-11-23T11:08:09Z"
   }
 ]
