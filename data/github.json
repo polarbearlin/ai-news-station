@@ -1,92 +1,92 @@
 [
   {
-    "name": "emulator",
-    "full_name": "Meetsaini/emulator",
-    "description": null,
-    "url": "https://github.com/Meetsaini/emulator",
-    "stars": 338,
-    "language": "HTML",
-    "updated_at": "2026-11-24T03:05:20Z"
-  },
-  {
     "name": "Pebble_companionchat",
     "full_name": "5235aa-web/Pebble_companionchat",
     "description": "A lightweight, locally-focused, and customizable chat impersonation application",
     "url": "https://github.com/5235aa-web/Pebble_companionchat",
-    "stars": 98,
+    "stars": 101,
     "language": "Python",
-    "updated_at": "2026-11-24T01:39:52Z"
+    "updated_at": "2026-11-24T16:05:16Z"
   },
   {
-    "name": "coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
-    "full_name": "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
-    "description": "纯小白必看的 USDT 入金实操手册：手把手教你如何通过 OKX 或币安（Binance）使用支付宝/微信快捷买币，并通过 TRC20 网络零手续费充入 CoreGold 后台。",
-    "url": "https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
-    "stars": 46,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:17Z"
+    "name": "claude-code-unlimited",
+    "full_name": "SodovaFo7/claude-code-unlimited",
+    "description": "Rotate Claude Code sessions automatically. Never hit the limit again.",
+    "url": "https://github.com/SodovaFo7/claude-code-unlimited",
+    "stars": 68,
+    "language": "C++",
+    "updated_at": "2026-11-24T04:39:39Z"
   },
   {
-    "name": "Anvil",
-    "full_name": "deeeeone/Anvil",
-    "description": "A native macOS coding agent that works with almost any model: diffs, checkpoints, sub-sessions, browser and iOS Simulator tools.",
-    "url": "https://github.com/deeeeone/Anvil",
-    "stars": 45,
-    "language": "Swift",
-    "updated_at": "2026-11-23T12:58:33Z"
+    "name": "ai-game-coach",
+    "full_name": "mehmetleone50/ai-game-coach",
+    "description": "AI game coach: replay analysis, tips, mistake patterns.",
+    "url": "https://github.com/mehmetleone50/ai-game-coach",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T16:52:59Z"
   },
   {
-    "name": "coregold-usdt-vcc-stripe-radar-avs-bypass-secret",
-    "full_name": "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret",
-    "description": "⚡ 为什么你的双币卡总被拒？一文看懂 Stripe Radar 封锁原理与 CoreGold 破局之道",
-    "url": "https://github.com/modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret",
-    "stars": 44,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:36Z"
+    "name": "ai-tweet-to-video",
+    "full_name": "bNguyen2166/ai-tweet-to-video",
+    "description": "A tweet/post — vertical video with voiceover in a minute.",
+    "url": "https://github.com/bNguyen2166/ai-tweet-to-video",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T16:38:25Z"
   },
   {
-    "name": "coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
-    "full_name": "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
-    "description": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreGold USDT Virtual Cards (VCC).",
-    "url": "https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
-    "stars": 42,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:34Z"
+    "name": "ram-cleaner-ai",
+    "full_name": "BastiaanKang/ram-cleaner-ai",
+    "description": "Smart RAM cleanup: AI decides what to compress or unload — games stay protected.",
+    "url": "https://github.com/BastiaanKang/ram-cleaner-ai",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T14:50:46Z"
   },
   {
-    "name": "coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
-    "full_name": "danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
-    "description": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.",
-    "url": "https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
-    "stars": 41,
-    "language": null,
-    "updated_at": "2026-11-23T10:58:28Z"
+    "name": "ai-reels-remix",
+    "full_name": "RenateFischer/ai-reels-remix",
+    "description": "Remix other people's Reels into yours: voice swap, subtitles, background.",
+    "url": "https://github.com/RenateFischer/ai-reels-remix",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T16:37:07Z"
   },
   {
-    "name": "coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
-    "full_name": "tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
-    "description": "围绕 AMD 82 亿美元收购 World Labs 以及李飞飞出任首席科学家推动 3D 与空间智能爆发的热点，拆解 3D/空间 AI 与多模态工具订阅的支付痛点，并给出 CoreGold 虚拟卡极简开卡与数字钱包绑定指南。",
-    "url": "https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
-    "stars": 40,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:42Z"
+    "name": "ai-shorts-factory",
+    "full_name": "ValejuJa62/ai-shorts-factory",
+    "description": "Shorts/Reels factory: text or article — vertical video.",
+    "url": "https://github.com/ValejuJa62/ai-shorts-factory",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T16:33:29Z"
   },
   {
-    "name": "coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
-    "full_name": "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
-    "description": "结合 2026 年双十一 AI 从后台工具走向可交易商品以及跨境电商大促节点，拆解电商与内容团队在多平台工具采购与账单管理中的实用做法，并给出 CoreGold 极简开卡指南。",
-    "url": "https://github.com/leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
-    "stars": 38,
-    "language": null,
-    "updated_at": "2026-11-23T11:09:09Z"
+    "name": "stream-clips-ai",
+    "full_name": "siriporn484/stream-clips-ai",
+    "description": "AI Stream AutoClipper — ai and autoclipper in one tool.",
+    "url": "https://github.com/siriporn484/stream-clips-ai",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T16:30:14Z"
   },
   {
-    "name": "coregold-usdt-vcc-multimodal-video-creator-payment-guide",
-    "full_name": "annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide",
-    "description": "结合多模态与视频生成能力持续向更长时长、更低成本演进的行业趋势，梳理内容创作者与出海团队在订阅工具和绑定数字钱包时的实用做法，附 CoreGold 开卡指南。",
-    "url": "https://github.com/annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide",
-    "stars": 36,
-    "language": null,
-    "updated_at": "2026-11-23T11:08:09Z"
+    "name": "game-settings-optimizer",
+    "full_name": "XuhaneDaqe78/game-settings-optimizer",
+    "description": "AI picks the best graphics settings for your hardware.",
+    "url": "https://github.com/XuhaneDaqe78/game-settings-optimizer",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T15:32:07Z"
+  },
+  {
+    "name": "live-autoclipper",
+    "full_name": "RagikeSo93/live-autoclipper",
+    "description": "AI Stream AutoClipper — stream and clips in one tool.",
+    "url": "https://github.com/RagikeSo93/live-autoclipper",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-24T16:30:55Z"
   }
 ]

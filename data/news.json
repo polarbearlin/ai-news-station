@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-11-24 04:37:55",
-  "news": []
+  "generated_at": "2026-11-24 19:21:54",
+  "news": [
+    {
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "source": "Hacker News",
+      "time": "2026-11-24 16:32",
+      "score": 188,
+      "comments": 61
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "source": "Hacker News",
+      "time": "2026-11-24 18:55",
+      "score": 33,
+      "comments": 20
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "source": "Hacker News",
+      "time": "2026-11-24 15:03",
+      "score": 98,
+      "comments": 20
+    }
+  ]
 }
