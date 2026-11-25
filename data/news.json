@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-25 13:55:49",
+  "generated_at": "2026-11-25 23:59:52",
   "news": [
     {
-      "title": "Getting old Java phones online again",
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News",
-      "time": "2026-11-24 13:14",
-      "score": 93,
-      "comments": 43
+      "time": "2026-11-25 21:48",
+      "score": 196,
+      "comments": 88
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "source": "Hacker News",
-      "time": "2026-11-25 04:31",
-      "score": 204,
-      "comments": 47
+      "time": "2026-11-22 16:44",
+      "score": 195,
+      "comments": 57
     }
   ]
 }

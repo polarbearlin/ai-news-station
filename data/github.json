@@ -13,9 +13,9 @@
     "full_name": "7wdn/7paws",
     "description": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
     "url": "https://github.com/7wdn/7paws",
-    "stars": 78,
+    "stars": 82,
     "language": "Rust",
-    "updated_at": "2026-11-25T13:13:54Z"
+    "updated_at": "2026-11-25T17:46:23Z"
   },
   {
     "name": "coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
@@ -63,6 +63,24 @@
     "updated_at": "2026-11-25T10:21:44Z"
   },
   {
+    "name": "ai-session-suite",
+    "full_name": "dxu1570/ai-session-suite",
+    "description": "Session rotation suite for ALL AI services — one binary.",
+    "url": "https://github.com/dxu1570/ai-session-suite",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-25T21:35:53Z"
+  },
+  {
+    "name": "old-photo-life",
+    "full_name": "matsumoto4039/old-photo-life",
+    "description": "AI Old Photo Animate — animate and animation in one tool.",
+    "url": "https://github.com/matsumoto4039/old-photo-life",
+    "stars": 66,
+    "language": "C++",
+    "updated_at": "2026-11-25T20:06:11Z"
+  },
+  {
     "name": "coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
     "full_name": "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide",
     "description": "结合 2026 年双十一 AI 从后台工具走向可交易商品以及跨境电商大促节点，拆解电商与内容团队在多平台工具采购与账单管理中的实用做法，并给出 CoreGold 极简开卡指南。",
@@ -70,23 +88,5 @@
     "stars": 65,
     "language": null,
     "updated_at": "2026-11-25T10:21:56Z"
-  },
-  {
-    "name": "coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide",
-    "full_name": "abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide",
-    "description": "结合蚂蚁国际推进 PayNow 深链接跨境电商与数字支付体验升级的热点，对比跨境支付中不同支付方式的使用场景，并给出 CoreGold USDT 虚拟卡极简开卡与 Apple Pay / Google Pay 绑定指南。",
-    "url": "https://github.com/abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide",
-    "stars": 63,
-    "language": null,
-    "updated_at": "2026-11-25T10:21:36Z"
-  },
-  {
-    "name": "coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
-    "full_name": "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
-    "description": "2026 年 11 月企业与开发者大规模部署 Agentic AI、重度用户单月 Token 消耗飙升的行业现状，深度拆解高频 API 自动扣款（Auto-Topup）的底层清算风险、Stripe 风控拦截原理，并提供 CoreGold 极简开卡与预算隔离实操。",
-    "url": "https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
-    "stars": 61,
-    "language": null,
-    "updated_at": "2026-11-25T10:21:39Z"
   }
 ]
