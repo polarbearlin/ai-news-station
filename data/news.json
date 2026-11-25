@@ -1,37 +1,21 @@
 {
-  "generated_at": "2026-11-25 03:22:51",
+  "generated_at": "2026-11-25 13:55:49",
   "news": [
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
       "source": "Hacker News",
-      "time": "2026-11-24 20:08",
-      "score": 366,
-      "comments": 123
+      "time": "2026-11-24 13:14",
+      "score": 93,
+      "comments": 43
     },
     {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
       "source": "Hacker News",
-      "time": "2026-11-25 00:54",
-      "score": 89,
-      "comments": 13
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "source": "Hacker News",
-      "time": "2026-11-24 21:02",
-      "score": 192,
-      "comments": 58
-    },
-    {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "source": "Hacker News",
-      "time": "2026-11-24 16:32",
-      "score": 270,
-      "comments": 138
+      "time": "2026-11-25 04:31",
+      "score": 204,
+      "comments": 47
     }
   ]
 }
