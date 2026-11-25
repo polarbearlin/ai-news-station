@@ -1,29 +1,37 @@
 {
-  "generated_at": "2026-11-24 19:21:54",
+  "generated_at": "2026-11-25 03:22:51",
   "news": [
     {
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "time": "2026-11-24 20:08",
+      "score": 366,
+      "comments": 123
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "time": "2026-11-25 00:54",
+      "score": 89,
+      "comments": 13
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "source": "Hacker News",
+      "time": "2026-11-24 21:02",
+      "score": 192,
+      "comments": 58
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
       "time": "2026-11-24 16:32",
-      "score": 188,
-      "comments": 61
-    },
-    {
-      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-      "source": "Hacker News",
-      "time": "2026-11-24 18:55",
-      "score": 33,
-      "comments": 20
-    },
-    {
-      "title": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "source": "Hacker News",
-      "time": "2026-11-24 15:03",
-      "score": 98,
-      "comments": 20
+      "score": 270,
+      "comments": 138
     }
   ]
 }
