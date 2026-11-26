@@ -4,9 +4,9 @@
     "full_name": "7wdn/7paws",
     "description": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
     "url": "https://github.com/7wdn/7paws",
-    "stars": 105,
+    "stars": 122,
     "language": "Rust",
-    "updated_at": "2026-11-26T07:03:39Z"
+    "updated_at": "2026-11-26T18:30:54Z"
   },
   {
     "name": "Pebble_companionchat",
@@ -18,22 +18,31 @@
     "updated_at": "2026-11-26T05:54:29Z"
   },
   {
-    "name": "coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
-    "full_name": "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
-    "description": "2026 年 11 月企业与开发者大规模部署 Agentic AI、重度用户单月 Token 消耗飙升的行业现状，深度拆解高频 API 自动扣款（Auto-Topup）的底层清算风险、Stripe 风控拦截原理，并提供 CoreGold 极简开卡与预算隔离实操。",
-    "url": "https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
-    "stars": 70,
-    "language": null,
-    "updated_at": "2026-11-26T07:52:01Z"
-  },
-  {
     "name": "coregold-usdt-vcc-multimodal-video-creator-payment-guide",
     "full_name": "annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide",
     "description": "结合多模态与视频生成能力持续向更长时长、更低成本演进的行业趋势，梳理内容创作者与出海团队在订阅工具和绑定数字钱包时的实用做法，附 CoreGold 开卡指南。",
     "url": "https://github.com/annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide",
-    "stars": 70,
+    "stars": 75,
     "language": null,
-    "updated_at": "2026-11-26T07:51:23Z"
+    "updated_at": "2026-11-26T10:35:36Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
+    "full_name": "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
+    "description": "2026 年 11 月企业与开发者大规模部署 Agentic AI、重度用户单月 Token 消耗飙升的行业现状，深度拆解高频 API 自动扣款（Auto-Topup）的底层清算风险、Stripe 风控拦截原理，并提供 CoreGold 极简开卡与预算隔离实操。",
+    "url": "https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive",
+    "stars": 74,
+    "language": null,
+    "updated_at": "2026-11-26T10:36:22Z"
+  },
+  {
+    "name": "coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
+    "full_name": "eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
+    "description": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet binding with CoreGold.",
+    "url": "https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
+    "stars": 68,
+    "language": null,
+    "updated_at": "2026-11-26T10:36:25Z"
   },
   {
     "name": "ai-session-suite",
@@ -54,39 +63,30 @@
     "updated_at": "2026-11-25T20:06:11Z"
   },
   {
-    "name": "coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
-    "full_name": "eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
-    "description": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet binding with CoreGold.",
-    "url": "https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
-    "stars": 63,
-    "language": null,
-    "updated_at": "2026-11-26T07:52:11Z"
-  },
-  {
     "name": "coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
     "full_name": "hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
     "description": "Inspired by November 2026 on-device AI and mobile ecosystem momentum (including Apple's AI health usage study and edge AI integration), this guide explains mobile wallet tokenization, app store billing alignment, and CoreGold setup.",
     "url": "https://github.com/hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
-    "stars": 58,
+    "stars": 63,
     "language": null,
-    "updated_at": "2026-11-26T07:52:34Z"
+    "updated_at": "2026-11-26T10:36:39Z"
   },
   {
     "name": "coregold-usdt-vcc-november-terms-churn-selection-guide",
     "full_name": "visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide",
     "description": "最近虚拟卡行业数据审计曝光 11 月单月就有 23 次条款与福利变动，不少玩家刚充完钱就发现卡段受限或规则变脸——聊聊老玩家挑稳定 VCC 平台的实战经验。",
     "url": "https://github.com/visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide",
-    "stars": 55,
+    "stars": 60,
     "language": null,
-    "updated_at": "2026-11-26T07:09:16Z"
+    "updated_at": "2026-11-26T10:36:12Z"
   },
   {
-    "name": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
-    "full_name": "kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
-    "description": "从 John Deere 收购农业智能体 Orchard AI 到各类垂直 AI SaaS 涌现，越来越多独立开发者在打磨海外产品——聊聊上线前把测试卡、API 账单和数字钱包一次性理顺的实操方法。  Markdown",
-    "url": "https://github.com/kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
-    "stars": 51,
+    "name": "-ai-thesis-writing-platform",
+    "full_name": "blanka-alt/-ai-thesis-writing-platform",
+    "description": "💥 AI论文生成/写作系统源码：开题报告、文献综述、无限改稿、格式排版、降重降AIGC、答辩PPT、科研工具。Vue+SpringBoot+Django；支持OEM白标/商户加盟，旗舰版与PRO双版本。",
+    "url": "https://github.com/blanka-alt/-ai-thesis-writing-platform",
+    "stars": 57,
     "language": null,
-    "updated_at": "2026-11-26T07:51:54Z"
+    "updated_at": "2026-11-26T19:56:26Z"
   }
 ]

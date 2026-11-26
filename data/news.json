@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-26 08:01:01",
+  "generated_at": "2026-11-26 20:58:49",
   "news": [
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
       "source": "Hacker News",
-      "time": "2026-11-25 21:48",
-      "score": 425,
-      "comments": 217
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News",
-      "time": "2026-11-25 21:18",
-      "score": 337,
-      "comments": 288
+      "time": "2026-11-26 07:33",
+      "score": 93,
+      "comments": 76
     }
   ]
 }
