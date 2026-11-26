@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-25 23:59:52",
+  "generated_at": "2026-11-26 08:01:01",
   "news": [
     {
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News",
       "time": "2026-11-25 21:48",
-      "score": 196,
-      "comments": 88
+      "score": 425,
+      "comments": 217
     },
     {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News",
-      "time": "2026-11-22 16:44",
-      "score": 195,
-      "comments": 57
+      "time": "2026-11-25 21:18",
+      "score": 337,
+      "comments": 288
     }
   ]
 }
