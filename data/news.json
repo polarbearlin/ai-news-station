@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-11-26 20:58:49",
+  "generated_at": "2026-11-27 06:59:22",
   "news": [
     {
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "source": "Hacker News",
-      "time": "2026-11-26 07:33",
-      "score": 93,
-      "comments": 76
+      "time": "2026-11-27 05:22",
+      "score": 62,
+      "comments": 36
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "time": "2026-11-26 21:47",
+      "score": 548,
+      "comments": 283
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "source": "Hacker News",
+      "time": "2026-11-27 06:44",
+      "score": 5,
+      "comments": 0
     }
   ]
 }
