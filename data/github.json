@@ -4,18 +4,18 @@
     "full_name": "7wdn/7paws",
     "description": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
     "url": "https://github.com/7wdn/7paws",
-    "stars": 155,
+    "stars": 158,
     "language": "Rust",
-    "updated_at": "2026-11-27T17:50:41Z"
+    "updated_at": "2026-11-28T01:12:27Z"
   },
   {
     "name": "-ai-thesis-writing-platform",
     "full_name": "blanka-alt/-ai-thesis-writing-platform",
     "description": "💥AI论文系统 / AI论文写作平台源码：AI论文、毕业论文、AI写作、智能写作、写作系统、论文系统源码。Vue+SpringBoot+Django；支持OEM白标/商户加盟。",
     "url": "https://github.com/blanka-alt/-ai-thesis-writing-platform",
-    "stars": 82,
+    "stars": 101,
     "language": null,
-    "updated_at": "2026-11-27T17:27:05Z"
+    "updated_at": "2026-11-28T02:15:28Z"
   },
   {
     "name": "coregold-usdt-vcc-november-terms-churn-selection-guide",
@@ -27,6 +27,15 @@
     "updated_at": "2026-11-27T10:02:13Z"
   },
   {
+    "name": "ai-visual-prompt-cookbook",
+    "full_name": "SenpaiSpide664/ai-visual-prompt-cookbook",
+    "description": "AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation",
+    "url": "https://github.com/SenpaiSpide664/ai-visual-prompt-cookbook",
+    "stars": 69,
+    "language": "HTML",
+    "updated_at": "2026-11-28T02:29:49Z"
+  },
+  {
     "name": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
     "full_name": "kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
     "description": "从 John Deere 收购农业智能体 Orchard AI 到各类垂直 AI SaaS 涌现，越来越多独立开发者在打磨海外产品——聊聊上线前把测试卡、API 账单和数字钱包一次性理顺的实操方法。  Markdown",
@@ -34,6 +43,15 @@
     "stars": 68,
     "language": null,
     "updated_at": "2026-11-27T10:02:06Z"
+  },
+  {
+    "name": "interview-copilot",
+    "full_name": "Birubhai1964/interview-copilot",
+    "description": "Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
+    "url": "https://github.com/Birubhai1964/interview-copilot",
+    "stars": 67,
+    "language": "HTML",
+    "updated_at": "2026-11-28T02:19:17Z"
   },
   {
     "name": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
@@ -54,39 +72,21 @@
     "updated_at": "2026-11-27T10:02:24Z"
   },
   {
+    "name": "final-round-ai-desktop",
+    "full_name": "thebodytheory01-commits/final-round-ai-desktop",
+    "description": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
+    "url": "https://github.com/thebodytheory01-commits/final-round-ai-desktop",
+    "stars": 65,
+    "language": "HTML",
+    "updated_at": "2026-11-28T02:18:53Z"
+  },
+  {
     "name": "ai-session-suite",
     "full_name": "dxu1570/ai-session-suite",
     "description": "Session rotation suite for ALL AI services — one binary.",
     "url": "https://github.com/dxu1570/ai-session-suite",
-    "stars": 66,
+    "stars": 65,
     "language": "C++",
-    "updated_at": "2026-11-25T21:35:53Z"
-  },
-  {
-    "name": "old-photo-life",
-    "full_name": "matsumoto4039/old-photo-life",
-    "description": "AI Old Photo Animate — animate and animation in one tool.",
-    "url": "https://github.com/matsumoto4039/old-photo-life",
-    "stars": 66,
-    "language": "C++",
-    "updated_at": "2026-11-25T20:06:11Z"
-  },
-  {
-    "name": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
-    "full_name": "keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
-    "description": "11 月 22 日 OpenAI 刚发布 Perplexity 模型评估框架，端侧边缘小模型也在密集刷屏——开发者在跑多账号模型评测、拉取海外接口时，最容易踩的“多号同卡关联”雷区该怎么避？",
-    "url": "https://github.com/keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
-    "stars": 63,
-    "language": null,
-    "updated_at": "2026-11-27T10:08:23Z"
-  },
-  {
-    "name": "upasarathi",
-    "full_name": "HimanshuMohanty-Git24/upasarathi",
-    "description": "UpaSārathi (उपसारथि): the 13 Principal Upanishads as a knowledge graph you can read, hear and ask, and a harness that tests whether AI tells you what you want to hear.",
-    "url": "https://github.com/HimanshuMohanty-Git24/upasarathi",
-    "stars": 59,
-    "language": "TypeScript",
-    "updated_at": "2026-11-27T16:25:54Z"
+    "updated_at": "2026-11-28T00:20:27Z"
   }
 ]
